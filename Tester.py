@@ -8,6 +8,8 @@ from nltk.corpus import stopwords
 from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize, sent_tokenize
 
+from freq_ranker import freq_ranker
+
 baseDir = "E:\College\IR\Entity"
 jsonDir = "tagged_dataset"
 jsonFiles = os.listdir(os.path.join(baseDir, jsonDir))
@@ -68,8 +70,8 @@ for file in jsonFiles:
 
   # expected return type - dict containg the primary entities
   # of each type - LOC, ORG, PER with the these specific key names
-  custom_relev_entities = custom_entity_detect_func(sent_ent_list,
-                          sentence_list, content)
+  custom_relev_entities = freq_ranker(sent_ent_list,
+                              sentence_list, content)
 
   # evaluate the custom function
   json_format = {
