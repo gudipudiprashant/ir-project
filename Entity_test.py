@@ -61,13 +61,12 @@ def processSegment(segment, stop_words):
 class Tester:
   def __init__(self, custom_entity_detect_func, baseDir=def_baseDir, size=-1, 
     stop=True, tagger="Stanford", eval_NER=True, custom_param={}):
-    eval_ = 
     self.baseDir = baseDir
     self.test_sz = size
     self.stopFlag = stop
     self.tagger = tagger
     self.eval_ = {
-                    "precision" : eval_dict,
+                    "precision" : copy.deepcopy(eval_dict),
                     "recall"    : copy.deepcopy(eval_dict),
                     "f_measure" : copy.deepcopy(eval_dict),
                   }
@@ -181,7 +180,7 @@ class Tester:
 
         temp_set = set([ent.lower() for ent in custom_relev_entities[ent_type]])
         common = len(relev_ent.intersection(temp_set))
-        # print (ent_type, relev_ent, temp_set)
+        print (ent_type, relev_ent, temp_set)
         # CHECK IF PRECISION hsould be 1 or 0 in the edge case
         if len(temp_set) > 0:
           precision = common/len(temp_set)
@@ -207,7 +206,7 @@ class Tester:
       if print_flag:
         print("Entity Type: --------------------", ent_type, "--------------------\n")
       # Calculate the average of the performance metrics
-      for measure in eval_.keys():
+      for measure in self.eval_.keys():
         self.eval_[measure][ent_type] = (sum(self.eval_[measure][ent_type])/
           len(self.eval_[measure][ent_type]))
 
