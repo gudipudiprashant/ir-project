@@ -27,7 +27,6 @@ eval_ = {
 
 
 
-
 # returns all the entities in the given list in lower-case.
 def get_all_entities(sent_ent_list):
   ner_entities =  {
@@ -35,7 +34,11 @@ def get_all_entities(sent_ent_list):
                     "ORG" : [],
                     "PER" : [],
                   }
-  mapper = {"LOCATION": "LOC", "ORGANIZATION": "ORG", "PERSON": "PER"}
+  mapper = {
+  "LOCATION": "LOC", "ORGANIZATION": "ORG", "PERSON": "PER",
+  "NORP": "ORG", "FACILITY":  "ORG", "ORG": "ORG", "GPE": "LOC",
+  "LOC": "LOC"
+  }
   # join the entities and put them in the corresponding class
   for sent in sent_ent_list:
     i = 0
@@ -79,9 +82,11 @@ class Tester:
     jsonDir = "tagged_dataset"
     jsonFiles = os.listdir(os.path.join(self.baseDir, jsonDir))
     test_ctr = 0
+    if self.tagger == "spacy":
+      nlp = spacy.load('en')
 
     for file in jsonFiles:
-      # t1 = time.time()
+      t1 = time.time()
       if self.test_sz != -1 and test_ctr >= self.test_sz:
         break
       test_ctr += 1
@@ -102,37 +107,45 @@ class Tester:
       if self.stopFlag:
         stop_words = set(stopwords.words('english'))
 
-      # tokenize and removve stop words
-      sentence_tokens_list = [processSegment(sent,
-        stop_words) for sent in sentence_list]
+      # each element is a list containing the tuples -
+      # (word, entity_type, position in text) for each sentence
+      sent_ent_list = []
 
       if self.tagger == "Stanford":
+        # tokenize and removve stop words
+        sentence_tokens_list = [processSegment(sent,
+          stop_words) for sent in sentence_list]
         # stanford - ner tagger
         st_tagger = StanfordNERTagger(os.path.join(self.baseDir,
           'stanford-ner/classifiers/english.all.3class.distsim.crf.ser.gz'),
                               os.path.join(self.baseDir,
                               'stanford-ner/stanford-ner.jar'))
+
+        pos = 1
+        sent_ent_list = st_tagger.tag_sents(sentence_tokens_list)
+        for i, sent in enumerate(sent_ent_list):
+          # add global position of each entity
+          for j, elem in enumerate(sent):
+            elem = (elem[0], elem[1], pos)
+            pos += 1
+            sent[j] = elem
+          sent_ent_list[i] = sent
+
+
       else:
         # spacy
-        pass
-
-      # each element is a list containing the tuples -
-      # (word, entity_type, position in text) for each sentence
-      sent_ent_list = []
-
-      pos = 1
-      sent_ent_list = st_tagger.tag_sents(sentence_tokens_list)
-      for i, sent in enumerate(sent_ent_list):
-        # add global position of each entity
-        for j, elem in enumerate(sent):
-          elem = (elem[0], elem[1], pos)
-          pos += 1
-          sent[j] = elem
-        sent_ent_list[i] = sent
-
+        sent_ent_list = []
+        pos = 1
+        for i in range(len(sentence_list)):
+          sentence_list[i] = nlp(sentence_list[i])
+          temp_list = []
+          for word in sentence_list[i]:
+            temp_list.append((word.text, word.ent_type_, pos))
+            pos += 1
+          sent_ent_list.append(temp_list)
       # expected return type - dict containg the primary entities
       # of each type - LOC, ORG, PER with the these specific key names
-      # print("TIME BEFORE CUSTOM FUNC: %s" %(time.time() - t1))
+      print("TIME BEFORE CUSTOM FUNC: %s" %(time.time() - t1))
       custom_relev_entities = self.custom_entity_detect_func(sent_ent_list,
                               sentence_list, content, self.custom_param)
 
@@ -170,6 +183,7 @@ class Tester:
 
         temp_set = set([ent.lower() for ent in custom_relev_entities[ent_type]])
         common = len(relev_ent.intersection(temp_set))
+        # print (ent_type, relev_ent, temp_set)
         # CHECK IF PRECISION hsould be 1 or 0 in the edge case
         if len(temp_set) > 0:
           precision = common/len(temp_set)
