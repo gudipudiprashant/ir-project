@@ -6,7 +6,7 @@ from Entity_test import Tester, get_all_entities
 
 def custom_freq_func(sent_ent_list, sentence_list, content,
   custom_param):
-  t1 = time.time()
+  # t1 = time.time()
   relev_entitites = get_all_entities(sent_ent_list)
 
   threshold = custom_param.get("threshold", 2)
@@ -25,12 +25,12 @@ def custom_freq_func(sent_ent_list, sentence_list, content,
         relev.append(ent)
     relev_entitites[typ] = relev
   
-  print("Time taken: %s" %(time.time() - t1))
+  # print("Time taken: %s" %(time.time() - t1))
   return relev_entitites
 
 
 def main():
-  tester = Tester(custom_freq_func, size=10, stop=False, tagger="spacy")
+  tester = Tester(custom_freq_func, size=10, stop=False,)
   tester.test()
   tester.score(True)
 

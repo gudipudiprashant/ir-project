@@ -3,7 +3,6 @@
 # Data set needs to be prepared and passed
 import copy
 import json
-import spacy
 import os
 import time
 
@@ -53,21 +52,39 @@ def processSegment(segment, stop_words):
   # tempSegment = pattern.sub(" ", segment)
   # tempSegment = tempSegment.split()
   tempSegment = [word for word in tempSegment if not word in stop_words]
-
   return tempSegment
+
+def add_position_ent_list(sent_ent_list):
+  pos = 1
+  for i, sent in enumerate(sent_ent_list):
+    # add global position of each entity
+    for j, elem in enumerate(sent):
+      elem = (elem[0], elem[1], pos)
+      pos += 1
+      sent[j] = elem
+    sent_ent_list[i] = sent
+  return sent_ent_list
+
+def get_clean_sentences(content):
+  sentence_list = sent_tokenize(content)
+  # Removing noisy sentences
+  temp_list = []
+  for sent in sentence_list:
+    if len(sent) > 2:
+      temp_list.append(sent)
+  return temp_list
 
 
 # Class for the testing framework
 class Tester:
   def __init__(self, custom_entity_detect_func, baseDir=def_baseDir, size=-1, 
     stop=True, tagger="Stanford", eval_NER=True, custom_param={}):
-    eval_ = 
     self.baseDir = baseDir
     self.test_sz = size
     self.stopFlag = stop
     self.tagger = tagger
     self.eval_ = {
-                    "precision" : eval_dict,
+                    "precision" : copy.deepcopy(eval_dict),
                     "recall"    : copy.deepcopy(eval_dict),
                     "f_measure" : copy.deepcopy(eval_dict),
                   }
@@ -79,60 +96,86 @@ class Tester:
   def test(self):
     jsonDir = "tagged_dataset"
     jsonFiles = os.listdir(os.path.join(self.baseDir, jsonDir))
+
+    # stop-words optional
+    stop_words = set([])
+    if self.stopFlag:
+      stop_words = set(stopwords.words('english'))
+
     test_ctr = 0
+    
+    t1 = time.time()
+
+    if self.tagger == "Stanford":
+      # stanford - ner tagger
+      st_tagger = StanfordNERTagger(os.path.join(self.baseDir,
+        'stanford-ner/classifiers/english.all.3class.distsim.crf.ser.gz'),
+                            os.path.join(self.baseDir,
+                            'stanford-ner/stanford-ner.jar'))
+      # work on batch_sz files each time
+      # can make this a custom parameter
+      batch_sz = 50
+      break_flag = False
+      for ii in range(0, len(jsonFiles), batch_sz):
+        json_dict_list = []
+        all_sentences_list = []
+        all_sent_tokens_list = []
+        
+        for test_ctr in range(ii, ii + batch_sz):
+          t1 = time.time()
+          if self.test_sz != -1 and test_ctr >= self.test_sz:
+            break_flag = True
+            break
+          # Load the json tagged dataset
+          file = jsonFiles[test_ctr]
+          json_dict = json.load(open(os.path.join(self.baseDir, jsonDir, file)))
+          # get the content
+          content = json_dict["content"]
+          json_dict_list.append(json_dict)
+          # get individual sentences
+          sentence_list = get_clean_sentences(content)
+          all_sentences_list.append(sentence_list)
+          # break down sentences to tokens for the Stanford NER tagger
+          all_sent_tokens_list += [processSegment(sent,
+                      stop_words) for sent in sentence_list]
+
+        all_sent_ent_list = st_tagger.tag_sents(all_sent_tokens_list)
+        # print(all_sent_ent_list)
+        file_start = 0
+        for i, sentence_list in enumerate(all_sentences_list):
+          # Retrieve each file's sentence_entity_list :
+          # each element is a list containing the tuples -
+          # (word, entity_type, position in text) for each sentence
+          sent_ent_list = all_sent_ent_list[file_start : file_start+len(sentence_list)]
+          file_start += len(sentence_list)
+          sent_ent_list = add_position_ent_list(sent_ent_list)
+          # print("TIME BEFORE CUSTOM FUNC: %s" %(time.time() - t1))
+          custom_relev_entities = self.custom_entity_detect_func(sent_ent_list,
+                                  sentence_list, json_dict_list[i], self.custom_param)
+          # t1 = time.time()
+          self.evaluate(custom_relev_entities, json_dict_list[i], sent_ent_list)
+          # print("TIME TO EVALUATE: %s" %(time.time() - t1))
+        if break_flag:
+          break
+
+
     if self.tagger == "spacy":
+      import spacy
       nlp = spacy.load('en')
 
-    for file in jsonFiles:
-      t1 = time.time()
-      if self.test_sz != -1 and test_ctr >= self.test_sz:
-        break
-      test_ctr += 1
+      for file in jsonFiles:
+        if self.test_sz != -1 and test_ctr >= self.test_sz:
+          break
+        test_ctr += 1
 
-      json_dict = json.load(open(os.path.join(self.baseDir, jsonDir, file)))
-      content = json_dict["content"]
+        json_dict = json.load(open(os.path.join(self.baseDir, jsonDir, file)))
+        content = json_dict["content"]
 
-      sentence_list = sent_tokenize(content)
-      # Removing noisy sentences
-      temp_list = []
-      for sent in sentence_list:
-        if len(sent) > 2:
-          temp_list.append(sent)
-      sentence_list = temp_list
-
-      # stop-words optional
-      stop_words = set([])
-      if self.stopFlag:
-        stop_words = set(stopwords.words('english'))
-
-      # each element is a list containing the tuples -
-      # (word, entity_type, position in text) for each sentence
-      sent_ent_list = []
-
-      if self.tagger == "Stanford":
-        # tokenize and removve stop words
-        sentence_tokens_list = [processSegment(sent,
-          stop_words) for sent in sentence_list]
-        # stanford - ner tagger
-        st_tagger = StanfordNERTagger(os.path.join(self.baseDir,
-          'stanford-ner/classifiers/english.all.3class.distsim.crf.ser.gz'),
-                              os.path.join(self.baseDir,
-                              'stanford-ner/stanford-ner.jar'))
-
-        pos = 1
-        sent_ent_list = st_tagger.tag_sents(sentence_tokens_list)
-        for i, sent in enumerate(sent_ent_list):
-          # add global position of each entity
-          for j, elem in enumerate(sent):
-            elem = (elem[0], elem[1], pos)
-            pos += 1
-            sent[j] = elem
-          sent_ent_list[i] = sent
-
-
-      else:
-        # spacy
+        sentence_list = get_clean_sentences(content)
+        # each element is a list containing the tuples -
+        # (word, entity_type, position in text) for each sentence
         sent_ent_list = []
+
         pos = 1
         for i in range(len(sentence_list)):
           sentence_list[i] = nlp(sentence_list[i])
@@ -141,15 +184,12 @@ class Tester:
             temp_list.append((word.text, word.ent_type_, pos))
             pos += 1
           sent_ent_list.append(temp_list)
-      # expected return type - dict containg the primary entities
-      # of each type - LOC, ORG, PER with the these specific key names
-      print("TIME BEFORE CUSTOM FUNC: %s" %(time.time() - t1))
-      custom_relev_entities = self.custom_entity_detect_func(sent_ent_list,
-                              sentence_list, content, self.custom_param)
-
-      t1 = time.time()
-      self.evaluate(custom_relev_entities, json_dict, sent_ent_list)
-      print("TIME TO EVALUATE: %s" %(time.time() - t1))
+        # print("TIME BEFORE CUSTOM FUNC: %s" %(time.time() - t1))
+        custom_relev_entities = self.custom_entity_detect_func(sent_ent_list,
+                                sentence_list, content, self.custom_param)
+        # t1 = time.time()
+        self.evaluate(custom_relev_entities, json_dict, sent_ent_list)
+        # print("TIME TO EVALUATE: %s" %(time.time() - t1))
 
 
   # Measure the precision, recall and f1 for the given file
@@ -207,7 +247,7 @@ class Tester:
       if print_flag:
         print("Entity Type: --------------------", ent_type, "--------------------\n")
       # Calculate the average of the performance metrics
-      for measure in eval_.keys():
+      for measure in self.eval_.keys():
         self.eval_[measure][ent_type] = (sum(self.eval_[measure][ent_type])/
           len(self.eval_[measure][ent_type]))
 
