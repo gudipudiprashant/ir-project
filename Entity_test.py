@@ -221,7 +221,7 @@ class Tester:
 
         temp_set = set([ent.lower() for ent in custom_relev_entities[ent_type]])
         common = len(relev_ent.intersection(temp_set))
-        # print (ent_type, relev_ent, temp_set)
+        print (ent_type, relev_ent, temp_set)
         # CHECK IF PRECISION hsould be 1 or 0 in the edge case
         if len(temp_set) > 0:
           precision = common/len(temp_set)
