@@ -10,7 +10,7 @@ from nltk.corpus import stopwords
 from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize, sent_tokenize
 
-def_baseDir = "E:\College\IR\Entity"
+def_baseDir = "/home/prashant/Desktop/semester 7/ir/"
 
 def processSegment(segment, stop_words):
   tempSegment = word_tokenize(segment)
