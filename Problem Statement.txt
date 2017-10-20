@@ -1,0 +1,26 @@
+Problem Statement:
+-----------------
+Extract relevant entities from an article, which is from a specific domain.
+The domain chosen is terrrorist attacks.
+
+Definitions:
+------------
+1.  Entity: A Person, Location, Organization, Time, Collection or domain specific terms.
+2.  Relevant: Dates(event date or article date), or entities that are directly affected by or contribute to the event are relevant.
+
+Motivation:
+-----------
+Some use-cases for the solution of this problem are:
+1.  Article Summarization
+2.  Grouping related articles.
+3.  Describing the event
+4.  Information retrieval of relevant articles using entity as a query.
+
+Solution Approach:
+------------------
+Entities that answer the questions: Who, What, When, Where about the event are relevant entities.
+These questions may need to be framed using domain-specific terms, such as "who is the accused?" in the case of terror attacks.
+
+Evaluation:
+-----------
+The "ground-truth" entities must describe the event, not necessarily help in recognition. They must also satisfy the above "relevant" and "entity" definitions.
