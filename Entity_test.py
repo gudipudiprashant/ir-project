@@ -19,13 +19,6 @@ eval_dict = {
       "PER" : []
       }
 
-eval_ = {
-  "precision" : eval_dict,
-  "recall"    : copy.deepcopy(eval_dict),
-  "f_measure" : copy.deepcopy(eval_dict),
-}
-
-
 
 # returns all the entities in the given list in lower-case.
 def get_all_entities(sent_ent_list):
@@ -68,11 +61,16 @@ def processSegment(segment, stop_words):
 class Tester:
   def __init__(self, custom_entity_detect_func, baseDir=def_baseDir, size=-1, 
     stop=True, tagger="Stanford", eval_NER=True, custom_param={}):
+    eval_ = 
     self.baseDir = baseDir
     self.test_sz = size
     self.stopFlag = stop
     self.tagger = tagger
-    self.eval_ = eval_
+    self.eval_ = {
+                    "precision" : eval_dict,
+                    "recall"    : copy.deepcopy(eval_dict),
+                    "f_measure" : copy.deepcopy(eval_dict),
+                  }
     self.custom_entity_detect_func = custom_entity_detect_func
     # Evaluates only the Entities returned by NER as ground truth
     self.eval_NER = eval_NER
