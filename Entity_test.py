@@ -64,7 +64,7 @@ def processSegment(segment, stop_words):
 # Class for the testing framework
 class Tester:
   def __init__(self, custom_entity_detect_func, baseDir=def_baseDir, size=-1, 
-    stop=True, tagger="Stanford", eval_NER=True):
+    stop=True, tagger="Stanford", eval_NER=True, custom_param={}):
     self.baseDir = baseDir
     self.test_sz = size
     self.stopFlag = stop
@@ -73,6 +73,7 @@ class Tester:
     self.custom_entity_detect_func = custom_entity_detect_func
     # Evaluates only the Entities returned by NER as ground truth
     self.eval_NER = eval_NER
+    self.custom_param = custom_param
 
   def test(self):
     jsonDir = "tagged_dataset"
@@ -133,7 +134,7 @@ class Tester:
       # of each type - LOC, ORG, PER with the these specific key names
       # print("TIME BEFORE CUSTOM FUNC: %s" %(time.time() - t1))
       custom_relev_entities = self.custom_entity_detect_func(sent_ent_list,
-                              sentence_list, content)
+                              sentence_list, content, self.custom_param)
 
       t1 = time.time()
       self.evaluate(custom_relev_entities, json_dict, sent_ent_list)
