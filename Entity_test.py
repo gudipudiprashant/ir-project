@@ -57,6 +57,12 @@ class Tester:
       content = json_dict["content"]
 
       sentence_list = sent_tokenize(content)
+      # Removing noisy sentences
+      temp_list = []
+      for sent in sentence_list:
+        if len(sent) > 2:
+          temp_list.append(sent)
+      sentence_list = temp_list
 
       # stop-words optional
       stop_words = set([])
