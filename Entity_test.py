@@ -48,6 +48,7 @@ class Tester:
     test_ctr = 0
 
     for file in jsonFiles:
+      print(file)
       t1 = time.time()
       if self.test_sz != -1 and test_ctr >= self.test_sz:
         break
@@ -117,15 +118,25 @@ class Tester:
 
       for ent_type in json_format.keys():
         relev_ent = []
+
+        print("--------------------------------------------")
+        print(ent_type)
+        
+
         for ent in json_dict[ent_type]:
           if ent[2] == json_format[ent_type]:
             # convert to lower
             relev_ent.append(ent[0].lower())
 
         relev_ent = set(relev_ent)
-        # print (relev_ent)
+
         temp_set = set(custom_relev_entities[ent_type])
         common = len(relev_ent.intersection(temp_set))
+
+        print (relev_ent)
+        print()
+        print(temp_set)
+
         # CHECK IF CORRECT
         if len(temp_set) > 0:
           precision = common/len(temp_set)
