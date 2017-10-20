@@ -3,6 +3,7 @@
 # Data set needs to be prepared and passed
 import copy
 import json
+import spacy
 import os
 import time
 
@@ -10,15 +11,7 @@ from nltk.corpus import stopwords
 from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize, sent_tokenize
 
-def_baseDir = "/home/prashant/Desktop/semester 7/ir/"
-
-def processSegment(segment, stop_words):
-  tempSegment = word_tokenize(segment)
-  # tempSegment = pattern.sub(" ", segment)
-  # tempSegment = tempSegment.split()
-  tempSegment = [word for word in tempSegment if not word in stop_words]
-
-  return tempSegment
+def_baseDir = "E:\College\IR\Entity"
 
 eval_dict = {
       "LOC" : [],
@@ -32,15 +25,54 @@ eval_ = {
   "f_measure" : copy.deepcopy(eval_dict),
 }
 
+
+
+
+# returns all the entities in the given list in lower-case.
+def get_all_entities(sent_ent_list):
+  ner_entities =  {
+                    "LOC" : [],
+                    "ORG" : [],
+                    "PER" : [],
+                  }
+  mapper = {"LOCATION": "LOC", "ORGANIZATION": "ORG", "PERSON": "PER"}
+  # join the entities and put them in the corresponding class
+  for sent in sent_ent_list:
+    i = 0
+    while i < len(sent):
+      joined_ent = sent[i][0]
+      typ = sent[i][1]
+      if typ != "O":
+        while i+1 < len(sent) and sent[i+1][1] == typ:
+          joined_ent += " " + sent[i+1][0]
+          i += 1
+      if typ in mapper.keys(): 
+        ner_entities[mapper[typ]].append(joined_ent.lower())
+      i += 1
+
+  return ner_entities
+
+def processSegment(segment, stop_words):
+  tempSegment = word_tokenize(segment)
+  # tempSegment = pattern.sub(" ", segment)
+  # tempSegment = tempSegment.split()
+  tempSegment = [word for word in tempSegment if not word in stop_words]
+
+  return tempSegment
+
+
+# Class for the testing framework
 class Tester:
   def __init__(self, custom_entity_detect_func, baseDir=def_baseDir, size=-1, 
-    stop=True, tagger="Stanford"):
+    stop=True, tagger="Stanford", eval_NER=True):
     self.baseDir = baseDir
     self.test_sz = size
     self.stopFlag = stop
     self.tagger = tagger
     self.eval_ = eval_
     self.custom_entity_detect_func = custom_entity_detect_func
+    # Evaluates only the Entities returned by NER as ground truth
+    self.eval_NER = eval_NER
 
   def test(self):
     jsonDir = "tagged_dataset"
@@ -48,8 +80,7 @@ class Tester:
     test_ctr = 0
 
     for file in jsonFiles:
-      print(file)
-      t1 = time.time()
+      # t1 = time.time()
       if self.test_sz != -1 and test_ctr >= self.test_sz:
         break
       test_ctr += 1
@@ -100,44 +131,45 @@ class Tester:
 
       # expected return type - dict containg the primary entities
       # of each type - LOC, ORG, PER with the these specific key names
-      print("TIME BEFORE CUSTOM FUNC: %s" %(time.time() - t1))
+      # print("TIME BEFORE CUSTOM FUNC: %s" %(time.time() - t1))
       custom_relev_entities = self.custom_entity_detect_func(sent_ent_list,
                               sentence_list, content)
 
       t1 = time.time()
-      self.evaluate(custom_relev_entities, json_dict)
+      self.evaluate(custom_relev_entities, json_dict, sent_ent_list)
       print("TIME TO EVALUATE: %s" %(time.time() - t1))
+
+
   # Measure the precision, recall and f1 for the given file
-  def evaluate(self, custom_relev_entities, json_dict):
-      # evaluate the custom function
+  def evaluate(self, custom_relev_entities, json_dict, sent_ent_list):
+    # Format of relevant entities as marked in the tagged json files
       json_format = {
             "LOC"   : "Event",
             "ORG"   : "Accused",
             "PER"   : "Accused",
       }
 
+      if self.eval_NER:
+        ner_entities = get_all_entities(sent_ent_list)
+      
       for ent_type in json_format.keys():
         relev_ent = []
-
-        print("--------------------------------------------")
-        print(ent_type)
-        
-
         for ent in json_dict[ent_type]:
           if ent[2] == json_format[ent_type]:
             # convert to lower
             relev_ent.append(ent[0].lower())
 
         relev_ent = set(relev_ent)
+        # Evaluates the custom function on the restricted set
+        # of entities - the ground truth/tagged relevant entities
+        # intersection with the NER entities to better understand
+        # the shortcomings of the custom function
+        if self.eval_NER:
+          relev_ent = relev_ent.intersection(ner_entities[ent_type])
 
-        temp_set = set(custom_relev_entities[ent_type])
+        temp_set = set([ent.lower() for ent in custom_relev_entities[ent_type]])
         common = len(relev_ent.intersection(temp_set))
-
-        print (relev_ent)
-        print()
-        print(temp_set)
-
-        # CHECK IF CORRECT
+        # CHECK IF PRECISION hsould be 1 or 0 in the edge case
         if len(temp_set) > 0:
           precision = common/len(temp_set)
         else:
@@ -157,11 +189,18 @@ class Tester:
 
   # Measures the average precision, recall and f1 measure of the custom entity
   # detect function for the given data set
-  def score(self):
+  def score(self, print_flag=False):
     for ent_type in eval_dict.keys():
-      print("Entity Type: --------------------", ent_type, "--------------------\n")
+      if print_flag:
+        print("Entity Type: --------------------", ent_type, "--------------------\n")
+      # Calculate the average of the performance metrics
       for measure in eval_.keys():
-        print("Average %s: %s" %(measure, 
-          sum(self.eval_[measure][ent_type])/len(self.eval_[measure][ent_type]) 
-          ))
-      print("\n")
+        self.eval_[measure][ent_type] = (sum(self.eval_[measure][ent_type])/
+          len(self.eval_[measure][ent_type]))
+
+        if print_flag:
+          print("Average %s: %s" %(measure, self.eval_[measure][ent_type]))
+      if print_flag:
+        print("\n")
+
+    return self.eval_
