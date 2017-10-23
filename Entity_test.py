@@ -128,6 +128,10 @@ class Tester:
             break
           # Load the json tagged dataset
           file = jsonFiles[test_ctr]
+          print()
+          print("FILENAME:")
+          print(file)
+          print()
           json_dict = json.load(open(os.path.join(self.baseDir, jsonDir, file)))
           # get the content
           content = json_dict["content"]

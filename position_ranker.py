@@ -18,14 +18,13 @@ def custom_pos_func(sent_ent_list, sentence_list, content, custom_param):
   # the article, and the number of new relevant entities decreases as the article
   # goes on. 
 
-  # So the method is to find the number of new entities per sentence. We assume that
-  # the number of entities will drop down smoothly (like an exponential curve for now).
-  # So using this assumption, having a threshold of 1/e of the top sentence is chosen.
+  # Initial implementation is to use a parameter for the number of sentences as threshold.
 
   ent_set = set()
   sent_counter = 0
 
   new_entity_count_list = []
+  sentence_threshold = custom_param["threshold"]
 
   for sent in sent_ent_list:
     i = 0
@@ -48,8 +47,10 @@ def custom_pos_func(sent_ent_list, sentence_list, content, custom_param):
 
     # print(sentence_list[sent_counter])
     sent_counter += 1
-    print(count_new_entities)
-    print(new_entity_list)
+    if(sent_counter >= sentence_threshold):
+      break
+    # print(count_new_entities)
+    # print(new_entity_list)
 
 
   for sent_new_entity_list in new_entity_count_list:
