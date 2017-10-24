@@ -20,16 +20,16 @@ eval_dict = {
 
 
 # returns all the entities in the given list in lower-case.
-def get_all_entities(sent_ent_list, extra=False):
+def get_all_entities(sent_ent_list, extra = False):
   ner_entities =  {
                     "LOC" : [],
                     "ORG" : [],
                     "PER" : [],
                   }
   mapper = {
-  "LOCATION": "LOC", "ORGANIZATION": "ORG", "PERSON": "PER",
-  "NORP": "ORG", "FACILITY":  "ORG", "ORG": "ORG", "GPE": "LOC",
-  "LOC": "LOC"
+    "LOCATION": "LOC", "ORGANIZATION": "ORG", "PERSON": "PER",
+    "NORP": "ORG", "FACILITY":  "ORG", "ORG": "ORG", "GPE": "LOC",
+    "LOC": "LOC"
   }
   # join the entities and put them in the corresponding class
   for sent_num, sent in enumerate(sent_ent_list):
@@ -41,11 +41,11 @@ def get_all_entities(sent_ent_list, extra=False):
         while i+1 < len(sent) and sent[i+1][1] == typ:
           joined_ent += " " + sent[i+1][0]
           i += 1
-      if typ in mapper.keys():       
+      if typ in mapper.keys(): 
         if extra:
           # appends(entity, sentence number, position in doc)
           ner_entities[mapper[typ]].append((joined_ent.lower(), sent_num, i))
-        else:
+        else:  
           ner_entities[mapper[typ]].append(joined_ent.lower())
       i += 1
 
