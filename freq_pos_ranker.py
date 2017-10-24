@@ -4,14 +4,16 @@ import time
 
 from Entity_test import Tester
 
-def custom_freq_func(sent_ent_list, sentence_list, content):
-  t1 = time.time()
+def custom_freq_pos_func(sent_ent_list, sentence_list, content,
+  custom_param):
+  # t1 = time.time()
   relev_entities = {
                     "LOC": {"$N" : 0},
                     "ORG": {"$N" : 0},
                     "PER": {"$N" : 0},
                     }
   mapper = {"LOCATION": "LOC", "ORGANIZATION": "ORG", "PERSON": "PER"}
+  threshold = custom_param.get("threshold", 2)
   # print(sent_ent_list)
   for sent in sent_ent_list:
     i = 0
@@ -49,17 +51,20 @@ def custom_freq_func(sent_ent_list, sentence_list, content):
       continue
     max_val = max(relev_entities[typ].values())
     for ent in relev_entities[typ].keys():
-      if relev_entities[typ][ent] > max_val/2:
+      if relev_entities[typ][ent] > max_val/threshold:
         relev.append(ent)
     relev_entities[typ] = relev
-  print("Time taken: %s" %(time.time() - t1))
+  # print("Time taken: %s" %(time.time() - t1))
+
   return relev_entities
 
 
 def main():
+  t1 = time.time()
   tester = Tester(custom_freq_func, size=10, stop=False)
   tester.test()
-  tester.score()
+  print (tester.score())
+  print("TIme taken: ", time.time()-t1)
 
 if __name__ == "__main__":
   main()

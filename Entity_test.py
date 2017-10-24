@@ -20,7 +20,7 @@ eval_dict = {
 
 
 # returns all the entities in the given list in lower-case.
-def get_all_entities(sent_ent_list):
+def get_all_entities(sent_ent_list, extra=False):
   ner_entities =  {
                     "LOC" : [],
                     "ORG" : [],
@@ -32,7 +32,7 @@ def get_all_entities(sent_ent_list):
   "LOC": "LOC"
   }
   # join the entities and put them in the corresponding class
-  for sent in sent_ent_list:
+  for sent_num, sent in enumerate(sent_ent_list):
     i = 0
     while i < len(sent):
       joined_ent = sent[i][0]
@@ -41,8 +41,12 @@ def get_all_entities(sent_ent_list):
         while i+1 < len(sent) and sent[i+1][1] == typ:
           joined_ent += " " + sent[i+1][0]
           i += 1
-      if typ in mapper.keys(): 
-        ner_entities[mapper[typ]].append(joined_ent.lower())
+      if typ in mapper.keys():       
+        if extra:
+          # appends(entity, sentence number, position in doc)
+          ner_entities[mapper[typ]].append((joined_ent.lower(), sent_num, i))
+        else:
+          ner_entities[mapper[typ]].append(joined_ent.lower())
       i += 1
 
   return ner_entities
@@ -114,7 +118,7 @@ class Tester:
                             'stanford-ner/stanford-ner.jar'))
       # work on batch_sz files each time
       # can make this a custom parameter
-      batch_sz = 50
+      batch_sz = 80
       break_flag = False
       for ii in range(0, len(jsonFiles), batch_sz):
         json_dict_list = []
@@ -122,16 +126,16 @@ class Tester:
         all_sent_tokens_list = []
         
         for test_ctr in range(ii, ii + batch_sz):
-          t1 = time.time()
+          # t1 = time.time()
           if self.test_sz != -1 and test_ctr >= self.test_sz:
             break_flag = True
             break
           # Load the json tagged dataset
           file = jsonFiles[test_ctr]
-          print()
-          print("FILENAME:")
-          print(file)
-          print()
+          # print()
+          # print("FILENAME:")
+          # print(file)
+          # print()
           json_dict = json.load(open(os.path.join(self.baseDir, jsonDir, file)))
           # get the content
           content = json_dict["content"]
@@ -146,6 +150,7 @@ class Tester:
         all_sent_ent_list = st_tagger.tag_sents(all_sent_tokens_list)
         # print(all_sent_ent_list)
         file_start = 0
+        t1 = time.time()
         for i, sentence_list in enumerate(all_sentences_list):
           # Retrieve each file's sentence_entity_list :
           # each element is a list containing the tuples -
@@ -156,9 +161,10 @@ class Tester:
           # print("TIME BEFORE CUSTOM FUNC: %s" %(time.time() - t1))
           custom_relev_entities = self.custom_entity_detect_func(sent_ent_list,
                                   sentence_list, json_dict_list[i], self.custom_param)
-          # t1 = time.time()
+          
           self.evaluate(custom_relev_entities, json_dict_list[i], sent_ent_list)
-          # print("TIME TO EVALUATE: %s" %(time.time() - t1))
+        
+        print("TIME TO EVALUATE: %s" %(time.time() - t1))  
         if break_flag:
           break
 
@@ -225,7 +231,7 @@ class Tester:
 
         temp_set = set([ent.lower() for ent in custom_relev_entities[ent_type]])
         common = len(relev_ent.intersection(temp_set))
-        print (ent_type, relev_ent, temp_set)
+        # print (ent_type, relev_ent, temp_set)
         # CHECK IF PRECISION hsould be 1 or 0 in the edge case
         if len(temp_set) > 0:
           precision = common/len(temp_set)
