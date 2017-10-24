@@ -24,7 +24,7 @@ def custom_pos_func(sent_ent_list, sentence_list, content, custom_param):
   sent_counter = 0
 
   new_entity_count_list = []
-  sentence_threshold = custom_param["threshold"]
+  sentence_threshold = custom_param.get("threshold",3)
 
   for sent in sent_ent_list:
     i = 0
