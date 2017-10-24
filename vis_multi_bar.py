@@ -1,5 +1,5 @@
 
-def visualize_params_per_method(results_list, params_list):
+def plot_multi_bar(results_list, params_list):
     import numpy as np
     import matplotlib.pyplot as plt
 
