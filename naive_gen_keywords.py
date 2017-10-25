@@ -1,6 +1,7 @@
 # Extracting keywords
 import json
 import os
+import pickle
 import time
 
 import config
@@ -18,7 +19,11 @@ mismatch = 5
 stop_words = set(stopwords.words('english'))
 # corpus specific
 stop_words = stop_words.union(set(["-lrb-", "-rrb-", "(", ")",
-  ",", ":", "a", "an", "the", "said", "'s"]))
+  ",", "a", "an", "the", "said", "'s"]))
+
+# HACK
+close_words_glob = None
+
 
 def get_json_relev_entities(json_dict):
   json_format = {
@@ -76,7 +81,7 @@ def get_close_words(tokenized_string, relev_entities, close_words,
       seen = 0
       i = start_pos_str - 1
       while (seen < radius and i >= 0):
-        if tokenized_string[i] == ".":
+        if tokenized_string[i] in [".", ":"]:
           break
         elif valid_keyword(tokenized_string[i], relev_entities):
           lem_word = lemmatizer.lemmatize(tokenized_string[i], "v")
@@ -87,7 +92,7 @@ def get_close_words(tokenized_string, relev_entities, close_words,
       seen = 0
       i = end_pos_str + 1
       while (seen < radius and i < len(tokenized_string)):
-        if tokenized_string[i] == ".":
+        if tokenized_string[i] in [".", ":"]:
           break
         elif valid_keyword(tokenized_string[i], relev_entities):
           lem_word = lemmatizer.lemmatize(tokenized_string[i], "v")
@@ -103,10 +108,20 @@ def get_close_words(tokenized_string, relev_entities, close_words,
 # sub_common - removes the close words common to both relev and
 # non-relev entities
 def gen_keywords(param):
+  print ("ONLY ONCE")
+  global close_words_glob
+
   if hasattr(config, "base_dir"):
     base_dir = config.base_dir
 
+  threshold = param.get("threshold", 10)
+  radius = param.get("radius", 4)
+
   base_dir = "E:\College\IR\Entity"
+  if close_words_glob is not None:
+    return close_words_glob
+
+  print ("ONLY ONCE")
   jsonDir = "tagged_dataset"
   jsonFiles = os.listdir(os.path.join(base_dir, jsonDir))
 
@@ -126,9 +141,9 @@ def gen_keywords(param):
     tokenized_string = [word.lower() for word in tokenized_string]
 
     get_close_words(tokenized_string, relev_entities, close_words, 
-      radius=param.get("radius", 4))
+      radius)
 
-  threshold = param.get("threshold", 10)
+  
   for ent_type in close_words.keys():
     print (ent_type)
     temp_list = [(close_words[ent_type][word], word) for \
@@ -137,6 +152,7 @@ def gen_keywords(param):
 
     close_words[ent_type] = [elem[1] for elem in temp_list[:threshold]]
 
+  close_words_glob = close_words
   return close_words
 
 if __name__ == "__main__":
