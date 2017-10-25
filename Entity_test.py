@@ -20,7 +20,8 @@ eval_dict = {
 
 
 # returns all the entities in the given list in lower-case.
-def get_all_entities(sent_ent_list, extra = False):
+# if extra is set - returns 3 tuple - entity, sentence_number, position
+def get_all_entities(sent_ent_list, extra=False):
   ner_entities =  {
                     "LOC" : [],
                     "ORG" : [],

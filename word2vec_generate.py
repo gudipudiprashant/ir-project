@@ -101,6 +101,19 @@ for i,sent in enumerate(sent_ent_list):
       joined_ent += " " + sent[j+1][0]
       j += 1
 
+    num_flag = False
+    while (joined_ent.lower() in nums
+      or is_number(joined_ent)):
+      num_flag = True
+      if j+1 >= len(sent):
+        break
+      j += 1
+      joined_ent = sent[j][0]
+
+    if num_flag:
+      j -= 1
+      joined_ent = "$NUM$"
+
     # lemmatize:
     if not " " in joined_ent:
       if pos_tagged[j][1].startswith("V"):
@@ -111,9 +124,7 @@ for i,sent in enumerate(sent_ent_list):
     j += 1
 
     if (joined_ent != "." and joined_ent != ","
-      and joined_ent not in stop_words
-      and joined_ent.lower() not in nums
-      and not is_number(joined_ent)):
+      and joined_ent not in stop_words):
       temp_list.append(joined_ent.lower())
   sent_ent_list[i] = (temp_list)
 
