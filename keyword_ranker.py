@@ -1,5 +1,6 @@
 from collections import Counter
 from Entity_test import Tester, get_all_entities
+from word2vec_extrap import W2vExtrapolator
 
 keywords_set = set([ "killed", "attacked", "shot", "injured", "suspected",
         	 "dead", "death", "exploded", "blast", "detonated", "perished" ])
@@ -7,11 +8,14 @@ keywords_set = set([ "killed", "attacked", "shot", "injured", "suspected",
 # Identify the primary sentences based on the presence of 
 # keywords and then return the entities by category in those sentences
 def keyword_ranker(sent_ent_list, sentence_list, content,
- 		custom_param):
+ 		custom_param, extrapolate = False):
 	# First identify primary sentences
 	primary_sents = []
-    
-    keywords = custom_param.get("Keywords_set",keywords_set)
+    keywords = custom_param.get("Keywords_set", keywords_set)
+  	all_ents = get_all_entities(sent_ent_list, extra = True)
+  	ent_set = set([ent[0] for ent in all_ents])
+    if extrapolate:
+    	keywords = W2vExtrapolator(ent_set, seed_set = keywords).extrapolate()
 
 	for sent_num, sent_ents in enumerate(sent_ent_list):
 		for ent in sent_ents:
@@ -24,7 +28,6 @@ def keyword_ranker(sent_ent_list, sentence_list, content,
                     "ORG" : [],
                     "PER" : [],
                  }
-  	all_ents = get_all_entities(sent_ent_list)
   	for ent_catg in all_ents:
   		for ent in all_ents[ent_catg]:
   			if ent[1] in primary_sents:
