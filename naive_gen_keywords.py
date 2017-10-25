@@ -1,4 +1,5 @@
 # Extracting keywords
+import copy
 import json
 import os
 import pickle
@@ -19,17 +20,19 @@ mismatch = 5
 stop_words = set(stopwords.words('english'))
 # corpus specific
 stop_words = stop_words.union(set(["-lrb-", "-rrb-", "(", ")",
-  ",", "a", "an", "the", "said", "'s"]))
+  ",", "a", "an", "the", "said", "'s", "`", "--", "-"]))
 
 # HACK
 close_words_glob = None
 
+# tags:
+tags = set()
 
-def get_json_relev_entities(json_dict):
+def get_json_relev_entities(json_dict, non_relev=False):
   json_format = {
-      "LOC"   : "Event",
-      "ORG"   : "Accused",
-      "PER"   : "Accused",
+      "LOC"   : ["Event", "Assoc_Event", "Source"],
+      "ORG"   : ["Accused", "Assoc_Accused"],
+      "PER"   : ["Accused", "Assoc_Accused", "Victim",],
   }
 
   relev_entities = {
@@ -39,14 +42,20 @@ def get_json_relev_entities(json_dict):
     }
   for ent_type in json_format.keys():
     for ent in json_dict[ent_type]:
-      if ent[2] == json_format[ent_type]:
+      if ent[2] in json_format[ent_type] and not non_relev:
         # convert to lower
         try:
           relev_entities[ent_type].append((ent[0].strip().lower(), int(ent[1])))
         except Exception as e:
           print ("Error: ", e)
           # Value Error -
-          pass
+      if non_relev and ent[2] not in json_format[ent_type]:
+        # print (ent[2])
+        # input()
+        try:
+          relev_entities[ent_type].append((ent[0].strip().lower(), int(ent[1])))
+        except Exception as e:
+          print ("Error: ", e)
   return relev_entities
 
 def valid_keyword(word, relev_entities):
@@ -108,7 +117,6 @@ def get_close_words(tokenized_string, relev_entities, close_words,
 # sub_common - removes the close words common to both relev and
 # non-relev entities
 def gen_keywords(param):
-  print ("ONLY ONCE")
   global close_words_glob
 
   if hasattr(config, "base_dir"):
@@ -123,39 +131,53 @@ def gen_keywords(param):
 
   print ("ONLY ONCE")
   jsonDir = "tagged_dataset"
+  import random
   jsonFiles = os.listdir(os.path.join(base_dir, jsonDir))
-
+  random.shuffle(jsonFiles)
   close_words = { 
       "LOC"   :   Counter(),
       "ORG"   :   Counter(),
       "PER"   :   Counter(),
     }
 
+  close_words_non_relev = copy.deepcopy(close_words)
+
   for file in jsonFiles:
     json_dict = json.load(open(os.path.join(base_dir, jsonDir, file)))
     # get the content
     content = json_dict["content"]
     relev_entities = get_json_relev_entities(json_dict)
+    non_relev_entities = get_json_relev_entities(json_dict, True)
     # tokenize content
     tokenized_string = word_tokenize(content)
     tokenized_string = [word.lower() for word in tokenized_string]
 
     get_close_words(tokenized_string, relev_entities, close_words, 
       radius)
+    get_close_words(tokenized_string, non_relev_entities, close_words_non_relev,
+      radius)
+
+    # test_set = set(["injure", "blast", "bomb"])
+    # for ent_type in close_words_non_relev.keys():
+    #   flag = False
+    #   if set(close_words_non_relev[ent_type]).intersection(test_set):
+    #     print(file)
+    #     input()
 
   
   for ent_type in close_words.keys():
-    print (ent_type)
-    temp_list = [(close_words[ent_type][word], word) for \
-        word in close_words[ent_type].keys()]
-    temp_list = sorted(temp_list, reverse=True)
-
-    close_words[ent_type] = [elem[1] for elem in temp_list[:threshold]]
+    close_words[ent_type] = close_words[ent_type].most_common(threshold)
+    # print (ent_type)
+    # print(close_words[ent_type])
+    # print("Non relev")
+    # print(close_words_non_relev[ent_type].most_common(threshold))
+    close_words[ent_type] = [word for word,_ in close_words[ent_type]]
 
   close_words_glob = close_words
+  print(tags)
   return close_words
 
 if __name__ == "__main__":
-  gen_keywords()
+  gen_keywords({})
 # Convert tokenized string to lower
 

@@ -6,7 +6,6 @@ from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 
 from Entity_test import Tester, get_all_entities
-from naive_gen_keywords import get_close_words
 
 lemmatizer = WordNetLemmatizer()
 
@@ -32,16 +31,18 @@ def keyword_ranker(sent_ent_list, sentence_list, content,
 
   kw_type = custom_param.get("Gen_type","Naive")
 
+  param = custom_param.get("KW_param", {})
   keywords = set()
-  if "default_type":
+  if kw_type == "default_type":
       keywords = {
                   "LOC"   :   keywords_set,
                   "ORG"   :   keywords_set,
                   "PER"   :   keywords_set,
       }
   else:
-      keywords = gen_type(kw_type).gen_keywords(
-          custom_param.get("Gen_param", {}))
+    # Change the import - in the next line
+    keywords = gen_type[kw_type].gen_keywords(param)
+
   tokenized_string = word_tokenize(content)
   tokenized_string = [word.lower() for word in tokenized_string]
 
@@ -56,19 +57,21 @@ def keyword_ranker(sent_ent_list, sentence_list, content,
       close_ = { 
               ent_type   :   Counter(),
             }
-      get_close_words(tokenized_string, relev_entity, close_,
-        # check this line
-        4)
+      naive_gen_keywords.get_close_words(tokenized_string, 
+        relev_entity, close_, 10)
       close_set = set(close_[ent_type].keys())
-      if not close_set.intersection(keywords[ent_type]):
+      if close_set.intersection(keywords[ent_type]):
         relev_ents[ent_type].append(ent)
-
+      # print(close_set, keywords)
   return relev_ents
 
 
 def main():
-    tester = Tester(keyword_ranker, size=10, stop=False,)
+    import time
+    t1 = time.time()
+    tester = Tester(keyword_ranker, size=500, stop=False,)
     tester.test()
+    print("TIme taken: ", time.time() - t1)
     tester.score(True)
 
 if __name__ == "__main__":

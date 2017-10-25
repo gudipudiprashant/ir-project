@@ -127,7 +127,7 @@ class Tester:
                             'stanford-ner/stanford-ner.jar'))
       # work on batch_sz files each time
       # can make this a custom parameter
-      batch_sz = self.custom_param.get("Batch_size", 80)
+      batch_sz = self.custom_param.get("Batch_size", 250)
       break_flag = False
       for ii in range(0, len(jsonFiles), batch_sz):
         json_dict_list = []
@@ -216,10 +216,10 @@ class Tester:
   def evaluate(self, custom_relev_entities, json_dict, sent_ent_list):
     # Format of relevant entities as marked in the tagged json files
       json_format = {
-            "LOC"   : "Event",
-            "ORG"   : "Accused",
-            "PER"   : "Accused",
-      }
+          "LOC"   : ["Event", "Assoc_Event", "Source"],
+          "ORG"   : ["Accused", "Assoc_Accused"],
+          "PER"   : ["Accused", "Assoc_Accused"],
+        }
 
       if self.eval_NER:
         ner_entities = get_all_entities(sent_ent_list)
@@ -227,7 +227,7 @@ class Tester:
       for ent_type in json_format.keys():
         relev_ent = []
         for ent in json_dict[ent_type]:
-          if ent[2] == json_format[ent_type]:
+          if ent[2] in json_format[ent_type]:
             # convert to lower
             relev_ent.append(ent[0].lower())
 
@@ -237,6 +237,8 @@ class Tester:
         # intersection with the NER entities to better understand
         # the shortcomings of the custom function
         if self.eval_NER:
+          # print("yeahs")
+          # input()
           relev_ent = relev_ent.intersection(ner_entities[ent_type])
 
         temp_set = set([ent.lower() for ent in custom_relev_entities[ent_type]])

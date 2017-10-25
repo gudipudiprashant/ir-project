@@ -1,6 +1,6 @@
 ** Journal:
 
-*** Entry 1
+*** Entry 1: 1a904a264
 **Oct 25:** We tried to naive way to generate keywords. Given a radius r, for each file in the training data set, for each Relevant entity, we look at r words on either side(which are not stopwords) and add them to a counter. The top n words(where n is the threshold) becomes our keyword set.
 
 For `n = 10`, we got very relevant keywords, like *'blast'*, *'suspect'*, *'bomb'*, *'police'*, which seemed like it could improve precision, but on experimaentation, it gave a precision of `0.4 - 0.5`, and a recall of `0.9+`, on varying radius while detecting entities.
