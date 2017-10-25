@@ -27,7 +27,8 @@ for element in module_obj_list:
     tester = Tester(cur_method, 
                     config.base_dir,
                     size=10,
-                    stop=False)
+                    stop=False
+                    custom_param={"Batch_size":500})
     tester.test()
     results_list.append(tester.score(True))
     del(tester)

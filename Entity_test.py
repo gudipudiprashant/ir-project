@@ -118,7 +118,7 @@ class Tester:
                             'stanford-ner/stanford-ner.jar'))
       # work on batch_sz files each time
       # can make this a custom parameter
-      batch_sz = 80
+      batch_sz = custom_param.get("Batch_size", 80)
       break_flag = False
       for ii in range(0, len(jsonFiles), batch_sz):
         json_dict_list = []

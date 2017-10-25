@@ -1,7 +1,7 @@
 from collections import Counter
 from Entity_test import Tester, get_all_entities
 
-keywords = set([ "killed", "attacked", "shot", "injured", "suspected",
+keywords_set = set([ "killed", "attacked", "shot", "injured", "suspected",
         	 "dead", "death", "exploded", "blast", "detonated", "perished" ])
 
 # Identify the primary sentences based on the presence of 
@@ -10,6 +10,9 @@ def keyword_ranker(sent_ent_list, sentence_list, content,
  		custom_param):
 	# First identify primary sentences
 	primary_sents = []
+    
+    keywords = custom_param.get("Keywords_set",keywords_set)
+
 	for sent_num, sent_ents in enumerate(sent_ent_list):
 		for ent in sent_ents:
 			if ent[0] in keywords:

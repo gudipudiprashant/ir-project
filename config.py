@@ -11,6 +11,7 @@ default_module_list = [ "position_ranker", "freq_ranker"]
 module_func_map = {
                     "position_ranker": "custom_pos_func",
                     "freq_ranker": "custom_freq_func",
-                    "freq_pos_ranker": "custom_freq_func"
+                    "freq_pos_ranker": "custom_freq_func",
+                    "keyword_ranker": "keyword_ranker"
                   }
 
