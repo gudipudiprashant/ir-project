@@ -6,6 +6,7 @@ from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 
 from Entity_test import Tester, get_all_entities
+from word2vec_extrap import W2vExtrapolator
 
 lemmatizer = WordNetLemmatizer()
 
@@ -64,6 +65,7 @@ def keyword_ranker(sent_ent_list, sentence_list, content,
         relev_ents[ent_type].append(ent)
       # print(close_set, keywords)
   return relev_ents
+
 
 
 def main():
