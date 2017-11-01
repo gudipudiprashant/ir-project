@@ -6,11 +6,16 @@ import json
 import os
 import time
 
+import config
+
 from nltk.corpus import stopwords
 from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize, sent_tokenize
 
 def_baseDir = "E:\College\IR\Entity"
+if hasattr(config,"base_dir"):
+  def_baseDir = config.base_dir
+
 
 eval_dict = {
       "LOC" : [],
@@ -33,6 +38,7 @@ def get_all_entities(sent_ent_list, extra=False):
     "LOC": "LOC"
   }
   # join the entities and put them in the corresponding class
+  ctr = 0
   for sent_num, sent in enumerate(sent_ent_list):
     i = 0
     while i < len(sent):
@@ -42,13 +48,15 @@ def get_all_entities(sent_ent_list, extra=False):
         while i+1 < len(sent) and sent[i+1][1] == typ:
           joined_ent += " " + sent[i+1][0]
           i += 1
+          ctr += 1
       if typ in mapper.keys(): 
         if extra:
           # appends(entity, sentence number, position in doc)
-          ner_entities[mapper[typ]].append((joined_ent.lower(), sent_num, i))
+          ner_entities[mapper[typ]].append((joined_ent.lower(), sent_num, ctr))
         else:  
           ner_entities[mapper[typ]].append(joined_ent.lower())
       i += 1
+      ctr += 1
 
   return ner_entities
 
@@ -119,7 +127,7 @@ class Tester:
                             'stanford-ner/stanford-ner.jar'))
       # work on batch_sz files each time
       # can make this a custom parameter
-      batch_sz = custom_param.get("Batch_size", 80)
+      batch_sz = self.custom_param.get("Batch_size", 250)
       break_flag = False
       for ii in range(0, len(jsonFiles), batch_sz):
         json_dict_list = []
@@ -161,7 +169,8 @@ class Tester:
           sent_ent_list = add_position_ent_list(sent_ent_list)
           # print("TIME BEFORE CUSTOM FUNC: %s" %(time.time() - t1))
           custom_relev_entities = self.custom_entity_detect_func(sent_ent_list,
-                                  sentence_list, json_dict_list[i], self.custom_param)
+                                  sentence_list, json_dict_list[i]["content"], 
+                                  self.custom_param)
           
           self.evaluate(custom_relev_entities, json_dict_list[i], sent_ent_list)
         
@@ -207,10 +216,10 @@ class Tester:
   def evaluate(self, custom_relev_entities, json_dict, sent_ent_list):
     # Format of relevant entities as marked in the tagged json files
       json_format = {
-            "LOC"   : "Event",
-            "ORG"   : "Accused",
-            "PER"   : "Accused",
-      }
+          "LOC"   : ["Event", "Assoc_Event", "Source"],
+          "ORG"   : ["Accused", "Assoc_Accused"],
+          "PER"   : ["Accused", "Assoc_Accused"],
+        }
 
       if self.eval_NER:
         ner_entities = get_all_entities(sent_ent_list)
@@ -218,7 +227,7 @@ class Tester:
       for ent_type in json_format.keys():
         relev_ent = []
         for ent in json_dict[ent_type]:
-          if ent[2] == json_format[ent_type]:
+          if ent[2] in json_format[ent_type]:
             # convert to lower
             relev_ent.append(ent[0].lower())
 
@@ -228,6 +237,8 @@ class Tester:
         # intersection with the NER entities to better understand
         # the shortcomings of the custom function
         if self.eval_NER:
+          # print("yeahs")
+          # input()
           relev_ent = relev_ent.intersection(ner_entities[ent_type])
 
         temp_set = set([ent.lower() for ent in custom_relev_entities[ent_type]])
