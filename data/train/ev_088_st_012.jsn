@@ -1,0 +1,315 @@
+{
+    "LOC": [
+        [
+            "Maharashtra", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "31", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "40", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "67", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "131", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "157", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "159", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "173", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "209", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "257", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "278", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "325", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "394", 
+            "Neutral"
+        ], 
+        [
+            "German Bakery", 
+            "405", 
+            "Event"
+        ], 
+        [
+            "German Bakery", 
+            "431", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "434", 
+            "Event"
+        ], 
+        [
+            "German Bakery", 
+            "454", 
+            "Event"
+        ], 
+        [
+            "Jewish Chabad House", 
+            "461", 
+            "Neutral"
+        ], 
+        [
+            "Koregaon Park", 
+            "465", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "511", 
+            "Event"
+        ], 
+        [
+            "Dena Bank", 
+            "528", 
+            "Event"
+        ], 
+        [
+            "McDonalds", 
+            "536", 
+            "Event"
+        ], 
+        [
+            "Bal Gandharv Theatre", 
+            "545", 
+            "Event"
+        ], 
+        [
+            "Garware Bridge", 
+            "555", 
+            "Event"
+        ], 
+        [
+            "Jangli Maharaj Road", 
+            "573", 
+            "Event"
+        ], 
+        [
+            "German Bakery", 
+            "595", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "603", 
+            "Event"
+        ], 
+        [
+            "Jangli Maharaj Road", 
+            "630", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Prithviraj Chavan", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "RK Singh", 
+            "94", 
+            "Others"
+        ], 
+        [
+            "SUSHIL KUMAR SHINDE", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "Sushil Kumar Shinde", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "RK Singh", 
+            "221", 
+            "Others"
+        ], 
+        [
+            "RK Singh", 
+            "241", 
+            "Others"
+        ], 
+        [
+            "Gulabrao Pol", 
+            "319", 
+            "Comment"
+        ], 
+        [
+            "Rakhi", 
+            "346", 
+            "Others"
+        ], 
+        [
+            "Gulabrao Pol", 
+            "505", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "11.15 pm : 1", 
+        "10.50 pm : 45", 
+        "10.45 pm : 54", 
+        "10.28 pm : 72", 
+        "10.07 pm : 99", 
+        "10.06 pm : 116", 
+        "10.05 pm : 150", 
+        "10.03 pm : 199", 
+        "9.45 pm : 226", 
+        "9.19 pm : 246", 
+        "9.11 pm : 254", 
+        "9.09 pm : 284", 
+        "9.07 pm : 302", 
+        "9.04 pm : 331", 
+        "9.00 pm : 367", 
+        "8.45 pm:492", 
+        "8.40 pm : 517", 
+        "8.35 pm : 560", 
+        "8.30 pm : 589", 
+        "evening : 606"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:175", 
+        "Thursday:348", 
+        "February 2010 : 411", 
+        "2010:599"
+    ], 
+    "death": "", 
+    "title": "Pune blasts live: All blasts occurred within 1 km radius, says Chavan", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "11.15 pm Maharashtra Chief Minister Prithviraj Chavan . . `` All blasts occurred within 1km radius . Maharashtra deputy chief minister , state home minister , two NIA teams from Delhi , Maharashtra ATS chief are all going to Pune . '' . . 10.50 pm Total seven IEDs used . . . 10.45 pm : Pune-based Army Southern Command sends bomb disposal squads to assist Pune police . . . 10.28 pm `` One of the injured person , who carried the bomb , is in custody , '' says home secretary RK Singh . . . 10.07 pm FOUR BLASTS . FIFTH DEFUSED . SAYS HOME MINISTER SUSHIL KUMAR SHINDE . . . 10.06 pm `` Blasts occurred between 7.27pm-8 .15 pm . I had to go to Pune to attend a function , '' said Home Minister Sushil Kumar Shinde in New Delhi . . . 10.05 pm : CFSL to leave for Pune from New Delhi . . . Policemen cordon off an area after a blast in Pune on Wednesday . Four low-intensity bomb blasts in quick succession shook the city in the evening injuring at least two people . PTI . . 10.03 pm Terror angle can not be ruled out in Pune explosions as it appears to be planned attack : Home Secretary RK Singh . . . 9.45 pm `` Terror angle can not be ruled out , '' says home secretary RK Singh . . . 9.19 pm Sixth explosive defused . . . 9.11 pm : Maharashtra Anti-Terrorist Squad , bomb squad , National Investigation Agency rush for blast spots . NIA teams to fly in from Delhi and Mumbai . . . 9.09 pm : FIFTH BLAST REPORTED . ONE MORE INJURED . BLAST AT DECCAN MALL . . . 9.07 pm `` There is no terror angle . It is an act of mischief , '' Gulabrao Pol , Police Commissioner , Pune told CNN-IBN . . . 9.04 pm : The area has many shops . People have gathered to shop for Rakhi on Thursday . The low intensity blasts caused more panic while no casualties were reported so far . . . 9.00 pm : Snippets of details of emerging . In three incidents , cycles were used . This modus operandi was also seen in earlier blasts in Uttar Pradesh . . . Leaf from the past : The German Bakery blast . . In February 2010 , 17 people were killed and at least 60 injured when a bomb went off at the crowded German Bakery in Pune . An Italian woman , two Sudanese students , and an Iranian student were among those killed . The German Bakery is located close to the Jewish Chabad House in Koregaon Park . The involvement of Indian Mujahideen , the Indian arm of the Pakistan-based terror outfit Lasker-e-Taiba , was suspected in the incident . . . 8.45 pm `` We had three blasts at three different locations , '' Gulabrao Pol , Police Commissioner , Pune told CNN-IBN . . . 8.40 pm One bomb was placed on a cycle carrier outside Dena Bank , another in a dustbin outside McDonalds , one more in a cake outside the Bal Gandharv Theatre . The fourth blast was at the Garware Bridge . . . 8.35 pm Sketchy details coming in . The explosions took place on the Jangli Maharaj Road , a popular hangout for college students in the city . . . 8.30 pm Gory memories of the German Bakery blast in 2010 came alive to Pune citizens today evening as four low intensity blasts rocked the city injuring one person , police said . . . The explosions took place on the Jangli Maharaj Road , a popular hangout for college students in the city , a CNN-IBN report said .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        "Pune"
+    ], 
+    "O": [
+        "Home Minister:139", 
+        "low-intensity:178", 
+        "police:619"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/india/pune-blasts-live-all-blasts-occurred-within-1-km-radius-says-chavan-400853.html", 
+    "date": "01-08-2012", 
+    "target": "", 
+    "hot_spot": "Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "NIA", 
+            "28", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "196", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorist Squad", 
+            "258", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "264", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "471", 
+            "Accused"
+        ], 
+        [
+            "Lasker-e-Taiba", 
+            "482", 
+            "Accused"
+        ]
+    ]
+}

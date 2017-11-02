@@ -1,0 +1,156 @@
+{
+    "LOC": [
+        [
+            "Church road", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Jawahar Nagar", 
+            "407", 
+            "Assoc_Event"
+        ], 
+        [
+            "Srinagar", 
+            "410", 
+            "Assoc_Event"
+        ], 
+        [
+            "Lazbal", 
+            "415", 
+            "Assoc_Event"
+        ], 
+        [
+            "Anantnag", 
+            "417", 
+            "Assoc_Event"
+        ], 
+        [
+            "Pulwama", 
+            "422", 
+            "Assoc_Event"
+        ], 
+        [
+            "Nishat", 
+            "429", 
+            "Assoc_Event"
+        ], 
+        [
+            "Srinagar", 
+            "431", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mufti Mohammad Sayeed", 
+            "237", 
+            "Comment"
+        ], 
+        [
+            "Javid Makhdoomi", 
+            "276", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "486", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "9 am : 44", 
+        "three months : 399"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 11 : 412", 
+        "May 28 : 419", 
+        "June 13 : 426", 
+        "June 24 : 433", 
+        "April : 489"
+    ], 
+    "death": "4", 
+    "title": "Four killed in car-bomb explosion in Srinagar", 
+    "org_unorg": "", 
+    "terror_group": [
+        "HIZB-UL-MUJAHIDEEN / HIZB-UL-MUJAHIDEEN PIR PANJAL REGIMENT"
+    ], 
+    "content": "SRINAGAR : Hizbul Mujahideen militants exploded a powerful car-bomb at a military convoy near a missionary school on the high security Church road , killing four persons , including a Major . The blast took place in a stationary explosive-packed Maruti car around 9 am , when the army vehicles were passing by Sher-e-kashmir cricket stadium killing three army personnel and one civilian instantly , police said . . . Earlier , police and defence officials had suspected that a suicide bomber rammed the explosive-laden car into the army vehicle , but subsequent investigation revealed that the attacker had just about managed to escape from the scene shortly before the blast . At least 17 persons , including four soldiers , were injured in the explosion , which also damaged eight vehicles and rattled the Burnhall school and nearby buildings . . . However , no harm was done to the students as there is a huge playground between the boundary wall and classrooms . . . Hizbul Mujahideen owned responsibility for the blast . It was a gory site with badly mutilated bodies lying in pool of blood and the injured crying for help . Mangled pieces of damaged vehicles and shattered window panes were strewn around . The Maruti car used in the attack was blown to pieces and only its engine could be retrieved by the police . . . Chief minister , Mufti Mohammad Sayeed , said such incidents would not deter the people from pursuing the peace process and perpetrators of violence would not achieve anything by indulging in such acts . . . Inspector general of police Kashmir , Javid Makhdoomi , said it was an act of desperation on part of militants in the relaxed atmosphere of confidence building and restoration of peace in the state . . . Asked if the attack in the high security zone was a security lapse , he pointed out that besides being a high security zone , it is also a high traffic zone and it is not feasible to check each and every vehicle passing by . . . As part of the strategy to prevent such attacks , he said random checks of vehicles were being carried out and all designated parking lots were being kept under tight vigil . This was the fifth such blast in the valley over the past three months . . . Car-bomb explosions rocked Jawahar Nagar in Srinagar on May 11 , Lazbal in Anantnag on May 28 , Pulwama district town on June 13 and Nishat in Srinagar on June 24 . . . Several politicians and ministers reside in the area . Sher-e-kashmir cricket stadium park is an important venue where significant political rallies of prime ministers have been held in the past . The last important function organised at the stadium was flagging off of Srinagar-Muzaffarabad bus by Prime Minister Manmohan Singh on April seven .", 
+    "injured": "17", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "Srinagar", 
+        ""
+    ], 
+    "O": [
+        "militants:5", 
+        "car-bomb:9", 
+        "military convoy:12", 
+        "missionary school:16", 
+        "blast:34", 
+        "maruti car:41", 
+        "army vehicles:49", 
+        "sher-e-kashmir cricket stadium:54", 
+        "army personnel:59", 
+        "suicide bomber:81", 
+        "explosive-laden car:85", 
+        "investigation:94", 
+        "blast:111", 
+        "injured:123", 
+        "explosion:126", 
+        "damaged eight vehicles:130", 
+        "blast:174", 
+        "shattered window panes:203", 
+        "maruti car:211", 
+        "attack:216", 
+        "peace process:252", 
+        "perpetrators:255", 
+        "violence:257", 
+        "militants:289", 
+        "confidence building:295", 
+        "attack:310", 
+        "high security zone:313", 
+        "high security zone:328", 
+        "attacks:363", 
+        "vigil:385", 
+        "blast:392", 
+        "car-bomb explosions:404", 
+        "sher-e-kashmir cricket stadium:447", 
+        "rallies:458", 
+        "stadium:476", 
+        "srinagar-muzaffarabad bus:481"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2005-07-21/news/27483824_1_car-bomb-explosive-laden-car-blast", 
+    "date": "21-07-2005", 
+    "target": "MILITARY GROUP", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Hizbul Mujahideen", 
+            "3", 
+            "Accused"
+        ], 
+        [
+            "Burnhall school", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "Hizbul Mujahideen", 
+            "168", 
+            "Accused"
+        ]
+    ]
+}

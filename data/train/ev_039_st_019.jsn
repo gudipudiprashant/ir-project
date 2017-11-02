@@ -1,0 +1,80 @@
+{
+    "LOC": [
+        [
+            "Nalbari", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "police station", 
+            "54", 
+            "Neutral"
+        ], 
+        [
+            "Nalbari", 
+            "57", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kader Ali", 
+            "38", 
+            "Victim"
+        ], 
+        [
+            "Ali", 
+            "59", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "November 22 : 13", 
+        "Saturday : 25"
+    ], 
+    "death": "7", 
+    "title": "Toll in Nalbari blasts rises toeight", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Nalbari", 
+        "guwahati", 
+        "Nalbari"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The toll in the twin bomb blasts in Assams Nalbari town on November 22 rose to eight with a person succumbing to injuries on Saturday , official sources said here . . . A cloth merchant , Kader Ali and his 10-year-old son were injured in the second blast that took place near police station in Nalbari . Ali , who was brought to the Guwahati Medical College Hospital here in a critical condition , succumbed to injuries and his son is still battling for life , they said . . . Seven people died on the day of the blasts while 54 others were injured with 34 of them shifted to the GMCH here . . . .", 
+    "injured": "54", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "twin bomb:5"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indianexpress.com/article/india/regional/toll-in-nalbari-blasts-rises-to-eight/", 
+    "date": "22-11-2009", 
+    "target": "", 
+    "hot_spot": "Nalbari", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Guwahati Medical College Hospital", 
+            "66", 
+            "Others"
+        ], 
+        [
+            "GMCH", 
+            "114", 
+            "Others"
+        ]
+    ]
+}

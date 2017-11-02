@@ -1,0 +1,126 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Assam Chief Minister", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "260", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "264", 
+            "Event"
+        ], 
+        [
+            "Jiribam", 
+            "283", 
+            "Event"
+        ], 
+        [
+            "Imphal East", 
+            "286", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Gogoi", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "26", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "72", 
+            "Comment"
+        ], 
+        [
+            "H.C. Nath", 
+            "132", 
+            "Victim"
+        ], 
+        [
+            "Ajai Singh", 
+            "190", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "JAN. 26 : 18"
+    ], 
+    "death": "", 
+    "title": "Gogoi orders probe into bomb blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM"
+    ], 
+    "content": "National Gogoi orders probe into bomb blasts . . By Our Special Correspondent . . GUWAHATI , JAN. 26 . The Assam Chief Minister , Tarun Gogoi , has ordered an Additional Director-General of Police-level probe into the two blasts today during the Republic Day Parade . ` Appropriate action will be taken against whoever is found guilty for the security lapse , ' he told reporters . . . Mr. Gogoi said that people remained calm despite the blasts at the parade venue , which was a very a good sign and would foil attempts by the United Liberation Front of Asom -LRB- ULFA -RRB- to create terror among the people by resorting to violence . . . ` Detection difficult ' . . The City Superintendent of Police , H.C. Nath , said that such explosives could not be detected with gadgets such as deep search metal detectors as militants used carbon and plastic materials . . . Call to militants . . In his ceremonial address , which began a few seconds after the second blast , the Governor , Lt. Gen. -LRB- retd . -RRB- Ajai Singh , said that the law and order situation had improved and that insurgents had in desperation resorted to sporadic attacks on soft targets . He , however , said that the State Government had kept the door open for negotiations and that it was keen on beginning peace talks with ULFA . He called upon the militant outfit to reciprocate the gesture . . . 7 injured in Manipur . . In Manipur , seven persons , including two security personnel , were injured when militants set off two bombs at Jiribam in the Imphal East district . The condition of the five civilians was stated to be serious .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Assam", 
+        "Assam"
+    ], 
+    "O": [
+        "Republic Day Parade:44", 
+        "Superintendent of Police:128", 
+        "Governor:182"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "REPULBIC DAY", 
+    "link": "http://www.thehindu.com/2005/01/27/stories/2005012707951100.htm", 
+    "date": "26-01-2005", 
+    "target": "", 
+    "hot_spot": "Assam", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "99", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "105", 
+            "Accused"
+        ], 
+        [
+            "State Government", 
+            "223", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "242", 
+            "Accused"
+        ]
+    ]
+}

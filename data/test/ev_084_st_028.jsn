@@ -1,0 +1,110 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Pune German Bakery", 
+            "60", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "German", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "78", 
+            "Event"
+        ], 
+        [
+            "Chinnaswamy Stadium", 
+            "80", 
+            "Event"
+        ], 
+        [
+            "German Bakery", 
+            "149", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "154", 
+            "Neutral"
+        ], 
+        [
+            "Delhi Police", 
+            "154", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Imran", 
+            "120", 
+            "Accused"
+        ], 
+        [
+            "Yaseen Bhatkal", 
+            "122", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2010:31", 
+        "February:65", 
+        "April 2010:87", 
+        "September:101"
+    ], 
+    "death": "17", 
+    "title": "Police releases photo of mastermind of German Bakery blast", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "", 
+        "Pune German Bakery"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "New Delhi : The government says that six men who have been arrested are allegedly members of Indian Mujahideen terror group and are responsible for attacks in three cities in 2010 . The men , who include one Pakistani , were arrested from different parts of the country . Investigators claimed the arrested persons were allegedly involved in the Pune German Bakery blast in February last year in which 17 people were killed ; an explosion at Bangalore 's Chinnaswamy Stadium during an IPL match in April 2010 ; and a blast in car outside the Jama Masjid mosque in September last year ahead of the Commonwealth Games . Police sources said the mastermind of the attacks is named Imran or Yaseen Bhatkal and is missing . A photo released of him today purportedly shows him leaving behind a bag with the bomb that would explode at the German Bakery . -LRB- Read Delhi Police on arrests of alleged terrorists -RRB- .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "IPL match:84", 
+        "car:94", 
+        "Jama Masjid mosque:97", 
+        "Commonwealth Games:107"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/police-releases-photo-of-mastermind-of-german-bakery-blast-573033", 
+    "date": "13-02-2010", 
+    "target": "", 
+    "hot_spot": "Pune German Bakery", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "18", 
+            "Accused"
+        ]
+    ]
+}

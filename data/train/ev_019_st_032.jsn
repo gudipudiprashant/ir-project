@@ -1,0 +1,138 @@
+{
+    "LOC": [
+        [
+            "West Bengal", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "Khargagarh", 
+            "72", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rumi", 
+            "42", 
+            "Victim"
+        ], 
+        [
+            "Ayman al Zawahari", 
+            "155", 
+            "Accused"
+        ], 
+        [
+            "Mukul Roy", 
+            "261", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:29"
+    ], 
+    "death": "2", 
+    "title": "Burdwan Blast: Burqa Factory Front for Bomb-Making Plant?", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "AL-QAEDA"
+    ], 
+    "content": "Burdwan : An unpainted two-storey house with a pink window on the first floor - that was the scene of the blast in West Bengal 's Burdwan on Thursday in which two suspected militants were killed and a third injured.Alima and Rumi , the wives of one of the injured and one of the dead , have been arrested . When they moved into the first floor flat at Burdwan 's Khargagarh area four months ago , they apparently told the landlord they were in the burqa-making business . But what they allegedly made here instead , were bombs.A narrow grilled doorway is the only way up to the first floor . When police and firemen rushed here after the blast , the two women allegedly barred them from entering the flat where the explosion had occurred and used the time to allegedly burn incriminating material , including pamphlets that mentioned Al Qaeda chief Ayman al Zawahari and the words `` Mujahedeen '' and `` Chechen Rebels '' . Almost overshadowing investigations is the political row between the Trinamool and the CPM and the BJP over the incident . The opposition parties want the National Investigation Agency -LRB- NIA -RRB- to probe the blast and not the state police . They allege there are links between the ruling party and the people behind the blast.These allegations have emerged from the fact that a Trinamool supporter owns the building , and Trinamool flags were found inside a room on the ground floor . The Trinamool denies any links . Party MP Mukul Roy says there was no Trinamool office in the building . However , local party leaders have said on record that they used the ground floor room during elections.Police suspect a Bangladeshi link and that the suspected terrorists may have had connections with militant groups across the border.A lot of answers could come from the two women arrested and under interrogations . But , according to reports , the women are not giving anything away . One of the women reportedly told her interrogators that she could kill people . .", 
+    "injured": "3", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "", 
+        " first floor flat at Burdwan"
+    ], 
+    "O": [
+        "landlord:82", 
+        "burqa-making business:87", 
+        "police:114", 
+        "firemen:116", 
+        "Bangladeshi:293"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/burdwan-blast-burqa-factory-front-for-bomb-making-plant-676269", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": " first floor flat at Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Al Qaeda", 
+            "152", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "185", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "195", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "199", 
+            "Others"
+        ], 
+        [
+            "state police", 
+            "208", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "234", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "241", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "254", 
+            "Others"
+        ], 
+        [
+            "MP", 
+            "260", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "267", 
+            "Others"
+        ]
+    ]
+}

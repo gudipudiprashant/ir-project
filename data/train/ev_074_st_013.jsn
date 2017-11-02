@@ -1,0 +1,183 @@
+{
+    "LOC": [
+        [
+            "Sungajan Railway station", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Golaghat", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "eastern Assam", 
+            "66", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "69", 
+            "Neutral"
+        ], 
+        [
+            "Maligaon", 
+            "84", 
+            "Neutral"
+        ], 
+        [
+            "Nagaland", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "164", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "166", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "191", 
+            "Neutral"
+        ], 
+        [
+            "luggage van", 
+            "204", 
+            "Event"
+        ], 
+        [
+            "Bokajan", 
+            "230", 
+            "Neutral"
+        ], 
+        [
+            "Karbi Anglong", 
+            "232", 
+            "Neutral"
+        ], 
+        [
+            "Bokajan", 
+            "246", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "268", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "276", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Satyaprakash Rai", 
+            "91", 
+            "Accused"
+        ], 
+        [
+            "Sudama Rai", 
+            "97", 
+            "Accused"
+        ], 
+        [
+            "Lakshman Rai", 
+            "103", 
+            "Accused"
+        ], 
+        [
+            "A K Sah", 
+            "109", 
+            "Accused"
+        ], 
+        [
+            "D Prasad", 
+            "116", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "1 : 15 am : 32", 
+        "6:45 a.m. : 248", 
+        "four hours : 260", 
+        "11 a.m. : 270"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "5", 
+    "title": "Assam: 5 killed, 4 hurt in Rajdhani Express blast", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Golaghat", 
+        "", 
+        "Sungajan Railway station of Assam"
+    ], 
+    "terror_group": [
+        "ALL ADIVASI NATIONAL LIBERATION ARMY (AANLA)"
+    ], 
+    "content": "At least five persons were killed and four others seriously injured when a bomb blast rocked the New Delhi-bound Rajdhani Express near Sungajan Railway station of Assam 's Golaghat district at 1 : 15 am . on Thursday.The police suspect All Adivasi National Liberation Army ( AANLA ) 's involvement in the explosion that rocked the high-security elite train that was travelling from Dibrugarh in eastern Assam to New Delhi via Guwahati.A spokesman of the Northeast Frontier Railway ( NFR ) headquarters at Maligaon said the deceased were identified as Satyaprakash Rai ( 45 ) , Sudama Rai ( 45 ) , Lakshman Rai ( 44 ) , A K Sah ( 20 ) and D Prasad ( 19 ) . The four seriously inured persons were admitted to the Dimapur Civil Hospital in Nagaland . The toll may go up as injured were stated to be in critical condition.All passengers were traveling bonafide in the luggage van of the Rajdhani Express from Dibrugarh to Guwahati , the NFR official said . . . The Railway claims that luggage van in the train is utilised to accommodate passengers travelling between Dibrugarh and Guwahati.Initially , the explosion was suspected to have occurred on the luggage van . But later it was found out to have occurred on the tracks . . . The train stopped at the next station at Bokajan in Karbi Anglong district immediately after the blast . It resumed the onward journey from Bokajan at 6:45 a.m. after shedding the damaged van there.The train , now running four hours late , is expected to reach Guwahati around 11 a.m. before it proceeds to New Delhi . Other passengers travelling in the affected luggage van were shifted to a 3-tier AC bogie . Top railway and security officials had rushed to the site immediately after the blast . The Railway techninal stafs have already repaired the track at the blast site.An investigation has been launched . There has been a practice to scan the track in insurgency-hit areas of the state before the Rajdhani Express is allowed to pass through .", 
+    "injured": "4", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:39", 
+        "Rajdhani Express:345"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.indiaabroad.com/news/2007/dec/13blast1.htm", 
+    "date": "13-12-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "Sungajan Railway station of Assam", 
+    "delivery_mod": "LUGGAGE VAN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "All Adivasi National Liberation Army", 
+            "41", 
+            "Accused"
+        ], 
+        [
+            "AANLA", 
+            "47", 
+            "Accused"
+        ], 
+        [
+            "NFR", 
+            "80", 
+            "Others"
+        ], 
+        [
+            "Dimapur Civil Hospital", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "NFR", 
+            "169", 
+            "Others"
+        ]
+    ]
+}

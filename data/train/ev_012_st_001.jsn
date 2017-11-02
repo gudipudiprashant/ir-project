@@ -1,0 +1,69 @@
+{
+    "LOC": [
+        [
+            "Safrai", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Lakwa", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "Upper Assam", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Maligaon", 
+            "55", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "3.35 a.m.:27"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Blast derails  8 wagons", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Upper Assam ", 
+        "Upper Assam "
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Eight wagons of an empty goods train derailed between the Safrai and Lakwa stations of the Northeast Frontier Railway -LRB- NFR -RRB- in Upper Assam around 3.35 a.m. today when suspected ULFA militants blasted a bomb on the track . Luckily , there was no casualty . . . Senior NFR officials at the Maligaon headquarters here said the blast created a crater three feet deep and four feet wide . . . Police found a 138-metre long wire leading into a nearby tea garden from where the bomb seems to have been detonated . . . A metal container which is supposed to have contained the explosive charge was found near the blast site . . . Empty packets of dry food recovered from the tea garden suggest that the militants had bided their time through the night , police said .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Northeast Frontier Railway:17", 
+        "Police:74"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2003/08/26/stories/2003082607430900.htm", 
+    "date": "23-08-2003", 
+    "target": "", 
+    "hot_spot": "Upper Assam ", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "32", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Event"
+        ], 
+        [
+            "Islamabad", 
+            "203", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "207", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "213", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "238", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "261", 
+            "Neutral"
+        ], 
+        [
+            "Dubai", 
+            "332", 
+            "Neutral"
+        ], 
+        [
+            "U.K.", 
+            "335", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "58", 
+            "Comment"
+        ], 
+        [
+            "Somnath Chatterjee", 
+            "79", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "100", 
+            "Comment"
+        ], 
+        [
+            "M. Veerappa Moily", 
+            "137", 
+            "Comment"
+        ], 
+        [
+            "D. Raja", 
+            "165", 
+            "Comment"
+        ], 
+        [
+            "Gilani", 
+            "194", 
+            "Comment"
+        ], 
+        [
+            "Nirupama Subramanian", 
+            "199", 
+            "Comment"
+        ], 
+        [
+            "Yousuf Raza Gilani", 
+            "251", 
+            "Comment"
+        ], 
+        [
+            "Sherry Rehman", 
+            "279", 
+            "Comment"
+        ], 
+        [
+            "Fehmida Mirza", 
+            "309", 
+            "Comment"
+        ], 
+        [
+            "Asif Ali Zardari", 
+            "317", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "night : 18"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:17", 
+        "Saturday:215", 
+        "Saturday:282"
+    ], 
+    "death": "", 
+    "title": "PM appeals for calm", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        "Delhi"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . NEW DELHI : The Union Home Ministry issued a nationwide alert on Saturday night after serial blasts rocked the Capital . All States and Union Territories have been asked to remain vigilant and beef up security . . . Meanwhile , the blasts drew instant condemnation . Condemning the blasts , Prime Minister Manmohan Singh urged people to remain calm while expressing grief over the loss of life . . . Lok Sabha Speaker Somnath Chatterjee extended sympathy to the families of the dead and injured . . . In a statement , Congress president Sonia Gandhi described the blasts as an act of cowardice . Stating that those responsible would not be spared , she said such people had no place in Indian society . . . Earlier , AICC spokesman M. Veerappa Moily condemned the blasts which took place around the time he was briefing mediapersons about the extended Congress Working Committee . . . CPI national secretary D. Raja urged the government to step up security across the country . He noted that targeting innocent people had become the modus operandi of terrorists . . . Gilani condemns blasts . . Nirupama Subramanian reports from Islamabad : . . Pakistan condemned the bomb attacks in Delhi on Saturday as a barbaric act of cowardice and said the perpetrators were enemies of humanity . . . The people and government of Pakistan share the pain of the victims and bereaved families , Prime Minister Yousuf Raza Gilani said in a statement , adding that Pakistan condemns all terrorist acts perpetrated in any part of the world . . . Information and Broadcasting Sherry Rehman on Saturday condemned the blasts as a barbaric act of cowardice . She said those behind the attacks were enemies of humanity . . . National Assembly Speaker Fehmida Mirza , who is standing in for Asif Ali Zardari as the acting President he is away on a private visit to Dubai and the U.K. also condemned the blasts .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Union Home Ministry:9", 
+        "Lok Sabha Speaker:76", 
+        "government:236", 
+        "Prime Minister:249", 
+        "President:323"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/pm-appeals-for-calm/article1338080.ece", 
+    "date": "13-09-2008", 
+    "target": "", 
+    "hot_spot": "Delhi", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Congress", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "AICC", 
+            "135", 
+            "Others"
+        ], 
+        [
+            "Congress Working Committee", 
+            "156", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "162", 
+            "Others"
+        ], 
+        [
+            "National Assembly Speaker", 
+            "306", 
+            "Others"
+        ]
+    ]
+}

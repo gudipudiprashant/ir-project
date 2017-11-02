@@ -1,0 +1,480 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "31", 
+            "Neutral"
+        ], 
+        [
+            "Islamabad", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "49", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "56", 
+            "Neutral"
+        ], 
+        [
+            "The Jammu and Kashmir", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "211", 
+            "Neutral"
+        ], 
+        [
+            "Britain", 
+            "285", 
+            "Neutral"
+        ], 
+        [
+            "LONDON", 
+            "286", 
+            "Neutral"
+        ], 
+        [
+            "Britain", 
+            "291", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "300", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "331", 
+            "Event"
+        ], 
+        [
+            "British", 
+            "351", 
+            "Neutral"
+        ], 
+        [
+            "Britain", 
+            "389", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "392", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "400", 
+            "Event"
+        ], 
+        [
+            "Kashmir", 
+            "411", 
+            "Event"
+        ], 
+        [
+            "NEW DELHI", 
+            "419", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "441", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "449", 
+            "Neutral"
+        ], 
+        [
+            "Islamabad", 
+            "461", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "469", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "476", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "623", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "637", 
+            "Event"
+        ], 
+        [
+            "Britain", 
+            "717", 
+            "Neutral"
+        ], 
+        [
+            "LONDON", 
+            "720", 
+            "Neutral"
+        ], 
+        [
+            "Britain", 
+            "725", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "734", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "767", 
+            "Event"
+        ], 
+        [
+            "Britain", 
+            "827", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "830", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "838", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "849", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "A.B. Vajpayee", 
+            "12", 
+            "Comment"
+        ], 
+        [
+            "Vajpayee", 
+            "60", 
+            "Comment"
+        ], 
+        [
+            "Pradeep Bhatia", 
+            "102", 
+            "Victim"
+        ], 
+        [
+            "Vajpayee", 
+            "114", 
+            "Comment"
+        ], 
+        [
+            "Farooq", 
+            "195", 
+            "Others"
+        ], 
+        [
+            "Farooq Abdullah", 
+            "204", 
+            "Comment"
+        ], 
+        [
+            "Hizbul Mujahideen", 
+            "311", 
+            "Others"
+        ], 
+        [
+            "Keith Vaz", 
+            "357", 
+            "Comment"
+        ], 
+        [
+            "Tony Blair", 
+            "374", 
+            "Others"
+        ], 
+        [
+            "A.B. Vajpayee", 
+            "383", 
+            "Others"
+        ], 
+        [
+            "A.B. Vajpayee", 
+            "430", 
+            "Comment"
+        ], 
+        [
+            "Vajpayee", 
+            "480", 
+            "Comment"
+        ], 
+        [
+            "Pradeep Bhatia", 
+            "526", 
+            "Victim"
+        ], 
+        [
+            "Vajpayee", 
+            "538", 
+            "Comment"
+        ], 
+        [
+            "Farooq", 
+            "619", 
+            "Others"
+        ], 
+        [
+            "Farooq Abdullah", 
+            "630", 
+            "Comment"
+        ], 
+        [
+            "Hizbul Mujahideen", 
+            "745", 
+            "Others"
+        ], 
+        [
+            "Keith Vaz", 
+            "793", 
+            "Comment"
+        ], 
+        [
+            "Tony Blair", 
+            "812", 
+            "Others"
+        ], 
+        [
+            "A.B. Vajpayee", 
+            "821", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "tonight : 16", 
+        "today : 139", 
+        "today : 326", 
+        "tonight : 434", 
+        "today : 563", 
+        "today : 726", 
+        "today : 762"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "AUG. 10 : 4", 
+        "August 1 and 2 : 127", 
+        "AUG 10 : 288", 
+        "August 4 : 386", 
+        "AUG. 10 : 422", 
+        "August 1 and 2 : 551", 
+        "AUG 10 : 722", 
+        "August 4 : 824"
+    ], 
+    "death": "", 
+    "title": "Blast executed at Pak's behest: PM", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI , AUG. 10 . The Prime Minister , Mr. A.B. Vajpayee , said tonight that the car bomb explosion in Srinagar was executed ` at the behest of Pakistan ' . ` This is yet another example of Islamabad 's sustained campaign of cross-border terrorism in Jammu and Kashmir and other parts of India , ' Mr. Vajpayee said in a statement condemning the dastardly act . The Prime Minister said the State Government had been asked to provide adequate medical assistance to those injured . Conveying his heart-felt condolences to the families of the security personnel and Mr. Pradeep Bhatia , a photo journalist of The Hindustan Times , Mr. Vajpayee said , ` as in the past , and more recently on August 1 and 2 , innocent people have lost their lives in today 's explosion . ' Condemning such dastardly attacks on innocent civilians by ` those who refuse to tread the path of peace and have consciously chosen terror as a weapon ' he said , ` we will continue our battle against terrorism till such time this evil is destroyed . ' Pak . desperate : Farooq The Jammu and Kashmir Chief Minister , Dr. Farooq Abdullah , said the blast showed Pakistan 's desperation to flare up violence to prevent the peace initiatives . Terming the militant act `` most barbaric '' , he said `` killing people and engineering blasts at crowded places will not the take ultras anywhere ... By such gruesome acts , they may be obliging their mentors across the border , but their acts are against the tenets of Islam and humanity . '' - PTI Blast horrific , says Britain LONDON , AUG 10 . Britain today described as horrific the bomb attack in Srinagar and said it was ` very disappointed ' that the Hizbul Mujahideen called off its ceasefire . ' I am horrified by the news of today 's bomb attack in Srinagar . Our thoughts are with the innocent victims of this latest attack , and their families , ' the British Foreign Office Minister , Mr. Keith Vaz , said in a statement here . ` As -LRB- the Prime Minister -RRB- Mr. Tony Blair made clear in a message to Mr. A.B. Vajpayee on August 4 , Britain fully supports India 's increased efforts to bring peace to Kashmir . Violence and terrorism can not bring a solution to Kashmir , ' he added . . . NEW DELHI , AUG. 10 . The Prime Minister , Mr. A.B. Vajpayee , said tonight that the car bomb explosion in Srinagar was executed ` at the behest of Pakistan ' . . . ` This is yet another example of Islamabad 's sustained campaign of cross-border terrorism in Jammu and Kashmir and other parts of India , ' Mr. Vajpayee said in a statement condemning the dastardly act . . . The Prime Minister said the State Government had been asked to provide adequate medical assistance to those injured . . . Conveying his heart-felt condolences to the families of the security personnel and Mr. Pradeep Bhatia , a photo journalist of The Hindustan Times , Mr. Vajpayee said , ` as in the past , and more recently on August 1 and 2 , innocent people have lost their lives in today 's explosion . ' Condemning such dastardly attacks on innocent civilians by ` those who refuse to tread the path of peace and have consciously chosen terror as a weapon ' he said , ` we will continue our battle against terrorism till such time this evil is destroyed . ' Pak . desperate : Farooq . . The Jammu and Kashmir Chief Minister , Dr. Farooq Abdullah , said the blast showed Pakistan 's desperation to flare up violence to prevent the peace initiatives . . . Terming the militant act `` most barbaric '' , he said `` killing people and engineering blasts at crowded places will not the take ultras anywhere ... By such gruesome acts , they may be obliging their mentors across the border , but their acts are against the tenets of Islam and humanity . '' . . - PTI . . Blast horrific , says Britain . . LONDON , AUG 10 . Britain today described as horrific the bomb attack in Srinagar and said it was ` very disappointed ' that the Hizbul Mujahideen called off its ceasefire . . . ' I am horrified by the news of today 's bomb attack in Srinagar . Our thoughts are with the innocent victims of this latest attack , and their families , ' the British Foreign Office Minister , Mr. Keith Vaz , said in a statement here . . . ` As -LRB- the Prime Minister -RRB- Mr. Tony Blair made clear in a message to Mr. A.B. Vajpayee on August 4 , Britain fully supports India 's increased efforts to bring peace to Kashmir . Violence and terrorism can not bring a solution to Kashmir , ' he added .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "car bomb:19", 
+        "explosion:21", 
+        "executed:25", 
+        "behest:29", 
+        "sustained campaign:43", 
+        "cross-border terrorism:46", 
+        "condemning:65", 
+        "dastardly act:67", 
+        "Prime Minister:71", 
+        "medical assistance:83", 
+        "injured:87", 
+        "heart-felt condolences:91", 
+        "security personnel:98", 
+        "photo journalist:106", 
+        "lost:135", 
+        "lives:137", 
+        "today 's explosion:139", 
+        "dastardly attacks:146", 
+        "innocent civilians:149", 
+        "refuse:155", 
+        "tread:157", 
+        "path of peace:159", 
+        "terror:166", 
+        "weapon:169", 
+        "continue:177", 
+        "terrorism:181", 
+        "evil:186", 
+        "destroyed:188", 
+        "blast:209", 
+        "desperation:213", 
+        "flare:215", 
+        "violence:217", 
+        "prevent:219", 
+        "peace initiatives:221", 
+        "militant act:226", 
+        "most barbaric:229", 
+        "engineering blasts:239", 
+        "crowded places:242", 
+        "ultras:248", 
+        "gruesome acts:253", 
+        "obliging:259", 
+        "mentors:261", 
+        "border:264", 
+        "tenets of Islam:272", 
+        "humanity:276", 
+        "Blast horrific:281", 
+        "described:293", 
+        "horrific:295", 
+        "bomb attack:297", 
+        "disappointed:307", 
+        "ceasefire:316", 
+        "horrified:321", 
+        "news:324", 
+        "bomb attack:328", 
+        "innocent victims:338", 
+        "latest attack:342", 
+        "British Foreign Office Minister , Mr. Keith Vaz:351", 
+        "message:380", 
+        "supports:391", 
+        "increased efforts:394", 
+        "peace:398", 
+        "Violence:402", 
+        "terrorism:404", 
+        "car bomb explosion:437", 
+        "executed:443", 
+        "behest:447", 
+        "sustained:463", 
+        "campaign:464", 
+        "cross-border terrorism:466", 
+        "condemning:485", 
+        "dastardly act:487", 
+        "Prime Minister:493", 
+        "medical assistance:505", 
+        "injured:509", 
+        "Conveying:513", 
+        "heart-felt condolences:515", 
+        "security personnel:522", 
+        "photo journalist:530", 
+        "innocent people:556", 
+        "lost:559", 
+        "today 's explosion:563", 
+        "Condemning:568", 
+        "dastardly attacks:570", 
+        "innocent civilians:573", 
+        "refuse:579", 
+        "tread:581", 
+        "path of peace:583", 
+        "terror:590", 
+        "weapon:593", 
+        "battle against terrorism:603", 
+        "evil:610", 
+        "destroyed:612", 
+        "desperation:639", 
+        "flare up:641", 
+        "violence:643", 
+        "prevent:645", 
+        "peace initiatives:647", 
+        "militant act:654", 
+        "most barbaric:657", 
+        "killing people:664", 
+        "engineering blasts:667", 
+        "crowded places:670", 
+        "ultras:676", 
+        "gruesome acts:681", 
+        "mentors:689", 
+        "border:692", 
+        "tenets:700", 
+        "Islam and humanity:702", 
+        "Blast horrific:713", 
+        "horrific:729", 
+        "bomb attack:731", 
+        "very disappointed:740", 
+        "ceasefire:750", 
+        "horrified:757", 
+        "today 's bomb attack:762", 
+        "innocent victims:774", 
+        "latest attack:778", 
+        "message:818", 
+        "supports:829", 
+        "India 's increased efforts:830", 
+        "peace:836", 
+        "Violence and terrorism:840"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2000/08/11/stories/01110002.htm", 
+    "date": "10-08-2000", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "State Government", 
+            "75", 
+            "Others"
+        ], 
+        [
+            "The Hindustan Times", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "280", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "497", 
+            "Others"
+        ], 
+        [
+            "The Hindustan Times", 
+            "533", 
+            "Others"
+        ]
+    ]
+}

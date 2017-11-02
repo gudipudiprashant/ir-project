@@ -1,0 +1,178 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Mehrauli Sarai", 
+            "36", 
+            "Event"
+        ], 
+        [
+            "South Delhi", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "Gaffar Market", 
+            "62", 
+            "Neutral"
+        ], 
+        [
+            "Sarojini Nagar", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Greater Kailash-I", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Palika Bazar", 
+            "152", 
+            "Neutral"
+        ], 
+        [
+            "M Block Market", 
+            "228", 
+            "Neutral"
+        ], 
+        [
+            "Greater Kailash-I", 
+            "232", 
+            "Neutral"
+        ], 
+        [
+            "Gaffar Market", 
+            "287", 
+            "Neutral"
+        ], 
+        [
+            "Sarojini Nagar", 
+            "346", 
+            "Neutral"
+        ], 
+        [
+            "Sarojini Nagar", 
+            "437", 
+            "Neutral"
+        ], 
+        [
+            "Noida", 
+            "449", 
+            "Neutral"
+        ], 
+        [
+            "M-Block market", 
+            "472", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Amit Sharma", 
+            "146", 
+            "Comment"
+        ], 
+        [
+            "B.S. Kohli", 
+            "157", 
+            "Comment"
+        ], 
+        [
+            "Raju Singh", 
+            "216", 
+            "Comment"
+        ], 
+        [
+            "Surendra Kumar Upadhyaya", 
+            "268", 
+            "Comment"
+        ], 
+        [
+            "Anil Kumar", 
+            "338", 
+            "Comment"
+        ], 
+        [
+            "Priyanka Das", 
+            "434", 
+            "Others"
+        ], 
+        [
+            "Sanya Suneja", 
+            "451", 
+            "Others"
+        ], 
+        [
+            "Meeta", 
+            "462", 
+            "Comment"
+        ], 
+        [
+            "Meeta", 
+            "526", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "afternoon : 243", 
+        "10 minutes : 264"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:26", 
+        "Saturday:242"
+    ], 
+    "death": "", 
+    "title": "Many give weekend shopping a miss", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "SOUTH DELHI", 
+        "Delhi", 
+        " Mehrauli Sarai market"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . NEW DELHI : Crowds at some of the major markets of the Capital began thinning out in the second half of Saturday as news spread about the bomb blast at the Mehrauli Sarai market in South Delhi . . . As news began trickling in , barricades came up at prominent market places like Connaught Place , Gaffar Market , Sarojini Nagar and Greater Kailash-I . The Delhi police personnel carried out a thorough check of the shops . . . Public announcements were made by the police as well as local shopkeepers associations to alert customers about the presence of any suspicious object or person . . . There was heavy security even before Saturdays blast . But more police personnel came to inspect the area after the incident . They also asked us to be more vigilant , said Amit Sharma , a shopkeeper at Palika Bazar . . . B.S. Kohli , president of the Palika Bazar Shopkeepers Welfare Association , said dustbins were checked and shopkeepers asked to maintain calm to avoid any panic among customers . . . Shortly after the blast , the local police instructed all the shopkeepers to keep their stuff inside the store as they wanted to clear the walkway , said Raju Singh , who works with a kids garments store at the M Block Market in Greater Kailash-I . . . The parking was full till Saturday afternoon . Just after the bomb blast , people began rushing out . About 20 cars left within a span of 10 minutes , said Surendra Kumar Upadhyaya , a parking attendant at C-Block at Connaught Place . . . A handloom trader at Gaffar Market lamented how unsafe the Capital had become in view of the frequent bomb blasts . Life has become unpredictable . There are fewer people here than normal days . Every day something or the other is happening . How will we sustain ourselves , he rued . . . Anil Kumar , a garments shop owner at Sarojini Nagar , said : This place bustles with activity during weekends . People come out with their families to shop . But all that is missing today . . . Even as most opted to give weekend shopping a miss , there were many who decided to venture out . We heard about the blast as we were leaving home . We were apprehensive , but Durga Puja is approaching and the excitement of the festival overcame the fear and we decide to step out , said Priyanka Das at Sarojini Nagar market . . . On hearing about the blast , Noida resident Sanya Suneja who was to go out shopping with her mother Meeta , initially thought of cancelling their outing at the M-Block market . But since I work nearby , we decided to go out . The market is very deserted today . Normally on Saturdays , it is bursting at the seams . But today there are hardly any people . In fact , it is this atmosphere that is more scaring , said Meeta .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:125"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/many-give-weekend-shopping-a-miss/article1347286.ece", 
+    "date": "27-09-2008", 
+    "target": "", 
+    "hot_spot": " Mehrauli Sarai market", 
+    "delivery_mod": "MARKET", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi police", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "Palika Bazar Shopkeepers Welfare Association", 
+            "163", 
+            "Others"
+        ], 
+        [
+            "local police", 
+            "194", 
+            "Others"
+        ]
+    ]
+}

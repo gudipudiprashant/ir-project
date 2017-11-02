@@ -1,0 +1,194 @@
+{
+    "LOC": [
+        [
+            "Bihar", 
+            "3", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Maniyari", 
+            "53", 
+            "Accused"
+        ], 
+        [
+            "Patna", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Kalyanpur", 
+            "125", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "167", 
+            "Event"
+        ], 
+        [
+            "Darbhanga", 
+            "251", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Taqui Akhtar", 
+            "6", 
+            "Comment"
+        ], 
+        [
+            "Mohammad Tahseen Akhtar", 
+            "25", 
+            "Accused"
+        ], 
+        [
+            "Monu", 
+            "29", 
+            "Accused"
+        ], 
+        [
+            "Taqui Akhtar", 
+            "76", 
+            "Comment"
+        ], 
+        [
+            "Monu", 
+            "129", 
+            "Accused"
+        ], 
+        [
+            "Tahseen Akhtar", 
+            "133", 
+            "Accused"
+        ], 
+        [
+            "Monu", 
+            "136", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "150", 
+            "Accused"
+        ], 
+        [
+            "Narendra Modi", 
+            "176", 
+            "Others"
+        ], 
+        [
+            "Monu", 
+            "184", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Jahrul Haque", 
+            "187", 
+            "Others"
+        ], 
+        [
+            "Wasim Akhtar", 
+            "199", 
+            "Others"
+        ], 
+        [
+            "Monu", 
+            "209", 
+            "Accused"
+        ], 
+        [
+            "Wasim Akhtar", 
+            "220", 
+            "Others"
+        ], 
+        [
+            "Bhatkal", 
+            "265", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:39", 
+        "January , 2011 : 49", 
+        "Sunday:169"
+    ], 
+    "death": "", 
+    "title": "Patna serial blasts mastermind's uncle disowns him", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "SAMASTIPUR -LRB- Bihar -RRB- : Taqui Akhtar , a leader of ruling JD -LRB- U -RRB- and uncle of Patna rally serial blasts mastermind Mohammad Tahseen Akhtar alias Monu , disowned him and sought his severest punishment on Wednesday . ` After division of our ancestral property in January , 2011 at Maniyari village , 8km from the district headquarters and 60 km from Patna , we have no ties with his family , ' Taqui Akhtar , JD -LRB- U -RRB- district general secretary told reporters here . ` We have nothing to do with him and his family after division of our ancestral property , ' he stressed , adding he had already stated it in the complaint he lodged with the Kalyanpur police station after Monu left home . Tahseen Akhtar alias Monu is considered as number two in the Indian Mujahideen -LRB- IM -RRB- after Yasin Bhatkal and investigations have pointed out that he is the mastermind behind the serial blasts in Patna on Sunday before BJP 's prime ministerial candidate Narendra Modi was to address a rally . Monu 's grandfather Mohammad Jahrul Haque had retired as a police inspector . His father Wasim Akhtar is the eldest of the five brothers and Monu is eldest among the three sons , villagers said . Wasim Akhtar is a marginal farmer and his two younger sons are studying in school . The fugitive IM activist did his matriculation from Maniyari High School and had gone to Darbhanga in connection with preparation for engineering examination where he came in contact with Bhatkal , villagers added .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "patna rally serial blasts:20", 
+        "serial blasts mastermind:22", 
+        "severest punishment:36", 
+        "ancestral property:46", 
+        "mastermind behind:161", 
+        "mastermind behind the serial blasts:161", 
+        "rally:182", 
+        "marginal farmer:224", 
+        "fugitive:237"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Patna-serial-blasts-masterminds-uncle-disowns-him/articleshow/24942139.cms", 
+    "date": "27-10-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Kalyanpur police station", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "144", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "147", 
+            "Accused"
+        ], 
+        [
+            "BJP", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "238", 
+            "Accused"
+        ], 
+        [
+            "Maniyari High School", 
+            "244", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "LOC": [
+        [
+            "Mecca Masjid", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "25", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "43", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "81", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "98", 
+            "Accused"
+        ], 
+        [
+            "mosques", 
+            "154", 
+            "Source"
+        ], 
+        [
+            "Mecca Masjid", 
+            "245", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "291", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "297", 
+            "Neutral"
+        ], 
+        [
+            "Jama Masjid", 
+            "299", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "305", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:74", 
+        "2006:302", 
+        "2006:307"
+    ], 
+    "death": "", 
+    "title": "Needle of suspicion points to HuJI, Jaish", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        "Mecca Masjid"
+    ], 
+    "terror_group": [
+        "JAISH-E-MOHAMMED / TAHRIK-E-FURQAN", 
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI"
+    ], 
+    "content": "Special Correspondent . . Two defused bombs recovered from Mecca Masjid shall be able to provide a clue . . Probe into commonalities of Delhi , Malegaon and Hyderabad blasts Jaish operatives were under pressure to ` do something ' . . New Delhi : Intelligence agencies at the Centre are examining the possible involvement of two terror groups the Jaish-e-Mohammad -LRB- JeM -RRB- and the Harkat ul-Jihad Islami -LRB- HuJI -RRB- in Friday 's bomb blast in Hyderabad 's Mecca Masjid . The Jaish is based in the Pakistan-controlled territory , while HuJI operates out of Bangladesh . . . According to informed sources , the Central agencies had inputs , dating back to March/April , that the Jaish operatives were under pressure from their handlers across the Line of Control to ` do something . ' Nor were the handlers , according to the sources , averse to planting bombs in mosques . . . The objective was and is to create communal disturbances in the country . . . However , the sources did admit that there was no concrete proof , and any suggestion of Jaish involvement was ` just a conjecture . ' . . The agencies pin their hopes on the Hyderabad police 's input about the possible HuJI involvement . . . The bomb that went off was triggered from a mobile phone ; and , according to reports , the two defused bombs recovered from the Mecca Masjid should be able to provide a clue . Analysts believe that if confirmed these ` footprints ' should be able to provide the first major breakthrough to anti-terror investigators . . . For now , the Central agencies are probing the commonalities in the Hyderabad blast and the explosions in Delhi 's Jama Masjid in 2006 and in Malegaon in 2006 .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        "MOBILE DEVICE"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/needle-of-suspicion-points-to-huji-jaish/article1844803.ece", 
+    "date": "18-05-2007", 
+    "target": "MOSQUE", 
+    "hot_spot": "Mecca Masjid", 
+    "delivery_mod": "MOSQUE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Jaish", 
+            "31", 
+            "Accused"
+        ], 
+        [
+            "Jaish-e-Mohammad", 
+            "61", 
+            "Accused"
+        ], 
+        [
+            "JeM", 
+            "63", 
+            "Accused"
+        ], 
+        [
+            "Harkat ul-Jihad Islami", 
+            "67", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "71", 
+            "Accused"
+        ], 
+        [
+            "Jaish", 
+            "85", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "94", 
+            "Accused"
+        ], 
+        [
+            "Jaish", 
+            "120", 
+            "Accused"
+        ], 
+        [
+            "Jaish", 
+            "190", 
+            "Accused"
+        ], 
+        [
+            "Hyderabad police", 
+            "208", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "215", 
+            "Accused"
+        ]
+    ]
+}

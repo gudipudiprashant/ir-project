@@ -1,0 +1,176 @@
+{
+    "LOC": [
+        [
+            "Bihars Gaya", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Maharashtras Wardha", 
+            "140", 
+            "Neutral"
+        ], 
+        [
+            "Myanmar", 
+            "157", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "178", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "224", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "250", 
+            "Neutral"
+        ], 
+        [
+            "Bodhgaya", 
+            "266", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "277", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bhante Sadanand Mahasthaver", 
+            "125", 
+            "Comment"
+        ], 
+        [
+            "Bhante Sadanand", 
+            "147", 
+            "Comment"
+        ], 
+        [
+            "Bhante Sadanand", 
+            "257", 
+            "Comment"
+        ], 
+        [
+            "Lord Buddha", 
+            "285", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2002:275"
+    ], 
+    "death": "", 
+    "title": "National Buddhist body condemns attack", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "", 
+        "Mahabodhi temple"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Shocked and saddened by the serial blasts that rocked the Mahabodhi temple in Bihars Gaya district , the All India Bhiku Sangha , a national organisation of Buddhist monks has condemned the incident as an attack on messengers of peace . . . Buddhist monks all over the country feel saddened by the attack . The international community is also shaken . We try to put people on the right path and we have been made the target of a terror attack . The All India Bhiku Sangha condemns this attack . This should not have happened . We spread the message of peace across the world . This is an attempt to spread terror and create discord among the messengers of peace , Bhante Sadanand Mahasthaver , chairman of the Sangha , told The Hindu on phone from Maharashtras Wardha district . . . Mr. Bhante Sadanand said a likely impact of the conflict in Myanmar can not be ruled out as a possible reason for targeting the Buddhist community in this fashion . . . Bodh Gaya is the site that sent the message of peace to the world . Its a sacred site . It was the fountainhead of enlightenment and knowledge and education to the world . Many universities and centers of learning sprang from this site . Although India is lagging behind in education , it is considered to be gurudesh -LSB- teacher country -RSB- . There were many Buddhist Universities here once and India was the leader in education , Bhante Sadanand said . . . Mahabodhi temple at Bodhgaya is a world heritage site - inscribed in 2002 . Bodh Gaya is associated with the enlightenment of Lord Buddha -LRB- 566-486 B.C. -RRB- . The sacred Bodhi tree under which he is believed to have attained enlightenment . The place is highly venerated by the Buddhists .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Shocked:1", 
+        "saddened:3", 
+        "serial blasts:6", 
+        "rocked:9", 
+        "Mahabodhi temple:11", 
+        "national organisation:25", 
+        "Buddhist monks:28", 
+        "condemned:31", 
+        "incident:33", 
+        "attack:36", 
+        "messengers:38", 
+        "peace:40", 
+        "Buddhist monks:44", 
+        "saddened:51", 
+        "attack:54", 
+        "international community:57", 
+        "shaken:61", 
+        "right path:70", 
+        "target:78", 
+        "terror attack:81", 
+        "condemns:89", 
+        "attack:91", 
+        "message:102", 
+        "peace:104", 
+        "world:107", 
+        "attempt:112", 
+        "spread terror:114", 
+        "create discord:117", 
+        "messengers of peace:121", 
+        "phone:138", 
+        "impact:152", 
+        "conflict:155", 
+        "targeting:168", 
+        "Buddhist community:170", 
+        "site:182", 
+        "message of peace:186", 
+        "sacred site:195", 
+        "fountainhead of enlightenment:201", 
+        "knowledge and education:205", 
+        "lagging:226", 
+        "education:229", 
+        "gurudesh:236", 
+        "teacher:238", 
+        "Buddhist Universities:245", 
+        "leader in education:253", 
+        "Mahabodhi temple:263", 
+        "world heritage site:269", 
+        "enlightenment:283", 
+        "566-486 B.C.:288", 
+        "sacred Bodhi tree:293", 
+        "attained enlightenment:303", 
+        "venerated:310", 
+        "Buddhists:313"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/national-buddhist-body-condemns-attack/article4891332.ece?ref=relatedNews", 
+    "date": "07-07-2013", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "All India Bhiku Sangha", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "All India Bhiku Sangha", 
+            "85", 
+            "Others"
+        ], 
+        [
+            "Sangha", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "135", 
+            "Others"
+        ]
+    ]
+}

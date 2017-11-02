@@ -1,0 +1,167 @@
+{
+    "LOC": [
+        [
+            "Mehrauli", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "AHMEDABAD", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Tuka Bazar", 
+            "34", 
+            "Neutral"
+        ], 
+        [
+            "Modasa", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Sabarkantha", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Mehrauli", 
+            "62", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "Mehrauli", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Jainuddin", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "Kot-ni-Rang", 
+            "178", 
+            "Source"
+        ], 
+        [
+            "Kalupur", 
+            "181", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad .", 
+            "187", 
+            "Neutral"
+        ], 
+        [
+            "Modasa", 
+            "268", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "282", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "316", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "322", 
+            "Neutral"
+        ], 
+        [
+            "Bhikhu Chowk", 
+            "339", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "350", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manas Dasgupta", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Ayub Ghori", 
+            "135", 
+            "Victim"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "272", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "night : 45", 
+        "9.30 p.m.:104", 
+        "morning : 168"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:44", 
+        "Monday:352"
+    ], 
+    "death": "2", 
+    "title": "Two killed, 16 injured in blast in Gujarat town", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "South West", 
+        "Delhi", 
+        "Mehrauli"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Manas Dasgupta . . A repeat of Mehrauli incident . . AHMEDABAD : Two people were killed and 16 injured , three of them critically , in a bomb blast in the minority-dominated Tuka Bazar at Modasa town in Gujarats Sabarkantha district on Monday night . . . The police said it was almost a re-enactment of Saturdays bomb blast at Mehrauli in Delhi . As at Mehrauli , two persons riding a motorbike through the Tuka Bazar a market full of eating houses where members of the minority community gathered after breaking the days Roza dropped a bag outside a restaurant around 9.30 p.m. . A resident , Jainuddin , picked up the bag and just as he was checking its contents , the bomb exploded , killing him on the spot . Ayub Ghori , who was injured , died in hospital . . . The police cordoned off the area and were investigating the identity of the motorbike riders . . . In the morning , 17 low-intensity crude bombs were recovered from the Kot-ni-Rang area at Kalupur in the old city of Ahmedabad . A bomb squad defused them . . . An official of the squad said the bombs with shrapnel and other discarded materials were designed to create panic , not to cause grievous injuries . The bombs were kept in small tins in a bucket , which was left in a dustbin . . . Centre monitoring situation . . PTI reports : . . The Union Home Ministry is closely monitoring the situation arising out of an explosion at Modasa . Home Secretary Madhukar Gupta was in touch with senior officials of the Gujarat government and police authorities there , a Home Ministry spokesperson said . . . The Ministry appealed to the people to maintain calm and guard against rumours . . . 2 killed in Malegaon hotel blast . . In Maharashtra , two people were killed and 35 injured in a blast in a hotel in the Bhikhu Chowk area of the communally sensitive , powerloom town of Malegaon on Monday night . . . Eight others , including six policemen , were injured in stone throwing resorted to by a mob after the explosion , the police said . The mob also damaged the jeep of the sub-divisional-magistrate , the police said . The police fired in the air to disperse the mob .", 
+    "injured": "16", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:149", 
+        "17 low-intensity crude bombs:170", 
+        "small tins:228", 
+        "bucket:232", 
+        "dustbin:239", 
+        "Union Home Ministry:254", 
+        "Home Secretary:270", 
+        "night:353", 
+        "sub-divisional-magistrate:390"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/two-killed-16-injured-in-blast-in-gujarat-town/article1348428.ece", 
+    "date": "29-09-2008", 
+    "target": "ROAD SIDE", 
+    "hot_spot": "Mehrauli", 
+    "delivery_mod": "BAG", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "248", 
+            "Others"
+        ]
+    ]
+}

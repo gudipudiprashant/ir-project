@@ -1,0 +1,139 @@
+{
+    "LOC": [
+        [
+            "Islamabad", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "75", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "91", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "263", 
+            "Neutral"
+        ], 
+        [
+            "Bemina", 
+            "288", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "291", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "342", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "344", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "RK Singh", 
+            "42", 
+            "Comment"
+        ], 
+        [
+            "AK Antony", 
+            "100", 
+            "Comment"
+        ], 
+        [
+            "Moazzam Khan", 
+            "137", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "January 8:125", 
+        "January:372"
+    ], 
+    "death": "", 
+    "title": "Srinagar terror attack: Pakistan rejects India's charges, denies link", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "", 
+        "Srinagar", 
+        "Srinagar"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Islamabad : Pakistan today rejected India 's contention that Pakistani militants were behind a terrorist attack in Srinagar that killed five paramilitary personnel , saying such `` knee-jerk reactions '' could undermine efforts to normalise bilateral relations.Reacting to Indian Home Secretary RK Singh 's comments that `` prime facie evidence suggests that the militants who attacked the members of the Central Reserve Police Force were from across the border , they were probably from Pakistan '' , the Foreign Office said it `` strongly rejects '' the remarks . `` Pakistan also rejects the statement made by Defence Minister AK Antony in the Rajya Sabha accusing the Special Services Group of Pakistan Army of beheading two Indian soldiers on the Line of Control on January 8 , '' said the statement issued by Foreign Office spokesman Moazzam Khan . `` We feel that this trend of making irresponsible statements and knee-jerk reactions by senior Indian government functionaries has the potential of undermining the efforts made by both sides to normalise relations between the two countries , '' the statement said.Pakistan was itself a victim of terrorism and had made `` immense sacrifices in its efforts against this menace '' , the statement said.Islamabad condemns `` such actions of terrorism in the strongest possible terms '' and calls on the Indian government to carry out a thorough investigation into the incident `` before levelling such accusations which are counterproductive and serve no purpose '' , it said.Pakistan , the statement said , remained committed to `` discussing and resolving all outstanding issues with India through a meaningful dialogue '' . Militants disguised as cricketers killed five paramilitary troopers after sneaking into a CRPF camp adjoining a school in Bemina area of Srinagar today . As many as 18 people including 15 CRPF jawans and three civilians were also injured in the attack , the first major strike in the city in three years.Home Secretary Singh said two militants involved in the attack were killed and security forces were searching for others.Ties between India and Pakistan were hit earlier this year after several violations of the ceasefire along the LoC . Indian Army officials said two soldiers were beheaded by Pakistani forces in January . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Pakistani militants:10", 
+        "knee-jerk reactions:28", 
+        "Indian Home Secretary:39", 
+        "Foreign Office:79", 
+        "Defence Minister:98", 
+        "Foreign Office:134", 
+        "CRPF:282", 
+        "CRPF:301", 
+        "Indian Army:360", 
+        "Pakistani forces:369"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/srinagar-terror-attack-pakistan-rejects-indias-charges-denies-link-516127", 
+    "date": "13-03-2013", 
+    "target": "POLICE AND DEFENCE FORCES", 
+    "hot_spot": "Srinagar", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Central Reserve Police Force", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "Pakistan Army", 
+            "112", 
+            "Others"
+        ], 
+        [
+            "Indian government", 
+            "155", 
+            "Others"
+        ]
+    ]
+}

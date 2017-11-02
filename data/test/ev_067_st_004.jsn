@@ -1,0 +1,140 @@
+{
+    "LOC": [
+        [
+            "HYDERABAD", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "48", 
+            "Event"
+        ], 
+        [
+            "mosque", 
+            "186", 
+            "Neutral"
+        ], 
+        [
+            "masjid", 
+            "294", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "300", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "302", 
+            "Neutral"
+        ], 
+        [
+            "Jama Masjid", 
+            "304", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "307", 
+            "Neutral"
+        ], 
+        [
+            "Jama Masjid", 
+            "351", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "359", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "361", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Harish Kumar Gupta", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "Gupta", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "Shahed", 
+            "372", 
+            "Accused"
+        ], 
+        [
+            "Bilal", 
+            "374", 
+            "Accused", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:26"
+    ], 
+    "death": "", 
+    "title": "Harish Gupta to head special team", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . Bomb was made using PETN SIM card will be of little use ? . . HYDERABAD : The city police on Monday formed a special team , headed by Joint Commissioner -LRB- Administration -RRB- Harish Kumar Gupta to investigate into the blast at Mecca Masjid . . . A time limit of 60 days was fixed for completion of the investigation . . . Officials of counter intelligence , cyber crime investigation unit of the CID , a couple of forensic experts and officers of the rank of Inspectors and SIs would assist Mr. Gupta in tracking down the culprits behind the blast . . . The team is probing the case from different angles . Based on the reports of forensic experts that the bomb was made using pentaerythritol tetran -LRB- PETN -RRB- and triggered using alarm facility in mobile phone , investigators are collecting details of earlier incidents in which such improvised explosive devices -LRB- IEDs -RRB- were used . . . Important lead . . The SIM card that was found connected to an unexploded bomb on the mosque premises became another important lead for police . However , they are sceptical of this clue helping them achieve a breakthrough . . . Even ordinary offenders are taking care not to use same mobile phone for long periods for the fear being tracked down . . . ` When they plan to trigger blasts using mobile phones , they must be aware how police track them using SIM cards . They SIM card could be a new one and hence will be of little help in investigation , ' police said . . . Another angle police are focussing on is the possible connection of the masjid blast to the explosions in Malegaon in Maharashtra and Jama Masjid of Delhi last year . . . At all the three places , explosions were triggered either inside the mosques or places close to them . . . Use of IEDs . . It is found that while crude and low-intensity bombs were used in Jama Masjid , IEDs were used both in Delhi and Hyderabad . . . Since suspicions centred on involvement of Hyderabadi Shahed alias Bilal , an alleged ISI agent operating from abroad , police are grilling his relatives and family members to ascertain whether he contacted any of them in the recent past .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        "Mecca Masjid"
+    ], 
+    "O": [
+        "PETN SIM:9", 
+        "Joint Commissioner:34", 
+        "pentaerythritol tetran:134", 
+        "police:193", 
+        "crude:344", 
+        "low-intensity:346"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/harish-gupta-to-head-special-team/article1845827.ece", 
+    "date": "18-05-2007", 
+    "target": "MOSQUE", 
+    "hot_spot": "Mecca Masjid", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "forensic experts", 
+            "85", 
+            "Others"
+        ], 
+        [
+            "forensic experts", 
+            "126", 
+            "Others"
+        ], 
+        [
+            "ISI", 
+            "378", 
+            "Others"
+        ]
+    ]
+}

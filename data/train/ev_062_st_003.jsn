@@ -1,0 +1,182 @@
+{
+    "LOC": [
+        [
+            "Gujarat", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "Sankat Mochan temple", 
+            "77", 
+            "Event"
+        ], 
+        [
+            "Sankat Mochan", 
+            "107", 
+            "Event"
+        ], 
+        [
+            "Cantonment railway station", 
+            "142", 
+            "Event"
+        ], 
+        [
+            "stationary Shivganga Express", 
+            "149", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "154", 
+            "Neutral"
+        ], 
+        [
+            "waiting hall", 
+            "159", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "308", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "390", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "421", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "430", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sonia Gandhi", 
+            "58", 
+            "Others"
+        ], 
+        [
+            "Hanuman", 
+            "101", 
+            "Others"
+        ], 
+        [
+            "Sankat Mochan", 
+            "117", 
+            "Others"
+        ], 
+        [
+            "Kaushik Kishore", 
+            "275", 
+            "Comment"
+        ], 
+        [
+            "George W. Bush", 
+            "406", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "March 7:1"
+    ], 
+    "death": "", 
+    "title": "Serial blasts in Varanasi", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "JAMIAT-ULAMA-I-HIND"
+    ], 
+    "content": "March 7 : The political leadership scrambled tonight to prevent a repeat of Gujarat after serial blasts killed at least 15 people in Varanasi , one of the most renowned pilgrimage cities in the world . . . The Prime Minister led the chorus of appeals for calm and despatched additional security forces to Uttar Pradesh while Sonia Gandhi rushed to Varanasi with the home minister . . . The first explosion occurred in the packed Sankat Mochan temple near Benaras Hindu University . Hundreds of pilgrims were in the temple as Tuesdays are considered particularly holy by devotees of Hanuman , the deity of the Sankat Mochan shrine . . . Some Hindus believe that Sankat Mochan is second in importance only to the Viswanath Mandir , the holiest of Hindu shrines . . . Two other explosions rocked the Cantonment railway station ' one inside the stationary Shivganga Express bound for Delhi and another in a waiting hall . . . The break-up of the casualty figure was not available but police said it seemed higher at the station . At least 100 people were injured . . . Six bombs were found from other areas in the city , including in a restaurant frequented by foreigners . . . In the temple , the bomb was placed in a container near a gate where women usually sit . When the bomb went off , an elderly couple was waiting to offer prayers for their newly-wed daughter and her husband . . . I was about 100 feet away . I could see hands and legs flying in the air , said Kaushik Kishore , a student of Benaras Hindu University . . . No group claimed responsibility for the blasts and officials said it was too early to pin blame . . . In Delhi , the political and administrative machinery worked overtime to prevent a backlash , especially since Holi is only a week away and preliminary investigation suggested that the explosions bore similarities to the pre-Diwali blasts that rocked the capital last year . . . Security has been stepped up across sensitive spots in the country and the government signalled that its priority is to ensure that no Gujarat-like flare-up occurred anywhere . . . Five companies of CRPF have been sent to Uttar Pradesh , on the boil following protests over cartoons and the visit of US President George W. Bush . The BJP and the VHP have called for a bandh in Uttar Pradesh tomorrow . . . Sonia left for Varanasi after a meeting with Congress leaders . At this moment , while all efforts are being made to identify those behind this dastardly deed , we must do our utmost to maintain social harmony and peace , she said in a message . . . The Jamiat-Ulama-i-Hind and the Indian Union Muslim League condemned the blasts .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "", 
+        "Varanasi"
+    ], 
+    "O": [
+        "Prime Minister:40", 
+        "home minister:65", 
+        "Viswanath Mandir:126", 
+        "Hindu shrines:132"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1060308/asp/frontpage/story_5941755.asp", 
+    "date": "07-03-2006", 
+    "target": "TEMPLE", 
+    "hot_spot": "Varanasi", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Benaras Hindu University", 
+            "81", 
+            "Others"
+        ], 
+        [
+            "Benaras Hindu University", 
+            "281", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "385", 
+            "Others"
+        ], 
+        [
+            "US President", 
+            "404", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "411", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "435", 
+            "Others"
+        ], 
+        [
+            "Jamiat-Ulama-i-Hind", 
+            "477", 
+            "Accused"
+        ], 
+        [
+            "Indian Union Muslim League", 
+            "480", 
+            "Accused"
+        ]
+    ]
+}

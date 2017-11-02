@@ -1,0 +1,81 @@
+{
+    "LOC": [
+        [
+            "Patna", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "56", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "66", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nusrat Ali", 
+            "38", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "next year : 81"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Jamaat : 35"
+    ], 
+    "death": "6", 
+    "title": "Punish the guilty in Patna, says Jamaat", 
+    "org_unorg": "", 
+    "terror_group": [
+        "JAMAAT-E-ISLAMI HIND"
+    ], 
+    "content": "New Delhi : The Jamaat-e-Islami Hind has demanded ` stringent action ' against those who carried out a string of bomb attacks in Patna killing six people . Expressing grief over the deaths , Jamaat secretary general Nusrat Ali warned that communal forces might now create an environment of ` fear and terror ' in Bihar for electoral gains . . . Ali urged the Bihar and the central governments to maintain peace ahead of the Lok Sabha election due next year .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "Patna", 
+        ""
+    ], 
+    "O": [
+        "stringent action:10", 
+        "bomb:21", 
+        "attacks:22", 
+        "fear and terror:51", 
+        "electoral gains:58", 
+        "lok sabha election:77"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/bihar/punish-the-guilty-in-patna-says-jamaat_886440.html", 
+    "date": "", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Jamaat-e-Islami Hind", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "central governments", 
+            "69", 
+            "Others"
+        ]
+    ]
+}

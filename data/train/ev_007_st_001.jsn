@@ -1,0 +1,96 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Srirampur", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Assam-West Bengal border", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Kokrajhar", 
+            "27", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "10.30 a.m.:49", 
+        "hour : 75"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:30"
+    ], 
+    "death": "", 
+    "title": "Two injured in blasts at Srirampur in Assam", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kokrajhar", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Corespondent . . Guwahati : Two persons were seriously injured in two blasts at Srirampur , a township on the Assam-West Bengal border , in Kokrajhar district on Friday . Police recovered a bomb in the locality . . . Police said the first explosion occurred around 10.30 a.m. under a truck that was parked near the inter-State check post in which a school teacher was injured . The second blast occurred an hour later , when a bomb kept in a bag on a bicycle exploded near a petrol pump . A truck driver was injured . . . Another bomb was recovered about 300 metres from the petrol pump . A bomb disposal squad of the Army reached in time and defused it .", 
+    "injured": "2", 
+    "org_unorg": "", 
+    "O": [
+        "special corespondent:1", 
+        "seriously injured:10", 
+        "two blasts:13", 
+        "recovered:33", 
+        "bomb:35", 
+        "locality:38", 
+        "first explosion:45", 
+        "truck:53", 
+        "parked:56", 
+        "inter-state check post:59", 
+        "injured:68", 
+        "second blast:71", 
+        "bomb:80", 
+        "bag:84", 
+        "bicycle:87", 
+        "exploded:88", 
+        "petrol pump:91", 
+        "truck driver:95", 
+        "injured:98", 
+        "bomb:103", 
+        "recovered:105", 
+        "300 metres:107", 
+        "petrol pump:111", 
+        "bomb disposal squad:115", 
+        "time:123", 
+        "defused:125"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/two-injured-in-blasts-at-srirampur-in-assam/article1959296.ece", 
+    "date": "30-11-2007", 
+    "target": "TOWNS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Army", 
+            "120", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Gorakhpur", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Gorakhpur", 
+            "100", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "K.V. Prasad", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "57", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:37"
+    ], 
+    "death": "", 
+    "title": "Centre monitoring situation", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "K.V. Prasad . . NEW DELHI : The Union Government has asked the Uttar Pradesh Government to take all steps to maintain peace in Gorakhpur , where six persons were injured in serial bomb blasts on Tuesday . . . The Home Ministry was in touch with the State Government . . . Union Home Secretary Madhukar Gupta spoke to the State Director-General of Police and advised that special care be taken to see that peace was maintained in the area and nothing untoward happened in the wake of the blasts , a Ministry spokesman said . . . Gorakhpur had witnessed communal clashes earlier this year .", 
+    "injured": "6", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Gorakpur", 
+        "", 
+        "Gorakhpur"
+    ], 
+    "O": [
+        "Home Ministry:42", 
+        "Director-General of Police:63"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/centre-monitoring-situation/article1846096.ece", 
+    "date": "22-05-2007", 
+    "target": "", 
+    "hot_spot": "Gorakhpur", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Union Government", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "Uttar Pradesh Government", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "49", 
+            "Others"
+        ]
+    ]
+}

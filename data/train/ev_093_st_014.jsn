@@ -1,0 +1,80 @@
+{
+    "LOC": [
+        [
+            "DHARAMSALA", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi temple complex", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "126", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dalai Lama", 
+            "22", 
+            "Comment"
+        ], 
+        [
+            "Lobsang Sangay", 
+            "103", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Dalai Lama, Tibetan govt-in-exile pained over Bodh Gaya blasts", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "", 
+        "Mahabodhi temple complex"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "DHARAMSALA : Terming the series of blasts at Mahabodhi temple complex in Bihar as ` unfortunate ' , Tibetan spiritual leader Dalai Lama today said ` few individuals ' could be behind the attack . ` The incident is really unfortunate , ' he said , adding that few individuals could be responsible for the attack . The Tibetan government-in-exile said it was deeply saddened over the blasts . ' I am deeply saddened to learn about the series of bomb blasts at Mahabodhi temple . My prayers for the injured and their family members ' , Prime Minister of the government-in-exile Lobsang Sangay said in a statement here . Nine low-intensity blasts took place early in the morning in quick succession at the 1,500-year-old Mahabodhi temple , annually visited by millions of pilgrims from all over the world . Two monks were injured in the attack .", 
+    "injured": "2", 
+    "org_unorg": "", 
+    "O": [
+        "series of blasts:5", 
+        "Tibetan spiritual leader:19", 
+        "Tibetan government-in-exile:59", 
+        "saddened over the blasts:65", 
+        "Nine low-intensity blasts:111"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Dalai-Lama-Tibetan-govt-in-exile-pained-over-Bodh-Gaya-blasts/articleshow/20961423.cms?referral=PM", 
+    "date": "07-07-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

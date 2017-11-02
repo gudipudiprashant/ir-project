@@ -1,0 +1,263 @@
+{
+    "LOC": [
+        [
+            "Bodh Gaya", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Ranchi", 
+            "20", 
+            "Assoc_Event"
+        ], 
+        [
+            "Iram lodge", 
+            "68", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ranchi", 
+            "71", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "91", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "120", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "139", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "157", 
+            "Event"
+        ], 
+        [
+            "Ranchi", 
+            "236", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "256", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "277", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Tariq", 
+            "108", 
+            "Assoc_Accused", 
+            "Others"
+        ], 
+        [
+            "Hyder", 
+            "231", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Hyder Ali", 
+            "83", 
+            "Accused"
+        ], 
+        [
+            "Hyder", 
+            "103", 
+            "Accused"
+        ], 
+        [
+            "Imtiaz Ansari", 
+            "105", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Ainul", 
+            "110", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Taufeeq", 
+            "112", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Mujibal Ansari", 
+            "114", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Mujibal", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "Tehseen Akhtar", 
+            "247", 
+            "Others"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "266", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "year : 282"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Bodh Gaya bomb planters identified; motives and methods still under probe", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "Ranchi", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "The National Investigation Agency has identified those who planted bombs at Bodh Gaya , following the recent raids in Ranchi . . . We have identified the group and the planters . But how the conspiracy was hatched , how the plan was executed is still to be ascertained , an NIA official told The Hindu . . . The investigators recovered , during a raid at Iram lodge in Ranchi , a sheet of paper which they say were prepared by Hyder Ali , a suspect named in the Patna blasts FIR , currently absconding . . . All five of Hyder , Imtiaz Ansari , Tariq alias Ainul , Taufeeq and Mujibal Ansari are planters in the Bodh Gaya case , NIA sources told The Hindu . Except Mujibal , all others are named in the Patna blast FIR . Ainul , who was injured while planting a bomb in the toilet of the Patna railway station , succumbed to his injuries . . . Hyder was the planter of the bomb near the Bodhi tree . The sheet not only plots the blast locations , such as wall and tree , but also lists the number of bombs at each location and the name of the planter besides it . The document was prepared by someone who only addressed himself as me . It could possibly be Hyder , NIA sources said.This Ranchi module of the Indian Mujahideen , mentored by IM operative Tehseen Akhtar , is the group identified for the Bodh Gaya blast . . . Interrogation of IM commander Yasin Bhatkal revealed that the group had been aiming to target Bodh Gaya for over a year . While the specific motive of the attack is still under investigation , the possible aim was to avenge the Rohingya issue in Myanmar , where Rohingya Muslims have faced persecution . . . In addition , on the cylinder bombs that were defused at the temple site , investigators had found chits stuck on the cylinder carrying some text . We have found the original material that links to the text of these papers . It is jihadi literature , an NIA official said .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "identified:6", 
+        "planted bombs:9", 
+        "recent raids:17", 
+        "identified:26", 
+        "group:28", 
+        "planters:31", 
+        "conspiracy:36", 
+        "hatched:38", 
+        "plan:42", 
+        "executed:44", 
+        "ascertained:49", 
+        "investigators:61", 
+        "raid:66", 
+        "sheet of paper:74", 
+        "prepared:81", 
+        "suspect:87", 
+        "blasts:92", 
+        "fir:93", 
+        "absconding:96", 
+        "planters:117", 
+        "blast:140", 
+        "fir:141", 
+        "injured:147", 
+        "planting a bomb:149", 
+        "toilet:154", 
+        "railway station:158", 
+        "succumbed:161", 
+        "injuries:164", 
+        "planter:171", 
+        "bomb:174", 
+        "bodhi tree:177", 
+        "sheet:181", 
+        "blast locations:186", 
+        "wall and tree:191", 
+        "bombs:201", 
+        "location:204", 
+        "planter:210", 
+        "document:215", 
+        "addressed:222", 
+        "module:237", 
+        "mentored:243", 
+        "bodh gaya blast:256", 
+        "interrogation:262", 
+        "revealed:268", 
+        "aiming:274", 
+        "target:276", 
+        "attack:290", 
+        "investigation:294", 
+        "possible aim:297", 
+        "cylinder bombs:322", 
+        "defused:326", 
+        "temple site:329", 
+        "investigators:332", 
+        "chits stuck:335", 
+        "cylinder:339", 
+        "text:342", 
+        "original material:348", 
+        "papers:357"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/bodh-gaya-bomb-planters-identified-motives-and-methods-still-under-probe/article5322786.ece", 
+    "date": "07-07-2007", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "127", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "233", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "240", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "245", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "264", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "365", 
+            "Others"
+        ]
+    ]
+}

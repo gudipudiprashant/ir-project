@@ -1,0 +1,202 @@
+{
+    "LOC": [
+        [
+            "Chennai", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "40", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "97", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "181", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "204", 
+            "Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "238", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "265", 
+            "Neutral"
+        ], 
+        [
+            "Tamil Nadu", 
+            "269", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "288", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "306", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "358", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Jayalalithaa", 
+            "157", 
+            "Comment"
+        ], 
+        [
+            "Jayalalithaa", 
+            "174", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "259", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "281", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "314", 
+            "Others"
+        ], 
+        [
+            "M Karunanidhi", 
+            "339", 
+            "Others"
+        ], 
+        [
+            "Karunanidhi", 
+            "340", 
+            "Others"
+        ], 
+        [
+            "Jayalalithaa", 
+            "343", 
+            "Others"
+        ], 
+        [
+            "Sakir Hussein", 
+            "376", 
+            "Others"
+        ], 
+        [
+            "Hussein", 
+            "385", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 103", 
+        "10 minutes : 210", 
+        "90 minutes : 225"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "October:308", 
+        "Tuesday:395"
+    ], 
+    "death": "", 
+    "title": "Chennai Bomb Blasts: CCTV Footage of Possible Suspect Released", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Chennai", 
+        "Chennai", 
+        "Chennai"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "CCTV footage shows a man alighting from the Guwahati-Bangalore Express in Chennai AFP photo Chennai : The Tamil Nadu police have released CCTV footage of a possible suspect getting off the Guwahati-Bangalore Express on which two blasts yesterday in Chennai killed a young woman and injured 14 others . -LRB- She Was About to Marry , Her Body Arrived Home -RRB- In the footage released by the Crime Branch of the state police , which is probing the twin explosions , the man is seen suspiciously alighting from the train just after it pulled into the Chennai Central Station early in the morning . He then runs away and is not seen getting back on the train in the video captured by cameras at the station.The police are yet to make any arrests in connection with the low-intensity explosions which the Centre reportedly wants to treat as a terror attack . But its offer to the Jayalalithaa government for a probe by the elite National Investigation Agency was today turned down . -LRB- Jayalalithaa Says No to Central Probe Into Chennai Blasts -RRB- As per initial investigations , there is no evidence to suggest that the bombs in the train were planted in Chennai . The explosions happened nearly 10 minutes after the arrival of the train , which was already running late by 90 minutes . Cops also say that the blasts would have happened in Andhra Pradesh had the train been on schedule . There has been speculation that the blasts were originally timed to disrupt Narendra Modi 's rallies in coastal Andhra Pradesh . The Tamil Nadu police , however , have dismissed this theory . -LRB- Narendra Modi 's Security Stepped Up After Chennai Blasts -RRB- But they did say there were similarities between yesterday 's blasts and the ones in Patna in October last year ahead of Mr Modi 's rally . Six were killed and nearly 80 were injured in the explosions which were allegedly masterminded by terror group Indian Mujahideen.DMK chief M Karunanidhi , Ms Jayalalithaa 's staunch rival , has criticised the state government , alleging the blasts in Chennai `` could have been averted if the police had properly questioned the recently arrested alleged ISI operative Sakir Hussein . '' -LRB- Read more ... -RRB- Hussein , a Sri Lankan national , was arrested on Tuesday and has been charged under provisions of the Unlawful Activities -LRB- Prevention -RRB- Act , 1967 . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "CCTV:1", 
+        "Guwahati-Bangalore Express:9", 
+        "CCTV:23", 
+        "Guwahati-Bangalore Express:32", 
+        "Crime Branch:68", 
+        "police:127", 
+        "terror group:334", 
+        "police:366", 
+        "Sri Lankan national:388"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/chennai-news/chennai-bomb-blasts-cctv-footage-of-possible-suspect-released-559864", 
+    "date": "01-05-2014", 
+    "target": "", 
+    "hot_spot": "Chennai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Tamil Nadu police", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "state police", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "Jayalalithaa government", 
+            "157", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "165", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu police", 
+            "269", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "351", 
+            "Others"
+        ]
+    ]
+}

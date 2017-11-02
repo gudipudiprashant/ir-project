@@ -1,0 +1,209 @@
+{
+    "LOC": [
+        [
+            "Malegaon", 
+            "127", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "43", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "69", 
+            "Assoc_Event"
+        ], 
+        [
+            "Malegaon", 
+            "71", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "88", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "Chandigarh", 
+            "179", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "181", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "203", 
+            "Event"
+        ], 
+        [
+            "Parbani", 
+            "241", 
+            "Assoc_Event"
+        ], 
+        [
+            "Malegaon", 
+            "252", 
+            "Event"
+        ], 
+        [
+            "north Maharashtra", 
+            "296", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "333", 
+            "Neutral"
+        ], 
+        [
+            "Ahmednagar", 
+            "344", 
+            "Neutral"
+        ], 
+        [
+            "Aurangabad", 
+            "346", 
+            "Assoc_Event"
+        ], 
+        [
+            "Nanded", 
+            "348", 
+            "Assoc_Event"
+        ], 
+        [
+            "Maharashtra", 
+            "362", 
+            "Neutral"
+        ], 
+        [
+            "Nasik", 
+            "385", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "P S Pasricha", 
+            "77", 
+            "Comment"
+        ], 
+        [
+            "P K Jain", 
+            "378", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 28", 
+        "Sunday.The : 165", 
+        "May:287", 
+        "May : 303", 
+        "Monday : 307"
+    ], 
+    "death": "", 
+    "title": "Malegaon, 7/11: Same Lethal cocktail used", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Nashik", 
+        "Malegaon", 
+        ""
+    ], 
+    "terror_group": [
+        "ISLAMIC TERRORIST OUTFITS"
+    ], 
+    "content": "MUMBAI/MALEGAON : In the first indication that the deadly blasts in Malegaon could have links with the 7/11 terror attacks , Maharashtra 's top police officer on Monday claimed there were vital leads in the powerloom town that could help crack the Mumbai train serial blasts . ` From the modus operandi , it is assumed that the same set of militants have carried out the blasts in Mumbai and Malegaon , ' director-general of police P S Pasricha said.At least two people from a village near Malegaon , who had given the perpetrators logistical support have been identified and will be picked up soon , a top police officer said . They were identified from sketches of the two men who bought cycles from a Malegaon shop three hours before the blasts.Police said explosives used in Malegaon were a cocktail of RDX , ammonium nitrate and fuel oil the same mixture used in 7/11 . TOI was the first to report this on Sunday.The Anti-Terrorist Squad has sent samples of the lethal cocktail to forensic labs at Chandigarh and Hyderabad as well as a military forensic lab.The ATS has prima facie ruled out the involvement of Hindu fundamentalist groups in the Malegaon blasts citing two reasons . To begin with , RDX is only available to Islamic terrorist outfits . Secondly , Bajrang Dal activists so far have used only crude bombs , as seen in the blasts at Parbani and Nanded.The use of RDX confirmed the worst fears of Malegaon , which has been in the news for all the wrong reasons . Police had seized a major haul of RDX and other arms and ammunition including AK-47 rifles after a search operation on May 12 . Tension has been simmering in the north Maharashtra town since the seizure in May . Investigators on Monday also released a third sketch , which is the artist 's image of the second accused based on descriptions provided by various witnesses.Police sources at Malegaon said four teams of five men each were sent to Ahmednagar , Aurangabad and Nanded in connection with the case . ` We have sent our teams within Maharashtra but do n't want to reveal much since it could hamper our investigation , ' P K Jain , inspector general -LRB- Nasik range -RRB- told TOI .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "terror:19", 
+        "police officer:25", 
+        "powerloom town:36", 
+        "modus operandi:51", 
+        "director-general:74", 
+        "cycles:124", 
+        "rdx:143", 
+        "ammonium nitrate:145", 
+        "fuel oil:148", 
+        "7/11:155", 
+        "prima facie:191", 
+        "hindu:198", 
+        "Malegaon blasts:203", 
+        "RDX:213", 
+        "crude bombs:232", 
+        "rdx:246", 
+        "news:259", 
+        "RDX:273", 
+        "ammunition:278", 
+        "ak-47 rifles:280", 
+        "tension:290", 
+        "seizure:301", 
+        "sketch:312", 
+        "investigation:375", 
+        "inspector general:382"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Malegaon-7/11-Same-Lethal-cocktail-used/articleshow/1980270.cms?referral=PM", 
+    "date": "08-09-2006", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        "RDX", 
+        "AMMONIUM NITRATE", 
+        "FUEL OIL"
+    ], 
+    "ORG": [
+        [
+            "TOI", 
+            "157", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorist Squad", 
+            "166", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "189", 
+            "Others"
+        ], 
+        [
+            "Islamic terrorist outfits", 
+            "218", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Bajrang Dal", 
+            "224", 
+            "Others"
+        ]
+    ]
+}

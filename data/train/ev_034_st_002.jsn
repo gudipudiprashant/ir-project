@@ -1,0 +1,150 @@
+{
+    "LOC": [
+        [
+            "Srirampur town", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Srirampur town", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Srirampur", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "92", 
+            "Event"
+        ], 
+        [
+            "Northeast", 
+            "106", 
+            "Event"
+        ], 
+        [
+            "Western Assam", 
+            "116", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "117", 
+            "Event"
+        ], 
+        [
+            "North Bengal", 
+            "119", 
+            "Event"
+        ], 
+        [
+            "Raidang village", 
+            "153", 
+            "Event"
+        ], 
+        [
+            "Raidang", 
+            "153", 
+            "Event"
+        ], 
+        [
+            "Raidang village", 
+            "153", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "157", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "159", 
+            "Accused"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "11.30 am : 19"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:22", 
+        "January 26:138", 
+        "Tuesday:162"
+    ], 
+    "death": "1", 
+    "title": "Assam: 8 injured in blast; militant killed", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Eight persons were injured when a bomb went off at Srirampur town on the western border ofAssam at 11.30 am on Tuesday . The police later recovered another bomb from near the blast . . . The police said unidentified militants planted a bomb on a bicycle parked near Assam State Transport Department check-gate near Assam-West Bengal boundary at Srirampur . An alert has been sounded in Assam apprehending possible strikes of insurgents including the banned United Liberation Front of Asom in the run up to the 58th Republic Day of India . . . The ULFA along with three other militant groups from the Northeast including Kamatapur Liberation Organisation , which is active in Western Assam and North Bengal area have called for boycott of ` Indian Republic Day celebrations ' and a general strike on January 26 . . . Meanwhile , the army shot dead a ULFA militant at Raidang village in eastern Assam 's Tinsukia district on Tuesday and recovered some arms , ammunition and explosives from the possession of the militant , police sources informed . .", 
+    "injured": "8", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Tinsukia", 
+        "Guwahati", 
+        "Srirampur town"
+    ], 
+    "O": [
+        "western border ofassam:15", 
+        "recovered another bomb:27", 
+        "unidentified militants planted a bomb:40", 
+        "assam-west bengal boundary:56", 
+        "58th republic day:88", 
+        "boycott of ` indian republic day celebrations:125", 
+        "general strike:135", 
+        "army shot dead:146", 
+        "recovered some arms:164"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "REPULBIC DAY", 
+    "link": "http://www.rediff.com/news/2008/jan/22assam.htm", 
+    "date": "22-01-2008", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Assam State Transport Department", 
+            "50", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "77", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "97", 
+            "Accused"
+        ], 
+        [
+            "Kamatapur Liberation Organisation", 
+            "108", 
+            "Assoc_Accused"
+        ], 
+        [
+            "ULFA", 
+            "150", 
+            "Accused"
+        ]
+    ]
+}

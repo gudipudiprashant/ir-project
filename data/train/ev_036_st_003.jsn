@@ -1,0 +1,159 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Karbi Anglong", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "43", 
+            "Neutral"
+        ], 
+        [
+            "Sibsagar", 
+            "46", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "118", 
+            "Neutral"
+        ], 
+        [
+            "Sibsagar", 
+            "121", 
+            "Neutral"
+        ], 
+        [
+            "Borhat", 
+            "142", 
+            "Neutral"
+        ], 
+        [
+            "Choraipung", 
+            "144", 
+            "Neutral"
+        ], 
+        [
+            "Khamun", 
+            "172", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Krishna Aais", 
+            "246", 
+            "Others"
+        ], 
+        [
+            "Amarjyoti Patmout", 
+            "263", 
+            "Victim"
+        ], 
+        [
+            "Vyas Changmai", 
+            "266", 
+            "Victim"
+        ], 
+        [
+            "Kironjyoti Gogoi", 
+            "274", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "5.40 pm : 67", 
+        "today : 123", 
+        "last night : 248"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:27"
+    ], 
+    "death": "44", 
+    "title": "Blast in Assam market, nine injured; three ULFA militants killed", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Karbi Anglong", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Nine persons , including two children , were injured in a powerful bomb blast in a market in central Assam ` s Karbi Anglong district on Saturday . Three ULFA militants were killed and another nabbed in two separate encounters in Upper Assam ` s Sibsagar district . Police said the bomb exploded in the Forest Gate daily market , under Kheroni police station , at 5.40 pm . . . Senior police and civil officials have rushed there . It was not yet known who was responsible for the explosion . The injured were admitted to hospital . . . Meanwhile , three ULFA militants were killed and another nabbed in two separate encounters in Upper Assam ` s Sibsagar district today . . . The 44 field regiment killed an insurgent of the banned outfit and nabbed another at Borhat near Choraipung , defence sources said . . . A grenade , two pistols and 15 cartridges were recovered from the militants , they claimed . . . At Khamun village , under Kakotibari police station , a group of insurgents opened fire on the 318 regiment troops ensuing a gun battle in which two ultras were killed . . . Security personnels recovered one AK-56 rifle , a pistol and ammunition from the militants . . . The encounter took place when the army had launched a search operation in the area for ULFA men who had shot at a teacher , Krishna Aais last night , the sources said . . . The killed militants were identified as Amarjyoti Patmout and Vyas Changmai while nabbed insurgent was identified as Kironjyoti Gogoi . . . Bureau Report .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "injured:9", 
+        "bomb blast:13", 
+        "militants:31", 
+        "killed:33", 
+        "bomb exploded:52", 
+        "Forest Gate:56", 
+        "Kheroni police station:62", 
+        "explosion:91", 
+        "injured:94", 
+        "militants:106", 
+        "killed:108", 
+        "encounters:115", 
+        "field regiment:129", 
+        "killed:131", 
+        "insurgent:133", 
+        "banned outfit:136", 
+        "grenade:153", 
+        "pistols:156", 
+        "cartridges:159", 
+        "militants:164", 
+        "Kakotibari police station:176", 
+        "insurgents:183", 
+        "318 regiment troops:188", 
+        "gun battle:193", 
+        "killed:200", 
+        "AK-56 rifle:208", 
+        "pistol:212", 
+        "ammunition:214", 
+        "militants:217", 
+        "encounter:222", 
+        "militants:259", 
+        "insurgent:270"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/nation/blast-in-assam-market-nine-injured-three-ulfa-militants-killed_488924.html", 
+    "date": "06-12-2008", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "30", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "105", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "237", 
+            "Others"
+        ]
+    ]
+}

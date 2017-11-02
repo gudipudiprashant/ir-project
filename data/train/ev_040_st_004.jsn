@@ -1,0 +1,114 @@
+{
+    "LOC": [
+        [
+            "Guwahati-Puri Express", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Kamrup", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Dhatkuchi", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Rangia", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Ghagrapar", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati-Puri Express", 
+            "225", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "228", 
+            "Neutral"
+        ], 
+        [
+            "Puri", 
+            "230", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nripendra Bhattacharya", 
+            "42", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "8:30 : 59", 
+        "5:30 am : 232"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:36", 
+        "Sunday:61", 
+        "Monday:235"
+    ], 
+    "death": "", 
+    "title": "IED blast caused Assam train accident: Railways", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)"
+    ], 
+    "content": "Guwahati : An improvised explosive device was used to trigger the blast that led to the derailment of the Guwahati-Puri Express in Kamrup district in Assam that left 100 passengers injured , officials said on Monday . . . Railway PRO Nripendra Bhattacharya said the explosion led to the engine and eight coaches jumping the rails at around 8:30 on Sunday at Dhatkuchi between Rangia and Ghagrapar in the district . . . Four of the coaches toppled over and fell into a three feet water-filled ditch following the explosion , he said . . . A large crater beside the tracks and a huge length of fuse wire leading to a jungle were found by the Bomb Disposal Squad after the derailment . . . A senior police officer said it appeared to be the handiwork of the Ranjan Daimary-led National Democratic Front of Bodoland anti-talk faction , active in the area . . . The officer said at least 100 passengers were injured who were admitted to the Guwahati Medical College and Hospital . . . Of the injured , 41 were in a serious condition , hospital sources said . . . Railway officials are supervising restoration operations at the spot with 300 labourers at work , the officer said . . . A special train with 800 passengers of the Guwahati-Puri Express left Guwahati for Puri at 5:30 am on Monday . . . .", 
+    "injured": "100", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "guwahati", 
+        "Guwahati-Puri Express"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/ied-blast-caused-assam-train-accident-railways-383231.html", 
+    "date": "11-07-2011", 
+    "target": "TRAIN", 
+    "hot_spot": "Guwahati-Puri Express", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bomb Disposal Squad", 
+            "118", 
+            "Others"
+        ], 
+        [
+            "National Democratic Front of Bodoland", 
+            "142", 
+            "Accused"
+        ], 
+        [
+            "Guwahati Medical College and Hospital", 
+            "171", 
+            "Others"
+        ]
+    ]
+}

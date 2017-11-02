@@ -1,0 +1,95 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "31", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kausar", 
+            "79", 
+            "Accused"
+        ], 
+        [
+            "Rezaul Karim", 
+            "81", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Oct. 2 : 11", 
+        "Friday:17"
+    ], 
+    "death": "2", 
+    "title": "Bardhaman: accused belong to JuM", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "JAMAAT-UL-MUJAHIDEEN BANGLADESH "
+    ], 
+    "content": ": The National Investigation Agency -LRB- NIA -RRB- probing the Oct. 2 Bardhaman blast said on Friday that the accused and their associates belong to the Jamaat-ul-Mujahideen -LRB- JuM -RRB- Bangladesh , a terror organisation proscribed there . . . The NIA might announce cash rewards for information on those absconding . . . Two persons died in the blast . Four persons , including two women , are under the custody of the NIA . . . Kausar and Rezaul Karim , from whose house a cache of improvised explosives was recovered days after the blast , are still at large .", 
+    "injured": "0", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/bardhaman-accused-belong-to-jum/article6531878.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "JuM", 
+            "29", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "75", 
+            "Others"
+        ]
+    ]
+}

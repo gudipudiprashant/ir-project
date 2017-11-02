@@ -1,0 +1,227 @@
+{
+    "LOC": [
+        [
+            "Kolkata", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Kolkata", 
+            "45", 
+            "Neutral"
+        ], 
+        [
+            "Bidhannagar", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "Jessore", 
+            "85", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "89", 
+            "Neutral"
+        ], 
+        [
+            "Bangaldesh", 
+            "117", 
+            "Neutral"
+        ], 
+        [
+            "Lalgola", 
+            "171", 
+            "Accused"
+        ], 
+        [
+            "Murshidabad", 
+            "173", 
+            "Accused"
+        ], 
+        [
+            "madrasa", 
+            "177", 
+            "Neutral"
+        ], 
+        [
+            "Khagragarh", 
+            "208", 
+            "Event"
+        ], 
+        [
+            "Bengal", 
+            "210", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "212", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sajid aka Sheikh Rehmatullah", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "Sajid", 
+            "80", 
+            "Accused"
+        ], 
+        [
+            "Sajid", 
+            "92", 
+            "Accused"
+        ], 
+        [
+            "Sajid", 
+            "158", 
+            "Accused"
+        ], 
+        [
+            "Sajid", 
+            "167", 
+            "Accused"
+        ], 
+        [
+            "Shakil Ahmed", 
+            "219", 
+            "Victim"
+        ], 
+        [
+            "Sovan Mandal", 
+            "222", 
+            "Victim"
+        ], 
+        [
+            "Shakil Ahmed", 
+            "244", 
+            "Victim"
+        ], 
+        [
+            "Sovan Mandal", 
+            "247", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "afternoon : 42", 
+        "afternoon : 83"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:41", 
+        "Saturday:82", 
+        "October 2:197"
+    ], 
+    "death": "", 
+    "title": "Sajid, Alleged Mastermind of Bengal's Burdwan Terror Module, Arrested by State Police", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Kolkata : In a major breakthrough , Sajid aka Sheikh Rehmatullah , the alleged mastermind of West Bengal 's Burdwan terror module and a key member of a banned Bangladeshi terror outfit , was arrested by the state police on Saturday afternoon near the Kolkata airport.A pan card and a voter ID card have been recovered from him.Sajid was arrested by the Anti-Terror Squad of the Bidhannagar Police which had tracked a courier who was to deliver money to Sajid on Saturday afternoon on Jessore Road near the Kolkata airport . Sajid is the first suspected Bangladeshi national to be arrested in the case . He is believed to be a central committee member of Jamaat-ul-Mujahideen Bangaldesh or JMB which is banned in that country . He is expected to be handed over to the National Investigation Agency -LRB- NIA -RRB- shortly.The NIA had announced a cash reward of Rs 10 lakh for any information leading to Sajid 's arrest . According to the NIA , Sajid was living at Lalgola in Murshidabad district near a madrasa that NIA has now sealed.With this arrest , the exact operations of the terror module is likely to emerge.On October 2 , a bomb had exploded in a house at Khagragarh in Bengal 's Burdwan district in which two persons , Shakil Ahmed and Sovan Mandal , were killed . Initially assumed to be a gas cylinder blast or explosion of crude bombs , investigations revealed Shakil Ahmed and Sovan Mandal were using fairly sophisticated improvised explosive devices or IEDs.Interrogation of two women arrested from the blast site revealed that a network of terror was spread across several districts in Bengal.In a house close to the blast site suspected to have been occupied by terrorists , the NIA recovered 39 IEDs eight days after the state police searched and sealed it . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "house,Burdwan"
+    ], 
+    "O": [
+        "bangladeshi terror:30", 
+        "police:39", 
+        "voter id:51", 
+        "bangladeshi:97", 
+        "central committee member:112", 
+        "terror module:191", 
+        "gas cylinder blast:233", 
+        "crude bombs:239"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/sajid-alleged-mastermind-of-bengals-burdwan-terror-module-arrested-by-state-police-690534", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "house,Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "LPG CYLINDER", 
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "Anti-Terror Squad", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "Bidhannagar Police", 
+            "67", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen", 
+            "116", 
+            "Accused"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen Bangaldesh", 
+            "116", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "119", 
+            "Accused"
+        ], 
+        [
+            "National Investigation Agency", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "140", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "165", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "295", 
+            "Others"
+        ]
+    ]
+}

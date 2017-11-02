@@ -1,0 +1,83 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Shershah Road", 
+            "195", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "11", 
+    "title": "Police release sketches of two Delhi high court blast suspects", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : Police have released sketches of two persons suspected of planting the bomb outside Delhi high court which killed at least 11 people and injured over 60 . The sketches of the duo -- one believed to be in his 50s and the other in his mid-20s -- were prepared following descriptions provided by eyewitnesses who claimed they saw someone with a briefcase standing in the queue . ` We have released sketches of two suspects based on the descriptions given by eyewitnesses , ' a senior police official said.The younger of the two suspects could be a couple of inches shorter than 6 feet with a middle parting of the hair while the other man was described as stout and having a light beard and shallow complexion . ` We may also release a third sketch depending upon the eyewitness accounts , ' the official said.Police are also investigating whether the person who planted the bomb was among the injured.According to some eyewitnesses , a man clad in a white shirt and carrying a briefcase was seen in the queue in front of the reception of the high court complex on Shershah Road just before the explosion.Investigators said they are yet to ascertain whether there was a timer in the device . ` It may be possible that the bomb planter could not escape from the spot before the explosion took place . If there was a timer , he would have had ample time . There is also a possibility that the suspect could not manage to escape from the scene , ' a senior police official said .", 
+    "injured": "60", 
+    "org_unorg": "", 
+    "O": [
+        "Police:4", 
+        "sketches:7", 
+        "two persons:9", 
+        "suspected:11", 
+        "planting the bomb:13", 
+        "Delhi high court:17", 
+        "killed:21", 
+        "11 people:24", 
+        "injured over 60:27", 
+        "50s:43", 
+        "mid-20s:49", 
+        "eyewitnesses:57", 
+        "someone:62", 
+        "briefcase:65", 
+        "standing in the queue:66", 
+        "senior police official:89", 
+        "younger:93", 
+        "shorter than 6 feet:104", 
+        "middle parting of the hair:110", 
+        "other man:117", 
+        "stout:122", 
+        "light beard:126", 
+        "shallow complexion:129", 
+        "third sketch:138", 
+        "man:169", 
+        "white shirt:173", 
+        "reception of the high court complex:188", 
+        "timer in:211", 
+        "bomb planter:223", 
+        "could not escape:225", 
+        "If:237", 
+        "a timer:240", 
+        "ample time:247", 
+        "a senior police official:268"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Police-release-sketches-of-two-Delhi-high-court-blast-suspects/articleshow/9898156.cms?referral=PM", 
+    "date": "07-09-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

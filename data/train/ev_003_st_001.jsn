@@ -1,0 +1,76 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Assams Bongaigaon district", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "police checkpoint in Swahidbedi", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Paglathan", 
+            "41", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "8.10 a.m.:23"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:16"
+    ], 
+    "death": "", 
+    "title": "Two blasts in Assam", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Bongaigaon", 
+        "Guwahati", 
+        "lower Assams Bongaigaon district,near a police checkpoint in Swahidbedi area"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASOM "
+    ], 
+    "content": "Guwahati : Two bomb blasts by suspected ULFA militants rocked lower Assams Bongaigaon district on Saturday . The first took place at 8.10 a.m. near a police checkpoint in Swahidbedi area . The next went off five minutes later at Paglathan .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "bomb:4", 
+        "five minutes:37"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/two-blasts-in-assam/article1318191.ece", 
+    "date": "16-08-2008", 
+    "target": "", 
+    "hot_spot": "lower Assams Bongaigaon district,near a police checkpoint in Swahidbedi area", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "27", 
+            "Others"
+        ]
+    ]
+}

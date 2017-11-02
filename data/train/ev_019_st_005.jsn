@@ -1,0 +1,180 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "127", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abhishek Banerjee", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "Mamata Banerjee", 
+            "55", 
+            "Comment"
+        ], 
+        [
+            "Subramanian Swamy", 
+            "67", 
+            "Accused"
+        ], 
+        [
+            "Swamy", 
+            "86", 
+            "Accused"
+        ], 
+        [
+            "Nurul Hasan Choudhury", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "Banerjee", 
+            "140", 
+            "Others"
+        ], 
+        [
+            "Banerjee", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "Swamy", 
+            "209", 
+            "Accused"
+        ], 
+        [
+            "Banerjee", 
+            "243", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:58", 
+        "Sunday:88"
+    ], 
+    "death": "", 
+    "title": "Blast triggers Trinamool, BJP clash on social media", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": ": The war of words between the All India Trinamool Congress -LRB- AITC -RRB- and the Bharatiya Janata Party -LRB- BJP -RRB- triggered by the blast in West Bengals Bardhaman district has entered the domain of the social media . . . Abhishek Banerjee , AITC MP and nephew of West Bengal Chief Minister Mamata Banerjee on Monday responded to the remarks made by BJP leader Subramanian Swamy and accused him of spreading false propaganda and creating apocryphal and spurious stories ... . . Dr Swamy on Sunday had raised several questions relating to the blast stating that the explosion had occurred in the house of Trinamool leader Nurul Hasan Choudhury and that the house was also used as regional headquarters of the ruling party in West Bengal . . . The BJP leader also asked as why Ms. Banerjee should not be interrogated by investigating agencies . . . Without an iota of doubt I can say that you are good at sharing your thoughts and expressing your views only on Twitter and Facebook accounts . Your public interaction remains confined within the four walls of the studious of a few news channels , Mr Banerjee said in a statement his Facebook page . . . Dr Swamy also alleged that the West Bengal police destroyed all evidences before the central investigating agencies -LRB- NIA , IB and other central agencies -RRB- could arrive at the spot . . . Mr. Banerjee has responded stating that either the BJP leader should support his statements with facts or should withdraw unwarranted comments and apologise unconditionally before the country .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "chief minister:53"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "ELECTIONS", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/blast-triggers-trinamool-bjp-clash-on-social-media/article6476828.ece", 
+    "date": "07-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "All India Trinamool Congress", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "AITC", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "AITC", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "Twitter", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "Facebook", 
+            "175", 
+            "Others"
+        ], 
+        [
+            "Facebook", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "West Bengal police", 
+            "214", 
+            "Others"
+        ], 
+        [
+            "central investigating agencies", 
+            "222", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "226", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "250", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,273 @@
+{
+    "LOC": [
+        [
+            "Patna", 
+            "92", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "105", 
+            "Event"
+        ], 
+        [
+            "Patna railway station", 
+            "126", 
+            "Neutral"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "135", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "181", 
+            "Event"
+        ], 
+        [
+            "Twin Tower building complex", 
+            "194", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "210", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "265", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "311", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "364", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "406", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "487", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "492", 
+            "Event"
+        ], 
+        [
+            "Munger", 
+            "593", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narendra Modi", 
+            "30", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "89", 
+            "Others"
+        ], 
+        [
+            "Abhayanand", 
+            "216", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "269", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "295", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "301", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "338", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "370", 
+            "Others"
+        ], 
+        [
+            "Nitish Kumar", 
+            "376", 
+            "Others"
+        ], 
+        [
+            "R.P.N. Singh", 
+            "436", 
+            "Comment"
+        ], 
+        [
+            "Manu Maharaj", 
+            "531", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "576", 
+            "Others"
+        ], 
+        [
+            "Nitish Kumar", 
+            "587", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "10 a.m. : 54", 
+        "hour : 84", 
+        "11 a.m. : 556"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday : 17"
+    ], 
+    "death": "5", 
+    "title": "Five dead as terror hits Modi's Patna rally (Fourth Lead)", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least five people were killed and more than 70 injured as seven bombs exploded here Sunday , six of them in and around the ground where BJP star Narendra Modi addressed a rally hours later . . . The first of the supposedly low intensity blasts ripped through a toilet at around 10 a.m. at the newly built Platform 10 of the railway station in the heart of the city , killing one person and wounding another . . . After an hour , by which time Modi had reached Patna but not the rally ground , four explosions took place inside the Gandhi Maidan , killing four others and causing a lot of panic , police and witnesses said . . . The Patna railway station is located two-three kilometres from the Gandhi Maidan . . . As smoke billowed at the blast sites , people ran in different directions . Witnesses reported seeing some of the rallyists falling on the ground , bleeding and in pain . . . Two more bombs went off just outside the Gandhi Maidan , one near a cinema hall and another close to the Twin Tower building complex . But no one died in these two places . . . Bihar 's Director General of Police Abhayanand confirmed the five deaths and said all the victims succumbed to their multiple injuries at the Patna Medical College and Hospital . . . A doctor at the hospital said eight of the injured were in `` very critical condition '' . . . The blasts at the Gandhi Maidan , where Modi later addressed a huge rally of Bharatiya Janata Party supporters , took place even as second rung party leaders were addressing the crowds ahead of Modi 's arrival . . . Modi 's meeting itself passed off peacefully , and the Gujarat chief minister made no reference to the bomb attacks . He , however , asked the BJP activists to disperse peacefully . . . Later , Modi said the bomb attacks were `` deeply saddening '' . He appealed for peace and calm . . . The bombings triggered alarm bells in New Delhi , where Prime Minister Manmohan Singh telephoned Bihar Chief Minister Nitish Kumar and asked him to order a speedy investigation and punish the guilty . . . `` The prime minister condemns the blasts which occurred at several places in Patna . He appeals to the people to maintain peace and calm , '' the Prime Minister Office 's said on Twitter . . . Minister of State for Home R.P.N. Singh said the attacks were `` extremely unfortunate '' and pledged to `` get to the bottom of this '' . . . He said the central government was in touch with the Bihar government , adding that the National Investigation Agency and National Security Guard had been rushed to Patna . . . In Bihar , all political parties including the ruling Janata Dal-United and those in the opposition -- Rashtriya Janata Dal , the Congress and Left parties -- condemned the deaths in the explosions . . . Senior Superintendent of Police Manu Maharaj said police recovered two live bombs from the railway station , one of which had a timer meant to go off at around 11 a.m. . . After the bombings , police appealed to people , particularly those gathered . . for the Modi rally , not to touch suspicious objects . . . Nitish Kumar cancelled a trip to Munger district and asked the chief secretary and the police chief to submit a report at the earliest . . . .", 
+    "injured": "70", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "Patna", 
+        ""
+    ], 
+    "O": [
+        "seven bombs exploded:13", 
+        "rally hours:34", 
+        "intensity blasts:46", 
+        "Platform 10:60", 
+        "railway station:64", 
+        "rally ground:96", 
+        "four explosions:99", 
+        "blast sites:145", 
+        "rallyists:160", 
+        "bombs:175", 
+        "victims:225", 
+        "injured:250", 
+        "blasts:262", 
+        "bomb attacks:319", 
+        "bomb attacks:341", 
+        "peace and calm:352", 
+        "bombings:359", 
+        "alarm bells:361", 
+        "speedy investigation:384", 
+        "blasts:399", 
+        "peace and calm:415", 
+        "Prime Minister Office:421", 
+        "Twitter:427", 
+        "attacks:440", 
+        "explosions:523", 
+        "bombs:538", 
+        "railway station:541", 
+        "timer:549", 
+        "bombings:562", 
+        "rally:577", 
+        "report:607"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.business-standard.com/article/news-ians/five-dead-as-terror-hits-modi-s-patna-rally-fourth-lead-113102700406_1.html", 
+    "date": "26-10-2013", 
+    "target": "GANDHI MAIDA", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "BJP", 
+            "28", 
+            "Others"
+        ], 
+        [
+            "Patna Medical College and Hospital", 
+            "233", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "276", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "328", 
+            "Others"
+        ], 
+        [
+            "central government", 
+            "463", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "470", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "476", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "480", 
+            "Others"
+        ], 
+        [
+            "Janata Dal-United", 
+            "500", 
+            "Others"
+        ], 
+        [
+            "Rashtriya Janata Dal", 
+            "508", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "513", 
+            "Others"
+        ], 
+        [
+            "Left parties", 
+            "515", 
+            "Others"
+        ]
+    ]
+}

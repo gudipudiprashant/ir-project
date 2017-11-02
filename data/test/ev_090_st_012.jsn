@@ -1,0 +1,123 @@
+{
+    "LOC": [
+        [
+            "Srinagar", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Sopore", 
+            "325", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "327", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "RK Singh", 
+            "31", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "40", 
+            "Comment"
+        ], 
+        [
+            "Akhtar Aadam", 
+            "208", 
+            "Comment"
+        ], 
+        [
+            "Afzal Guru", 
+            "319", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 295"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "February:317", 
+        "2001:334"
+    ], 
+    "death": "5", 
+    "title": "Hizbul Mujahideen takes responsibility for attack on CRPF camp", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "HIZBUL MUJAHIDEEN"
+    ], 
+    "content": "Delhi/Srinagar : Terrorists who posed as cricketers to enter a paramilitary camp in Srinagar and opened fire , killing five jawans , were most likely Pakistani , said Home Secretary RK Singh . Two terrorists were killed ; Mr Singh said another pair may have escaped.Pakistan has rejected the accusation . `` This trend of making irresponsible statements and knee-jerk reactions by senior Indian government functionaries has the potential of undermining the efforts made by both sides to normalise relations between the two countries , '' Pakistan 's Foreign Office said in a statement . -LRB- Read -RRB- Children were playing cricket in a large open field this morning at the Central Reserve Police Force camp when militants carrying bags that looked like cricket kits joined them . Then , in the middle of the field , without any cover , they pulled out automatic rifles from their sports bags and opened fire . Officers say the terrorists were strapped with grenades , many of which they lobbed at security personnel present there . `` We had guns , but we were standing in a civilian area - it had policemen 's apartments . So , we fired at them in a controlled manner , '' said Akhtar Aadam , a CRPF jawan who was injured in the attack.Four civilians and eight CRPF jawans were injured in the attack ; none are in critical condition . But a 22-year-old protester was killed when security forces allegedly opened fire on a mob who hurled stones at their vehicle as it was returning from the hospital where those injured were being treated . Curfew has been imposed in the city.The Kashmir-based militant group Hizbul Mujahideen phoned a local news agency and said it was behind this morning 's ambush , a claim intelligence officials are n't really buying , said sources.Kashmir has been tense since the execution in February of Afzal Guru , who belonged to Sopore near Srinagar for his role in the deadly 2001 attack on Parliament in which 13 people were killed.He was hanged and buried at Tihar Jail in a top-secret operation , triggering large protests in his home state . The government has refused to return his body to his family . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "", 
+        "Srinagar", 
+        "Srinagar"
+    ], 
+    "O": [
+        "Pakistani:26", 
+        "Home Secretary:29", 
+        "Foreign Office:89", 
+        "policemen:191", 
+        "hospital:264", 
+        "intelligence officials:301", 
+        "Tihar Jail:349"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/hizbul-mujahideen-takes-responsibility-for-attack-on-crpf-camp-516091", 
+    "date": "13-03-2013", 
+    "target": "", 
+    "hot_spot": "Srinagar", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian government", 
+            "64", 
+            "Others"
+        ], 
+        [
+            "Pakistan", 
+            "87", 
+            "Others"
+        ], 
+        [
+            "Central Reserve Police Force", 
+            "112", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "212", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "223", 
+            "Others"
+        ], 
+        [
+            "Hizbul Mujahideen", 
+            "282", 
+            "Accused"
+        ], 
+        [
+            "government", 
+            "365", 
+            "Others"
+        ]
+    ]
+}

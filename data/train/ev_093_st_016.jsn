@@ -1,0 +1,226 @@
+{
+    "LOC": [
+        [
+            "Patna", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Buddhist pilgrim", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "world heritage Mahabodhi Temple", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Bodhi tree", 
+            "46", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "52", 
+            "Neutral"
+        ], 
+        [
+            "temple city", 
+            "88", 
+            "Source"
+        ], 
+        [
+            "Bihar", 
+            "180", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "301", 
+            "Neutral"
+        ], 
+        [
+            "Buddha statue", 
+            "331", 
+            "Source"
+        ], 
+        [
+            "Terga monastery", 
+            "335", 
+            "Neutral"
+        ], 
+        [
+            "Baiju Bigha", 
+            "342", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "384", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "431", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "449", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "483", 
+            "Neutral"
+        ], 
+        [
+            "Kishanganj", 
+            "518", 
+            "Accused"
+        ], 
+        [
+            "Purnia railway station", 
+            "542", 
+            "Neutral"
+        ], 
+        [
+            "Madhubani", 
+            "562", 
+            "Neutral"
+        ], 
+        [
+            "Nepal", 
+            "573", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "585", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abhayanand", 
+            "185", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "461", 
+            "Others"
+        ], 
+        [
+            "Riyajul Khan", 
+            "513", 
+            "Accused"
+        ], 
+        [
+            "Mirza Khan", 
+            "526", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Omar Madani", 
+            "553", 
+            "Accused"
+        ], 
+        [
+            "Madani", 
+            "575", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "12 hours : 149"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "6th century BC : 56", 
+        "2008 : 430", 
+        "2011 : 509", 
+        "2010 : 522"
+    ], 
+    "death": "", 
+    "title": "Buddhas name found on Bihar temple bomb", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "", 
+        "Buddhist pilgrim,Bodh Gaya"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Patna : Investigating agencies probing Sundays bomb attack at the Buddhist pilgrim town of Bodh Gaya in Bihar have found that the terrorists had used the name of Buddha to target the world heritage Mahabodhi Temple . . . Buddha had attained enlightenment under the Bodhi tree located just behind the Mahabodhi temple in the 6th century BC , after which the site became known as the Land of Peace . . . The revelation came to light after one of the three bombs recovered from the temple city during a search of the area in the aftermath of the blasts had the word Buddha written on it in bold letters . The bombs were small , liquefied petroleum gas cylinders with timers and contained ammonium nitrate , TNT and RDX . They were planted at key points in the sprawling complex for maximum damage but they exploded 12 hours early in damp conditions , according to investigating agencies . . . There is evidence that a fusion of low - and high-intensity bomb-making technique was used , said Bihar director general of police Abhayanand . We can guess whose work it could be but can not say as it would impede investigation . Its a terror strike . Such IEDs have been used in the past in the country . . . The investigating agencies also believe the bombs could have been planted by terrorists wearing yellow robes to escape being noticed . They also believe the terrorists were familiar with the place . . . Investigators also recovered three hand-written pamphlets written in Urdu from near the blast sites . While two of the pamphlets mention code words describing the locations where the bombs were apparently to be planted , the third one features the words Revenge of Iraq . Sources said the pamphlets were found lying near three bombs that did not explode . . . The powerful devices were recovered from the top of the 80-feet-tall Buddha statue , near Terga monastery and in the village of Baiju Bigha , which are all located some 1.5 kilometres to 2km from the temple . In all , 12 bombs were planted , out of which nine exploded . . . This is the first time that the terrorists have targeted Bihar . So far , the area had been a safe corridor for the terrorists , as is evident from the arrest of some 30 suspects from various parts of the state in the past three years . Authorities say their activities have increased since the 2008 Mumbai terrorists attack . . . For the past several months , security agencies have been constantly combing Bihar areas and arresting suspects , evoking sharp protests from chief minister Nitish Kumar . Only yesterday , the National Investigating Agency issued a list of 12 terrorists , of which two are from Bihar . . . Last year , the Karnataka police arrested Kafil Akhtar , who was suspected to be involved in Chinnaswami stadium blast . In 2011 , suspected terrorist Riyajul Khan was arrested from Kishanganj district while in 2010 an Afghan militant Mirza Khan , who is alleged to be working for Al Qaida , was arrested from Purnia railway station . The previous year , another suspected terrorist Mohammad Omar Madani was arrested by Delhi police from Madhubani district . According to security agencies , Lashkar e Taiba Nepal chief Madani had been assigned the task of recruiting youths from Bihar after proper training in handling arms and explosives .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Land of Peace:68", 
+        "liquefied petroleum gas cylinders:118", 
+        "timers:123", 
+        "ammonium nitrate:126", 
+        "TNT:129", 
+        "RDX:131", 
+        "low - and high-intensity:170", 
+        "IEDs:211"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://gulfnews.com/news/asia/india/buddha-s-name-found-on-bihar-temple-bomb-1.1206651", 
+    "date": "07-07-2013", 
+    "target": "", 
+    "hot_spot": "Buddhist pilgrim,Bodh Gaya", 
+    "delivery_mod": "TEMPLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Investigating agencies", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "National Investigating Agency", 
+            "468", 
+            "Others"
+        ], 
+        [
+            "Afghan militant", 
+            "524", 
+            "Accused"
+        ], 
+        [
+            "Al Qaida", 
+            "536", 
+            "Accused"
+        ], 
+        [
+            "Delhi police", 
+            "559", 
+            "Others"
+        ], 
+        [
+            "Lashkar e Taiba", 
+            "570", 
+            "Accused"
+        ]
+    ]
+}

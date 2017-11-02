@@ -1,0 +1,157 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Ganeshguri", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Dispur", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "Solmari", 
+            "148", 
+            "Event"
+        ], 
+        [
+            "lower Assam", 
+            "150", 
+            "Event"
+        ], 
+        [
+            "Goalpara", 
+            "153", 
+            "Neutral"
+        ], 
+        [
+            "upper Assam", 
+            "195", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "207", 
+            "Neutral"
+        ], 
+        [
+            "Rupa", 
+            "220", 
+            "Neutral"
+        ], 
+        [
+            "Bomdila", 
+            "222", 
+            "Neutral"
+        ], 
+        [
+            "Arunachal Pradesh", 
+            "225", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "232", 
+            "Neutral"
+        ], 
+        [
+            "Laipuli", 
+            "240", 
+            "Neutral"
+        ], 
+        [
+            "Tinsukia", 
+            "242", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Rajen Singh", 
+            "114", 
+            "Comment"
+        ], 
+        [
+            "Gill", 
+            "216", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "6.30 p.m.:48"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:42"
+    ], 
+    "death": "1", 
+    "title": "Bomb explosion near Dispur kills one", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        "Ganeshguri"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASOM "
+    ], 
+    "content": "Sushanta Talukdar . . Guwahati : One person was killed and 17 were injured in a bomb blast suspected to have been triggered by the United Liberation Front of Asom -LRB- ULFA -RRB- in the busy Ganeshguri area near Dispur on Wednesday . The blast occurred around 6.30 p.m. about 100 meters from the Dispur police station . . . Injured admitted to hospital . . The condition of three of the injured is stated to be critical and they have been admitted to the intensive care unit of the Guwahati Medical College and Hospital . A CRPF patrol party , stationed nearby , escaped unharmed . . . Additional Superintendent of Police Rajen Singh told The Hindu that the explosion was suspected to have been triggered by a timer device concealed in a vegetable sack . . . Another blast . . Another blast occurred at Solmari in lower Assam 's Goalpara district earlier in the day immediately after an Army vehicle crossed the area , police sources said . . . There was no report of any casualty . . . The blasts occurred amid intensified counter-insurgency operations by the Army in upper Assam . Sources said a new brigade headquarters was shifted to Dibrugarh . The Mountain Brigade headed by Brig. I.P.S. Gill was shifted from Rupa in Bomdila district of Arunachal Pradesh . It will concentrate on Dibrugarh district while another brigade headquarters based at Laipuli in Tinsukia district will mainly carry out counter-insurgency operations in the district .", 
+    "injured": "17", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "crpf:98", 
+        "additional superintendent of police:110"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/bomb-explosion-near-dispur-kills-one/article1784274.ece", 
+    "date": "17-01-2007", 
+    "target": "", 
+    "hot_spot": "Ganeshguri", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "32", 
+            "Accused"
+        ], 
+        [
+            "Dispur police", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "Guwahati Medical College and Hospital", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "117", 
+            "Others"
+        ]
+    ]
+}

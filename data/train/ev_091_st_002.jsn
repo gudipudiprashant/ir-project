@@ -1,0 +1,213 @@
+{
+    "LOC": [
+        [
+            "Bangalore", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Malleswaram", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Karnataka", 
+            "45", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "132", 
+            "Neutral"
+        ], 
+        [
+            "Tamil Nadu", 
+            "137", 
+            "Neutral"
+        ], 
+        [
+            "Chinnaswamy Stadium", 
+            "251", 
+            "Neutral"
+        ], 
+        [
+            "Boston", 
+            "262", 
+            "Neutral"
+        ], 
+        [
+            "Malleswaram", 
+            "296", 
+            "Event"
+        ], 
+        [
+            "Malleswaram", 
+            "305", 
+            "Event"
+        ], 
+        [
+            "Hubli", 
+            "519", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Raghavendra H. Auradkar", 
+            "172", 
+            "Comment"
+        ], 
+        [
+            "Mr. Auradkar", 
+            "286", 
+            "Comment"
+        ], 
+        [
+            "Venkateshaiah", 
+            "334", 
+            "Others"
+        ], 
+        [
+            "Anil Kumar Jha", 
+            "470", 
+            "Comment"
+        ], 
+        [
+            "Jagadish Shettar", 
+            "514", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "24-hour : 52", 
+        "10.20 a.m. : 84", 
+        "last day : 90", 
+        "10.15 a.m. : 224", 
+        "three years : 235"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday morning : 19", 
+        "May 5 : 99", 
+        "Tuesday : 255", 
+        "May 5 : 499"
+    ], 
+    "death": "", 
+    "title": "17 injured in blast near Bangalore BJP office", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A bomb explosion of low intensity injured 17 people , including 12 police personnel , in Bangalore on Wednesday morning . The blast occurred some 100 metres from the headquarters of the Bharatiya Janata Party at Malleswaram . The police personnel were in a Karnataka State Reserve Police van stationed on 24-hour election duty . . . Two cars and two two-wheelers were gutted , while the police van was damaged in the explosion that shook the densely populated semi-residential area . The 10.20 a.m. blast coincided with the last day of the filing of nominations for the May 5 Assembly polls . . . Preliminary investigation revealed that the blast was triggered by a timer-based improvised explosive device fitted on a blue Suzuki motorcycle it turned out to be an Andhra Pradesh vehicle with fake Tamil Nadu registration plates parked between two cars . Initial reports pointed to an LPG cylinder in a party workers Maruti Omni van as the source . . . Special teams . . Police Commissioner Raghavendra H. Auradkar said special teams had been formed for investigation . A forensics team found the timer . The police said they have CCTV footage of the area . Sketches are being prepared of the motorcycle rider , based on two persons claims they saw someone park the vehicle there at 10.15 a.m. . . The last blast occurred in the city three years ago to the day , ahead of an Indian Premier League fixture at the Chinnaswamy Stadium . On Tuesday , in the wake of the Boston blasts and ongoing IPL 6 series , the Union Home Ministry had issued a general advisory to the State police . However , Mr. Auradkar said there was no specific intelligence on the Malleswaram blast . . . The busy street on Malleswaram , which was in the thick of electoral activity , was covered with shattered glass , mostly from broken vehicle window panes . . . KSRP head constable Venkateshaiah , who was having his breakfast inside the van when the blast occurred , said : We heard a loud explosion , and before we knew it , the windows shattered and there was thick black smoke everywhere . We couldnt see a thing initially but somehow made our way out of the van . When the smoke cleared a bit , he saw people lying with injuries . Some of them had lost consciousness . . . They were rushed to the State-run K.C. General Hospital and Mallige Hospital . Hospital authorities said all the injuries were caused by shattered glass and the impact of the blast -LRB- sound and heat -RRB- . Barring two minor surgeries , all the victims sustained only light injuries , mainly cuts . . . Chief Electoral Officer Anil Kumar Jha said the police report on the blast was despatched to the Election Commission . As of now there is no link of the blast to the May 5 elections , he said . . . Condemning the blast , Chief Minister Jagadish Shettar told presspersons in Hubli the real intention behind the crime will be traced once the investigation was over .", 
+    "injured": "17", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "Bangalore", 
+        "Malleswaram"
+    ], 
+    "O": [
+        "bomb explosion:2", 
+        "low intensity:5", 
+        "blast:23", 
+        "100 metres:26", 
+        "headquarters of the Bharatiya Janata Party:30", 
+        "van stationed:49", 
+        "election duty:53", 
+        "Two cars:58", 
+        "two two-wheelers:61", 
+        "gutted:64", 
+        "police van:68", 
+        "damaged:71", 
+        "explosion:74", 
+        "densely populated:78", 
+        "semi-residential area:80", 
+        "blast coincided:86", 
+        "Assembly polls:101", 
+        "Preliminary investigation:106", 
+        "blast:111", 
+        "triggered:113", 
+        "timer-based improvised explosive device:116", 
+        "blue Suzuki motorcycle:123", 
+        "Andhra Pradesh vehicle:132", 
+        "fake Tamil Nadu registration:136", 
+        "LPG cylinder:151", 
+        "Maruti Omni van:157", 
+        "forensics team:185", 
+        "timer:189", 
+        "CCTV footage:196", 
+        "Sketches:202", 
+        "motorcycle rider:208", 
+        "two persons claims:213", 
+        "last blast:229", 
+        "Boston blasts:262", 
+        "IPL 6 series:266", 
+        "specific intelligence:292", 
+        "Malleswaram blast:296", 
+        "busy street:302", 
+        "electoral activity:313", 
+        "shattered glass:319", 
+        "loud explosion:354", 
+        "windows shattered:364", 
+        "thick black smoke:369", 
+        "lost consciousness:408", 
+        "Hospital authorities:426", 
+        "injuries:431", 
+        "shattered glass:435", 
+        "impact of the blast:439", 
+        "sound and heat:444", 
+        "two minor surgeries:450", 
+        "victims:456", 
+        "light injuries:459", 
+        "cuts:463", 
+        "blast:479", 
+        "Election Commission:484", 
+        "blast:496"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/cities/bangalore/17-injured-in-blast-near-bangalore-bjp-office/article4626389.ece", 
+    "date": "17-04-2013", 
+    "target": "ASSEMBLY POLLS", 
+    "hot_spot": "", 
+    "delivery_mod": "MOTORCYCLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Bharatiya Janata Party", 
+            "33", 
+            "Others"
+        ], 
+        [
+            "Karnataka State Reserve Police", 
+            "45", 
+            "Others"
+        ], 
+        [
+            "Indian Premier League", 
+            "245", 
+            "Others"
+        ], 
+        [
+            "KSRP", 
+            "331", 
+            "Others"
+        ], 
+        [
+            "K.C. General Hospital", 
+            "419", 
+            "Others"
+        ], 
+        [
+            "Mallige Hospital", 
+            "423", 
+            "Others"
+        ]
+    ]
+}

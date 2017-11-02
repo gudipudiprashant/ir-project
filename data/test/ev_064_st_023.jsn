@@ -1,0 +1,71 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Goregaon", 
+            "44", 
+            "Victim"
+        ], 
+        [
+            "Borivali", 
+            "46", 
+            "Victim"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:26"
+    ], 
+    "death": "", 
+    "title": "Families bid final goodbye to victims of blasts", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "suburban trains"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "It was a sea of white as mourners thronged crematoriums and funeral homes across Mumbai to bid a final goodbye to those who perished in Tuesday 's serial bomb blasts on suburban trains in Mumbai . . . Several localities in suburbs like Goregaon and Borivali were home to to many of the dead , and as their families , neighbours and friends made their way to condole the bereaved , an eerie silence prevailed over normally bustling neighbourhoods . . . ` What have they -LRB- terrorists -RRB- got by killing innocent college going boys ? We fail to understand their mentality , ' said one such mourner . . . Meanwhile , the BMC lent a helping hand and announced that all funeral services would be free of cost keeping in mind the scope of the tragedy that struck this teeming metropolis . . . Most of the people who lost their relatives , earlier heaved a sigh of relief as the identified bodies were handed over to relatives without any hassles after completion of due formalities . . . Even as relatives were busy preparing for the last rites , rain gods also joined them in the mourning , lashing occasional showers all during the day . .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "sea of white:4", 
+        "crematoriums:10", 
+        "funeral:12", 
+        "goodbye:20", 
+        "serial bomb:28", 
+        "suburbs:42", 
+        "home:48", 
+        "free of cost:129", 
+        "handed over:168", 
+        "last rites:191"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/12mumblast16.htm", 
+    "date": "11-07-2006", 
+    "target": "RAILWAY", 
+    "hot_spot": "suburban trains", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

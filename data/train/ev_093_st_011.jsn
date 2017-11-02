@@ -1,0 +1,185 @@
+{
+    "LOC": [
+        [
+            "Bodh Gaya", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Bodhi tree", 
+            "99", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "188", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "196", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "200", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "439", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vinod Mistry", 
+            "109", 
+            "Accused"
+        ], 
+        [
+            "Mistry", 
+            "128", 
+            "Comment"
+        ], 
+        [
+            "Sushil Kumar Shide", 
+            "162", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "326", 
+            "Comment"
+        ], 
+        [
+            "Kumar", 
+            "393", 
+            "Comment"
+        ], 
+        [
+            "Nitish", 
+            "407", 
+            "Comment"
+        ], 
+        [
+            "Digvijaya", 
+            "409", 
+            "Others"
+        ], 
+        [
+            "Kumar", 
+            "412", 
+            "Comment"
+        ], 
+        [
+            "Lalu Prasad", 
+            "430", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "Thirty six : 4", 
+        "morning : 70", 
+        "5.30 am : 243"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:69", 
+        "2008:198", 
+        "2012:202", 
+        "October : 342"
+    ], 
+    "death": "", 
+    "title": "Day after terror attack, prayers for peace at Bodh Gaya", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "", 
+        " Mahabodhi temple,Buddha statue "
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Bodh Gaya : Thirty six hours after multiple blasts rocked the Mahabodhi temple , a heritage site in Bihar 's Bodh Gaya , it was re-opened to the public and special prayers for peace were held by hundreds of Buddhist monks . -LRB- Read : Latest developments -RRB- Investigators are , however , yet to get clear leads on who was behind the series of explosions on early Sunday morning , which left two monks injured . They are studying CCTV footage from about 15 cameras installed in the temple and released footage of an explosion near the Bodhi tree . They have also detained a man called Vinod Mistry , whose identity card was found at the blasts site , and are questioning him . Mr Mistry has , however , reportedly claimed that he had lost his identity card a few days ago.There were 10 blasts at the temple and not nine as was earlier reported , Home Minister Sushil Kumar Shide said today . Three live bombs were found and were defused . An analysis of the bombs as allegedly revealed similarities between the Bodh Gaya explosions and the deadly blasts in Jaipur in 2008 and Pune in 2012 , in which the police suspect the hand of terror group Indian Mujahideen . But investigators warn that more evidence is needed before drawing conclusions.Clocks were used to trigger the blasts yesterday and all bombs were timed to explode at 5.30 am . The investigators are trying to work out why that time was chosen as activity inside the temple is minimal then . The unexploded bombs had Urdu markings on them.The bombs were strategically placed , one was even planted at a height of 20 feet on a Buddha statue , for which a ladder would have been needed , the police said . But no one saw a ladder being brought into the temple premises . -LRB- Read -RRB- Chief Minister Nitish Kumar , criticised for not having secured the temple adequately despite an intelligence report in October last year that it could be attacked , has requested the Centre to take over security at the heritage site . `` We are requesting the central government to give the responsibility of the security arrangements of the temple to the Central Industrial Security Force or CISF '' , Mr Kumar said . -LRB- Read : Politics over blasts - It 's BJP vs Nitish , Digvijaya -RRB- Mr Kumar accused the BJP , which was a partner in his government till last month , and rival Lalu Prasad 's RJD of colluding to politicise the Bodh Gaya blasts . The two parties had called for a bandh or shut down in the region . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Buddhist monks:40", 
+        "monks injured:75", 
+        "CCTV footage:81", 
+        "temple:90", 
+        "Home Minister:160", 
+        "temple:262", 
+        "Urdu:271", 
+        "Buddha statue:292", 
+        "police:305", 
+        "Chief Minister:324"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "RELIGIOUS FESTIVAL", 
+    "link": "http://www.ndtv.com/india-news/day-after-terror-attack-prayers-for-peace-at-bodh-gaya-527758", 
+    "date": "07-07-2013", 
+    "target": "TEMPLE", 
+    "hot_spot": " Buddha statue ,Mahabodhi temple,Buddha statue ", 
+    "delivery_mod": "BUDDHA STATUE ", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "214", 
+            "Accused"
+        ], 
+        [
+            "central government", 
+            "369", 
+            "Others"
+        ], 
+        [
+            "Central Industrial Security Force", 
+            "384", 
+            "Others"
+        ], 
+        [
+            "CISF", 
+            "389", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "405", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "415", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "423", 
+            "Others"
+        ]
+    ]
+}

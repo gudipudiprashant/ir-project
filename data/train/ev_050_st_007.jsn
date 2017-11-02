@@ -1,0 +1,77 @@
+{
+    "LOC": [
+        [
+            "Srinagar", 
+            "4", 
+            "Neutral"
+        ], 
+        [
+            "Baramullah", 
+            "32", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "50", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mukhtar Ahmad", 
+            "1", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:33", 
+        "Tuesday:89"
+    ], 
+    "death": "2", 
+    "title": "2 killed in skirmish between BSF and militants", 
+    "org_unorg": "UNORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Mukhtar Ahmad in Srinagar . . One civilian and a Border Security Force jawan were killed and six others injured in an exchange of fire between militants and security forces in Baramullah Thursday evening . . . The skirmish followed close on the heels of two bomb blasts in Srinagar early in the day that killed 10 people , including a journalist , and left 27 others injured . . . The blasts were the first major terrorist strike after the Hizbul Mujahideen withdrew its cease-fire offer on Tuesday . . . Complete coverage . . Back to top . . Tell us what you think of this report .", 
+    "injured": "6", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Baramula", 
+        "Baramula", 
+        ""
+    ], 
+    "O": [
+        "Border Security Force jawan:11", 
+        "exchange of fire:23", 
+        "militants:27", 
+        "security forces:29", 
+        "bomb blasts:47", 
+        "Srinagar:50", 
+        "terrorist strike:78", 
+        "Hizbul Mujahideen:82"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2000/aug/10jk.htm", 
+    "date": "10-08-2000", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Hizbul Mujahideen", 
+            "82", 
+            "Others"
+        ]
+    ]
+}

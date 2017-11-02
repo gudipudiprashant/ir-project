@@ -1,0 +1,189 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Liberty cinema", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Satyam cinema", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "230", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "236", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "Haryana", 
+            "286", 
+            "Neutral"
+        ], 
+        [
+            "west Delhi", 
+            "296", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "372", 
+            "Neutral"
+        ], 
+        [
+            "Manhattan", 
+            "374", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "383", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "508", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "594", 
+            "Neutral"
+        ], 
+        [
+            "Khalistan", 
+            "612", 
+            "Neutral"
+        ], 
+        [
+            "Amritsar", 
+            "669", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "731", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "744", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "RC Sharma", 
+            "112", 
+            "Comment"
+        ], 
+        [
+            "C Mishra", 
+            "224", 
+            "Comment"
+        ], 
+        [
+            "Guru Nanak", 
+            "535", 
+            "Others"
+        ], 
+        [
+            "Indira Gandhi", 
+            "637", 
+            "Others"
+        ], 
+        [
+            "Akal Takht", 
+            "695", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "749", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "8.30 pm : 51", 
+        "15 minutes : 88", 
+        "night : 512"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Cinemas bombed as film angers Sikhs", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        " Liberty cinema"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The central government put New Delhi on high alert and all the city 's cinemas were evacuated as a precautionary measure . The two cinemas were immediately cordoned off by police . . . At least 43 people were injured in the first blast at the Liberty cinema at around 8.30 pm , according to a list of injured pasted outside the theatre by police . One of the injured died later in hospital , the Press Trust of India news agency reported . . . About 15 minutes later , another explosion rocked the nearby Satyam cinema , wounding at least seven people , Associated Press quoted chief fire officer RC Sharma as saying . . . Many of those hurt were taken to local hospitals with serious injuries . Television stations reported that up to three people were dead . . . Pictures of the injured showed many wheeled unconscious into hospital while reporters interviewed blood-splattered survivors . . . In one cinema a bomb had been placed in the hallway , which was bustling with people when it went off . The other blew up in a toilet leaving a crater in the floor . . . `` What we had was a high intensity device and the injuries sustained were consistent with a high pressure explosion , '' D C Mishra , an official with Delhi 's fire department , told New Delhi TV . . . Showing at both cinemas was a film called Jo Bole So Nihal , condemned by Sikh groups for denigrating their faith . As a result of protests , film distributors last week withdrew the movie from cinemas across Punjab and the neighbouring state of Haryana . . . Both bombs went off in Punjabi-dominated west Delhi , where Sikhs make up a sizeable part of the population . Police refused to be drawn on who might have planted the bombs in the capital , although Indian television channels claimed that ministerial sources confirmed it was a `` militant '' attack . . . Sikh religious figures had a growing list of complaints with the movie , which revolves around an ordinary Sikh police officer who travels from the fields of Punjab to Manhattan and single-handedly foils a plot to assassinate the US president . . . Priests had been angered because the main character , a Sikh , was played by a Hindu and because a Sikh character had been chased by scantily clad women while in the background Sikh scriptures were being read out . . . The highest decision-making body of the Sikh religion , the Shiromani Gurdwara Parbandhak Committee , demanded a name change for the film and the removal of the offending scenes . . . Jo Bole So Nihal roughly translates as `` those who call out to God , will be blessed . '' The Sikh committee said the title misused a popular term only spoken in Sikh temples or on the battlefield by Sikh warriors . Film producers in Mumbai were meeting last night to decide whether to withdraw the film from all the nation 's cinemas . . . Founded in the 15th century by Guru Nanak , Sikhism broke away from Hinduism and Islam , the main religions of India . Sikhism rejects idol worship and caste , and has about 20 million followers , most of whom live in India and make up nearly 2 % of the country 's 1.06 billion people . . . More than 20 years ago , Punjab was convulsed by a violent insurgency led by separatist Sikhs who wanted an independent homeland , called Khalistan . More than 40,000 people died in a decade of violence , with religious riots and the assassination of India 's prime minister , Indira Gandhi , by her Sikh bodyguards . . . There is still resentment over Operation Bluestar , carried out in 1984 , when the Indian army stormed the Golden Temple in Amritsar , the holiest Sikh shrine , to kill an armed band of separatists . . . Much of the temple 's spiritual centre , the Akal Takht , was reduced to rubble . A number of armed separatists are still on the run , occasionally blowing up railway lines . . . However , most Sikhs have made their peace with India and are among the most upwardly mobile communities in the country . India 's prime minister , Manmohan Singh , is a respected economist from the Sikh community . . . .", 
+    "injured": "43", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "sikh:398", 
+        "hindu:404", 
+        "sikh temples:495", 
+        "golden temple:666"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.theguardian.com/world/2005/may/23/film.india", 
+    "date": "23-05-2005", 
+    "target": "CINEMA HALL", 
+    "hot_spot": " Liberty cinema", 
+    "delivery_mod": "CINEMA HALL", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "central government", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Press Trust of India", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "Sikh groups", 
+            "257", 
+            "Others"
+        ], 
+        [
+            "Sikh police", 
+            "363", 
+            "Others"
+        ], 
+        [
+            "Shiromani Gurdwara Parbandhak Committee", 
+            "440", 
+            "Others"
+        ]
+    ]
+}

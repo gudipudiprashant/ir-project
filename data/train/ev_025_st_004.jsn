@@ -1,0 +1,207 @@
+{
+    "LOC": [
+        [
+            "Dispur", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Satgaon", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Satgaon market", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Azara", 
+            "60", 
+            "Accused"
+        ], 
+        [
+            "Singri", 
+            "75", 
+            "Accused"
+        ], 
+        [
+            "Kamrup", 
+            "80", 
+            "Accused"
+        ], 
+        [
+            "Satgaon", 
+            "90", 
+            "Accused"
+        ], 
+        [
+            "Jaleswar", 
+            "140", 
+            "Accused"
+        ], 
+        [
+            "South Salmara", 
+            "142", 
+            "Accused"
+        ], 
+        [
+            "Dhubri", 
+            "145", 
+            "Accused"
+        ], 
+        [
+            "Panjabari", 
+            "163", 
+            "Accused"
+        ], 
+        [
+            "Christian Basti", 
+            "214", 
+            "Neutral"
+        ], 
+        [
+            "Satgaon", 
+            "242", 
+            "Accused"
+        ], 
+        [
+            "Narengi", 
+            "244", 
+            "Neutral"
+        ], 
+        [
+            "Dispur", 
+            "287", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rajen Singh", 
+            "29", 
+            "Comment"
+        ], 
+        [
+            "Nazrul Haque", 
+            "32", 
+            "Accused"
+        ], 
+        [
+            "Haque", 
+            "70", 
+            "Accused"
+        ], 
+        [
+            "Haque", 
+            "95", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Azharuddin Ali", 
+            "99", 
+            "Accused"
+        ], 
+        [
+            "Singh", 
+            "130", 
+            "Comment"
+        ], 
+        [
+            "Azharuddin", 
+            "135", 
+            "Accused"
+        ], 
+        [
+            "Nazrul", 
+            "170", 
+            "Accused"
+        ], 
+        [
+            "Azharuddin", 
+            "176", 
+            "Accused"
+        ], 
+        [
+            "Azharuddin", 
+            "204", 
+            "Accused"
+        ], 
+        [
+            "Nazrul", 
+            "224", 
+            "Accused"
+        ], 
+        [
+            "Nazrul", 
+            "231", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "night : 66", 
+        "evening : 250"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Jan. 16:1", 
+        "January 9 : 195", 
+        "December 19:217", 
+        "January 8:248"
+    ], 
+    "death": "", 
+    "title": "Police net Dispur blast planner", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)", 
+        "ISLAMIC TERRORIST OUTFITS"
+    ], 
+    "content": "Jan. 16 : Police last night arrested the mastermind of the recent bomb blasts at Dispur and Satgaon . . . Additional superintendent of police ( city ) Rajen Singh said Nazrul Haque , who had prepared the plans and even planted the explosives at Satgaon market and in front of Dispur police station , has been arrested from Azara on the city outskirts last night . . . Haque , who hails from Singri ( Boko ) in Kamrup district , was staying in a rented house at Satgaon area . . . Haque and his associate Mohammad Azharuddin Ali have been remanded in 14 days police custody after they were produced in court today . The have confessed their role in the blasts before the magistrate , Singh said . . . Azharuddin , a resident of Jaleswar at South Salmara in Dhubri district , was arrested from the city a couple of days ago . He was staying in Panjabari . . . Police sources said Nazrul hatched the plot and used Azharuddin to purchase the motorcycle , on which the bomb was planted in front of Dispur police station on January 9 . . . Investigations have revealed that Azharuddin purchased the Hero Honda Splendour from Pibco Enterprises at Christian Basti on December 19 with the money given by Nazrul , they said . . . Nazrul had also masterminded the two back-to - back explosions at Satgaon near Narengi army cantonment on January 8 evening , that left one dead and many others injured , the sources added . . . The police now hope that interrogation of the duo will reveal Ulfas links with the jihadi elements , as the Dispur blast is suspected to be a joint operation by Ulfa and Islamic fundamentalists .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Dispur", 
+        "Dispur"
+    ], 
+    "O": [
+        "night:6", 
+        "Additional superintendent of police:22"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1070117/asp/guwahati/story_7271232.asp", 
+    "date": "16-01-2007", 
+    "target": "", 
+    "hot_spot": "Dispur", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Dispur police", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "Dispur police", 
+            "191", 
+            "Others"
+        ], 
+        [
+            "Ulfa", 
+            "297", 
+            "Accused"
+        ], 
+        [
+            "Islamic", 
+            "299", 
+            "Accused"
+        ]
+    ]
+}

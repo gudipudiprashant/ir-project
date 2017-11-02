@@ -1,0 +1,411 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "GUWAHATI", 
+            "21", 
+            "Assoc_Event"
+        ], 
+        [
+            "Assam", 
+            "39", 
+            "Event"
+        ], 
+        [
+            "Dhekiajuli", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "Darrang", 
+            "86", 
+            "Event"
+        ], 
+        [
+            "vegetable market", 
+            "125", 
+            "Event"
+        ], 
+        [
+            "Gouripur", 
+            "128", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "130", 
+            "Event"
+        ], 
+        [
+            "fish market", 
+            "155", 
+            "Event"
+        ], 
+        [
+            "Bijni", 
+            "158", 
+            "Event"
+        ], 
+        [
+            "Chirang", 
+            "160", 
+            "Event"
+        ], 
+        [
+            "Gossaigaon", 
+            "179", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "181", 
+            "Event"
+        ], 
+        [
+            "Rangapara", 
+            "201", 
+            "Event"
+        ], 
+        [
+            "Sonitpur", 
+            "203", 
+            "Event"
+        ], 
+        [
+            "Baska", 
+            "222", 
+            "Event"
+        ], 
+        [
+            "Lower Assam", 
+            "225", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "270", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "272", 
+            "Event"
+        ], 
+        [
+            "Sonari", 
+            "283", 
+            "Event"
+        ], 
+        [
+            "Sibsagar", 
+            "285", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "295", 
+            "Neutral"
+        ], 
+        [
+            "Dabosal", 
+            "313", 
+            "Event"
+        ], 
+        [
+            "western Assam", 
+            "315", 
+            "Event"
+        ], 
+        [
+            "Puthimari", 
+            "374", 
+            "Event"
+        ], 
+        [
+            "Kolaigaon", 
+            "376", 
+            "Assoc_Event"
+        ], 
+        [
+            "Udalguri", 
+            "380", 
+            "Assoc_Event"
+        ], 
+        [
+            "Borhat", 
+            "391", 
+            "Event"
+        ], 
+        [
+            "Sibsagar", 
+            "393", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "441", 
+            "Victim"
+        ], 
+        [
+            ", Bongaigaon ,", 
+            "442", 
+            "Victim"
+        ], 
+        [
+            "Bongaigaon", 
+            "443", 
+            "Victim"
+        ], 
+        [
+            "Kokrajhar", 
+            "445", 
+            "Victim"
+        ], 
+        [
+            "Darrang", 
+            "447", 
+            "Victim"
+        ], 
+        [
+            "Darrang ,", 
+            "447", 
+            "Victim"
+        ], 
+        [
+            "Morigaon", 
+            "449", 
+            "Victim"
+        ], 
+        [
+            "Chirang", 
+            "451", 
+            "Victim"
+        ], 
+        [
+            "Udalguri", 
+            "453", 
+            "Victim"
+        ], 
+        [
+            "Sonitpur", 
+            "455", 
+            "Victim"
+        ], 
+        [
+            "Sibsagar", 
+            "457", 
+            "Victim"
+        ], 
+        [
+            "Karbi Anglong", 
+            "459", 
+            "Victim"
+        ], 
+        [
+            "Kamrup", 
+            "462", 
+            "Victim"
+        ], 
+        [
+            "Nalbari", 
+            "464", 
+            "Victim"
+        ], 
+        [
+            "Assam", 
+            "553", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "15", 
+            "Others"
+        ], 
+        [
+            "Khagen Sharma", 
+            "58", 
+            "Others"
+        ], 
+        [
+            "A.K. Bhutani", 
+            "326", 
+            "Others"
+        ], 
+        [
+            "Chitra", 
+            "339", 
+            "Others"
+        ], 
+        [
+            "Sharma", 
+            "475", 
+            "Others"
+        ], 
+        [
+            "P.V. Sumant", 
+            "535", 
+            "Others"
+        ], 
+        [
+            "Sumant", 
+            "614", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "OCT. 3 : 23"
+    ], 
+    "death": "12", 
+    "title": "12 killed as blasts rock Assam for second day", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Darrang", 
+        "GUWAHATI", 
+        "Assam"
+    ], 
+    "terror_group": [
+        "NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)"
+    ], 
+    "content": "Front Page 12 killed as blasts rock Assam for second day . . By Sushanta Talukdar and agencies . . GUWAHATI , OCT. 3 . Twelve persons were killed and 58 injured in incidents of violence that rocked Assam for the second day today . . . The Inspector General of Police -LRB- Special Branch -RRB- , Khagen Sharma , said that suspected militants of the National Democratic Front of Bodoland -LRB- NDFB -RRB- triggered a powerful blast at a weekly market in Dhekiajuli in Darrang district . Thirty-seven persons were injured , some of them seriously . One of the injured died on the way to hospital . . . Three persons were killed and 10 injured in a blast in the busy vegetable market at Gouripur in Dhubri district , police said . Unofficial sources , however , claimed that five persons were killed . . . In another blast at a fish market at Bijni in Chirang district , one person died and eight were injured . . . NDFB militants triggered a blast at Gossaigaon in Kokrajhar district , in which one person was killed and two were injured . Two NDFB men were killed at Rangapara in Sonitpur district when a bomb they were carrying went off . Militants shot at a minor girl in the Baska district of Lower Assam . . . Army vehicle targeted . . In attacks suspected to have been carried out by the United Liberation Front of Asom -LRB- ULFA -RRB- , four army men were killed and their vehicle was damaged in a powerful blast in Upper Assam 's Tinsukia district . Two other blasts damaged an oil pipeline at Sonari in Sibsagar district . The extent of damage to the Oil India Limited 's natural gas pipeline was unknown . . . Another bomb exploded at a shop in Dabosal in western Assam , wounding its owner , the District Magistrate , A.K. Bhutani , said . . . And in the nearby town of Chitra , suspected militants blew up an electrical transmission tower , snapping power supply to the area , he added . . . A militant was killed when the bomb he was carrying exploded at Puthimari under Kolaigaon police station in Udalguri district . . . ULFA militants exploded a bomb at Borhat in Sibsagar district , in which a tea garden labourer was killed on the spot and two were seriously injured . The district police also recovered 6 kg RDX from militants and took 10 persons into custody . . . The violence spread to more districts today , affecting Dhubri , Bongaigaon , Kokrajhar , Darrang , Morigaon , Chirang , Udalguri , Sonitpur , Sibsagar , Karbi Anglong , Kamrup and Nalbari . . . ` Joint attacks ' . . Mr. Sharma said that the NDFB , which is demanding the creation of a ` sovereign Boroland , ' had carried out attacks on soft targets in a desperate bid to draw attention on its 18th raising day . The attacks had been carried out jointly by the NDFB and the ULFA . . . The Director General of Police , P.V. Sumant , said the groups were coordinating their operations to strike simultaneously . . . ` The Assam Police has information that they -LSB- the NDFB and the ULFA -RSB- do work together as seen in yesterday 's serial blasts and firings by militants across the State . ' ` We had discussions with the Union Home Minister as to how to coordinate the security operations against the outfits as they are functioning in unison , ' Mr. Sumant added . . . Alert sounded . . Officials said ` maximum alert ' had been sounded in the areas where the NDFB was active . Additional security forces had been deployed and security along railway tracks intensified following apprehensions that the militants could target trains .", 
+    "injured": "58", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "58 injured:31", 
+        "Inspector General:49", 
+        "hospital:108", 
+        "10 injured:117", 
+        "oil pipeline:280", 
+        "Oil India Limited:294", 
+        "natural gas pipeline:298", 
+        "District Magistrate:323", 
+        "6 kg RDX:418", 
+        "Director General:530", 
+        "Union Home Minister:591", 
+        "security forces:642", 
+        "railway tracks:650"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2004/10/04/stories/2004100406020100.htm", 
+    "date": "03-10-2004", 
+    "target": "", 
+    "hot_spot": "Assam", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Police", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "National Democratic Front of Bodoland", 
+            "67", 
+            "Accused"
+        ], 
+        [
+            "NDFB", 
+            "73", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "NDFB", 
+            "173", 
+            "Accused"
+        ], 
+        [
+            "NDFB", 
+            "196", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "245", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "251", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "377", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "385", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "415", 
+            "Others"
+        ], 
+        [
+            "NDFB", 
+            "479", 
+            "Accused"
+        ], 
+        [
+            "sovereign Boroland", 
+            "489", 
+            "Accused"
+        ], 
+        [
+            "NDFB", 
+            "522", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "525", 
+            "Accused"
+        ], 
+        [
+            "Police", 
+            "533", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "554", 
+            "Others"
+        ], 
+        [
+            "NDFB", 
+            "561", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "564", 
+            "Accused"
+        ], 
+        [
+            "NDFB", 
+            "637", 
+            "Accused"
+        ]
+    ]
+}

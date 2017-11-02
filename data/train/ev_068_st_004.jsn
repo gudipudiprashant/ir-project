@@ -1,0 +1,405 @@
+{
+    "LOC": [
+        [
+            "Uttar Pradesh", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "83", 
+            "Event"
+        ], 
+        [
+            "UP", 
+            "99", 
+            "Event"
+        ], 
+        [
+            "Malda", 
+            "108", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "125", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "154", 
+            "Neutral"
+        ], 
+        [
+            "UP", 
+            "160", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "179", 
+            "Event"
+        ], 
+        [
+            "Sankat Mochan", 
+            "181", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "207", 
+            "Event"
+        ], 
+        [
+            "Barabanki railway station", 
+            "229", 
+            "Neutral"
+        ], 
+        [
+            "Gorakhpur", 
+            "240", 
+            "Neutral"
+        ], 
+        [
+            "Faizabad", 
+            "256", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "258", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "260", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "289", 
+            "Neutral"
+        ], 
+        [
+            "Faizabad", 
+            "291", 
+            "Neutral"
+        ], 
+        [
+            "UP", 
+            "311", 
+            "Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "320", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "323", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "325", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "327", 
+            "Neutral"
+        ], 
+        [
+            "UP", 
+            "335", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "387", 
+            "Event"
+        ], 
+        [
+            "Gokul Chat", 
+            "388", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "430", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "439", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "441", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "443", 
+            "Neutral"
+        ], 
+        [
+            "Gokul Chat", 
+            "484", 
+            "Event"
+        ], 
+        [
+            "Sultan Bazaar", 
+            "487", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "491", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "494", 
+            "Event"
+        ], 
+        [
+            "UP", 
+            "514", 
+            "Event"
+        ], 
+        [
+            "UP", 
+            "652", 
+            "Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "673", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mukhtar", 
+            "65", 
+            "Accused"
+        ], 
+        [
+            "Raju", 
+            "68", 
+            "Accused"
+        ], 
+        [
+            "Mukhtar", 
+            "103", 
+            "Accused"
+        ], 
+        [
+            "Mukhtar", 
+            "158", 
+            "Accused"
+        ], 
+        [
+            "Waliullah", 
+            "172", 
+            "Accused"
+        ], 
+        [
+            "Mukhtar", 
+            "197", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Tariq", 
+            "222", 
+            "Accused"
+        ], 
+        [
+            "Khalid Mujahid", 
+            "225", 
+            "Accused"
+        ], 
+        [
+            "Md Tariq", 
+            "269", 
+            "Accused"
+        ], 
+        [
+            "Unani", 
+            "274", 
+            "Others"
+        ], 
+        [
+            "Khalid Mujahid", 
+            "278", 
+            "Others"
+        ], 
+        [
+            "Tariq", 
+            "295", 
+            "Accused"
+        ], 
+        [
+            "Brij Lal", 
+            "373", 
+            "Others"
+        ], 
+        [
+            "Balwinder Singh", 
+            "505", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 38"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "November 23:20", 
+        "March 7 , 2006 : 185", 
+        "2006:206", 
+        "May 2007 : 238", 
+        "November 23:247", 
+        "August 25:432", 
+        "November 23:445"
+    ], 
+    "death": "9", 
+    "title": "UP serial blasts: HuJI militant held in W Bengal", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "HUJI"
+    ], 
+    "content": "Lucknow , Dec 29 ( UNI ) A HuJI militant , suspected of being a third conspirator of the November 23 serial blasts which rocked three courts in Uttar Pradesh , was arrested in West Bengal this morning . . . Uttar Pradesh Special Task Force ( STF ) officials today said the West Bengal police , on their tip-off , arrested HuJI militant Mukhtar , alias Raju , suspected to be the third conspirator behind the serial blasts which rocked the Varanasi district court premises apart apart from the serial bomb blasts in three civil courts of UP . . . Mukhtar , a native of Malda in West Bengal , is said to be the main conspirator of three blasts on the Varanasi civil court premises in which nine people were killed and more than 40 others wounded . . . Sources said the STF team had already been sent to West Bengal to bring Mukhtar to UP on transit remand for further interrogation . . . Earlier , Waliullah , the main accused in the Varanasi 's Sankat Mochan blast of March 7 , 2006 , had also admitted during his interrogation that Mukhtar had supplied him the explosives used in the 2006 Varanasi blast . . . Last week , the STF had arrested two terrorists -- Mohammad Tariq and Khalid Mujahid -- from Barabanki railway station who were the conspirators of the May 2007 Gorakhpur blast and the serial blasts of November 23 which rocked the civil court premises in Faizabad , Varanasi and Lucknow , killing 13 and injuring 70 others . Md Tariq , a practising Unani doctor , and Khalid Mujahid , a madrasa teacher , were involved in the Lucknow and Faizabad blast respectively . Tariq was also the ` intizamia ' ( logistics ) wing head of the HuJI in UP . . . Meanwhile , police teams from Andhra Pradesh , Rajasthan , Gujarat and Maharashtra interrogated the two HuJI terrorists arrested in UP last week in connection with the blasts which had torn through various districts of their states in the recent past . . . Early this week , Additional Director General of Police ( Crime/Law and Order/STF ) Brij Lal confirmed that the table alarm clock and the battery used in the Hyderabad Gokul Chat blast and the Faizabad civil court blast were of a similar brand . . . The newly set-up Anti-Terrorist Squad of the state police was in touch with the Hyderabad police to track down similarities in the blasts which rocked Hyderabad on August 25 and the civil courts in Faizabad , Varanasi and Lucknow on November 23 . . . '' The inputs provided by the Hyderabad police suggest that terrorists had used ` Prince ' brand analogue table alarm clock and ` HW ' brand 12 volts battery to trigger the blasts at Gokul Chat in Sultan Bazaar area of Hyderabad and the Faizabad cycle blast , '' he said . Hyderabad Police Commissioner Balwinder Singh had discussed the issue his counterparts in UP yesterday . . . The ADG claimed that while the timer device used in the Varanasi civil court blast was damaged , the bomb detection and disposal squad ( BDDS ) could not take down details of an unexploded bomb found on the Lucknow civil court premises and later detonated it . '' The timer device was damaged when the bomb was detonated in a secluded spot ... the type of timer device on the other bomb which ripped through the Lucknow court earlier could not be ascertained either , '' he said . . . The bombs were apparently triggered using the alarm mechanism of the table clocks , he added . . . While a cocktail of RDX , charcoal and niterates mixed with oil-based emulsion to prevent seepage of water was used in the UP cycle blasts , the terrorists had used ` neogil 90 ' and other chemicals to set off blasts in the Andhra Pradesh capital . . . .", 
+    "injured": "40", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Lucknow", 
+        "Uttar Pradesh", 
+        "Uttar Pradesh"
+    ], 
+    "O": [
+        "madrasa teacher:282", 
+        "alarm clock:379", 
+        "battery:383", 
+        "RDX:634"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/2007/12/29/up-serial-blasts-huji-militant-held-in-w-bengal-1198913551.html", 
+    "date": "23-11-2007", 
+    "target": "HIGH COURT", 
+    "hot_spot": "Uttar Pradesh", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "HuJI", 
+            "9", 
+            "Accused"
+        ], 
+        [
+            "Uttar Pradesh Special Task Force", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "STF", 
+            "48", 
+            "Others"
+        ], 
+        [
+            "West Bengal police", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "63", 
+            "Accused"
+        ], 
+        [
+            "STF", 
+            "147", 
+            "Others"
+        ], 
+        [
+            "STF", 
+            "216", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "309", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "331", 
+            "Accused"
+        ], 
+        [
+            "Faizabad civil court", 
+            "393", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorist Squad", 
+            "408", 
+            "Others"
+        ], 
+        [
+            "Hyderabad police", 
+            "419", 
+            "Others"
+        ], 
+        [
+            "Hyderabad police", 
+            "456", 
+            "Others"
+        ], 
+        [
+            "Hyderabad Police", 
+            "502", 
+            "Others"
+        ], 
+        [
+            "Varanasi civil court", 
+            "530", 
+            "Others"
+        ], 
+        [
+            "BDDS", 
+            "544", 
+            "Others"
+        ], 
+        [
+            "Lucknow civil court", 
+            "558", 
+            "Others"
+        ], 
+        [
+            "Lucknow court", 
+            "596", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "LOC": [
+        [
+            "MUMBAI", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Parbhani 's Mohammadi Masjid", 
+            "39", 
+            "Assoc_Event"
+        ], 
+        [
+            "Pona", 
+            "46", 
+            "Assoc_Event"
+        ], 
+        [
+            "Jalna", 
+            "48", 
+            "Assoc_Event"
+        ], 
+        [
+            "Nanded", 
+            "129", 
+            "Neutral"
+        ], 
+        [
+            "Nanded", 
+            "173", 
+            "Source"
+        ], 
+        [
+            "Malegaon", 
+            "200", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "264", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "292", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "310", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "332", 
+            "Source"
+        ], 
+        [
+            "Maharashtra", 
+            "352", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "P S Pasricha", 
+            "73", 
+            "Comment"
+        ], 
+        [
+            "K P Raghuvanshi", 
+            "105", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:20", 
+        "Friday:91", 
+        "May:334"
+    ], 
+    "death": "", 
+    "title": "Malegaon blasts: Is it Bajrang or Lashkar?", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Mumbai", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "MUMBAI : The police are probing whether the Bajrang Dal or a Lashkar group could have been involved in Friday 's Malegaon blasts . The Bajrang Dal is known to have followed a similar pattern in blasts at Parbhani 's Mohammadi Masjid and mosques at Pona and Jalna earlier this year . ` We are probing this angle , though it is too early to hold any group responsible , ' DGP P S Pasricha said on Friday.Another theory doing the rounds is that a Jaish-e-Mohammad module could have engineered Friday 's blasts to create communal trouble . Anti-Terrorism Squad joint commissioner of police K P Raghuvanshi , too , said : ` It is too premature to say anything , but we are also probing the earlier Nanded and Parbhani blasts . ` The ATS arrested 16 Bajrang Dal activists for the earlier blasts , but there were allegations about cops going slow on the probes.Four persons , also reported to be Bajrang Dal activists , died while making bombs in Nanded earlier this year . Those arrested later told interrogators they wanted to avenge several blasts across the country.Communal violence angle : Intelligence agencies suspect that the Malegaon blasts were aimed at provoking communal tension as terrorists could not foment trouble during the recently concluded Ganapati festival . A senior official from one of the central agencies in Pune said similar , subversive acts had been planned during the 10-day Ganapati festival . However , tight security measures prevented any untoward incident . ` There was no specific intelligence input on Malegaon , ' the official said . ` The motive seems not only to kill people , but also create panic and communal tension in the already sensitive Malegaon , ' he said , explaining that after failing to cause damage during the Ganesh festival , Malegaon could have been seen as a soft target.Interestingly , the district administration , after a seizure of arms and ammunition from Malegaon in May and the serial blasts in Mumbai 's suburban trains , had submitted a confidential report to the Maharashtra home department about the sensitive communal situation in the town .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "dgp:72", 
+        "communal trouble:96", 
+        "joint commissioner of police:101", 
+        "nanded:129", 
+        "parbhani blasts:131", 
+        "16:138", 
+        "bajrang dal activists:139", 
+        "probes.four persons:157", 
+        "malegaon blasts:200", 
+        "ganapati festival:218", 
+        "senior official:222", 
+        "10-day ganapati festival:242", 
+        "tight security:248", 
+        "ganesh festival:307", 
+        "district administration:321", 
+        "seizure of arms and ammunition:326", 
+        "serial blasts:337", 
+        "mumbai 's suburban trains:340"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Malegaon-blasts-Is-it-Bajrang-or-Lashkar/articleshow/1971372.cms?referral=PM", 
+    "date": "08-09-2006", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bajrang Dal", 
+            "9", 
+            "Accused"
+        ], 
+        [
+            "Lashkar", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "Bajrang Dal", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "Jaish-e-Mohammad", 
+            "86", 
+            "Accused"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "Bajrang Dal", 
+            "164", 
+            "Others"
+        ]
+    ]
+}

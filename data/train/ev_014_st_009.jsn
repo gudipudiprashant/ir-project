@@ -1,0 +1,436 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "A T Road", 
+            "54", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "63", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "85", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "105", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "134", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "136", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji College Ground", 
+            "191", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "203", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "244", 
+            "Event"
+        ], 
+        [
+            "Dhemaji College Ground", 
+            "510", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "654", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "1065", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "1090", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "1114", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "1167", 
+            "Event"
+        ], 
+        [
+            "Dhemaji College Ground", 
+            "1228", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "1270", 
+            "Event"
+        ], 
+        [
+            "IIT Powai", 
+            "1279", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "1282", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "1290", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "1316", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "1327", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "1340", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "1411", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "1456", 
+            "Event"
+        ], 
+        [
+            "Dhemaji College Ground", 
+            "1466", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "1478", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "1521", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "1547", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "1566", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Muhi Borgohain", 
+            "237", 
+            "Comment"
+        ], 
+        [
+            "Muhi", 
+            "304", 
+            "Comment"
+        ], 
+        [
+            "Muhi", 
+            "434", 
+            "Comment"
+        ], 
+        [
+            "Budhindra Boruah", 
+            "496", 
+            "Others"
+        ], 
+        [
+            "Borgohain", 
+            "688", 
+            "Comment"
+        ], 
+        [
+            "Manokhi", 
+            "707", 
+            "Others"
+        ], 
+        [
+            "Padmeswar", 
+            "819", 
+            "Comment"
+        ], 
+        [
+            "Manokhi", 
+            "886", 
+            "Victim"
+        ], 
+        [
+            "Borgohain", 
+            "897", 
+            "Comment"
+        ], 
+        [
+            "Padmeswar", 
+            "919", 
+            "Comment"
+        ], 
+        [
+            "Damburu Gogoi", 
+            "939", 
+            "Others"
+        ], 
+        [
+            "Manojit", 
+            "944", 
+            "Victim", 
+            "Others"
+        ], 
+        [
+            "Manojit", 
+            "994", 
+            "Victim"
+        ], 
+        [
+            "Gogoi", 
+            "1118", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "1170", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "1238", 
+            "Comment"
+        ], 
+        [
+            "Antara Boruah", 
+            "1267", 
+            "Comment"
+        ], 
+        [
+            "Antara", 
+            "1405", 
+            "Others"
+        ], 
+        [
+            "Boruah", 
+            "1507", 
+            "Comment"
+        ], 
+        [
+            "Arabinda Rajkhowa", 
+            "1562", 
+            "Comment"
+        ], 
+        [
+            "Paresh Baruah", 
+            "1579", 
+            "Accused"
+        ], 
+        [
+            "Mousumi Sharma", 
+            "1607", 
+            "Comment"
+        ], 
+        [
+            "Muhi Borgohain", 
+            "1618", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "8:45 am : 339", 
+        "10 minutes : 964"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "2004 : 43", 
+        "16 March 2007 : 70", 
+        "August 15 , 2004 : 129", 
+        "2004 : 196", 
+        "January 26 : 220", 
+        "August 15 : 223", 
+        "2004 : 319", 
+        "2004 : 572", 
+        "January 26 , 2009 : 656", 
+        "2004 : 670", 
+        "January 26 : 871", 
+        "August 15 : 874", 
+        "2004 : 908", 
+        "2004 : 1058", 
+        "2004 : 1363", 
+        "2004 : 1512", 
+        "December 13 , 2009 : 1574"
+    ], 
+    "death": "", 
+    "title": "While Republic Day in Mumbai is celebrated with great pomp, for people of Dhemaji in Assam, and in fact the entire North East, it is a muted affair thanks to militant diktats and memories of a bomb blast in 2004", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "While Republic Day in Mumbai is celebrated with great pomp , for people of Dhemaji in Assam , and in fact the entire North East , it is a muted affair thanks to militant diktats and memories of a bomb blast in 2004 Unrest : Fire fighters extinguish burning motorbikes parked at the A T Road area after a bomb blast in Guwahati , the capital of Assam on 16 March 2007 . Six people were injured in the powerful explosion . . As Mumbai gears up for Republic Day celebrations tomorrow , for a few families in one of the remotest corners of India , the Republic Day and the Independence Day bring back memories of loss , pain and devastation . A powerful bomb blast on August 15 , 2004 in Dhemaji , Assam , left 17 dead and 40 injured . Those we died were mostly school children . Scouts and Guides from various schools had arrived for the flag hoisting ceremony . An array of cultural events were planned to mark the Day . At least 13 school children were killed during the attack at the Dhemaji College Ground . The 2004 bomb blast changed the face of Dhemaji . From then on , most families in the district prefer to stay at home during January 26 and August 15 . Official celebrations too are subdued due to low turnout . Explained Muhi Borgohain , a social worker from Dhemaji , `` Every time we see the guard of honour or witness any flag hoisting ceremony , even on television , it reminds us of the day when innocent kids were killed during the attack . There is fear of yet another bomb blast in the region . Hence , most people stay indoors during National holidays . '' Muhi , who was present at the venue where the bomb blast took place in 2004 , recalls , `` I was sitting just 10 metres away from the blast spot . It was around 8:45 am , when an Ambassador car stopped outside the gate and the VIP got down from the car . Amidst the sound of drums , we heard two loud bangs . At that moment , we did n't even realise that it could be a bomb blast . Then there was another explosion and this is when we realised that it was a bomb blast . The huge blast threw people into the air . There were bodies with limbs ripped off ; others were roasted whereas the rest were beyond recognition . '' Muhi 's son , who was then in Class IV was also at the venue . `` Immediately after the blast , I started searching for my son . He was hiding under a table and was shivering . I managed to get him out of the venue . And then I came back to help the survivors , '' said Muhi.Dr Budhindra Boruah , Principal of Dhemaji College , who was also present at the Dhemaji College Ground during the blast , remembers carrying a Class V student from the blast spot to a helicopter , which had arrived to carry victims to a nearby hospital . `` My clothes were drenched with his blood . He was carried to Dibrugarh hospital , but he did not survive the attack . '' He added , `` Post 2004 attack , celebrations are subdued . It is mostly government officials , who attend Republic or Independence Day celebrations now . Convincing parents to send their kids , even for National Cadet Corps ( NCC ) camps is itself a challenge . They just wo n't let their kids step out during these two days . `` Patriotic fervour : School children wave miniature national tricolour flags made of paper during a function to celebrate the country 's Republic Day in Mumbai on January 26 , 2009 . PICS/AFPGriefPadmeswar Borgohain , who lost his daughter during the 2004 bomb blast has since then not attended a single Republic Day or Independence Day program . Recalls Borgohain , `` It was just before the flag hoisting ceremony that the bomb went off . My daughter Manokhi ( 15 ) , was at home , but one of her friends insisted that she should come for the function . The lure of winning a prize at a 100-metre race , which was to be held after the flag hoisting ceremony , made her attend the ceremony . She was good in athletics and she knew that she would win . But she lost the battle of life . I found her decapitated body and could recognise her from the clothes she was wearing . Her friend survived the attack , but she had to go through plastic surgery as her face was damaged . '' This year too Padmeswar , his wife and his two sons and daughters , will be shunning Republic day celebrations . `` In future too , we wo n't step out on these days . I have two sons and two daughters . I make it a point that they too stay at home on January 26 and August 15 . We do n't want another tragedy . Memories of Manokhi 's death haunt us on these days , '' said Borgohain . Many parents , who have lost their children during 2004 , blame the police for the security lapse . Said Padmeswar , `` Had the police done their work , the tragedy could have been averted . '' Another parent Damburu Gogoi , whose son Manojit died during the attack said , `` My son , said that he would come back for lunch in 10 minutes . But he never came back . He was severely injured and one of his teachers took him to a nearby hospital . He died of bleeding . Manojit 's mother was the first one to reach the spot . She went hysterical after seeing him in the hospital . I do n't even remember the events of the day . I was too shocked . There were too many questions in my mind -- Why did it happen to my son ? What should be our next step ? '' After 2004 , the Gogois decided to leave Dhemaji and shift to a different place . `` We thought , this could help us to deal with the loss . We went to Guwahati and then my daughter , who suffers from polio , got a job in a post office . Now we are back to Dhemaji , '' said Gogoi , who works as a carpenter . Protest : Members of the All Assam Students ' Union stage a protest against the killing of at least six people in a blast the police suspects was triggered by United Liberation Front of Assam ( ULFA ) militants , in Guwahati in 2007DisappointmentFor Gogoi , it is a sense of disappointment and fear when it comes to actively taking part in Republic Day celebrations . `` I feel sorry for those who can not celebrate with the rest of the country . When we were young , the celebrations used to be grand . The entire town would flock to the Dhemaji College Ground to celebrate Republic Day , '' said Gogoi , who feels that Dhemaji being the citadel of the United Liberation Front of Assam , ( ULFA ) , an insurgent outfit , was quite peaceful . Antara Boruah from Dhemaji , who is currently pursuing her Masters at IIT Powai in Mumbai agrees , `` I had lived in Dhemaji for 16 years and I was proud of the fact that the place , by and large , was peaceful compared to other areas of Assam . On the day of the blast I was in Dibrugarh . In fact , I was telling my friends , how safe Dhemaji is . That very day , I was shocked to hear of the blasts . '' She further added , `` Post 2004 , Republic and Independence day are just observed and not really celebrated . My father prefers to step out , during Republic Day , but till he returns home , the whole family stays tense . '' This year though , Antara will celebrate Republic Day in Mumbai along with her friends . `` I will make the most of it , '' she added . To commemorate the victims of the terror attack , a , ` Children 's Educational and Career Development Centre ' ( CECDC ) was built in Dhemaji . A memorial too has been erected at the Dhemaji College Ground . AngerAlmost every year , ULFA calls for an Assam bandh during Republic Day and Independence Day celebrations . `` In spite of the bandh , people would accumulate at the College ground and celebrate , '' said Boruah . This changed post 2004 . Soon after the incident , people in Dhemaji allegedly damaged police vehicles to express their anger . Police had to resort to lathi charge and fire tear gas to bring the situation in Dhemaji district under control . ULFA claimed responsibility for the Dhemaji attacks . ULFA chairman Arabinda Rajkhowa said that Dhemaji was ULFA 's biggest mistake . On December 13 , 2009 , Paresh Baruah , ULFA 's commander-in-chief gave a public apology and sought forgiveness for the blast . `` But the memories can not be healed , '' said Mousumi Sharma , who managed to survive the blast . Agrees Muhi Borgohain , who claims that his brother-in-law was abducted and brutally killed by the ULFA earlier , `` The damage done is irreparable , '' his voiced choked with emotion .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhemaji", 
+        "Guwahati", 
+        "Guwahati"
+    ], 
+    "O": [
+        "Republic Day:2", 
+        "Ambassador car:344", 
+        "Independence day:1367"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.mid-day.com/articles/blood-and-tears/151917", 
+    "date": "16-03-2007", 
+    "target": "", 
+    "hot_spot": "Guwahati", 
+    "delivery_mod": "MOTORCYCLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "diktats", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "Dhemaji College", 
+            "501", 
+            "Others"
+        ], 
+        [
+            "National Cadet Corps", 
+            "603", 
+            "Others"
+        ], 
+        [
+            "NCC", 
+            "607", 
+            "Others"
+        ], 
+        [
+            "All Assam Students ' Union", 
+            "1131", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Assam", 
+            "1156", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "1162", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Assam", 
+            "1249", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "1256", 
+            "Accused"
+        ], 
+        [
+            "Children 's Educational and Career Development Centre", 
+            "1442", 
+            "Others"
+        ], 
+        [
+            "CECDC", 
+            "1451", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "1474", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "1552", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "1560", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "1568", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "1582", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "1633", 
+            "Accused"
+        ]
+    ]
+}

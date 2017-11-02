@@ -1,0 +1,142 @@
+{
+    "LOC": [
+        [
+            "BANGALORE", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "81", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh outfit HuJI", 
+            "151", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "151", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh outfit HuJI", 
+            "151", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shanker Bidri", 
+            "54", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "1.30 : 43", 
+        "1.45 pm:45", 
+        "1.45 : 45", 
+        "pm:46"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday afternoon:17", 
+        "Friday:17"
+    ], 
+    "death": "", 
+    "title": "SIMI, LeT may be behind Bangalore blasts: IB", 
+    "org_unorg": "", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA", 
+        "STUDENTS ISLAMIC MOVEMENT OF INDIA"
+    ], 
+    "content": "BANGALORE : The SIMI and LeT may be behind the serial blasts that rocked Bangalore on Friday afternoon , the Intelligence Bureau sources said , adding ` they could be retaliatory in nature ' . The first three blasts took place between 1.30 to 1.45 pm . -LRB- Watch -RRB- Bangalore Police Commissioner Shanker Bidri , while talking to Times Now , confirmed that the explosions appear to be act of the people who wanted to terrorise the capital of Karnataka . He also said that all these bombs were of low-intensity and were triggered by timers . Soon after the serial explosions , the police ordered closure of all schools , colleges , cinema halls and commercial complexes.As per the latest reports , the SIMI and LeT operatives have been arrested and they are being interrogated . The police sources said that these terror attacks bear the hallmarks of Bangladesh outfit HuJI .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "Bangalore", 
+        ""
+    ], 
+    "O": [
+        "simi:4", 
+        "let:6", 
+        "serial:11", 
+        "afternoon:18", 
+        "intelligence bureau:21", 
+        "nature:33", 
+        "place:41", 
+        "bangalore police commissioner shanker bidri:51", 
+        "times:60", 
+        "act:70", 
+        "capital:79", 
+        "serial:102", 
+        "police:106", 
+        "closure:108", 
+        "cinema:115", 
+        "simi:126", 
+        "simi and let:126", 
+        "let:128", 
+        "let operatives:128", 
+        "police:140", 
+        "terror:145", 
+        "outfit huji:152"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/SIMI-LeT-may-be-behind-Bangalore-blasts-IB-/articleshow/3279993.cms?referral=PM", 
+    "date": "25-07-2008", 
+    "target": "ROAD SIDE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "SIMI", 
+            "4", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "6", 
+            "Accused"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "126", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "128", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "153", 
+            "Assoc_Accused"
+        ]
+    ]
+}

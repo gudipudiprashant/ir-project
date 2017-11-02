@@ -1,0 +1,148 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "10", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Kokrajhar", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Dharmanagar", 
+            "46", 
+            "Neutral"
+        ], 
+        [
+            "Tripura", 
+            "48", 
+            "Neutral"
+        ], 
+        [
+            "Fakiragram", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "New Bongaigaon", 
+            "259", 
+            "Neutral"
+        ], 
+        [
+            "Samuktala", 
+            "262", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "288", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "337", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "347", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "351", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "365", 
+            "Neutral"
+        ], 
+        [
+            "New Jalpaiguri", 
+            "377", 
+            "Neutral"
+        ], 
+        [
+            "New Cooch Behar", 
+            "380", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "388", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "9 pm .:76", 
+        "40 minutes : 104", 
+        "6 am : 215", 
+        "am : 357", 
+        "evening : 390"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "June 21:3", 
+        "June 21:313", 
+        "June 20:340", 
+        "June 22:353"
+    ], 
+    "death": "", 
+    "title": "Blast disrupts train schedules", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kokrajhar", 
+        "guwahati", 
+        "Kokrajhar"
+    ], 
+    "terror_group": [
+        "NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)"
+    ], 
+    "content": "Guwahati , June 21 : All trains originating from Guwahati and Dibrugarh have been rescheduled because of the blast in Kokrajhar district last night , leading to derailment of a goods train . . . Altogether 10 bogies of a goods train carrying cement to Dharmanagar in Tripura were derailed when suspected militants of the National Democratic Front of Boroland ( NDFB ) triggered a blast on the track between Fakiragram and Sesapani stations at 9 pm . Though there were no casualties , 200 metres of the track was damaged . . . The Guwahati-bound Chennai Express had passed through the area 40 minutes before the blast . . . Police have recovered two bicycles , detonating wires and clothes from a place one-and-a-half km south of the blast site . It was raining heavily when the blast took place . . . Security has been tightened round-the-clock after the incident and a massive manhunt has been launched to nab the culprits . Patrolling on the tracks has been intensified . Railway officials have rushed to the spot . . . NF Railway officials here said work has begun to restore the track , with senior railway engineers supervising at the site . It will take at least 48 hours with effect from 6 am today to restore train services , railways officials said . . . Train services on meter gauge track are continuing as the blast affected the broad gauge track only . The NF Railway is arranging special trains on meter gauge track between New Bongaigaon and Samuktala station to clear stranded passengers of Saraighat Express , Avadh Assam Express and Kanchenjungha Express . . . The 2424 Up Rajdhani Express will reach Guwahati tomorrow after restoration work is completed . A passenger special train will be run in the evening . Passengers who had cancelled tickets on June 21 by 2423 Down will get the preference , railway officials said . . . The 4055 Down Brahmaputra Mail , which left Dibrugarh town on June 20 , will be controlled at Guwahati and will leave Guwahati on June 22 at 4 am . . . The trains coming to Guwahati from other parts of the country are being stopped either at New Jalpaiguri or New Cooch Behar . Some trains which left Guwahati last evening are being brought back as they could not proceed further .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "detonating wires:118", 
+        "clothes:121"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1030622/asp/northeast/story_2091535.asp", 
+    "date": "21-06-2003", 
+    "target": "RAILWAY", 
+    "hot_spot": "Kokrajhar", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Democratic Front of Boroland", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "NDFB", 
+            "62", 
+            "Accused"
+        ]
+    ]
+}

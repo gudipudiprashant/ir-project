@@ -1,0 +1,171 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Liberty Cinema Hall", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Karol Bagh", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "Satyam cineplex", 
+            "77", 
+            "Event"
+        ], 
+        [
+            "Patel Nagar", 
+            "81", 
+            "Event"
+        ], 
+        [
+            "Liberty Cinema Hall", 
+            "100", 
+            "Event"
+        ], 
+        [
+            "bathroom", 
+            "122", 
+            "Event"
+        ], 
+        [
+            "Satyam cineplex", 
+            "125", 
+            "Event"
+        ], 
+        [
+            "Liberty Cinema Hall", 
+            "208", 
+            "Event"
+        ], 
+        [
+            "Satyam cineplex", 
+            "226", 
+            "Event"
+        ], 
+        [
+            "Liberty Cinema Hall", 
+            "251", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "258", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "384", 
+            "Neutral"
+        ], 
+        [
+            "india", 
+            "426", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "K K Paul", 
+            "108", 
+            "Comment"
+        ], 
+        [
+            "Paul", 
+            "137", 
+            "Comment"
+        ], 
+        [
+            "Shiela Dixit", 
+            "261", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "05:38:00 : 6", 
+        "15 minutes : 129", 
+        "04:34:00 : 435"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 23 , 2005 : 2", 
+        "May 23 , 2005 : 431"
+    ], 
+    "death": "1", 
+    "title": "Blasts hit New Delhi cinemas", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "New Delhi", 
+        "Liberty Cinema Hall,New Delhi"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Updated May 23 , 2005 05:38:00 . . At least one person has been killed and 50 people injured in explosions at two cinemas in New Delhi that are screening a controversial film condemned by Sikhs . . . A loud explosion has shaken the Liberty Cinema Hall in the crowded shopping district of Karol Bagh in the capital during a film screening . . . It has been followed by a bomb blast in the Satyam cineplex in neighbouring Patel Nagar . . . `` The bomb was strapped to a seat in the fifth row of the Liberty Cinema Hall , '' Delhi Police chief K K Paul said . . . `` A second bomb concealed in a bathroom of the Satyam cineplex went off 15 minutes later . '' . . Mr Paul says police have sealed off both cinemas . . . `` At least 18 people have been rushed to Lady Harding Hospital in a serious condition , '' he said . . . `` There are others who have suffered minor injuries and have been given first aid . '' . . According to the Delhi Police , at least 44 people have been injured in the low-intensity explosion in Liberty Cinema Hall . . . Six people , including three children , have been injured in the Satyam cineplex . . . The Star News channel quotes a filmgoer as saying that he has pulled out seven dead bodies from the badly-damaged Liberty Cinema Hall . . . But Delhi chief Minister Shiela Dixit says there have been only one death . . . Both the blasts have taken place in cinema halls that are screening a controversial Hindi film starring action hero Sunny Deol called , Jo Bole So Nihal , which is a Sikh religious chant used as a battle cry or in prayer . . . The Sikh Gurdwara Prabandhak Committee ( SGPC ) , which is the highest authority in the Sikh religion , has demanded a ban on the film . . . It says the contents of the movie and use of the prayer as a title have hurt Sikh religious sentiments . . . The film was withdrawn from theatres across the northern Indian Sikh dominated state of Punjab last week following protests from the SGPC . . . Police have evacuated viewers from theatres in the Indian capital screening Jo Bole So Nihal following the blasts . . . - AFP . . Topics : unrest-conflict-and-war , action , india . . First posted May 23 , 2005 04:34:00 .", 
+    "injured": "50", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "chief Minister:259", 
+        "Sikh religious:304", 
+        "Police:395"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.abc.net.au/news/2005-05-23/blasts-hit-new-delhi-cinemas/1575954", 
+    "date": "23-05-2005", 
+    "target": "CINEMA HALL", 
+    "hot_spot": "Liberty Cinema Hall,New Delhi", 
+    "delivery_mod": "CINEMA HALL SEAT", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "LOW INTENSITY BOMB"
+    ], 
+    "ORG": [
+        [
+            "Delhi Police", 
+            "105", 
+            "Others"
+        ], 
+        [
+            "Lady Harding Hospital", 
+            "157", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "193", 
+            "Others"
+        ], 
+        [
+            "Sikh Gurdwara Prabandhak Committee", 
+            "319", 
+            "Others"
+        ], 
+        [
+            "SGPC", 
+            "324", 
+            "Others"
+        ], 
+        [
+            "SGPC", 
+            "391", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "417", 
+            "Others"
+        ]
+    ]
+}

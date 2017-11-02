@@ -1,0 +1,154 @@
+{
+    "LOC": [
+        [
+            "DEHRA DUN", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Uttaranchal", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Rishikesh", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Uttaranchal", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "104", 
+            "Neutral"
+        ], 
+        [
+            "Rishikesh", 
+            "107", 
+            "Neutral"
+        ], 
+        [
+            "Dehra Dun", 
+            "137", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Karam Vir Singh", 
+            "36", 
+            "Others"
+        ], 
+        [
+            "Prem Singh Mallick", 
+            "41", 
+            "Others"
+        ], 
+        [
+            "Narain Singh Rana", 
+            "153", 
+            "Others"
+        ], 
+        [
+            "Garhwal Mandal Vikas Nigam", 
+            "194", 
+            "Others"
+        ], 
+        [
+            "S. S. Barnala", 
+            "232", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "2 a.m. : 31", 
+        "today : 33", 
+        "1-30 a.m. : 111"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "JAN. 26 : 8"
+    ], 
+    "death": "", 
+    "title": "Two killed in Rishikesh bus blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "By Our Staff Correspondent DEHRA DUN , JAN. 26 . Republic Day celebrations in Uttaranchal were marred by a bomb explosion aboard a bus at the Rishikesh bus stand around 2 a.m. today . Driver Karam Vir Singh and conductor Prem Singh Mallick were killed on the spot . Consequently , a red alert was sounded and intensive checking of all vehicles ordered across Uttaranchal and western Uttar Pradesh . The explosion could have been triggered by a time device . The target must have been a larger number of persons but the designs of the criminals were foiled as the bus from Delhi , reached Rishikesh before schedule around 1-30 a.m. , a senior official said . An adjoining bus was also damaged and its driver and conductor received minor injuries . Ill-timed dance In Dehra Dun , a dance by the Minister of State for Culture and Sports , Mr. Narain Singh Rana , at the Republic Day celebrations on the Parade Ground came in for criticism from people who wondered why he did so despite knowing about the death of two persons in the bomb blast . Tableaux of the Garhwal Mandal Vikas Nigam , the G. B. Pant University of Agriculture and Technology , the Eco Task Force and the Bharat Heavy Electricals were appreciated by all as the Governor of the newborn - State , Mr. S. S. Barnala , took the salute at an impressive march-past by school children , police and para-military forces . . . By Our Staff Correspondent . . DEHRA DUN , JAN. 26 . Republic Day celebrations in Uttaranchal were marred by a bomb explosion aboard a bus at the Rishikesh bus stand around 2 a.m. today . Driver Karam Vir Singh and conductor Prem Singh Mallick were killed on the spot . . . Consequently , a red alert was sounded and intensive checking of all vehicles ordered across Uttaranchal and western Uttar Pradesh . . . The explosion could have been triggered by a time device . The target must have been a larger number of persons but the designs of the criminals were foiled as the bus from Delhi , reached Rishikesh before schedule around 1-30 a.m. , a senior official said . . . An adjoining bus was also damaged and its driver and conductor received minor injuries . . . Ill-timed dance . . In Dehra Dun , a dance by the Minister of State for Culture and Sports , Mr. Narain Singh Rana , at the Republic Day celebrations on the Parade Ground came in for criticism from people who wondered why he did so despite knowing about the death of two persons in the bomb blast . . . Tableaux of the Garhwal Mandal Vikas Nigam , the G. B. Pant University of Agriculture and Technology , the Eco Task Force and the Bharat Heavy Electricals were appreciated by all as the Governor of the newborn - State , Mr. S. S. Barnala , took the salute at an impressive march-past by school children , police and para-military forces .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Uttaranchal", 
+        "Dehradun", 
+        "Dehradun", 
+        ""
+    ], 
+    "O": [
+        "Republic Day celebrations:11", 
+        "marred:17", 
+        "bomb explosion:20", 
+        "bus:24", 
+        "bus stand:28", 
+        "killed:45", 
+        "spot:48", 
+        "red alert:53", 
+        "sounded:56", 
+        "intensive:58", 
+        "vehicles:62", 
+        "explosion:72", 
+        "triggered:76", 
+        "time device:79", 
+        "target:83", 
+        "designs:94", 
+        "criminals:97", 
+        "foiled:99", 
+        "schedule:109", 
+        "adjoining bus:120", 
+        "damaged:124", 
+        "minor injuries:131", 
+        "Culture and Sports:148", 
+        "Republic Day celebrations:159", 
+        "Parade Ground:164", 
+        "criticism:169", 
+        "wondered:173", 
+        "bomb blast:188", 
+        "Tableaux:191", 
+        "Eco Task Force:210", 
+        "Bharat Heavy Electricals:215", 
+        "appreciated:219", 
+        "newborn:227", 
+        "salute:238", 
+        "impressive:241", 
+        "march-past:242", 
+        "police and para-military forces:247"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2001/01/27/stories/02270009.htm", 
+    "date": "26-01-2001", 
+    "target": "PARADE GROUND", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "G. B. Pant University of Agriculture and Technology", 
+            "200", 
+            "Others"
+        ]
+    ]
+}

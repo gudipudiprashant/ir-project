@@ -1,0 +1,198 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "47", 
+            "Neutral"
+        ], 
+        [
+            "northern Indian state", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "59", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "151", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "167", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi",
+            "253", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "300", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "348", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "375", 
+            "Neutral"
+        ], 
+        [
+            "Ayodhya", 
+            "417", 
+            "Neutral"
+        ], 
+        [
+            "Babri Masjid", 
+            "472", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "529", 
+            "Event"
+        ], 
+        [
+            "train station", 
+            "553", 
+            "Event"
+        ], 
+        [
+            "temple", 
+            "557", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "pundits", 
+            "122", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 30", 
+        "6:45 pm : 63"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 29", 
+        "February : 153", 
+        "2008 : 170", 
+        "September : 307", 
+        "2007 : 335", 
+        "2008 : 337", 
+        "September : 401", 
+        "1992 : 438", 
+        "Septembers : 513", 
+        "March 2006 : 538"
+    ], 
+    "death": "1", 
+    "title": "Explosion rocks one of India's holiest cities", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "New Delhi Islamist militants are being blamed for an explosion that killed at least one person and wounded more than 20 others at one of Hinduisms holiest sites Tuesday evening . . . The blast went off during a Hindu ceremony by the river Ganges in Varanasi , an ancient pilgrimage city in the northern Indian state of Uttar Pradesh at around 6:45 pm . Police were immediately put on high alert in Indias big cities . . . Several television channels and newspapers said they had received e-mails from an Islamist militant group , the Indian Mujahadeen ( IM ) , claiming it was behind the blast . . . The official investigation is just beginning . But Indian security pundits say the IM is an obvious suspect : The group has carried out a string of bombings in Indian cities , most recently in the southern city of Pune this February . It is linked to the Pakistan-based Lashkar-e-Taiba militants who were behind the Mumbai attacks of 2008 . . . A police officer told local journalists a bomb appeared to have been hidden in a container on one of the ghats stone staircases that lead down to the Ganges , where people gather to say their prayers and bathe , particularly at sunrise and sunset . . . The bomb is thought to have killed a baby girl and injured at least 20 more , including an unknown number of foreigners . . . Perhaps Indias holiest city , Varanasi also known by its older name of Benares is always packed with Hindu pilgrims and foreign tourists . . . Some analysts say the IM is focusing on foreigners . The group was suspected of involvement in machine gun attack on tourists in the capital , New Delhi that wounded two foreigners in September , in the run-up to the Commonwealth Games . . . An offshoot of the banned Students Islamic Movement of India , the IM first emerged in 2007 and 2008 . Intelligence officials allege its operatives are being trained in Pakistan . They also say its threat has been reduced in recent months thanks to successful security operations . . . Police have been especially vigilant in Uttar Pradesh in recent months , following a controversial ruling over a religious site that has long divided Indias Hindu majority and Muslim minority . In September , a high court in the state ruled that a site in the town of Ayodhya should be divided between Hindu and Muslims groups , with the majority share going to Hindus . . . In 1992 , Hindu zealots had torn down a 17th century mosque at the site , unleashing India-wide riots that killed 2,000 people , most of them Muslim . . . The issue of the Babri Masjid ( mosque ) has lost some of its power to mobilize mass unrest in recent years . Indias Muslim community , though long marginalized and discriminated against , has been largely peaceful . Despite fears of a backlash after Septembers ruling , the state remained peaceful in the aftermath of the ruling . . . Varanasi is no stranger to militant attacks . In March 2006 , twin bombings blamed on a Pakistan-based Islamist militant group tore through a train station and a temple in the city , killing 20 people . . . .", 
+    "injured": "20", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        "Varanasi"
+    ], 
+    "O": [
+        "Benares:261", 
+        "Hindu pilgrims:266", 
+        "Police:369"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "RELIGIOUS FESTIVAL", 
+    "link": "http://www.csmonitor.com/World/Asia-South-Central/2010/1207/Explosion-rocks-one-of-India-s-holiest-cities", 
+    "date": "07-12-2010", 
+    "target": "", 
+    "hot_spot": "Varanasi", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Islamist militants", 
+            "3", 
+            "Accused"
+        ], 
+        [
+            "e-mails", 
+            "89", 
+            "Others"
+        ], 
+        [
+            "Islamist militant", 
+            "92", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahadeen", 
+            "97", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "100", 
+            "Accused"
+        ], 
+        [
+            "Indian security", 
+            "120", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "125", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "161", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "278", 
+            "Accused"
+        ], 
+        [
+            "Islamic Movement of India", 
+            "325", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "331", 
+            "Accused"
+        ], 
+        [
+            "Islamist militant", 
+            "547", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "LOC": [
+        [
+            "Ragailong gate", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Imphal", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Imphal East", 
+            "62", 
+            "Accused"
+        ], 
+        [
+            "Imphal West", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Imphal East", 
+            "80", 
+            "Event"
+        ], 
+        [
+            "Imphal", 
+            "111", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "133", 
+            "Event"
+        ], 
+        [
+            "Imphal", 
+            "147", 
+            "Event"
+        ], 
+        [
+            "Heingang Heibi", 
+            "200", 
+            "Accused"
+        ], 
+        [
+            "Imphal East", 
+            "203", 
+            "Accused"
+        ], 
+        [
+            "Maharabi", 
+            "220", 
+            "Accused"
+        ], 
+        [
+            "Imphal West", 
+            "223", 
+            "Event"
+        ], 
+        [
+            "Baruni", 
+            "235", 
+            "Accused"
+        ], 
+        [
+            "Imphal East", 
+            "238", 
+            "Event"
+        ], 
+        [
+            "Imphal", 
+            "278", 
+            "Event"
+        ], 
+        [
+            "gambling den", 
+            "291", 
+            "Event"
+        ], 
+        [
+            "Ragailong", 
+            "294", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Radheshyam Singh", 
+            "83", 
+            "Others"
+        ], 
+        [
+            "Y Ibohanbi", 
+            "265", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "6.30 pm:208"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:68", 
+        "1980:260", 
+        "Tuesday:273"
+    ], 
+    "death": "17", 
+    "title": "Manipur blast: 8 militants shot down", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Imphal West", 
+        "", 
+        "Ragailong gate"
+    ], 
+    "terror_group": [
+        "KANGLEIPAK COMMUNIST PARTY (KCP)"
+    ], 
+    "content": "Two days after a powerful explosion claimed 17 lives in the Ragailong gate locality in Imphal , security forces gunned down as many as eight militants said to be members of the Kangleipak Communist Party -LRB- MC -RRB- , the outfit responsible for the act . . . `` At least three encounters took place in the two police districts of Imphal East and Imphal West on Thursday evening , during which eight militants have been killed , '' Imphal East SP Radheshyam Singh told The Indian Express . . . The Manipur Police and Assam Rifles personnel have been carrying out a joint operation to flush out rebels from Imphal city , which itself comes under the jurisdiction of four police districts . While the Army has been in deployment in Manipur and the Armed Forces -LRB- Special Powers -RRB- Act is in force , Imphal city has remained exempt from it for over five years now . . . `` We have also rounded up a number of persons for interrogation . The operations are still on , '' the SP said . . . Five militants were killed in the first encounter that took place in Heingang Heibi in Imphal East district at around 6.30 pm , while two more were killed in another encounter at Maharabi village under Imphal West . Prior to that a militant was shot dead at Baruni village in Imphal East . . . The KCP -LRB- MC -RRB- , one of the several factions of the original KCP founded in 1980 under the leadership of Y Ibohanbi , had earlier claimed responsibility for Tuesday evening 's explosion in Imphal . The outfit claimed that it had detonated the explosion near the gambling den at Ragailong area as part of its campaign against pre-diwali gambling spree in different parts of the state . It said gambling was alien to the state 's culture and had spoilt the social atmosphere especially in the run-up to Diwali every year . . . Security forces have also recovered two M16 rifles , one carbine , one 9mm pistol , one single-barrel gun , one hand grenade , nine detonators , about two kgs of plastic explosives and about 100 bullets from the slain militants .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "two days after a powerful explosion:1", 
+        "gunned down as many as eight militants:20", 
+        "three encounters took place:52", 
+        "eight militants have been killed:73", 
+        "joint operation:104", 
+        "armed forces:136", 
+        "Special Powers:139", 
+        "militant was shot dead:230", 
+        "campaign against pre-diwali gambling:300", 
+        "Diwali:333", 
+        "two m16 rifles:344", 
+        "one carbine:348", 
+        "one 9mm pistol:351", 
+        "one single-barrel gun:355", 
+        "one hand grenade:359", 
+        "nine detonators:363", 
+        "two kgs of plastic explosives:367", 
+        "100 bullets:374"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "NATIONAL FESTIVALS", 
+    "link": "http://archive.indianexpress.com/news/manipur-blast--8-militants-shot-down/377628", 
+    "date": "21-10-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Kangleipak Communist Party", 
+            "33", 
+            "Accused"
+        ], 
+        [
+            "MC", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "The Indian Express", 
+            "86", 
+            "Others"
+        ], 
+        [
+            "Manipur Police", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "Assam Rifles", 
+            "96", 
+            "Others"
+        ], 
+        [
+            "KCP", 
+            "244", 
+            "Accused"
+        ], 
+        [
+            "MC", 
+            "246", 
+            "Accused"
+        ], 
+        [
+            "KCP", 
+            "257", 
+            "Accused"
+        ]
+    ]
+}

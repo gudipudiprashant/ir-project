@@ -1,0 +1,230 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "lower Assam", 
+            "48", 
+            "Event"
+        ], 
+        [
+            "Lakhmipur", 
+            "107", 
+            "Source"
+        ], 
+        [
+            "Adabari", 
+            "124", 
+            "Event"
+        ], 
+        [
+            "Sarusajai", 
+            "189", 
+            "Neutral"
+        ], 
+        [
+            "Barsajai", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "Bongaigaon", 
+            "232", 
+            "Neutral"
+        ], 
+        [
+            "Borghopa", 
+            "280", 
+            "Source"
+        ], 
+        [
+            "Kamalpur", 
+            "283", 
+            "Neutral"
+        ], 
+        [
+            "Kamrup", 
+            "287", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "303", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata ,", 
+            "303", 
+            "Neutral"
+        ], 
+        [
+            "upper Assam", 
+            "317", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Tarun Gogoi", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "Navin Verma", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "Gogoi", 
+            "306", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "403", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "434", 
+            "Others"
+        ], 
+        [
+            "Hiranya Saikia", 
+            "461", 
+            "Comment"
+        ], 
+        [
+            "Hiranya Saikia", 
+            "491", 
+            "Comment"
+        ], 
+        [
+            "Sakia", 
+            "534", 
+            "Comment"
+        ], 
+        [
+            "Mukut Medhi", 
+            "553", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "6:25 p.m.:127", 
+        "11 : 30 a.m. : 244", 
+        "6:50 p.m.:251"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:52"
+    ], 
+    "death": "1", 
+    "title": "Series of blasts in Assam", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM"
+    ], 
+    "content": "Special Correspondent . . ` Willing to talk if ULFA eschews violence ' . . Police recover IEDs ULFA calls for boycott of Republic Day . . Guwahati : Suspected militants of the United Liberation Front of Asom -LRB- ULFA -RRB- triggered a series of blasts in lower Assam , on Tuesday , including one in the city , in which one person was killed and at least 21 persons were injured even as Chief Minister Tarun Gogoi said his Government would provide full protection to every citizen . . . The police also recovered two improvised explosive devices one in the city and another in Lakhmipur district during the day . . . The blast in the city , which occurred at Adabari area around 6:25 p.m. left one dead and 14 injured . . . Dampener . . The blast came as a dampener on the Saraswati puja festivities all over the State . . . Earlier in the day , a Ministry of Home Affairs team led by Joint Secretary in charge of North East Navin Verma visited the stadium for the National Games at Sarusajai here and the Games Village at Barsajai to take stock of the security arrangements . . . Apart from the call to boycott the National Games , the ULFA also called for the boycott of the Republic Day . . . In Bongaigaon district , suspected ULFA militants triggered two blasts one at around 11 : 30 a.m. and another around 6:50 p.m. . While no one was injured in the first blast , six persons were injured in the second . The outfit also triggered a grenade blast at Borghopa village under Kamalpur police station in Kamrup district in which one person was injured . . . In a statement issued in Kolkata , Mr. Gogoi said that after the serial attack on Hindi-speaking people in upper Assam , the ULFA had now changed its tactics and had been planting bombs , lobbing grenades in crowded places killing people across all sections including Assamese , Bengalis , Muslims and other communities . . . ` The attacks on such unarmed and poor people have demonstrated that they are frustrated and their strength has gone down . I am happy that all sections of people have unequivocally condemned this heinous killing and their support base has gone down like anything , ' Mr. Gogoi said . . . He also reiterated that sovereignty was not negotiable and that the Government was prepared to talk if the ULFA gave up violence . . . Mr. Gogoi said the National Games would be held on time and successfully and urged the people to ignore ULFA-appointed People 's Consultative Group -LRB- PCG -RRB- member Hiranya Saikia , who , he alleged , had stated in an interview that it was not safe to hold the National Games now . . . ` He -LSB- Hiranya Saikia -RSB- is speaking the ULFA 's language . He is doing it at the behest of the ULFA and we appeal to everybody to ignore him , ' the Chief Minister stated in his statement . . . However , Mr. Sakia , while addressing a joint press conference with General Secretary of the Assam Olympic Association -LRB- AOA -RRB- Mukut Medhi , urged the ULFA to withdraw the boycott call .", 
+    "injured": "21", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "", 
+        "lower Assam "
+    ], 
+    "O": [
+        "police:16", 
+        "chief minister:75", 
+        "government:81", 
+        "saraswati puja:149", 
+        "grenade:277", 
+        "assamese:344", 
+        "bengalis:346", 
+        "muslims:348"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/series-of-blasts-in-assam/article1787042.ece", 
+    "date": "23-01-2007", 
+    "target": "", 
+    "hot_spot": "lower Assam ", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "19", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "40", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "218", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "236", 
+            "Accused"
+        ], 
+        [
+            "Kamalpur police", 
+            "283", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "321", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "426", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "497", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "510", 
+            "Accused"
+        ], 
+        [
+            "Assam Olympic Association", 
+            "547", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "558", 
+            "Accused"
+        ]
+    ]
+}

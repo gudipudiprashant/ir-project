@@ -1,0 +1,211 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Jama Masjid", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "northern India", 
+            "39", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "82", 
+            "Neutral"
+        ], 
+        [
+            "Jama Masjid", 
+            "136", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "321", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "397", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "401", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "420", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "455", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "458", 
+            "Neutral"
+        ], 
+        [
+            "Jama Masjid", 
+            "513", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "524", 
+            "Neutral"
+        ], 
+        [
+            "Jama Masjid", 
+            "549", 
+            "Event"
+        ], 
+        [
+            "Hindu temples", 
+            "560", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "563", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Amanullah Khan", 
+            "139", 
+            "Comment"
+        ], 
+        [
+            "Khan", 
+            "177", 
+            "Comment"
+        ], 
+        [
+            "Karnail Singh", 
+            "357", 
+            "Comment"
+        ], 
+        [
+            "A.P.J. Abdul Kalam", 
+            "380", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "386", 
+            "Others"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "416", 
+            "Others"
+        ], 
+        [
+            "Syed Ahmed Bukhari", 
+            "517", 
+            "Others"
+        ], 
+        [
+            "shahi imam", 
+            "521", 
+            "Others"
+        ], 
+        [
+            "Alok Kumar", 
+            "541", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 425"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "16 April 2006 : 4", 
+        "Friday : 63", 
+        "17th century : 219", 
+        "Friday : 424"
+    ], 
+    "death": "", 
+    "title": "Police Detain Four Suspects: Delhis Jama Masjid Blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI , 16 April 2006 Police yesterday said they had detained four suspects in connection with the twin blasts at Delhis Jama Masjid that injured 14 people as security was stepped up at temples and mosques across northern India to guard against reprisal attacks . Two of the detainees were picked up early yesterday while the other two were detained late Friday , said a police official who did not wish to be named . Three of them are from Delhi while the fourth says he is not from here , he said . We have not arrested them . They are in custody for questioning . Though the prayer routine at the historic mosque was back to normal , politicians and police officers remained puzzled about who was responsible for Fridays attack . Jama Masjid spokesman Amanullah Khan said : There is absolutely no tension , everything is fine , everything is normal . You can say we are back to our normal routine . On who could be responsible for the attack , Khan said : That is not for us to say . The police are on their job . We are sure they will find out . A special cell of the Delhi Police is conducting investigations into the blasts . With the 17th century mosque having been targeted for the first time , the investigating officers are also wondering on this being a deliberate attempt to create tension in a communally sensitive area . Preliminary examination of explosives suggests , sources said , that the blasts were not meant to kill or destroy but cause panic and doubt . Both bombs , with the quantum of phosphorous-sulphur mix being less than 100 grams , were kept 15 feet apart . The intention behind the explosions was to create panic in the city , police officials said . Intelligence sources are of the opinion that Jama Masjid blasts have not been carried out by any major terrorist group . We are looking at various angles , including previous attacks . The probe is on , Joint Commissioner ( Special Cell ) Karnail Singh said . Meanwhile , leaders cutting across party lines have appealed for calm and strongly condemned the bomb attack . President A.P.J. Abdul Kalam , Prime Minister Manmohan Singh and other leaders have condemned the blasts in the Jama Masjid and in Srinagar . They have appealed to people to maintain communal harmony . While Congress leader Sonia Gandhi visited the Jama Masjid late on Friday night , the Congress party condemned the explosions yesterday . Communist Party of India ( Marxist ) said in a statement : The two blasts in the premises of the Jama Masjid in Delhi are an obvious provocation to outrage religious sentiments and create communal disharmony . Condemning the blasts , CPI ( M ) asked authorities to track down the culprits . Among other parties , Bharatiya Janata Party , Communist Party of India , Forward Bloc and Janata Dal ( S ) have also condemned the Jama Masjid blasts . Syed Ahmed Bukhari , shahi imam of Jama Masjid termed the blasts as a desperate attempt by divisive forces to disturb communal harmony . Alok Kumar , deputy police chief of the Jama Masjid area , said there was tight security at all Hindu temples in New Delhi . . . .", 
+    "injured": "14", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        "Jama Masjid"
+    ], 
+    "O": [
+        "police:7", 
+        "phosphorous-sulphur:283", 
+        "Joint Commissioner:351"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.arabnews.com/node/283344", 
+    "date": "15-04-2006", 
+    "target": "TEMPLE", 
+    "hot_spot": "Jama Masjid", 
+    "delivery_mod": "TEMPLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi Police", 
+            "208", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "428", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "435", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "476", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "492", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "496", 
+            "Others"
+        ], 
+        [
+            "Janata Dal", 
+            "504", 
+            "Others"
+        ]
+    ]
+}

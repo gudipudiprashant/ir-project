@@ -1,0 +1,76 @@
+{
+    "LOC": [
+        [
+            "Chittoor", 
+            "4", 
+            "Neutral"
+        ], 
+        [
+            "Prakasam Road", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "34", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nagaraj", 
+            "12", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 24", 
+        "Thursday : 36"
+    ], 
+    "death": "", 
+    "title": "Dharna held against Hyderabad blasts", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        "Prakasam Road"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Activists of CPI Chittoor town unit , led by its secretary Nagaraj , staged a dharna near Gandhi statue on Prakasam Road on Friday condemning the bomb blasts on a busy road in Hyderabad on Thursday .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Activists:1", 
+        "Chittoor town unit:4", 
+        "staged:14", 
+        "dharna:16", 
+        "Gandhi statue:18", 
+        "bomb blasts:27", 
+        "busy road:31"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/dharna-held-against-hyderabad-blasts/article4445025.ece", 
+    "date": "22-02-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CPI", 
+            "3", 
+            "Others"
+        ]
+    ]
+}

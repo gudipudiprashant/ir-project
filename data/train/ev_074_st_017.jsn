@@ -1,0 +1,74 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Rajdhani express", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Sungajan", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Dimapur", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Bokajan", 
+            "89", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "morning : 38", 
+        "0130 hours : 52"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "5", 
+    "title": "Blast in Rajdhani Express, five killed", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "ALL ADIVASI NATIONAL LIBERATION ARMY"
+    ], 
+    "content": "View PhotosNews GalleryGuwahati , Dec 13 : Suspected Adivasi militants blasted a powerful bomb in the Delhi bound Rajdhani express at Sungajan near Dimapur , killing at least 5 and injuring more than 20 persons early this morning . . . According to NF Railway sources , the blast occurred at 0130 hours in the first compartment , after the engine , which was carrying railway staff and lot of illegal passengers.The blast did not damage the track and the driver managed to take the train to nearest Bokajan station after the blast . Condition of three other passengers are slated to be very critical . . . The passengers of the train were shifted to another train . The movement of the train in the sector has not been affected , the source said . . . .", 
+    "injured": "20", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Golaghat", 
+        "Guwahati", 
+        "Sungajan"
+    ], 
+    "O": [
+        "NF Railway:44"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/2007/12/13/blast-in-rajdhani-2-killed-1197514940.html", 
+    "date": "13-12-2007", 
+    "target": "", 
+    "hot_spot": "Sungajan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Adivasi", 
+            "9", 
+            "Accused"
+        ]
+    ]
+}

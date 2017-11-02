@@ -1,0 +1,117 @@
+{
+    "LOC": [
+        [
+            "Dimapur", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Nagaland", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Nagaland", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Dimapur", 
+            "113", 
+            "Neutral"
+        ], 
+        [
+            "Hongkong", 
+            "117", 
+            "Neutral"
+        ], 
+        [
+            "Dimapur", 
+            "170", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shivraj Patil", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "Patil", 
+            "89", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "Patil", 
+            "163", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "today : 9", 
+        "tomorrow : 171"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "18", 
+    "title": "Patil condemns Nagaland blast", 
+    "det_loc": [
+        "India", 
+        "Nagaland", 
+        "Dimapur", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi , Oct 02 : The Centre today condemned as ` inhuman and dastardly ' the twin bomb blasts at Dimapur in Nagaland which claimed 18 lives and assured the state police of all possible help to track down the culprits . . . Expressing shock over the incident , Home Minister Shivraj Patil told newspersons that he has assured the Nagaland government of all possible help , including intelligence inputs , to track down and bring to book those responsible for the blasts . . . Patil , who condoled the death of innocent persons , has already briefed Prime Minister Manmohan Singh about the two blasts at the busy Dimapur railway station and Hongkong market which left 18 dead and 100 others injured . . . He said the Centre has asked the state to give help and assistance to the injured and the relatives of those who lost their lives in the blasts . . . Meanwhile , Patil announced that he would be visiting Dimapur tomorrow to review the situation.Bureau Report .", 
+    "injured": "100", 
+    "org_unorg": "", 
+    "O": [
+        "inhuman and dastardly:13", 
+        "twin bomb blasts:18", 
+        "culprits:42", 
+        "blasts:85", 
+        "two blasts:108", 
+        "dimapur railway station:113", 
+        "injured:145", 
+        "blasts:157"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/nation/patil-condemns-nagaland-blast_180298.html", 
+    "date": "02-10-2004", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Centre", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "Nagaland government", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "133", 
+            "Others"
+        ]
+    ]
+}

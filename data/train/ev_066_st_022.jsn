@@ -1,0 +1,118 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "96", 
+            "Event"
+        ], 
+        [
+            "Agra", 
+            "137", 
+            "Neutral"
+        ], 
+        [
+            "Aligarh", 
+            "140", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "211", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "213", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "216", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "January 11 , 2006 : 87"
+    ], 
+    "death": "", 
+    "title": "U.P.-based module involved?", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . NEW DELHI : Although no evidence has so far emerged on the involvement of any particular outfit in the Samjhauta Express blasts , investigations are on to find out if an Uttar Pradesh-based module carried out the blasts . . . The forensic team examining the suitcase containing an unexploded bomb that was recovered from the railway tracks near the blasts site , found a mixture of chemicals wrapped in a piece of newspaper . The torn page of the newspaper dated January 11 , 2006 , belongs to a western Uttar Pradesh edition of a renowned Hindi daily . It carries an article by a news agency about the recovery of 114 live grenades from inside the Golden Temple . . . Initial enquiries have indicated that it could be the Agra or nearby Aligarh edition of the newspaper . . . ` It raises doubts about the role of an outfit like SIMI . However , at the initial stage of investigations we can not concentrate on just one organisation , ' said a police officer . . . A police source said that no arrests had been made in the case so far . . . However , some persons were questioned in Rajasthan , Uttar Pradesh and Delhi in connection with the blasts , the source said .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "no evidence:9", 
+        "emerged:14", 
+        "particular outfit:20", 
+        "samjhauta express blasts:24", 
+        "investigations:28", 
+        "uttar pradesh-based module:36", 
+        "blasts:42", 
+        "examining:49", 
+        "suitcase:51", 
+        "unexploded bomb:54", 
+        "railway tracks:61", 
+        "blasts site:65", 
+        "mixture of chemicals:70", 
+        "western uttar pradesh edition:95", 
+        "article:108", 
+        "news agency:111", 
+        "114 live grenades:117", 
+        "golden temple:123", 
+        "initial enquiries:128", 
+        "raises doubts:150", 
+        "outfit:157", 
+        "initial stage:165", 
+        "investigations:168", 
+        "concentrate:172", 
+        "organisation:176", 
+        "police source:187", 
+        "no arrests:191", 
+        "case:198", 
+        "questioned:209", 
+        "connection:218", 
+        "blasts:221"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/upbased-module-involved/article1801397.ece", 
+    "date": "18-02-2008", 
+    "target": "RAILWAY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "forensic team", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "159", 
+            "Others"
+        ]
+    ]
+}

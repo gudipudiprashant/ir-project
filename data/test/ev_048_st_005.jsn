@@ -1,0 +1,80 @@
+{
+    "LOC": [
+        [
+            "upper Assam", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Digboi", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Tinsukia", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "railway track", 
+            "75", 
+            "Event"
+        ], 
+        [
+            "drain", 
+            "89", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "127", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "AP Tiwari", 
+            "47", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 18"
+    ], 
+    "death": "", 
+    "title": "Twin Blasts in Assam on Republic Day, No Casualties Reported So Far", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Tinsukia", 
+        "", 
+        "oil town Digboi "
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two low-intensity bombs exploded in upper Assam 's oil town Digboi , in Tinsukia district , on Monday . . . This untoward incident took place when the nation was celebrating its 66th Republic Day . . . As per PTIreports , Senior Superintendent of Police AP Tiwari informed that the explosion had no impact on life or property till now . . . Of the two blasts , one took place near a railway track under dumped garbage while the other occured in the garbage under the drain . . . The nature of the blasts suggest that the bombs were made of handmade explosives as they did not have much impact . However , investigations related to the explosions are on . . . Assam was on high alert after the Union Home Ministry warned of possible terror attacks ahead of the Republic day celebrations .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:46", 
+        "garbage:86", 
+        "union home ministry:134"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "REPULBIC DAY", 
+    "link": "http://www.ibtimes.co.in/twin-blasts-assam-republic-day-621553", 
+    "date": "26-01-2015", 
+    "target": "", 
+    "hot_spot": "oil town Digboi ", 
+    "delivery_mod": "RAILWAY TRACKS", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "LOW INTENSITY BOMB"
+    ], 
+    "ORG": []
+}

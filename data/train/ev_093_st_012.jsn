@@ -1,0 +1,100 @@
+{
+    "LOC": [
+        [
+            "Mahabodhi Temple", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "45", 
+            "Neutral"
+        ], 
+        [
+            "Gaya", 
+            "49", 
+            "Neutral"
+        ], 
+        [
+            "Royal Residence hotel", 
+            "145", 
+            "Source"
+        ], 
+        [
+            "Baiju Bigaha", 
+            "149", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi Temple", 
+            "158", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushil Kumar Shinde", 
+            "86", 
+            "Others"
+        ], 
+        [
+            "Dorji", 
+            "117", 
+            "Victim"
+        ], 
+        [
+            "Bala Sanga", 
+            "119", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "5:30 : 71", 
+        "5:58 am : 73"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 7 , 2013 : 54"
+    ], 
+    "death": "0", 
+    "title": "Culpable Neglect ", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "Gaya", 
+        " Mahabodhi Temple"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least two monks , a Burmese and a Tibetan , were injured in a coordinated terror attack , in and around the Mahabodhi Temple ( the Temple of the Great Awakening , where Buddha is believed to have attained enlightenment ) Complex at Bodh Gaya in the Gaya district of Bihar on July 7 , 2013 . The Bihar Police has confirmed that ten low-intensity serial blasts occurred between 5:30 and 5:58 am at and around the World Heritage site . Union home minister Sushil Kumar Shinde confirmed , `` Today I have the information of 10 blasts . A total of 13 bombs were placed there Two persons have been injured 50 year old Dorji and Bala Sanga ( 30 ) . '' Two live bombs were detected and defused at the Complex , while a third bomb was recovered near the Royal Residence hotel at Baiju Bigaha village , about four kilometres from the Mahabodhi Temple .", 
+    "injured": "2", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Burmese:7", 
+        "Tibetan:10", 
+        "World Heritage:79", 
+        "Union home minister:83"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.outlookindia.com/website/story/culpable-neglect/286803", 
+    "date": "08-07-2013", 
+    "target": "", 
+    "hot_spot": " Mahabodhi Temple", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bihar Police", 
+            "60", 
+            "Others"
+        ]
+    ]
+}

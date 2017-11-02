@@ -1,0 +1,316 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "44", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bangalore", 
+            "46", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "48", 
+            "Assoc_Event"
+        ], 
+        [
+            "Delhi", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "89", 
+            "Event"
+        ], 
+        [
+            "Connaught Place", 
+            "91", 
+            "Event"
+        ], 
+        [
+            "Greater Kailash", 
+            "98", 
+            "Event"
+        ], 
+        [
+            "south Delhi", 
+            "104", 
+            "Event"
+        ], 
+        [
+            "Ghaffar Market", 
+            "118", 
+            "Event"
+        ], 
+        [
+            "India Gate", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "UP", 
+            "220", 
+            "Assoc_Event"
+        ], 
+        [
+            "Jaipur", 
+            "225", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "227", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ghaffar Market", 
+            "273", 
+            "Event"
+        ], 
+        [
+            "Connaught Place", 
+            "286", 
+            "Event"
+        ], 
+        [
+            "Barakambha Road", 
+            "291", 
+            "Event"
+        ], 
+        [
+            "Gopaldas Building", 
+            "294", 
+            "Event"
+        ], 
+        [
+            "Metro station", 
+            "304", 
+            "Neutral"
+        ], 
+        [
+            "Central Park", 
+            "308", 
+            "Event"
+        ], 
+        [
+            "Greater Kailash-I", 
+            "323", 
+            "Neutral"
+        ], 
+        [
+            "Prince Pan Corner", 
+            "337", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "384", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bangalore", 
+            "386", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "388", 
+            "Assoc_Event"
+        ], 
+        [
+            "Connaught Place", 
+            "408", 
+            "Event"
+        ], 
+        [
+            "Central Park", 
+            "416", 
+            "Event"
+        ], 
+        [
+            "Connaught Place", 
+            "419", 
+            "Event"
+        ], 
+        [
+            "Gopaldas building", 
+            "423", 
+            "Event"
+        ], 
+        [
+            "Karol Bagh", 
+            "476", 
+            "Event"
+        ], 
+        [
+            "Karol Bagh", 
+            "498", 
+            "Event"
+        ], 
+        [
+            "Prince Pan Centre", 
+            "566", 
+            "Event"
+        ], 
+        [
+            "GK", 
+            "570", 
+            "Event"
+        ], 
+        [
+            "GK", 
+            "602", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "717", 
+            "Event"
+        ], 
+        [
+            "India Gate", 
+            "717", 
+            "Event"
+        ], 
+        [
+            "Children 's Park", 
+            "724", 
+            "Event"
+        ], 
+        [
+            "Regal Cinema", 
+            "732", 
+            "Neutral"
+        ], 
+        [
+            "Central Park", 
+            "748", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rohit", 
+            "443", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "6.10 pm:276", 
+        "6.30 pm : 297", 
+        "6.31 pm:311"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:56"
+    ], 
+    "death": "30", 
+    "title": "Serial blasts rock Delhi; 30 dead, 90 injured", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "", 
+        "", 
+        "Connaught Place, Greater Kailash,  Ghaffar Market"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN", 
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "NEW DELHI : It has become nauseatingly familiar . Low-intensity bombs placed in crowded markets , killing and maiming children , their parents , unsuspecting shoppers , unmindful of their caste , creed or religion . Within a month and a half of Jaipur , Bangalore and Ahmedabad terror blasts , Delhi was mauled on Saturday leaving 30 innocents dead and 90 injured . -LRB- Watch -RRB- In all , five bombs went off in less than half an hour . Two of them in the heart of Delhi in Connaught Place , two at the upscale Greater Kailash M Block market in south Delhi , and one , the most damaging one , in the crowded Ghaffar Market in Karol Bagh.Three more bombs were defused , one of them at the popular Children 's Park in India Gate , indicating the depraved mind of the terrorists.The Indian Mujahideen , regarded by security agencies as a front of the Lashkar-Huji terror machine , has claimed responsibility for the blasts . The Indian Mujahideen email , titled ` the Message of Death ' , said : ` In the name of Allah , Indian Mujahideen strikes back once more . ... Do whatever you can . Stop us if you can . ' This group had sent emails before the UP court blasts , the Jaipur and Ahmedabad blasts . This time , too , it sent an email to media groups , however , 10 minutes after the first blast . And for the third time , it specifically threatened The Times of India for attacking terror.The first blast took place at Ghaffar Market at 6.10 pm . Soon after that , two explosions rocked Connaught Place , one at Barakambha Road near Gopaldas Building at 6.30 pm and the other near the Metro station at the Central Park at 6.31 pm . Almost simultaneously , a blast hit M-block market in Greater Kailash-I near McDonald 's and seven minutes later another bomb went off near Prince Pan Corner in the same market.All blasts were of low intensity , and the defused bombs suggest they used the cocktail of ammonium nitrate , gun powder , ball bearings and nails , with timer devices , the same kind of bombs that were used in Jaipur , Bangalore and Ahmedabad , indicating that it 's the same group that 's wreaking terror across the country.Eyewitnesses said that explosives at Connaught Place were kept in a dustbin in Central Park of Connaught Place while at Gopaldas building , the bombs were kept in a dustbin next to the bus stand . An 11-year-old boy , Rohit -LRB- name changed -RRB- who had witnessed two persons wearing a black dress putting two plastic bags inside the dustbin , is being examined by the cops.Police say the first blast in Karol Bagh was the result of a Compressed Natural Gas -LRB- CNG -RRB- cylinder explosion . The impact of the blasts in Karol Bagh could be gauged by the fact that an auto was thrown up in the air and got caught in the electrical wires . ` The terrorist have used the CNG autorickshaw to maximise the impact and we have so far not been able to find the number plate of the vehicle , ' said a police officer.Eyewitnesses claim that explosives were loaded on a bicycle near Prince Pan Centre in GK I and another inside a dustbin near McDonald 's . All the blasts were of low intensity and ball bearings were used to maximize the impact , said investigators . In GK 's M block market , the blast took place next to a Maruti car to maximise the impact but it did not explode averting a bigger tragedy . Cops said that a low intensity blast with a timer was used to trigger the blast . The second blast which took place next to a pan shop was higher intensity but shopkeepers and shoppers had evacuated the area by then , reducing the human loss . All the blast sites were popular shopping destinations , and all of them were teeming with people on weekend shopping.Three unexploded bombs were found later taking the total number of bombs to 8 . The first was found near India Gate inside a dustbin at the Children 's Park and one was defused at Regal Cinema Hall which was lying on the road , while another one was found at Central Park , again inside a dustbin . A National Security Guard -LRB- NSG -RRB- team defused the bombs after they were informed by the witnesses about unclaimed objects . NSG experts were assessing the situation and nature of explosives used .", 
+    "injured": "90", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "low-intensity bombs:10", 
+        "ahmedabad terror blasts:48", 
+        "five bombs:71", 
+        "lashkar-huji:160", 
+        "the message of death:178", 
+        "indian mujahideen strikes back once more:193", 
+        "up court blasts:220", 
+        "ammonium nitrate:360", 
+        "gun powder:363", 
+        "ball bearings:366", 
+        "nails:369", 
+        "timer devices:372", 
+        "plastic bags inside the dustbin:459", 
+        "electrical wires:520", 
+        "cng autorickshaw:529", 
+        "ball bearings were used to maximize the impact:589", 
+        "popular shopping destinations:683", 
+        "total number of bombs to 8:705", 
+        "unclaimed objects:775"
+    ], 
+    "unexpl": [
+        "BALL BEARING", 
+        "NAILS", 
+        "MECHANICAL TIMERS"
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Serial-blasts-rock-Delhi-30-dead-90-injured/articleshow/3479914.cms?", 
+    "date": "13-09-2008", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "DUSTBIN", 
+    "delivery_met": "", 
+    "expl": [
+        "AMMONIUM NITRATE", 
+        "GUN POWDER", 
+        "CNG"
+    ], 
+    "ORG": [
+        [
+            "McDonald", 
+            "326", 
+            "Others"
+        ], 
+        [
+            "McDonald", 
+            "578", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "148", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "172", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "193", 
+            "Accused"
+        ], 
+        [
+            "Times of India", 
+            "262", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "757", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "761", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "778", 
+            "Others"
+        ]
+    ]
+}

@@ -6,7 +6,7 @@ from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 
 from Entity_test import Tester, get_all_entities
-from word2vec_extrap import W2vExtrapolator
+# from word2vec_extrap import W2vExtrapolator
 
 lemmatizer = WordNetLemmatizer()
 
@@ -21,7 +21,7 @@ gen_type =  {
 
 # Identify the primary sentences based on the presence of 
 # keywords and then return the entities by category in those sentences
-def keyword_ranker(sent_ent_list, sentence_list, content,
+def custom_entity_detect_func(sent_ent_list, sentence_list, content,
         custom_param):
 
   relev_ents = {
@@ -30,7 +30,7 @@ def keyword_ranker(sent_ent_list, sentence_list, content,
                     "PER" : [],
                 }
 
-  kw_type = custom_param.get("Gen_type","Naive")
+  kw_type = custom_param.get("Gen_type","default_type")
 
   param = custom_param.get("KW_param", {})
   keywords = set()
@@ -59,7 +59,7 @@ def keyword_ranker(sent_ent_list, sentence_list, content,
               ent_type   :   Counter(),
             }
       naive_gen_keywords.get_close_words(tokenized_string, 
-        relev_entity, close_, 10)
+        relev_entity, close_, 5)
       close_set = set(close_[ent_type].keys())
       if close_set.intersection(keywords[ent_type]):
         relev_ents[ent_type].append(ent)

@@ -1,0 +1,157 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "159", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "A.P.J. Abdul Kalam", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "Dilip Kumar Saikia", 
+            "98", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "today : 27", 
+        "today : 102"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "OCT. 27 : 17"
+    ], 
+    "death": "13", 
+    "title": "AGP's allegations against Minister", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhemaji", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "National AGP 's allegations against Minister . . By our special correspondent . . GUWAHATI , OCT. 27 . The Asom Gana Parishad -LRB- AGP -RRB- today forwarded ' a confessional statement ' of a woman cadre of the outlawed United Liberation Front of Asom -LRB- ULFA -RRB- , arrested in connection with the Dhemaji bomb blast , to the President , A.P.J. Abdul Kalam , urging him to initiate an impartial commission of enquiry into the alleged ` link ' of an Assam Minister with the banned outfit . . . The AGP general secretary , Dilip Kumar Saikia , today distributed at a press conference copies of the ` confessional statement ' of the ULFA cadre , purportedly made during her interrogation by police . . . Damaging allegations . . According to the ` confessional statement , ' the Minister allegedly gifted a mobile handset to another ULFA cadre , also a suspect in the Dhemaji bomb blast triggered by the ULFA on this year 's Independence Day . Thirteen persons , mostly school children , were killed in it . . . The ` statement ' also claimed that the suspect had frequent discussions with the Minister over the mobile phone .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "allegations:4", 
+        "special correspondent:11", 
+        "forwarded:28", 
+        "confessional statement:31", 
+        "woman cadre:36", 
+        "outlawed:40", 
+        "arrested:50", 
+        "connection:52", 
+        "Dhemaji bomb blast:55", 
+        "urging:67", 
+        "initiate:70", 
+        "impartial commission of enquiry:72", 
+        "alleged:78", 
+        "link:80", 
+        "Assam Minister:84", 
+        "banned outfit:88", 
+        "distributed:103", 
+        "press conference:106", 
+        "confessional statement:112", 
+        "ULFA cadre:117", 
+        "interrogation:124", 
+        "Damaging allegations:130", 
+        "confessional statement:138", 
+        "allegedly gifted:144", 
+        "mobile handset:147", 
+        "cadre:152", 
+        "Dhemaji bomb blast:159", 
+        "triggered:162", 
+        "year 's Independence Day:168", 
+        "school children:177", 
+        "killed:181", 
+        "statement:189", 
+        "claimed:192", 
+        "suspect:195", 
+        "frequent discussions:197", 
+        "mobile phone:204"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "INDEPENDENCE DAY", 
+    "link": "http://www.thehindu.com/2004/10/28/stories/2004102807671300.htm", 
+    "date": "27-10-2004", 
+    "target": "PARADE GROUND", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AGP", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Asom Gana Parishad", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "AGP", 
+            "25", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "41", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "47", 
+            "Accused"
+        ], 
+        [
+            "AGP", 
+            "94", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "117", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "151", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "165", 
+            "Accused"
+        ]
+    ]
+}

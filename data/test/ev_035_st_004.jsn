@@ -1,0 +1,172 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "Guwahati -", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "Pan Bazar", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Bhangagarh", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Ganeshguri", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "Hatigaon", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "71", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "121", 
+            "Event"
+        ], 
+        [
+            "Dispur", 
+            "127", 
+            "Neutral"
+        ], 
+        [
+            "Pan Bazaar", 
+            "130", 
+            "Event"
+        ], 
+        [
+            "Ganeshguri", 
+            "133", 
+            "Event"
+        ], 
+        [
+            "Fancy Bazaar", 
+            "135", 
+            "Event"
+        ], 
+        [
+            "Barpeta", 
+            "144", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "146", 
+            "Event"
+        ], 
+        [
+            "Bongaigoan", 
+            "148", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "150", 
+            "Event"
+        ], 
+        [
+            "Ganeshguri", 
+            "156", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "169", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "181", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "195", 
+            "Event"
+        ], 
+        [
+            "Barpeta", 
+            "206", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Tarun Gogoi", 
+            "172", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 25"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:24"
+    ], 
+    "death": "", 
+    "title": "Curfew imposed in Guwahati following blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Guwahati : Curfew has been imposed in Guwahati following the serial bomb blasts in the city and some other cities of Assam on Thursday morning . . . The Director General of Police office said that curfew has been imposed in four areas in Guwahati - Pan Bazar , Bhangagarh , Ganeshguri and Hatigaon . . . Following the blasts , crowds angry clashed with police in some areas of Guwahati . Some people were injured in the clash and at one place the police even fired in the air to disperse an angry mob . . . The state has been rocked by 11 blasts in which at least 39 people have killed and 196 others injured . In Guwahati the blasts took place on Dispur Road , Pan Bazaar , Ganeshguri and Fancy Bazaar . . . More bombs exploded in Barpeta , Kokrajhar , Bongaigoan and Tinsukia districts . The bomb at Ganeshguri was planted in a car and took place about 100 meters from Assam Chief Minister Tarun Gogoi 's official residence . . . In Guwahati the death toll stood at 16 while 98 people were injured while in Kokrajhar 11 people have been killed and 53 injured . In Barpeta 12 people have been killed and 45 others have been injured . . . All the blasts took place almost simultaneously at about 1130 hrs IST at crowded marketplaces . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "guwahati", 
+        "guwahati"
+    ], 
+    "O": [
+        "Director General of Police:30", 
+        "car:161", 
+        "Chief Minister:170"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/curfew-imposed-in-guwahati-following-blasts-300646.html", 
+    "date": "30-10-2008", 
+    "target": "", 
+    "hot_spot": "guwahati", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

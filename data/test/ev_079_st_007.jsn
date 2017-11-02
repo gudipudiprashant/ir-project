@@ -1,0 +1,84 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "hardware and electronics market", 
+            "14", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Y.S. Dadwal", 
+            "151", 
+            "Victim"
+        ], 
+        [
+            "Sanjay Dhingra", 
+            "162", 
+            "Comment"
+        ], 
+        [
+            "Dhingra", 
+            "220", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "Sept. 27 : 4", 
+        "2:15 p.m. : 43"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday : 26"
+    ], 
+    "death": "1", 
+    "title": "Bomb Explosion In Indian Capital Kills 1, Injures 18", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        "NEW DELH"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "NEW DELHI , Sept. 27 -- A small bomb exploded in a crowded hardware and electronics market in the southern part of the Indian capital Saturday , killing one person and wounding at least 18 . . . The explosion occurred about 2:15 p.m. in a neighborhood where both Hindus and Muslims live and near a historic 12th-century stone minaret . . . No group has asserted responsibility for the attack , which came two weeks after a series of bombings ripped through the capital , killing 21 people . . . Police said two men on a black motorcycle dropped a plastic bag containing a lunchbox and sped away . Inside the lunchbox was a crude , low-intensity bomb , authorities said . . . `` The bag was picked up by a young boy , and it exploded . And the boy lost his life , '' said Y.S. Dadwal , the city 's police commissioner . . . Sanjay Dhingra , who runs a kitchenware store in the area , said the boy was standing in the street watching television . . . `` When he saw the men on the bike , he called out , ` Uncle , you have left your bag behind , ' and picked up the bag , '' said Dhingra , whose clothes were stained with blood from helping the injured . `` Then the explosion took place . We heard a loud bomb , and everything went black for a moment . The boy died right there . '' . . A spokesman at the trauma care center at the All India Institute of Medical Sciences said that seven of the injured were in critical condition . . . There have been several attacks across India recently , and a little-known group called the Indian Mujahideen has asserted responsibility for them . . . .", 
+    "injured": "18", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Police:93", 
+        "lunchbox:114"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.washingtonpost.com/wp-dyn/content/article/2008/09/27/AR2008092701365.html?hpid=topnews", 
+    "date": "27-09-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "POLYTHENE BAG", 
+    "delivery_met": "THROWN", 
+    "expl": [
+        "CRUDE BOMB", 
+        "LOW INTENSITY BOMB"
+    ], 
+    "ORG": [
+        [
+            "All India Institute of Medical Sciences", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "306", 
+            "Accused"
+        ]
+    ]
+}

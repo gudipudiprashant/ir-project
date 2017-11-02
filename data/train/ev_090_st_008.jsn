@@ -1,0 +1,139 @@
+{
+    "LOC": [
+        [
+            "Srinagar", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "49", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "89", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "198", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "369", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Omar Abdullah", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "Abdullah", 
+            "104", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:47"
+    ], 
+    "death": "5", 
+    "title": "After protests over his absence, Omar Abdullah pays tribute to killed CRPF jawans at airport", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "", 
+        "Srinagar"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Srinagar : It was a rare public outburst , on national television , and it seemed to bring Jammu and Kashmir Chief Minister Omar Abdullah rushing to the Srinagar airport just in time to lay a wreath before the bodies of five paramilitary men killed in Wednesday 's Srinagar terror attack were flown out.Jawans in uniform questioned the CM 's absence at a ceremony organised by the Central Reserve Police Force or CRPF this morning to honour its men killed by two terrorists who ambushed their camp in Srinagar on Wednesday.The men were angry and said they felt `` orphaned '' that Mr Abdullah did not turn up . In fact , no politician did . `` Where is the Chief Minister ? We risk our lives to protect our country . At least the chief minister should have been present , '' a jawan said . His colleague , equally distraught , said , `` The Chief Minister visits families of civilians when they die in street clashes , '' adding , `` Nobody cares about our life . '' The five CRPF men killed and eight injured in the fidayeen or suicide attack on the Srinagar camp were part of a 36-man emergency reserve , deployed to deal with agitations and protests . 24 of them had only non-lethal weapons like lathis , tear gas shells , rubber bullets and pepper grenades when they were attacked . The two terrorists , who sneaked into an open ground where some children were playing a cricket match with off-duty soldiers , stood without cover , took out semi-automatic guns and opened fire , also lobbing many grenades . Grief-stricken CRPF jawans said today that their colleagues had no chance in an unequal battle . `` They give us lathis to fight terrorists . We lost five men yesterday as they were unable to defend themselves , '' a jawan said . Senior CRPF officers say this is standard operating procedure - one-third of a CRPF company is armed , one - third carries riot gear and one-third has lathis or batons.It was the men who had access to heavy weapons who eventually shot dead the two fidayeen in Srinagar . The BJP has accused the government of not being `` concerned about jawans dying . '' .", 
+    "injured": "8", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "chief minister:22", 
+        "airport:30", 
+        "cm:59", 
+        "central reserve police force:68", 
+        "chief minister:121", 
+        "chief minister:136", 
+        "jawan:145", 
+        "chief minister:158", 
+        "lathis:224", 
+        "tear gas shells:226", 
+        "rubber bullets:230", 
+        "pepper grenades:233", 
+        "grenades:277", 
+        "jawans:281", 
+        "jawan:319", 
+        "lathis:349"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/after-protests-over-his-absence-omar-abdullah-pays-tribute-to-killed-crpf-jawans-at-airport-516180", 
+    "date": "13-03-2013", 
+    "target": "", 
+    "hot_spot": "Srinagar", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Central Reserve Police Force", 
+            "68", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "184", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "280", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "323", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "335", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "372", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "LOC": [
+        [
+            "West Bengal", 
+            "2", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "69", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mamata Banerjee", 
+            "12", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "2", 
+    "title": "No decision on NIA role", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The West Bengal unit of the BJP is blaming Chief Minister Mamata Banerjee for blocking a probe by the National Investigation Agency -LRB- NIA -RRB- into last Thursdays blast in Bardhaman . But officials at the Centre said it was the Union government that was yet to decide on handing over the probe to the central agency . . . A senior official attached to the NIA in Delhi too said the Home Ministry had not approached them to probe the blast , in which two persons were killed .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Home Ministry:73"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/no-decision-on-nia-role/article6479936.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "BJP", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "Union government", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "67", 
+            "Others"
+        ]
+    ]
+}

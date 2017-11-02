@@ -1,0 +1,174 @@
+{
+    "LOC": [
+        [
+            "Shingaar Cinema", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Punjab", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Shingaar cinema", 
+            "76", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "113", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "134", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "147", 
+            "Neutral"
+        ], 
+        [
+            "Ludhiana", 
+            "150", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "204", 
+            "Event"
+        ], 
+        [
+            "Jalandhar", 
+            "206", 
+            "Neutral"
+        ], 
+        [
+            "Kapurthala", 
+            "208", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "234", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "239", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Gurpreet Singh", 
+            "41", 
+            "Accused"
+        ], 
+        [
+            "Pappu", 
+            "44", 
+            "Accused"
+        ], 
+        [
+            "Sandeep", 
+            "46", 
+            "Accused"
+        ], 
+        [
+            "Ravinder", 
+            "48", 
+            "Accused"
+        ], 
+        [
+            "Rinku", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "Gurpreet", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "Rinku", 
+            "69", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:6", 
+        "October 14:152"
+    ], 
+    "death": "", 
+    "title": "Punjab cops nab 4, claim Ludhiana blast case solved", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Chandigarh : Punjab police on Sunday claimed to have cracked the Shingaar Cinema blast case with the arrest of four people including the man who police claim is the prime accused . . . The police arrested four people - Gurpreet Singh , Pappu , Sandeep and Ravinder alias Rinku from different places in Punjab . . . According to the police while Gurpreet is the key accused Rinku had planted the explosive device inside Shingaar cinema . . . Five kg RDX , three detonators , two pistols and one gun have been recovered from the extremists linked to Babbar Khalsa International . . . Police claim they received training in Pakistan and were foreign funded and also had plans to train more people to carry out extremist and disruptive activities in Punjab and other states . . . The Shingaar cinema blasts rocked the Punjab town of Ludhiana on October 14 , killing six people and injuring 33 . A Bhojpuri movie show was on and the cinema hall was packed to capacity . . . The week-long investigation was conducted by teams of the Intelligence Bureau , RAW , Uttar Pradesh Police and special teams of the Punjab Police from Ludhiana , Jalandhar and Kapurthala districts at the Ludhiana Police Lines . . . Police say the explosives used to trigger off the blasts were smuggled from Pakistan from the Rajasthan border and distributed across Punjab . . . Police sources say the arrests were enabled after the girlfriend of one of the arrested youth disclosed information pertaining to the blasts . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Punjab", 
+        "Ludhiana", 
+        "Ludhiana", 
+        "Ludhiana,Shingaar cinema"
+    ], 
+    "O": [
+        "Police:107", 
+        "Intelligence Bureau:188"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/ludhiana-2-279385.html", 
+    "date": "25-12-2007", 
+    "target": "", 
+    "hot_spot": "Ludhiana,Shingaar cinema", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "RDX", 
+        "DETONATORS", 
+        "PISTOLS", 
+        "GUN"
+    ], 
+    "ORG": [
+        [
+            "Punjab police", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Babbar Khalsa International", 
+            "101", 
+            "Others"
+        ], 
+        [
+            "Uttar Pradesh Police", 
+            "193", 
+            "Others"
+        ], 
+        [
+            "Punjab Police", 
+            "201", 
+            "Others"
+        ], 
+        [
+            "Ludhiana Police", 
+            "212", 
+            "Others"
+        ]
+    ]
+}

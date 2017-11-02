@@ -1,0 +1,132 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "147", 
+            "Event"
+        ], 
+        [
+            "Birbhum", 
+            "181", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh .", 
+            "231", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Hashem Moulla", 
+            "143", 
+            "Victim"
+        ], 
+        [
+            "Subhan", 
+            "243", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:9", 
+        "October 2:33", 
+        "Wednesday:128", 
+        "October 2:239"
+    ], 
+    "death": "2", 
+    "title": "IEDs seized from Bardhaman blast suspects house", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "JAMAAT-UL-MUJAHIDEEN BANGLADESH "
+    ], 
+    "content": "The National Investigation Agency -LRB- NIA -RRB- on Thursday seized a sack containing about 40 improvised explosive devices from the house of a suspect wanted in connection with the Bardhaman blast on October 2 . . . The NIA officers are being assisted by the National Security Guard team in safe disposal of the devices , as the house is located in a thickly-populated area , said a senior NIA official . A hunt has been launched for the suspect , who went missing after the blast . . . The suspects house , which has been cordoned off for gathering forensic evidence , is located close to the building where the explosion took place , killing two alleged members of Jamaat-ul-Mujahideen Bangladesh . . . On Wednesday , the NIA had searched the residence and shop belonging to the accused , Hashem Moulla , in Bardhaman , lifted swabs of explosive traces from a vehicle belonging to the owner of the house where the blast took place and seized a laptop . The agency also summoned another suspect from Birbhum and seized a computer from a shop there . . . According to agency sources , the Jamaat extremists involved in the case were part of a larger conspiracy to destabilise the incumbent Sheikh Hasina-led Bangladesh government . Some of the arrested persons have turned out to be from Bangladesh . One of those killed in the October 2 blast -LSB- Subhan -RSB- was also a Bangladeshi national , said an officer .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "O": [
+        "forensic:102"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/ieds-seized-from-bardhaman-blast-suspects-house/article6508835.ece", 
+    "date": "16-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "70", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen Bangladesh", 
+            "122", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "Jamaat", 
+            "199", 
+            "Accused"
+        ], 
+        [
+            "Sheikh Hasina-led Bangladesh government", 
+            "215", 
+            "Others"
+        ], 
+        [
+            "Bangladeshi national", 
+            "248", 
+            "Victim"
+        ]
+    ]
+}

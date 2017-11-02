@@ -1,0 +1,127 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Bengpukhuri", 
+            "54", 
+            "Neutral"
+        ], 
+        [
+            "Tinsukia", 
+            "57", 
+            "Event"
+        ], 
+        [
+            "Athgaon", 
+            "80", 
+            "Event"
+        ], 
+        [
+            "Fatasil Ambari", 
+            "98", 
+            "Event"
+        ], 
+        [
+            "Tinsukhia", 
+            "136", 
+            "Event"
+        ], 
+        [
+            "cinema hall", 
+            "159", 
+            "Neutral"
+        ], 
+        [
+            "Uchumati", 
+            "162", 
+            "Event"
+        ], 
+        [
+            "Doomdooma", 
+            "164", 
+            "Event"
+        ], 
+        [
+            "Devipukhuri Tinali", 
+            "184", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "198", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "223", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "evening : 25", 
+        "1745 hrs : 188"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:24", 
+        "October 1:124"
+    ], 
+    "death": "2", 
+    "title": "Serial blasts rip through Assam, two killed", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "New Delhi : At least two people were reportedly killed and 18 were injured in three near-simultaneous blasts that ripped through Assam on Sunday evening . . . According to security officials , the blasts were suspected to have been triggered by rebel outfit ULFA . . . Maximum damage were reported from Bengpukhuri area in Tinsukia town where one person was killed and 16 injured when a car bomb exploded . . . The second blast ripped through Athgaon area killing one person and injuring two others . . . The third explosion took place in Fatasil Ambari area of the city but there was no report of any casualty.This is the second such attack in less than two months . On October 1 , ULFA triggered powerful bomb explosions at three places in Tinsukhia , leaving four persons dead and 31 injured.Two people were killed when a powerful bomb blew up a motorcycle parked near a cinema hall at Uchumati in Doomdooma town of the district.Fourteen passersby were injured in the blast , officials said . Another bomb explosion occurred near Devipukhuri Tinali at around 1745 hrs ( IST ) near an electric transformer in Tinsukia town , killing two persons and leaving 17 injured , they said.The victims were declared brought dead in the Assam Medical College Hospital at Dibrugarh . . . .", 
+    "injured": "18", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Tinsukia", 
+        "guwahati", 
+        "Bengpukhuri"
+    ], 
+    "O": [
+        "motorcycle:155"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/serial-blasts-rip-through-assam-two-killed-277095.html", 
+    "date": "25-11-2007", 
+    "target": "", 
+    "hot_spot": "Bengpukhuri", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "127", 
+            "Accused"
+        ], 
+        [
+            "Assam Medical College Hospital", 
+            "218", 
+            "Others"
+        ]
+    ]
+}

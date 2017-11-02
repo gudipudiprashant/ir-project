@@ -1,0 +1,153 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "2", 
+            "Neutral"
+        ], 
+        [
+            "GUWAHATI", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Borjhar", 
+            "177", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "179", 
+            "Neutral"
+        ], 
+        [
+            "Dispur", 
+            "204", 
+            "Neutral"
+        ], 
+        [
+            "Panabazar", 
+            "230", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "308", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "12-hour : 70"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "AUG. 18 : 14", 
+        "August 15:49"
+    ], 
+    "death": "", 
+    "title": "Assam bandh near-total", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "National Assam bandh near-total . . By Sushanta Talukdar . . GUWAHATI , AUG. 18 . Assam today observed a near-total bandh to protest against the killing of schoolchildren in a bomb blast by the banned United Liberation Front of Asom -LRB- ULFA -RRB- in Dhemaji district on August 15 . There were no reports of any violence , barring a few incidents of stonethrowing . . . The 12-hour bandh , called separately by the All-Assam Students ' Union and the State unit of the CPI -LRB- M -RRB- , evoked a spontaneous response . The Opposition Asom Gana Parishad also supported the bandh . . . Life came to a standstill in the Brahmaputra Valley with traders downing their shutters ; education institutions , banks and other financial institutions remained closed . . . The roads in the city and districts wore a deserted look with public and private vehicles remaining off the road . Although trains and flights were running normally , passengers were stranded at the Lokapriya Gopinath Bardoloi International Airport at Borjhar and Guwahati railway stations as no taxis or other public transport was available . . . Attendance in Government offices , particularly the State Secretariat at Dispur , was thin . The State-run Assam Transport Corporation did not ply any buses in the city . . . Students burnt tyres in the Panabazar locality to prevent the movement of vehicles . Police made preventive arrests of about 20 AASU leaders and activists last night and released them this evening . . . Condemning the ULFA for the attack on the schoolchildren , the AASU held the State Government responsible for their deaths . . . The student body accused the State Government of failing to protect the lives and property of the people and demanded that the Chief Minister , Tarun Gogoi , resign owning moral responsibility .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhemaji", 
+        "GUWAHATI", 
+        "Dhemaji"
+    ], 
+    "O": [
+        "Police:239", 
+        "Chief Minister:305"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2004/08/19/stories/2004081909181100.htm", 
+    "date": "15-08-2004", 
+    "target": "", 
+    "hot_spot": "Dhemaji", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "43", 
+            "Accused"
+        ], 
+        [
+            "All-Assam Students ' Union and the State unit", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "87", 
+            "Others"
+        ], 
+        [
+            "Opposition Asom Gana Parishad", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "Lokapriya Gopinath Bardoloi International Airport", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "Assam Transport Corporation", 
+            "211", 
+            "Others"
+        ], 
+        [
+            "AASU", 
+            "246", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "262", 
+            "Accused"
+        ], 
+        [
+            "AASU", 
+            "271", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "274", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "288", 
+            "Others"
+        ]
+    ]
+}

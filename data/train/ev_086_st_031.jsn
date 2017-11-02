@@ -1,0 +1,128 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "83", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "161", 
+            "Event"
+        ], 
+        [
+            "U.S.", 
+            "302", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "304", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "D. Raja", 
+            "150", 
+            "Others"
+        ], 
+        [
+            "P. Chidambaram", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "Chidambaram", 
+            "184", 
+            "Others"
+        ], 
+        [
+            "Raja", 
+            "245", 
+            "Others"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "251", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "night : 164"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:5", 
+        "Wednesday:163"
+    ], 
+    "death": "", 
+    "title": "Left parties condemn Mumbai blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Left parties on Thursday strongly condemned the Mumbai serial blasts and rued the governments inability to track down the perpetrators of recent terror strikes . . . It is disturbing that the forces behind the recent bomb blasts in different parts of the country have not been identified and apprehended . No efforts should be spared to track down the culprits of the Mumbai blasts , the Communist Party of India -LRB- Marxist -RRB- Polit Bureau said in a statement in New Delhi . . . In the same vein , the Communist Party of India Central Secretariat said this was not the first time that such blasts have taken place . This is clear evidence that the government is unable to trace the perpetrators through its intelligence agencies . Therefore the Centre should take appropriate measures to track down the terrorists . . . Senior CPI leader D. Raja , who visited a blast site and hospitals in Mumbai on Wednesday night , accused Union Home Minister P. Chidambaram of continuously failing at maintaining peace . . . Observing that Mr. Chidambaram was resorting to rhetoric than action , he said though the internal security issue has been debated many times in Parliament , no decision to strengthen the security apparatus seems to have been implemented . Security agencies might have slackened their alertness . If lapses are found , action should be taken to plug the loopholes . . . Mr. Raja also criticised Congress general secretary Rahul Gandhi for his reported statement that 99 per cent of terror attacks have been thwarted . . . Such casual and callous remarks should not be made . One should be more serious while commenting on such sensitive incidents , he said , adding that Mr. Gandhis comments on the U.S. and Afghanistan raises questions as to whether he knows what he is talking about .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "O": [
+        "governments:15", 
+        "Union Home Minister:167"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/article2226998.ece", 
+    "date": "14-07-2011", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Communist Party of India", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "Polit Bureau", 
+            "76", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "94", 
+            "Others"
+        ], 
+        [
+            "Central Secretariat", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "148", 
+            "Others"
+        ]
+    ]
+}

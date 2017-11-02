@@ -1,0 +1,122 @@
+{
+    "LOC": [
+        [
+            "Upper Assam", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Sivasagar", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Sivasagar", 
+            "39", 
+            "Event"
+        ], 
+        [
+            "Sonari", 
+            "94", 
+            "Event"
+        ], 
+        [
+            "Central Market", 
+            "109", 
+            "Event"
+        ], 
+        [
+            "Sivasagar", 
+            "115", 
+            "Event"
+        ], 
+        [
+            "Sivasagar", 
+            "134", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "183", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "A K Singh", 
+            "41", 
+            "Comment"
+        ], 
+        [
+            "Lulu Das", 
+            "143", 
+            "Victim"
+        ], 
+        [
+            "Das", 
+            "160", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "night : 29", 
+        "9 pm .:36"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:28"
+    ], 
+    "death": "1", 
+    "title": "Assam: ULFA blast kills1", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Sivasagar", 
+        "Sivasagar", 
+        "Sivasagar"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "One person was killed and seven were injured , three of them seriously , in a powerful explosion that rocked the Upper Assam town of Sivasagar on Monday night . The explosion occurred at around 9 pm . Sivasagar SP A K Singh blamed the anti-talk faction of the United Liberation Front of Asom ( ULFA ) for it . . . It is the handiwork of the ULFA which has been trying to cause mischief in the district in the past few weeks . They had recently triggered off an explosion in Sonari town too , the SP said . The explosion that occurred in the busy Central Market in the heart of Sivasagar town was caused by a device that was apparently kept on a bicycle . . . Reports from Sivasagar said the dead has been identified as one Lulu Das , a shopkeeper who was just coming out after shutting down his shop . While Das died on the way to the hospital , two of the injured have been shifted to the Assam Medical College Hospital in Dibrugarh . . . .", 
+    "injured": "7", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "SP:99"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indianexpress.com/article/news-archive/web/assam-ulfa-blast-kills-1/", 
+    "date": "24-09-2012", 
+    "target": "", 
+    "hot_spot": "Sivasagar", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "69", 
+            "Accused"
+        ], 
+        [
+            "Assam Medical College Hospital", 
+            "178", 
+            "Others"
+        ]
+    ]
+}

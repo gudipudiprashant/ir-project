@@ -1,0 +1,452 @@
+{
+    "LOC": [
+        [
+            "Gujarat", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "118", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "130", 
+            "Accused"
+        ], 
+        [
+            "Gujarat", 
+            "133", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "146", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "165", 
+            "Event"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "215", 
+            "Accused"
+        ], 
+        [
+            "New Delhi", 
+            "218", 
+            "Accused"
+        ], 
+        [
+            "Karnataka", 
+            "221", 
+            "Accused"
+        ], 
+        [
+            "Jaipur", 
+            "248", 
+            "Assoc_Event"
+        ], 
+        [
+            "Hyderabad", 
+            "250", 
+            "Assoc_Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "252", 
+            "Assoc_Event"
+        ], 
+        [
+            "Hyderabad", 
+            "275", 
+            "Event"
+        ], 
+        [
+            "Pakistan-based", 
+            "304", 
+            "Source"
+        ], 
+        [
+            "Pakistan", 
+            "328", 
+            "Source"
+        ], 
+        [
+            "Mumbai-based", 
+            "358", 
+            "Accused"
+        ], 
+        [
+            "Kerala", 
+            "427", 
+            "Source"
+        ], 
+        [
+            "Halol", 
+            "440", 
+            "Source"
+        ], 
+        [
+            "Gujarat", 
+            "443", 
+            "Assoc_Event"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "485", 
+            "Accused"
+        ], 
+        [
+            "Ahmedabad", 
+            "572", 
+            "Event"
+        ], 
+        [
+            "Halol", 
+            "587", 
+            "Source"
+        ], 
+        [
+            "Vadodara", 
+            "590", 
+            "Source"
+        ], 
+        [
+            "Ahmedabad", 
+            "599", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "624", 
+            "Accused"
+        ], 
+        [
+            "Vadodara", 
+            "835", 
+            "Accused"
+        ], 
+        [
+            "Ahmedabad", 
+            "839", 
+            "Accused"
+        ], 
+        [
+            "Surat", 
+            "898", 
+            "Event"
+        ], 
+        [
+            "Surat", 
+            "909", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mufti Abu Bashir", 
+            "32", 
+            "Accused"
+        ], 
+        [
+            "Mufti Abu Bashir", 
+            "85", 
+            "Accused"
+        ], 
+        [
+            "P C Pande", 
+            "95", 
+            "Comment"
+        ], 
+        [
+            "Pande", 
+            "278", 
+            "Comment"
+        ], 
+        [
+            "Bashir", 
+            "281", 
+            "Accused"
+        ], 
+        [
+            "Pande", 
+            "307", 
+            "Comment"
+        ], 
+        [
+            "Pande", 
+            "394", 
+            "Comment"
+        ], 
+        [
+            "Safdar Nagori", 
+            "474", 
+            "Accused"
+        ], 
+        [
+            "Pande", 
+            "560", 
+            "Comment"
+        ], 
+        [
+            "Safdar Nagori", 
+            "584", 
+            "Accused"
+        ], 
+        [
+            "Ashish Bhatia", 
+            "603", 
+            "Comment"
+        ], 
+        [
+            "Nagori", 
+            "620", 
+            "Accused"
+        ], 
+        [
+            "Abu Bashir", 
+            "677", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Bhatia", 
+            "703", 
+            "Comment"
+        ], 
+        [
+            "Bhatia", 
+            "812", 
+            "Comment"
+        ], 
+        [
+            "Jahid Sheikh", 
+            "848", 
+            "Accused"
+        ], 
+        [
+            "Yunus Mansuri", 
+            "851", 
+            "Accused"
+        ], 
+        [
+            "Shamsuddin Sheikh", 
+            "854", 
+            "Accused"
+        ], 
+        [
+            "Arif Kadri", 
+            "857", 
+            "Accused"
+        ], 
+        [
+            "Gyasuddin", 
+            "860", 
+            "Accused"
+        ], 
+        [
+            "Imran", 
+            "862", 
+            "Accused"
+        ], 
+        [
+            "Usman Agarbattiwala", 
+            "864", 
+            "Accused"
+        ], 
+        [
+            "Iqbal Sheikh", 
+            "867", 
+            "Accused"
+        ], 
+        [
+            "Sajid Mansuri", 
+            "870", 
+            "Accused"
+        ], 
+        [
+            "Sajid", 
+            "870", 
+            "Accused"
+        ], 
+        [
+            "Pande", 
+            "886", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:4", 
+        "July 26:78", 
+        "August 2007:293", 
+        "2006:429", 
+        "January:445", 
+        "March:488", 
+        "January 2008:592", 
+        "March 2008:628", 
+        "2008:629", 
+        "April:655", 
+        "May:657", 
+        "June:659", 
+        "July 20:668"
+    ], 
+    "death": "", 
+    "title": "Gujarat cops crack serial blasts case", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA", 
+        "INDIAN MUJAHIDEEN", 
+        "STUDENTS ISLAMIC MOVEMENT OF INDIA"
+    ], 
+    "content": "Gujarat Police on Saturday claimed to have busted a pan-India network behind the serial blasts in Ahmedabad and other cities in the country with the arrest of 10 people , including Mufti Abu Bashir -- described as the mastermind behind the explosions . . . Rediff.com broke this news first : Breakthrough in Ahmedabad blasts case . . ` We have almost entirely solved the case . We have arrested 10 people who were involved in the July 26 blasts including the mastermind , Mufti Abu Bashir , ' Gujarat Director General of Police P C Pande said . . . He said most of the arrested persons were part of the banned Students Islamic Movement of India and Bashir , picked up in a joint operation by the Uttar Pradesh and Gujarat Police , had planned out the entire blasts . . . In India , we do n't catch terrorists . . The Indian Mujahideen , which had claimed responsibility for the Ahmedabad blasts , was nothing but ` another form ' of the banned SIMI , he said.Though refusing to give details about other arrested persons , he , however , said that the investigations into the blasts were carried out in a number of states , which included UP , Madhya Pradesh , New Delhi and Karnataka . . . ` In no previous blasts , has the case being completely solved . These arrests may give leads to other blasts that including Jaipur , Hyderabad and Uttar Pradesh , ' the police chief claimed . . . The one billion + cannon-fodder . . Throwing fresh leads to the Hyderabad blasts , Pande claimed that Bashir had stayed in that city for two years prior to the August 2007 blasts . . . About SIMI 's involvement with Pakistan-based Lashker-e-Tayiba , Pande said there had been some leads establishing the same . . . ` One may find links between SIMI-LeT and Pakistan 's ISI as the investigation proceeds , ' he said . . . ISI 's Indianisation of jihad . . The police was also on a look out for Mumbai-based Wipro engineer , alleged to be the co-conspirator in the blasts and his role in sending the email minutes before the blasts was not ruled out . . . Commenting about the Indian Mujahideen , Pande told reporters that it was nothing but an off-shoot created by the hardliners in the SIMI . . . Police said the SIMI cadres were given arms training in the jungles of Kerala in 2006 , which was followed by another round of training at Halol in central Gujarat in January this year . . . ` Terrorism and riots are not interlinked ' . . The arrested militants had made several plans to kidnap or hijack to free Safdar Nagori , an alleged top SIMI activist , arrested in Madhya Pradesh in March this year . . . Later it was decided to carry out a revenge attack as they failed to secure his release legally or through any other nefarious plan . ` Arrest of a mastermind in the city 's serial blasts case is a very important event and we believe that it will uncover many unsolved links to bomb blasts that took place in other parts of the country , ' Pande said . . . The plan for the bomb blasts in Ahmedabad was worked out at a training camp held by SIMI leader Safdar Nagori in Halol taluka of Vadodara in January 2008 , Joint Police Commissioner -LRB- Ahmedabad crime branch -RRB- Ashish Bhatia said . . . Investigators say Indian Mujahideen is SIMI , V2 .0 . . Nagori was arrested by Madhya Pradesh police in March 2008 . . . According to Bhatia , a series of meetings were held to plan the bomb blasts in the city in the month of April , May and June , while the final meeting was held on July 20 , in the city . . . Abu Bashir and other suspects arrested by the police were present in all these meetings where they designed the strategy for execution of their masterplan , Bhatia said , who is also heading the investigations into the serial blasts . . . During the meetings , the suspects had planned details of how , when and where the blasts will occur and also assigned specific duties to each person , he added . . . ` The blasts are a proclamation by terrorists ' . . ` Their strategy was to place small explosives in different places to create panic among people . And then have a powerful explosion at a hospital , where all those injured in the small explosions would be rushing to . So they targeted the city civil hospital , ' Bhatia said . . . The details of the planning were divulged by nine persons arrested by the police , including four from Vadodara and five from Ahmedabad , he added.The nine persons arrested are - Jahid Sheikh , Yunus Mansuri , Shamsuddin Sheikh , Arif Kadri , Gyasuddin , Imran , Usman Agarbattiwala , Iqbal Sheikh and Sajid Mansuri -- all in the age group of 20-25 , police said . . . Pande said that the same persons were involved in planting bombs in Surat . Nearly two dozens of live bombs were planted in Surat city , which were defused . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "pan-India network:10", 
+        "mastermind:39", 
+        "jihad:346", 
+        "co-conspirator:366", 
+        "hijack:471", 
+        "nefarious:516", 
+        "billion +:265", 
+        "indianisation:344", 
+        "hardliners:407", 
+        "taluka:588", 
+        "police commissioner:596", 
+        "crime branch:600", 
+        "investigations:711", 
+        "panic:776", 
+        "explosions:797"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2008/aug/16ahd.htm", 
+    "date": "26-07-2008", 
+    "target": "CITIZENS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Rediff.com", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "114", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "156", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "178", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "300", 
+            "Accused"
+        ], 
+        [
+            "Lashker-e-Tayiba", 
+            "305", 
+            "Accused"
+        ], 
+        [
+            "SIMI-LeT", 
+            "326", 
+            "Assoc_Accused"
+        ], 
+        [
+            "ISI", 
+            "330", 
+            "Assoc_Accused"
+        ], 
+        [
+            "ISI", 
+            "342", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Wipro", 
+            "359", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "391", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "410", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "417", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "480", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "582", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "611", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "614", 
+            "Accused"
+        ], 
+        [
+            "city civil hospital", 
+            "807", 
+            "Victim"
+        ]
+    ]
+}

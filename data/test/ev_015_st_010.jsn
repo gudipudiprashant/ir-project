@@ -1,0 +1,205 @@
+{
+    "LOC": [
+        [
+            "Dimapur", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "Nagaland", 
+            "46", 
+            "Neutral"
+        ], 
+        [
+            "railway station", 
+            "96", 
+            "Event"
+        ], 
+        [
+            "Dimapur", 
+            "132", 
+            "Event"
+        ], 
+        [
+            "Nagaland", 
+            "142", 
+            "Neutral"
+        ], 
+        [
+            "Kohima", 
+            "144", 
+            "Neutral"
+        ], 
+        [
+            "railway station", 
+            "182", 
+            "Neutral"
+        ], 
+        [
+            "Dimapur", 
+            "202", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "246", 
+            "Neutral"
+        ], 
+        [
+            "British", 
+            "292", 
+            "Neutral"
+        ], 
+        [
+            "trauma", 
+            "325", 
+            "Neutral"
+        ], 
+        [
+            "Dimapur", 
+            "350", 
+            "Neutral"
+        ], 
+        [
+            "Nagaland", 
+            "357", 
+            "Neutral"
+        ], 
+        [
+            "Nagaland", 
+            "411", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "475", 
+            "Neutral"
+        ], 
+        [
+            "western Assam", 
+            "513", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "582", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "T. Zheviho", 
+            "89", 
+            "Comment"
+        ], 
+        [
+            "Zheviho", 
+            "126", 
+            "Comment"
+        ], 
+        [
+            "V. Peseyie", 
+            "199", 
+            "Comment"
+        ], 
+        [
+            "Mahatma Gandhi", 
+            "281", 
+            "Others"
+        ], 
+        [
+            "T. Lotha", 
+            "343", 
+            "Comment"
+        ], 
+        [
+            "Neibhiu Rio", 
+            "360", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2 : 1", 
+        "Saturday : 25", 
+        "1947 : 296", 
+        "1997 : 471", 
+        "August 15 : 583"
+    ], 
+    "death": "27", 
+    "title": "27 killed in bomb blasts in northeast India", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "October 2 ( AFP ) - At least 27 people were killed and 93 wounded , many critically , in four powerful bomb blasts Saturday in revolt-racked northeast India , police said . . . Three blasts occurred in Dimapur , the commercial hub of Nagaland , killing 21 people in what the states chief minister called the `` worst ever terrorist strike '' in the tiny states history . . . `` There were limbs everywhere and blood was splattered all over , '' said student leader T. Zheviho who was at a crowded railway station where one bomb exploded as passengers awaited a train . Two other bombs blew up in markets . . . `` I had a miraculous escape , '' Zheviho told AFP by telephone from Dimapur , 70 kilometers ( 45 miles ) east of Nagaland capital Kohima . . . Police said the plastic explosive RDX appeared to have been used in the railway blast and were probing the nature of the market bombs . . . `` We found a briefcase at the railway station with fuse wires . First findings show it contained RDX and a timer-device , '' V. Peseyie , Dimapur additional police chief , said . . . There were no immediate claims of responsibility for the explosions in the revolt-infested northeast where some 30 guerrilla groups are battling for greater autonomy or independence . . . A bomb also exploded in neighbouring Assam , killing one person and injuring seven but police said the attacks did not seem to be linked . . . The blasts occurred as India marked the 135th anniversary of the birth of Mahatma Gandhi who led the successful drive to win independence from British colonial rule in 1947 . . . Nagalands ill-equipped hospitals battled to treat the wounded . . . `` Many have multiple face and abdomen wounds . Theyre in a state of trauma . Were trying to cope . Weve never had such a devastating emergency , '' said doctor T. Lotha at a private hospital in Dimapur treating blast victims . . . Nagaland Chief Minister Neibhiu Rio said the death toll from the bombs totalled at least 26 and another 86 were in hospital . `` The death toll may go up as many are in a very critical condition , '' he said . . . `` This is the worst ever terrorist strike in Nagaland . People are still dealing with the shock theyre not yet thinking about who to blame . '' . . The bomb attacks shattered the relative calm of the mainly farming state of two million where a truce has been in effect with Nagalands largest separatist group , the National Socialist Council of Nagaland ( NSCN ) , in 1997 . . . New Delhi and the NSCN have been holding talks aimed ending nearly six decades of insurgency in the state . Two rival factions of the NSCN denied involvement in the attack . . . In the blast in western Assam , `` one man died and seven were wounded , '' a police official told AFP . . . It was the second major burst of violence in two-and-a-half months in the northeast where some 30 guerrilla groups are battling for greater autonomy or independence . . . Fifteen were killed , many of them children , in a rebel attack on an Independence Day parade in Assam August 15 for which the United Liberation Front of Asom claimed responsibility . . . More than 50,000 people have died in Indias northeast since independence in fighting between security forces and rebel groups , who say their cultures and the regions resources are under threat from outsiders .", 
+    "injured": "93", 
+    "det_loc": [
+        "India", 
+        "Nagaland", 
+        "Dimapur", 
+        "Dimapur", 
+        "Dimapur"
+    ], 
+    "O": [
+        "Police:148", 
+        "timer-device:196", 
+        "Independence Day:578"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.island.lk/2004/10/03/news12.html", 
+    "date": "02-10-2004", 
+    "target": "", 
+    "hot_spot": "Dimapur", 
+    "delivery_mod": "BRIEFCASE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "AFP", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "128", 
+            "Others"
+        ], 
+        [
+            "National Socialist Council of Nagaland", 
+            "461", 
+            "Accused"
+        ], 
+        [
+            "NSCN", 
+            "467", 
+            "Accused"
+        ], 
+        [
+            "NSCN", 
+            "479", 
+            "Accused"
+        ], 
+        [
+            "NSCN", 
+            "500", 
+            "Accused"
+        ], 
+        [
+            "AFP", 
+            "530", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "588", 
+            "Accused"
+        ]
+    ]
+}

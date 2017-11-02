@@ -1,0 +1,172 @@
+{
+    "LOC": [
+        [
+            "Rajdhani Express", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Dimapur", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "129", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "154", 
+            "Neutral"
+        ], 
+        [
+            "Sungajan", 
+            "193", 
+            "Accused"
+        ], 
+        [
+            "Maligaon", 
+            "206", 
+            "Neutral"
+        ], 
+        [
+            "Nagaland", 
+            "259", 
+            "Neutral"
+        ], 
+        [
+            "Morioni", 
+            "289", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "293", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shivraj Patil", 
+            "45", 
+            "Comment"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "121", 
+            "Comment"
+        ], 
+        [
+            "Trikalagya Rabha", 
+            "207", 
+            "Comment"
+        ], 
+        [
+            "Satyaprakash Rai", 
+            "215", 
+            "Accused"
+        ], 
+        [
+            "Sudama Rai", 
+            "221", 
+            "Accused"
+        ], 
+        [
+            "Lakshman Rai", 
+            "227", 
+            "Accused"
+        ], 
+        [
+            "A K Sah", 
+            "233", 
+            "Accused"
+        ], 
+        [
+            "D Prasad", 
+            "240", 
+            "Accused"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "296", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "morning : 21"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "5", 
+    "title": "5 killed in Rajdhani Express blast, Patil condemns explosion", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "ALL ADIVASI NATIONAL LIBERATION ARMY"
+    ], 
+    "content": "Guwahati , Dec 13 ( UNI ) At least five people were killed and around ten injured in an early morning blast today in the Rajdhani Express near Dimapur set off by suspected Adivasi militants . . . In New Delhi , Home Minister Shivraj Patil condemned the blast and assured all possible help to the state government in tackling such terror attacks . . . Expressing anguish over the blast and conveying his sympathies to the victims and their families , the Home Minister said the Centre would provide all necessary assistance to the state government and Railways to take steps to provide protection to passengers and see that such incidents do not recur . . . Home Secretary Madhukar Gupta spoke to the Chief Secretary of Assam to get details of the incident . . . Train services , however , resumed later on the route while the train proceeded towards New Delhi after the damaged rake was detached from the train . . . As a precautionary measure , security had been stepped up in all sections following the blast suspected to be triggered by alleged Adivasi militants at Sungajan . . . North East Frontier Railway spokesman from the headquarters at Maligaon Trikalagya Rabha said the deceased were identified as Satyaprakash Rai ( 45 ) , Sudama Rai ( 45 ) , Lakshman Rai ( 44 ) , A K Sah ( 20 ) and D Prasad ( 19 ) . The four seriously injured people were admitted to the Dimapur Civil Hospital in Nagaland . . . According to a police source , a programmable timed device was placed in the parcel van of the train by some unknown passengers who alighted at Morioni . . . Assam Chief Minister Tarun Gogoi also condemned the incident . . . .", 
+    "injured": "10", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "guwahati", 
+        "Rajdhani Express near Dimapur"
+    ], 
+    "O": [
+        "Home Minister:84", 
+        "parcel van:277", 
+        "train:281", 
+        "Chief Minister:294"
+    ], 
+    "unexpl": [
+        "TIMED DEVICE"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/2007/12/13/5-killed-in-rajdhani-express-blast-patil-condemns-explosion-1197560429.html", 
+    "date": "13-12-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "Rajdhani Express near Dimapur", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Adivasi", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "state government", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "96", 
+            "Others"
+        ], 
+        [
+            "Adivasi", 
+            "190", 
+            "Accused"
+        ], 
+        [
+            "North East Frontier Railway", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "Dimapur Civil Hospital", 
+            "255", 
+            "Others"
+        ]
+    ]
+}

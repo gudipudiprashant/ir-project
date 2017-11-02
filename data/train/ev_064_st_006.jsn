@@ -1,0 +1,146 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "325", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "403", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "430", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "440", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "474", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "489", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "495", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "502", 
+            "Event"
+        ], 
+        [
+            "Bombay", 
+            "509", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Santosh Raphod", 
+            "37", 
+            "Comment"
+        ], 
+        [
+            "Raphod", 
+            "129", 
+            "Comment"
+        ], 
+        [
+            "Raphod", 
+            "186", 
+            "Comment"
+        ], 
+        [
+            "Raphod", 
+            "262", 
+            "Comment"
+        ], 
+        [
+            "Raphod", 
+            "365", 
+            "Comment"
+        ], 
+        [
+            "Raphod", 
+            "385", 
+            "Comment"
+        ], 
+        [
+            "Raphod", 
+            "412", 
+            "Comment"
+        ], 
+        [
+            "Raphod", 
+            "480", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "6:30 p.m. : 110", 
+        "7 p.m. : 113", 
+        "three hours : 380"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 47", 
+        "Wednesday : 66", 
+        "Wednesday : 392", 
+        "1995 : 511"
+    ], 
+    "death": "200", 
+    "title": "'Everything was blacked out': Mumbai blast survivor", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A survivor of the bombings on the rail system in India 's largest city says a blast damaged his train car so badly that he was amazed anyone got out in one piece . . . Santosh Raphod was on his way home from work during Tuesday 's rush hour in Mumbai when the carriage he was riding in exploded , he toldCBC News on Wednesday . . . It was one of eight blasts on the western port 's commuter train system that killedat least 200people and injured more than700 others . . . Train carriages alongthe city 's widely used western rail line were ripped open between 6:30 p.m. and 7 p.m. local time . No one has claimed responsibility for the attacks . . . Raphod said he was standing about three metresfrom the bomb when it exploded . . . `` I could n't hear the sound , I was very close to the bomb , '' he said . `` After a few seconds , everything was blacked out . All dust was all over us . '' . . Raphod said he realized a few seconds later that he was injured . . . `` My head was hit with a splinter . I was bleeding , '' he said . . . Bleeding from head , he stumbled out . . He said he did n't even realize he had been knocked down until another man told him . The pair made their way out of the train onto the tracks . . . Raphod said he was stunned by the state of the train car . . . `` It was totally broken down . I was surprised to see how people came out in one piece because the train was so badly damaged , '' he said . . . There was chaos in the neighbouring carriage , which was a ladies first-class compartment . Mumbai , likea number of other major cities in the world , offers women-only cars in response to complaints of groping and sexual harassment . . . `` There was panic . They were crying all around , '' said Raphod . . . He received several stitches in his head and remained in hospital three hours for observation . Raphod said he stayed home from work Wednesday because of `` terrible '' head pain . . . Mumbai needs rail system ` lifeline ' . . Raphod said he is concerned about future attacks , but said the commuter rail system is crucial to Mumbai because it is fast and inexpensive . . . Mumbai 's commuter rail line , whichcarries more than six million passengerseach day , is among the most crowded rail systems in the world . . . `` There is no alternative for [ Mumbai ) people , '' said Raphod . `` It is the lifeline of [ Mumbai ) . '' . . India 's financial and entertainment capital , Mumbai 's name was officially changed from Bombay in 1995 .", 
+    "injured": "700", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        "Mumbai"
+    ], 
+    "O": [
+        "train:272", 
+        "car:273"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.cbc.ca/news/world/everything-was-blacked-out-mumbai-blast-survivor-1.613416", 
+    "date": "11-07-2006", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

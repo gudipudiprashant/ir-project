@@ -1,0 +1,110 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Bamunimaidan", 
+            "152", 
+            "Event"
+        ], 
+        [
+            "Begusarai", 
+            "196", 
+            "Accused"
+        ], 
+        [
+            "Bihar", 
+            "198", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Tarun Gogoi", 
+            "76", 
+            "Comment"
+        ], 
+        [
+            "G P Singh", 
+            "48", 
+            "Others"
+        ], 
+        [
+            "Ram Lal Ram", 
+            "187", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "11.50 am : 146"
+    ], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0019", 
+    "content": "GUWAHATI : After a lull of about one month , rebels struck again in Guwahati by triggering a bomb blast that killed a 60-year-old man from Bihar and injured 20 on Saturday . Though no outfit claimed responsibility for the blast , DIG -LRB- central range -RRB- G P Singh did not rule out the possibility of Ulfa 's involvement in it . Terming the attack as a ` cowardice act ' , chief minister Tarun Gogoi asked security forces to step up counter-insurgency operations in the state . ` The government will deal with these forces -LRB- terrorists -RRB- with a firm hand . I appeal to all to stay united and cooperate with the government , ' he said . Cops said rebels placed a powerful IED in a van that had a logo of Indian Airlines . The explosion took place at 11.50 am at a market at Bamunimaidan . Three LPG cylinders at a shop also exploded due to the impact of the blast , setting fire to several shops in the crowded locality . The deceased was identified by cops as Ram Lal Ram . He was a native of Begusarai in Bihar and had been living in the city for a long time . Later , the driver of the van was detained . Though police identified the van owner , they declined to give details about him .", 
+    "death": "1", 
+    "title": "1 killed, 20 injured in Assam blast", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup Metropolitan", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        "LRB AND RRB"
+    ], 
+    "DAT": [
+        "Saturday:32"
+    ], 
+    "injured": "20", 
+    "org_unorg": "", 
+    "O": [
+        "bomb blast:19", 
+        "counter-insurgency operations:84", 
+        "hand:104", 
+        "government:117", 
+        "ied:129", 
+        "explosion:142", 
+        "locality:178", 
+        "native:194", 
+        "city:205"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/1-killed-20-injured-in-Assam-blast/articleshow/2330139.cms", 
+    "date": "01-09-2007", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "VAN", 
+    "delivery_met": "STORED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Ulfa", 
+            "58", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Indian Airlines", 
+            "138", 
+            "Others"
+        ]
+    ]
+}

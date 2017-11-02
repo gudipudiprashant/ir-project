@@ -1,0 +1,227 @@
+{
+    "LOC": [
+        [
+            "Srinagar", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "64", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "67", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "158", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "188", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "257", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "267", 
+            "Event"
+        ], 
+        [
+            "Washington", 
+            "304", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "352", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "359", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "372", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "423", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "446", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "460", 
+            "Accused"
+        ], 
+        [
+            "Carnegie Endowment", 
+            "467", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "482", 
+            "Event"
+        ], 
+        [
+            "Kashmir", 
+            "550", 
+            "Event"
+        ], 
+        [
+            "Washington", 
+            "558", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "586", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Jean-Marc de la Sabliere", 
+            "88", 
+            "Comment"
+        ], 
+        [
+            "David Mulford", 
+            "258", 
+            "Comment"
+        ], 
+        [
+            "Mulford", 
+            "394", 
+            "Comment"
+        ], 
+        [
+            "Khurshid Kasuri", 
+            "463", 
+            "Others"
+        ], 
+        [
+            "Mulford", 
+            "486", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "11 July 2006 : 70", 
+        "July:84", 
+        "Wednesday:94", 
+        "Tuesday:163", 
+        "Tuesday:470"
+    ], 
+    "death": "207", 
+    "title": "Assist India in fighting terror, UNSC tells nations", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "The United Nations Security Council has condemned ` in the strongest terms ' the deadly bombings in Srinagar and Mumbai that left over 200 dead and urged all countries to cooperate with Indian authorities in bringing the perpetrators to justice . . . ` The Security Council condemns in the strongest terms the series of bomb attacks that occurred in different parts of India , including Mumbai , on 11 July 2006 , ' a statement issued by the Council 's president for July , French Ambassador Jean-Marc de la Sabliere said on Wednesday . . . ` The Security Council underlines the need to bring the perpetrators , organizers , financiers , and sponsors of these reprehensible acts of terrorism to justice , and urges all States ... to cooperate actively with the Indian authorities in this regard , ' the statement approved by consensus said . . . A series of coordinated bomb blasts on Mumbai 's rail network on Tuesday killed 200 people and left 714 injured . At least seven people were killed and 37 injured in a string of grenade blasts in Srinagar on the same day . . . ` The Security Council reaffirms that terrorism in all its forms and manifestations constitutes one of the most serious threats to international peace and security , and that any acts of terrorism are criminal and unjustifiable , regardless of their motivation , wherever , whenever and by whomsoever committed , ' the statement said . . . The American Ambassador to India David Mulford has also strongly condemned the blasts in Mumbai and stressed that ` terrorism wherever it occurs is unacceptable ... and that we intend to continue to work together to counter those atrocious actions . ' . . The American envoy , who is visiting Washington , had a brief interaction with media persons at the United States Chamber of Commerce where he had come to meet members of the United States India Business Council . . . ' I also would like to particularly express my personal sympathies to the people of India , especially to the people of Mumbai ... and also to express my admiration for the big heart of Mumbai , their resilience and their willingness to get right back to business as usual ... That is very admirable , ' Mulford remarked . . . The American Ambassador took the opportunity to extend any assistance the Government of India may want in the investigations but added that agencies in India were themselves quite competent to go about the business in the aftermath of the blasts . But no request has come from New Delhi , he said . . . On the statement made by the Pakistan Foreign Minister Khurshid Kasuri at the Carnegie Endowment on Tuesday linking extremism to the settlement of ` real issues ' meaning Jammu and Kashmir , Mulford said : ` Obviously there are linkages there . We all know that and at this point it is a little early to be precise as to who did what in the attacks . I think that is also an issue for the Indian government to explore and come to its own determination . But I think in principle we all understand that Kashmir is a key issue . . . Washington will do what it takes to bring additional pressure on groups like the Lashkar-e-Tayiba , which has been identified in some quarters as perhaps being behind the Mumbai blasts , he added . .", 
+    "injured": "751", 
+    "org_unorg": "", 
+    "O": [
+        "all countries to cooperate:28", 
+        "bringing the perpetrators to justice:36", 
+        "series of bomb attacks:54", 
+        "french ambassador:86", 
+        "terrorism to justice:121", 
+        "coordinated bomb blasts:154", 
+        "mumbai 's rail network:158", 
+        "grenade blasts:185", 
+        "threats to international peace:215", 
+        "american ambassador:400"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/13mumblast.htm", 
+    "date": "11-07-2006", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Nations Security Council", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Security Council", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "The Security Council", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "The Security Council", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "United States Chamber of Commerce", 
+            "315", 
+            "Others"
+        ], 
+        [
+            "United States India Business Council", 
+            "329", 
+            "Others"
+        ], 
+        [
+            "Government of India", 
+            "410", 
+            "Others"
+        ], 
+        [
+            "Indian government", 
+            "530", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Tayiba", 
+            "572", 
+            "Accused"
+        ]
+    ]
+}

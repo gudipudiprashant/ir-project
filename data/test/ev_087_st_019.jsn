@@ -1,0 +1,158 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "54", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "619", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "731", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "758", 
+            "Neutral"
+        ], 
+        [
+            "Dhaka", 
+            "761", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "788", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "913", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Gajendra Gupta", 
+            "228", 
+            "Victim"
+        ], 
+        [
+            "Dhirendra Kumar", 
+            "318", 
+            "Victim"
+        ], 
+        [
+            "Sampoorna", 
+            "532", 
+            "Others"
+        ], 
+        [
+            "Rajeev", 
+            "602", 
+            "Comment"
+        ], 
+        [
+            "Afzal Guru", 
+            "653", 
+            "Others"
+        ], 
+        [
+            "Palaniappan Chidambaram", 
+            "676", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "723", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "half an hour : 88", 
+        "10:17 am : 170", 
+        "15 minutes : 344"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday : 5", 
+        "Wednesday : 25", 
+        "July 13 : 35", 
+        "Wednesday : 205", 
+        "2001 : 669", 
+        "July : 790"
+    ], 
+    "death": "", 
+    "title": "Terror Returns to Delhi", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "It was on a Wednesday less than two months ago that serial blasts shook Indias financial capital of Mumbai . And it was on Wednesday of this week , with the memories of that July 13 attack still fresh in the national psyche , that a deadly blast shook Indias national capital of Delhi , rattling not only the citys High Court , but also the confidence of a nation trying hard to fight the menace of terrorism . . . I reached the blast site within half an hour of the incident , and what I saw was complete chaos . Most of the injured and dead had been removed by that time , but some victims were still being hastily placed into ambulances while the police were cordoning off the area . . . The gate where the tragic incident took place is the main entry point for litigants seeking passes to enter the court premises , and its generally very crowded in the morning . At 10:17 am , when the bomb went off , there were around 100 people in the area , according to an eyewitness to whom I spoke . One of the lawyers informed me that since Wednesday is designated for hearing public interest cases , its always a busy day at the court . . . A lawyer , Gajendra Gupta , whose white shirt was stained with blood , told me the blast had taken place just as he was entering the building and that he had helped place the victims into the ambulances . It was a deafening noise and by the time I realized what had happened , I saw many injured and dead bodies strewn around me . I saw at least five or six dead bodies . . . Some people died on the spot and others were injured , said another eyewitness , Dhirendra Kumar , who had minor injuries on her hand . As I heard the blast , I stepped to the side and after 10 or 15 minutes , police came and took the injured to the hospital . . . This was the second blast to shake the Delhi High Court within the last four months . A low intensity bomb blast took place on May 25also a Wednesdaybut no one was hurt . . . Its a different story this time , however , and the scene at the Ram Manohar Lohia hospital , where most of the injured were taken , presents a picture of chaos , shock , anger , and helplessness . The relatives of the victims havent been able to meet their loved ones , and the frequent visits of the politicians only ends up irritating the waiting kith and kin , who blame the government for being lax in tackling terror in the country . . . Meanwhile , the dozens of injured are being shunted from one hospital building to another . Adding to the surreal feel of it all are the TV crews , who have been running after each stretcher to thrust their microphones at the victims . . . I spoke to Dr. Sampoorna , who described the horrific scene inside the ward . . . I saw at least 12 to 14 dead bodies , she said . Some were without limbs , some were without legs , and some were beyond recognition . . . So far , 12 people are said to have died in the blast or from their injuries , with dozens more injured . . . As Rajeev noted yesterday , Harkat-ul-Jihad-al-Islami ( HuJI ) , a Pakistan-based militant group with an affiliate in Bangladesh , claimed responsibility for the attack . In an e-mail sent to media houses , the terror group claims to have carried out the blast in retaliation for the death sentence given to Afzal Guru , who was convicted in connection with the attack on the Indian parliament in 2001 . . . While Home Minister Palaniappan Chidambaram told parliament that there had been some intelligence relating to threats , shared with the Delhi Police in July , he refused to identify the group that had carried out the bomb blast . . . The attack comes at a time when Prime Minister Manmohan Singh is on a historic visit to Bangladesh to bolster ties between the two neighbours , and some analysts see the attack as an attempt to divert attention from the landmark agreement signed between New Delhi and Dhaka . They argue that the attacks are designed to create a wedge between the two nations , and they point out that the serial strikes in Mumbai in July were on the eve of talks between the foreign ministers of India and Pakistan . . . Whatever the reason , the people of India are fed up with the governments failure to contain terrorism . A palpable sense of anger can be detected in the hospital , at the blast site , on the streets of the capital and in the TV studios . . . But no lawno matter how tough it iscan eradicate terrorism . We live in an environment where terrorism is a reality . And , since theres not a single group that can be blamed for these attacks , there isnt one motivation and therefore one solution . . . For now , at least , India seems destined to grapple with these tragic Wednesdays . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        "Delhi"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://thediplomat.com/2011/09/terror-returns-to-delhi/", 
+    "date": "07-09-2011", 
+    "target": "", 
+    "hot_spot": "Delhi", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "citys High Court", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "367", 
+            "Others"
+        ], 
+        [
+            "Ram Manohar Lohia hospital", 
+            "409", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jihad-al-Islami", 
+            "606", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "608", 
+            "Accused"
+        ], 
+        [
+            "e-mail", 
+            "629", 
+            "Others"
+        ]
+    ]
+}

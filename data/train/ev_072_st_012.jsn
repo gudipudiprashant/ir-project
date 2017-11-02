@@ -1,0 +1,453 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "39", 
+            "Neutral"
+        ], 
+        [
+            "Shringar", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "56", 
+            "Neutral"
+        ], 
+        [
+            "Khalistan", 
+            "153", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "176", 
+            "Neutral"
+        ], 
+        [
+            "Europe", 
+            "225", 
+            "Neutral"
+        ], 
+        [
+            "United States of America", 
+            "228", 
+            "Neutral"
+        ], 
+        [
+            "Lahore", 
+            "291", 
+            "Neutral"
+        ], 
+        [
+            "Kuala", 
+            "293", 
+            "Neutral"
+        ], 
+        [
+            "Kuala Lumpur", 
+            "293", 
+            "Neutral"
+        ], 
+        [
+            "Karnal", 
+            "384", 
+            "Source"
+        ], 
+        [
+            "New Delhi", 
+            "414", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "496", 
+            "Accused"
+        ], 
+        [
+            "Punjab", 
+            "524", 
+            "Accused"
+        ], 
+        [
+            "Jalandhar City Railway Station", 
+            "536", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "573", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "609", 
+            "Neutral"
+        ], 
+        [
+            "Haryana", 
+            "611", 
+            "Neutral"
+        ], 
+        [
+            "Jalandhar", 
+            "628", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "637", 
+            "Event"
+        ], 
+        [
+            "Surankote", 
+            "643", 
+            "Victim"
+        ], 
+        [
+            "Poonch", 
+            "646", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "674", 
+            "Neutral"
+        ], 
+        [
+            "Ghaziabad", 
+            "688", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "697", 
+            "Neutral"
+        ], 
+        [
+            "Khalistan", 
+            "732", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "753", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "835", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "842", 
+            "Event"
+        ], 
+        [
+            "Ajmer", 
+            "854", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Praveen Swami", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Wadhawa Singh", 
+            "209", 
+            "Others"
+        ], 
+        [
+            "Jagraon", 
+            "261", 
+            "Accused"
+        ], 
+        [
+            "Gurpreet Singh", 
+            "263", 
+            "Accused"
+        ], 
+        [
+            "Gurpreet Singh", 
+            "274", 
+            "Accused"
+        ], 
+        [
+            "Wadhawa Singh", 
+            "282", 
+            "Others"
+        ], 
+        [
+            "Beant Singh", 
+            "331", 
+            "Others"
+        ], 
+        [
+            "Jagtar Singh Tara", 
+            "334", 
+            "Accused"
+        ], 
+        [
+            "Paramjit Singh Bheora", 
+            "367", 
+            "Accused"
+        ], 
+        [
+            "Jagtar Singh Hawara", 
+            "403", 
+            "Accused"
+        ], 
+        [
+            "Beant Singh", 
+            "438", 
+            "Others"
+        ], 
+        [
+            "Amir Hashim", 
+            "576", 
+            "Accused"
+        ], 
+        [
+            "Kamran", 
+            "588", 
+            "Accused"
+        ], 
+        [
+            "Wasim Akbar", 
+            "619", 
+            "Others"
+        ], 
+        [
+            "Hashim", 
+            "625", 
+            "Accused"
+        ], 
+        [
+            "Hashim", 
+            "659", 
+            "Accused"
+        ], 
+        [
+            "Zaki-ur-Rahman Lakhvi", 
+            "666", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Azam Cheema", 
+            "678", 
+            "Accused"
+        ], 
+        [
+            "Abdul Karim Tunda", 
+            "690", 
+            "Accused"
+        ], 
+        [
+            "Manjit Singh", 
+            "759", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2005:204", 
+        "March 21 , 2006 : 341", 
+        "2005:394", 
+        "1995:433", 
+        "2004:447", 
+        "March 1997:527", 
+        "1997:528", 
+        "December 1996:633", 
+        "1998:648", 
+        "1992:728", 
+        "May:839", 
+        "August:846"
+    ], 
+    "death": "", 
+    "title": "Ludhiana cinema blast: long investigation could lie ahead", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "BABBAR KHALSA INTERNATIONAL"
+    ], 
+    "content": "Praveen Swami . . As forensic evidence trickles in , the list of possible suspects multiplies . . Terror groups have long history of collaboration with Pakistan-based Khalistani organisations . . BKI desperate to register success . . NEW DELHI : Even as the first fragments of forensic evidence of the Shringar Cinema bombing in Ludhiana have begun to trickle in , Punjab police investigators find themselves with a mounting list of suspects and , as yet , little hard evidence to work with . . . National Security Guard experts have determined that the bomb which ripped through the theatre was built around a core of Research Department Explosive , but officials said its final composition and construction would be known only after final results were available . . . Punjab police sources said they were focussing on the possible role of the Babbar Khalsa International -LRB- BKI -RRB- the last Khalistan terror group believed to have credible offensive capabilities . Officials note that the globally-proscribed BKI , which frequently targeted migrant workers from Bihar during the past , has been desperate to register success . . . Ever since the Inter-Services Intelligence started to choke off funding to the BKI in 2005 , its Lahore-based chief Wadhawa Singh has been seeking to mount a major operation to raise funds from sympathisers in Europe and the United States of America , a New Delhi-based intelligence official told The Hindu . . . Only last month did the Punjab police seize 3.5 kg of RDX from a car owned by Jagraon resident Gurpreet Singh , son of a former terrorist . Investigators say Gurpreet Singh , who is absconding , met Wadhawa Singh earlier this year , after travelling to Lahore through Kuala Lumpur . . . Last year too , the Punjab police found evidence that the BKI was seeking to mount offensive operations . . . Four BKI terrorists , linked to a module controlled by the absconding Beant Singh assassin Jagtar Singh Tara , were arrested on March 21 , 2006 , and one kg of RDX was recovered . Just a day earlier , the Delhi police held the BKI operations chief Paramjit Singh Bheora and associates . Four kg of RDX was found in the terrorists safe-house near Karnal . . . BKI operative held . . In 2005 , the Delhi police arrested top BKI operative Jagtar Singh Hawara after his organisation bombed two movie theatres in New Delhi to protest what they claimed was its anti-Sikh politics . . . Hawara , architect of the 1995 assassination of Chief Minister Beant Singh , escaped from Chandigarhs Burail Jail in 2004 . . . He was sentenced to death earlier this year . . . But intelligence officials also said the evidence available so far did not justify making a determination on which terror group most likely carried out Sundays strike . Islamist terror groups have hit targets in Punjab before a fact of significance given the spate of recent attacks nationwide . . . Among the largest terror strikes conducted by the Islamist terror groups in Punjab was the March 1997 bombing of a parking lot outside the Jalandhar City Railway Station . . . Six people were killed and 13 injured . An ammonium nitrate-based bomb packed in a still can was used to fabricate the device used in the explosion . . . New Delhi resident Amir Hashim , a Lashkar-e-Taiba operative , who operated under the code-name Kamran , was later convicted for his role in the bombing , as well as a series of prior strikes in Punjab , Haryana and the national capital . Pakistani national Wasim Akbar , who collaborated with Hashim in the Jalandhar bombing and the abortive December 1996 strike at Ludhiana , was shot dead at Surankote , near Poonch in 1998 . . . All three top Lashkar operatives who directed Hashim the organisations overall military commander , Zaki-ur-Rahman Lakhvi ; the head of operations outside Jammu and Kashmir , Mohammad Azam Cheema ; and his immediate superior , one-time Ghaziabad resident Abdul Karim Tunda are still active in Pakistan . . . The Islamist terror groups have a long history of collaboration with Pakistan-based Khalistani organisations such as the BKI and the Khalistan Zindabad Force . . . In 1992 , as the Khalistan movement began to disintegrate , the Central Bureau of Investigation detected efforts to revive it with assistance from Islamists in Jammu and Kashmir . BKI operative Manjit Singh , the leading figure in the operation , was recently released from prison after he served a life term . . . Role of migrant workers ? . . Ludhianas large community of Bangladeshi migrant workers , some intelligence officials suspect , may also have been used by Harkat ul-Jihad-e-Islami operatives to execute the movie theatre bombing . . . Investigators believe that Bangladesh-based HUJI operatives executed at least three recent strikes : the Mecca Masjid bombing in May , the Hyderabad serial bombings in August , and last weeks shrine attack in Ajmer . . . At this stage , one official said , we need to explore every possible avenue .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "Sri nagar", 
+        "Shringar Cinema"
+    ], 
+    "O": [
+        "RDX:350", 
+        "Chief Minister:436", 
+        "Chandigarhs Burail Jail:443", 
+        "Bangladeshi migrant:794"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/ludhiana-cinema-blast-long-investigation-could-lie-ahead/article1931124.ece", 
+    "date": "14-10-2007", 
+    "target": "CINEMA HALL", 
+    "hot_spot": "Shringar Cinema", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "BKI", 
+            "32", 
+            "Accused"
+        ], 
+        [
+            "Punjab police", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "Research Department Explosive", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "Punjab police", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "Babbar Khalsa International", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "BKI", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "BKI", 
+            "168", 
+            "Others"
+        ], 
+        [
+            "BKI", 
+            "202", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "239", 
+            "Others"
+        ], 
+        [
+            "Punjab police", 
+            "249", 
+            "Others"
+        ], 
+        [
+            "Punjab police", 
+            "303", 
+            "Others"
+        ], 
+        [
+            "BKI", 
+            "309", 
+            "Others"
+        ], 
+        [
+            "BKI", 
+            "320", 
+            "Others"
+        ], 
+        [
+            "Delhi police", 
+            "360", 
+            "Others"
+        ], 
+        [
+            "BKI", 
+            "364", 
+            "Others"
+        ], 
+        [
+            "BKI", 
+            "388", 
+            "Others"
+        ], 
+        [
+            "Delhi police", 
+            "397", 
+            "Others"
+        ], 
+        [
+            "BKI", 
+            "401", 
+            "Accused"
+        ], 
+        [
+            "Islamist terror groups", 
+            "489", 
+            "Accused"
+        ], 
+        [
+            "Islamist terror groups", 
+            "520", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "580", 
+            "Accused"
+        ], 
+        [
+            "Lashkar", 
+            "655", 
+            "Accused"
+        ], 
+        [
+            "BKI", 
+            "718", 
+            "Accused"
+        ], 
+        [
+            "Khalistan Zindabad Force", 
+            "721", 
+            "Accused"
+        ], 
+        [
+            "Central Bureau of Investigation", 
+            "739", 
+            "Others"
+        ], 
+        [
+            "BKI", 
+            "757", 
+            "Accused"
+        ], 
+        [
+            "Harkat ul-Jihad-e-Islami", 
+            "809", 
+            "Accused"
+        ], 
+        [
+            "HUJI", 
+            "825", 
+            "Accused"
+        ]
+    ]
+}

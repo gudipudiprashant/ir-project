@@ -1,0 +1,95 @@
+{
+    "LOC": [
+        [
+            "Dibrugarh", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "164", 
+            "Neutral"
+        ], 
+        [
+            "Amolapatty", 
+            "176", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Joy Asom", 
+            "80", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "last evening : 166"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:9"
+    ], 
+    "death": "1", 
+    "title": "ULFA(I) denies involvement in Dibrugarh bomb blast", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dibrugarh", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Guwahati : The ULFA ( Independent ) on Wednesday denied its involvement in the bomb blast in Dibrugarh town in which a girl was killed and nine others injured . . . The ULFA ( I ) in a release e-mailed here said that the outfit was in no way associated with the blast and expressed its deep condolences to the family members of the teenage girl killed in the incident . . . The outfit ` s spokesman Joy Asom alleged that such incidents were ` usually the handiwork of security forces who carry out the blasts with the help of some agents who are kept in their custody . ' . . ` The acts of violence are carried out by these agents to malign the outfit and they are later made to surrender with the security forces claiming success in weakening the outfit , ' the release added . A crude bomb was exploded by suspected militants in the upper Assam town last evening behind the old Railway station in the busy Amolapatty area below an electric pole killing a teenage girl and injuring nine persons , including a woman .", 
+    "injured": "9", 
+    "org_unorg": "", 
+    "O": [
+        "bomb blast:15", 
+        "killed:25", 
+        "injured:29", 
+        "e-mailed:41", 
+        "outfit:46", 
+        "blast:54", 
+        "condolences:59", 
+        "teenage girl killed:66", 
+        "outfit:76", 
+        "security forces:92", 
+        "blasts:98", 
+        "custody:110", 
+        "acts of violence:117", 
+        "outfit:129", 
+        "security forces:139", 
+        "outfit:146", 
+        "crude bomb:154", 
+        "militants:160", 
+        "railway station:171", 
+        "electric pole:180"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/assam/ulfai-denies-involvement-in-dibrugarh-bomb-blast_897724.html", 
+    "date": "18-12-2013", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "4", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "34", 
+            "Accused"
+        ]
+    ]
+}

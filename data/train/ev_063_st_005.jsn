@@ -1,0 +1,296 @@
+{
+    "LOC": [
+        [
+            "Jama Masjid", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "27", 
+            "Assoc_Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "masjid", 
+            "262", 
+            "Neutral"
+        ], 
+        [
+            "Benaras", 
+            "316", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "333", 
+            "Neutral"
+        ], 
+        [
+            "Benaras", 
+            "366", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "400", 
+            "Victim"
+        ], 
+        [
+            "Delhi", 
+            "425", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "458", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "465", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "497", 
+            "Neutral"
+        ], 
+        [
+            "Sarojini Nagar", 
+            "536", 
+            "Assoc_Event"
+        ], 
+        [
+            "Paharganj", 
+            "540", 
+            "Assoc_Event"
+        ], 
+        [
+            "Kalkaji", 
+            "545", 
+            "Assoc_Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "589", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "689", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "720", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "728", 
+            "Neutral"
+        ], 
+        [
+            "Haji Ali", 
+            "754", 
+            "Neutral"
+        ], 
+        [
+            "Mahim Dargah", 
+            "758", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "764", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Babasaheb Ambedkar", 
+            "82", 
+            "Others"
+        ], 
+        [
+            "Amanullah Khan", 
+            "125", 
+            "Comment"
+        ], 
+        [
+            "Syed Ahmed Bukhari", 
+            "213", 
+            "Comment"
+        ], 
+        [
+            "Sheila Dikshit", 
+            "428", 
+            "Comment"
+        ], 
+        [
+            "Shivraj Patil", 
+            "450", 
+            "Others"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "455", 
+            "Others"
+        ], 
+        [
+            "B L Joshi", 
+            "461", 
+            "Others"
+        ], 
+        [
+            "Sheila Dikshit", 
+            "468", 
+            "Others"
+        ], 
+        [
+            "Jayaprakash Narayan", 
+            "569", 
+            "Others"
+        ], 
+        [
+            "Ajay Kumar", 
+            "573", 
+            "Comment", 
+            "Others"
+        ], 
+        [
+            "Ajay Sahani", 
+            "652", 
+            "Comment", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "5.30 pm:47", 
+        "5.25 : 273"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday evening:35", 
+        "Friday:35", 
+        "Friday evening:35", 
+        "Friday:75", 
+        "Friday:559"
+    ], 
+    "death": "", 
+    "title": "Two blasts rock Delhi's Jama Masjid", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "", 
+        "", 
+        "Jama Masjid"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Thirteen people were injured , one of them seriously , in two explosions that took place in quick succession inside the historic Jama Masjid in Old Delhi when the devout were offering prayers on Friday evening . . . The first explosion took place at around 5.30 pm , when devotees were preparing for ` Asar ' -LRB- evening prayer -RRB- near a pond used by them for ablutions . . . Today being Friday and a holiday on account of Babasaheb Ambedkar 's birth anniversary , a large number of people were present in the complex at the time of the explosion . . . Fifteen minutes later , another blast rocked the place , eye-witnesses said . . . Jama Masjid spokesman Amanullah Khan told rediff.com , ` We were caught unawares . There was no warning given to us by the Delhi police nor were we told that there was any risk of blasts . . . ` Since it was prayer time , not many people werepresent at the spot wherethe twin blasts took place , ' he said , adding , ' A large number of worshippers have gathered here . They are agitated about the blasts and are refusing to go away . ' . . Syed Ahmed Bukhari , the shahiimam of Jama Masjid , has appealed to the people to maintain communal harmony and to defeat the designs of those who want to disrupt the peaceful co-existence between Hindus and Muslims . . . ` About eight hundred devotees were praying in the masjid when the first blast took place . That was around 5.25 in the evening . I immediately rushed to the spot and was asking people to help in removing the injured to hospitals when the second blast took place , ' he said . . . . . . . Two blasts rock Benaras , 20 killed . . He ordered the immediate closure of all the gates of the Jama Masjid so that the police could look out for any other bomb that be hidden somewhere else . ` This is the handiwork of those who carried out the bomb blasts in Benaras . The persons who have been arrested are innocent but those who perpetrated the crime are still roaming around freely , ' he charged but refused to elaborate.This is the first time that Jama Masjid has been targetted by the militants . In recent times the imam has been using strong language against terrorist outfits . . . Delhi Chief Minister Sheila Dikshit announced that Rs 20,000 will be given as compensation to those injured in the blasts . . . Home Minister Shivraj Patil , Congress president Sonia Gandhi , Delhi Lt Governor B L Joshi and Delhi Chief Minister Sheila Dikshit visited the injured at the hospital . . . Undeterred by the explosions , devout went back to the mosque about one-and-half hours later to offer prayer.The Delhi police , which cordoned off the area and diverted traffic to other routes , has declared a red alert in the capital . . . On the eve of Diwali last year , bomb blasts went off in Sarojini Nagar market , Paharganj and a bus in Kalkaji area , killing more than 50 people . . . The injured from Friday 's blasts have been admitted to the Lok Nayak Jayaprakash Narayan Hospital.According to Ajay Kumar , chief of anti-terrorist cell ofpolice , the two blasts that took place in Jama Masjid were of low-intensity . . . Talking to rediff.com , he said some kind of triggering-mechanismhad been used todetonate the bombs . . . ` It is too early to tell who was behind the blasts but prima-facie evidences suggest that someone was trying to provoke people and disturb communal harmony in the country , ' he added . . . Ajay Sahani , terrorism expert of Institute of Conflict management , said , ` It is clear that objective was to incite violence within thecountry . But the good thing about today 's eventand the event in Varanasi was that people were not reactingin frenzy and people behind the blasts were not succeeding . ' . . Meanwhile , an alert has been soundedat many places , including Mumbai . Security in places of worship in Mumbai was enhanced and a high alert sounded following the explosions , the police said.A security ring has been pup up in and around shrines including Haji Ali , the Mahim Dargah and mosques in central Mumbai . . . . . With PTI inputs .", 
+    "injured": "13", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "succession:19", 
+        "devout:30", 
+        "explosion:42", 
+        "ablutions:69", 
+        ", eye-witnesses:116", 
+        "shahiimam:218", 
+        "communal harmony:230", 
+        "Hindus and Muslims:247", 
+        "imam:413", 
+        "terrorist outfits:420", 
+        "20,000:433", 
+        ". . . home minister:445", 
+        "president:454", 
+        "Lt Governor:459", 
+        "devout:484", 
+        "cordoned:501", 
+        "red alert:515", 
+        "capital:519", 
+        "Diwali:527", 
+        "anti-terrorist cell ofpolice:578", 
+        "prima-facie:628", 
+        "provoke:636", 
+        "communal harmony:640", 
+        "terrorism:655", 
+        "incite:673", 
+        "violence:674", 
+        "frenzy:696", 
+        "shrines:752", 
+        "mosques:761"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/apr/14masjid.htm", 
+    "date": "14-04-2006", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "STORED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "rediff.com", 
+            "128", 
+            "Others"
+        ], 
+        [
+            "Jama Masjid", 
+            "220", 
+            "Others"
+        ], 
+        [
+            "Masjid", 
+            "221", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "453", 
+            "Others"
+        ], 
+        [
+            "Lok Nayak Jayaprakash Narayan Hospital.According", 
+            "567", 
+            "Others"
+        ], 
+        [
+            "anti-terrorist cell", 
+            "578", 
+            "Others"
+        ], 
+        [
+            "rediff.com", 
+            "599", 
+            "Others"
+        ], 
+        [
+            "Institute of Conflict management", 
+            "658", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "771", 
+            "Others"
+        ]
+    ]
+}

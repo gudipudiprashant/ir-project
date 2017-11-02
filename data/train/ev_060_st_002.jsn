@@ -1,0 +1,90 @@
+{
+    "LOC": [
+        [
+            "Church Road", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "36", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mufti Mohammed", 
+            "221", 
+            "Comment"
+        ], 
+        [
+            "Mufti Mohammed Sayeed", 
+            "221", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "9 am : 46"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:14"
+    ], 
+    "death": "5", 
+    "title": "Srinagar: Army major among five killed in car-bomb explosion", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "Srinagar", 
+        "Church Road"
+    ], 
+    "terror_group": [
+        "HIZB-UL-MUJAHIDEEN / HIZB-UL-MUJAHIDEEN PIR PANJAL REGIMENT"
+    ], 
+    "content": "Three armymen including a major were among five persons killed when militants on Wednesday exploded a car-bomb targeting a military convoy near a missionary school on the high security Church Road in the heart of Srinagar . . . The explosion that took place around 9 am damaged eight vehicles and rattled the Burnhall School and nearby buildings , but no harm was done to the students as there is a huge playground between the boundary wall and classrooms . . . . . . . The Road to Peace . . The police were investigating if a suicide bomber rammed an explosive-laden Maruti car into an army jeep . Militant outfit Hizbul Mujahideen claimed responsibility for the attack , but did not say that it was a suicide attack . . . At least 17 persons , including four army soldiers , were injured in the explosion , the police said . . . It was a gory sight with badly mutilated bodies lying in pool of blood and the injured crying for help . Mangled pieces of damaged vehicles and shattered window panes were strewn around . . . The Maruti car used in the attack was blown to pieces and only the engine of the vehicle could be retrieved by the police . . . Chief Minister Mufti Mohammed Sayeed said such incidents would not deter the people from pursuing the peace process and the perpetrators of violence would not achieve anything by indulging in such acts . . . .", 
+    "injured": "17", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "convoy:21", 
+        "school:25", 
+        "church road:30", 
+        "suicide:99", 
+        "an explosive-laden:102"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2005/jul/20srinagar.htm", 
+    "date": "20-07-2005", 
+    "target": "MILITARY GROUP", 
+    "hot_spot": "Church Road", 
+    "delivery_mod": "FOUR WHEELER", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Burnhall School", 
+            "54", 
+            "Victim"
+        ], 
+        [
+            "Maruti", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "Hizbul Mujahideen", 
+            "113", 
+            "Accused"
+        ], 
+        [
+            "Maruti", 
+            "193", 
+            "Others"
+        ]
+    ]
+}

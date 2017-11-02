@@ -1,0 +1,171 @@
+{
+    "LOC": [
+        [
+            "Sipajhar", 
+            "11", 
+            "Victim"
+        ], 
+        [
+            "tea stall", 
+            "71", 
+            "Event"
+        ], 
+        [
+            "Maligaon Chariali", 
+            "74", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "77", 
+            "Event"
+        ], 
+        [
+            "Maligaon", 
+            "153", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "213", 
+            "Neutral"
+        ], 
+        [
+            "Arunachal Pradesh", 
+            "215", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "244", 
+            "Event"
+        ], 
+        [
+            "Maligaon", 
+            "295", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Masum", 
+            "4", 
+            "Victim"
+        ], 
+        [
+            "Masum", 
+            "46", 
+            "Victim"
+        ], 
+        [
+            "Masum", 
+            "92", 
+            "Victim"
+        ], 
+        [
+            "Jaharunnessa", 
+            "106", 
+            "Victim"
+        ], 
+        [
+            "Majibur Rahman", 
+            "117", 
+            "Victim"
+        ], 
+        [
+            "Pratibha Patil", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "Moromi Sharma", 
+            "227", 
+            "Victim"
+        ], 
+        [
+            "Moromi", 
+            "251", 
+            "Victim"
+        ], 
+        [
+            "Bhupen Kumar", 
+            "271", 
+            "Others"
+        ], 
+        [
+            "Dipu", 
+            "286", 
+            "Others"
+        ], 
+        [
+            "Bhupen", 
+            "308", 
+            "Others"
+        ], 
+        [
+            "Bhupen", 
+            "350", 
+            "Others"
+        ], 
+        [
+            "Abhijit Sharma", 
+            "352", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "2 pm : 79", 
+        "Two hours : 100"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 156", 
+        "Sunday : 200", 
+        "October 30 : 246", 
+        "December 2007 : 331"
+    ], 
+    "death": "", 
+    "title": "Assam: 8-yr-old,grandmother among thosekilled", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "guwahati", 
+        "Maligaon Chariali "
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Six days ago,eight-year-old Masum , a class II student from Sipajhar , was brought to Guwahati Medical College to be operated upon for a tumour below her left ear . Today , she was discharged . But she never made it home . . . Masum was on her way home with her father , grandmother and uncle . The family stopped for a cup of tea at a popular tea stall at Maligaon Chariali in Guwahati at 2 pm , when a powerful explosion occurred just outside the stall . Masum died on the spot . . . Two hours later , Masums grandmother Jaharunnessa ( 58 ) succumbed to injuries at a hospital . Majibur Rahman , Masums father , who has sustained grievous injuries from the explosion , is undergoing treatment at Guwahati Medical College . . . At least seven persons were killed in the blast that rocked Maligaon blast on Monday . More than 58 people , several of whom are said to be critical , are undergoing treatment at different hospitals here . . . The explosion occurred a day ahead of Prime Minister Manmohan Singhs scheduled visit to the state . On Sunday , President Pratibha Patil had left Guwahati after a four-day visit to Assam and Arunachal Pradesh . . . Masums death has brought back memories of Moromi Sharma , a 10-year-old girl , who was killed in the serial blasts that had rocked Guwahati on October 30 last year . Moromi , daughter of a carpenter , had battled for life for four days before she died . . . Bhupen Kumar ( 37 ) , who was on his way to fetch his wife Dipu , a teacher at a private school in Maligaon , too , became a victim of the blast . . . Bhupen had been struggling for several years a small-time contactor . He had just started doing fairly well . He got married in December 2007 and had called me only last week to tell me that his wife is pregnant , said Bhupen friend Abhijit Sharma . . . .", 
+    "injured": "58", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Prime Minister:189", 
+        "President:202"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indianexpress.com/article/news-archive/web/assam-8yrold-grandmother-among-those-killed/", 
+    "date": "01-04-2009", 
+    "target": "", 
+    "hot_spot": "Maligaon Chariali ", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Guwahati Medical College", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "Guwahati Medical College", 
+            "136", 
+            "Others"
+        ]
+    ]
+}

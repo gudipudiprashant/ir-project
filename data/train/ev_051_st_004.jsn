@@ -1,0 +1,519 @@
+{
+    "LOC": [
+        [
+            "ISLAMABAD", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "43", 
+            "Event"
+        ], 
+        [
+            "Karachi", 
+            "134", 
+            "Accused"
+        ], 
+        [
+            "Karachi", 
+            "154", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "212", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "234", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "248", 
+            "Assoc_Event"
+        ], 
+        [
+            "Srinagar", 
+            "260", 
+            "Assoc_Event"
+        ], 
+        [
+            "Karachi", 
+            "266", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "278", 
+            "Event"
+        ], 
+        [
+            "Lahore", 
+            "285", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "295", 
+            "Neutral"
+        ], 
+        [
+            "Lahore", 
+            "319", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "335", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "370", 
+            "Neutral"
+        ], 
+        [
+            "ISLAMABAD", 
+            "380", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "395", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "418", 
+            "Event"
+        ], 
+        [
+            "Karachi", 
+            "515", 
+            "Accused"
+        ], 
+        [
+            "Karachi", 
+            "539", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "599", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "623", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "637", 
+            "Assoc_Event"
+        ], 
+        [
+            "Srinagar", 
+            "649", 
+            "Assoc_Event"
+        ], 
+        [
+            "Karachi", 
+            "657", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "669", 
+            "Event"
+        ], 
+        [
+            "Lahore", 
+            "676", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "688", 
+            "Event"
+        ], 
+        [
+            "Lahore", 
+            "714", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "730", 
+            "Assoc_Event"
+        ], 
+        [
+            "India", 
+            "765", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "B. Muralidhar Reddy", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Masood Azar", 
+            "55", 
+            "Accused"
+        ], 
+        [
+            "Maulana Masood Azar", 
+            "87", 
+            "Accused"
+        ], 
+        [
+            "Mufti Jamil", 
+            "194", 
+            "Comment"
+        ], 
+        [
+            "Moinuddin Haider", 
+            "305", 
+            "Others"
+        ], 
+        [
+            "B. Muralidhar Reddy", 
+            "375", 
+            "Others"
+        ], 
+        [
+            "Masood Azar", 
+            "432", 
+            "Accused"
+        ], 
+        [
+            "Maulana Masood Azar", 
+            "466", 
+            "Accused"
+        ], 
+        [
+            "Mufti Jamil", 
+            "581", 
+            "Comment"
+        ], 
+        [
+            "Moinuddin Haider", 
+            "698", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "last year : 103", 
+        "last week : 249", 
+        "four days : 269", 
+        "today : 397", 
+        "last year : 482", 
+        "blast : 626", 
+        "last week : 638", 
+        "four days : 660"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "DEC. . 30 : 7", 
+        "Friday night : 45", 
+        "December : 102", 
+        "December 25 : 262", 
+        "December 22 : 337", 
+        "DEC. . 30 : 382", 
+        "Friday night : 420", 
+        "December : 481", 
+        "December 25 : 651", 
+        "December 22 : 732"
+    ], 
+    "death": "", 
+    "title": "Jaish too threatens suicide attacks", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Karachi", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "By B. Muralidhar Reddy ISLAMABAD , DEC. . 30 . The Jaish-e-Mohammad , a Pakistan-based militant organisation operating in Kashmir , today threatened to carry out suicide attacks in various Indian cities in retaliation to the blast that wrecked its office in Karachi on Friday night . The outfit formed by the cleric , Masood Azar , accused the Indian intelligence agency , Research and Analysis Wing -LRB- RAW -RRB- , of having masterminded the blast that killed a girl and injured a dozen others . Maulana Masood Azar was one of the three militants released by the Indian Government in December last year in exchange for the passengers of the hijacked Indian Airlines aircraft . According to reports , the bomb ripped through the building in which the Jaish-e-Mohammad is housed in Karachi . It damaged a restaurant on the ground floor and other parts of the multi-storey building . While the Karachi police said they had detained some suspects and are investigating the incident , an office-bearer of the Jaish blamed the RAW for the blast and said his group would hit back soon . A spokesperson of the group , Mufti Jamil , was quoted as saying : `` We will carry out suicide attacks in cities in India . The RAW should now get ready for our reply . '' On the basis of preliminary investigations , authorities in Karachi said the blast appeared to be in retaliation to the car-bomb blast in Srinagar last week . Eleven persons were killed in the incident in Srinagar on December 25 . The Karachi explosion came four days after bomb blasts in different parts of Pakistan , including a blast in the Lahore market , which injured over 50 people . The Pakistan Interior Minister , Lt. Gen. -LRB- retd . -RRB- Moinuddin Haider , had blamed the Indian intelligence agencies for the explosions . The Lahore police said they had anticipated such retaliation following the attack on the Red Fort in Delhi on December 22 in which three people were killed . The Pakistan-based militant outfit , Lashkar-e-Taiba , had taken responsibility for the attack and threatened to strike at more military and Government buildings in India . . . By B. Muralidhar Reddy . . ISLAMABAD , DEC. . 30 . The Jaish-e-Mohammad , a Pakistan-based militant organisation operating in Kashmir , today threatened to carry out suicide attacks in various Indian cities in retaliation to the blast that wrecked its office in Karachi on Friday night . . . The outfit formed by the cleric , Masood Azar , accused the Indian intelligence agency , Research and Analysis Wing -LRB- RAW -RRB- , of having masterminded the blast that killed a girl and injured a dozen others . . . Maulana Masood Azar was one of the three militants released by the Indian Government in December last year in exchange for the passengers of the hijacked Indian Airlines aircraft . . . According to reports , the bomb ripped through the building in which the Jaish-e-Mohammad is housed in Karachi . . . It damaged a restaurant on the ground floor and other parts of the multi-storey building . . . While the Karachi police said they had detained some suspects and are investigating the incident , an office-bearer of the Jaish blamed the RAW for the blast and said his group would hit back soon . . . A spokesperson of the group , Mufti Jamil , was quoted as saying : `` We will carry out suicide attacks in cities in India . The RAW should now get ready for our reply . '' . . On the basis of preliminary investigations , authorities in Karachi said the blast appeared to be in retaliation to the car-bomb blast in Srinagar last week . Eleven persons were killed in the incident in Srinagar on December 25 . . . The Karachi explosion came four days after bomb blasts in different parts of Pakistan , including a blast in the Lahore market , which injured over 50 people . . . The Pakistan Interior Minister , Lt. Gen. -LRB- retd . -RRB- Moinuddin Haider , had blamed the Indian intelligence agencies for the explosions . . . The Lahore police said they had anticipated such retaliation following the attack on the Red Fort in Delhi on December 22 in which three people were killed . The Pakistan-based militant outfit , Lashkar-e-Taiba , had taken responsibility for the attack and threatened to strike at more military and Government buildings in India .", 
+    "injured": "50", 
+    "org_unorg": "", 
+    "O": [
+        "Pakistan-based militant:15", 
+        "threatened:23", 
+        "suicide attacks:27", 
+        "Indian cities:31", 
+        "retaliation:34", 
+        "blast:37", 
+        "wrecked:39", 
+        "outfit:49", 
+        "cleric:53", 
+        "accused:58", 
+        "masterminded:74", 
+        "blast:76", 
+        "killed:78", 
+        "girl:80", 
+        "injured:82", 
+        "dozen:84", 
+        "three militants:94", 
+        "exchange:106", 
+        "passengers:109", 
+        "hijacked:112", 
+        "aircraft:115", 
+        "reports:119", 
+        "bomb ripped:122", 
+        "building:126", 
+        "damaged:137", 
+        "restaurant:139", 
+        "ground floor:142", 
+        "multi-storey building:149", 
+        "Karachi police:154", 
+        "detained:159", 
+        "suspects:161", 
+        "investigating:164", 
+        "incident:166", 
+        "office-bearer:169", 
+        "blast:178", 
+        "hit back:184", 
+        "quoted:198", 
+        "suicide attacks:207", 
+        "cities:210", 
+        "preliminary investigations:229", 
+        "blast:237", 
+        "retaliation:242", 
+        "car-bomb blast:245", 
+        "Eleven persons:252", 
+        "killed:255", 
+        "incident:258", 
+        "Karachi explosion:266", 
+        "bomb blasts:272", 
+        "blast:282", 
+        "market:286", 
+        "injured:289", 
+        "explosions:316", 
+        "Lahore police:319", 
+        "anticipated:324", 
+        "retaliation:326", 
+        "attack:329", 
+        "Red Fort:332", 
+        "killed:344", 
+        "Pakistan-based militant outfit:347", 
+        "responsibility:355", 
+        "attack:358", 
+        "threatened:360", 
+        "strike:362", 
+        "military:365", 
+        "Government buildings:367", 
+        "Pakistan-based militant organisation:390", 
+        "threatened:398", 
+        "suicide attacks:402", 
+        "Indian cities:406", 
+        "retaliation:409", 
+        "blast:412", 
+        "wrecked:414", 
+        "outfit:426", 
+        "cleric:430", 
+        "accused:435", 
+        "masterminded:451", 
+        "blast:453", 
+        "killed:455", 
+        "girl:457", 
+        "injured:459", 
+        "three militants released:473", 
+        "exchange:485", 
+        "passengers:488", 
+        "hijacked:491", 
+        "aircraft:494", 
+        "reports:500", 
+        "bomb ripped:503", 
+        "building:507", 
+        "damaged:520", 
+        "restaurant:522", 
+        "ground floor:525", 
+        "multi-storey building:532", 
+        "Karachi police:539", 
+        "detained:544", 
+        "suspects:546", 
+        "investigating:549", 
+        "incident:551", 
+        "office-bearer:554", 
+        "blamed:558", 
+        "blast:563", 
+        "hit back:569", 
+        "suicide attacks:594", 
+        "cities:597", 
+        "reply:609", 
+        "preliminary investigations:618", 
+        "authorities:621", 
+        "retaliation:631", 
+        "car-bomb blast:634", 
+        "Eleven persons:641", 
+        "killed:644", 
+        "incident:647", 
+        "Karachi explosion:657", 
+        "bomb blasts:663", 
+        "Lahore market:676", 
+        "injured:680", 
+        "explosions:709", 
+        "Lahore police:714", 
+        "anticipated:719", 
+        "retaliation:721", 
+        "attack:724", 
+        "Red Fort:727", 
+        "killed:739", 
+        "Pakistan-based militant outfit:742", 
+        "responsibility:750", 
+        "attack:753", 
+        "threatened:755", 
+        "strike:757", 
+        "military and Government buildings:760"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2000/12/31/stories/01310004.htm", 
+    "date": "29-12-2000", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Jaish-e-Mohammad", 
+            "12", 
+            "Accused"
+        ], 
+        [
+            "Indian intelligence agency", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "Research and Analysis Wing", 
+            "64", 
+            "Others"
+        ], 
+        [
+            "RAW", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "Indian Government", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "Indian Airlines", 
+            "113", 
+            "Others"
+        ], 
+        [
+            "Jaish-e-Mohammad", 
+            "130", 
+            "Accused"
+        ], 
+        [
+            "Jaish", 
+            "172", 
+            "Accused"
+        ], 
+        [
+            "RAW", 
+            "175", 
+            "Others"
+        ], 
+        [
+            "RAW", 
+            "215", 
+            "Others"
+        ], 
+        [
+            "Indian intelligence agencies", 
+            "311", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "351", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Jaish-e-Mohammad", 
+            "387", 
+            "Accused"
+        ], 
+        [
+            "Indian intelligence agency", 
+            "437", 
+            "Others"
+        ], 
+        [
+            "Research and Analysis Wing", 
+            "441", 
+            "Others"
+        ], 
+        [
+            "RAW", 
+            "446", 
+            "Others"
+        ], 
+        [
+            "Indian Government", 
+            "478", 
+            "Others"
+        ], 
+        [
+            "Indian Airlines", 
+            "492", 
+            "Others"
+        ], 
+        [
+            "Jaish-e-Mohammad", 
+            "511", 
+            "Accused"
+        ], 
+        [
+            "Jaish", 
+            "557", 
+            "Accused"
+        ], 
+        [
+            "RAW", 
+            "560", 
+            "Others"
+        ], 
+        [
+            "RAW", 
+            "602", 
+            "Others"
+        ], 
+        [
+            "Indian intelligence agencies", 
+            "704", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "746", 
+            "Assoc_Accused"
+        ]
+    ]
+}

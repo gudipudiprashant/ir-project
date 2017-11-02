@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "Khagragarh", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "8", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "G.M.P. Reddy", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "Basudeb Banerjee", 
+            "49", 
+            "Accused"
+        ], 
+        [
+            "Banerjee", 
+            "50", 
+            "Comment"
+        ], 
+        [
+            "Banerjee", 
+            "55", 
+            "Comment"
+        ], 
+        [
+            "Shakil Ahmed", 
+            "92", 
+            "Accused"
+        ], 
+        [
+            "Sovan Mondal", 
+            "95", 
+            "Accused"
+        ], 
+        [
+            "Abdul Hakim", 
+            "98", 
+            "Accused"
+        ], 
+        [
+            "Banerjee", 
+            "110", 
+            "Comment"
+        ], 
+        [
+            "Banerjee", 
+            "135", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:52"
+    ], 
+    "death": "", 
+    "title": "Composite task force to probe explosion", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Khagragarh"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "To investigate Thursdays blast at Khagragarh in Bardhaman district , Director-General of Police G.M.P. Reddy has formed a composite task force . . . The task force includes officers from various State agencies who have experience in handling such cases , said Additional Chief Secretary -LRB- Home -RRB- Basudeb Banerjee on Sunday . Mr. Banerjee rubbished media reports which said that some officials of the National Investigation Agency -LRB- NIA -RRB- accused the State officials of non-cooperation in the probe . Two persons have been arrested . . . Three persons Shakil Ahmed , Sovan Mondal and Abdul Hakim were making improvised grenades in the building , said Mr. Banerjee . He denied media reports which claimed that the State officials tried to remove evidence by blasting the 55 improvised explosive devices . Mr. Banerjee said that this was standard procedure and the team from the Central Forensic Science Laboratory has done its work accordingly .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Director-General of Police:11", 
+        "grenades:103", 
+        "explosive devices:131"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/composite-task-force-to-probe-explosion/article6474378.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Khagragarh", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "66", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "70", 
+            "Others"
+        ], 
+        [
+            "Central Forensic Science Laboratory", 
+            "147", 
+            "Others"
+        ]
+    ]
+}

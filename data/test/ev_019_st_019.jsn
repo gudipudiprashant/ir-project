@@ -1,0 +1,157 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "32", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Simulia Madrasa", 
+            "121", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "126", 
+            "Event"
+        ], 
+        [
+            "Kolkata", 
+            "142", 
+            "Neutral"
+        ], 
+        [
+            "Nadia", 
+            "144", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "146", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Razia", 
+            "170", 
+            "Accused"
+        ], 
+        [
+            "Amina", 
+            "172", 
+            "Accused"
+        ], 
+        [
+            "Badrul Alam Molla", 
+            "174", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday : 107"
+    ], 
+    "death": "", 
+    "title": "Accused had links in several States: NIA", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The National Investigation Agency teams stationed in different parts of the country have been alerted to pursue leads , obtained from mobile phone records , suggesting that those arrested in the Bardhaman blast case had links in several States . . . Phone records reveal that they had contacts in almost all the major megacities , also in South India . We will have to verify the antecedents of each and every contact . Six of the Assam-based suspects who were in touch with the two men killed in the blast have already been arrested , said an official . . . An NIA team on Sunday visited the blast site along with explosives experts . We also went to Simulia Madrasa , located in Bardhaman , where the accused were purportedly radicalised . The NIA teams are also camping in Kolkata , Nadia and Assam . A number of key players in the conspiracy have been identified , said an NIA statement . . . Three suspects , Razia , Amina and Badrul Alam Molla , are being interrogated . The NIA suspects that those involved were members of the Jamaatul Mujahideen Bangladesh .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "stationed:6", 
+        "alerted:15", 
+        "pursue leads:17", 
+        "mobile phone records:22", 
+        "arrested:29", 
+        "Bardhaman blast case:32", 
+        "links:36", 
+        "Phone records:43", 
+        "reveal:45", 
+        "contacts:49", 
+        "megacities:55", 
+        "South India:59", 
+        "verify:66", 
+        "antecedents:68", 
+        "contact:73", 
+        "Six:75", 
+        "Assam-based suspects:78", 
+        "touch:83", 
+        "two men killed:86", 
+        "blast:91", 
+        "arrested:95", 
+        "visited:108", 
+        "blast site:110", 
+        "explosives experts:114", 
+        "accused:130", 
+        "radicalised:133", 
+        "camping:140", 
+        "key players:151", 
+        "conspiracy:155", 
+        "identified:158", 
+        "Three suspects:167", 
+        "interrogated:180", 
+        "suspects:184", 
+        "involved:187"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/accused-had-links-in-several-states-nia/article6494828.ece", 
+    "date": "13-10-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "162", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "183", 
+            "Others"
+        ], 
+        [
+            "Jamaatul Mujahideen Bangladesh", 
+            "192", 
+            "Accused"
+        ]
+    ]
+}

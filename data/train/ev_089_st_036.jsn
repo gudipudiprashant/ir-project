@@ -1,0 +1,78 @@
+{
+    "LOC": [
+        [
+            "UN", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "UN", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "90", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ban Ki-moon", 
+            "6", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "yesterday : 67"
+    ], 
+    "death": "12", 
+    "title": "Hyderabad bomb blasts: UN Secretary General Ban Ki-moon condemns attack", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "WASHINGTON : UN Secretary General Ban Ki-moon has joined the international community in condemning the terrorist attack in Hyderabad that killed more than a dozen people and wounded scores of others . . . `` The Secretary-General strongly condemns the indiscriminate attacks against civilians which occurred in the Indian city of Hyderabad , '' said a statement issued by the office of the UN Secretary General yesterday . . . `` He extends his heartfelt condolences to the families of the victims and to the Government and people of India , '' the statement said .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "O": [
+        "international community:11", 
+        "terrorist:16", 
+        "killed:21", 
+        "wounded:28", 
+        "attacks:42", 
+        "victims:82"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2013-02-22/news/37242202_1_ban-ki-moon-indiscriminate-attacks-secretary-general-ban", 
+    "date": "22-02-2013", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

@@ -1,0 +1,147 @@
+{
+    "LOC": [
+        [
+            "JAIPUR/UDAIPUR", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Rajasthan", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Udaipur", 
+            "43", 
+            "Accused"
+        ], 
+        [
+            "Bangladesh-based", 
+            "52", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "107", 
+            "Neutral"
+        ], 
+        [
+            "SamorBagh restaurant", 
+            "204", 
+            "Accused"
+        ], 
+        [
+            "Udaipur", 
+            "207", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "state PWD Minister Rajendra Singh Rathore", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "Rajendra Singh Rathore", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "Rathore", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "Kamal Joshi", 
+            "208", 
+            "Accused", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:188", 
+        "Friday:218", 
+        "Thursday:233", 
+        "Thursday night:233", 
+        "Sunday:245", 
+        "Sunday evening:245"
+    ], 
+    "death": "", 
+    "title": "Rajasthan govt hunts for illegal Bangladeshis", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Jaipur", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "JAIPUR/UDAIPUR : Illegal Bangladeshi migrants in Rajasthan will be identified in 30 days and could be deported as they came under the scanner of the state government after the serial blasts while a hotelier claimed he saw one of the suspects in Udaipur two days before the attack . With the Bangladesh-based HuJI being suspected to be behind the blasts , state PWD Minister Rajendra Singh Rathore said the state government is on a hunt for Bangladeshis with suspected criminal background . Forty such Bangladeshi nationals have been rounded up so far and are being interrogated , he said . Eight of them were detained in Ajmer . All District Collectors and Superintendents of Police have been directed to complete within 30 days the process of identifying Bangladeshi migrants living with or without voter ID cards and/or ration cards and get them verified , Rathore said . The procedures for deporting the identified illegal nationals could then be started , he said . The process has begun everywhere in the state , he added . The State 's Principal Home Secretary discussed with his central counterpart on Friday the option of deporting illegally staying Bangladeshi nationals , he added . The owner of SamorBagh restaurant in Udaipur Kamal Joshi was interrogated by police after he claimed on Friday that a person bearing resemblance to one of the sketches of suspects released on Thursday night was seen along with a woman in his restaurant on Sunday evening .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "hotelier:34", 
+        "attack:48", 
+        "huji:53", 
+        "state:62", 
+        "pwd minister rajendra singh rathore:63", 
+        "state government:70", 
+        "bangladeshis:77", 
+        "background:81", 
+        "bangladeshi:85", 
+        "district collectors:110", 
+        "superintendents:113", 
+        "process:125", 
+        "bangladeshi:128", 
+        "voter id:134", 
+        "ration:138", 
+        "process:165", 
+        "state:171", 
+        "state:177", 
+        "principal home:179", 
+        "principal:179", 
+        "principal home secretary:179", 
+        "home secretary:180", 
+        "counterpart:186", 
+        "option:190", 
+        "bangladeshi:195", 
+        "owner:202", 
+        "samorbagh:204"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Rajasthan-govt-hunts-for-illegal-Bangladeshis/articleshow/3047096.cms?", 
+    "date": "16-05-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "HuJI", 
+            "53", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "state PWD", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "PWD", 
+            "63", 
+            "Others"
+        ]
+    ]
+}

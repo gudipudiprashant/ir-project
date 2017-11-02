@@ -1,0 +1,73 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Karnataka", 
+            "26", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:20"
+    ], 
+    "death": "", 
+    "title": "Stand united: CPI", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . NEW DELHI : Condemning the bomb blasts in Bangalore and Ahmedabad , the CPI on Sunday asked the Centre and the Karnataka and Gujarat governments to work in coordination for a thorough investigation into the incidents , instead of blaming each other . . . Calling for the need to ensure that the culprits are booked and punished without delay , the Central Secretariat of the party called upon the people to remain united and not allow any provocation so that the forces that were opposed to the country could be isolated and defeated . . . Terming the blasts an evil design to destabilise the country , the party said the targeting of common people was to create scare and strife among them .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "", 
+        "Bangalore", 
+        "Bangalore"
+    ], 
+    "O": [
+        "central secretariat:67"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/stand-united-cpi/article1302766.ece", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "Bangalore", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CPI", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "Gujarat governments", 
+            "28", 
+            "Others"
+        ]
+    ]
+}

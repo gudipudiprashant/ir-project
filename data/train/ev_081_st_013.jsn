@@ -1,0 +1,362 @@
+{
+    "LOC": [
+        [
+            "Kanpur", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "LUCKNOW", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "Jammu", 
+            "38", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "U.P.", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "Rawatpur", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "Kanpur", 
+            "78", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "80", 
+            "Neutral"
+        ], 
+        [
+            "Amritanand", 
+            "111", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "117", 
+            "Event"
+        ], 
+        [
+            "Trikutanagar", 
+            "123", 
+            "Neutral"
+        ], 
+        [
+            "Jammu Tawi", 
+            "126", 
+            "Neutral"
+        ], 
+        [
+            "J&K", 
+            "129", 
+            "Neutral"
+        ], 
+        [
+            "Jammu", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Kanpur", 
+            "141", 
+            "Event"
+        ], 
+        [
+            "Kanpur", 
+            "168", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "223", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "234", 
+            "Neutral"
+        ], 
+        [
+            "UP", 
+            "236", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "253", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "259", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "268", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai ,", 
+            "268", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "285", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "300", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "353", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "418", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "421", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "442", 
+            "Neutral"
+        ], 
+        [
+            "Jammu", 
+            "457", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "464", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Atiq Khan", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Dayanand Pandey", 
+            "25", 
+            "Accused"
+        ], 
+        [
+            "Mahant Amritanand", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "Sharda Sarvagya Peeth", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "Brij Lal", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "Lal", 
+            "151", 
+            "Comment"
+        ], 
+        [
+            "Lal", 
+            "214", 
+            "Comment"
+        ], 
+        [
+            "Amritanand", 
+            "247", 
+            "Accused"
+        ], 
+        [
+            "Mohan Kulkarni", 
+            "296", 
+            "Others"
+        ], 
+        [
+            "Nashik", 
+            "318", 
+            "Others"
+        ], 
+        [
+            "Dayanand Pandey", 
+            "334", 
+            "Accused"
+        ], 
+        [
+            "Nashik", 
+            "338", 
+            "Others"
+        ], 
+        [
+            "Dayanand Pandey", 
+            "445", 
+            "Accused"
+        ], 
+        [
+            "Mahant Amritanand", 
+            "448", 
+            "Accused"
+        ], 
+        [
+            "Sharda Sarvagya Peeth", 
+            "453", 
+            "Others"
+        ], 
+        [
+            "Sharda Sarvagya", 
+            "453", 
+            "Others"
+        ], 
+        [
+            "Sharda", 
+            "453", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "2.30 p.m.:107"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:23", 
+        "September 2007:49", 
+        "Wednesday:96", 
+        "2003:137", 
+        "August 24:163", 
+        "Tuesday:302", 
+        "November 10 , 2008 : 322", 
+        "1967 : 404", 
+        "November 13 , 2008 : 428", 
+        "September 2007:467", 
+        "September 2008 : 476"
+    ], 
+    "death": "", 
+    "title": "Malegaon: ATS detains mahant", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Atiq Khan . . No proof of his involvement in Kanpur blast . . LUCKNOW : The Anti-Terrorism Squad of Mumbai on Wednesday detained Dayanand Pandey alias Mahant Amritanand , the Peethadheeshwar of Sharda Sarvagya Peeth in Jammu , for his alleged involvement in the Malegaon blasts in September 2007 . . . The mahant was picked up by the Mumbai ATS , assisted by the U.P. ATS , from Rawatpur village under Kalyanpur police station in Kanpur in Uttar Pradesh . The State ADG , Law and Order , Brij Lal said here on Wednesday that the mahant was picked up for interrogation at around 2.30 p.m. . . Amritanand , who originally belongs to Varanasi , is currently residing in Trikutanagar locality of Jammu Tawi in J&K . He had left for Jammu in 2003 and returned to Kanpur a couple of days back . . . Mr. Lal said no evidence has been found of his involvement in the August 24 bomb blast in Kanpur , which claimed the lives of two Bajrang Dal activists , in a hostel room in the industrial metropolis . . . However , he has been visiting his home State quite often , although he does not have a past crime record , Mr. Lal added . . . He was brought to Lucknow for interrogation , which would be conducted jointly by the Mumbai and UP ATS . The ADG said the decision whether to arrest Amritanand and to take him to Mumbai would be taken by the Mumbai ATS . . . For taking him to Mumbai , he would be presented in court for securing transit remand . . . A two-member Mumbai ATS team , led by Additional Commissioner of Police , Mohan Kulkarni , reached Lucknow on Tuesday . The ATS team was armed with an order of Chief Judicial Magistrate court , Nashik , dated , November 10 , 2008 for seeking permission in respect with inquiry with Dayanand Pandey . The Nashik court order was in reference to a letter from the ACP , ATS , Mumbai regarding permission to hand over the said accused for inquiry in crime number 18/2008 , under Sections 302 , 307 , 326 , 324 , 424 , 153A , 120B of IPC , Sections 3,4,5 of Explosives Act and Sections 16,18 , 23 of Prevention of Unlawful Activities Act , 1967 . . . Corrections and Clarifications . . The first paragraph in a Lucknow report ` Malegaon : ATS detains mahant ' -LRB- November 13 , 2008 , page 1 -RRB- was ` The Anti-Terrorism Squad of Mumbai onWednesday detained Dayanand Pandey alias Mahant Amritanand , thePeethadheeshwar of Sharda Sarvagya Peeth in Jammu , for his allegedinvolvement in the Malegaon blasts in September 2007 . ' It should have been ` September 2008 ' .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Nashik", 
+        "Malegaon", 
+        "Malegaon"
+    ], 
+    "O": [
+        "Additional Commissioner of Police:291", 
+        "Chief Judicial Magistrate:313"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/malegaon-ats-detains-mahant/article1375188.ece", 
+    "date": "27-09-2007", 
+    "target": "", 
+    "hot_spot": "Malegaon", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorism Squad", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "68", 
+            "Others"
+        ], 
+        [
+            "Kalyanpur police", 
+            "74", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "237", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "260", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "286", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "305", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "351", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "423", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "439", 
+            "Others"
+        ]
+    ]
+}

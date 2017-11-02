@@ -1,0 +1,107 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Bijni", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Chirang", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "47", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bhaskarjyoti Mahanta", 
+            "62", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "11-05 a.m.:31", 
+        "a.m.:32"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 34"
+    ], 
+    "death": "", 
+    "title": "22 injured in Assam bomb blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Special Correspondent . . GUWAHATI : Twenty-two persons were injured when a bomb planted on a cycle went off at a crowded place at Bijni in Chirang district at around 11-05 a.m. on Thursday . The injured have been admitted to the Lower Assam Hospital at Bongaigaon . . . Suspicion . . Inspector-General of Police -LRB- Law and Order -RRB- Bhaskarjyoti Mahanta told The Hindu that the bomb was suspected to have been planted by the United Liberation Front of Asom -LRB- ULFA -RRB- . The recent arrests and surrender of its cadres might have been forced the ULFA to trigger the blast , he claimed .", 
+    "injured": "22", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Chirang", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "Special Correspondent:1", 
+        "injured:10", 
+        "bomb planted:13", 
+        "cycle:17", 
+        "crowded place:22", 
+        "injured:37", 
+        "admitted:40", 
+        "Lower Assam Hospital:43", 
+        "Suspicion:51", 
+        "Law and Order:58", 
+        "The Hindu:65", 
+        "bomb:69", 
+        "suspected:71", 
+        "planted:75", 
+        "arrests:89", 
+        "surrender:91", 
+        "cadres:94", 
+        "forced:98", 
+        "trigger:102", 
+        "blast:104", 
+        "claimed:107"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/22-injured-in-assam-bomb-blast/article1341581.ece", 
+    "date": "18-09-2008", 
+    "target": "CROWDED PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "78", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "84", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "100", 
+            "Accused"
+        ]
+    ]
+}

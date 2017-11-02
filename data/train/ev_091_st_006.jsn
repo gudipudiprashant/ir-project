@@ -1,0 +1,115 @@
+{
+    "LOC": [
+        [
+            "Malleswaram", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Mellapalayam", 
+            "47", 
+            "Accused"
+        ], 
+        [
+            "Tirunelveli", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "Poonamallee", 
+            "111", 
+            "Event"
+        ], 
+        [
+            "Kumananchavadi", 
+            "155", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "173", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Syed Ali", 
+            "41", 
+            "Accused"
+        ], 
+        [
+            "Jahan Aamir", 
+            "44", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:19", 
+        "2013:28"
+    ], 
+    "death": "", 
+    "title": "Malleswaram blast: 2 from city arrested", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "", 
+        "Bengaluru", 
+        "Malleswaram"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Sleuths from the Bangalore Central Crime Branch -LRB- CCB -RRB- police arrested two persons from the city on Tuesday in connection with their suspected involvement in the 2013 Malleswaram bomb blast . . . The accused have been identified as Syed Ali and Jahan Aamir from Mellapalayam district , Tirunelveli , and have been taken into custody . The Bangalore CCB came to know about the two based on information provided by a few people they had arrested earlier . . . The accused were on bail after they were arrested by the Tamil Nadu police on charges of possessing explosive materials . They were on their way to the Poonamallee -LRB- Bomb Blasts -RRB- Court to attend a hearing in connection with their case . . . The Bangalore CCB got information about the number of the car in which the two were travelling in and tracked them . They were nabbed at Kumananchavadi , close to the court . The sleuths informed the Poonamalee police station and took them to Bangalore , said a police source .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/malleswaram-blast-2-from-city-arrested/article8386980.ece", 
+    "date": "17-04-2013", 
+    "target": "", 
+    "hot_spot": "Malleswaram", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bangalore Central Crime Branch", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "CCB", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "Bangalore CCB", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu police", 
+            "94", 
+            "Others"
+        ], 
+        [
+            "Bangalore CCB", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "Poonamalee police station", 
+            "166", 
+            "Others"
+        ]
+    ]
+}

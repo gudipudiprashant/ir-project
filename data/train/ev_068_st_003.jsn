@@ -1,0 +1,135 @@
+{
+    "LOC": [
+        [
+            "LUCKNOW/FAIZABAD", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Gorakhpur", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Gorakhpur", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "Gorakhpur", 
+            "133", 
+            "Event"
+        ], 
+        [
+            "Maneka cinema hall", 
+            "144", 
+            "Assoc_Event"
+        ], 
+        [
+            "Maneka", 
+            "166", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gorakhpur", 
+            "171", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "213", 
+            "Neutral"
+        ], 
+        [
+            "Gorakhpur", 
+            "224", 
+            "Event"
+        ], 
+        [
+            "Gorakhpur", 
+            "283", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "309", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ayodhya", 
+            "345", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "P Chandramauli", 
+            "63", 
+            "Comment"
+        ], 
+        [
+            "G L Sharma", 
+            "115", 
+            "Comment"
+        ], 
+        [
+            "Rajesh Rai", 
+            "209", 
+            "Comment"
+        ], 
+        [
+            "Mayawati", 
+            "217", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:10", 
+        "Tuesday:37", 
+        "1992-93:135", 
+        "Wednesday : 175", 
+        "Gorakhpur : 207", 
+        "Wednesday : 247", 
+        "Wednesday : 317", 
+        "Wednesday : 347"
+    ], 
+    "death": "", 
+    "title": "Gorakhpur explosives of low intensity, not RDX", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Gorakpur", 
+        "Gorakhpur", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "LUCKNOW/FAIZABAD : Investigators probing the Gorakhpur serial blasts on Wednesday identified the shops from where the three bicycles on which bombs packed into lunch boxes were planted were bought . Experts said it was possible that Tuesday 's blasts were linked to ` low-intensity terrorism ' being carried out by some extremist groups across the country . Principal secretary , home , P Chandramauli , after his return from Gorakhpur , told reporters that the bicycles were purchased from different local shops , and added that the explosive used was ammonium nitrate and not RDX . Besides , the explosions were of low intensity as no craters formed at the blast site . DGP G L Sharma told TOI that investigators were also looking into the details of another bomb explosion in Gorakhpur in 1992-93 . The bomb that caused the blast at Maneka cinema hall was kept inside a shoe box and was of low intensity . Investigators are now tracing those behind the Maneka blast . Meanwhile , Gorakhpur remained normal on Wednesday . ` Though markets were closed in response to trader associations ' call for a bandh , most educational institutions remained open and examinations held as per schedule , ' said Gorakhpur SSP Rajesh Rai . In Lucknow , UP CM Mayawati suspected a political conspiracy behind the Gorakhpur blasts . She even blamed Opposition for hatching a plan to unsettle her administration for narrow gains . She told reporters on Wednesday that the Opposition would like to fan communal passions to create trouble in the state . She , however , warned that the state government would not allow this to happen . Hours after the Gorakhpur serial blasts , railway police recovered 20 kg of liquid ammonium nitrate and packets containing 10 kg of explosives near the reservation counter of the Faizabad railway station in the early hours on Wednesday . The explosives were to be used for crackers . On the other hand , the six suspicious youths who were nabbed from inside a temple in Ayodhya on Wednesday , have turned out to be local tourists .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "serial blasts:7", 
+        "terrorism:45", 
+        "extremist:52", 
+        "ammonium nitrate:91", 
+        "bomb explosion:130", 
+        "ammonium nitrate:294"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Gorakhpur-explosives-of-low-intensity-not-RDX/articleshow/2070447.cms", 
+    "date": "22-05-2007", 
+    "target": "CITIZENS", 
+    "hot_spot": "", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": []
+}

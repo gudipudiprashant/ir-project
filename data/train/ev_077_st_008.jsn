@@ -1,0 +1,162 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad .", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "82", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "88", 
+            "Accused"
+        ], 
+        [
+            "Ahmedabad", 
+            "113", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "139", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "167", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "172", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Halim", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "Dani Limda", 
+            "48", 
+            "Accused"
+        ], 
+        [
+            "Halim", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "Ashish Bhatia", 
+            "118", 
+            "Comment"
+        ], 
+        [
+            "Bhatia", 
+            "127", 
+            "Comment"
+        ], 
+        [
+            "Halim", 
+            "129", 
+            "Accused"
+        ], 
+        [
+            "Halim", 
+            "147", 
+            "Accused"
+        ], 
+        [
+            "Halim", 
+            "196", 
+            "Accused"
+        ], 
+        [
+            "Bhatia", 
+            "212", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2002:17", 
+        "Sunday:24", 
+        "Saturday:135"
+    ], 
+    "death": "45", 
+    "title": "Ahmedabad blasts: SIMI activist held", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "Ahmedabad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "An activist of the banned Students Islamic Movement of India , who was wanted in the 2002 Gujarat riots , was arrested on Sunday from Ahmedabad after a combing operation for his alleged connection to the blasts there . . . The police arrested Abdul Halim from Dani Limda in the heart of Ahmedabad . Halim had gone into hiding after the riots and remained untraceable so far . . . ` There were reports that he was in hiding in Delhi and we had intimidated the Delhi police as well . After receiving some specific inputs about his whereabouts , the crime branch arrested him during a combing operation , ' Ahmedabad Joint Commissioner of Police Ashish Bhatia told PTI over phone . . . Bhatia said Halim was arrested in connection with Saturday 's blasts in Ahmedabad that claimed 45 lives . . . Halim was wanted by the cops for enticing disgruntled youths from the riot victims ' refugee camps in and around Ahmedabad and taking them to Uttar Pradesh . . . ` From there an organised network was engaged in sending these youths across the border for training purpose and Halim was a part of this network . Currently he is being interrogated , ' said Bhatia . .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "activist:2", 
+        "Students Islamic Movement of India:6", 
+        "2002 Gujarat riots:17", 
+        "operation:30", 
+        "connection:34", 
+        "arrested:44", 
+        "hiding:80", 
+        "combing operation:109", 
+        "45 lives:142", 
+        "riot:159", 
+        "organised network:181", 
+        "training:193"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2008/jul/27ahd16.htm", 
+    "date": "26-07-2008", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "121", 
+            "Others"
+        ]
+    ]
+}

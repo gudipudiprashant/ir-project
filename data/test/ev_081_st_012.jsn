@@ -1,0 +1,400 @@
+{
+    "LOC": [
+        [
+            "Nanded", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "MUMBAI", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Nanded", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "186", 
+            "Event"
+        ], 
+        [
+            "Nanded", 
+            "204", 
+            "Event"
+        ], 
+        [
+            "Nanded", 
+            "248", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "250", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "317", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "342", 
+            "Neutral"
+        ], 
+        [
+            "Nanded", 
+            "366", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "381", 
+            "Accused"
+        ], 
+        [
+            "Malegaon", 
+            "391", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "404", 
+            "Accused"
+        ], 
+        [
+            "Nanded", 
+            "459", 
+            "Event"
+        ], 
+        [
+            "Akanksha Resort", 
+            "500", 
+            "Accused"
+        ], 
+        [
+            "Sinhagad", 
+            "503", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "505", 
+            "Accused"
+        ], 
+        [
+            "Pune", 
+            "602", 
+            "Accused"
+        ], 
+        [
+            "Pune", 
+            "654", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Meena Menon", 
+            "1", 
+            "Accused"
+        ], 
+        [
+            "Mithun Chakravarty", 
+            "5", 
+            "Accused"
+        ], 
+        [
+            "Chakravarty", 
+            "17", 
+            "Accused"
+        ], 
+        [
+            "Himanshu Panse", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "Mithun Chakravarty", 
+            "73", 
+            "Accused"
+        ], 
+        [
+            "K.P. Raghuvanshi", 
+            "108", 
+            "Comment"
+        ], 
+        [
+            "Chakravarty", 
+            "115", 
+            "Accused"
+        ], 
+        [
+            "Chakravarty", 
+            "127", 
+            "Accused"
+        ], 
+        [
+            "Himanshu Panse", 
+            "153", 
+            "Accused"
+        ], 
+        [
+            "Raghuvanshi", 
+            "169", 
+            "Comment"
+        ], 
+        [
+            "Teesta Setalvad", 
+            "196", 
+            "Accused"
+        ], 
+        [
+            "Chakravarty", 
+            "213", 
+            "Accused"
+        ], 
+        [
+            "Chakravarty", 
+            "257", 
+            "Accused"
+        ], 
+        [
+            "Arun Kumar", 
+            "291", 
+            "Comment"
+        ], 
+        [
+            "Shrikant Prasad Purohit", 
+            "309", 
+            "Accused"
+        ], 
+        [
+            "Arun Kumar", 
+            "326", 
+            "Comment"
+        ], 
+        [
+            "R. K. Gaur", 
+            "349", 
+            "Comment"
+        ], 
+        [
+            "Mithun Chakravarty", 
+            "463", 
+            "Accused"
+        ], 
+        [
+            "Maruti Keshav", 
+            "484", 
+            "Accused"
+        ], 
+        [
+            "Wagh", 
+            "486", 
+            "Accused"
+        ], 
+        [
+            "Himanshu Panse", 
+            "488", 
+            "Accused"
+        ], 
+        [
+            "Sanjay Choudhari", 
+            "491", 
+            "Accused"
+        ], 
+        [
+            "Yogesh Ravindra Vidulkar", 
+            "494", 
+            "Accused"
+        ], 
+        [
+            "Chakravarty", 
+            "510", 
+            "Accused"
+        ], 
+        [
+            "Chakravarty", 
+            "541", 
+            "Accused"
+        ], 
+        [
+            "Himanshu Panse", 
+            "543", 
+            "Accused"
+        ], 
+        [
+            "Sanjay Choudhari", 
+            "568", 
+            "Accused"
+        ], 
+        [
+            "Rahul Manohar Pande", 
+            "574", 
+            "Accused"
+        ], 
+        [
+            "Pande", 
+            "584", 
+            "Comment"
+        ], 
+        [
+            "Mithun Chakravarty", 
+            "599", 
+            "Accused"
+        ], 
+        [
+            "Sanjay Choudhari", 
+            "611", 
+            "Accused"
+        ], 
+        [
+            "Himanshu", 
+            "627", 
+            "Accused"
+        ], 
+        [
+            "Mithun Chakraborthy", 
+            "632", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "April 2006:50", 
+        "September 29 , 2008 : 182", 
+        "March 15 , 2008 : 374", 
+        "November 9:452", 
+        "2003:498"
+    ], 
+    "death": "", 
+    "title": "CBI looking for links between Nanded and Malegaon blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Meena Menon . . Mithun Chakravarty named in Nanded case remains unidentified , untraceable . . Chakravarty trained the accused in bomb making : police . . But no one seems to know him except Himanshu Panse , who was killed in blast . . MUMBAI : In the April 2006 Nanded blast case , a mysterious name kept cropping up in the course of investigations . More than one accused named Mithun Chakravarty , referred to as Sir . . . However , this man was never traced . The former Anti-Terrorism Squad -LRB- ATS -RRB- chief and now Additional Director - General of Police , K.P. Raghuvanshi , told The Hindu that Chakravarty was not identified , nor was he traceable . . . Chakravarty was the man who trained the accused in making bombs , the police official said . . . No one seemed to know him except Himanshu Panse , who was one of the two persons killed in the blast . Mr. Raghuvanshi said the blast was caused by Hindu fundamentalists and even in the September 29 , 2008 Malegaon incident , it appeared so . . . Activist Teesta Setalvad , who has been monitoring the Nanded case , has written in Communalism Combat that Chakravarty was excluded from the scope of further investigation even after the Central Bureau of Investigation had taken over the case from the ATS . Now the CBI is trying to find links between the Nanded and Malegaon blasts and there is speculation that Chakravarty could be the missing link . . . Right-wing involvement . . According to sources , the two blasts point to the involvement of right-wing groups . While nothing is official , Mr. Arun Kumar , CBI Joint Director , who is in the city , has reportedly questioned Lt. Col. Shrikant Prasad Purohit , an accused in the Malegaon blast case . When contacted , all Mr. Arun Kumar would say on record was that the CBI had issued a four-line statement from New Delhi . . . According to R. K. Gaur , press information officer , the statement read : The CBI has investigated the Nanded blasts and filed a charge sheet on March 15 , 2008 . The ATS Maharashtra has arrested nine persons during the investigations of the Malegaon bomb blast case . The CBI has established informal interaction with the Maharashtra ATS in connection with the investigation . The ATS is doing investigation into the sensitive case in a very professional manner . In case they require any assistance , the CBI is ready to provide all cooperation . . . In the supplementary charge sheet filed on November 9 by the ATS in the Nanded blast case , Mithun Chakravarty is mentioned as the person who trained the accused in making pipe bombs . He also trained the accused Maruti Keshav Wagh , Himanshu Panse , Sanjay Choudhari and Yogesh Ravindra Vidulkar in 2003 at Akanksha Resort near Sinhagad in Pune district . . . Chakravarty trained all these men in making three types of bombs including an improvised explosive device . The men learnt how to prepare bombs and explode them during the training . Chakravarty gave Himanshu Panse explosives at the end of the training . . . His name cropped up even in the reports on narco analysis done on Sanjay Choudhari and another accused , Rahul Manohar Pande . On preparation of the bomb , Pande said two persons had given training to Panse ; one of them was named Mithun Chakravarty from Pune . . . During the narco analysis on Sanjay Choudhari , he said the person who had given them training was called Sir by Himanshu and his name is Mithun Chakraborthy who had a beard , was tall and stout built and while returning , from the training , at the Pune railway station , he gave a bag which contained material used for preparing the bomb .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Nanded", 
+        "Nanded"
+    ], 
+    "O": [
+        "Additional Director:101", 
+        "Hindu:113", 
+        "Hindu:176", 
+        "Communalism Combat:210", 
+        "Joint Director:295", 
+        "supplementary charge:447", 
+        "Panse:592", 
+        "railway station:655"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/cbi-looking-for-links-between-nanded-and-malegaon-blasts/article1372671.ece", 
+    "date": "09-11-2008", 
+    "target": "", 
+    "hot_spot": "Nanded", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "police", 
+            "25", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "96", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "140", 
+            "Others"
+        ], 
+        [
+            "Central Bureau of Investigation", 
+            "225", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "236", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "240", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "294", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "335", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "362", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "380", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "397", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "405", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "413", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "435", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "456", 
+            "Others"
+        ]
+    ]
+}

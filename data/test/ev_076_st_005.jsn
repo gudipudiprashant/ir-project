@@ -1,0 +1,164 @@
+{
+    "LOC": [
+        [
+            "BANGALORE", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "39", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "113", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "156", 
+            "Neutral"
+        ], 
+        [
+            "Madivala", 
+            "172", 
+            "Neutral"
+        ], 
+        [
+            "Madivala bus stand", 
+            "172", 
+            "Neutral"
+        ], 
+        [
+            "Madivala bus stand", 
+            "172", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "310", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "312", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "325", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "346", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sudha", 
+            "165", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Ravi", 
+            "178", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Chetan", 
+            "192", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Gullamma", 
+            "194", 
+            "Assoc_Victim"
+        ]
+    ], 
+    "TIM": [
+        "1.40 pm : 231", 
+        "2.15 pm:234"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:67", 
+        "May:104", 
+        "late Friday:279", 
+        "Friday:280"
+    ], 
+    "death": "1", 
+    "title": "8 blasts rock Bangalore", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "Bangalore", 
+        ""
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA", 
+        "STUDENTS ISLAMIC MOVEMENT OF INDIA"
+    ], 
+    "content": "BANGALORE : There 's a certain inevitability about it . It 's now almost a pattern that terrorists strike even before the nation recovers from its last shock , to leave it traumatized again.The target this time was Bangalore , the country 's IT capital , which has been in the terror shadow for long . The city became a target of eight serial blasts on Friday , leaving one dead , eight injured and the city scarred . The bombs were of low intensity , aimed more at dislocating economic activity than killing hundreds of people . -LRB- Watch -RRB- Only in May , 68 people were killed by terrorists in Jaipur . Even as the police was groping to identify the culprits there , terrorists cocked a snook at the security agencies , triggering eight serial blasts in 35 minutes at seven places during the busy lunch hour . -LRB- In Pics : Bangalore serial bomb blasts -RRB- The lone victim was Sudha , who was waiting at the Madivala bus stand . Her husband Ravi , who was standing beside her , was severely injured . Two others Chetan and Gullamma were also injured.Police said the bombs were put together with ammonium nitrate , commonly used in gelatin sticks , and used nuts and bolts as shrapnel . Timer devices were used to trigger the blasts between 1.40 pm and 2.15 pm in non-descript places on a traffic island , inside a drain , a vacant plot next to a vehicle showroom . As word of the blasts spread , malls , cinema halls and schools shut down for the day.No group claimed responsibility until late Friday , but intelligence sources said Lashkar-e-Taiba and SIMI were main suspects . ` The aim of these groups , whether Huji , LeT or SIMI , is clear . Bangalore and Hyderabad are chosen because by hitting them , panic can be conveyed to US and the west as these cities house their biggest IT operations , ' said a security official involved in the Mecca Masjid probe .", 
+    "injured": "8", 
+    "org_unorg": "", 
+    "O": [
+        "it capital:44", 
+        "serial blasts:64", 
+        "bangalore serial bomb:156", 
+        "bangalore serial bomb blasts:156", 
+        "bangalore:156", 
+        "serial bomb:157", 
+        "ammonium nitrate:205", 
+        "gelatin sticks:211", 
+        "shrapnel:220", 
+        "traffic island:241", 
+        "vehicle showroom:254", 
+        "cinema halls:266", 
+        "security official:341"
+    ], 
+    "unexpl": [
+        "SHRAPNEL"
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/8-blasts-rock-Bangalore/articleshow/3279730.cms?referral=PM", 
+    "date": "25-07-2008", 
+    "target": "ROAD SIDE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        "AMMONIUM NITRATE", 
+        "GELATINE STICKS"
+    ], 
+    "ORG": [
+        [
+            "Lashkar-e-Taiba", 
+            "286", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "288", 
+            "Accused"
+        ], 
+        [
+            "Huji", 
+            "301", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "303", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "305", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "GUWAHATI", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Baska", 
+            "161", 
+            "Event"
+        ], 
+        [
+            "Chirang", 
+            "167", 
+            "Event"
+        ], 
+        [
+            "Nalbari", 
+            "169", 
+            "Event"
+        ], 
+        [
+            "Ninth Mile", 
+            "235", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "260", 
+            "Neutral"
+        ], 
+        [
+            "Sivsagar", 
+            "262", 
+            "Neutral"
+        ], 
+        [
+            "Dispur", 
+            "285", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "H.R. Yadav", 
+            "139", 
+            "Victim"
+        ], 
+        [
+            "Tarun", 
+            "299", 
+            "Others"
+        ], 
+        [
+            "Venkaiah Naidu", 
+            "328", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "last night : 40", 
+        "tonight : 67", 
+        "today : 93", 
+        "last night : 102", 
+        "at6 .45 p.m. : 130", 
+        "tonight : 133", 
+        "today : 187", 
+        "11 p.m. : 222", 
+        "last night : 265"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "MARCH 10 : 19", 
+        "yesterday midnight : 84"
+    ], 
+    "death": "", 
+    "title": "9 more blasts rock Assam", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Chirang", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Other States - Assam 9 more blasts rock Assam . . By Sushanta Talukdar . . GUWAHATI , MARCH 10 . Nine more blasts triggered by the United Liberation Front of Asom -LRB- ULFA -RRB- rocked Assam since late last night even as security has been strengthened throughout the State . One CRPF member was injured in a blast in the heart of the city here tonight while there was no report of any casualty in the other five blasts that occurred since yesterday midnight . . . While six blasts occurred today , the militant outfit triggered three more late last night . . . The CRPF man was injured when suspected ULFA militants lobbed a grenade at a CRPF transit camp near the busy Ulubari Flyover here at6 .45 p.m. tonight . The injured personnel , H.R. Yadav , was rushed to hospital . . . Earlier during the day the ULFA triggered five more blasts two in Baska district , one each in Chirang and Nalbari districts . . . Police said six live bombs were recovered in different parts of the State today . Army and police explosive experts detonated three bombs recovered in the city . . . Even as the police and the Army were busy defusing live bombs , militants triggered a blast at 11 p.m. in which a compound wall of the CRPF group centre at Ninth Mile on the outskirts of the city was damaged . The outfit also triggered two more blasts on a gas and oil pipeline in Dibrugarh and Sivsagar district late last night . . . BJP plans protest . . The Bharatiya Janata Party State unit will undertake a ` Dispur gherao ' programme to demand , among other things , dismissal of the Tarun Gogoi-led Congress Government for its `` failure to contain extremist violence and protect lives and property of the common people '' . . . The BJP leader , Venkaiah Naidu , is scheduled to attend the programme .", 
+    "injured": "1", 
+    "org_unorg": "", 
+    "O": [
+        "9 more blasts:5", 
+        "rock:8", 
+        "Nine more blasts:22", 
+        "triggered:25", 
+        "rocked:36", 
+        "security:44", 
+        "strengthened:47", 
+        "State:50", 
+        "injured:56", 
+        "blast:59", 
+        "no report:71", 
+        "casualty:75", 
+        "five blasts:79", 
+        "occurred:82", 
+        "six blasts:90", 
+        "occurred:92", 
+        "militant outfit:96", 
+        "triggered:98", 
+        "three more:99", 
+        "injured:111", 
+        "suspected:113", 
+        "militants:115", 
+        "lobbed:116", 
+        "grenade:118", 
+        "transit camp:122", 
+        "busy Ulubari Flyover:126", 
+        "injured:136", 
+        "rushed:143", 
+        "hospital:145", 
+        "triggered:155", 
+        "five more blasts:156", 
+        "six live bombs:176", 
+        "recovered:180", 
+        "State:186", 
+        "explosive experts:192", 
+        "detonated:194", 
+        "three bombs:195", 
+        "recovered:197", 
+        "city:200", 
+        "busy:212", 
+        "defusing live bombs:213", 
+        "militants triggered:217", 
+        "blast:220", 
+        "compound wall:227", 
+        "CRPF group centre:231", 
+        "outskirts:239", 
+        "damaged:244", 
+        "outfit:247", 
+        "triggered:249", 
+        "two more blasts:250", 
+        "gas and oil pipeline:255", 
+        "protest:272", 
+        "Bharatiya Janata Party State unit:276", 
+        "undertake:282", 
+        "Dispur gherao:285", 
+        "programme:288", 
+        "demand:290", 
+        "dismissal:296", 
+        "Tarun Gogoi-led Congress Government:299", 
+        "failure:306", 
+        "extremist violence:309", 
+        "protect lives:312", 
+        "property:315", 
+        "common people:318", 
+        "programme:336"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/03/11/stories/2005031107011200.htm", 
+    "date": "", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "CRPF", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "114", 
+            "Accused"
+        ], 
+        [
+            "CRPF", 
+            "121", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "154", 
+            "Accused"
+        ], 
+        [
+            "CRPF", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "270", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "276", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "325", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "LOC": [
+        [
+            "LUDHIANA", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Ludhiana-Ferozepur National Highway.Gurpreet", 
+            "71", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Gurpreet Singh", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "Gurpreet", 
+            "89", 
+            "Accused"
+        ], 
+        [
+            "Gurpreet", 
+            "114", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 5", 
+        "September : 41"
+    ], 
+    "death": "6", 
+    "title": "Punjab Police raids Ludhiana blast suspect's hideouts", 
+    "det_loc": [
+        "India", 
+        "Punjab", 
+        "Ludhiana", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "LUDHIANA : Police on Thursday raided the hideouts of Gurpreet Singh , a suspect in the recent cinema hall blast here which killed six persons and injured 32 others.The suspect with a terrorist background has been on the run since September two last when his car carrying 3.5 kgs of RDX , a 50-metre wire , a detonator , iron pipes and sockets was intercepted by the police on the Ludhiana-Ferozepur National Highway.Gurpreet had abandoned the vehicle and disappeared by hoodwinking the police party.Police intensified their search for Gurpreet when forensic teams found traces of RDX in the blast at a cinema hall here.The raids conducted today have not yielded any clues to Gurpreet 's whereabouts so far , they said.However , efforts are on to track him down with a large number of his friends and family members being questioned , they added .", 
+    "injured": "32", 
+    "org_unorg": "", 
+    "O": [
+        "raided the hideouts:6", 
+        "cinema hall blast:18", 
+        "killed six persons:23", 
+        "injured 32:27", 
+        "terrorist background:33", 
+        "his car:45", 
+        "3.5 kgs of RDX:48", 
+        "50-metre wire:54", 
+        "detonator:58", 
+        "iron pipes:60", 
+        "sockets:63", 
+        "abandoned the vehicle:75", 
+        "hoodwinking the police:81", 
+        "forensic teams:91", 
+        "traces of RDX:94"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Punjab-Police-raids-Ludhiana-blast-suspects-hideouts/articleshow/2471056.cms", 
+    "date": "14-10-2007", 
+    "target": "CINEMA HALL", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": []
+}

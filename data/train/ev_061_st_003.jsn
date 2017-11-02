@@ -1,0 +1,224 @@
+{
+    "LOC": [
+        [
+            "Srinagar", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "SRINAGAR", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Kashmir", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "Kashmir", 
+            "125", 
+            "Event"
+        ], 
+        [
+            "Mushtaq Ahmed", 
+            "254", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "476", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shujaat Bukhari", 
+            "15", 
+            "Others"
+        ], 
+        [
+            "H.K. Lohia", 
+            "119", 
+            "Others"
+        ], 
+        [
+            "Usman Majid", 
+            "156", 
+            "Others"
+        ], 
+        [
+            "Lohia", 
+            "192", 
+            "Comment", 
+            "Others"
+        ], 
+        [
+            "Majid", 
+            "196", 
+            "Others"
+        ], 
+        [
+            "Kukka Parray", 
+            "206", 
+            "Others"
+        ], 
+        [
+            "Majid", 
+            "219", 
+            "Others"
+        ], 
+        [
+            "Majid", 
+            "267", 
+            "Others"
+        ], 
+        [
+            "Shaista", 
+            "315", 
+            "Comment"
+        ], 
+        [
+            "Merajuddin", 
+            "363", 
+            "Others"
+        ], 
+        [
+            "Majid Iqbal", 
+            "412", 
+            "Comment"
+        ], 
+        [
+            "Hizbul Mujahideen", 
+            "452", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "10.15 a.m.:91"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:31", 
+        "2003:214"
+    ], 
+    "death": "4", 
+    "title": "4 killed, 45 hurt in Srinagar car bomb blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Front Page 4 killed , 45 hurt in Srinagar car bomb blast . . Shujaat Bukhari . . SRINAGAR : For the third consecutive day militants struck in Kashmir on Wednesday , setting off a car bomb here which killed at least four persons and injured 45 others , including a former Minister . The condition of at least 14 of them is stated to be critical . . . The civil lines area shook in the explosion , which occurred outside the Jammu and Kashmir Bank head office at 10.15 a.m. . The police said the explosives-laden car was parked outside the gate , which is close to one of the busiest crossings in the city . H.K. Lohia , Deputy Inspector-General , Kashmir range , told The Hindu that it was probably detonated with a remote-controlled device . . . As the official car of the former Minister of State and MLA , Usman Majid 's was directly hit , ` they -LSB- militants -RSB- might have seen this VIP vehicle and hit the target . But I do not think it was aimed at him , ' Mr. Lohia said . Mr. Majid is a former counter-insurgent and close associate of counter-insurgent-turned-politician Kukka Parray , who was gunned down in 2003 . . . Mr. Majid had a narrow escape but received bruises in the face and his security guards were also injured . His car was completely damaged . ` He is safe and out of danger , ' Mushtaq Ahmed , his personal assistant told The Hindu . He said Mr. Majid was a target of militants . . . Witnesses said at least two persons including the bank guard died instantly and scores were left in a pool of blood . ` It was a big explosion and it looked like doomsday dawning on us , ' said Shaista , a bank official . . . ' I saw people lying on the road and crying for help , but there was chaos as news spread that a fidayeen -LRB- suicide squad member -RRB- had entered the bank office which was not true , ' said Merajuddin , a bus conductor . . . Buildings rattled within a two-km radius and Moulana Azad Road was littered with damaged vehicles , mangled steel with bloodstain and footwear . . . Al Arifeen , a little known militant outfit owned responsibility for the attack . Its spokesman Majid Iqbal told a local news agency KNS that it had planned to carry out explosion somewhere else but ` when the police stopped the target the militants had no option but to explode it . ' . . The Hizbul Mujahideen condemned the blast and said ` we are not for such activities . '' . . Related Stories : Mounting frustration in Kashmir .", 
+    "injured": "45", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "car bomb blast:10", 
+        "consecutive day militants:24", 
+        "struck:27", 
+        "car bomb:36", 
+        "killed:40", 
+        "four persons:43", 
+        "injured:46", 
+        "critical:67", 
+        "civil lines area:72", 
+        "explosion:78", 
+        "occurred:81", 
+        "Jammu and Kashmir Bank head office:84", 
+        "explosives-laden car:98", 
+        "parked:101", 
+        "gate:104", 
+        "busiest crossings:113", 
+        "detonated:135", 
+        "remote-controlled device:138", 
+        "official car:145", 
+        "hit:161", 
+        "militants:166", 
+        "VIP vehicle:172", 
+        "hit:175", 
+        "target:177", 
+        "aimed:186", 
+        "gunned down:211", 
+        "narrow escape:222", 
+        "received bruises:225", 
+        "security guards:232", 
+        "injured:236", 
+        "completely damaged:241", 
+        "safe:247", 
+        "assistant:259", 
+        "target:270", 
+        "militants:272", 
+        "Witnesses:276", 
+        "bank guard:284", 
+        "died:286", 
+        "scores:289", 
+        "pool of blood:294", 
+        "big explosion:302", 
+        "doomsday dawning:308", 
+        "chaos:339", 
+        "spread:342", 
+        "fidayeen:345", 
+        "suicide squad member:347", 
+        "rattled:372", 
+        "two-km radius:375", 
+        "Moulana Azad Road:378", 
+        "damaged vehicles:384", 
+        "mangled steel:387", 
+        "bloodstain:390", 
+        "footwear:392", 
+        "Arifeen:397", 
+        "militant outfit:402", 
+        "responsibility:405", 
+        "attack:408", 
+        "news agency:417", 
+        "planned:423", 
+        "explosion:427", 
+        "police stopped:434", 
+        "target:437", 
+        "militants:439", 
+        "explode:445", 
+        "condemned:454", 
+        "blast:456", 
+        "Mounting frustration:473"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/11/17/stories/2005111720250100.htm", 
+    "date": "16-11-2005", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "The Hindu", 
+            "129", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "261", 
+            "Others"
+        ], 
+        [
+            "KNS", 
+            "419", 
+            "Others"
+        ]
+    ]
+}

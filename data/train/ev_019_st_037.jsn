@@ -1,0 +1,160 @@
+{
+    "LOC": [
+        [
+            "Burdwan", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "36", 
+            "Event"
+        ], 
+        [
+            "Kirnahar", 
+            "82", 
+            "Event"
+        ], 
+        [
+            "Birbhum", 
+            "88", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "94", 
+            "Event"
+        ], 
+        [
+            "Birbhum", 
+            "209", 
+            "Neutral"
+        ], 
+        [
+            "Kirnahar", 
+            "225", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "235", 
+            "Event"
+        ], 
+        [
+            "Kirnanar", 
+            "257", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "288", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "313", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sheikh Taled", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "Balwar Sheikh", 
+            "161", 
+            "Others"
+        ], 
+        [
+            "Sheikh Taled", 
+            "182", 
+            "Others"
+        ], 
+        [
+            "Kirnahar", 
+            "192", 
+            "Others"
+        ], 
+        [
+            "Pranab Mukherjee", 
+            "196", 
+            "Others"
+        ], 
+        [
+            "Balwar Sheikh", 
+            "269", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October:10", 
+        "Saturday:25", 
+        "October 2:38", 
+        "October:105", 
+        "October 6:105", 
+        "August:125", 
+        "September 27:259", 
+        "Saturday:292"
+    ], 
+    "death": "2", 
+    "title": "Burdwan Blast: National Investigation Agency Seeks Custody of Accused", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The building in Burdwan where an explosion occurred on October 2Burdwan : A six-member team of the National Investigation Agency -LRB- NIA -RRB- on Saturday visited the site of an explosion in West Bengal 's Burdwan on October 2 in which two suspected militants were killed and another was injured . Four people , including two women , have been arrested connection with the blast.The visit came on a day when central intelligence officials searched the house of a suspect at Kirnahar in the neighbouring district of Birbhum and a house owner in Burdwan filed a police complaint stating his tenants were missing since October 6 . The tenants included a couple and their young daughter . They had moved into the house in August . The husband 's name was Sheikh Taled . Soon after , another couple moved into their house . All of them have been missing since the 6th of this month . The landlord , Balwar Sheikh unsuccessfully tried to contact them on phone.What has worried the police is the fact that the missing tenant , Sheikh Taled , told the landlord that he belonged to Kirnahar , where President Pranab Mukherjee 's sister lives . The President visited the town in the Birbhum district during Durga Puja . Police is currently on the lookout of certain people in Kirnahar who may have some links with the blast in Burdwan . Call records from a SIM card recovered from the blast site showed several calls had been made to people in Kirnanar on September 27 and some other dates.The police has also sealed Balwar Sheikh 's flat from where his tenants mysteriously disappeared.The NIA , which is probing the case approached a West Bengal court on Saturday , seeking the custody of the accused arrested in the case as well as transfer of the case to a Kolkata court , an official said . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "", 
+        "Bardhaman", 
+        "building in Burdwan"
+    ], 
+    "O": [
+        "police:97", 
+        "police:173", 
+        "Durga Puja:212", 
+        "Police:215", 
+        "police:265"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/burdwan-blast-national-investigation-agency-seeks-custody-of-accused-678077", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "building in Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "279", 
+            "Others"
+        ]
+    ]
+}

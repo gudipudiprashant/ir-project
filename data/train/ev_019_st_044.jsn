@@ -1,0 +1,241 @@
+{
+    "LOC": [
+        [
+            "West Bengal", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "62", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "87", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "108", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "133", 
+            "Neutral"
+        ], 
+        [
+            "Khagragarh", 
+            "146", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "148", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "197", 
+            "Event"
+        ], 
+        [
+            "Mathpara", 
+            "214", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "216", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "314", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "326", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "345", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shakil Ahmed", 
+            "121", 
+            "Victim"
+        ], 
+        [
+            "Suvon Mandal", 
+            "124", 
+            "Victim"
+        ], 
+        [
+            "Subhan", 
+            "127", 
+            "Victim"
+        ], 
+        [
+            "Abdul Hakim", 
+            "153", 
+            "Victim"
+        ], 
+        [
+            "Hassan", 
+            "156", 
+            "Victim"
+        ], 
+        [
+            "Sharad Kumar", 
+            "194", 
+            "Others"
+        ], 
+        [
+            "Kumar", 
+            "284", 
+            "Comment"
+        ], 
+        [
+            "Ajit Doval", 
+            "320", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:28", 
+        "Friday:190", 
+        "October 17:223", 
+        "Monday:328"
+    ], 
+    "death": "", 
+    "title": "Burdwan Blast Accused Members of Bangladesh Terror Group: National Investigation Agency", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "", 
+        "Bardhaman", 
+        "West Bengal 's Burdwan"
+    ], 
+    "terror_group": [
+        "JAMAAT-UL-MUJAHIDEEN BANGLADESH "
+    ], 
+    "content": "Burdwan : The National Investigation Agency -LRB- NIA -RRB- has said that all four persons arrested in connection with the blast in West Bengal 's Burdwan on October 2 are members of the terror group , Jamaat-ul-Mujahideen Bangladesh -LRB- JMB -RRB- . The agency also said that the accused were preparing improvised explosive devices -LRB- IEDs -RRB- for transporting them to Bangladesh for possible terror attacks . `` Investigation so far has revealed that the accused persons and their associates were the members of Jamaat-ul-Mujahideen , Bangladesh -LRB- JMB -RRB- , a terrorist organisation proscribed in Bangladesh and they were preparing IEDs which were being transported to Bangladesh , '' the NIA said in a statement on Friday.Two men , Shakil Ahmed and Suvon Mandal alias Subhan - both allegedly residents of Bangladesh - were killed while making the IEDs in a rented house in Khagragarh in Burdwan . A third , Abdul Hakim alias Hassan was injured . He was arrested by the NIA along with three others , including two women - one of them is the widow of a terror suspect who died in the blast.On Friday , NIA chief Sharad Kumar visited Burdwan and inspected the house where the blast occurred . He also visited another house at nearby Mathpara in Burdwan where 39 IEDs were found on October 17 by the NIA ; 37 of them were detonated . The house , incidentally , had been searched and sealed by the state police eight days before the NIA recovered the IEDs . `` We have evolved strategies regarding arrests of absconding accused persons . I ca n't reveal anything because it will affect the investigation , '' Mr Kumar told reporters.The NIA is also considering announcing cash rewards for any information leading to the `` arrest of those absconding accused of this case which include JMB members from Bangladesh '' . National Security Advisor Ajit Doval is likely to visit Burdwan on Monday to take stock of the investigation.The government is preparing a dossier which will be shared with Bangladesh which had sought details on the case . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "terror group:34", 
+        "explosive devices:53", 
+        "terrorist organisation:93", 
+        "rented house:143", 
+        "detonated:233"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/burdwan-blast-accused-members-of-bangladesh-terror-group-national-investigation-agency-683861", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "West Bengal 's Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen Bangladesh", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "40", 
+            "Accused"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen", 
+            "85", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "89", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "112", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "165", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "192", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "227", 
+            "Others"
+        ], 
+        [
+            "state police", 
+            "247", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "253", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "287", 
+            "Others"
+        ], 
+        [
+            "JMB", 
+            "311", 
+            "Accused"
+        ], 
+        [
+            "government", 
+            "335", 
+            "Others"
+        ]
+    ]
+}

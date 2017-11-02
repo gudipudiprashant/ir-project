@@ -1,0 +1,155 @@
+{
+    "LOC": [
+        [
+            "Burdwan", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "25", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "46", 
+            "Assoc_Event"
+        ], 
+        [
+            "Khagragarh", 
+            "67", 
+            "Event"
+        ], 
+        [
+            "Simulia madarsa", 
+            "139", 
+            "Neutral"
+        ], 
+        [
+            "Beldanga", 
+            "145", 
+            "Accused"
+        ], 
+        [
+            "Murshidabad", 
+            "147", 
+            "Accused"
+        ], 
+        [
+            "Kolkata", 
+            "175", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sharad Kumar", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "Sharad Kumar", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "Sanjeev Kumar Singh", 
+            "115", 
+            "Others"
+        ], 
+        [
+            "Vikram Kharate", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "Shakil Gazi", 
+            "156", 
+            "Accused"
+        ], 
+        [
+            "Kumar", 
+            "163", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:38"
+    ], 
+    "death": "2", 
+    "title": "National Investigation Agency Chief Takes Stock of Burdwan Blast Probe", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "building in Burdwan"
+    ], 
+    "terror_group": [
+        "JAMIAT-UL-MUJAHIDEEN"
+    ], 
+    "content": "The building in Burdwan where an explosion occurred on October 2Kolkata : National Investigation Agency -LRB- NIA -RRB- chief Sharad Kumar arrived today in West Bengal 's Burdwan district to take stock of the investigation into the October 2 blast in which militant outfit Jamaat-ul-Mujahideen Bangladesh is suspected to have been involved.The blast of an improvised explosive device -LRB- IED -RRB- in a rented house in Khagragarh killed two suspected militants and injured another.Six people , including two women , have been arrested for involvement in the blast which is being probed by the NIA following a directive by the union home ministry.NIA Director General Sharad Kumar , accompanied by Inspector General of Police Sanjeev Kumar Singh and Superintendent of Police Vikram Kharate , visited the house in which the blast occurred.He is also slated to visit the Simulia madarsa and then go to Beldanga in Murshidabad district where one of the killed militants , Shakil Gazi , had a rented accommodation.Mr Kumar will later hold a meeting with the NIA probe team in Kolkata . .", 
+    "injured": "6", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "ied:60", 
+        "rented house:64", 
+        "militants:71", 
+        "director general:104", 
+        "superintendent:119", 
+        "house:127", 
+        "militants:154"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/national-investigation-agency-chief-takes-stock-of-burdwan-blast-probe-683549", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "building in Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "121", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "171", 
+            "Others"
+        ]
+    ]
+}

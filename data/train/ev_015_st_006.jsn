@@ -1,0 +1,145 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Dhekiajuli", 
+            "92", 
+            "Event"
+        ], 
+        [
+            "Sonitpur", 
+            "96", 
+            "Event"
+        ], 
+        [
+            "Gossaigaon", 
+            "121", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "123", 
+            "Event"
+        ], 
+        [
+            "Diphu", 
+            "157", 
+            "Neutral"
+        ], 
+        [
+            "Karbi Anglong", 
+            "159", 
+            "Neutral"
+        ], 
+        [
+            "Dimapur", 
+            "246", 
+            "Neutral"
+        ], 
+        [
+            "Nagaland", 
+            "248", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shivraj Patil", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "233", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "today : 15", 
+        "morning : 99", 
+        "yesterday : 259"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "yesterday : 64"
+    ], 
+    "death": "", 
+    "title": "Blasts rock Assam for the second day", 
+    "org_unorg": "", 
+    "terror_group": [
+        "NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)"
+    ], 
+    "content": "GUWAHATI : Attacks by NDFB militants continued to rock Assam for the second day today with two bomb blasts and a firing incident injuring eight persons even as Union Home Minister Shivraj Patil arrived here to review the security situation . . . The attacks took place amidst maximum alert in NDFB dominated areas in view of the outfit 's raising day and yesterday 's terror strikes , the toll in which rose to 26 with a CRPF personnel succumbing to injuries . A bomb exploded in a cloth shop at Dhekiajuli weekly market in Sonitpur district this morning injuring five persons . . . Two persons were seriously injured when militants opened indiscriminate fire in another weekly market at Gossaigaon in Kokrajhar district , police said . . . A crude bomb exploded in Nalbari town , where NDFB is active , seriously injured a 12 year-old girl . A CRPF jawan , injured at Diphu in Karbi Anglong district , succumbed to injuries and the condition of his nine colleagues was critical . . . Director General of Police P V Sumant told that '' maximum alert '' was sounded in the areas where NDFB is active . Additional security forces have been deployed and security along railway tracks intensified following apprehensions that the ultras may target trains . The Union Home Minister reviewed the security situation with Chief Minister Tarun Gogoi and other senior officials here . He would later leave for Dimapur in Nagaland where twin blasts killed 26 people and injured over 100 yesterday .", 
+    "injured": "8", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Sonitpur", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "attacks:3", 
+        "militants:6", 
+        "bomb blasts:18", 
+        "security:39", 
+        "attacks:45", 
+        "outfit:59", 
+        "raising day:61", 
+        "terror strikes:66", 
+        "bomb:85", 
+        "injured:110", 
+        "militants:112", 
+        "crude bomb:132", 
+        "injured:155", 
+        "railway tracks:210", 
+        "trains:220", 
+        "twin blasts:250", 
+        "killed:252", 
+        "injured:256"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2004-10-03/news/27375166_1_ndfb-militants-blasts-rock-assam-diphu", 
+    "date": "03-10-2004", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "NDFB", 
+            "5", 
+            "Accused"
+        ], 
+        [
+            "NDFB", 
+            "52", 
+            "Accused"
+        ], 
+        [
+            "CRPF", 
+            "78", 
+            "Others"
+        ], 
+        [
+            "NDFB", 
+            "140", 
+            "Accused"
+        ], 
+        [
+            "CRPF", 
+            "152", 
+            "Others"
+        ]
+    ]
+}

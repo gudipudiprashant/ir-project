@@ -1,0 +1,70 @@
+{
+    "LOC": [
+        [
+            "Varanasi", 
+            "19", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Niyamath Ali", 
+            "39", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "December 7:21", 
+        "Friday:32"
+    ], 
+    "death": "", 
+    "title": "PFI condemns Varanasi blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Popular Front of India -LRB- PFI -RRB- has strongly condemned the bomb blast which took place in Varanasi on December 7 . . . In a press release here on Friday , PFI Udupi district unit president Niyamath Ali said that the blast was a senseless and a shameful act . It was done with the purpose for creating terror among people and disturbing inter-community relations . . . Such acts were intended to weaken the people 's united struggle for justice on the Babri Masjid issue .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        "Varanasi"
+    ], 
+    "O": [
+        "Babri Masjid:86"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/pfi-condemns-varanasi-blast/article945452.ece", 
+    "date": "07-12-2010", 
+    "target": "", 
+    "hot_spot": "Varanasi", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Popular Front of India", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "PFI", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "PFI Udupi", 
+            "34", 
+            "Others"
+        ]
+    ]
+}

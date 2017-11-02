@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Sarojini Nagar", 
+            "5", 
+            "Event"
+        ], 
+        [
+            "NEW DELHI", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Paharganj", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Sarojini Nagar", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Sarojini Nagar", 
+            "164", 
+            "Event"
+        ], 
+        [
+            "Shyam Juice Corner", 
+            "200", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ravinder Khetrapal", 
+            "67", 
+            "Others"
+        ], 
+        [
+            "Khetrapal", 
+            "154", 
+            "Comment"
+        ], 
+        [
+            "Khetrapal", 
+            "159", 
+            "Comment"
+        ], 
+        [
+            "B. S. Bassi", 
+            "223", 
+            "Comment"
+        ], 
+        [
+            "Shivraj Patil", 
+            "243", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "evening : 32", 
+        "8 p.m.:251"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:31"
+    ], 
+    "death": "", 
+    "title": "Panic in Sarojini Nagar market", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi Panic in Sarojini Nagar market . . Staff Reporter . . NEW DELHI : Even as the police were coming to terms with the blast at Paharganj on Saturday evening , another busy market at Sarojini Nagar was rocked by an even more powerful explosion . The bomb went off in one of the corners of the market teaming with people . . . Ravinder Khetrapal was in his readymade clothes shop when the blast went off . Within minutes there was panic all round . People who were engulfed in the blaze screamed for help . The fire gutted at least half-a-dozen clothes shops . . . And then more blasts followed , triggered by exploding cooking gas cylinders that caught fire . ` Following the bomb blast , some of the vehicles which were parked right behind the cloth shops also went up in flames , ' said Mr. Khetrapal . . . Mr. Khetrapal added that while the Sarojini Nagar market is always teeming with people , particularly nowadays in view of the festive season , the blast took place at the most crowded corner , where a few eateries are located , including Shyam Juice Corner where the first cooking gas cylinder exploded . . . The Joint Commissioner of Police -LRB- Southern Range -RRB- , B. S. Bassi , said the exploding cooking gas cylinders added to the high toll . While Union Home Minister Shivraj Patil , who visited Safdarjung Hospital around 8 p.m. , put the toll at 37 , it later crossed 40 . The condition of another 20 people was reported to be critical . Most of the injured had sustained serious burn injuries and the toll was likely to go up . . . Some of the victims were also taken to the All-India Institute of Medical Sciences where two of them succumbed to their injuries . Seven others were reported to be serious . . . While the police said investigations were on to ascertain the people who triggered these explosions , eyewitnesses claimed that the bomb was kept inside a white Maruti van . The front windscreen of the vehicle was shattered and so were the hatchback and the rear windscreen . However , the vehicle itself was not reduced to a mangled heap .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        "Paharganj"
+    ], 
+    "O": [
+        "police:20", 
+        "joint commissioner of police:214", 
+        "union home minister:240", 
+        "safdarjung hospital:248", 
+        "white maruti van:355"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/10/30/stories/2005103014210300.htm", 
+    "date": "29-10-2005", 
+    "target": "MARKETPLACE", 
+    "hot_spot": "Paharganj", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "LPG CYLINDER"
+    ], 
+    "ORG": [
+        [
+            "All-India Institute of Medical Sciences", 
+            "306", 
+            "Others"
+        ]
+    ]
+}

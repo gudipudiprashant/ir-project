@@ -1,0 +1,179 @@
+{
+    "LOC": [
+        [
+            "MUMBAI", 
+            "45", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "62", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "74", 
+            "Neutral"
+        ], 
+        [
+            "Suburban Train", 
+            "75", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "241", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "360", 
+            "Neutral"
+        ], 
+        [
+            "Nashik", 
+            "392", 
+            "Source"
+        ], 
+        [
+            "Aurangabad", 
+            "394", 
+            "Source"
+        ], 
+        [
+            "Malegaon", 
+            "396", 
+            "Event"
+        ], 
+        [
+            "suburban train", 
+            "455", 
+            "Event"
+        ], 
+        [
+            "Churchgate", 
+            "526", 
+            "Neutral"
+        ], 
+        [
+            "Bandra", 
+            "528", 
+            "Neutral"
+        ], 
+        [
+            "Andheri", 
+            "532", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kalpana Sharma", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "P.S. Pasricha", 
+            "211", 
+            "Comment"
+        ], 
+        [
+            "Pasricha", 
+            "264", 
+            "Comment"
+        ], 
+        [
+            "Pasricha", 
+            "404", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "12 hours : 48", 
+        "10 p.m.:516", 
+        "night : 520", 
+        "1.20 a.m.:553", 
+        "6 a.m.:588", 
+        "6.30 a.m.:596", 
+        "10 a.m.:618"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:67", 
+        "Tuesday:98", 
+        "two months : 397", 
+        "Wednesday:448", 
+        "Tuesday:519", 
+        "Wednesday:635"
+    ], 
+    "death": "186", 
+    "title": "Mumbai back on track", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "Suburban Train Blasts"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Kalpana Sharma . . Death toll rises to 186 ; hundreds continue their search for missing relatives . . Hundreds continue the search for missing relatives We did as much as we could : Mumbai police Investigation handed over to Anti-Terrorist Squad . . MUMBAI : Just 12 hours after seven serial blasts left a trail of death and woes , Mumbai moved towards normality on Wednesday . . . Photo Gallery : Mumbai Suburban Train Blasts : The Day After . . Even as the day broke over a city that has still to recover from Tuesday terror , trains began running on the very tracks where bombs ripped through carriages . And office goers , school and college students and workers made their way to different parts of the city . . . The aftermath of the bombings , however , hung heavy on the city , as hundreds of people continued their weary search for missing relatives and family members . . . The scenes at various government and municipal hospitals were heart-rending as scores of people waited for news about the identity of the injured and those killed . Many of the bodies in morgues had not been identified . . . Director General of Police P.S. Pasricha told the media that 186 people had died and 772 injured . Information centres , manned by senior officials , had been set up at hospitals . ` Mumbai people have shown their big hearts , ' he said referring to the way people helped those injured . . . Mr. Pasricha refused to hazard a guess about who was responsible for the bombings . He said the investigation had been handed over to the Anti-Terrorist Squad and samples from the targeted coaches sent to the Central Forensic Laboratory . He said he would not speculate about the nature of the explosive used although it did appear to be RDX , given the intensity of the blasts . . . Asked whether the bombings reflected an intelligence failure , he said , ` We are not super human beings . ' The police had some idea that Mumbai would be a target . ` We did as much as we could , ' he said , and referred to the police interception of supplies of RDX and guns in Nashik , Aurangabad and Malegaon two months back . . . Mr. Pasricha said security had been enhanced all over the State . The Central Reserve Police Force and the Rapid Action Force had also been deployed . . . Tracks repaired . . The most important factor that led to a semblance of normality on Wednesday was the speed with which the suburban train network was restored . On any ordinary day , this network transports an estimated six million people . Without it , the city can not move . Western Railway officials told The Hindu that within three hours of the first of the seven bomb blasts , a skeletal suburban rail service was started . . . From just before 10 p.m. on Tuesday night , services were run from Churchgate to Bandra and later to Andheri . As a result , stranded people had some chance to get back to their homes . . . By 1.20 a.m. , the Railways had begun the work of removing the rakes with the shattered carriages that were stationary at the different stations . . . The job was completed by a little before 6 a.m. . As a result , by 6.30 a.m. , the suburban rail network had begun functioning partially with trains running at 15 minute intervals . . . By 10 a.m. , normal services were resumed . However , the number of people was fewer on Wednesday than normal .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Director General of Police:207", 
+        "RDX:388", 
+        "guns:390"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/article3104256.ece", 
+    "date": "11-07-2006", 
+    "target": "TRAIN", 
+    "hot_spot": "Suburban Train Blasts", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Mumbai police", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorist Squad", 
+            "41", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorist Squad", 
+            "288", 
+            "Others"
+        ], 
+        [
+            "Central Forensic", 
+            "299", 
+            "Others"
+        ], 
+        [
+            "Central Reserve Police Force", 
+            "416", 
+            "Others"
+        ], 
+        [
+            "Rapid Action Force", 
+            "422", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "488", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "LOC": [
+        [
+            "Mahabodhi", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "25", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vinod Mistry", 
+            "44", 
+            "Others"
+        ], 
+        [
+            "Nitish Kumar", 
+            "62", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Bodh Gaya blasts: temple reopens, monks hold special prayers", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Bodh Gaya : A day after multiple blasts , regular prayers were organised at the Mahabodhi temple in Bodh Gaya . Earlier , the Bihar Police released the CCTV footage of one of the blasts . They have also detained a man named Vinod Mistry , whose identity card was found at the blast site , for questioning . Chief Minister Nitish Kumar said he will ask the Centre to appoint the Central Industrial Security Forces -LRB- CISF -RRB- to guard the world-famous temple .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "", 
+        "Mahabodhi temple"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/cheat-sheet/bodh-gaya-blasts-temple-reopens-monks-hold-special-prayers-527741", 
+    "date": "07-07-2013", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "Mahabodhi temple", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bihar Police", 
+            "25", 
+            "Others"
+        ], 
+        [
+            "Central Industrial Security Forces", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "CISF", 
+            "78", 
+            "Others"
+        ]
+    ]
+}

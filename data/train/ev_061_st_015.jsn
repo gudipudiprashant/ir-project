@@ -1,0 +1,261 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Calcutta", 
+            "105", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "132", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "169", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "182", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "189", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "229", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "Tooti Chowk", 
+            "291", 
+            "Event"
+        ], 
+        [
+            "wrecked shops", 
+            "297", 
+            "Event"
+        ], 
+        [
+            "Connaught Place", 
+            "316", 
+            "Event"
+        ], 
+        [
+            "Paharganj", 
+            "319", 
+            "Event"
+        ], 
+        [
+            "New Delhi railway station", 
+            "323", 
+            "Neutral"
+        ], 
+        [
+            "Sarojini Nagars", 
+            "392", 
+            "Event"
+        ], 
+        [
+            "Babu Market", 
+            "395", 
+            "Event"
+        ], 
+        [
+            "Safdarjung", 
+            "440", 
+            "Neutral"
+        ], 
+        [
+            "Govindpuri", 
+            "458", 
+            "Neutral"
+        ], 
+        [
+            "south Delhi", 
+            "460", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "510", 
+            "Neutral"
+        ], 
+        [
+            "Red Fort", 
+            "600", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "631", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "657", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "660", 
+            "Neutral"
+        ], 
+        [
+            "British", 
+            "684", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "115", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "148", 
+            "Comment"
+        ], 
+        [
+            "Shivraj Patil", 
+            "246", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "271", 
+            "Comment"
+        ], 
+        [
+            "Sunita", 
+            "344", 
+            "Comment"
+        ], 
+        [
+            "Lady Hardinge", 
+            "442", 
+            "Others"
+        ], 
+        [
+            "Ram Manohar Lohia", 
+            "445", 
+            "Others"
+        ], 
+        [
+            "Abdul Karim Tunda", 
+            "575", 
+            "Others"
+        ], 
+        [
+            "Washington", 
+            "649", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "5.30 pm:294"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "1997:564", 
+        "Monday:610"
+    ], 
+    "death": "50", 
+    "title": "Serial blasts strike Delhi", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "New Delhi , Oct. 29 : Bombs today ripped through three New Delhi markets packed with families shopping for Diwali and Id , killing over 50 people and wounding many more . . . Burnt bodies , bloodstains , glass shards and smoking debris littered the spots as rescuers frantically pulled out the dead and injured . Thousands of survivors milled around in shock , trying to find out what had happened to missing relatives . . . The government immediately sounded a national alert and the crisis management group went into a huddle . Prime Minister Manmohan Singh cut short his visit to Calcutta and dashed back to the capital . . . Singh called it an act of terrorism . This kind of cynical attack on the people of India is just not acceptable , said a spokesman for the Prime Minister . He ( Singh ) is very distressed . India will never be defeated by terrorism . . . In a rapid reaction , Pakistan showed no hesitation in terming the blasts an act of terrorism . Pakistan strongly condemns the terrorist attacks in New Delhi . The attack in a crowded market place is a criminal act of terrorism , a foreign office statement said . . . There was no immediate finger-pointing for the explosions , which come at a time when India and Pakistan are discussing lowering border barriers to bolster earthquake relief efforts . But home minister Shivraj Patil said : They were not accidental . . . Terrorism is a menace that we all have to face and fight unitedly , Sonia Gandhi said after visiting the injured in Safdarjung hospital . . . The first explosion , in Paharganjs 6 Tooti Chowk at 5.30 pm , wrecked shops and killed at least eight people on the spot . Besides being a major shopping area flanking Connaught Place , Paharganj is near the New Delhi railway station and has many hotels for budget tourists . . . There was a huge sound , said Sunita , who lives near the market . I saw many people lying on the ground . I saw a childs arm cut off and somebody elses brain smashed out . It was very bad . Very bad . . . The toll in the second blast at Sarojini Nagars crowded Babu Market is expected to be high because the improvised explosive device went off near a cooking gas cylinder used by a snack vendor . . . Shopkeepers cleared their carts and used them as makeshift stretchers to rush victims to hospitals . AIIMS , Safdarjung , Lady Hardinge and Ram Manohar Lohia struggled to cope with the rush . . . At Govindpuri in south Delhi , an alert bus conductor averted a huge toll . Noticing someone had left their bag behind in the bus , he hurled it outside , where it exploded , killing three persons . . . The government called for calm . A red alert was sounded in Delhi , its borders were sealed and all markets were closed down . Mumbai police put the financial capital , target of several blasts in the past 12 years , on high alert . . . Delhi police , who said RDX had been used in all the blasts , saw parallels with the 1997 serial explosions in the capital , which were masterminded by Abdul Karim Tunda , a Lashkar-e-Toiba bomb expert . . . A Delhi court was expected to sentence a suspected Lashkar militant today in the Red Fort attack case , but put it off till Monday . Earlier this year , the capital had witnessed twin cinema blasts . . . Ten people were detained from New Delhi railway station and a few bus terminals . A hotel was also raided . . . Washington had recently warned of possible attacks on US interests in India . . . We saw bodies terribly charred , limbs missing . It was a horrible sight , a terrible sight , one British tourist said . Dont let the terrorists win .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "New Delhi ", 
+        "New Delhi "
+    ], 
+    "O": [
+        "government:80", 
+        "Prime Minister:96", 
+        "Safdarjung hospital:279", 
+        "government:499", 
+        "RDX:551"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1051030/asp/frontpage/story_5416953.asp", 
+    "date": "29-10-2005", 
+    "target": "", 
+    "hot_spot": "New Delhi ", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AIIMS", 
+            "438", 
+            "Others"
+        ], 
+        [
+            "AIIMS ,", 
+            "438", 
+            "Others"
+        ], 
+        [
+            "Mumbai police", 
+            "523", 
+            "Others"
+        ], 
+        [
+            "Delhi police", 
+            "546", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Toiba", 
+            "580", 
+            "Accused"
+        ], 
+        [
+            "Delhi court", 
+            "587", 
+            "Others"
+        ], 
+        [
+            "Lashkar", 
+            "595", 
+            "Accused"
+        ]
+    ]
+}

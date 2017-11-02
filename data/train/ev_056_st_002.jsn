@@ -1,0 +1,149 @@
+{
+    "LOC": [
+        [
+            "Panchmahal", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Godhra", 
+            "141", 
+            "Neutral"
+        ], 
+        [
+            "Vadodara", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "182", 
+            "Neutral"
+        ], 
+        [
+            "Godhra", 
+            "195", 
+            "Neutral"
+        ], 
+        [
+            "Lunavada", 
+            "229", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "252", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "258", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narsimha Kumar", 
+            "6", 
+            "Comment"
+        ], 
+        [
+            "Kumar", 
+            "128", 
+            "Comment"
+        ], 
+        [
+            "Bhupatsinh Solanki", 
+            "196", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "218", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "1945 IST : 16"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:101", 
+        "Tuesday:156", 
+        "October 19:231", 
+        "2002:260"
+    ], 
+    "death": "", 
+    "title": "Explosion in Lunavada bus terminus in Gujarat, eight injured", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Panchmahals", 
+        "", 
+        "Lunavada Bus terminus"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Panchmahal district Superintendent of Police Narsimha Kumar told PTI that the explosion took place around 1945 IST inside the bus terminus complex . . . Two of the injured are employees of the Gujarat State Road Transport Corporation , he said . . . Two persons with leg injuries have been rushed to the Godhra civil hospital , while others were taken to the village primary health centre , he said . . . Police applied force to disperse the crowd , which had gathered at the site of blast , after they damaged two vehicles . . . In Tuesday 's blast inside an Adadra-Godhra bus , four persons were injured . . . ` There was a marked similarity between the two explosions , ' Kumar said . . . A team of the anti-dacoity unit of the Godhra police has reached Vadodara to record the statement of the person critically injured in Tuesday 's blast . . . The material evidence collected from the spot has been sent to the state Forensic Science Laboratory -LRB- FSL -RRB- at Ahmedabad , police sources said . . . Meanwhile , BJP MP from Godhra Bhupatsinh Solanki told PTI that there would be no change in the schedule of the Gujarat Gaurav Yatra led by Chief Minister Narendra Modi . . . The yatra is scheduled to reach Lunavada on October 19 , he said . . . EARLIER REPORTSeven held in Godhra bus blast . . ALSO READFifth phase of Gujarat Gaurav Yatra begins . . Gujarat Elections 2002 : The complete coverage . . Back to top . . Tell us what you think of this report .", 
+    "injured": "4", 
+    "org_unorg": "", 
+    "O": [
+        "damaged two vehicles:94", 
+        "Adadra-Godhra bus:106", 
+        "anti-dacoity unit:137", 
+        "critically injured:153", 
+        "Gujarat Gaurav Yatra:211", 
+        "Godhra bus blast:243"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2002/oct/16guj2.htm", 
+    "date": "16-10-2002", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "Gujarat State Road Transport Corporation", 
+            "34", 
+            "Victim"
+        ], 
+        [
+            "Godhra civil hospital", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "Forensic Science Laboratory", 
+            "175", 
+            "Others"
+        ], 
+        [
+            "FSL", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "192", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "199", 
+            "Others"
+        ]
+    ]
+}

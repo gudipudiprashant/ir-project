@@ -1,0 +1,99 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "60", 
+            "Event"
+        ], 
+        [
+            "Palestine", 
+            "62", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "66", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mirwaiz Umar Farooq", 
+            "6", 
+            "Comment"
+        ], 
+        [
+            "Mirwaiz", 
+            "77", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 10"
+    ], 
+    "death": "", 
+    "title": "Hurriyat condemns Mumbai blasts", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Chairman of moderate Hurriyat faction Mirwaiz Umar Farooq on Thursday condemned the Mumbai serial blasts saying such incidents are orchestrated to derail the dialogue process between India and Pakistan . . . `` We are saddened by the huge loss of life in the Mumbai blasts and condemn it . Spilling the blood of innocents ? be it in Mumbai , Palestine , Karachi or Kashmir ? is a shameful and inhuman act , '' the Mirwaiz said in a statement .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.saharasamay.com/nation-news/676490448/hurriyat-condemns-mumbai-blasts.html", 
+    "date": "14-07-2011", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Hurriyat", 
+            "4", 
+            "Others"
+        ]
+    ]
+}

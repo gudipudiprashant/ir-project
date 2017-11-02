@@ -1,0 +1,424 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Gate No 5", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "437", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "449", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "505", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "568", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "591", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "755", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "998", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "1112", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narendra Kumar Singh", 
+            "244", 
+            "Comment"
+        ], 
+        [
+            "UK Bansal", 
+            "267", 
+            "Comment"
+        ], 
+        [
+            "Rakesh Tiku", 
+            "425", 
+            "Comment"
+        ], 
+        [
+            "Sheila Dikshit", 
+            "452", 
+            "Comment"
+        ], 
+        [
+            "P Chidambaram", 
+            "486", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "487", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "566", 
+            "Comment"
+        ], 
+        [
+            "Tejinder Khanna", 
+            "572", 
+            "Comment"
+        ], 
+        [
+            "SC Sinha", 
+            "646", 
+            "Comment"
+        ], 
+        [
+            "Afzal Guru", 
+            "671", 
+            "Victim"
+        ], 
+        [
+            "Afzal Guru", 
+            "695", 
+            "Victim"
+        ], 
+        [
+            "Pratibha Patil", 
+            "736", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "750", 
+            "Comment"
+        ], 
+        [
+            "Sushma Swaraj", 
+            "831", 
+            "Comment"
+        ], 
+        [
+            "Arun Jaitley", 
+            "866", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "891", 
+            "Others"
+        ], 
+        [
+            "Swaraj", 
+            "902", 
+            "Others"
+        ], 
+        [
+            "LK Advani", 
+            "907", 
+            "Others"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "913", 
+            "Others"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "971", 
+            "Others"
+        ], 
+        [
+            "Sanjeev Beniwal", 
+            "989", 
+            "Others"
+        ], 
+        [
+            "Mehtab Singh", 
+            "994", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "1005", 
+            "Victim"
+        ], 
+        [
+            "Rohit", 
+            "1037", 
+            "Others"
+        ], 
+        [
+            "Sachin Powa", 
+            "1041", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "1066", 
+            "Others"
+        ], 
+        [
+            "Beniwal", 
+            "1071", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "morning : 17", 
+        "10.15 am : 160", 
+        "10.30 am : 175", 
+        "2 pm:945"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:182", 
+        "May:341", 
+        "May:371", 
+        "July , 2011 : 508", 
+        "2001 : 717", 
+        "July 13:1098", 
+        "Wednesday:1103"
+    ], 
+    "death": "11", 
+    "title": "Delhi court blast: 11 dead, 74 injured; sketches of suspect released", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        "Delhi High Court,Gate No 5"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi : A bomb placed in a briefcase exploded at the Delhi High Court this morning killing 11 people and injuring over 70 . The explosion took place in the reception area at Gate No 5 , where hundreds of people had gathered to collect passes needed to enter the courthouse . The bomb was so powerful that it drove a huge crater into the ground.The Delhi Police has released two sketches of the man believed to be responsible for today 's terror attack , based on descriptions provided by eyewitnesses . -LRB- See sketches of the suspect -RRB- . By the evening , a special team of 20 members of the National Investigating Agency -LRB- NIA -RRB- that is handling the case was trying to verify the authenticity of an email received by NDTV and another media house , purportedly from the Harkat-ul-Jihadi -LRB- HuJI -RRB- , claiming responsibility for the blast.Today 's explosion took place at 10.15 am - `` rush hour '' for the courthouse which usually starts hearings at 10.30 am . -LRB- Watch -RRB- On Wednesday , Public Interest Litigations -LRB- PIL -RRB- are heard in the High Court , drawing larger than usual crowds . In the seconds after the blast , lawyers and litigants were seen running for help , their blood-soaked clothes clinging to them . `` I heard a loud noise and smoke coming out following by cries of people , '' said Narendra Kumar Singh , a guard at a construction site outside the court.Two kilos of explosives were used in the bomb , said UK Bansal , Special Secretary in the Home Ministry , adding that ammonium nitrate was used ; so was high-grade PETN which is an extremely powerful explosive which can cause considerable damaged even if used in small quantities . -LRB- Read : What is PETN ; why is it deadly ? -RRB- This is the second explosion in the Delhi High Court in four months . A smaller bomb in a parking lot in May did not cause any injuries . Police sources say that attempt may have served as a dry run by the terrorists behind today 's attack . The incident in May had underscored the need for security cameras . They have yet to be installed at the court 's nine different gates . -LRB- First pics of the blast -RRB- The police said the proposal to install security cameras was stuck with court officials . But the head of the Delhi Bar Association , Rakesh Tiku , said `` The High Court has even written to Delhi Police for installation of CCTV cameras at all gates . '' Delhi Chief Minister Sheila Dikshit said , `` We will have to wait for the investigation to tell us exactly who is at fault over the CCTVs . '' Two hours after the blast , Home Minister P Chidambaram addressed Parliament and revealed that `` Intelligence pertaining to threats emanating from certain groups was shared with Delhi Police in July , 2011 . '' He also said that it is not possible at this stage to identify who is responsible for today 's terror attack . The National Investigating Agency -LRB- NIA -RRB- will supervise the inquiry with a special 20-member team . -LRB- Watch : Not yet possible to identify who 's behind blast , says Chidambaram -RRB- Delhi 's Lieutenant Governor Tejinder Khanna said that the intelligence shared with the police was `` not actionable . '' -LRB- Watch : Delhi 's Lt Governor to NDTV -RRB- An email received by different media organisations including NDTV said that the Harkat-ul-Jihadi -LRB- HuJI -RRB- takes responsibility for today 's blast . HuJI is a Pakistan-based terrorist group . `` HUJI is a lethal group ... we take the mail very seriously , '' said NIA Chief SC Sinha . The email states , `` We owe the responsibility of today 's blasts at High Court Delhi ... our demand is that Afzal Guru 's death sentence should be repealed immediately else we would target major high courts and the Supreme Court of India . `` Afzal Guru has been sentenced to death by the Supreme Court for his role in the attack on the Indian Parliament in 2001 . His mercy petition that asks for his sentence to be commuted to life is pending with President Pratibha Patil . The Home Ministry has reportedly recommended that it be rejected.Prime Minister Manmohan Singh , currently in Bangladesh on an official visit , described the attack as `` a cowardly act of a terrorist nature . '' He added , `` We will deal with it ... we will never succumb to the pressure of terrorism ... this is a long war . '' -LRB- Read -RRB- The Opposition BJP said the war against terror needs a combined front across party lines , but was severe in its indictment of the government . Sushma Swaraj who visited the High Court said the government 's lethargy had been exposed by the fact that the High Court has been attacked twice - and there are still no security cameras . Arun Jaitley said `` Not generating intelligence is failure of intelligence . '' There was no shortage of political stopovers at the court . Mr Chidambaram visited the site of the blast ; so did Ms Swaraj , senior BJP leader LK Advani and the Congress ' Rahul Gandhi , who had been heckled when he visited Ram Manohar Lohia hospital where some of those injured are being treated . While Parliament was adjourned for the day , by 2 pm , the High Court was back to work to signal that it remains strong despite today 's attack . -LRB- Watch : Crowd heckles Rahul Gandhi outside hospital -RRB- But the conversations in and outside court-rooms were about the tragedy . Lawyer Sanjeev Beniwal rushed his client Mehtab Singh to a Delhi hospital after the explosion . Mr Singh did not survive . `` He -LRB- Singh -RRB- was fighting a property-related case at the court . He was getting his pass made when the blast occurred . His son Rohit and my associate Sachin Powa have also been injured . We rushed them to hospital and I just want them to be safe as I could not save Singh , '' said Mr Beniwal , who was also injured.The government will find itself struggling to provide an explanation for why terror continues to stalk cities with relative ease . On July 13 , also a Wednesday , three bombs exploded in crowded markets in Mumbai during rush hour . More than 20 people were killed . -LRB- Watch : Delhi High Court blast - Eyewitness account -RRB- Here are the emergency helpline numbers : RML hospital : 011-23348200 , 23404446 , 23743769 , 23404478AIIMS : 011-26588700Safdarjung Hospital Helpline : 011 - 26707444 .", 
+    "injured": "70", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Person:0", 
+        "court.Two kilos:256", 
+        "Home Ministry:274", 
+        "ammonium nitrate:279", 
+        "PETN:311", 
+        "Police:348", 
+        "police:402", 
+        "Chief Minister:450", 
+        "Home Minister:484", 
+        "Delhi Police:505", 
+        "Lieutenant Governor:570", 
+        "police:581", 
+        "Lt Governor:593", 
+        "Indian Parliament:714", 
+        "President:735", 
+        "Home Ministry:740", 
+        "Ram Manohar Lohia hospital:923", 
+        "hospital:974", 
+        "RML hospital:1142"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/delhi-court-blast-11-dead-74-injured-sketches-of-suspect-released-466962", 
+    "date": "07-09-2011", 
+    "target": "", 
+    "hot_spot": "Delhi High Court,Gate No 5", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "PETN", 
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": [
+        [
+            "Delhi High Court", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "68", 
+            "Others"
+        ], 
+        [
+            "National Investigating Agency", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "118", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jihadi", 
+            "145", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "147", 
+            "Accused"
+        ], 
+        [
+            "High Court", 
+            "194", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "326", 
+            "Others"
+        ], 
+        [
+            "Delhi Bar Association", 
+            "421", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "431", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "437", 
+            "Others"
+        ], 
+        [
+            "National Investigating Agency", 
+            "536", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "540", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jihadi", 
+            "610", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "612", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "621", 
+            "Accused"
+        ], 
+        [
+            "HUJI", 
+            "629", 
+            "Accused"
+        ], 
+        [
+            "lethal group", 
+            "632", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "644", 
+            "Others"
+        ], 
+        [
+            "High Court Delhi", 
+            "663", 
+            "Others"
+        ], 
+        [
+            "Supreme Court of India", 
+            "689", 
+            "Others"
+        ], 
+        [
+            "Supreme Court", 
+            "689", 
+            "Others"
+        ], 
+        [
+            "Supreme Court", 
+            "704", 
+            "Others"
+        ], 
+        [
+            "Opposition BJP", 
+            "806", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "807", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "836", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "851", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "905", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "911", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "949", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "1077", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "1127", 
+            "Others"
+        ]
+    ]
+}

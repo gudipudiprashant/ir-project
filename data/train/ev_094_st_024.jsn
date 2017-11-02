@@ -1,0 +1,192 @@
+{
+    "LOC": [
+        [
+            "Bihar", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "32", 
+            "Neutral"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "78", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "100", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "112", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad .", 
+            "112", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "188", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "242", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "286", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "298", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "317", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "398", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narendra Modi", 
+            "21", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "57", 
+            "Comment"
+        ], 
+        [
+            "Pramod Kumar", 
+            "102", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "304", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "401", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:6", 
+        "Sunday:76"
+    ], 
+    "death": "6", 
+    "title": "Patna blasts: Bihar failed to ensure Modi's safety, says Gujarat DGP", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Ahmedabad : Gujarat Police on Thursday criticised its Bihar counterpart , alleging serious lapses in security measures for Chief Minister Narendra Modi 's rally in Patna , saying that had the Bihar administration heeded its request , perhaps the situation could have been avoided . . . Seven blasts rocked Gandhi Maidan , the venue of Modi 's rally and surrounding areas , leading to the death of six people just before the event on Sunday in Patna . . . `` Rehearsals before the event was not carried out , except for the route rehearsal , '' in-charge Gujarat DGP Pramod Kumar 's office said in a statement issued in Ahmedabad . . . `` Anti-sabotage checking , which is mandatory for public meetings was not conducted properly . Routine security drills such as access control , checking and frisking people attending the rally as well as screening of baggage , were not conducted . It is further reported that a large number of vehicles were parked inside the venue of the rally , '' the statement said . . . `` Senior police officers from Gujarat had requested the Bihar police to conduct a joint Advance Security Liaison ( ASL ) . It was only after great persuasion that Bihar police officers agreed to join the ASL , which was conducted by SP ( Patna City ) , Additional Director ( IB ) and SP ( CM Security ) Gujarat . However , Bihar Police officers , for reasons best known to them , had refused to sign the ASL report and had not taken note of relevant issues mentioned therein , '' it said . . . The ADGP ( Intelligence ) Gujarat had sent a detailed communication to ADGP ( Special Branch ) Bihar about the threat faced by Modi from various terrorist organisations , it said . . . `` The Bihar administration did not respond to this communication and never communicated about issues that may be foreseen in providing foolproof security for VIPs and the venue , '' the statement said . . . The Gujarat police hoped that in future , the central government and its apparatus would impress upon states where such visits take place , to take security concerns seriously and protect the lives of people and VIPs , it said . . . The statement comes after Bihar Chief Minister Nitish Kumar said that he had given instructions to his home department and police to provide maximum security for the BJP rally .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "Patna", 
+        "Patna"
+    ], 
+    "O": [
+        "Chief Minister:19", 
+        "Additional Director:231", 
+        "police:414"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/india/patna-blasts-bihar-failed-to-ensure-modis-safety-says-gujarat-dgp-1203583.html", 
+    "date": "27-10-2013", 
+    "target": "", 
+    "hot_spot": "Patna", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Gujarat Police", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Bihar police", 
+            "192", 
+            "Others"
+        ], 
+        [
+            "Advance Security Liaison", 
+            "198", 
+            "Others"
+        ], 
+        [
+            "ASL", 
+            "202", 
+            "Others"
+        ], 
+        [
+            "Bihar police", 
+            "212", 
+            "Others"
+        ], 
+        [
+            "Patna City", 
+            "227", 
+            "Others"
+        ], 
+        [
+            "Bihar Police", 
+            "246", 
+            "Others"
+        ], 
+        [
+            "Gujarat police", 
+            "352", 
+            "Others"
+        ], 
+        [
+            "central government", 
+            "360", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "421", 
+            "Others"
+        ]
+    ]
+}

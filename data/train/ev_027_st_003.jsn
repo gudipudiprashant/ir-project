@@ -1,0 +1,160 @@
+{
+    "LOC": [
+        [
+            "TINSUKIA", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Chamber road", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "120", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "143", 
+            "Assoc_Event"
+        ], 
+        [
+            "Guwahati", 
+            "215", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "P C Ram", 
+            "153", 
+            "Victim"
+        ], 
+        [
+            "Ram", 
+            "188", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "7:30 am : 35"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 24", 
+        "April 17 : 161"
+    ], 
+    "death": "", 
+    "title": "4 injured in Assam car bomb blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "TINSUKIA : Four persons were wounded grievously in a car bomb explosion by the proscribed ULFA in upper Assam 's Tinsukia district on Friday . The time-device fitted inside a vehicle exploded at around 7:30 am near the foodgrains wholesale market on busy Chamber road , the commercial hub of Tinsukia , police said . Eye witnesses said the vehicle was driven by a man to the area some time before the explosion occurred . The casualty would have been much higher had the bomb exploded two hours later when the market opened for business , the police said adding the area has been cordoned off . The injured have been shifted to nearby Assam Medical College hospital in Dibrugarh district , police said . This blast and another one inside the Food Corporation of India -LRB- FCI -RRB- gowdown premises in Guwahati yesterday could be linked to FCI NE Executive director P C Ram 's abduction by ULFA on April 17 , the police said . Essential food items from FCI are brought to Chamber Road market . ULFA has demanded Rs 21 crore for releasing Ram but has freed his driver . A car bomb was first used by the outfit to trigger an explosion in front of a police station in Guwahati early this year but none was injured in that incident .", 
+    "injured": "4", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Tinsukia", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Four persons:3", 
+        "wounded:6", 
+        "car bomb explosion:10", 
+        "time-device:27", 
+        "inside:29", 
+        "vehicle:31", 
+        "foodgrains wholesale market:39", 
+        "commercial hub:48", 
+        "Eye witnesses:56", 
+        "vehicle:60", 
+        "driven:62", 
+        "a man:64", 
+        "casualty:77", 
+        "much higher:81", 
+        "bomb exploded:85", 
+        "two hours later:87", 
+        "This blast:126", 
+        "another one:129", 
+        "linked:147", 
+        "NE Executive director:150", 
+        "abduction:157", 
+        "demanded:182", 
+        "Rs 21 crore:183", 
+        "freed:191", 
+        "driver:193", 
+        "car bomb:196", 
+        "first:199", 
+        "explosion:207", 
+        "front of a police station:209"
+    ], 
+    "unexpl": [
+        "TIMER"
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/4-injured-in-Assam-car-bomb-blast/articleshow/2002380.cms", 
+    "date": "04-05-2007", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "16", 
+            "Accused"
+        ], 
+        [
+            "Assam Medical College hospital", 
+            "115", 
+            "Others"
+        ], 
+        [
+            "Food Corporation of India", 
+            "133", 
+            "Assoc_Victim"
+        ], 
+        [
+            "FCI", 
+            "138", 
+            "Assoc_Victim"
+        ], 
+        [
+            "FCI", 
+            "149", 
+            "Assoc_Victim"
+        ], 
+        [
+            "ULFA", 
+            "159", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "180", 
+            "Accused"
+        ]
+    ]
+}

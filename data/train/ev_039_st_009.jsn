@@ -1,0 +1,179 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "102", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "161", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "346", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "362", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "388", 
+            "Neutral"
+        ], 
+        [
+            "Nagaland", 
+            "448", 
+            "Neutral"
+        ], 
+        [
+            "Meghalaya", 
+            "450", 
+            "Neutral"
+        ], 
+        [
+            "Arunachal Pradesh", 
+            "453", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "480", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "496", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "158", 
+            "Others"
+        ], 
+        [
+            "Sheikh Hasina", 
+            "356", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "April 23:99", 
+        "April 6:142", 
+        "April 7 , 1979 : 177", 
+        "2007:297", 
+        "2009:492", 
+        "April 23:505", 
+        "April 9 , 2009 : 515", 
+        "April 23:522"
+    ], 
+    "death": "", 
+    "title": "Combating ULFA", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        "Assam"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "In all its 30 years as a militant organisation claiming to fight the state in the name of the people of Assam , the United Liberation Front of Asom -LRB- ULFA -RRB- has not once shown any serious inclination to push for a political solution . Instead , its commitment to a sovereign Assam through armed struggle has invariably led it to pick soft targets , especially innocent civilians , in cowardly strike-and-flee terror operations across the north-eastern regions largest State . The spate of attacks during the run-up to the general election , which is scheduled for April 23 in Assam , is in keeping with the groups virulent opposition to the democratic process . ULFA evidently has more faith in its fire power against soft targets than in the people it claims to represent . The bomb blasts of April 6 , which claimed 10 lives , were timed for the visit of Prime Minister Manmohan Singh to Assam , and also Raising Day , which marks the founding of the chauvinist outfit on April 7 , 1979 . For some years now , ULFA has chosen Raising Day , along with Republic Day and Independence Day , for carrying out major operations . In recent months , the dates of VIP visits have fallen in the same category . . . With its limited support base and its terrorist skills , ULFA poses a challenge more on the security front than on the political . Belying its name , it has failed to win anything but fringe support among the people of a State that badly needs livelihood support , jobs , and development and looks to the central government for more substantial assistance . After the dialogue process reached a dead-end in 2007 , ULFA faced a revolt in its ranks for the simple reason that it had no programme other than mindless violence that was leading nowhere . Unfortunately , security agencies were not quick enough to take advantage of this internal weakness , in part because ULFA was using Bangladesh as a base for its hit-and-hide operations . With Sheikh Hasina coming to power , India has a friendly government to count on . It needs to deploy all its persuasive powers to have the terrorist group flushed out of its Bangladesh sanctuaries . At home , the security forces must devise a coordinated operation to eliminate ULFAs infrastructure . A pan-north-east campaign against violent extremism has become an imperative and for this inter-State coordination , better intelligence , and more efficient sharing of intelligence among central security and State police forces is vital . ULFA has pockets of activity in Nagaland , Meghalaya , and Arunachal Pradesh and these must be eliminated through coordinated action . Meanwhile , the best answer to ULFAs extremism will be ensuring a peaceful general election in Assam . . . Corrections and Clarifications . . In General Elections 2009 , voting in Assam is in two phases - on April 16and April 23 . The editorial ` Combating ULFA ' -LRB- April 9 , 2009 -RRB- mentioned itas April 23 .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Prime Minister:156", 
+        "Raising Day:165", 
+        "Republic Day:195", 
+        "Independence Day:198"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-opinion/combating-ulfa/article301033.ece", 
+    "date": "06-04-2009", 
+    "target": "", 
+    "hot_spot": "Assam", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "25", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "31", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "117", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "187", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "235", 
+            "Accused"
+        ], 
+        [
+            "central government", 
+            "282", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "299", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "343", 
+            "Accused"
+        ], 
+        [
+            "State police", 
+            "436", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "442", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "512", 
+            "Accused"
+        ]
+    ]
+}

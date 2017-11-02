@@ -1,0 +1,181 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "34", 
+            "Neutral"
+        ], 
+        [
+            "Panipat", 
+            "239", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Lalu Prasad", 
+            "39", 
+            "Comment"
+        ], 
+        [
+            "Prasad", 
+            "101", 
+            "Comment"
+        ], 
+        [
+            "Prasad", 
+            "270", 
+            "Comment"
+        ], 
+        [
+            "Prasad", 
+            "388", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:42", 
+        "Sunday:80"
+    ], 
+    "death": "68", 
+    "title": "Lalu announces tight security measures", 
+    "det_loc": [
+        "India", 
+        "Haryana", 
+        "Panipat", 
+        "Panipat", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . Steps initiated to strengthen RPF , he tells Lok Sabha . . CCTVs , video cameras being installed in sensitive stations More number of sniffer dog squads . . NEW DELHI : Railway Minister Lalu Prasad on Friday announced that a number of measures , including tightening of security at railway stations and modernising the Railway Protection Force -LRB- RPF -RRB- , were being taken in the wake of firebombing of the Samjhauta Express on Sunday , which left 68 people dead . . . Making a suo motu statement in the Lok Sabha , Mr. Prasad said a number of new measures were put in place on Pakistan-bound trains . The Railways had taken steps to strengthen and modernise the RPF , besides increasing the number of sniffer dog squads and explosive detection devices . CCTVs and video cameras were being installed at all sensitive stations . Existing vacancies were being filled to augment the RPF 's strength . . . ` Intensive training is being given to the RPF to enhance its professional competence and efficiency . Steps like having only reserved accommodation in these trains , identification of individual passengers and their luggage before boarding the train and permitting excess baggage in a separate compartment are also being taken . ' . . Probe on . . He said the Bomb Disposal Squad recovered three suitcases from the accident site near Panipat and they contained Improvised Explosive Devices , kerosene and petrol . A statutory inquiry by the Commissioner of Railway Safety , Northern Circle , was on . . . Mr. Prasad said he had announced an ex-gratia of Rs . 10 lakh for the next of kin of the deceased and Rs . 50,000 for the injured , which was more than the normally paid amount . . . Compensation up to Rs . 4 lakh would be additionally payable to the affected by the Railway Claims Tribunal as per the extant rules . ' I have also ordered free rail services for relatives travelling for identification of the dead and for transportation of the bodies back . ' . . After the blasts rescue efforts were launched on a warfooting with the help of fire-fighting and medical relief teams of the Railways and local administration , Mr. Prasad said .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Steps initiated:5", 
+        "strengthen:8", 
+        "Lok Sabha:13", 
+        "CCTVs:17", 
+        "video cameras:19", 
+        "installed:22", 
+        "sensitive stations:24", 
+        "sniffer dog squads:29", 
+        "announced:43", 
+        "number of measures:46", 
+        "tightening of security:51", 
+        "railway stations:55", 
+        "modernising:58", 
+        "wake:72", 
+        "firebombing:74", 
+        "Samjhauta Express:77", 
+        "68 people dead:84", 
+        "suo motu:92", 
+        "Lok Sabha:97", 
+        "new measures:106", 
+        "Pakistan-bound trains:113", 
+        "Railways:117", 
+        "steps to strengthen:120", 
+        "modernise:124", 
+        "sniffer dog squads:133", 
+        "explosive detection devices:137", 
+        "CCTVs:141", 
+        "video cameras:143", 
+        "installed:147", 
+        "sensitive stations:150", 
+        "vacancies:154", 
+        "augment:159", 
+        "RPF 's strength:161", 
+        "Intensive training:168", 
+        "enhance:177", 
+        "professional competence:179", 
+        "efficiency:182", 
+        "reserved accommodation:188", 
+        "trains:192", 
+        "identification:194", 
+        "individual passengers:196", 
+        "luggage:200", 
+        "boarding:202", 
+        "train:204", 
+        "permitting excess baggage:206", 
+        "separate compartment:211", 
+        "Bomb Disposal Squad:228", 
+        "suitcases:233", 
+        "accident site:236", 
+        "Improvised Explosive Devices:243", 
+        "kerosene:247", 
+        "petrol:249", 
+        "statutory inquiry:252", 
+        "Commissioner of Railway Safety , Northern Circle:256", 
+        "announced:274", 
+        "ex-gratia of Rs . 10 lakh:276", 
+        "kin:286", 
+        "Rs . 50,000:291", 
+        "injured:296", 
+        "Compensation:309", 
+        "Rs . 4 lakh:312", 
+        "additionally payable:318", 
+        "Railway Claims Tribunal:325", 
+        "extant rules:331", 
+        "free rail services:339", 
+        "relatives travelling:343", 
+        "identification:346", 
+        "dead:349", 
+        "transportation:352", 
+        "bodies back:355", 
+        "blasts:363", 
+        "rescue:364", 
+        "launched:367", 
+        "warfooting:370", 
+        "fire-fighting:375", 
+        "medical relief teams:377", 
+        "Railways and local administration:382"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/lalu-announces-tight-security-measures/article1801632.ece", 
+    "date": "18-02-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "RPF", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "Railway Protection Force", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "RPF", 
+            "64", 
+            "Others"
+        ], 
+        [
+            "RPF", 
+            "126", 
+            "Others"
+        ], 
+        [
+            "RPF", 
+            "161", 
+            "Others"
+        ], 
+        [
+            "RPF", 
+            "175", 
+            "Others"
+        ]
+    ]
+}

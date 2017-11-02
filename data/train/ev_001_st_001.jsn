@@ -1,0 +1,80 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "38", 
+            "Neutral"
+        ], 
+        [
+            "Bongaigaon", 
+            "40", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "9:25 a.m.:62"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday morning:43"
+    ], 
+    "death": "", 
+    "title": "15 hurt in blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED NATIONAL LIBERATION FRONT (UNLF)"
+    ], 
+    "content": "Special Correspondent . . Guwahati : Fifteen persons , including four school children , were injured in a bomb blast suspected to have been triggered by the United Liberation Front of Asom -LRB- ULFA -RRB- in lower Assam 's Bongaigaon town on Monday morning . . . Police said the blast occurred near the office of the Superintendent of Police around 9:25 a.m. . The bomb was planted in a bicycle .", 
+    "injured": "15", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Bongaigaon", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Special Correspondent:1", 
+        "school children:12", 
+        "injured:16", 
+        "bomb blast:19", 
+        "suspected:21", 
+        "triggered:25", 
+        "blast:51", 
+        "office:55", 
+        "bomb:66", 
+        "planted:68", 
+        "bicycle:71"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/15-hurt-in-blast/article1845550.ece", 
+    "date": "21-05-2007", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "34", 
+            "Others"
+        ]
+    ]
+}

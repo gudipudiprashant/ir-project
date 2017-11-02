@@ -1,0 +1,135 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Fancy Bazaar", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "85", 
+            "Neutral"
+        ], 
+        [
+            "Fancy Bazaar", 
+            "103", 
+            "Event"
+        ], 
+        [
+            "Athgaon", 
+            "207", 
+            "Assoc_Event"
+        ], 
+        [
+            "Fancy Bazar", 
+            "243", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "S N Singh", 
+            "90", 
+            "Comment"
+        ], 
+        [
+            "Suraj Lohia", 
+            "144", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0011", 
+    "content": "GUWAHATI : At least thirteen people were injured when a powerful bomb hidden in a rickshaw by suspected ULFA militants exploded at the busy Fancy Bazaar area of the city here on Friday . The bomb went off early on Friday shaking the neighbourhood shattering window panes of several shops and offices including that of Airtel and partly damaging concrete buildings as the large number of shoppers present scurried for covered . The injured , including two seriously , were rushed to hospital , Guwahati city superintendent of police S N Singh told reporters at the site of the blast . The Fancy Bazaar area is dominated by Hindi-speaking businessmen who have become a target of the ULFA . Local people alleging lack of security went on a snap demonstration blocking roads and forcing shop owners to down shutters . One angry businessman Suraj Lohia was heard shouting ` there have been repeated blasts . What are the police doing ? We are not here to be sacrificed . ' The police used batons and fired teargas shells to disperse the crowd to bring the situation under control in an hour . On May 14 , one person was killed and five others were injured in Athgaon area nearby when ULFA ultras triggered a blast . Nine Hindi-speaking persons have been killed since Tuesday by the ULFA . Eleven persons were killed last year in a bomb blast by the ULFA at Fancy Bazar . The ULFA had killed 70 Hindi-speaking people in early January .", 
+    "death": "", 
+    "title": "13 injured in ULFA blast in Guwahati", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "DAT": [
+        "Friday:33", 
+        "Friday:41", 
+        "May 14:194", 
+        "Tuesday:224", 
+        "January:255"
+    ], 
+    "injured": "13", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "bomb:12", 
+        "rickshaw:16", 
+        "partly damaging concrete buildings:58", 
+        "hospital:83", 
+        "city superintendent:86", 
+        "Hindi-speaking businessmen:109", 
+        "security:125", 
+        "snap demonstration:129", 
+        "situation:186", 
+        "one person:197", 
+        "bomb blast:237", 
+        "killed 70 hindi-speaking:249"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/13-injured-in-ULFA-blast-in-Guwahati/articleshow/2059671.cms", 
+    "date": "18-05-2007", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "19", 
+            "Accused"
+        ], 
+        [
+            "Airtel", 
+            "56", 
+            "Victim"
+        ], 
+        [
+            "ULFA", 
+            "118", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "211", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "227", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "241", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "247", 
+            "Accused"
+        ]
+    ]
+}

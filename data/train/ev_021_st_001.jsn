@@ -1,0 +1,162 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "city", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "Jorhat", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "Paltanbazar", 
+            "81", 
+            "Event"
+        ], 
+        [
+            "R.G. Baruah Road", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "88", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "117", 
+            "Event"
+        ], 
+        [
+            "A.T. Road", 
+            "157", 
+            "Event"
+        ], 
+        [
+            "Panbazar", 
+            "173", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "6:10:121", 
+        "6:10 p.m.:121", 
+        "6:10 p.m.:196"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday night:55"
+    ], 
+    "death": "1", 
+    "title": "ULFA triggers four blasts, one killed", 
+    "org_unorg": "", 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM"
+    ], 
+    "content": "Sushanta Talukdar . . Militants lob grenade at police patrol post . . Guwahati : One person was killed and eight security personnel were injured when suspected United Liberation Front of Asom -LRB- ULFA -RRB- militants triggered four blasts - three in the city and one in Upper Assam 's Jorhat town - on Sunday night . . . The militants lobbed a grenade at a police patrol post and triggered two time devices almost simultaneously near Police Reserve at Paltanbazar and on R.G. Baruah Road in Guwahati . . . Four CRPF personnel and an Assam police personnel were injured when the militants lobbed a grenade at them while they were checking a vehicle near Guwahati Commerce College at 6:10 p.m. . The police said the grenade was lobbed from a car which sped away . . . Almost at the same time two blasts occurred in quick succession near Police Reserve on the busy A.T. Road . A civilian was killed and three police personnel , including the officer-in-charge of Panbazar station , were injured . . . The first bomb , suspected to be a programmed time device , went off at 6:10 p.m. instantly killing a civilian .", 
+    "injured": "8", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "Militants:5", 
+        "grenade:7", 
+        "police patrol post:9", 
+        "killed:19", 
+        "security personnel:22", 
+        "injured:25", 
+        "suspected:27", 
+        "militants triggered:36", 
+        "four blasts:38", 
+        "Upper Assam 's Jorhat town:48", 
+        "militants:61", 
+        "lobbed:62", 
+        "grenade:64", 
+        "police patrol post:67", 
+        "triggered:71", 
+        "two time devices:72", 
+        "Police Reserve:78", 
+        "Four CRPF personnel:92", 
+        "Assam police personnel:97", 
+        "injured:101", 
+        "militants:104", 
+        "lobbed:105", 
+        "grenade:107", 
+        "checking:113", 
+        "vehicle:115", 
+        "grenade:128", 
+        "lobbed:130", 
+        "car:133", 
+        "two blasts:145", 
+        "quick succession:149", 
+        "Police Reserve:152", 
+        "killed:163", 
+        "three police personnel:165", 
+        "officer-in-charge:171", 
+        "Panbazar station:173", 
+        "injured:177", 
+        "first bomb:182", 
+        "suspected:185", 
+        "programmed time device:189", 
+        "civilian:201"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/ulfa-triggers-four-blasts-one-killed/article3243477.ece", 
+    "date": "22-01-2006", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "THROWN", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "CRPF", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "Guwahati Commerce College", 
+            "117", 
+            "Others"
+        ]
+    ]
+}

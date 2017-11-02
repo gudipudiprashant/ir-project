@@ -1,0 +1,140 @@
+{
+    "LOC": [
+        [
+            "Barpeta", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "34", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "36", 
+            "Neutral"
+        ], 
+        [
+            "Kamrup", 
+            "42", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "72", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "Dhaka", 
+            "109", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Golam Osmani", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "Johurddin", 
+            "53", 
+            "Accused"
+        ], 
+        [
+            "Siraj Ali Khan", 
+            "55", 
+            "Accused"
+        ], 
+        [
+            "Rafiqul Islam", 
+            "59", 
+            "Accused"
+        ], 
+        [
+            "Sarbes Ali", 
+            "62", 
+            "Accused"
+        ], 
+        [
+            "Saiful Islam", 
+            "65", 
+            "Accused"
+        ], 
+        [
+            "G.D. Tripathi", 
+            "75", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "August 17 , 2005 : 112"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:30", 
+        "October:30", 
+        "Friday:45"
+    ], 
+    "death": "", 
+    "title": "6 held in Assam for terror links", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "JAMAATUL MUJAHIDEEN BANGLADESH (JMB)"
+    ], 
+    "content": "The Assam Police have arrested six persons in Barpeta district for alleged links with the Jamaatul Mujahideen Bangladesh -LRB- JMB -RRB- , which is suspected to be behind the October 2 blast at Bardhaman in West Bengal . . . A Kamrup court on Friday remanded all the arrested Golam Osmani , Johurddin , Siraj Ali Khan , Rafiqul Islam , Sarbes Ali and Saiful Islam in 14-day police custody , Assam Home Commissioner G.D. Tripathi said . . . Terror activities of the JMB attracted global attention when it created a reign of terror in Bangladesh by triggering blasts in 300 locations in 63 districts , including Dhaka , on August 17 , 2005 .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Barpeta", 
+        "Guwahati", 
+        "Barpeta"
+    ], 
+    "O": [
+        "police:69", 
+        "home commissioner:73", 
+        "terror activities:81"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/6-held-in-assam-for-terror-links/article6490869.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Barpeta", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Assam Police", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Jamaatul Mujahideen Bangladesh", 
+            "16", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "20", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "85", 
+            "Accused"
+        ]
+    ]
+}

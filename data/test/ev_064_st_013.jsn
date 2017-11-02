@@ -1,0 +1,149 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Race Course Road", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "73", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "92", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "102", 
+            "Victim"
+        ], 
+        [
+            "Delhi", 
+            "128", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "139", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "142", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "152", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "219", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "44", 
+            "Others"
+        ], 
+        [
+            "M K Narayanan", 
+            "50", 
+            "Others"
+        ], 
+        [
+            "V K Duggal", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "Deependra Pathak", 
+            "214", 
+            "Comment"
+        ], 
+        [
+            "K K Paul", 
+            "226", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:6", 
+        "Tuesday:130"
+    ], 
+    "death": "8", 
+    "title": "PM reviews security situation after blasts", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Prime Minister Manmohan Singh on Tuesday reviewed the security situation in the wake of the series of bomb blasts in Mumbai and Srinagar . . . The specially-convened meeting at the prime minister 's Race Course Road residence was attended by Home Minister Shivraj Patil , National Security Adviser M K Narayanan and Home Secretary V K Duggal . . . The meeting is also understood to have reviewed the situation in Jammu and Kashmir where militants carried out a string of grenade attacks within the space of three hours in Srinagar , killing eight persons , including six tourists from West Bengal , and injuring 35 others . . . A high alert has been sounded and security beefed up in public places and markets across Delhi on Tuesday in the wake of serial grenade attacks in Srinagar andblasts in Mumbai . . . Besides deploying additional police personnel across Delhi , check posts have been set up at all major points in the city , including railway and bus stations , cinema halls and busy market places . . . Barricades have also been put up at all entry and exit points of Delhi to keep a vigil and checking of vehicles has been stepped up , Additional Commissioner of Police Deependra Pathak told PTI in Delhi . . . City Police Commissioner K K Paul has also asked the public at large to be careful and to inform the police immediately in case of finding any suspicious object . .", 
+    "injured": "35", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "prime minister:1", 
+        "security situation:9", 
+        "wake of the series of bomb blasts:13", 
+        "series of bomb blasts in mumbai:16", 
+        "race course road residence:35", 
+        "national security adviser:47", 
+        "home secretary:54", 
+        "militants carried out a string of grenade attacks:77", 
+        "six tourists:99", 
+        "deploying additional police personnel:147"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/11delhi.htm", 
+    "date": "11-07-2006", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "217", 
+            "Others"
+        ]
+    ]
+}

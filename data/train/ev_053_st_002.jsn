@@ -1,0 +1,203 @@
+{
+    "LOC": [
+        [
+            "Sena Bhawan", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "85", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "117", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "154", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "239", 
+            "Event"
+        ], 
+        [
+            "Raisina Hill", 
+            "268", 
+            "Neutral"
+        ], 
+        [
+            "Rashtrapati Bhawan", 
+            "273", 
+            "Neutral"
+        ], 
+        [
+            "Raisina Hill", 
+            "382", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Balaji Shrivastav", 
+            "54", 
+            "Comment"
+        ], 
+        [
+            "Vajpayee", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "Suresh Roy", 
+            "157", 
+            "Others"
+        ], 
+        [
+            "Roy", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "Ajai Raj Sharma", 
+            "243", 
+            "Others"
+        ], 
+        [
+            "Roy", 
+            "293", 
+            "Comment"
+        ], 
+        [
+            "Roy", 
+            "350", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "month : 326"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:8", 
+        "Wednesday:42", 
+        "April 10:332"
+    ], 
+    "death": "", 
+    "title": "Special cell to probe Hizbul claim in Sena Bhawan blasts", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "Central", 
+        "Delhi", 
+        ""
+    ], 
+    "terror_group": [
+        "HIZB-UL-MUJAHIDEEN / HIZB-UL-MUJAHIDEEN PIR PANJAL REGIMENT"
+    ], 
+    "content": "The special cell of Delhi Police on Friday began investigations into the Sena Bhawan twin blasts case amidst a claim by the pro-Pakistan terrorist outfit Hizbul Muzahideen that its activists carried out the explosions in the heart of the Capital on Wednesday . . . Deputy Commissioner of Police ( special branch ) Balaji Shrivastav told UNI that they would look into the Hizbul claim and track down the culprits in course of time . . . The Hizbul Muzahideen issued a statement in Srinagar earlier in the day , claiming responsibility for the blasts . It said the blast were intended to convey to the Vajpayee government that Mujahideen can strike at will anywhere across India . . . Delhi police had entrusted its special cell with the probe into the case , suspecting the involvement of some terrorist organisation . . . Talking to UNI , joint commissioner of police ( New Delhi ) Suresh Roy did not rule out the possibility of Hizbul Muzahideen or the Jammu and Kashmir Islamic Front ( JKIF ) being behind the low intensity blasts near the south block , housing the Prime Minister ` s office and Sena Bhawan , the army headquarters . However , he said , the special cell would soon be able to identify the outfit responsible for the crime after its investigations . . . Mr Roy , who had a meeting with the Delhi Commissioner of Police Ajai Raj Sharma to review the law and order situation in the capital , said security arrangements had been further intensified in the all important Raisina Hill area where the Rashtrapati Bhawan , the south block and the north block -- the seat of the government were located , Mr Roy said . A high-level alert and extra vigilance was being maintained to prevent recurrence of such incidents in the area which had been targeted twice by suspected terrorist outfits in about a month ` s period . On April 10 , a crude bomb was recovered in the parking place of the north block . Mr Roy said a separate parking place would be made available for the vehicles of the visitors to the north and south blocks which were now parked in the open stretch of the Raisina Hill , making the area highly vulnerable . . . He said that army had also been asked to be on the alert in view of the heightened threat of attacks in the capital by ISI-backed terrorist outfits . . . Bureau Report .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "special cell:2", 
+        "investigations:10", 
+        "twin blasts case:15", 
+        "pro-pakistan terrorist outfit:23", 
+        "activists:30", 
+        "explosions:34", 
+        "culprits:70", 
+        "blasts:95", 
+        "blast:100", 
+        "special cell:126", 
+        "terrorist organisation:140", 
+        "blasts:183", 
+        "prime minister ` s office:191", 
+        "sena bhawan:197", 
+        "army headquarters:201", 
+        "special cell:210", 
+        "outfit:219", 
+        "investigations:226", 
+        "high-level alert:297", 
+        "extra vigilance:300", 
+        "terrorist outfits:321", 
+        "crude bomb:336", 
+        "attacks:413", 
+        "isi-backed terrorist outfits:418"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/nation/special-cell-to-probe-hizbul-claim-in-sena-bhawan-blasts_12990.html", 
+    "date": "11-05-2001", 
+    "target": "GOVERNMENT BUILDING", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "Hizbul", 
+            "64", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Hizbul Muzahideen", 
+            "79", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "Hizbul Muzahideen", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "UNI", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "Mujahideen", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "Delhi police", 
+            "121", 
+            "Others"
+        ], 
+        [
+            "UNI", 
+            "147", 
+            "Others"
+        ], 
+        [
+            "Hizbul Muzahideen", 
+            "166", 
+            "Others"
+        ], 
+        [
+            "Jammu and Kashmir Islamic Front", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "JKIF", 
+            "176", 
+            "Others"
+        ]
+    ]
+}

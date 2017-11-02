@@ -1,0 +1,119 @@
+{
+    "LOC": [
+        [
+            "Agartala", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "Tripura", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Tripura", 
+            "96", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Prakash Karat", 
+            "82", 
+            "Comment"
+        ], 
+        [
+            "Karat", 
+            "114", 
+            "Comment"
+        ], 
+        [
+            "Manik Sarkar", 
+            "139", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Oct 02 : 4", 
+        "Thursday:21"
+    ], 
+    "death": "", 
+    "title": "CPI(M) asks Centre to extend help to blast-hit Tripura", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi , Oct 02 : Condemning the serial bomb blasts in Agartala , the CPI ( M ) on Thursday asked the Centre to extend all help to Tripura government in tracking down the culprits behind the attack . ` The central government should extend all help to the state government in tracking down the culprits behind this attack especially in view of the fact that the state has international borders on its three sides , ' party General Secretary Prakash Karat said here . . . Noting that the Left Front government in Tripura has registered significant success in tackling the extremist groups who used to resort to terrorist violence , Karat said the explosions must be seen as an attempt to destabilise the situation . . . He said he had spoken to Chief Minister Manik Sarkar and till noon no one has died in connection with the blasts in which 73 people were injured . . . Bureau Report .", 
+    "injured": "73", 
+    "det_loc": [
+        "India", 
+        "Tripura", 
+        "", 
+        "Agartala", 
+        ""
+    ], 
+    "O": [
+        "serial bomb blasts:9", 
+        "culprits:36", 
+        "attack:39", 
+        "culprits:57", 
+        "international borders:71", 
+        "extremist groups:104", 
+        "terrorist violence:111", 
+        "explosions:117", 
+        "blasts:152", 
+        "injured:158"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/home/cpim-asks-centre-to-extend-help-to-blast-hit-tripura_473515.html", 
+    "date": "02-10-2008", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CPI", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "M", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "Tripura government", 
+            "30", 
+            "Others"
+        ], 
+        [
+            "central government", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "Left Front government", 
+            "92", 
+            "Others"
+        ]
+    ]
+}

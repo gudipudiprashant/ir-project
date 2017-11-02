@@ -1,0 +1,113 @@
+{
+    "LOC": [
+        [
+            "Bhubaneshwar", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Odisha", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Malkangiri", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "73", 
+            "Neutral"
+        ], 
+        [
+            "Bhubaneswar", 
+            "208", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Soumendra Priyadarshi", 
+            "130", 
+            "Comment"
+        ], 
+        [
+            "Akhileswar Singh", 
+            "137", 
+            "Comment"
+        ], 
+        [
+            "Devdutt Singh", 
+            "184", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "May:75"
+    ], 
+    "death": "14", 
+    "title": "14 Maoists killed in encounter in Odisha", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Bhubaneshwar : At least 14 Maoists , including a woman , have been killed in a fierce encounter with police in Odisha 's Malkangiri district today , an official said.The gun battle , which lasted for several minutes , took place in a forest close to the border with Chhattisgarh . The Maoists who were killed are suspected to have been involved in the attack on a convoy of Congress leaders in Chhattisgarh in May this year.Today 's encounter was carried out jointly by a team of Special Operations Group -LRB- SOG -RRB- and District Voluntary Force -LRB- DVF -RRB- which raided the site and retaliated when the extremists fired at them . `` Fourteen Maoists were killed . Arms were also seized , '' Inspector General of Police Soumendra Priyadarshi told IANS.Malkangiri Superintendent of Police Akhileswar Singh , who led the operation , said some explosive materials , arms and ammunition as well as Maoist literature were seized from the site.Describing the operation as a major success in the drive against left-wing extremists in the region , Deputy Inspector General of Police Devdutt Singh said a massive search operation has been launched in the forest after the encounter.Malkangiri , over 600 kilometres from state capital of Bhubaneswar , is a known Maoist stronghold . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Orissa", 
+        "", 
+        "Bhubaneshwar", 
+        "Odisha"
+    ], 
+    "O": [
+        "police:20", 
+        "Congress:70", 
+        "Police:129", 
+        "Police:136", 
+        "Deputy Inspector General:179"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/14-maoists-killed-in-encounter-in-odisha-534577", 
+    "date": "14-09-2013", 
+    "target": "", 
+    "hot_spot": "Odisha", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Special Operations Group", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "SOG", 
+            "92", 
+            "Others"
+        ], 
+        [
+            "District Voluntary Force", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "DVF", 
+            "99", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,2962 @@
+{
+    "LOC": [
+        [
+            "Bihar", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Police Information Room", 
+            "73", 
+            "Source"
+        ], 
+        [
+            "childrens park", 
+            "78", 
+            "Source"
+        ], 
+        [
+            "Magadh Mahila College", 
+            "85", 
+            "Source"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "91", 
+            "Event"
+        ], 
+        [
+            "park", 
+            "120", 
+            "Source"
+        ], 
+        [
+            "Patna", 
+            "196", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "206", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan police station", 
+            "210", 
+            "Source"
+        ], 
+        [
+            "Patna", 
+            "245", 
+            "Event"
+        ], 
+        [
+            "Bodhgaya", 
+            "282", 
+            "Event"
+        ], 
+        [
+            "Bodhgaya", 
+            "294", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "298", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "319", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "362", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "389", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "396", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "468", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "489", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "531", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "798", 
+            "Event"
+        ], 
+        [
+            "Patna Railway Station", 
+            "913", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "977", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1058", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1074", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1131", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1179", 
+            "Event"
+        ], 
+        [
+            "Ranchi", 
+            "1183", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "1250", 
+            "Accused"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "1296", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1347", 
+            "Event"
+        ], 
+        [
+            "Mangalore", 
+            "1443", 
+            "Accused"
+        ], 
+        [
+            "Patna", 
+            "1475", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1515", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1829", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1855", 
+            "Event"
+        ], 
+        [
+            "Muzaffarnagar", 
+            "1871", 
+            "Accused"
+        ], 
+        [
+            "Muzaffarnagar", 
+            "1915", 
+            "Accused"
+        ], 
+        [
+            "Patna", 
+            "1974", 
+            "Event"
+        ], 
+        [
+            "Patna Railway Junction", 
+            "2021", 
+            "Neutral"
+        ], 
+        [
+            "Gandhi Maidan police station", 
+            "2026", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "2073", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2085", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "2094", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "2106", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "2136", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "2155", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "2163", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2189", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2211", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2226", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2259", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2288", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "2319", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2355", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "2413", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2425", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2504", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2508", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2574", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2611", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2808", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "2813", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "2831", 
+            "Event"
+        ], 
+        [
+            "Rajgir", 
+            "2927", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "2967", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2999", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "3066", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "3089", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "3122", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "3131", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "3154", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "3273", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "3293", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "3333", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "3356", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "3469", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "3489", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "3516", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "3669", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "3707", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "3720", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "3740", 
+            "Neutral"
+        ], 
+        [
+            "Muzaffarnagar", 
+            "3800", 
+            "Accused"
+        ], 
+        [
+            "Muzaffarnagar", 
+            "3972", 
+            "Accused"
+        ], 
+        [
+            "Patna", 
+            "4000", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "4071", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "4150", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "4153", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "4287", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "4295", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "4323", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "4344", 
+            "Event"
+        ], 
+        [
+            "Ranchi", 
+            "4444", 
+            "Accused"
+        ], 
+        [
+            "Bihar", 
+            "4499", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "4508", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "4789", 
+            "Accused"
+        ], 
+        [
+            "Patna Railway Station", 
+            "4893", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "4986", 
+            "Event"
+        ], 
+        [
+            "Muzaffarnagar", 
+            "5058", 
+            "Accused"
+        ], 
+        [
+            "Bodh Gaya", 
+            "5074", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "5254", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "5263", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "5277", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "5280", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "5306", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "5325", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "5328", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "5345", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "5389", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "5406", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "5477", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "5553", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "5589", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "5594", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "5614", 
+            "Neutral"
+        ], 
+        [
+            "Kaimur", 
+            "5619", 
+            "Accused"
+        ], 
+        [
+            "Mirganj", 
+            "5624", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "5664", 
+            "Neutral"
+        ], 
+        [
+            "Patna station", 
+            "5672", 
+            "Event"
+        ], 
+        [
+            "platform no. 10", 
+            "5675", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "5684", 
+            "Event"
+        ], 
+        [
+            "Udyog Bhawan", 
+            "5687", 
+            "Event"
+        ], 
+        [
+            "Regent Cinema", 
+            "5692", 
+            "Event"
+        ], 
+        [
+            "Old Gandhi statue", 
+            "5697", 
+            "Event"
+        ], 
+        [
+            "Twin Tower", 
+            "5703", 
+            "Event"
+        ], 
+        [
+            "SBI office", 
+            "5708", 
+            "Event"
+        ], 
+        [
+            "Children 's park", 
+            "5713", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "5736", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "5738", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "5774", 
+            "Event"
+        ], 
+        [
+            "Patna Medical College", 
+            "5784", 
+            "Neutral"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "5813", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "5824", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "5845", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "5875", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "5895", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "5986", 
+            "Neutral"
+        ], 
+        [
+            "Patna railway station", 
+            "6064", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "6124", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "6217", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "6221", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "6239", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "6266", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "6300", 
+            "Neutral"
+        ], 
+        [
+            "venue of rally", 
+            "6349", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "6393", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "6420", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "6429", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "6491", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "6563", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "6596", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "6671", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "6739", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "6792", 
+            "Neutral"
+        ], 
+        [
+            "gandhi Maidan", 
+            "6839", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "6871", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "6873", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "6918", 
+            "Event"
+        ], 
+        [
+            "Munger", 
+            "6978", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "6985", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "6987", 
+            "Neutral"
+        ], 
+        [
+            "Munger", 
+            "6997", 
+            "Event"
+        ], 
+        [
+            "Munger", 
+            "7043", 
+            "Event"
+        ], 
+        [
+            "Munger", 
+            "7089", 
+            "Neutral"
+        ], 
+        [
+            "Rajgir", 
+            "7094", 
+            "Neutral"
+        ], 
+        [
+            "Nalanda", 
+            "7104", 
+            "Neutral"
+        ], 
+        [
+            "Patna railway station", 
+            "7145", 
+            "Event"
+        ], 
+        [
+            "Gandhi maidan", 
+            "7151", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "7194", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "7213", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "7228", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "7243", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "7276", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "7293", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "7325", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "7341", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "7370", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "7373", 
+            "Neutral"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "7386", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "7389", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "7410", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "7424", 
+            "Event"
+        ], 
+        [
+            "Elphinstone Cinema Hall", 
+            "7427", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "7441", 
+            "Neutral"
+        ], 
+        [
+            "Patna Railway", 
+            "7598", 
+            "Event"
+        ], 
+        [
+            "Patna railway station", 
+            "7660", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "7664", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "7738", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "7855", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "7884", 
+            "Event"
+        ], 
+        [
+            "railway station", 
+            "7897", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "7915", 
+            "Event"
+        ], 
+        [
+            "Patna railway station", 
+            "7972", 
+            "Event"
+        ], 
+        [
+            "public toilet", 
+            "7986", 
+            "Event"
+        ], 
+        [
+            "Platform No 10", 
+            "7989", 
+            "Event"
+        ], 
+        [
+            "railway station", 
+            "7995", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "8007", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "8021", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shinde", 
+            "4228", 
+            "Comment"
+        ], 
+        [
+            "Motihari", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "Tabish", 
+            "44", 
+            "Accused"
+        ], 
+        [
+            "Manoj Kumar Tiwari", 
+            "101", 
+            "Comment"
+        ], 
+        [
+            "N Sharvan Kumar", 
+            "146", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "250", 
+            "Others"
+        ], 
+        [
+            "Nitish Kumar", 
+            "341", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "349", 
+            "Comment"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "354", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "375", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "404", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "431", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "528", 
+            "Others"
+        ], 
+        [
+            "Nitish Kumar", 
+            "547", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "600", 
+            "Others"
+        ], 
+        [
+            "Nitish", 
+            "742", 
+            "Comment"
+        ], 
+        [
+            "Sushil Kumar Modi", 
+            "970", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "1005", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "1021", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "1027", 
+            "Comment"
+        ], 
+        [
+            "Imtiaz Ansari", 
+            "1116", 
+            "Comment"
+        ], 
+        [
+            "Mohammed Imtiaz", 
+            "1138", 
+            "Accused"
+        ], 
+        [
+            "Imtiaz", 
+            "1197", 
+            "Accused"
+        ], 
+        [
+            "Tariq", 
+            "1215", 
+            "Accused"
+        ], 
+        [
+            "Anul", 
+            "1217", 
+            "Accused"
+        ], 
+        [
+            "Imtiaz", 
+            "1234", 
+            "Accused"
+        ], 
+        [
+            "Tariq", 
+            "1248", 
+            "Accused"
+        ], 
+        [
+            "Tehseen", 
+            "1257", 
+            "Accused"
+        ], 
+        [
+            "Haider", 
+            "1259", 
+            "Accused"
+        ], 
+        [
+            "Taufiq", 
+            "1267", 
+            "Accused"
+        ], 
+        [
+            "Niman", 
+            "1269", 
+            "Accused"
+        ], 
+        [
+            "Maharaj", 
+            "1276", 
+            "Comment"
+        ], 
+        [
+            "Anul", 
+            "1283", 
+            "Accused"
+        ], 
+        [
+            "Imtiaz", 
+            "1285", 
+            "Accused"
+        ], 
+        [
+            "Maharaj", 
+            "1300", 
+            "Comment"
+        ], 
+        [
+            "Imtiaz", 
+            "1302", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Imtiaz", 
+            "1356", 
+            "Accused"
+        ], 
+        [
+            "Tehseen Akhtar", 
+            "1382", 
+            "Accused"
+        ], 
+        [
+            "Akhtar", 
+            "1434", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "1455", 
+            "Accused"
+        ], 
+        [
+            "Shinde", 
+            "1466", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "1473", 
+            "Comment"
+        ], 
+        [
+            "Khurshid", 
+            "1479", 
+            "Others"
+        ], 
+        [
+            "Salman Khurshid", 
+            "1484", 
+            "Others"
+        ], 
+        [
+            "Sushil Kumar Shinde", 
+            "1490", 
+            "Others"
+        ], 
+        [
+            "Shinde", 
+            "1510", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "1543", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "1572", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "1624", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "1716", 
+            "Comment"
+        ], 
+        [
+            "Maneka", 
+            "1731", 
+            "Others"
+        ], 
+        [
+            "Varun Gandhi", 
+            "1733", 
+            "Others"
+        ], 
+        [
+            "Gandhi", 
+            "1740", 
+            "Others"
+        ], 
+        [
+            "irks Modi", 
+            "1744", 
+            "Others"
+        ], 
+        [
+            "Maneka Gandhi", 
+            "1767", 
+            "Others"
+        ], 
+        [
+            "Varun Gandhi", 
+            "1771", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "1787", 
+            "Comment"
+        ], 
+        [
+            "Gandhi", 
+            "1819", 
+            "Others"
+        ], 
+        [
+            "Imitiaz Ansari", 
+            "1903", 
+            "Accused"
+        ], 
+        [
+            "Ravindra Kumar", 
+            "2045", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "2069", 
+            "Comment"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "2079", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "2097", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "2102", 
+            "Comment"
+        ], 
+        [
+            "Kumar", 
+            "2108", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "2176", 
+            "Comment"
+        ], 
+        [
+            "Anil Goswami", 
+            "2181", 
+            "Others"
+        ], 
+        [
+            "Shinde", 
+            "2206", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "2257", 
+            "Comment"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "2268", 
+            "Comment"
+        ], 
+        [
+            "Siddarth Nath Singh", 
+            "2312", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "2357", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "2397", 
+            "Comment"
+        ], 
+        [
+            "Kangana Ranaut", 
+            "2410", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "2435", 
+            "Others"
+        ], 
+        [
+            "Nirmala Sitharaman", 
+            "2469", 
+            "Comment"
+        ], 
+        [
+            "Ravindra Kumar", 
+            "2510", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "2526", 
+            "Others"
+        ], 
+        [
+            "Kumar", 
+            "2549", 
+            "Comment"
+        ], 
+        [
+            "Arun Jaitley", 
+            "2603", 
+            "Comment"
+        ], 
+        [
+            "Arun Jaitley", 
+            "2607", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "2616", 
+            "Comment"
+        ], 
+        [
+            "Jaitley", 
+            "2667", 
+            "Comment"
+        ], 
+        [
+            "dilemma", 
+            "2678", 
+            "Others"
+        ], 
+        [
+            "Jaitley", 
+            "2734", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "2740", 
+            "Comment"
+        ], 
+        [
+            "Jaitley", 
+            "2751", 
+            "Comment"
+        ], 
+        [
+            "Jaitley", 
+            "2778", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "2803", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "2816", 
+            "Comment"
+        ], 
+        [
+            "Kumar", 
+            "2846", 
+            "Comment"
+        ], 
+        [
+            "AK Sinha", 
+            "2872", 
+            "Others"
+        ], 
+        [
+            "Abhayanand", 
+            "2879", 
+            "Others"
+        ], 
+        [
+            "Shinde", 
+            "2964", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "2971", 
+            "Comment"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "2988", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "3043", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "3051", 
+            "Comment"
+        ], 
+        [
+            "Digvijaya", 
+            "3111", 
+            "Comment"
+        ], 
+        [
+            "Digvijaya", 
+            "3117", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "3125", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "3182", 
+            "Others"
+        ], 
+        [
+            "Nitish", 
+            "3279", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "3289", 
+            "Comment"
+        ], 
+        [
+            "digvijaya singh", 
+            "3297", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "3308", 
+            "Comment"
+        ], 
+        [
+            "Sushil Modi", 
+            "3342", 
+            "Comment"
+        ], 
+        [
+            "Sushil Kumar Modi", 
+            "3349", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "3385", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "3401", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "3407", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "3478", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "3498", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "3539", 
+            "Others"
+        ], 
+        [
+            "Mukhtar Abbas Naqvi", 
+            "3617", 
+            "Comment"
+        ], 
+        [
+            "Bhatkal", 
+            "3638", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "3654", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "3664", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "3753", 
+            "Accused"
+        ], 
+        [
+            "Tehseen Akhtar", 
+            "3808", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "3821", 
+            "Accused"
+        ], 
+        [
+            "Aktar", 
+            "3837", 
+            "Accused"
+        ], 
+        [
+            "Monu", 
+            "3839", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "3847", 
+            "Accused"
+        ], 
+        [
+            "Akhtar", 
+            "3862", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "3867", 
+            "Accused"
+        ], 
+        [
+            "Modi", 
+            "3902", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "3925", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "3946", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "3961", 
+            "Others"
+        ], 
+        [
+            "Amarkant Jha", 
+            "4003", 
+            "Comment"
+        ], 
+        [
+            "Manu Maharaj", 
+            "4073", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "4120", 
+            "Comment"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "4133", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "4166", 
+            "Comment"
+        ], 
+        [
+            "Imtiaz Ansari", 
+            "4416", 
+            "Accused"
+        ], 
+        [
+            "Ansari", 
+            "4439", 
+            "Accused"
+        ], 
+        [
+            "Nitish Kumar", 
+            "4522", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "4535", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "4589", 
+            "Comment"
+        ], 
+        [
+            "Nitish", 
+            "4733", 
+            "Comment"
+        ], 
+        [
+            "Imtiaz Ansari", 
+            "5098", 
+            "Accused"
+        ], 
+        [
+            "Tehseen Akhtar", 
+            "5133", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "5146", 
+            "Accused"
+        ], 
+        [
+            "Aktar", 
+            "5162", 
+            "Accused"
+        ], 
+        [
+            "Monu", 
+            "5164", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "5172", 
+            "Accused"
+        ], 
+        [
+            "Akhtar", 
+            "5187", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "5192", 
+            "Accused"
+        ], 
+        [
+            "Shinde", 
+            "5240", 
+            "Comment"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "5259", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "5302", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "5316", 
+            "Comment"
+        ], 
+        [
+            "Pranab Mukherjee", 
+            "5393", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "5398", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "5480", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "5570", 
+            "Comment"
+        ], 
+        [
+            "Ramnarayan Singh", 
+            "5611", 
+            "Accused"
+        ], 
+        [
+            "Vikas Singh", 
+            "5616", 
+            "Accused"
+        ], 
+        [
+            "Munna Singh", 
+            "5621", 
+            "Accused"
+        ], 
+        [
+            "Abhayanand", 
+            "5666", 
+            "Others"
+        ], 
+        [
+            "Nitish Kumar", 
+            "5721", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "5741", 
+            "Comment"
+        ], 
+        [
+            "Kumar", 
+            "5817", 
+            "Comment"
+        ], 
+        [
+            "Narendra", 
+            "5904", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "5906", 
+            "Comment"
+        ], 
+        [
+            "Kumar", 
+            "6051", 
+            "Comment"
+        ], 
+        [
+            "Kumar", 
+            "6141", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "6193", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "6210", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "6227", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "6291", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "6355", 
+            "Comment"
+        ], 
+        [
+            "Sushma", 
+            "6369", 
+            "Comment"
+        ], 
+        [
+            "Nitish", 
+            "6376", 
+            "Comment"
+        ], 
+        [
+            "Sushma Swaraj", 
+            "6403", 
+            "Comment"
+        ], 
+        [
+            "Sanjay Singh", 
+            "6469", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "6478", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "6569", 
+            "Comment"
+        ], 
+        [
+            "Ajay Kumar", 
+            "6589", 
+            "Victim"
+        ], 
+        [
+            "Shakeel Ahmed", 
+            "6631", 
+            "Victim"
+        ], 
+        [
+            "Ahmed", 
+            "6654", 
+            "Victim"
+        ], 
+        [
+            "Modi", 
+            "6662", 
+            "Comment"
+        ], 
+        [
+            "Shakeel Ahmad", 
+            "6689", 
+            "Victim"
+        ], 
+        [
+            "Ravi Shankar", 
+            "6744", 
+            "Victim"
+        ], 
+        [
+            "Sushil Kumar Modi", 
+            "6750", 
+            "Victim"
+        ], 
+        [
+            "Narendra Modi", 
+            "6801", 
+            "Comment"
+        ], 
+        [
+            "Sushil Kumar Modi", 
+            "6855", 
+            "Victim"
+        ], 
+        [
+            "Ravi Shankar Prasad", 
+            "6894", 
+            "Accused"
+        ], 
+        [
+            "Ravi Shankar Prasad", 
+            "6952", 
+            "Accused"
+        ], 
+        [
+            "Nitish", 
+            "6976", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "6990", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "7011", 
+            "Others"
+        ], 
+        [
+            "Kumar", 
+            "7023", 
+            "Comment"
+        ], 
+        [
+            "Anne Marg", 
+            "7032", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "7069", 
+            "Others"
+        ], 
+        [
+            "Kumar", 
+            "7083", 
+            "Comment"
+        ], 
+        [
+            "Kumar", 
+            "7113", 
+            "Comment"
+        ], 
+        [
+            "AK Sinha", 
+            "7120", 
+            "Others"
+        ], 
+        [
+            "Abhyanand", 
+            "7127", 
+            "Others"
+        ], 
+        [
+            "Amir Subhani", 
+            "7132", 
+            "Others"
+        ], 
+        [
+            "RPN Singh", 
+            "7218", 
+            "Comment"
+        ], 
+        [
+            "RPN Singh", 
+            "7263", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "7273", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "7393", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "7413", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "7444", 
+            "Comment"
+        ], 
+        [
+            "Abhayanand", 
+            "7471", 
+            "Others"
+        ], 
+        [
+            "Digvijaya Singh", 
+            "7587", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "7604", 
+            "Comment"
+        ], 
+        [
+            "Nitish", 
+            "7610", 
+            "Comment"
+        ], 
+        [
+            "digvijaya singh", 
+            "7619", 
+            "Accused"
+        ], 
+        [
+            "Manu Maharaj", 
+            "7669", 
+            "Comment"
+        ], 
+        [
+            "Ramkirpal Yadav", 
+            "7712", 
+            "Comment"
+        ], 
+        [
+            "Yadav", 
+            "7789", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "7880", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "7935", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "8018", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "8.13 am : 1", 
+        "morning : 49", 
+        "12.15 pm : 188", 
+        "11.47 am : 338", 
+        "10.35 am : 462", 
+        "10.00 am : 1055", 
+        "night : 1146", 
+        "9.22 am : 1320", 
+        "night : 1365", 
+        "8.15 am : 1462", 
+        "7.45 am : 1826", 
+        "9.50 pm : 1965", 
+        "9.12 : 2066", 
+        "6.57 pm : 2252", 
+        "5.04 pm : 2494", 
+        "3.59 pm : 2593", 
+        "3.00 pm : 2800", 
+        "2:10 pm : 2961", 
+        "1:40 pm : 3056", 
+        "1.25 pm : 3098", 
+        "12.35 pm : 3330", 
+        "12:05 pm : 3486", 
+        "12:00 pm : 3520", 
+        "11.52 am : 3628", 
+        "11.14 am : 3711", 
+        "10.58 am : 3892", 
+        "10.00 am : 4117", 
+        "8.45 am : 4328", 
+        "7.30 am : 4496", 
+        "6.30 am : 4961", 
+        "7.42 pm : 5227", 
+        "7.17 pm : 5379", 
+        "6.35 pm : 5582", 
+        "9.30 am : 5669", 
+        "11.40 am : 5681", 
+        "12.05 pm : 5689", 
+        "12.10 pm : 5694", 
+        "12.15 pm : 5700", 
+        "12.20 pm : 5705", 
+        "12.45 pm : 5710", 
+        "6.15 pm : 5718", 
+        "5.30 pm : 6207", 
+        "5.20 pm : 6366", 
+        "5.15 pm : 6414", 
+        "5.10 pm : 6432", 
+        "5.15 pm : 6504", 
+        "5.05 pm : 6577", 
+        "5.00 pm : 6626", 
+        "4.45 pm : 6700", 
+        "4.15 pm : 6762", 
+        "3.00 pm : 6891", 
+        "2.45 pm : 6973", 
+        "2.35 pm : 7160", 
+        "2.30 pm : 7210", 
+        "1.30 pm : 7268", 
+        "12.45 pm : 7318", 
+        "12.25 pm : 7378", 
+        "12.10 pm : 7402", 
+        "1 pm : 7454", 
+        "12.00 pm : 7533", 
+        "11.55 pm : 7581", 
+        "11.50 pm : 7630", 
+        "11.40 am : 7642", 
+        "11.30 am : 7693", 
+        "11.20 am : 7819", 
+        "11.15 am : 7842", 
+        "11 am : 7891", 
+        "10 am : 7919", 
+        "three hours : 7925"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday : 36", 
+        "Tuesday : 64", 
+        "29 October : 183", 
+        "Wednesday : 400", 
+        "Monday : 1145", 
+        "27 October : 1345", 
+        "Monday : 1364", 
+        "Sunday : 1391", 
+        "28 October : 1960", 
+        "Wednesday : 2138", 
+        "23 October : 2772", 
+        "October 27 , 2013 : 3302", 
+        "August : 3759", 
+        "Sunday : 4988", 
+        "27 October : 5222", 
+        "Sunday : 5265", 
+        "July : 5333", 
+        "Sunday : 5400", 
+        "Sunday : 5554", 
+        "Friday : 6116", 
+        "October 27 , 2013 : 6408", 
+        "October 27 , 2013 : 6694", 
+        "October 27 , 2013 : 6756", 
+        "October 27 , 2013 : 6861", 
+        "October 27 , 2013 : 6885", 
+        "October 27 , 2013 : 7624", 
+        "Sunday : 7922", 
+        "Sunday : 8009"
+    ], 
+    "death": "", 
+    "title": "Patna blasts live: One more suspect detained in Motihari, raids on", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "8.13 am : One more detained in Bihar , raids on . . Patna Police have detained another suspect from Motihari , Bihar for his alleged involvement in the serial blasts at Gandhi Maidan on Sunday . . . According to reports , Tabish was arrested early this morning and police raids are on . More details are awaited . . . On Tuesday , three bombs were found each near the Police Information Room , in childrens park and a place opposite the Magadh Mahila College , all on Gandhi Maidan , Deputy Superintendent of Police ( City ) Manoj Kumar Tiwari said . . . Later in the day . two more bombs were recovered from the park and the place opposite the college , police sources told PTI . . . In view of more bombs being found , Patna District Magistrate N Sharvan Kumar said permission will not be given to the Communist Party of India-Marxist-Leninists ( CPI-ML ) proposed Khabardar rally that was suppose to be organised at the same venue today . . . Updates for 29 October end . . 12.15 pm : One more bomb recovered in Patna . . Police have found another live bomb in Patna , near the Gandhi Maidan police station . . . Police are reportedly trying to defuse the bomb . . . Preliminary reports coming in said that the discovered bomb was similar to the devices that exploded across Patna on the day of Narendra Modi 's rally . . . The bombs , which are believed to have been planted by the Indian Mujahideen , reportedly have the same kind of timer device as the Bodhgaya blasts . `` The only similarity between the IEDs used in Bodhgaya and those in Patna was the timer device - a Lotus brand watch . The make of the bombs was different , as the Patna bombs were not very neatly prepared '' , a senior officer told the Indian Express . . . 11.47 am : Nitish Kumar will meet me tomorrow , says Shinde . . Home Minister Sushilkumar Shinde who was supposed to travel to Patna today , said that he did not make the trip there as Nitish Kumar had another meeting . Speaking to reporters , Shinde said that the Bihar Chief Minister would meet him in Delhi tomorrow . ( Wednesday ) . . Shinde also reiterated the fact that the Bihar state government had received intelligence inputs from the centre , on specific threats to political rallies . . . Nitish Kumar 's government originally said that they did not receive any central intelligence input and later said that whatever inputs they had received were much too generic . . . 10.35 am : Bihar govt wants Patna blasts probe handed over to NIA . . The Bihar government has written to the centre and asked that the Patna blasts be handed over to the National Investigation Agency ( NIA ) , CNN-IBN reported . . . The request comes even as state security and investigative teams have come under fire for providing sub standard security to Narendra Modi 's Patna rally that was targeted by several low intensity blasts . . . Although Chief Minister Nitish Kumar has vigorously defended the security arrangements for the Hunkar rally , central intelligence agencies are reportedly begging to differ . . . According to this report in theTimes of India : . . Sources said though there were no specific inputs , Bihar government was told about possible threats to the Narendra Modi rally.Still , security was so lax that even anti-sabotage checks , a routine in such rallies , were not done . Even policemen were not found in adequate numbers around the venue while several peripheral sections of the venue were seen guarded by private security . . . TheIndian Expressnoted , . . `` What baffled the central agencies is the way the police handled the spots where these explosions were reported . Unlike the standard practice after the blasts , the areas were not cordoned off which resulted in loss of vital clues . . . Also , although the police have a bomb disposal squad , there are not enough personnel to comb the area . The police used lathis and bare hands to pick packets suspected to contain IEDs . '' . . For his part , Nitish said , . . There were no intelligence inputs either from the Centre or from the state . Whatever was possible to do for this kind of a programme , the administration had done . Security was tightened keeping in mind the BJP rally . Senior police officials had personally monitored the security arrangements at Gandhi Maidan , . . This has since been denied by both the Congress and BJP . . . Meanwhile more shocking news about the manner in which the blasts were handled are emerging . . . This report inThe Hinduquotedmany of the victims as saying thatpeople had alerted the police when they spotted the explosive devices , but the police took no step whatsoever to move people to safety . . . Furthermore it has been revealed that people had tried to defuse the bombs by throwing stones at them . The Home Ministry has asked the Bihar government for a report into the incident . . . Concerned over the blast at the Patna Railway Station and recovery of two more crude bombs , the Ministry told the state government to send a report about the nature of the bomb , suspected persons or organisations which could be behind it and steps taken to maintain law and order , PTIsaid , quoting official sources . . . Bihar BJP leader Sushil Kumar Modi has said that the Patna blasts happened because of ` criminal negligence ' and said that the lax security at the event felt ` deliberate ' . . . Speaking toCNN-IBN , Modi said , `` This is criminal negligence and it seems deliberate . The CM ( Nitish Kumar ) wanted to ignore Modi and so he had a callous attitude towards the rally . No jammer or SUV or proper security was provided at the event '' . . . 10.00 am : Patna bombers worked in teams , say police . . With more information about how the Patna blasts were ochestrated coming out , police now say that they believe that as many as six bombers worked in three teams to carry out the attacks . . . Two of the six bombers have been arrested , including one Imtiaz Ansari , whowas caught while allegedly trying to flee after the blast at the Patna station . The second suspect , Mohammed Imtiaz was produced in court on Monday night and sent to seven days judicial custody . . . According to the Indian Express , the bombers had split up into three teams of two bombers each , after coming to Patna by bus from Ranchi . According to the newspaper report : . . According to police , Imtiaz , who was arrested by the Railway Protection Force after the battery bomb exploded injuring his partner Tariq alias Anul , had a piece of paper with seven mobile phone numbers on it . It was Imtiaz who provided police with all the initial leads . Police may consider flying Tariq to Delhi for treatment . . . `` Tehseen and Haider were in the second team , and Taufiq and Niman in the third , '' SSP Maharaj said . `` By the time Anul and Imtiaz were arrested , their associates had planted pipe bombs at Gandhi Maidan . '' Maharaj said Imtiaz had told interrogators that their brief was to create panic and trigger a stampede . . . 9.22 am : Police arrest second suspect . . National Investigation Agency sources have told CNN-IBN that now there are two potential suspects in the 27 October Patna serial blasts case . A second suspect , Mohammed Imtiaz , was produced in court on Monday night and has been sent to seven days of police remand . . . Indian Mujahideen commander Tehseen Akhtar has emerged as the main suspect in Sunday 's blasts that killed six people including a person who is believed to have been injured while planting a bomb , with some reports indicating that he may have personally supervised the blasts . . . Meanwhile according to this report , Akhtar was very close to being apprehended in his Mangalore home , but managed to escape after he received information that Bhatkal had been arrested . . . 8.15 am : Forget Shinde 's music launch , Why did Modi continue Patna rally ? asks Khurshid . . Union Minister Salman Khurshid has defended Home Minister Sushil Kumar Shinde for attending a Bollywood film music launch a few hours after the blasts . . . `` Shinde has a life beyond Patna ... and the awful thing that happened . The law and order was the responsibility of the state government and if the state government was to ask Shinde or the Home Ministry to take over something , he would be there on the phone , '' he said , according to PTI . . . Criticising Modi for going ahead with the rally despite the blasts , the External Affairs Minister said `` after an event like this happens , you should give up whatever happens . The script was not changed . Was the rally suspended or given up ? '' . . The Union Minister slammed Modi saying that instead of attending to those injured in the blasts he went ahead with the rally . . . `` Should you not attend to people who were hurt ? Should you not try to find out what has happened ? He continued with his speech ... much worse ... much worse , '' he said . . . He said there was no word about the people who died or what had happened because it was not in his script . . . The union minister also took on Modi for criticising the Congress party on the issue of dynasty politics . Referring to Maneka and Varun Gandhi , he said the ( Gandhi ) family that irks Modi so much are also a part of BJP . . . `` There is a very eminent leader in BJP Mrs Maneka Gandhi and Mr Varun Gandhi , a young and bright general secretary of the party . For him ( Modi ) , if you leave Congress , then you are not a part of the family but if you are in Congress , then your are a part of the ( Gandhi ) family . '' . . 7.45 am : Patna blasts were aimed at killing women , children . . One of the alleged Indian Mujahideen operatives arrested by police in the wake of the Patna blasts , has reportedly told authorities that the blasts were to avenge the dead in Muzaffarnagar , and the objective was to create a stampede that would ` kill many women and children ' . . . A report in the Times of India said that operative Imitiaz Ansari had told police that `` Many Muslims got killed in Muzaffarnagar and all that you people do is offer namaz '' . He had also said that the objective of the blasts were to trigger panic so that women and children would get killed in the rush . . . -- end of updates for 28 October -- . . 9.50 pm : Two FIRs lodged in connection with Patna blasts . . Two FIRs have been lodged in connection with the serial blasts in the state capital that left six persons dead and scores others injured , police said today . . . The FIRs have been registered at the GRP police station at the Patna Railway Junction and the Gandhi Maidan police station in connection with yesterday 's blasts , Additional Director General of Police ( Headquarters ) Ravindra Kumar told reporters . . . He , however , did not give details of the FIR . . . 9.12 pm : Shinde may not visit Patna tomorrow . . Home Minister Sushilkumar Shinde is unlikely to visit Patna tomorrow as announced earlier due to non-availability of Bihar Chief Minister Nitish Kumar . . . Shinde will not visit Patna as Kumar has some prior engagement , forcing the Home Minister to cancel his trip , sources said . . . The Chief Minister is expected to travel to Delhi on Wednesday when he and the Home Minister will meet and review the law and order situation in Bihar in the wake of multiple blasts in Patna yesterday that so far claimed six lives . . . Instead of Shinde , Union Home Secretary Anil Goswami and other senior officials will visit Patna tomorrow and take stock of the situation there . . . Earlier in the day , Shinde said he would visit Patna tomorrow to asses the situation there . `` I will review the situation in Patna tomorrow . It is premature to say anything about the blast now as investigation is still going on , he had said . . . 6.57 pm : BJP slams Shinde over Patna blasts . . BJP today criticised Home Minister Sushilkumar Shinde for attending a music launch function of a soon-to-be-released Bollywood movie a few hours after multiple blasts in Patna , saying it has become a habit of Union Ministers not to give any attention to better governance . . . BJP spokesperson Siddarth Nath Singh said when the 26/11 Mumbai terror attack had happened , the then Home Minister was seen frequently changing his clothes before speaking to the media . . . `` And now when serial blasts took place at Hunkar rally in Patna , Shinde was at the music launch function . It has become a habit of Congress ministers not to give any attention to better governance but give more emphasis on their clothes and music , '' he said . . . Shinde had yesterday attended the music launch of film ` Rajjo ' starring Kangana Ranaut in Mumbai , a few hours after serial blasts rocked a rally in Patna which was attended by BJP 's Prime Ministerial candidate Narendra Modi . . . `` It is shocking to find the Home Minister entertaining himself in a music function instead of monitoring the situation after the serial blasts , '' another BJP spokesperson Nirmala Sitharaman said . . . The Home Minister has not yet said anything about his presence in the music launch function . . . 5.04 pm : We had no intelligence inputs , says Patna ADG . . Patna ADG Ravindra Kumar today denied any specific intelligence input on any terrorist attack on the occasion of Narendra Modi 's Hunkaar rally . . . `` There was no specific input by the IB on the terror attack , '' Kumar said and added that the police always receives general inputs . . . He refused to divulge on details of the investigations into the Patna blast . `` The investigation is going in the right direction , '' he said . . . 3.59 pm : Bihar govt was casual and callous : Arun Jaitley . . Arun Jaitley condemned the Patna blasts and slammed the Nitish Kumar government over the serial blasts yesterday . . . He said that there were no senior police officers present at the venue . . . `` We did not know what to do when the blasts were happening , there was no senior officer to guide us , '' Jaitley said and added , `` We were faced with the dilemma on what to announce . We could have sparked a stampede . '' . . He said that it was the responsibility of the state to arrange for frisking and metal detectors , none of which was done at the rally . . . `` Attitude of Bihar government was casual and callous , '' Jaitley said . . . While Nitish Kumar has denied any IB inputs on the blasts , Jaitley said , `` We had received information that the IB had warned of a possble threat to the rally on 23 October . '' . . Jaitley also said that Gujarat police officers present with them had warned them not to go to the venue . . . 3.00 pm : Nitish Kumar reviews progress of Patna blasts investigation . . Bihar Chief Minister Nitish Kumar has reviewed the progress made in the probe into the serial blasts at Patna which claimed six lives , PTI said , quoting official sources . . . Kumar directed the officials to expedite the probe and bring to book the culprits at the earliest , the sources said . . . Chief Secretary AK Sinha , Director General of Police Abhayanand and other senior administrative and police officials were present at the high-level meeting with the Chief Minister.The Chief Minister was briefed about the progress made in the probe and the overall law and order situation in the state . . . The Chief Minister later left for Rajgir to attend two-day ` Chintan ` Shivir ' of the JD ( U ) during which he was expected to outline his party 's political strategies , the sources said . . . 2:10 pm : Shinde to visit Patna tomorrow , says Modi 's security adequate . . After a briefing from the Intelligence Bureau chief , Home Minister Sushilkumar Shinde emerged and said that he will be travelling to Patna tomorrow to take stock of the situation following the blasts . . . He also said that there was no question of not having provided adequate security to the BJP 's Prime Ministerial candidate . . . `` The Indian government has provided Modi with the security he requires , '' Shinde said . . . 1:40 pm : Intelligence Bureau chief briefs Home Minister on Patna blasts . . Times Now reports that the Intelligence Bureau chief is meeting with the Home Minister to brief him on the Patna blasts which took place yesterday . . . 1.25 pm : BJP is biggest beneficiary of blasts and riots , says Digvijaya . . Congress general secretary Digvijaya Singh has said that Bihar Chief Minister Nitish Kumar is responsible for the Patna blasts , saying that he needed to be blamed for the breakdown of law and order that led to the blasts in Patna . . . However , in a hugely controversial comment , he sought to justify an earlier tweet , that the timing of the blasts would benefit Narendra Modi and the BJP , saying that ` one political partyreally benefits from these activities ' , adding that whether it was a terrorist attack or a communal riot , the BJP was always the beneficiary of such violence . . . He denied however , that his comments had politicised the blasts , saying that he condemned all forms of violence . He also refused to admit that in hindsight , his tweet was ill advised . . . The tweet is below : . . Another blast in Patna ! Strongly condemn this . Nitish should find the culprit otherwise a perfect setting for Modi 's Launch in Bihar ! . . digvijaya singh ( @digvijaya_28 ) October 27 , 2013 . . Singh added that if he was Chief Minister of the state , such an incident would never have happened . . . 12.35 pm : Patna blasts were the result of criminal negligence : Sushil Modi . . Bihar BJP leader Sushil Kumar Modi has said that the Patna blasts happened because of ` criminal negligence ' and said that the lax security at the event felt ` deliberate ' . . . Speaking to CNN-IBN , Modi said , `` This is criminal negligence and it seems deliberate . The CM ( Nitish Kumar ) wanted to ignore Modi and so he had a callous attitude towards the rally . No jammer or SUV or proper security was provided at the event '' . . . He added that the Bihar government had tried to ignore the rally and had taken it lightly as a result . . . `` The CM made it a point to not be in Patna and ignored it because of hispersonal enmity against Modi '' , he said . . . 12:05 pm : Bihar CM holds emergency meet . . Chief Minister Nitish Kumar is presently holding an emergency meet to assess the damage caused by the serial blasts in Patna . . . 12:00 pm : Security should be provided for our rallies , BJP tells Election Commission . . Apart from Rahul Gandhi , the BJP has also appealed to the Election Commission that is should be able to conduct its rallies in states in the run up to the polls without any risk to its activists . . . `` In other states where elections will take place . Security arrangements for them should be in place and we have appealed that we should be able to hold rallies safely without any risk to our activists , '' Mukhtar Abbas Naqvi told reporters outside Election Commission . . . 11.52 am : Delhi police special cell gets custody of Bhatkal . . The Delhi police special cell has got custody of key Indian Mujahideen operative Yasin Bhatkal . The NIA had also sought custody of Bhatkal in connection with the Patna blasts . The agency earlier confirmed that the Indian Mujahideen was most likely responsible for the series of low intensity blasts that killed at least five people and injured close to 100 at a BJP rally in Patna . . . 11.14 am : NIA confirms Indian Mujahideen carried out Patna blasts . . The National Intelligence Agency ( NIA ) has confirmed that the Indian Mujahideen was behind the Patna blasts . They have also reportedly sought custody of key IM operative Yasin Bhatkal who was arrested in August this year . . . Earlier , Bihar police had said that one of the suspects they had caught in connection with the attacks , had confessed that the IM had been behind the attack to take revenge for the Muzaffarnagar riots . . . Subsequently , CNN-IBNreportedthat Tehseen Akhtar , who is the right hand man of arrested IM mentor Yasin Bhatkal , has emerged as the prime suspect behind the attack . . . `` Aktar alias Monu had taken over the Darbhanga module after Bhatkal 's arrest . Sources further added that interrogators feel the attack was carried by Akhtar to take revenge for Bhatkal 's arrest . However , they also added that this inputs are based on preliminary inquiries '' , the report added . . . 10.58 am : BJP to meet Election Commission to discuss Modi 's security . . The BJP is scheduled to meet the Election Commission to discuss the issue of its Prime Ministerial candidate Narendra Modi 's security following a series of blasts near the venue of his Hunkar rally . . . Apart from Modi 's security , the party will also lodge a complaint against Congress Vice President Rahul Gandhi 's claim that the BJP was responsible for the Muzaffarnagar riots . . . The EC meet comes even as the NIA confirmed the involvement of the Indian Mujahideen . . . Meanwhile Medical Superintendent of the Patna hospital , Amarkant Jha told ANI News that apart from 38 people who were still receiving treatment , the rest of the 102 people brought in with injuries from the blasts had been discharged . . . `` Thesituation is under control . Five patients are critical , they will be kept under observation , the rest can be discharged in 1-2days '' , he added / . . Meanwhile Patna SSP Manu Maharaj confirmed to CNN-IBN that aroundfour people had been detained , and that police were verifying their address and status . `` Only one person has confessed till now we are zeroing on him '' , he told the channel . . . 10.00 am : Shinde under fire for attending music concert despite blasts . . Home Minister Sushilkumar Shinde is coming under fire from opposition members for choosing to attend a music concert in Mumbai after the Patna blasts had taken place . The Times Now television channel reported that Shinde had attended the concert just three hours after the explosions had taken place . . . `` Instead of controlling the situation , he chose to attend a music launch . This is similar to what happened in 26/11 when the state home minister said that such things happen in big cities '' , a BJP spokesman said . . . Shinde has reportedly justified his decision by saying that he had been in touch with security officials and was informed about what was going on . . . During the event , he told the audience that he had requested the organisers of the event to hold it close to the airport . `` I have to rush to Delhi because you all know what happened in Patna '' , he said . . . Meanwhile the Home Ministry has issued a security alert to all states and union territories in the wake of the Patna blasts . . . 8.45 am : Injured suspect succumbs to injuries . . One of the suspects in the Patna blast , who was critically injured in one of the blasts , has succumbed to his injuries . The man had been earlier identified as oneAinul , and it was believed that he had been injured while attempting to plant one of the bombs . . . He had been in the ICU of one of the city hospitals . . . The police are currently interrogating a man identified as Imtiaz Ansari who was caught as he was trying to plant more bombs . . . According to the Times of India , Ansari , a resident of Ranchi , was apprehended at the railway station just after the first two bombs went off . He was apparently planning to plant some more bombs but panicked when he saw the police and bomb disposal squad . On being challenged , he tried to flee but was arrested . . . 7.30 am : Bihar security found to be lacking . . The Patna blasts which killed five people and injured close to 100 has put the Nitish Kumar government under the scanner . . . And although Chief Minister Nitish Kumar has vigorously defended the security arrangements for the Hunkar rally , central intelligence agencies are reportedly begging to differ . . . According to this report in the Times of India : . . Sources said though there were no specific inputs , Bihar government was told about possible threats to the Narendra Modi rally.Still , security was so lax that even anti-sabotage checks , a routine in such rallies , were not done . Even policemen were not found in adequate numbers around the venue while several peripheral sections of the venue were seen guarded by private security . . . The Indian Express noted , . . `` What baffled the central agencies is the way the police handled the spots where these explosions were reported . Unlike the standard practice after the blasts , the areas were not cordoned off which resulted in loss of vital clues . . . Also , although the police have a bomb disposal squad , there are not enough personnel to comb the area . The police used lathis and bare hands to pick packets suspected to contain IEDs . '' . . For his part , Nitish said , . . There were no intelligence inputs either from the Centre or from the state . Whatever was possible to do for this kind of a programme , the administration had done . Security was tightened keeping in mind the BJP rally . Senior police officials had personally monitored the security arrangements at Gandhi Maidan , . . Meanwhile more shocking news about the manner in which the blasts were handled are emerging . . . This report in The Hindu quoted many of the victims as saying thatpeople had alerted the police when they spotted the explosive devices , but the police took no step whatsoever to move people to safety . . . Furthermore it has been revealed that people had tried to defuse the bombs by throwing stones at them . The Home Ministry has asked the Bihar government for a report into the incident . . . Concerned over the blast at the Patna Railway Station and recovery of two more crude bombs , the Ministry told the state government to send a report about the nature of the bomb , suspected persons or organisations which could be behind it and steps taken to maintain law and order , PTIsaid , quoting official sources . . . Security has been beefed up in the city after the attacks . . . 6.30 am : Indian Mujahideen responsible for blasts . . Bihar police have confirmed that the Indian Mujahideen were responsible for the eight blasts in Patna on Sunday that have killed at least five and injured close to 100 people . . . This report in the Times of India states that four alleged operatives of the outfit have been detained , one of whom is in critical condition after being caught in a blast . . . `` During interrogation , they reportedly told the police that they had staged the attack in retaliation for the Muzaffarnagar riots . They are also said to have named the IM module involved in the Bodh Gaya blasts '' , the TOI report added . . . According to the Hindu , one of the alleged operatives is named Imtiaz Ansari , who was caught while allegedly trying to flee after the blast at the station . He has subsequently confessed to his role in the attack . . . Meanwhile CNN-IBN reported that Tehseen Akhtar , who is the right hand man of arrested IM mentor Yasin Bhatkal , has emerged as the prime suspect behind the attack . . . `` Aktar alias Monu had taken over the Darbhanga module after Bhatkal 's arrest . Sources further added that interrogators feel the attack was carried by Akhtar to take revenge for Bhatkal 's arrest . However , they also added that this inputs are based on preliminary inquiries '' , the report added . . . -- end of updates for 27 October -- . . 7.42 pm : NIA , NSG teams rushed to blast sites , says Shinde . . NIA and NSG teams have rushed to the blasts sites in Patna , Union Home Minister Sushilkumar Shinde said in Mumbai on Sunday . . . `` There were five blasts in and around Gandhi Maidan in Patna where five people were killed and 72 people were injured . I am in contact with the Bihar government , '' Shinde told reporters in Mumbai on the sidelines of a function . . . Shinde also informed that the NIA team stationed at Bodh Gaya in Bihar in connection with the July bombings was also being rushed to the site of explosions in Patna . . . When asked if it was a terror strike , the Home Minister evaded a direct reply , saying he was giving whatever information he had with him . . . 7.17 pm : PM , President condemn serial blasts in Patna . . President Pranab Mukherjee and Prime Minister Manmohan Singh Sunday condemned the serial blasts in Patna and called upon authorities to speedily investigate and punish the perpetrators . . . Expressing deep concern , the president called upon people to maintain calm and restraint . . . `` The nation must remain united in its firm resolve to fight against all forms of terror and violence which have no place in a civilised society , '' he said . . . The prime minister spoke to Bihar Chief Minister Nitish Kumar on telephone and called for immediate and firm action . . . `` He called for urgent steps to identify and take action against those responsible . He also assured the chief minister of all central assistance in the investigations , '' the Prime Minister Office 's said in an official statement . . . At least five people were killed and more than 70 injured as seven bombs exploded in Patna Sunday , six of them in and around the ground where BJP 's prime minister candidate Narendra Modi , hours later , addressed a rally . . . 6.35 pm : Three dead identified says Bihar DGP . . The Bihar DGP today said that three out of fived dead have been identified . They are - Ramnarayan Singh of Patna , Vikas Singh from Kaimur and Munna Singh from Mirganj . . . Correction : We regret putting up an earlier update where we mentioned the three deceased as suspects because of an erroneous report . . . Here are the details of blasts so far as given by Bihar DGP Abhayanand . . 9.30 am -- Patna station , platform no. 10 ( washroom ) 11.40 am -- Gandhi Maidan near Udyog Bhawan 12.05 pm -- Regent Cinema 12.10 pm -- Old Gandhi statue 12.15 pm -- Twin Tower 12.20 pm -- SBI office 12.45 pm -- Children 's park . . 6.15 pm : Nitish Kumar vows to bring culprits to book . . Condemning the serial blasts in Patna , Bihar Chief Minister Nitish Kumar today said that the investigating agencies will get to the root of the blasts and bring the guilty to book . . . `` I strongly condemn the serial blasts in Patna . A total of 83 people went to the Patna Medical College and Hospital for treatment . Out of them 38 were admitted . Even police personnel were injured . Blasts took place at several places apart from Gandhi Maidan , '' Kumar told at a press conference in Patna . . . Announcing an ex-gratia of Rs 5 lakh to the next of kin of the dead , the Bihar chief minister ruled out any kind of `` political conspiracy '' . . . `` We may have political difference but who will cause serial blasts for that . Bihar does not have such a tradition . It seems to be a pre-planned attack on the day of ( Gujarat Chief Minister and BJP 's prime ministerial candidate Narendra ) Modi 's rally . We should give some time to the police to finish their investigation , '' he said . . . Denying that there has been lapses in security , the chief minister said , `` I want to tell the BJP that there has been no attempt by the state government to not secure the place . All required steps for security were taken . The blasts are an attempt to disrupt law and order situation in Bihar . The guilty should be severely punished . The conspiracy if any will come out . We have sought NIA 's help to get to the root of the blasts . '' . . `` There was no intelligence report regarding these blasts . I assure everyone that no effort will be spared to solve the case , '' he said . . . Kumar also said that one person who was suspiciously running away from the Patna railway station has been nabbed by police and his interrogation was on . . . The chief minister expressed concern over the selection of the day . . . `` Selection of today 's date is questionable . The timing of the blasts is very important and very worrying . On Friday , as suspicious suitcase was found in Gandhi Maidan and I had asked the police to step up the security . '' . . Kumar , however , refused to make a guess on the culprits but appealed for calm . . . `` I appeal everyone to maintain calm and peace . An appeal was also made from the dais and that is commendable , '' the chief minister said . . . Incidentally , Modi had made this appeal at the end of his speech . . . 5.30 pm : Modi condoles loss of lives at his Patna rally . . Patna : BJP prime ministerial candidate Narendra Modi , whose address at the ` Hunkar Rally ' in Patna today was preceeded by serial blasts that claimed five lives , expressed his condolences in a Facebook post soon afterwards . . . `` Blasts in Patna are deeply saddening & unfortunate . Condolences with families of deceased & prayers with injured . I appeal for peace & calm , '' Modi wrote in his post . . . The Gujarat chief minister made no mention of the blasts in his hour-long speech , but at the end of it he asked the huge gathering to go back home ` safely ' . . . Five people were killed and 66 injured in six serial bomb blasts near the venue of rally here minutes before Modi reached there to address a huge gathering . . . 5.20 pm : Sushma condemns blasts , hits out at Nitish govt . . I strongly condemn serial bomb blasts on the occasion of BJP rally in Patna . This is gross intelligence failure . . . Sushma Swaraj ( @SushmaSwaraj ) October 27 , 2013 . . 5.15 pm : Another blast at Gandhi Maidan . . An eight bomb exploded inside Gandhi Maidan around 5.10 pm . It appeared that the explosive device was hidden under a heap of garbage and went off with a loud explosion , followed by smoke and fire around the spot . . . Firstpost 's Sanjay Singh who is still at the venue of Modi 's rally has this update : There are still crowds milling around Gandhi Maidan . The police have not sanitised the area . . . 5.15 pm : Two suspects held , one confesses . . Soon after the blasts , Bihar Police succeeded in arresting a man whom the NIA believe is a key link to extract more information about the motive . The Union home ministry has confirmed to CNN-IBN that a few of those bombs were kept inside shallow pits in Gandhi Maidan , the venue for Narendra Modi 's Hunkar rally . . . 5.05 pm : ` Five brought dead to hospital ' . . Ajay Kumar , who attended injured inside Gandhi Maidan medical camp , when the blasts happened told CNN-IBN , `` Out of 48 injured , five people were brought dead to the hospital . '' . . 5.00 pm : Congress ' Shakeel Ahmed on blasts . . `` All the agencies should come together and investigate.Whoever is responsible for this must get , '' Ahmed to CNN-IBN . . . Blasts during Modi Ji 's 1st visit as PM hopeful to Bihar should be condemned by one & all.State govt and NIA should unearth the conspiracy . . . Shakeel Ahmad ( @Ahmad_Shakeel ) October 27 , 2013 . . 4.45 pm : Seven blasts ? . . As per the latest reports , there were seven blasts and over 50 injured and some of them critically . . . I am going to PMCH to see injured in Patna bomb blast along with Ravi Shankar pd . . . Sushil Kumar Modi ( @SushilModi ) October 27 , 2013 . . 4.15 pm Bomb found just below the dais found . . Call it a touch of destiny , police discovered an unexploded bomb just below the dais from where the Gujarat Chief Minister and BJP 's prime ministerial candidate Narendra Modi addressed the rally for over an hour . . . As per unconfirmed ground reports , security personnel have surrounded the spot and the investigation is on . . . When I saw 3 blast in gandhi Maidan , I ranged DGP Bihar.he said that truck tyre has burst . . . Sushil Kumar Modi ( @SushilModi ) October 27 , 2013 . . Live bomb found in Patna 's Gandhi Maidan , BDS defusing bomb . . ANI ( @ANI_news ) October 27 , 2013 . . 3.00 pm : Ravi Shankar Prasad attacks Bihar govt . . `` We will ask for an enquiry . The rally was planned eight months ago at Gandhi Maidan and yet a blast that has killed and injured people is unexpected . There has definitely been an administrative lapse , we are getting details about the blasts , '' BJP leader Ravi Shankar Prasad lashing out at the Nitish Kumar-led Janata Dal ( United ) government in the state . . . 2.45 pm : Nitish cancels Munger visit after serial blasts . . Patna : Bihar Chief Minister Nitish Kumar cancelled his scheduled tour to Munger in the wake of serial blasts that rocked the state capital ahead of Narendra Modi 's address at a BJP rally today . . . Kumar 's carcade was ready at his 1 , Anne Marg residence to leave for the airport to fly to Munger when the visit was cancelled , sources in the chief minister 's office said . . . The chief minister also spoke to Prime Minister Manmohan Singh over the phone about the blasts , they said . . . Kumar was scheduled to go to Munger and from there to Rajgir to attend two-day JD ( U ) convention in Nalanda district , the sources said . . . Kumar held a meeting with chief secretary AK Sinha , Director General of Police Abhyanand and principal secretary Home Amir Subhani on the law and order situation following serial bomb blasts at Patna railway station and areas near Gandhi maidan , the sources said . . . 2.35 pm : Death toll rises to five , 20 injured . . As per latest reports quoting police sources on CNN-IBN , five people have lost their lives in six serial blasts in Patna . So far , 20 people have been wounded in the incidents . . . 2.30 pm : Bihar blasts extremely unfortunate : RPN Singh . . `` There were five blasts in Gandhi Maidan and 20 people were injured there . We have assured the government in Bihar that we will provide all assistance in investigating the matter , '' said Union Minister of State for Home RPN Singh . . . 1.30 pm : Prime Minister Manmohan Singh condemns Bihar blasts . . `` The prime minister condemns the blasts which occurred at several places in Patna . He appeals to the people to maintain peace and calm , '' the Prime Minister Office 's said on Twitter . . . 12.45 pm : Central team goes to Patna . . A seven-member team comprising of NIA and NSG personnel have been rushed to Patna by the Union home ministry to help the state government with the investigation . The team will either take a commercial flight or a special flight to the Bihar capital from New Delhi . . . 12.25 pm BREAKING : Third blast reported near Gandhi Maidan in Patna , close to Modi 's rally venue . Details awaited . . 12.10 pm : BREAKING : Second blast in Patna , near Modi 's rally venue . . A second blast occurred in Patna near the Elphinstone Cinema Hall . The latest blast site is close to the venue where Gujarat Chief Minister Narendra Modi 's is likely to address a rally at 1 pm . Four people have been reportedly injured in the blast , the Bihar Police chief Abhayanand confirmed to IBN7 . The second blast is not a crude device as the earlier one , the police chief said . The blast happened underneath a tree where people were resting to escape from the sun . . . Bihar Police is now seriously looking into the terror angle as it indicates towards a planned serial blasts . . . 12.00 pm : Timer devices in bombs . . According to the Union home ministry , two crude bombs were placed , out of which one went off while the other was detected . In a first , timer devices were attached to the bombs . . . 11.55 pm : Congress general secretary Digvijaya Singh tweets : . . What a coincidence blast at Patna Railway on the day of Modi 's Rally ! Challenge to Nitish Govt to find the culprit ! . . digvijaya singh ( @digvijaya_28 ) October 27 , 2013 . . 11.50 pm : Second crude bomb detected , one dead . . 11.40 am : Search on , no arrest yet : police . . Talking to reporters at the Patna railway station , Patna senior superintendent of police Manu Maharaj said , `` The bomb disposal squad is conducting a search . We have no arrest so far . '' . . 11.30 am : RJD blames state government . . Starting a political blame game , Rashtriya Janata Dal MP Ramkirpal Yadav blamed the Nitish Kumar-led state government soon after the blast . . . `` There is a complete failure of law and order in Bihar . The state government is responsible for this lax in security . The common people are living in fear in the state . I demand that all officers who failed in their duties should be punished and there should not be a repeat of this kind of incidents , '' Yadav told IBN7 . . . `` Despite the rally of BJP , the state government did not take addional security measures , '' the parliamentarian said . . . 11.20 am : The Ministry for Home Affairs has sough report from the Bihar government seeking details of the blast . . . 11.15 am : Injured man to be questioned . . Police authorities in Patna said they are investigating whether the bomb exploded while it was being placed or ferried and whether it was meant to explode at the Narendra Modi rally in Gandhi Maidan later today . . . 11 am : Bomb explosion at railway station , one hurt . . One person sustained serious injuries when a crude bomb exploded at Patna railway station around 10 am on Sunday , just three hours before the Bharatiya Janata Partys Prime Ministerial candidate Narendra Modi is scheduled to speak at the partys biggest ever rally in the city . Unconfirmed reports suggested that the bomb disposal squad was searching the area for unexploded bombs . . . Blast site at Patna railway station . Image courtesy ibnlive . . The bomb exploded in the public toilet on Platform No 10 of the crowded railway station . As many as 11 additional trains are arriving in Patna on Sunday bringing in lakhs of people to attend the Modi rally in Gandhi Maidan . . . Reports said the bomb was a low intensity explosive device . The injured man was rushed to hospital . A squad of the bomb disposal squad rushed to the spot and sealed off the site of the explosion . The platform was , fortunately , not very crowded at the time of the explosion .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "Patna", 
+        "Patna"
+    ], 
+    "O": [
+        "deputy superintendent of police:94", 
+        "khabardar rally:165", 
+        "a lotus brand watch:304", 
+        "hunkar rally:557", 
+        "lathis:723", 
+        "bare hands:725", 
+        "ieds:733", 
+        "home ministry:891", 
+        "crude bombs:921", 
+        "battery bomb:1209", 
+        "namaz:1924", 
+        "additional director general of police:2037", 
+        "darbhanga:3844", 
+        "Darbhanga:5169", 
+        "union home ministry:6544", 
+        "crude bombs:7550", 
+        "low intensity explosive device:8032"
+    ], 
+    "unexpl": [
+        "TIMER"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/india/patna-blasts-live-one-more-suspect-detained-raids-on-1196755.html", 
+    "date": "27-10-2013", 
+    "target": "", 
+    "hot_spot": "Patna", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Person", 
+            "0", 
+            "Others"
+        ], 
+        [
+            "Patna Police", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "Patna District Magistrate", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "269", 
+            "Accused"
+        ], 
+        [
+            "Indian Express", 
+            "333", 
+            "Others"
+        ], 
+        [
+            "Bihar state government", 
+            "411", 
+            "Others"
+        ], 
+        [
+            "central intelligence", 
+            "443", 
+            "Others"
+        ], 
+        [
+            "Bihar govt", 
+            "465", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "474", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "478", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "496", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "500", 
+            "Others"
+        ], 
+        [
+            "theTimes of India", 
+            "576", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "591", 
+            "Others"
+        ], 
+        [
+            "bomb disposal squad", 
+            "706", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "785", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "811", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "813", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "896", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "928", 
+            "Others"
+        ], 
+        [
+            "Bihar BJP", 
+            "967", 
+            "Others"
+        ], 
+        [
+            "lax security", 
+            "990", 
+            "Others"
+        ], 
+        [
+            "Indian Express", 
+            "1160", 
+            "Others"
+        ], 
+        [
+            "Railway Protection Force", 
+            "1204", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "1329", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "1379", 
+            "Accused"
+        ], 
+        [
+            "state government", 
+            "1538", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "1567", 
+            "Others"
+        ], 
+        [
+            "External Affairs Minister", 
+            "1584", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1720", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1753", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1765", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1793", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1809", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "1844", 
+            "Accused"
+        ], 
+        [
+            "Times of India", 
+            "1897", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "2255", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "2263", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "2310", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "2430", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "2467", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "2542", 
+            "Others"
+        ], 
+        [
+            "Bihar govt", 
+            "2596", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "2726", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "2745", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "2761", 
+            "Others"
+        ], 
+        [
+            "Gujarat police", 
+            "2782", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "2837", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "2982", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "3029", 
+            "Others"
+        ], 
+        [
+            "Indian government", 
+            "3039", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "3059", 
+            "Others"
+        ], 
+        [
+            "Times", 
+            "3070", 
+            "Others"
+        ], 
+        [
+            "the", 
+            "3074", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "3075", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "3101", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "3186", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "3214", 
+            "Others"
+        ], 
+        [
+            "Bihar BJP", 
+            "3346", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "3439", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "3531", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "3543", 
+            "Others"
+        ], 
+        [
+            "Delhi police", 
+            "3631", 
+            "Others"
+        ], 
+        [
+            "Delhi police", 
+            "3642", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "3651", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "3658", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "3678", 
+            "Accused"
+        ], 
+        [
+            "BJP", 
+            "3704", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "3714", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "3716", 
+            "Accused"
+        ], 
+        [
+            "National Intelligence Agency", 
+            "3725", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "3729", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "3735", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "3751", 
+            "Accused"
+        ], 
+        [
+            "Bihar police", 
+            "3767", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "3819", 
+            "Accused"
+        ], 
+        [
+            "BJP", 
+            "3895", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "3908", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "3967", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "3984", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "3990", 
+            "Accused"
+        ], 
+        [
+            "ANI News", 
+            "4006", 
+            "Others"
+        ], 
+        [
+            "Times", 
+            "4160", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "4222", 
+            "Others"
+        ], 
+        [
+            "city hospitals", 
+            "4402", 
+            "Others"
+        ], 
+        [
+            "Times of India", 
+            "4435", 
+            "Others"
+        ], 
+        [
+            "bomb disposal squad", 
+            "4478", 
+            "Others"
+        ], 
+        [
+            "Times of India", 
+            "4565", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "4580", 
+            "Others"
+        ], 
+        [
+            "The Indian Express", 
+            "4639", 
+            "Others"
+        ], 
+        [
+            "bomb disposal squad", 
+            "4697", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "4815", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "4876", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "4964", 
+            "Accused"
+        ], 
+        [
+            "Bihar police", 
+            "4971", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "4977", 
+            "Accused"
+        ], 
+        [
+            "Times of India", 
+            "5008", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "5069", 
+            "Accused"
+        ], 
+        [
+            "TOI", 
+            "5080", 
+            "Others"
+        ], 
+        [
+            "the Hindu", 
+            "5088", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "5144", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "5230", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "5232", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "5243", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "5245", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "5298", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "5321", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "5565", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "5899", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "5949", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6006", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "6223", 
+            "Others"
+        ], 
+        [
+            "Facebook", 
+            "6256", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "6390", 
+            "Others"
+        ], 
+        [
+            "Bihar Police", 
+            "6520", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6529", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6629", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6681", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "6796", 
+            "Others"
+        ], 
+        [
+            "ANI", 
+            "6881", 
+            "Others"
+        ], 
+        [
+            "Bihar govt", 
+            "6898", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "6950", 
+            "Others"
+        ], 
+        [
+            "Janata Dal", 
+            "6961", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "7017", 
+            "Others"
+        ], 
+        [
+            "Twitter", 
+            "7314", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "7333", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "7335", 
+            "Others"
+        ], 
+        [
+            "Bihar Police", 
+            "7468", 
+            "Others"
+        ], 
+        [
+            "IBN7", 
+            "7474", 
+            "Others"
+        ], 
+        [
+            "Bihar Police", 
+            "7512", 
+            "Others"
+        ], 
+        [
+            "RJD", 
+            "7696", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "7698", 
+            "Others"
+        ], 
+        [
+            "Rashtriya Janata Dal", 
+            "7708", 
+            "Others"
+        ], 
+        [
+            "MP", 
+            "7711", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "7741", 
+            "Others"
+        ], 
+        [
+            "IBN7", 
+            "7791", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "7800", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "7803", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "7832", 
+            "Others"
+        ], 
+        [
+            "bomb disposal squad", 
+            "7956", 
+            "Others"
+        ], 
+        [
+            "the bomb disposal squad", 
+            "8048", 
+            "Others"
+        ]
+    ]
+}

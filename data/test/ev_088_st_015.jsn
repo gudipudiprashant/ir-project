@@ -1,0 +1,168 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "74", 
+            "Accused"
+        ], 
+        [
+            "south Delhi", 
+            "194", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "205", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "207", 
+            "Neutral"
+        ], 
+        [
+            "Nizamuddin railway station", 
+            "229", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vidya Parkash", 
+            "39", 
+            "Accused"
+        ], 
+        [
+            "Landge Irfan Mustafa", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "Landge Irfan Mustafa", 
+            "122", 
+            "Accused"
+        ], 
+        [
+            "MS Khan", 
+            "138", 
+            "Accused"
+        ], 
+        [
+            "MS Khan", 
+            "157", 
+            "Accused"
+        ], 
+        [
+            "Asad Khan", 
+            "180", 
+            "Accused"
+        ], 
+        [
+            "Imran Khan", 
+            "186", 
+            "Accused"
+        ], 
+        [
+            "Sayed Firoz", 
+            "215", 
+            "Accused"
+        ], 
+        [
+            "Hamza", 
+            "218", 
+            "Accused"
+        ], 
+        [
+            "Asad", 
+            "236", 
+            "Others"
+        ], 
+        [
+            "jehad", 
+            "243", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:8", 
+        "October:11", 
+        "October 27:11", 
+        "August 1:29", 
+        "Oct 10 : 71", 
+        "Oct 27 : 94", 
+        "Oct 30:133", 
+        "September 26:197", 
+        "October 1:225"
+    ], 
+    "death": "", 
+    "title": "Pune blasts: IM operative's police custody extended till 27 Oct", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "pune", 
+        "pune"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "New Delhi : A Delhi court on Wednesday extended till October 27 the police custody of three suspected Indian Mujahideen ( IM ) operatives allegedly involved in the August 1 Pune blasts . . . Chief Metropolitan Magistrate Vidya Parkash extended the custody of the three by 10 days after police said they needed to confront three of them with the fourth accused Landge Irfan Mustafa , who was arrested Oct 10 from Jaipur . . . `` Consequently , all the ... three accused persons are further remanded to police custody till Oct 27 , '' said the court . . . The court observed that three alleged IM operatives are also required to be confronted with fourth accused ( Landge Irfan Mustafa ) who is already in police custody till Oct 30 . . . MS Khan , counsel of the accused , strongly opposed the extension of their police custody . . . MS Khan , counsel of the accused , strongly opposed the extension of their police custody . . . Two of them - Asad Khan , 33 , and Imran Khan , 31 - were arrested from south Delhi on September 26 , when they reportedly came to Delhi from Pakistan . . . The third operative , Sayed Firoz alias Hamza , 38 , was arrested on October 1 from the Nizamuddin railway station here . . . Asad - a computer expert inclined towards jehad - was the alleged recruiter , motivator and ideologue of this IM module which allegedly got Rs 3 lakh from their mentors abroad .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:14", 
+        "chief metropolitan magistrate:36"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/india/pune-blasts-im-operatives-police-custody-extended-till-27-oct-494179.html", 
+    "date": "01-08-2012", 
+    "target": "", 
+    "hot_spot": "pune", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi court", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "19", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "22", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "110", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "255", 
+            "Accused"
+        ]
+    ]
+}

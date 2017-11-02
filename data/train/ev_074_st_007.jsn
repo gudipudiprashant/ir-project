@@ -1,0 +1,212 @@
+{
+    "LOC": [
+        [
+            "Gumla", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "43", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "70", 
+            "Neutral"
+        ], 
+        [
+            "Jharkhand", 
+            "105", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "107", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "148", 
+            "Accused"
+        ], 
+        [
+            "Golaghat", 
+            "151", 
+            "Accused"
+        ], 
+        [
+            "Jharkhand", 
+            "159", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gumla", 
+            "162", 
+            "Assoc_Event"
+        ], 
+        [
+            "Simdega", 
+            "164", 
+            "Assoc_Event"
+        ], 
+        [
+            "Assam", 
+            "185", 
+            "Event"
+        ], 
+        [
+            "Gumla", 
+            "208", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sidharth Mandal", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "Ashok Kumar", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "Roni Lakra", 
+            "87", 
+            "Others"
+        ], 
+        [
+            "Mangra Oraon", 
+            "115", 
+            "Accused"
+        ], 
+        [
+            "David", 
+            "118", 
+            "Accused"
+        ], 
+        [
+            "John Kujur", 
+            "127", 
+            "Accused"
+        ], 
+        [
+            "Deepak", 
+            "130", 
+            "Accused"
+        ], 
+        [
+            "Arjun Oraon", 
+            "132", 
+            "Accused"
+        ], 
+        [
+            "Albert", 
+            "135", 
+            "Accused"
+        ], 
+        [
+            "Roni Lakra", 
+            "137", 
+            "Accused"
+        ], 
+        [
+            "Munna Naik", 
+            "140", 
+            "Accused"
+        ], 
+        [
+            "David", 
+            "143", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "today : 10", 
+        "one month : 76", 
+        "yesterday : 109", 
+        "years : 176"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Dec 18 : 3", 
+        "2007 : 38", 
+        "December 13 , 2007 : 202"
+    ], 
+    "death": "", 
+    "title": "Rajdhani Express blast accused on transit remand", 
+    "org_unorg": "", 
+    "terror_group": [
+        "ALL ADIVASI NATIONAL LIBERATION ARMY (AANLA)"
+    ], 
+    "content": "Gumla , Dec 18 : The Assam Police were today allowed to take in their remand four of the five activists of the All Adivasi National Liberation Army ( AANLA ) , who were accused in the 2007 Rajdhani Express blast in Assam . . . The courts of first class judicial magistrate Sidharth Mandal ( three cases ) and register Ashok Kumar ( one case ) allowed the Assam Police to take them on one month ` s remand . One of the accused , Roni Lakra ` s case has not yet come up . . . In a joint operation by Jharkhand and Assam Police yesterday led to the arrest of Mangra Oraon alias David , the outfit ` s self-styled commander-in-chief , John Kujur alias Deepak , Arjun Oraon alias Albert , Roni Lakra and Munna Naik . David , who hails from Assam ` s Golaghat , and faces seven murder charges in Jharkhand ` s Gumla and Simdega , was wanted by both the states for the last several years . . . The raids were made after Assam Police got a tip-off that the extremists who had triggered blast in the Rajdhani Express on December 13 , 2007 were in Gumla . . . Bureau Report .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "five activists:20", 
+        "accused:35", 
+        "Rajdhani Express blast:39", 
+        "accused:85", 
+        "joint operation:102", 
+        "arrest:113", 
+        "outfit:121", 
+        "seven murder charges:155", 
+        "raids:181", 
+        "extremists:192", 
+        "blast:196", 
+        "Rajdhani Express:199"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/home/rajdhani-express-blast-accused-on-transit-remand_492094.html", 
+    "date": "13-12-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Assam Police", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "All Adivasi National Liberation Army", 
+            "24", 
+            "Accused"
+        ], 
+        [
+            "AANLA", 
+            "30", 
+            "Accused"
+        ], 
+        [
+            "Assam Police", 
+            "70", 
+            "Others"
+        ], 
+        [
+            "Assam Police", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "Assam Police", 
+            "185", 
+            "Others"
+        ]
+    ]
+}

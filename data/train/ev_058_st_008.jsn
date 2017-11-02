@@ -1,0 +1,248 @@
+{
+    "LOC": [
+        [
+            "south Mumbai", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Gateway of India", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Kalbadevi", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "56", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "73", 
+            "Neutral"
+        ], 
+        [
+            "Kalbadevi", 
+            "99", 
+            "Event"
+        ], 
+        [
+            "Gateway of India", 
+            "107", 
+            "Event"
+        ], 
+        [
+            "Mumbadevi circle", 
+            "139", 
+            "Event"
+        ], 
+        [
+            "Kalbadevi", 
+            "142", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "216", 
+            "Neutral"
+        ], 
+        [
+            "Gateway", 
+            "223", 
+            "Event"
+        ], 
+        [
+            "Gateway", 
+            "269", 
+            "Event"
+        ], 
+        [
+            "Gateway", 
+            "288", 
+            "Event"
+        ], 
+        [
+            "Regal cinema building", 
+            "291", 
+            "Event"
+        ], 
+        [
+            "Colabawas", 
+            "295", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "304", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "333", 
+            "Event"
+        ], 
+        [
+            "Kalbadevi", 
+            "383", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "426", 
+            "Event"
+        ], 
+        [
+            "Gateway", 
+            "443", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Deepak Salvi", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "R S Sharma", 
+            "157", 
+            "Comment"
+        ], 
+        [
+            "Chhagan Bhujbal", 
+            "340", 
+            "Others"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "362", 
+            "Others"
+        ], 
+        [
+            "Rajendra Darda", 
+            "370", 
+            "Others"
+        ], 
+        [
+            "Lal Kishenchand Advani", 
+            "419", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "1305 : 96"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:34", 
+        "Tuesday:428"
+    ], 
+    "death": "48", 
+    "title": "At least 48 die in Mumbai blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "At least48 people were killed and 150 injured in two blasts in south Mumbai -- one near the Gateway of India and the other at Zaveri Bazaar in busy Kalbadevi area -- on Monday afternoon . . . . . . . . . . . Photo : Deepak Salvi . . Recent blasts in Mumbai | Their bodies were black : Witness | Mkt Rpt : Sensex drops | Alert in Delhi | Intelligence indicates Lashkar hand . . Police sources said explosives concealed in two taxis went off in quick succession -- at 1305 IST at Kalbadevi and a few minutes later at the Gateway of India . . . The injured were admitted to J J Hospital , G T Hospital and St George 's Hospital . . . A witness told our correspodent at Mumbadevi circle in Kalbadevi that he counted at least 15 to 20 bodies . . . Police Commissioner R S Sharma said the involvement of terrorists was suspected , but so far no group has claimed responsibility . . . Details about the nature of the explosive used are sketchy . The state government has sought the help of the Indian Army 's explosives expert and a team of the National Security Guards is also arriving from Delhi . . . . . The Gateway blast took place in the parking lot opposite the historic monument . The Taj Hotel 's lobby suffered damage in the blast . Awitness said glass was strewn all over the place . . . Our correspondent counted at least 10 damaged cars at the Gateway . The entire area was cordoned off within minutes of the blast . The road leading to the Gateway from the Regal cinema building in Colabawas sealed . . . The mobile network in Mumbai collapsed just minutes after the explosions . There were reports that the network was shut to prevent rumour mongering . . . Analert has been sounded all over Maharashtra . . . Deputy Chief Minister Chhagan Bhujbal held a meeting with top police and civic officials at the government guesthouse Sahyadri andlater , along with Chief Minister Sushilkumar Shinde and Minister of State for Home Rajendra Darda , visited the blast sites.Shinde appealed to the agitated people in Kalbadevi to maintain calm . . . The government has announced an ex-gratia of Rs200 ,000 each to the kin of those killed and Rs50 ,000 to the seriously injured . . . Deputy Prime Minister Lal Kishenchand Advani is scheduled to visit Mumbai on Tuesday . . . Witness accounts : . . ` Their bodies were black '' Gateway blast powerful one '' I felt like I was going to die '' Ithought it was a hand-grenade '' Around me were blackened bodies '' I should have worn shoes ` Mute spectators at telephone boothsSt George 's Hospital struggles to cope . . .", 
+    "injured": "150", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "South Mumbai"
+    ], 
+    "O": [
+        "two blasts:10", 
+        "south Mumbai:13", 
+        "Lashkar:77", 
+        "explosives concealed:84", 
+        "injured:114", 
+        "admitted:116", 
+        "terrorists:164", 
+        "responsibility .:175", 
+        "help:196", 
+        "Indian Army:199", 
+        "National Security Guards:209", 
+        "Taj Hotel:237", 
+        "area:273", 
+        "cordoned off:275", 
+        "sealed:296", 
+        "mobile network:301", 
+        "collapsed:305", 
+        "appealed:377", 
+        "calm:386", 
+        "ex-gratia:395", 
+        "Deputy Prime Minister:416", 
+        "blast powerful:444"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2003/aug/25blast.htm", 
+    "date": "25-08-2003", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "Gateway of India and Zaveri Bazaar ", 
+    "delivery_mod": "FOUR WHEELER", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "J J Hospital", 
+            "118", 
+            "Others"
+        ], 
+        [
+            "G T Hospital", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "St George 's Hospital", 
+            "126", 
+            "Others"
+        ], 
+        [
+            "Indian Army", 
+            "199", 
+            "Others"
+        ], 
+        [
+            "National Security Guards", 
+            "209", 
+            "Others"
+        ], 
+        [
+            "Taj Hotel", 
+            "237", 
+            "Victim"
+        ], 
+        [
+            "George 's Hospital", 
+            "480", 
+            "Others"
+        ]
+    ]
+}

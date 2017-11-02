@@ -1,0 +1,3109 @@
+{
+    "LOC": [
+        [
+            "Chhattisgarh", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "104", 
+            "Neutral"
+        ], 
+        [
+            "Dantewada", 
+            "272", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "276", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "347", 
+            "Neutral"
+        ], 
+        [
+            "Nadeli", 
+            "356", 
+            "Neutral"
+        ], 
+        [
+            "Raigarh", 
+            "359", 
+            "Neutral"
+        ], 
+        [
+            "Jindal airport", 
+            "382", 
+            "Neutral"
+        ], 
+        [
+            "Raigarh", 
+            "385", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "390", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "508", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "518", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "523", 
+            "Event"
+        ], 
+        [
+            "US", 
+            "550", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "746", 
+            "Event"
+        ], 
+        [
+            "US", 
+            "843", 
+            "Neutral"
+        ], 
+        [
+            "United States", 
+            "865", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "872", 
+            "Event"
+        ], 
+        [
+            "US", 
+            "891", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "916", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "965", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "1011", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "1199", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "1345", 
+            "Event"
+        ], 
+        [
+            "Bastar", 
+            "1356", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "1422", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "1470", 
+            "Event"
+        ], 
+        [
+            "Sukma", 
+            "1485", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "1536", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "1579", 
+            "Event"
+        ], 
+        [
+            "Chattisgarh", 
+            "1766", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "1808", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "1990", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "2020", 
+            "Neutral"
+        ], 
+        [
+            "United States", 
+            "2043", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "2317", 
+            "Neutral"
+        ], 
+        [
+            "Raipur", 
+            "2461", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "2492", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "2522", 
+            "Event"
+        ], 
+        [
+            "Bastar", 
+            "2624", 
+            "Neutral"
+        ], 
+        [
+            "Dandakaranya", 
+            "2743", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "2774", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "2807", 
+            "Event"
+        ], 
+        [
+            "Bastar", 
+            "2817", 
+            "Neutral"
+        ], 
+        [
+            "Kerala", 
+            "2824", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "3099", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "3116", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "3286", 
+            "Event"
+        ], 
+        [
+            "Nandeli", 
+            "3316", 
+            "Neutral"
+        ], 
+        [
+            "Raigarh", 
+            "3318", 
+            "Neutral"
+        ], 
+        [
+            "Jagdalpur", 
+            "3370", 
+            "Neutral"
+        ], 
+        [
+            "Jagdalpur", 
+            "3385", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "3422", 
+            "Event"
+        ], 
+        [
+            "Chattisgarh", 
+            "3547", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "3562", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "3580", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "3593", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "3629", 
+            "Event"
+        ], 
+        [
+            "Jagdalpur", 
+            "3735", 
+            "Neutral"
+        ], 
+        [
+            "Jagdalpur", 
+            "3744", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "3746", 
+            "Neutral"
+        ], 
+        [
+            "Sukma", 
+            "3786", 
+            "Neutral"
+        ], 
+        [
+            "Jagdalpur", 
+            "3788", 
+            "Neutral"
+        ], 
+        [
+            "Sukma", 
+            "3811", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "3853", 
+            "Neutral"
+        ], 
+        [
+            "Chattisgarh", 
+            "3978", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "4017", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "4042", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "4236", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "4247", 
+            "Neutral"
+        ], 
+        [
+            "Medanta Hosital", 
+            "4281", 
+            "Neutral"
+        ], 
+        [
+            "Gurgaon", 
+            "4284", 
+            "Neutral"
+        ], 
+        [
+            "Gurgaon", 
+            "4306", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "4395", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pardesh", 
+            "4410", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "4413", 
+            "Neutral"
+        ], 
+        [
+            "Bhopal", 
+            "4436", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "4452", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "4481", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "4486", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "4527", 
+            "Neutral"
+        ], 
+        [
+            "Bhopal", 
+            "4538", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "4586", 
+            "Neutral"
+        ], 
+        [
+            "Darba Ghat", 
+            "4679", 
+            "Neutral"
+        ], 
+        [
+            "Maoist", 
+            "4702", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "4746", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "4761", 
+            "Neutral"
+        ], 
+        [
+            "Nandeli", 
+            "4798", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "4847", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "4870", 
+            "Neutral"
+        ], 
+        [
+            "New York", 
+            "4922", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "4985", 
+            "Neutral"
+        ], 
+        [
+            "Raipur", 
+            "4990", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "4998", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "5041", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "5052", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "5058", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "5088", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "5093", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "5172", 
+            "Neutral"
+        ], 
+        [
+            "Raipur airport", 
+            "5225", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "5245", 
+            "Neutral"
+        ], 
+        [
+            "Raipur", 
+            "5269", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "5288", 
+            "Neutral"
+        ], 
+        [
+            "Darbha Ghati Valley", 
+            "5306", 
+            "Neutral"
+        ], 
+        [
+            "Sukma", 
+            "5314", 
+            "Neutral"
+        ], 
+        [
+            "Bastar", 
+            "5318", 
+            "Neutral"
+        ], 
+        [
+            "Raipur", 
+            "5337", 
+            "Neutral"
+        ], 
+        [
+            "Gurgaon", 
+            "5378", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "5434", 
+            "Neutral"
+        ], 
+        [
+            "Bijapur", 
+            "5528", 
+            "Neutral"
+        ], 
+        [
+            "bijapur", 
+            "5547", 
+            "Neutral"
+        ], 
+        [
+            "Gurgaon", 
+            "5597", 
+            "Neutral"
+        ], 
+        [
+            "Medanta hospital", 
+            "5599", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "5619", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "5641", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "5663", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "5717", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "5898", 
+            "Neutral"
+        ], 
+        [
+            "Raipur", 
+            "5935", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "5978", 
+            "Neutral"
+        ], 
+        [
+            "Raigarh", 
+            "6065", 
+            "Neutral"
+        ], 
+        [
+            "Kharsiya", 
+            "6095", 
+            "Neutral"
+        ], 
+        [
+            "Raipur", 
+            "6130", 
+            "Neutral"
+        ], 
+        [
+            "Bilaspur", 
+            "6132", 
+            "Neutral"
+        ], 
+        [
+            "Rajnandgaon", 
+            "6134", 
+            "Neutral"
+        ], 
+        [
+            "Korba", 
+            "6136", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "6150", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "6188", 
+            "Neutral"
+        ], 
+        [
+            "Raipur", 
+            "6274", 
+            "Neutral"
+        ], 
+        [
+            "Raipur ,", 
+            "6274", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "6440", 
+            "Neutral"
+        ], 
+        [
+            "Gurgaon", 
+            "6456", 
+            "Neutral"
+        ], 
+        [
+            "Medanta hospital", 
+            "6458", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "6461", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "6492", 
+            "Neutral"
+        ], 
+        [
+            "Raipur", 
+            "6517", 
+            "Neutral"
+        ], 
+        [
+            "Raipur", 
+            "6529", 
+            "Neutral"
+        ], 
+        [
+            "Dharba Ghat", 
+            "6544", 
+            "Neutral"
+        ], 
+        [
+            "Gandhi Bhavan", 
+            "6588", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "6638", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "6675", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "6745", 
+            "Neutral"
+        ], 
+        [
+            "Jagdalpur", 
+            "6755", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "6794", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "6904", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "6909", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "6915", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "6923", 
+            "Neutral"
+        ], 
+        [
+            "Darbha Ghat", 
+            "7009", 
+            "Neutral"
+        ], 
+        [
+            "Indias", 
+            "7217", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "7222", 
+            "Neutral"
+        ], 
+        [
+            "Sukma", 
+            "7251", 
+            "Neutral"
+        ], 
+        [
+            "Raipur", 
+            "7259", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "7264", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "7391", 
+            "Neutral"
+        ], 
+        [
+            "Indias", 
+            "7431", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "7649", 
+            "Neutral"
+        ], 
+        [
+            "Naxalbari", 
+            "7653", 
+            "Neutral"
+        ], 
+        [
+            "Narayanpur", 
+            "7745", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "7748", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shinde", 
+            "2016", 
+            "Others"
+        ], 
+        [
+            "T S Sudhir", 
+            "2502", 
+            "Others"
+        ], 
+        [
+            "Umesh Patel", 
+            "4755",
+	    "Victim"
+        ], 
+        [
+            "Shinde", 
+            "4", 
+            "Comment"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "17", 
+            "Comment"
+        ], 
+        [
+            "Raman Singh", 
+            "107", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "133", 
+            "Comment"
+        ], 
+        [
+            "Sukma", 
+            "274", 
+            "Others"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "326", 
+            "Comment"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "329", 
+            "Others"
+        ], 
+        [
+            "Kumar Patel", 
+            "330", 
+            "Others"
+        ], 
+        [
+            "Kumar Patel", 
+            "330", 
+            "Others"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "339", 
+            "Comment"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "350", 
+            "Others"
+        ], 
+        [
+            "Shinde", 
+            "373", 
+            "Others"
+        ], 
+        [
+            "VC Shukla", 
+            "405", 
+            "Victim"
+        ], 
+        [
+            "VC Shukla", 
+            "421", 
+            "Victim"
+        ], 
+        [
+            "AK Dubey", 
+            "487", 
+            "Others"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "505", 
+            "Comment"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "513", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "542", 
+            "Comment"
+        ], 
+        [
+            "KC Deo", 
+            "622", 
+            "Others"
+        ], 
+        [
+            "Deo", 
+            "695", 
+            "Others"
+        ], 
+        [
+            "Jairam Ramesh", 
+            "716", 
+            "Comment"
+        ], 
+        [
+            "Mahendra Karma", 
+            "776", 
+            "Others"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "779", 
+            "Others"
+        ], 
+        [
+            "Shinde", 
+            "850", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "853", 
+            "Comment"
+        ], 
+        [
+            "Bhakta Charan Das", 
+            "1003", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "1045", 
+            "Others"
+        ], 
+        [
+            "Das", 
+            "1050", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "1078", 
+            "Others"
+        ], 
+        [
+            "Karma", 
+            "1138", 
+            "Others"
+        ], 
+        [
+            "Das", 
+            "1141", 
+            "Others"
+        ], 
+        [
+            "KC Deo", 
+            "1150", 
+            "Others"
+        ], 
+        [
+            "Marshal NAK Browne", 
+            "1312", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "1338", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "1382", 
+            "Others"
+        ], 
+        [
+            "Prashant Mishra", 
+            "1407", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "1450", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "1473", 
+            "Others"
+        ], 
+        [
+            "Kantilal Bhuria", 
+            "1541", 
+            "Others"
+        ], 
+        [
+            "Mishra", 
+            "1559", 
+            "Others"
+        ], 
+        [
+            "Prashant Mishra", 
+            "1572", 
+            "Others"
+        ], 
+        [
+            "Mishra", 
+            "1602", 
+            "Others"
+        ], 
+        [
+            "Karma", 
+            "1626", 
+            "Others"
+        ], 
+        [
+            "Karma", 
+            "1633", 
+            "Others"
+        ], 
+        [
+            "Divesh Patel", 
+            "1653", 
+            "Others"
+        ], 
+        [
+            "Nandkumar Patel", 
+            "1658", 
+            "Others"
+        ], 
+        [
+            "Nandkumar Patel", 
+            "1693", 
+            "Others"
+        ], 
+        [
+            "Daulat Rohra", 
+            "1715", 
+            "Others"
+        ], 
+        [
+            "Karma", 
+            "1727", 
+            "Others"
+        ], 
+        [
+            "Mahender Karma", 
+            "1756", 
+            "Others"
+        ], 
+        [
+            "Nandkumar Patel", 
+            "1759", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "1797", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "1811", 
+            "Others"
+        ], 
+        [
+            "RPN Singh", 
+            "1852", 
+            "Others"
+        ], 
+        [
+            "RPN Singh", 
+            "1861", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "1944", 
+            "Others"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "2032", 
+            "Comment"
+        ], 
+        [
+            "Prakash Javadekar", 
+            "2061", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "2068", 
+            "Comment"
+        ], 
+        [
+            "VC Shukla", 
+            "2093", 
+            "Victim"
+        ], 
+        [
+            "Naresh Trehan", 
+            "2110", 
+            "Comment"
+        ], 
+        [
+            "VC Shukla", 
+            "2117", 
+            "Victim"
+        ], 
+        [
+            "Trehan", 
+            "2170", 
+            "Comment"
+        ], 
+        [
+            "Shukla", 
+            "2179", 
+            "Victim"
+        ], 
+        [
+            "Jairam Ramesh", 
+            "2203", 
+            "Comment"
+        ], 
+        [
+            "Jairam Ramesh", 
+            "2210", 
+            "Comment"
+        ], 
+        [
+            "Ramesh", 
+            "2229", 
+            "Comment"
+        ], 
+        [
+            "Ramesh", 
+            "2303", 
+            "Comment"
+        ], 
+        [
+            "RPN Singh", 
+            "2355", 
+            "Comment"
+        ], 
+        [
+            "RPN Singh", 
+            "2363", 
+            "Comment"
+        ], 
+        [
+            "Mahendra Kumar", 
+            "2409", 
+            "Others"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "2412", 
+            "Others"
+        ], 
+        [
+            "VC Shukla", 
+            "2416", 
+            "Victim"
+        ], 
+        [
+            "Singh", 
+            "2441", 
+            "Comment"
+        ], 
+        [
+            "RPN Singh", 
+            "2468", 
+            "Comment"
+        ], 
+        [
+            "Bharat", 
+            "2498", 
+            "Comment"
+        ], 
+        [
+            "Mahendra Karma", 
+            "2553", 
+            "Others"
+        ], 
+        [
+            "Gudsa Usendi", 
+            "2564", 
+            "Comment"
+        ], 
+        [
+            "Karma", 
+            "2582", 
+            "Comment"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "2595", 
+            "Comment"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "2602", 
+            "Comment"
+        ], 
+        [
+            "Mahendra Karma", 
+            "2627", 
+            "Others"
+        ], 
+        [
+            "Mahendra Karma", 
+            "2650", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "2659", 
+            "Others"
+        ], 
+        [
+            "Karma", 
+            "2684", 
+            "Others"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "2691", 
+            "Others"
+        ], 
+        [
+            "VC Shukla", 
+            "2695", 
+            "Victim"
+        ], 
+        [
+            "Raman Singh", 
+            "2777", 
+            "Others"
+        ], 
+        [
+            "Mukesh Gupta", 
+            "2929", 
+            "Comment"
+        ], 
+        [
+            "Gupta", 
+            "3011", 
+            "Comment"
+        ], 
+        [
+            "Manak Agrawal", 
+            "3151", 
+            "Comment"
+        ], 
+        [
+            "Manak", 
+            "3151", 
+            "Comment"
+        ], 
+        [
+            "Sudarshan", 
+            "3183", 
+            "Accused"
+        ], 
+        [
+            "Katakam Sudarshan", 
+            "3195", 
+            "Accused"
+        ], 
+        [
+            "Sudarshan", 
+            "3230", 
+            "Accused"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "3271", 
+            "Others"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "3289", 
+            "Others"
+        ], 
+        [
+            "Dinesh", 
+            "3295", 
+            "Others"
+        ], 
+        [
+            "Patel", 
+            "3325", 
+            "Others"
+        ], 
+        [
+            "Umesh", 
+            "3329", 
+            "Others"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "3341", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "3346", 
+            "Others"
+        ], 
+        [
+            "Ajit Jogi", 
+            "3425", 
+            "Comment"
+        ], 
+        [
+            "Jogi", 
+            "3483", 
+            "Comment"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "3614", 
+            "Others"
+        ], 
+        [
+            "Ajit Jogi", 
+            "3845", 
+            "Comment"
+        ], 
+        [
+            "Ajit Jogi", 
+            "3856", 
+            "Comment"
+        ], 
+        [
+            "Jogi", 
+            "3914", 
+            "Comment"
+        ], 
+        [
+            "AK Antony", 
+            "3997", 
+            "Others"
+        ], 
+        [
+            "AK Antony", 
+            "4021", 
+            "Others"
+        ], 
+        [
+            "Shukla", 
+            "4067", 
+            "Victim"
+        ], 
+        [
+            "Naresh Trehan", 
+            "4079", 
+            "Others"
+        ], 
+        [
+            "VC Shukla", 
+            "4088", 
+            "Victim"
+        ], 
+        [
+            "Shukla", 
+            "4135", 
+            "Victim"
+        ], 
+        [
+            "Shukla", 
+            "4160", 
+            "Victim"
+        ], 
+        [
+            "Sonia", 
+            "4200", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "4212", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "4243", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "4254", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "4259", 
+            "Comment"
+        ], 
+        [
+            "VC Shukla", 
+            "4273", 
+            "Victim"
+        ], 
+        [
+            "VC Shukla", 
+            "4294", 
+            "Victim"
+        ], 
+        [
+            "Shukla", 
+            "4318", 
+            "Victim"
+        ], 
+        [
+            "Shukla", 
+            "4367", 
+            "Victim"
+        ], 
+        [
+            "Kantilal Bhuria", 
+            "4505", 
+            "Others"
+        ], 
+        [
+            "Ajay Singh", 
+            "4512", 
+            "Others"
+        ], 
+        [
+            "RPN Singh", 
+            "4567", 
+            "Others"
+        ], 
+        [
+            "RPN Singh", 
+            "4575", 
+            "Others"
+        ], 
+        [
+            "RK Singh", 
+            "4666", 
+            "Others"
+        ], 
+        [
+            "Gagannam", 
+            "4704", 
+            "Others"
+        ], 
+        [
+            "Ramesh", 
+            "4708", 
+            "Others"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "4764", 
+            "Victim"
+        ], 
+        [
+            "Umesh", 
+            "4800", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "4851", 
+            "Comment"
+        ], 
+        [
+            "Raman Singh", 
+            "4880", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "4893", 
+            "Others"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "4915", 
+            "Comment"
+        ], 
+        [
+            "Sonia", 
+            "4943", 
+            "Comment"
+        ], 
+        [
+            "VC Shukla", 
+            "4946", 
+            "Victim"
+        ], 
+        [
+            "Manmohan Singh", 
+            "4954", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "4959", 
+            "Comment"
+        ], 
+        [
+            "VC Shukla", 
+            "4965", 
+            "Victim"
+        ], 
+        [
+            "LK Advani", 
+            "5011", 
+            "Comment"
+        ], 
+        [
+            "Shukla", 
+            "5015", 
+            "Victim"
+        ], 
+        [
+            "Kantilal Bhuria", 
+            "5112", 
+            "Others"
+        ], 
+        [
+            "Ajay Singh", 
+            "5119", 
+            "Others"
+        ], 
+        [
+            "Bhuria", 
+            "5161", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "5175", 
+            "Others"
+        ], 
+        [
+            "Kumar Patel", 
+            "5219", 
+            "Victim"
+        ], 
+        [
+            "Sonia", 
+            "5228", 
+            "Comment"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "5247", 
+            "Victim"
+        ], 
+        [
+            "Dinesh Patel", 
+            "5253", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "5274", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "5279", 
+            "Comment"
+        ], 
+        [
+            "Vidya Charan Shukla", 
+            "5388", 
+            "Victim"
+        ], 
+        [
+            "Shukla", 
+            "5390", 
+            "Victim"
+        ], 
+        [
+            "Jairam Ramesh", 
+            "5417", 
+            "Comment"
+        ], 
+        [
+            "Jairam Ramesh", 
+            "5425", 
+            "Comment"
+        ], 
+        [
+            "VC Shukla", 
+            "5563", 
+            "Victim"
+        ], 
+        [
+            "LK Advani", 
+            "5569", 
+            "Comment"
+        ], 
+        [
+            "LK Advani", 
+            "5575", 
+            "Comment"
+        ], 
+        [
+            "VC Shukla", 
+            "5582", 
+            "Victim"
+        ], 
+        [
+            "Shukla", 
+            "5602", 
+            "Victim"
+        ], 
+        [
+            "Advani", 
+            "5607", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "5867", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "5930", 
+            "Comment"
+        ], 
+        [
+            "Shailesh Trivedi", 
+            "6027", 
+            "Others"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "6074", 
+            "Others"
+        ], 
+        [
+            "Patel", 
+            "6101", 
+            "Others"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "6145", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "6156", 
+            "Comment"
+        ], 
+        [
+            "Gandhi", 
+            "6205", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "6269", 
+            "Comment", 
+            "Others"
+        ], 
+        [
+            "VC Shukla", 
+            "6412", 
+            "Victim"
+        ], 
+        [
+            "VC Shukla", 
+            "6424", 
+            "Victim"
+        ], 
+        [
+            "Shukla", 
+            "6452", 
+            "Victim"
+        ], 
+        [
+            "AK Dubey", 
+            "6468", 
+            "Others"
+        ], 
+        [
+            "Medanta", 
+            "6471", 
+            "Others"
+        ], 
+        [
+            "Shukla", 
+            "6474", 
+            "Victim"
+        ], 
+        [
+            "Sheila Dikshit", 
+            "6495", 
+            "Others"
+        ], 
+        [
+            "Shukla", 
+            "6499", 
+            "Victim"
+        ], 
+        [
+            "Manmohan Singh", 
+            "6511", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "6514", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "6522", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "6525", 
+            "Comment"
+        ], 
+        [
+            "Mahendra Karma", 
+            "6616", 
+            "Others"
+        ], 
+        [
+            "Nand Kumar", 
+            "6622", 
+            "Others"
+        ], 
+        [
+            "Manish Tewari", 
+            "6660", 
+            "Others"
+        ], 
+        [
+            "Tewari", 
+            "6702", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "6719", 
+            "Comment"
+        ], 
+        [
+            "Raman Singh", 
+            "6750", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "6797", 
+            "Comment"
+        ], 
+        [
+            "Darbha Ghati", 
+            "6804", 
+            "Others"
+        ], 
+        [
+            "Nandkumar", 
+            "6992", 
+            "Others"
+        ], 
+        [
+            "Nand kumar", 
+            "7003", 
+            "Others"
+        ], 
+        [
+            "Nandkumar Patel", 
+            "7058", 
+            "Others"
+        ], 
+        [
+            "Mahendra Karma", 
+            "7111", 
+            "Others"
+        ], 
+        [
+            "Karma", 
+            "7126", 
+            "Others"
+        ], 
+        [
+            "Salwa Judum", 
+            "7132", 
+            "Others"
+        ], 
+        [
+            "M. Gupta", 
+            "7242", 
+            "Others"
+        ], 
+        [
+            "Ram Niwas", 
+            "7294", 
+            "Others"
+        ], 
+        [
+            "RK Vij", 
+            "7318", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "7341", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "7362", 
+            "Comment"
+        ], 
+        [
+            "Mahendra Karma", 
+            "7384", 
+            "Others"
+        ], 
+        [
+            "Vidya Charan Shukla", 
+            "7447", 
+            "Others"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "7479", 
+            "Others"
+        ], 
+        [
+            "Vij", 
+            "7487", 
+            "Comment"
+        ], 
+        [
+            "Vij", 
+            "7511", 
+            "Comment"
+        ], 
+        [
+            "Vij", 
+            "7564", 
+            "Comment"
+        ], 
+        [
+            "Mao Zedong", 
+            "7670", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "7692", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "3.18 pm : 1", 
+        "2.45 pm : 248", 
+        "1pm : 278", 
+        "2.43 pm : 322", 
+        "11 am : 387", 
+        ". 1.55 pm:401", 
+        "1.55 pm:402", 
+        "11.03 am : 502", 
+        "9.29 am : 604", 
+        "8.47 am : 728", 
+        "6.57 pm : 838", 
+        "5.46 pm : 989", 
+        "10.50 am : 1161", 
+        "9.00 am : 1326", 
+        "1.30 pm : 1447", 
+        "11.40 am : 1555", 
+        "10.30 am : 1614", 
+        "4 . 20 pm : 1788", 
+        "4 . 00 pm : 1836", 
+        "2 . 00 pm : 2011", 
+        "12.10 pm : 2084", 
+        "24 hours : 2187", 
+        "11.39 am : 2192", 
+        "10.33 am : 2336", 
+        "9.47 am : 2514", 
+        "7.25 pm : 2771", 
+        "6:05 pm : 2913", 
+        "4 . 10 pm : 3084", 
+        "morning : 3161", 
+        "2pm : 3163", 
+        "afternoon : 3166", 
+        "3 . 35 pm : 3176", 
+        "3 . 20 pm : 3266", 
+        "3.12 pm : 3361", 
+        "1 . 43 pm : 3570", 
+        "1 . 35 pm : 3676", 
+        "1 . 30 pm : 3726", 
+        "evening : 3757", 
+        "1 . 06 pm : 3833", 
+        "12 . 51 pm : 3985", 
+        "12:15 pm : 4062", 
+        "11 . 25 am : 4195", 
+        "night : 4250", 
+        "morning : 4264", 
+        "11 . 20 am : 4268", 
+        "12 noon : 4379", 
+        "11 . 00 : 4385", 
+        "10 . 30 am : 4552", 
+        "9 . 45 am : 4688", 
+        "9 . 10 am : 4740", 
+        "9 . 00 am : 4839", 
+        "3.57 pm : 4938", 
+        "3.29 pm : 5033", 
+        "two-minute : 5198", 
+        "3.04 pm : 5214", 
+        "2.42 pm : 5405", 
+        "1.49 pm : 5560", 
+        "1.42 pm : 5660", 
+        "1.08 pm : 5853", 
+        "12.39 pm : 6142", 
+        "12.18 pm : 6250", 
+        "11.52 am : 6407", 
+        "morning : 6463", 
+        "11.19 am : 6508", 
+        "10.10 am : 6643", 
+        "9.25 am : 6716", 
+        "9.15 am : 6901", 
+        "8.09 am : 6987"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:25", 
+        "Thursday:96", 
+        "Saturday:304", 
+        "Friday:498", 
+        "Wednesday:520", 
+        "Saturday 's:744", 
+        "Saturday:744", 
+        "30 May : 833", 
+        "23 May : 918", 
+        "Friday:967", 
+        "Saturday:1234", 
+        "Wednesday:1318", 
+        "3 June : 1429", 
+        "29 May : 1443", 
+        "Wednesday:1468", 
+        "Saturday:1488", 
+        "Saturday:1594", 
+        "Saturday ,:1594", 
+        "28 May : 1783", 
+        "Tuesday:1805", 
+        "Saturday:1832", 
+        "Tuesday:1864", 
+        "Saturday:2374", 
+        "May 28 , 2013 : 2508", 
+        "Saturday:2533", 
+        "27 May : 2767", 
+        "25 May : 2946", 
+        "Saturday:3208", 
+        "Saturday:3305", 
+        "Monday:3428", 
+        "Monday:3697", 
+        "Saturday:3756", 
+        "Monday:3859", 
+        "Saturday:4249", 
+        "Sunday:4263", 
+        "Sunday:4314", 
+        "Monday:4402", 
+        "Saturday:4422", 
+        "Sunday:4446", 
+        "Sunday:4517", 
+        "May 27 , 2013 : 4546", 
+        "Monday:4578", 
+        "Saturday:4589", 
+        "Monday:4669", 
+        "Sunday:4920", 
+        "May:4934", 
+        "2011:5523", 
+        "Saturday:5693", 
+        "Saturday:6284", 
+        "May:6361", 
+        "May:6864", 
+        "Saturday:6948", 
+        "Saturday:7248", 
+        "December:7609", 
+        "1967:7659", 
+        "2010:7728"
+    ], 
+    "death": "", 
+    "title": "Chhattisgarh attack live: Shinde calls for joint operations in all Naxal areas", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "3.18 pm : Shinde calls for joint operations in all Naxal areas . . Home Minister Sushilkumar Shinde who is Chhattisgarh has said that Saturday 's attack on a Congress rally was ` bigger than an act of terrorism ' and said that thehe was in favour of joint operations in all Naxal affected areas . `` Whatever the ideology may be , we can not agree to an ideology where one human being kills another human being '' , he said . . . The Home Minister who returned from the United states on Thursday added that they would work together with Chhattisgarh Chief Minister Raman Singh in a judicial inquiry ordered by the state.The Minister added that the NIA had also begun its probe into the attack . . . Shinde also refused to get drawn into debates about the role of intelligence agencies in preventing the attack , saying that he was not sure at this stage if there was an intelligence failure or not . `` It looks like there have been some lapses , but until the inquiry is completed , it is too early to say '' , he said . . . He also refused to comment on the number of Naxals believed to have been killed in the attack . `` I do n't want to reveal the number of Naxals killed now . . this is n't the time for that '' , he said . . . 2.45 pm : Maoist cadres stopping civilian vehicles near attack site . . Maoists cadres have checked civilian vehicles crossing the state highway connecting Dantewada and Sukma in Chhattisgarh around 1pm , Times Now reported . The spot is 50 km away from the ambush site where a Congress convoy was attacked by the Maoists last Saturday . Security forces have been rushed to the spot where the checking took place . . . 2.43 pm Home Minister Sushilkumar Shinde visits Nand Kumar Patel 's family . . Union Home Minister Sushilkumar Shinde today visited the family of slain Chhattisgarh Congress chief Nand Kumar Patel at his native Nadeli village in Raigarh district and assured them of justice and his full support . . . Shinde , accompanied by senior officials , landed at Jindal airport in Raigarh around 11 am from Delhi and directly went to the village by helicopter . . . 1.55 pm : VC Shukla 's condition showing signs of improvement . . Former Union Minister and Congress leader VC Shukla , who was injured in the Chhattisgarh Maoist attack , has shown further signs of improvement , but he is still critical and remains in ICU . . . `` He has shown further signs of improvement during the last 24 hours . He is still in ICU and remains critical . A team of multi-specialist doctors is taking care of him , '' AK Dubey , Medical Superintendent of Medanta Hospital told reporters on Friday . . . 11.03 am : Sushilkumar Shinde reaches Chhattisgarh . . Home Minister Sushilkumar Shinde who arrived in India on Wednesday has reached Chhattisgarh , six days after the attack that wiped out most of the Congress state leadership . . . Shinde justified his decision to stay in the US despite the attack , because he had an eye appointment and said that he had ` prior permission ' to extend his visit . . . The Home Minister will meet with the state Congress leadership , and will also be briefed on the latest developments in the NIA investigation . . . 9.29 am : What 's the point in calling Naxals terrorists ? . . Congress Tribal Affairs Minister KC Deo has said that calling Naxals ` terrorists ' will not serve any purpose . . . `` Calling them terrorists ... is it going to help or improve the situation ? You can use different terms but ultimately you have to get at the root of the problem ... we have to preempt such happenings in the future and also take the path of development and empower the people , `` Deo told NDTV . . . His comments are almost in direct contrast to that of Minister of Rural Affairs Minister Jairam Ramesh who said that the Naxals were terrorists . . . 8.47 am : 27-30 kg explosives used in ambush . . An initial forensic report on Saturday 's Chhattisgarh ambush reportedly states that about 27-30 kg of explosive - ammonium nitrate - was used in the attack by Maoists which killed 24 people including two Senior Congress leaders Mahendra Karma and Nand Kumar Patel , NDTV reported . . . The report also says that explosives were triggered using a ` command wire mechanism ' . . . Meanwhile Zee News in its own report , said that aelectric detonator was used along with a command wire in the attack . . . Updates for 30 May end . . 6.57 pm : Stayed in US for doctor 's appointment , says Shinde . . Shinde , seeking to explain his extended leave of absence in the United States despite the Naxal attack in Chhattisgarh that wiped out almost the whole State party leadership , said that he extended his stay in the US because he had an appointment with a world famous ` doctor of the eye ' . `` I took prior permission to stay in US beyond 23 May '' , he said . . . `` There was no need for me to issue a statement because I was already in touch with my officials '' , he added in response to a question . However he stated that he would go to Chhattisgarh on Friday , and repeated the Congress stance that the attack was in fact an `` attack on democracy '' . . . 5.46 pm : Salwa Judum was not our idea , says Cong . . Bhakta Charan Das of the Congress party in Chhattisgarh has said that contrary to popular belief , Congress was not in support of the controversial Salwa Judum programme . `` Salwa Judum was never our idea , it was the idea of Raman Singh '' , said Das in comments to CNN-IBN . . He also called for the resignation of the Chief Minister . The Congress has been upping calls for the resignation of Raman Singh and his government over the brutal Naxal attack which literally wiped out the top state leadership of the party . The Naxals later said in a statement that Karma was the main target of the attack because of Salwa Judum . . . `` We never supported salwa judum . We had our differences over salwa judum with Karma '' , Das was quoted as saying . Tribal affairs minister KC Deo had also criticised the initiative earlier / . . 10.50 am : Indian Air Force upping surveillance in Naxal areas . . The Indian Air Force is upgrading its surveillance capacity in Maoist-hit areas after the recent failure of unmanned aerial vehicles ( UAVs ) operating in Chhattisgarh , reported DNA . . . According to the report , . . UAVs operating in the area failed to detect the movements of more than 200 Maoists who ambushed a Congress convoy on Saturday , an IAF officer said . At least 27 people were killed and 30 injured in the attack . . . So , the IAF is now planning to acquire foliage penetrating radars to deploy in Maoist-hit areas under thick forest cover . Technology is the key to solving this ( Maoist ) problem ... . . the IAF is in the process of acquiring sophisticated equipment for better surveillance capability in thick forests , Air Chief Marshal NAK Browne said here on Wednesday . . . More here . . 9.00 am : Cong to boycott CM 's all-party meet . . Raman Singh , the Chief Minister of Chhattisgarh has called for an all-party meeting today to discuss the Bastar bloodbath which killed 24 people including senior Congress leaders . . . However Congress is set to boycott the meeting sticking to their demand for Raman Singh 's resignation for the security lapse . . . The Chhatisgarh government has also appointed a one-man commission under High Court judge Justice Prashant Mishra for a judicial enquiry into the attack . A special session of the Chhattisgarh Assembly has also been called on 3 June to discuss the Naxal issue . . . End of updates for 29 May . . 1.30 pm : Raman Singh had prior knowledge about Naxal attack , alleges MP Congress . . Madhya Pradesh Congress on Wednesday criticised Chhattisgarh Chief Minister Raman Singh over the Maoist attack on Congress ' Parivartan Yatra in Sukma district on Saturday , which left 27 people , including senior party leaders , dead . . . `` Maoists killed Congress leaders by taking their names . The Chief Minister had prior knowledge about the Naxal attack , but failed to provide security to the Parivartan Yatra , '' Madhya Pradesh Congress Committee president Kantilal Bhuria alleged while talking to PTI . Read more here . . . 11.40 am : Justice Mishra to probe attack , submit report in 3 months . . Justice Prashant Mishra a sitting judge of the Chhattisgarh High Court has been appointed to probe the attack on a Congress envoy last Saturday , media reports said . . . Mishra , will submit his report within three months . . . 10.30 am : Multiple bullet wounds , over 78 stab wounds on Karma . . The report adds that Karma suffered 78 stab wounds , wounds made with a blunt object and also bullet wounds . . . For Divesh Patel , son of Nandkumar Patel , the post mortem reports say that he had an axe injury on his head and that lead to his death . But there are also bullet wounds found on his body . Nandkumar Patel was also stabbed multiple times and there were also bullet wounds . . . Previously PTI reported quoting Congress leader Daulat Rohra , who had survived the attack as saying that when Karma identified himself to the Maoists , they took him aside and shot him dead , pumping in about 50 rounds . . . The post mortem report of Mahender Karma and Nandkumar Patel have been submitted to the Chattisgarh police . The post mortem reports add he bled to death . . . Updates for 28 May end . . 4 . 20 pm : Congress demands resignation of Raman Singh . . The Congress party on Tuesday demanded that Chhattisgarh Chief Minister Raman Singh resign immediately following a failure on his government 's security lapse leading to the death of 27 people on Saturday . . . 4 . 00 pm : Let NIA investigate , no one will be spared , says RPN Singh . . Minister of State for Home RPN Singh on Tuesday conceded that there was a security lapse but assured that action would be taken against those responsible irrespective of whether they were central , state or police officals . . . Speaking exclusively to CNN-IBN , Singh said the attack was extremely unfortunate . . . `` There was a security lapse , the Standard Operating Procedures which were issued were not followed by the state police ... anyone found guilty will not be spared . '' . . Singh also said it is unfortunate that the NIA was brought under suspicion by the BJP . `` It is unfortunate that our offices are being dismantled by BJP . . they ( NIA ) have a good record in solving cases . . just because Malegaon was investigated by NIA to put the blame on them is unfortunate , '' the minister said . . . 2 . 00 pm : Shinde should return to India immediately : BJP . . BJP has demanded that Home Minister Sushilkumar Shinde , who is on an official visit to the United States , return to the country immediately . . . Speaking to the media , BJP spokesperson Prakash Javadekar said , `` Home Minister Shinde should take the first flight available and return to the country . '' . . 12.10 pm : Slight improvement in former union minister VC Shukla 's condition . . In a medical bulletin issued by the Vedanta Hospital , Dr Naresh Trehan said that former union minister VC Shukla 's condition continued to be critical though he has shown slight improvements . `` He seems to have showed some improvement with respect to kidney function etc. . However , given his age and the trauma that he has gone through , we have to be very cautious , '' said Trehan . . . He also expressed hope that Shukla will show some definite improvements in next 24 hours . . . 11.39 am : We will win war against naxals , says Jairam Ramesh . . Rural development Minister Jairam Ramesh has slammed against intellectuals who ` romanticise maoists ' . In an exclusive interview with CNN-IBN , Ramesh said that there was nothing ideological about Maoists anymore , as they were extortionists and criminals . . . He added that there was no possibility of initiating a dialogue with them as they did not believe in Indian democracy . `` We will win the war against Naxalism . We will persevere we will bring political devt , we will use force '' , he said . . . In the interview Ramesh added that the rest of the country needed to take an example from Andhra Pradesh and raise Greyhound commandos in every state , backed up by job opportunities and welfare . . 10.33 am : With 24 dead how can Maoists say they were only targeting a few people ? asks RPN Singh . . MoS ( Home ) RPN Singh hit out at the Maoist statement claiming responsibility for Saturday 's attack on a Congress rally saying , `` 24 are dead and they are trying to say they were targeting only a few people '' . . The Maoists in their statement named Mahendra Kumar , Nand Kumar Patel and VC Shukla as the main targets of the attack and said they `` regret the killing of innocents and lower Congress functionaries '' . . Singh added that the government had set up an NIA team , adding that the Home Secretary is already in Raipur for a security review . . RPN Singh says `` I m nt going to respond to letter written by Maoists '' . Bravo ! Y shd d Govt of India react to what thugs fm Bharat write . . T S Sudhir ( @Iamtssudhir ) May 28 , 2013 . . 9.47 am : Maoists officially claim responsibility for Chhattisgarh attack . . The Maoists have officially claimed responsibility for Saturday 's attack on a Congress rally that killed 27 people including architect of the controversial Salwa Judum movement , Mahendra Karma . . . In a four-page media statement , Gudsa Usendi , spokesperson for the Dandakaranya Special Zonal Committee , CPI ( Maoist ) , said that Karma was the prime target of the attack along with state Congress leader Nand Kumar Patel . . . `` Nand Kumar Patel was suppressing people . It was in his tenure in the Centre when paramilitary forces were deployed in the Bastar area . Mahendra Karma and his family have been exploiting tribals for long . They were into land grabbing and committed atrocities on tribals . Mahendra Karma had such a good relationship with CM Raman Singh , that the media used to call him the 16th minister of his cabinet , '' the statement said . . . `` Karma was the prime target along with Nand Kumar Patel and VC Shukla but we regret killing of innocents and lower Congress functionaries , '' it added . . . In the note , the rebels have also put forward seven key demands . They want Operation Green Hunt to end and paramilitary forces to be sent back from Dandakaranya . They also want revolutionaries and `` innocent '' tribals to be released from jail unconditionally . . . End of updates for 27 May . . 7.25 pm : Chhattisgarh Chief Minister Raman Singh . . `` The massive attack on democracy is not just scary , it is also shameful . NIA is co-investigating the case . The NIA , the Chhattisgarh Policeinquiryand the judicialinquirywill run parallel to each other . Bastar is bigger than the state of Kerala . Thousands of kilometres of highways are there . The difference between police stations are over 100 kilometers . It is not easy to secure such a huge region . The Centre and state must act together . Despite the incident , the morale of the forces are high and they are going to interior places . The total action plan must be jointly made by the state and the Centre . We will keep the fight on fordemocracy , '' Singh told Times Now . . . 6:05 pm : Additional Director General of Police says adequate security provided . . Additional Director Mukesh Gupta says that they had provided adequate security for the Congress rally which was attacked on 25 May that resulted in the deaths of many senior party leaders . . . `` Security was provided to the Congress convoy , '' he told CNN-IBN in an exclusive interview . . . The senior police official said that except for a couple of incidents in the past they had not witnessed such an attempt on a political convoy before . . . Gupta also denied that there was a leak of information from within the security personnel which allowed the Maoists to plan the attack . . . `` The movement is so well known and there are moles everywhere , '' he said . . . He promised to have a proper inquiry and if someone was found to not have done their duty properly , then action would be taken . . . 4 . 10 pm : Congress says MP bandh a success . . The day-long Madhya Pradesh shutdown call given by the Congress to protest Saturdays Naxal attack on its leaders in Chhattisgarh was a success , the party said . . . Barring few incidents of police action against the Congress workers , the bandh was successful throughout the state , state Congress media department chairman Manak Agrawal said . . . The shutdown was from morning to 2pm in the afternoon . . . Read more here . . . 3 . 35 pm : CPI-Maoist 's Sudarshan behind attack ? . . A central member of the CPI-Maoist Katakam Sudarshan , could be behind the attack on a Congress convoy on Saturday , CNN-IBN reported . . . Sources have told the channel that the Intelligence Bureau had sent a generic alert that Sudarshan was active in the area and could be planning something . But since the warning was not specific , the forces at the ground could not take effective measures to counter it . . . 3 . 20 pm : Nand Kumar Patel , son honoured with state funeral . . The final rites of Chhattisgarh Congress chief Nand Kumar Patel and his son Dinesh , who were killed in the Naxal attack on Saturday , were performed with state honours at their native village Nandeli in Raigarh district on day . . . Patel 's younger son Umesh performed the rites , in the presence of Congress Vice President Rahul Gandhi , Chief Minister Raman Singh and a host of other leaders . Read more here . . . 3.12 pm : NIA team reach attack site at Jagdalpur . . A special team from the National Investigation Agency have now arrived in Jagdalpur , the scene of the attack on a Congress convoy that killed 27 people , including two state leaders . . . The NIA has taken over the investigation . . . Congress leader and former Chhattisgarh chief minister Ajit Jogi on Monday said a full investigation will be conducted on whether the attack was pre-planned and whether someone else was involved . . . `` NIA will investigate this Naxal attack , whether it was pre-planned , whether someone else was involved or not we will get to know , '' he said . . . Jogi said he was n't aware of convoy routes having been changed and said he heard of them from reports . `` Do n't know much about routes being changed as I was traveling by a helicopter , but I heard in news reports . '' . . `` Party leadership is shocked , the people who were with us in the growth of Chattisgarh are gone . '' . . Meanwhile a special MHA team will go to Chhattisgarh tomorrow to review strategy . . . 1 . 43 pm : 2,000 paramilitary jawans sent to Chhattisgarh . . The Centre has rushed 2,000 additional paramilitary force personnel to Chhattisgarh in the wake of the Naxal attack on Congress leaders that claimed 27 lives , including that of PCC chief Nand Kumar Patel . . . The decision was taken following a request from the Chhattisgarh government which sought more forces to provide security to political leaders as well as to engage in anti-Naxal operations , official sources said today , adding that the units will be in the state in a day or two . Read more here . . . 1 . 35 pm : Home Ministry sends advisory to all Naxal hit states . . Ministry of Home Affairs on Monday issued an advisory to all nine Naxal affected states asking them to revamp security to political workers and ensure that their activities are not affected . . . 1 . 30 pm : Major security lapses at Jagdalpur . . There were major security lapses at Jagdalpur , Chhattisgarh , where Naxalites ambushed a Congress party convoy on Saturday evening . . . Here are some of the lapses : . . 1 Maoist build-up on the darba plateau went undetected . . 2 State highway 211 from Sukma to Jagdalpur should have been sanitised . . 3 There were no sweeps to disrupt Maoist build-ups . . 4 All Congress leaders in Sukma travelled together ; presenting a plum target . . 5 There were no means of getting in reinforcements . . . 1 . 06 pm : NIA will probe all angles , says Ajit Jogi . . Congress leader and former Chhattisgarh chief minister Ajit Jogi on Monday said a full investigation will be conducted on whether the attack was pre-planned and whether someone else was involved . . . `` NIA will investigate this Naxal attack , whether it was pre-planned , whether someone else was involved or not we will get to know , '' he said . . . Jogi said he was n't aware of convoy routes having been changed and said he heard of them from reports . `` Do n't know much about routes being changed as I was traveling by a helicopter , but I heard in news reports . '' . . `` Party leadership is shocked , the people who were with us in the growth of Chattisgarh are gone . '' . . 12 . 51 pm : No plans to move-in Army , says AK Antony . . Amid reports of the Army moving in to assist security forces in Naxal hit areas of Chhattisgarh , Defence Minister AK Antony has denied any such proposal . . . `` There is no proposal on Army joining anti-Naxal operations in Chhattisgarh , but we will extend all support to State and para-military forces , '' he said . . . 12:15 pm : Doctors say Shukla 's health on ventilator , treatment to take long . . Naresh Trehan of the Medanta Hospital where Congress leader VC Shukla is admitted has said that the politician leader 's condition is still critical . . . `` He is critical and will remain so for a few days.But he is stable and we hope he will be fine , '' he said . . . Shukla had three gunshot wounds , two in the chest and one in the abdomen , the doctor said . . . He said that Shukla was conscious but was on the ventilator as he continued to battle for his life . Given his age , his recovery could take a long time , the doctor said . . . 11 . 25 am : Sonia expected to call meeting over Naxal attack . . Congress Chief Sonia Gandhi is expected to call a meeting later today to take stock of the investigations into the Naxal attack on Congress leaders in Chhattisgarh . . . Congress Vice President Rahul Gandhi arrived at Chhattisgarh late Saturday night while Prime Minister Manmohan Singh and Congress Chief Sonia Gandhi arrived early Sunday morning . . . 11 . 20 am : VC Shukla still critical . . Doctors at Medanta Hosital in Gurgaon have said that the condition of senior Congress leader VC Shukla continues to be critical . He is recovering at the Gurgaon hospital where he was operated upon on Sunday . . . Shukla suffered three bullet injuries , with a bullet scraping through his lung and liver causing serious damage . Doctors have also said that that his condition is stable , but he is still not out of danger . . . A team of specialised doctors regularly check on Shukla and a detailed update of his health is expected at around 12 noon today . . . 11 . 00 am : Congress calls for bandh in Madhya Pradesh . . Congress workers on Monday attempted to enforce a complete bandh in Madhya Pardesh and Chhattisgarh following the attack on a Congress rally on Saturday . . . Youth Congress workers were seen trying to convince shops in Bhopal to shut down in support . . . On Sunday , the Congress party in Madhya Pradesh called for a bandh , condemning the attack . . . `` We strongly condemn the dastardly act that killed number of our former colleagues . As Chhattisgarh was a part of Madhya Pradesh before the division , therefore gave a bandh call tomorrow in protest , '' state Congress president Kantilal Bhuria and Leader of Opposition , Ajay Singh told reporters on Sunday . . . Congress calls for statewide bandh in Madhya Pradesh , party workers force some shops to shutdown in Bhopal twitter.com/ANI_news/statu . . ANI ( @ANI_news ) May 27 , 2013 . . 10 . 30 am : Action will be taken against whoever is responsible , says RPN Singh . . Minister of State Home RPN Singh on Monday said there were security lapses in the Chhattisgarh attack on Saturday that killed 27 people . . . The minister also said that action will be taken against whoever is responsible . '' There have been security lapses . . I have asked the NIA to probe . The buck has to stop somewhere . Punishment has to be meted out to someone , whoever is responsible . . at the centre level or state level , '' he said . . . Meanwhile , Home Secretary RK Singh on Monday said that a NIA team will be leaving for Darba Ghat to investigate the attack . . . 9 . 45 am : Mastermind behind Congress attack identified ? . . A Maoist leader Gagannam also known as Ramesh has been reportedly identified as the ` mastermind ' of the attack , Times Now reported . The Sukma attack at a Congress rally left 27 people dead . . . 9 . 10 am : Slain Chhattisgarh Cong chiefs son seeks CBI probe . . Umesh Patel , the son of Chhattisgarh Congress chief Nand Kumar Patel who was killed in Saturdays Naxal attack , has sought CBI probe into the incident suspecting political conspiracy behind the tragedy . . . Talking with mediapersons at his native village Nandeli , Umesh said the fact that Naxals were asking for senior party leaders by calling out their names indicated that there was some political conspiracy behind the killing of his father and brother . Read more here . . . 9 . 00 am : NIA to probe Chhattisgarh attack , says Shinde . . The National Investigation Agency ( NIA ) will probe the Maoist attack on Congress leaders in Chhattisgarh after the Centre received a go-ahead from Chief Minister Raman Singh for the same . . . `` I have spoken to Raman Singh and he has agreed for probe by NIA ... the probe by the central agency '' , Union Home Minister Sushilkumar Shinde told PTI on Sunday from New York . Read more here . . . Updates for 26 May end . . 3.57 pm : PM , Sonia visit injured VC Shukla in hospital . . Prime Minister Manmohan Singh and Congress President Sonia Gandhi visited injured Congress leader VC Shukla in hospital . . . The Prime Minister and Congress President had stopped by the Medanta hospital in Delhi shortly after returning from Raipur , where they addressed Congress leaders in Chhattisgarh and visited the injured in hospital . . . Earlier BJP leader LK Advani who visited Shukla said that the 84-year-old Congress leader was stable after an operation . . . https://twitter.com/PMOIndia/status/338616953885319170 . . 3.29 pm : Congress calls for bandh in Madhya Pradesh . . Strongly condemning the naxal attack in neighbouring Chhattisgarh , the Opposition Congress in Madhya Pradesh today gave a call for state bandh in protest . . . `` We strongly condemn the dastardly act that killed number of our former colleagues . As Chhattisgarh was a part of Madhya Pradesh before the division , therefore gave a bandh call tomorrow in protest , '' state Congress president Kantilal Bhuria and Leader of Opposition , Ajay Singh told reporters . . . `` It was a major lapse as the state government failed to provide security to the ` Parivartan Yatra ' despite having knowledge about the threat to the Congress leaders from the naxalites , '' Bhuria said . . . They demanded the immediate resignation of Chhattisgarh Chief Minister Raman Singh as well as the imposition of President 's rule in the state . . . The Congress leaders also observed a two-minute silence as a mark of respect to those killed in the attack . . . 3.04 pm : Congress leaderNand Kumar Patel 's body taken to Raipur airport for Sonia , PM to pay tribute . . The bodies of slain leader of opposition in the Chhattisgarh assembly Nand Kumar Patel and his son Dinesh Patel , who were among those killed by Maoist insurgents , were brought to the Raipur airport for Prime Minister Manmohan Singh and UPA chairperson Sonia Gandhi to pay their tributes before leaving for Delhi , reports IANS . . . The Congress leader and his son were among those killed at Darbha Ghati Valley , about 35 km from Sukma in the restive Bastar region , in an attack by Maoists waiting in ambush as a convoy of Congress leaders returning to Raipur from a rally passed a forested area . . . The prime minister and the UPA chairperson who visited victims of the attack and addressed the state Congress party , are set to head straight to the Medanta Hospital in Gurgaon to enquire after the health of former union minister Vidya Charan Shukla , 84 , who received three bullet injuries in the attack . . . 2.42 pm : Attack proves Naxals have no respect for democracy : Jairam Ramesh . . Minister for Rural development Jairam Ramesh has said that the Naxal attack in Chhattisgarh proves that the Maoists have no respect for democracy . . . `` I was present with all those who have been targetted and killed . This proves that Naxals have no respect for democracy . It is the aam sabha that give oxygen to democracy . This is an attack on democracy and an attack on the Congress party - the party had taken steps to encourage political processes on the ground . Naxals were scared of the impact of development on villagers . . . In 2011 oct when I visited Bijapur first , out of 157 , only 80 villages had MRNEGS . Yesterday when in I was in bijapur , I saw it is present in 111 villages . . . 1.49 pm : VC Shukla is stable , says LK Advani . . BJP leader LK Advani who visited veteran Congress leader VC Shukla in hospital has said that he is stable . Speaking to reporters outside Gurgaon 's Medanta hospital where Shukla is being treated , Advani also said that the naxal attack on a Congress rally in Chhattisgarh was `` one of the most audacious attacks '' . . . `` Need concerted efforts to tackle Naxal menace in Chhattisgarh . I have also spoken to the PM regarding this issue '' , he added . . . 1.42 pm : Chhattisgarh on high alert , MHA seeks report . . The Ministry of Home Affairs has sought a report in to the deadly Maoist attack on a Congress rally on Saturday that has killed 27 people . The state has also been put on high alert . . . The MHA reportedly wants the Chhattisgarh state government to detail the kind of security that was in place for the Congress rally . . . The attack has puts question marks on the elaborate sophisticated and costly intelligence and security set up that the police have acquired and put in place over the years . Besides helicopters , it includes a drone . The Additional Director General Police in charge of intelligence had no answer as to why the ambush party of 500 plus armed men could not be detected in time . . . Even worse is the fact that this sort of assembly was not even foreseen in spite of reports that the Maoists had met ten days back before deciding to attack the leaders during the yatra . . . ( More on that here ) . . 1.08 pm : PM announces compensation to dead and injured . . Prime Minister Manmohan Singh has announced an ex gratia relief of Rs 5 lakh from the PM 's National Relief Fund to the families of those who have lost their lives in the Chhattisgarh naxal attack and Rs 50000 from the Prime Minister 's National Relief Fund to those injured , tweeted the PMO . . . The Prime Minister as well as Congress leader Sonia Gandhi who arrived in Raipur earlier this morning , have visited the injured in hospital and also addressed a condolence meeting at the Congress state headquarters . . . Meanwhile Congress workers today disrupted rail and road servcies during the day-long bandh called by the party in Chhattisgarh to press for the dismissal of the BJP government in the wake of deadly Maoist attack . . . The bandh has also been called to demand imposition of President 's rule in the state following alleged breakdown in law and order , Chhattisgarh Congress media cell president Shailesh Trivedi had said yesterday . . . In support of the day-long bandh , the party workers disrupted road and rail traffic in several parts of the state . . . Congressmen stopped movement of trains in Raigarh , the home district of state Congress chief Nand Kumar Patel , who was killed in the attack . The agitating workers also ransacked the PWD rest house of Kharsiya , the native place of Patel , police said . . . While private buses and autorickshaws went off the roads , all shops and business establishments remained closed in several prominent cities including Raipur , Bilaspur , Rajnandgaon , Korba and others . . . 12.39 pm : Sonia Gandhi salutes bravery of Chhattisgarh leaders . . Congress President Sonia Gandhi has told a meeting of Chhattisgarh Congress leaders that she saluted their bravery and shared their pain . . . `` I appreciate courage and bravery of Congress leaders in Chhattisgarh '' , she was quoted as saying by PTI . . . Meanwhile this image of Gandhi and the Prime Minister meeting victims was tweeted out by the PMO account : . . https://twitter.com/PMOIndia/status/338552257937301504 . . The Prime Minister meanwhile said , `` Those who have lost their lives in this barbaric attack are martyrs of democracy '' . . . 12.18 pm : ` These lives must not go in vain ' , says PM . . Prime Minister Manmohan Singh who is in Raipur , has visited Congress members and policemen injured in Saturday 's Naxal attack and said the incident underscored the need to keep fighting Naxal extremism . `` We have to be more determined in fighting Naxal extremism . These lives should not go in vain '' , he was quoted as saying on his official Twitter account . . . `` This incident should be treated as an inspiration in our fight against forces of extremism and violence.I pray for the souls of the departed . May God give their family members strength in this moment of grief '' , he added . . . The PMO account also tweeted out a picture of the Prime Minister interacting with injured at the hospital : . . https://twitter.com/PMOIndia/status/338543498712186881 . . https://twitter.com/PMOIndia/status/338548742779179008 . . 11.52 am : Cong leader VC Shukla remains critical , says hospital . . Veteran Congress leader VC Shukla , who suffered gunshot injuries in the Maoist attack on a Congress rally in Chhattisgarh remains critical , said hospital authorities . . . The 84-year-old Shukla was airlifted to Gurgaon 's Medanta hospital from Chhattisgarh this morning . . . Dr AK Dubey from Medanta confirmed that Shukla is being treated for gunshot wounds , and said his condition remained critical . . . Meanwhile Delhi Chief Minister Sheila Dikshit has visited Shukla at hospital , NDTV reported . . . 11.19 am : Manmohan Singh , Sonia Gandhi reach Raipur . . Prime Minister Manmohan Singh and Sonia Gandhi have reached Raipur in the wake of the deadly Maoist attack that has killed 27 people in Dharba Ghat . . . The PM accompanied by the Congress President are first scheduled to visit the hospital where those injured in cross fire are being treated to take stock of the situation . Later they will visit the Chhattisgarh Congress Headquarters , Gandhi Bhavan where acondolencemeetinghas been scheduled to take place . . . The deadly attack wiped out all the top leadership in the state including Salwa Judum architect Mahendra Karma and state Congress leader Nand Kumar . . . The two are also likely to meet state leaders in the Chhattisgarh government . . . 10.10 am : Tewari calls for detailed investigation into incident . . Minister of Information and Broadcasting Manish Tewari , has conveyed his sympathies to the families of those killed in the Chhattisgarh attack , saying that `` as someone who has witnessed terrorism first hand , I can understand what families are going through '' . . . Tewari added that the entire incident needs detailed investigation and examination . . . 9.25 am : Modi condemns attack , calls for zero tolerance policy . . Even as political parties closed ranks to condemn the attack on a Congress rally in Chhattisgarh , state Chief Minister Raman Singh has reached the Jagdalpur area , along with four ministers . . . A massive man-hunt is underway for the perpetrators of the attack that wiped out the top Congress leadership in the state and killed 27 people . . . Meanwhile Gujarat Chief Minister Narendra Modi has termed the attack in Darbha Ghati as gruesome , and said that the government needed to adopt a zero tolerance policy towards Terrorism and Naxalism . . . `` Time has come to adopt policy of Zero Tolerance towards Terrorism & Naxalism . Condolences to families of deceased & respects to policemen who laid down their lives . My prayers with the injured . May they recover quickly . The need of the hour is to stand together as a nation and vow to fight this menace that threatens our democracy , he said on his Twitter feed . . . 9.15 am : Chhattisgarh police want border with Madhya Pradesh sealed . . The Chhattisgarh police have reportedly asked their counterparts in Madhya Pradesh to help them seal the border of the state , so that the Naxals responsible for the attack that killed 27 people on Saturday can not escape across the border . . . A massive manhunt is underway in the area to find the perpetrators of the attack that practically wiped out the top Congress leadership in the state . . . 8.09 am : Congress Chief Nandkumar 's body found . . The body of Congress leader Nand kumar has been discovered in Darbha Ghat , reported CNN-IBN . The body had reportedly been found in a ditch . A badly mutilated body found next to him is believed to be of his son who was abducted along him . . . However police have not officially confirmed this . . . Nandkumar Patel was executed after he was abducted . Along with his body and the body believed to be that of his son , police recovered 10 bodies , taking the death toll of the attack to 27 . . . Meanwhile doctors have said that an autopsy will be carried out on Mahendra Karma , who is believed to be the main target of this attack . Karma was the man behind the Salwa Judum operation that was carried out against the Maoists in the state . He had been pulled out of his official vehicle and executed at point blank range , news channels reported . . . Congress members have declared three days of mourning and called for a bandh in the state . . . Background to attack : . . About 200 suspected Maoist rebels set off a land mine and opened fire on a convoy of cars carrying local leaders and supporters of Indias ruling Congress party in Chhattisgarh , killing at least 17 people and wounding 24 others , police said . . . Senior police officer M. Gupta said the attack occurred Saturday in the Sukma area , about 245 kilometers south of Raipur , the capital of Chhattisgarh state . . . The convoy was attacked in a forested area as the Congress members were returning to the state capital after attending a party rally , said Ram Niwas , a state police official . . . Two state party leaders and five police officers were among those killed , said RK Vij , another police officer . Other victims were party supporters . . . We are devastated , said Congress party President Sonia Gandhi , who denounced what she called a dastardly attack on the countrys democratic values . . . Prime Minister Manmohan Singh said the government would take firm action against the perpetrators . . . Police identified one of those killed as Mahendra Karma , a Congress leader in Chhattisgarh state who founded a local militia , the Salwa Judum , to combat the Maoist rebels . The anti-rebel militia had to be reined in after it was accused of atrocities against tribals indigenous people at the bottom of Indias rigid social ladder . . . The wounded Congress party members , among them 83-year-old Vidya Charan Shukla , a former federal minister , were taken to a local hospital , police said . . . The suspected rebels also took away a local party leader , Nand Kumar Patel , and his son , Vij said . . . The Press Trust of India news agency said the attackers blocked the road by felling trees . . . Vij said the suspected rebels triggered a land mine blast that blew up one of the cars in the convoy . The attackers then fired at the Congress party leaders and their supporters before fleeing . . . Police recovered 16 bodies from the scene , and 25 wounded people were hospitalized , Vij said . One of the wounded later died in the hospital , he said . . . The Congress party is the main opposition party in the state . It has stepped up political activities ahead of state elections scheduled to be held by December . . . The rebels , known as Naxalites , have been fighting the central government for more than four decades , demanding land and jobs for tenant farmers and the poor . They take their name from the West Bengal village of Naxalbari where the movement began in 1967 . The fighters were inspired by Chinese Communist revolutionary leader Mao Zedong and have drawn support from displaced tribal populations opposed to corporate exploitation and official corruption . . . Prime Minister Singh has called the rebels Indias biggest internal security threat . They are now present in 20 of Indias 28 states and have thousands of fighters , according to the Home Ministry . . . In 2010 , Maoist rebels killed 27 paramilitary troops in an ambush in a dense forest in the Narayanpur district of Chhattisgarh state .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Chattisgarh", 
+        "", 
+        "", 
+        "Chhattisgarh"
+    ], 
+    "O": [
+        "naxal:53", 
+        "home minister:87", 
+        "27-30 kg explosives:731", 
+        "ambush:736", 
+        "salwa judum:992", 
+        "government:1820", 
+        "home minister:2066", 
+        "home secretary:2456", 
+        "salwa judum movement:2549", 
+        "buses:6110", 
+        "autorickshaws:6112"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/india/chhattisgarh-attack-live-shinde-calls-for-joint-operations-in-all-naxal-areas-815801.html", 
+    "date": "31-05-2013", 
+    "target": "", 
+    "hot_spot": "Chhattisgarh", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Congress", 
+            "30", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "121", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "251", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "261", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "296", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "302", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "419", 
+            "Others"
+        ], 
+        [
+            "Chhattisgarh Maoist", 
+            "429", 
+            "Others"
+        ], 
+        [
+            "Medanta Hospital", 
+            "493", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "536", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "585", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "599", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "618", 
+            "Others"
+        ], 
+        [
+            "NDTV", 
+            "697", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "766", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "774", 
+            "Others"
+        ], 
+        [
+            "NDTV", 
+            "783", 
+            "Others"
+        ], 
+        [
+            "Zee News", 
+            "807", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "972", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1008", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1020", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1069", 
+            "Others"
+        ], 
+        [
+            "Indian Air Force", 
+            "1164", 
+            "Others"
+        ], 
+        [
+            "Indian Air Force", 
+            "1175", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "1227", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1231", 
+            "Others"
+        ], 
+        [
+            "IAF", 
+            "1237", 
+            "Others"
+        ], 
+        [
+            "IAF", 
+            "1259", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "1286", 
+            "Others"
+        ], 
+        [
+            "IAF", 
+            "1293", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1364", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1370", 
+            "Others"
+        ], 
+        [
+            "Chhatisgarh government", 
+            "1394", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "1403", 
+            "Others"
+        ], 
+        [
+            "MP", 
+            "1460", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1461", 
+            "Others"
+        ], 
+        [
+            "Madhya Pradesh Congress", 
+            "1464", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "1477", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1480", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "1505", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1507", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "1547", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1591", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "1710", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1713", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1793", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "1802", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "1842", 
+            "Others"
+        ], 
+        [
+            "state police", 
+            "1930", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "1952", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1959", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1972", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "1977", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "1994", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "2023", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "2026", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "2059", 
+            "Others"
+        ], 
+        [
+            "Vedanta Hospital", 
+            "2106", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "2237", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "2344", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "2369", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "2379", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "2404", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "2436", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "2450", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "2482", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "2517", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "2527", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "2538", 
+            "Others"
+        ], 
+        [
+            "Dandakaranya Special Zonal Committee", 
+            "2570", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "2575", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "2577", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "2593", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "2705", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "2797", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "2804", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "2940", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "2967", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "3089", 
+            "Others"
+        ], 
+        [
+            "MP", 
+            "3091", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "3106", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "3135", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "3147", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "3205", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "3222", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "3287", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "3338", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "3364", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "3378", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "3394", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "3409", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "3418", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "3452", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "3602", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "3752", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "3771", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "3808", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "3838", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "3849", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "3883", 
+            "Others"
+        ], 
+        [
+            "Medanta Hospital", 
+            "4083", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4086", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4210", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4233", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4240", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4257", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4292", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4390", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4399", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4419", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4427", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4449", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4503", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4521", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "4623", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "4673", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4695", 
+            "Others"
+        ], 
+        [
+            "Sukma", 
+            "4727", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4731", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "4751", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "4777", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "4844", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "4855", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "4859", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "4864", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4867", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "4902", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "4918", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4957", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4963", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4976", 
+            "Others"
+        ], 
+        [
+            "Medanta hospital", 
+            "4982", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "4995", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "5009", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5020", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5036", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5056", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5110", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5154", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5193", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5217", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "5262", 
+            "Others"
+        ], 
+        [
+            "UPA", 
+            "5277", 
+            "Others"
+        ], 
+        [
+            "IANS", 
+            "5291", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5296", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "5325", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5333", 
+            "Others"
+        ], 
+        [
+            "UPA", 
+            "5353", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5365", 
+            "Others"
+        ], 
+        [
+            "Medanta Hospital", 
+            "5375", 
+            "Others"
+        ], 
+        [
+            "Hospital", 
+            "5376", 
+            "Others"
+        ], 
+        [
+            "Minister for Rural development", 
+            "5421", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "5438", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5493", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "5573", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5580", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5616", 
+            "Others"
+        ], 
+        [
+            "MHA", 
+            "5668", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "5686", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5690", 
+            "Others"
+        ], 
+        [
+            "MHA", 
+            "5713", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "5718", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5732", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "5827", 
+            "Others"
+        ], 
+        [
+            "National Relief Fund", 
+            "5883", 
+            "Others"
+        ], 
+        [
+            "National Relief Fund", 
+            "5909", 
+            "Others"
+        ], 
+        [
+            "PMO", 
+            "5918", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5928", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5954", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "5961", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "5986", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "5993", 
+            "Others"
+        ], 
+        [
+            "Chhattisgarh Congress", 
+            "6022", 
+            "Others"
+        ], 
+        [
+            "Congress chief", 
+            "6072", 
+            "Others"
+        ], 
+        [
+            "Congress chief", 
+            "6072", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6072", 
+            "Others"
+        ], 
+        [
+            "PWD", 
+            "6091", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6154", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6185", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "6197", 
+            "Others"
+        ], 
+        [
+            "PMO", 
+            "6217", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6278", 
+            "Others"
+        ], 
+        [
+            "PMO", 
+            "6381", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6422", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "6433", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6437", 
+            "Others"
+        ], 
+        [
+            "NDTV", 
+            "6503", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "6536", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6554", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6585", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6620", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6742", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6781", 
+            "Others"
+        ], 
+        [
+            "Twitter", 
+            "6896", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6979", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "6990", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "7001", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "7141", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "7168", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "7196", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "7219", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "7279", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "7338", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "7388", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "7406", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "7440", 
+            "Others"
+        ], 
+        [
+            "Press Trust of India", 
+            "7493", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "7538", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "7583", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "7730", 
+            "Others"
+        ]
+    ]
+}

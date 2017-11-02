@@ -1,0 +1,91 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Metro Channel", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Esplanade", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "33", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Anand Kumar Barua", 
+            "47", 
+            "Comment"
+        ], 
+        [
+            "Barua", 
+            "99", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:24"
+    ], 
+    "death": "", 
+    "title": "Buddhist monks stage protest in Kolkata", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "Bodh Gaya", 
+        "Bodh Gaya"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Over 100 Buddhist monks associated with the Mahabodhi Society of India staged a protest at Metro Channel in the Esplanade area here on Sunday condemning the serial blasts at Bodh Gaya in Bihar . Similar protests would be held in the next few days , said Anand Kumar Barua , a member of the Societys governing body . We had never imagined that such an incident will happen in the complex where Lord Buddha attainted enlightenment . Buddhism is a religion of peace . Such an incident goes against our faith and our belief in non-violence , Mr. Barua told The Hindu . Staff Reporter .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Buddhist monks:3", 
+        "Lord Buddha:73", 
+        "Buddhism:78"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/buddhist-monks-stage-protest-in-kolkata/article4893255.ece", 
+    "date": "08-07-2013", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "Bodh Gaya", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Mahabodhi Society", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "101", 
+            "Others"
+        ]
+    ]
+}

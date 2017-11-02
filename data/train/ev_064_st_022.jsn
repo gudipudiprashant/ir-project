@@ -1,0 +1,298 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "39", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "41", 
+            "Assoc_Event"
+        ], 
+        [
+            "Srinagar", 
+            "43", 
+            "Assoc_Event"
+        ], 
+        [
+            "Delhi", 
+            "45", 
+            "Assoc_Event"
+        ], 
+        [
+            "Varanasi", 
+            "47", 
+            "Assoc_Event"
+        ], 
+        [
+            "India", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "London", 
+            "53", 
+            "Assoc_Event"
+        ], 
+        [
+            "Madrid", 
+            "55", 
+            "Assoc_Event"
+        ], 
+        [
+            "Beslan ,", 
+            "57", 
+            "Assoc_Event"
+        ], 
+        [
+            "New York", 
+            "59", 
+            "Assoc_Event"
+        ], 
+        [
+            "Lebanon", 
+            "62", 
+            "Assoc_Event"
+        ], 
+        [
+            "Iraq", 
+            "64", 
+            "Assoc_Event"
+        ], 
+        [
+            "Pakistan", 
+            "80", 
+            "Accused"
+        ], 
+        [
+            "Afghanistan", 
+            "82", 
+            "Accused"
+        ], 
+        [
+            "Europe", 
+            "84", 
+            "Accused"
+        ], 
+        [
+            "USA", 
+            "87", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "98", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "193", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "277", 
+            "Assoc_Event"
+        ], 
+        [
+            "India", 
+            "279", 
+            "Event"
+        ], 
+        [
+            "Manhattan", 
+            "295", 
+            "Assoc_Event"
+        ], 
+        [
+            "New Jersey", 
+            "297", 
+            "Assoc_Event"
+        ], 
+        [
+            "United States", 
+            "301", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "352", 
+            "Event"
+        ], 
+        [
+            "Singapore", 
+            "371", 
+            "Neutral"
+        ], 
+        [
+            "Dubai", 
+            "373", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "407", 
+            "Event"
+        ], 
+        [
+            "London", 
+            "409", 
+            "Assoc_Event"
+        ], 
+        [
+            "New York", 
+            "411", 
+            "Neutral"
+        ], 
+        [
+            "Paris", 
+            "416", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "969", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "974", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "1017", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "1037", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "1205", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "1212", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rakesh Goyal", 
+            "1221", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:95", 
+        "1993:587", 
+        "2006:589", 
+        "Tuesday:985", 
+        "Tuesday:1088"
+    ], 
+    "death": "", 
+    "title": "Terror in Mumbai: IT could be next target", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Terrorism ' has become a global industry . It appears to work like a multinational corporation with branches , local offices around the world . This industry has no accountability to society . . . The attacks in Mumbai , Bangalore , Srinagar , Delhi , Varanasi etc in India and in London , Madrid , Beslan , New York , Lebanon , Iraq appear to be executed with planned precision , coordinated by global bosses , sitting in Pakistan or Afghanistan or Europe or the USA or God knows where . . . Tuesday 's well-coordinated Mumbai blasts -LRB- termed ' 7/11 ' -RRB- were targeted to disrupt the main commercial hub of India 's resurgent economy , which houses the nation 's central bank , major financial institutions , major stock exchanges , big corporate houses like Tata , Birla , Reliance ; major public sector units , a booming diamond trade ; wholesale trade and a big part of the IT industry , and can be termed as the engine of the Indian economy . . . The bombs strategically targetted the local trains : the transport lifeline of Mumbai . All the blasts were in the first class compartments which carry middle and senior management of corporations , banks and government , apart from owner-managers from various markets . Thus , the target-segment was chosen carefully to break the middle layer of the industrial hierarchy and create terror . Until now , this class was never targeted . . . Just a few months ago , terrorists could penetrate the Indian Institute of Science , a major institution of technical excellence in Bangalore , India 's information technology hub . Last week , a plot to blow up tunnels between Manhattan and New Jersey in the United States was discovered and defused . . . Terrorism is here to stay , whether we like or not . . . Intelligence . . Many people start describing it as an intelligence failure . This can not be blindly termed as an intelligence failure . In any city like Mumbai , with over 15 million people , it is impossible to provide total security . Even city-States like Singapore and Dubai -- with far less population and ` Big Brother-is-watching ' capabilities -- can not have a 100 per cent incident/crime-free environment . . . There are many soft targets in any city like Mumbai , London , New York , Tokyo , Paris . The success of intelligence is rarely known , only when some major haul of arms or drugs is made is there a whiff of it . Else , the success is always unsung . Similarly , successes in security prevention are not known at all . Only the breaches are known . . . In TQM/QA -LRB- Total Quality Management/Quality Analysis -RRB- terms , if we say that 93 per cent of probable incidents are prevented and 7 per cent leads to real incidents , we can say intelligence has three-sigma quality accuracy . . . This 7 per cent apparently looks quite high . Four-sigma intelligence quality will make it 99.4 per cent and 0.6 per cent . I believe , the intelligence quality may lie somewhere between 3.5 sigma and 4 sigma . At less than this mark , we would have seen many more such horrible incidents . . . IT infrastructure could be the next target . . If the methods used by terrorist since 1993 till 2006 are analysed , one can see the trend that the attacks are becoming more sophisticated with precisely defined targets using the same old tools . The arrests of some terrorists in the recent past revealed that terrorists are recruiting people trained in engineering , science , medicine and management . . . A lot of technical and managerial knowledge is flowing in to the terror industry . It seems clear that at least the planning process is done by technical and managerial educated minds . . . In this scenario , the risk is very high that IT infrastructure and IT assets may be targetted in the future . This is one of the softest targets today , which can create maximum damage . . . Today , the application and implementation of IT controls many business processes of social and national strategic importance -- power , communication , railways , transport , oil , manufacturing , banking , services , government-business , etc. . The security of these IT assets and IT infrastructure is far lower compared to the security of normal physical assets/infrastructure . Hackers , perpetrators , computer-criminals easily break into IT assets and create news . . . There are many methods available for terrorists to break into this IT infrastructure / IT assets . I can discuss a number of these . But the irony is that this discussion of methods apart from creating awareness among masses , will also help terrorist get ideas . I refrain from discussing these methods as a better and socially secure option . . . Thus , it is the duty of all concerned business-process owners , whether in government or industry or utilities , to ascertain that their IT assets and infrastructure are reasonably secure . . . Security is not a one-time event . Security is a continuous process . Security is constant vigilance . Security is an ongoing fight between evil and our-protection-from-evil . . . Evil always finds new ways to attack us . So it is our duty to keep a constant vigil and keep upgrading the methods and technology of securing ourselves . Especially , when the threat is apparent and looming large on the horizon . . . The spirit of Mumbai . . Today , Mumbai is back to business . People suffered a lot on Tuesday evening , but only after 12 to 15 hours they are back to their duties/business without any fear , travelling in the same crowded trains . This is the spirit of Mumbai . Terrorists can explode bombs in trains or even at strategic locations , but they can not break the Mumbai spirit . . . This spirit is sufficient to frustrate the evil design of terror-mongers . They can draw satisfaction from material damage but they are unable to break the moral , courage and spirit of Mumbaikars . . . Despite the jamming of all telecommunication and transportation hurdles on Tuesday evening , Mumbaikars rose to the occasion . They helped each other ; passed well-being messages through incoming STD calls ; provided food , water and shelter to stranded fellow Mumbaikars ; donated blood ; helped the administration in traffic control and at blast sites . . . Jamming the communications networks was required so that terrorists could not use mobile phones for more blasts or to communicate amongst themselves for escape . . . We need to fight the challenge thrown by the terrorism industry to civilised humankind by systematically/professionally securing ourselves individually and collectively : by being vigilant , by monitoring all the happenings around us , and with a large dose of that Mumbai spirit . . . . . Mumbai suburban train blasts : Complete Coverage . . Rakesh Goyal is director general , Centre for Research and Prevention of Computer Crimes . .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Terrorism:1", 
+        "global industry:6", 
+        "multinational corporation:15", 
+        "no accountability:29", 
+        "society:32", 
+        "planned precision:70", 
+        "global bosses:75", 
+        "7/11:103", 
+        "disrupt:109", 
+        "economy:118", 
+        "IT industry:164", 
+        "engine:173", 
+        "Indian economy:176", 
+        "transport lifeline:190", 
+        "first class compartments:201", 
+        "terror:242", 
+        "blow up tunnels:291", 
+        "defused:306", 
+        "intelligence failure:334", 
+        "total security:365", 
+        "soft targets:401", 
+        "Total Quality Management/Quality Analysis:475", 
+        "sophisticated:604", 
+        "terrorists:626", 
+        "recruiting:628", 
+        "trained:630", 
+        "IT:687", 
+        "Hackers:776", 
+        "break:782", 
+        "IT assets:784", 
+        "Security:890", 
+        "continuous process:900", 
+        "spirit:1015", 
+        "Mumbaikars:1091", 
+        "helped each other:1098", 
+        "civilised humankind:1176"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/12goyal.htm", 
+    "date": "11-07-2006", 
+    "target": "RAILWAY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Tata", 
+            "140", 
+            "Others"
+        ], 
+        [
+            "Birla", 
+            "142", 
+            "Others"
+        ], 
+        [
+            "Reliance", 
+            "144", 
+            "Others"
+        ], 
+        [
+            "Indian Institute of Science", 
+            "265", 
+            "Others"
+        ], 
+        [
+            "Centre for Research and Prevention of Computer Crimes", 
+            "1227", 
+            "Others"
+        ]
+    ]
+}

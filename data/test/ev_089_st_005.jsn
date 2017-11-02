@@ -1,0 +1,83 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "57", 
+            "Event"
+        ], 
+        [
+            "Anand Tiffin Centre", 
+            "120", 
+            "Event"
+        ], 
+        [
+            "Konark theatre", 
+            "126", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "268", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "271", 
+            "Neutral"
+        ], 
+        [
+            "Jharkhand", 
+            "273", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "ten minutes : 113", 
+        "6:38 pm:129", 
+        "7:01 pm:140"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:256", 
+        "Feb 21 : 258"
+    ], 
+    "death": "16", 
+    "title": "Revealed: How culprits executed Hyderabad bomb blasts", 
+    "det_loc": [
+        "India", 
+        "TELANGANA", 
+        "", 
+        "Hyderabad", 
+        "Dilsukhnagar,Hyderabad"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "View PhotosHyderabad , Feb 23 : Hours within twin bomb blasts in Hyderabad , police seem to have tracked some of the suspects who are allegedly seen in executing the terror plans . . . Closed Circuit Television ( CCTV ) camera footage , which were collected from the traffic signal near the blast site in Dilsukhnagar , captured movements of five men who allegedly had planted explosives at the blast sites . . . According to police sources , a man seems to be in his early 30s was seen reaching near the site on a bi-cycle . A bag was hung on his cycle . The suspect reached the place ten minutes before the first blast at Anand Tiffin Centre in front of Konark theatre at 6:38 pm . The second blast occurred few metres away at 7:01 pm . . . However , the face of the suspects are not clear in the footage , hence the police has sought help of experts , sources said . Meanwhile , the investigating group also announced reward between Rs 2 lakh to Rs 5 lakh to those who will provide any information regarding the suspects . . . Police officials earlier were quoted as saying , `` We are examining the images at the moment . The pictures are not too clear , but we should be able to get something out of it . '' . . Total 16 people were killed and over 100 people were injured in the twin blasts on Thursday , Feb 21 . A team of investigators reportedly would visit Uttar Pradesh , Bihar and Jharkhand soon to nab few other suspects . . . OneIndia News . . .", 
+    "injured": "100", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:15", 
+        "CCTV:40"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/2013/02/23/revealed-how-culprits-executed-hyderabad-bomb-blasts-1157040.html", 
+    "date": "23-02-2013", 
+    "target": "", 
+    "hot_spot": "Hyderabad", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

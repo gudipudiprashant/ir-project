@@ -1,0 +1,131 @@
+{
+    "LOC": [
+        [
+            "Kolkata", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "43", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "Khagragarh", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "67", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "124", 
+            "Event"
+        ], 
+        [
+            "Kolkata", 
+            "131", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "181", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:11", 
+        "Saturday:18"
+    ], 
+    "death": "", 
+    "title": "Burdwan Blast: National Investigation Agency Moves Court For Custody of Accused", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "", 
+        "Burdwan", 
+        "Burdwan"
+    ], 
+    "terror_group": [
+        "JAMIAT-UL-MUJAHIDEEN"
+    ], 
+    "content": "Kolkata : The National Investigation Agency which is probing the October 2 explosion in Burdwan , on Saturday approached a West Bengal court seeking the custody of the accused arrested in the case as well as transfer of the case to a Kolkata court , an official said.Earlier , the West Bengal CID had been probing the blast that occurred in a house in Khagragarh in Burdwan killing two suspected Jamaat-ul-Mujahideen militants and injuring another . Four people including two women have been arrested in this connection . `` The National Investigation Agency or NIA today moved an application seeking custody of the accused that are now in CID custody . The agency has also requested to transfer the case from this -LRB- Burdwan -RRB- court to a court in Kolkata , '' a public prosecutor said.Having filed a first information report under the relevant laws including the Unlawful Activities -LRB- Prevention -RRB- Act -LRB- UAPA -RRB- , an NIA team visited the CID headquarters in the city seeking documents and materials seized during the investigation.An NIA team also visited Burdwan police station in whose jurisdiction the explosion had occurred . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "CID:53", 
+        "CID:109", 
+        "CID:164"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/burdwan-blast-national-investigation-agency-moves-court-for-custody-of-accused-678086", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen", 
+            "71", 
+            "Accused"
+        ], 
+        [
+            "National Investigation Agency", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "160", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "177", 
+            "Others"
+        ], 
+        [
+            "Burdwan police", 
+            "181", 
+            "Others"
+        ]
+    ]
+}

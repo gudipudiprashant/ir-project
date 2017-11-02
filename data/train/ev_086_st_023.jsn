@@ -1,0 +1,224 @@
+{
+    "LOC": [
+        [
+            "Byculla", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Habib Apartments", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "Habib Apartments", 
+            "200", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "220", 
+            "Neutral"
+        ], 
+        [
+            "Madanpura", 
+            "256", 
+            "Source"
+        ], 
+        [
+            "Pakistan", 
+            "288", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "298", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "321", 
+            "Accused"
+        ], 
+        [
+            "Bihar", 
+            "357", 
+            "Source"
+        ], 
+        [
+            "Mumbai", 
+            "395", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "436", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Waqqas", 
+            "126", 
+            "Accused"
+        ], 
+        [
+            "Tabrezwere", 
+            "128", 
+            "Accused"
+        ], 
+        [
+            "Naqi Ahmed", 
+            "135", 
+            "Accused"
+        ], 
+        [
+            "Naqi", 
+            "138", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "191", 
+            "Accused"
+        ], 
+        [
+            "Naqi", 
+            "251", 
+            "Accused"
+        ], 
+        [
+            "Naqi", 
+            "352", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0012", 
+    "DAT": [
+        "January : 146", 
+        "July 13 : 173"
+    ], 
+    "death": "", 
+    "title": "13/7 bombers used 18 SIMs to evade cops", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Mumbai", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "The investigation into the 13/7 triple bombings has revealed that the two Pakistani bombers staying in Byculla 's Habib Apartments used as many as 18 SIM cards and six handsets . The revelation has sent alarm bells ringing in the force . Cops are particularly worried since a survey conducted by them last year had found that four out of 10 SIM cards in use in Mumbai were procured with forged documents , which can be gained for a paltry Rs 5 . Police sources from the Kalachowkie unit of the Anti-Terrorism Squad -LRB- ATS -RRB- told TOI that two suspected 13/7 bomberswho have been identified in court documents as ` A ' and ` B ' , but are believed to be Pakistanis named Waqqas and Tabrezwere provided 18 SIM cards by co-accused Naqi Ahmed . Naqi was first arrested by the ATS in January this year for possessing SIM cards obtained with fake documents . It was during his interrogation in this case that Naqi admitted his role in the July 13 blasts and explained the conspiracy . He also admitted working with Indian Mujahideen 's founder member Yasin Bhatkal to arrange accommodation for the bombers at Habib Apartments . ` We suspected that the bombers changed SIM cards to avoid telephonic surveillance during their stay in Mumbai . We are still collecting the call records of these SIM cards , ' a police officer said on condition of anonymity . The officer explained that a relative of Naqi ran a shop in Madanpura where he sold SIM cards . The cards for the Pakistani bombers were acquired from there after furnishing fake documents . The cards were however never used to make calls to Pakistan . Nor were any calls received on them from Pakistan . ` We are trying to find out if any other SIM was used to speak to family members or handlers in Pakistan , ' the officer said . The bombers also changed six mobile handsets to avoid leaving behind a trail of evidence . The money for the handsets was provided to Naqi by his handlers in Bihar , said a source . The revelation is a security fear come true for the police . Last year , they had found in a survey that about 40 % of the SIM cards in use in Mumbai were procured with forged documents . A subsequent investigation showed that a set of fake documentsincluding a colour photograph , a ration card and a photo identity cardrequired for obtaining a SIM card can be bought in several areas of Mumbai for as little as Rs 5 . For the survey , the police examined documents submitted for 26,450 randomly chosen SIM cards . Out of these , more than 10,000 were found to be forged . Shaken by the findings , the ATS has written to the Telecom Regulatory Authority of India -LRB- TRAI -RRB- , asking for stricter implementation of norms related to verification of documents submitted for getting SIM cards . ` While investigating serious offences , including terror attacks , we found that the accused had used SIM cards issued on bogus documents , ' said a senior ATS officer . ` We have requested TRAI to ensure stricter implementation of norms since this is a matter of national security . ' After the 13/7 blasts , the Bhiwandi police had arrested a man and seized more than 1 lakh SIM cards , all of which had been issued using fake identity documents . The police later said the accused had been selling cards to telephone booth owners , who earned lakhs using these cards . There was , however , no record of the users .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "13/7 triple bombings:5", 
+        "two pakistani bombers:12", 
+        "18 sim cards:25", 
+        "six handsets:29", 
+        "four:58", 
+        "10 sim cards:61", 
+        "forged documents:71", 
+        "kalachowkie unit:88", 
+        "court documents:108", 
+        "fake documents:155", 
+        "interrogation:162", 
+        "conspiracy:179", 
+        "founder member:189", 
+        "call records:227", 
+        "police officer:236", 
+        "pakistani bombers:267", 
+        "bombers:329", 
+        "six mobile handsets:332", 
+        "money:345", 
+        "handlers:355", 
+        "colour photograph:413", 
+        "ration card:417", 
+        "photo identity:421", 
+        "stricter implementation:495", 
+        "verification:501", 
+        "man:573", 
+        "1 lakh sim cards:578", 
+        "identity:591", 
+        "telephone booth:605"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/mumbai/13/7-bombers-used-18-SIMs-to-evade-cops/articleshow/12725194.cms?referral=PM", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorism Squad", 
+            "92", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "TOI", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "144", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "186", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "479", 
+            "Others"
+        ], 
+        [
+            "Telecom Regulatory Authority of India", 
+            "484", 
+            "Others"
+        ], 
+        [
+            "TRAI", 
+            "490", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "538", 
+            "Others"
+        ], 
+        [
+            "TRAI", 
+            "545", 
+            "Others"
+        ], 
+        [
+            "Bhiwandi police", 
+            "568", 
+            "Others"
+        ]
+    ]
+}

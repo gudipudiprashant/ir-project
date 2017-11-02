@@ -1,0 +1,222 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "3", 
+            "Event"
+        ], 
+        [
+            "Junglee Maharaj Road", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "113", 
+            "Neutral"
+        ], 
+        [
+            "Junglee Maharaj Road", 
+            "213", 
+            "Event"
+        ], 
+        [
+            "Balgandharva", 
+            "242", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "286", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "315", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "327", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "366", 
+            "Neutral"
+        ], 
+        [
+            "Jantar Mantar", 
+            "377", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "380", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "406", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "414", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "449", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "451", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "535", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "562", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "RK Singh", 
+            "65", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "85", 
+            "Comment"
+        ], 
+        [
+            "Prithviraj Chavan", 
+            "290", 
+            "Comment"
+        ], 
+        [
+            "Anna Hazare", 
+            "383", 
+            "Others"
+        ], 
+        [
+            "Shinde", 
+            "409", 
+            "Comment"
+        ], 
+        [
+            "Jitender Singh", 
+            "433", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "460", 
+            "Comment"
+        ], 
+        [
+            "David Coleman Headley", 
+            "577", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "evening : 5", 
+        "40 minutes : 15", 
+        "7.37 : 199", 
+        "8.15 pm:201", 
+        "evening : 234"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "February 2010:545"
+    ], 
+    "death": "", 
+    "title": "Four Pune blasts, one injured, on a night when Sushil Shinde was expected", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Pune : Pune this evening saw four low-intensity blasts in a span of nearly 40 minutes on its busy Junglee Maharaj Road in the heart of the city . Two other bombs have been defused by the Anti-Terror Squad . All the bombs were placed within a kilometre . At least one person has been injured . He has been taken into custody.Home Secretary RK Singh told NDTV that the injured person is being treated as suspect and questioned by the police . Mr Singh also said that a terror angle can not be ruled out as it appears to be a planned attack.Sushil Kumar Shinde , who took over today as India 's Home Minister , was scheduled to be in the city tonight to preside over a prize-giving ceremony . He cancelled his plans at the last minute . `` The blasts were of low-intensity . I was supposed to be at the Tilak Theatre , very near to where one of the blasts took place . At this moment , I can not say anything more . It is now a matter of inquiry , '' he told reporters in Delhi.The explosions took place between 7.37 and 8.15 pm during rush hour in the heart of the city on Junglee Maharaj Road , crowded with restaurants , shops and the large Sambhaji Park , popular for family outings in the evening . The blasts took place outside the Balgandharva auditorium used to stage plays , at a statue near that theatre , opposite a McDonalds outlet and near a bank . One of the bombs , placed on a cycle , was hooked up to sophisticated circuitry , say sources . In Mumbai , Chief Minister Prithviraj Chavan called a meeting with senior officials to step up security for the financial capital . `` Two teams from the NIA will reach Pune . Bomb disposal experts also . All experts to come to Pune and find out what device it was and what was the motive . When we know anything more concrete , we will share ... Request people not to panic , '' he said.After the blasts all cities across India are on high alert . A bomb disposal squad swept Jantar Mantar in New Delhi where Anna Hazare and his activists are on a hunger strike , supported by a large crowd . -LRB- Read : High alert in Delhi -RRB- Mr Shinde cancelled his trip to Pune at the last minute to meet with officials in his new assignment at the home ministry , said Jitender Singh , the junior Home Minister . `` Please stay calm ... the government of India and Maharashtra will work towards cracking this , '' Mr Singh said on NDTV . The Anti-Terror Squad is examining CCTV footage from the branch of McDonald 's outside which one of the explosion took place . The police says it has fanned out across the city ; it has urged residents to report any suspicious object and not to touch unclaimed objects . The Army has also sent a bomb disposal squad to the blast site at the request of the local administration . Pune is the Southern Command headquarters of the Indian Army.In February 2010 , 17 people were killed in a bomb blast at the popular German Bakery near Pune 's famous Osho ashram . After being arrested in the US , Lashkar-e-Taiba operative David Coleman Headley confessed to having filmed the bakery to help in the planning and execution of the terror attack . .", 
+    "injured": "1", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Pune", 
+        "Pune"
+    ], 
+    "O": [
+        "NDTV:68", 
+        "police:82", 
+        "Home Minister:115", 
+        "Tilak Theatre:156", 
+        "restaurants:219", 
+        "shops:221", 
+        "Sambhaji Park:225", 
+        "statue:251", 
+        "theatre:254", 
+        "McDonalds:258", 
+        "bank:263", 
+        "cycle:273", 
+        "Chief Minister:288", 
+        "home ministry:429", 
+        "Home Minister:438", 
+        "NDTV:463", 
+        "CCTV:470", 
+        "McDonald:476", 
+        "police:488", 
+        "Army:515", 
+        "Southern Command headquarters:538", 
+        "German Bakery:559", 
+        "Osho ashram:565"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/four-pune-blasts-one-injured-on-a-night-when-sushil-shinde-was-expected-495104", 
+    "date": "02-08-2012", 
+    "target": "", 
+    "hot_spot": "Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terror Squad", 
+            "38", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "312", 
+            "Others"
+        ], 
+        [
+            "government of India", 
+            "447", 
+            "Others"
+        ], 
+        [
+            "Anti-Terror Squad", 
+            "466", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "575", 
+            "Accused"
+        ]
+    ]
+}

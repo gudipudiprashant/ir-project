@@ -1,0 +1,221 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "24", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gateway of India", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Ghatkopar", 
+            "85", 
+            "Neutral"
+        ], 
+        [
+            "Gateway of India", 
+            "135", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "137", 
+            "Neutral"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "144", 
+            "Event"
+        ], 
+        [
+            "Gateway of India", 
+            "396", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohammad Hanif Syed", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "Fehmida", 
+            "43", 
+            "Accused"
+        ], 
+        [
+            "Ashrat Ansari", 
+            "47", 
+            "Accused"
+        ], 
+        [
+            "P R Puranik", 
+            "93", 
+            "Comment"
+        ], 
+        [
+            "Syed", 
+            "121", 
+            "Accused"
+        ], 
+        [
+            "Fehmida", 
+            "123", 
+            "Accused"
+        ], 
+        [
+            "Ansari", 
+            "139", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Ujjwal Nikam", 
+            "149", 
+            "Comment"
+        ], 
+        [
+            "Nikam", 
+            "174", 
+            "Comment"
+        ], 
+        [
+            "Fahmida", 
+            "227", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Ashrat", 
+            "246", 
+            "Comment"
+        ], 
+        [
+            "Nikam", 
+            "274", 
+            "Comment"
+        ], 
+        [
+            "Nikam", 
+            "339", 
+            "Comment"
+        ], 
+        [
+            "Nikam", 
+            "342", 
+            "Comment"
+        ], 
+        [
+            "Fehmida", 
+            "344", 
+            "Accused"
+        ], 
+        [
+            "Ashrat", 
+            "376", 
+            "Accused"
+        ], 
+        [
+            "Hanif", 
+            "389", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Fehmida", 
+            "401", 
+            "Accused"
+        ], 
+        [
+            "Fehmida", 
+            "418", 
+            "Accused"
+        ], 
+        [
+            "Nikam", 
+            "436", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2003:22", 
+        "August 25 , 2003 : 56", 
+        "July 28 , 2003 : 75", 
+        "July 28 , 2003 : 365", 
+        "August 25 , 2003 : 380"
+    ], 
+    "death": "54", 
+    "title": "Death for all three accused in 2003 Mumbai blasts case", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "A special Prevention of Terrorism Act -LRB- POTA -RRB- court has awarded the death sentence to all three accused in the 2003 twin Mumbai blasts at Gateway of India and Zaveri Bazaar . -LRB- Watch -RRB- Mohammad Hanif Syed , his wife Fehmida and third conspirator Ashrat Ansari were convicted for planting the bombs on August 25 , 2003 that left 54 dead and 244 injured . They had also planted a bomb on July 28 , 2003 in a municipal bus in suburban Ghatkopar which killed two persons . The judge P R Puranik hearing the case observed that it had been proved beyond reasonable doubt they had committed heinous acts resulting in numerous deaths , PTI reported . Syed and Fehmida have been found guilty of planting the bomb in taxis at Gateway of India . Ansari delivered the bomb at Zaveri Bazaar . Special prosecutor Ujjwal Nikam has called it a '' rarest of rare '' case in which the trio had '' enjoyed their act of killing '' . Nikam said they had been unhappy with smaller blasts that resulted in low death tolls and hence used RDX for the twin blasts . This is for the first time that a married couple is being convicted by a POTA court for their involvement in carrying out blasts . After the sentencing , Fahmida broke down outside the court while her husband did not react and stood calm by her side . Ashrat said ` Is andhe kanoon se kya insaaf milega -LRB- what justice can you get when the law is blind -RRB- . Commenting on the verdict , Nikam said , ` We are happy that justice has been delivered . This would send a strong message to terrorists that they would get such punishment if they indulged in barbarous acts ' . ` Initially they had planted a bomb in a bus but since few people were killed , they decided to use powerful bombs on the instructions of Laskhar-e-Taiba , ' Nikam said . Nikam said Fehmida had played a major role in these bomb blasts . She not only planted a bomb in a bus on July 28 , 2003 , along with her husband 's friend Ashrat but also on August 25 , 2003 , she and her husband Hanif planted bombs in taxis at the Gateway of India . ` Fehmida had actively participated in the process of selection and approval of location of targets . Though Fehmida was a woman she was equally cruel as other accused in the execution of conspiracy , ' Nikam said .", 
+    "injured": "244", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        " Gateway of india zaveri bazar"
+    ], 
+    "O": [
+        "special prevention:2", 
+        "prevention of terrorism act:3", 
+        "pota:8", 
+        "conspirator:46", 
+        "54 dead:62", 
+        "244 injured:65", 
+        "heinous:111", 
+        "prosecutor:148", 
+        "rdx:192", 
+        "pota court:213", 
+        "sentencing:225", 
+        "justice:258", 
+        "verdict:272", 
+        "punishment:300", 
+        "barbarous acts:305", 
+        "bomb:315", 
+        "location:413", 
+        "execution:431", 
+        "conspiracy:433"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/mumbai/Death-for-all-three-accused-in-2003-Mumbai-blasts-case/articleshow/4862587.cms", 
+    "date": "25-08-2003", 
+    "target": "CITIZENS", 
+    "hot_spot": "", 
+    "delivery_mod": "FOUR WHEELER", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "POTA", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "118", 
+            "Others"
+        ], 
+        [
+            "Laskhar-e-Taiba", 
+            "336", 
+            "Accused"
+        ]
+    ]
+}

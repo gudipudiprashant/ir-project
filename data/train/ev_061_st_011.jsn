@@ -1,0 +1,85 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "NEW DELHI", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Chheh Tuti Chowk", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "Paharganj", 
+            "75", 
+            "Neutral"
+        ], 
+        [
+            "Central Delhi", 
+            "78", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Devesh K. Pandey", 
+            "11", 
+            "Others"
+        ], 
+        [
+            "Ajit Singh", 
+            "107", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "150", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "5-30 p.m.:90"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:82"
+    ], 
+    "death": "", 
+    "title": "Many victims lay writhing in pain", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "Central", 
+        "Delhi", 
+        "Chheh Tuti Chowk"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi Many victims lay writhing in pain . . Devesh K. Pandey . . NEW DELHI : ` Body parts were scattered all over . Two minors were lying in a pool of blood with their faces completely disfigured while several others lay writhing in pain screaming for help , ' said an eyewitness , indicating the magnitude of the human tragedy caused by the powerful explosion at Chheh Tuti Chowk in the Paharganj area of Central Delhi on Black Saturday . . . It all happened around 5-30 p.m. when the area was packed with Diwali shoppers . Like many other local residents , Ajit Singh was sitting in his house when he heard the blast . His three-storey building shook under the impact of the explosion . ' I rushed out and saw people running towards the fruit market . I followed suit , ' said Singh , shocked by what he had seen . ` Two small children were lying unconscious . A portion of the head of one of them lay ripped apart . A woman , probably their mother , also lay nearby . I along with local shopkeepers and three policemen lifted the injured and packed them off in private vehicles to nearby hospitals , ' he said , adding that six people were killed on the spot , one of whom was a ` golgappa-wala ' . . . The intensity of the blast could be gauged from the fact that M.L. Jewellers ' shop , in front of which the bomb exploded , was completely destroyed and those sitting inside , including the shopowner , sustained serious injuries . . . Adjacent to the shop , a medical store was also badly damaged . Hoardings of many shops in the area were torn apart and windowpanes of shops and residential buildings were shattered within a 50-metre diameter .", 
+    "injured": "2", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/10/30/stories/2005103014220300.htm", 
+    "date": "29-10-2005", 
+    "target": "", 
+    "hot_spot": "Chheh Tuti Chowk", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

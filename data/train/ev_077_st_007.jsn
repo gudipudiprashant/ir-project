@@ -1,0 +1,539 @@
+{
+    "LOC": [
+        [
+            "Ahmedabad",
+            "36", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad",
+            "57", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "165", 
+            "Event"
+        ], 
+        [
+            "SIMI",
+            "315", 
+            "Accused"
+        ], 
+        [
+            "BHOPAL/AHMEDABAD", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "4", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "75", 
+            "Accused"
+        ], 
+        [
+            "Karnataka", 
+            "80", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "94", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "103", 
+            "Neutral"
+        ], 
+        [
+            "Rajdhani Express for Delhi", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "125", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "127", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "158", 
+            "Event"
+        ], 
+        [
+            "Batla House", 
+            "174", 
+            "Accused"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "179", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "194", 
+            "Neutral"
+        ], 
+        [
+            "Wadi Taiwada in Vadodara", 
+            "362", 
+            "Neutral"
+        ], 
+        [
+            "Wadi Taiwada", 
+            "362", 
+            "Neutral"
+        ], 
+        [
+            "Vadodara", 
+            "365", 
+            "Neutral"
+        ], 
+        [
+            "Vadodara", 
+            "368", 
+            "Neutral"
+        ], 
+        [
+            "Batla House", 
+            "399", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "405", 
+            "Event"
+        ], 
+        [
+            "Batla House", 
+            "424", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "428", 
+            "Event"
+        ], 
+        [
+            "Kapadia", 
+            "431", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "447", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "498", 
+            "Victim"
+        ], 
+        [
+            "Ahmedabad", 
+            "528", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat police", 
+            "530", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "530", 
+            "Neutral"
+        ], 
+        [
+            "Kapadia", 
+            "536", 
+            "Neutral"
+        ], 
+        [
+            "Kapadia", 
+            "549", 
+            "Neutral"
+        ], 
+        [
+            "Surat.Joint", 
+            "564", 
+            "Accused"
+        ], 
+        [
+            "Kapadia", 
+            "585", 
+            "Neutral"
+        ], 
+        [
+            "Kapadia", 
+            "632", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kapadia", 
+            "51", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "blasts.Atif", 
+            "95", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Qayamuddin Kapadia", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "Abdul Subhan Qureshi", 
+            "69", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Tauqeer", 
+            "73", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Riaz Bhatkal", 
+            "77", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Atif", 
+            "89", 
+            "Accused"
+        ], 
+        [
+            "Kapadia", 
+            "106", 
+            "Accused"
+        ], 
+        [
+            "Atif", 
+            "112", 
+            "Accused"
+        ], 
+        [
+            "Atifs", 
+            "148", 
+            "Accused"
+        ], 
+        [
+            "Kapadia", 
+            "167", 
+            "Accused"
+        ], 
+        [
+            "DIG Pawan Shrivastava", 
+            "183", 
+            "Others"
+        ], 
+        [
+            "Pawan Shrivastava", 
+            "184", 
+            "Others"
+        ], 
+        [
+            "Kapadias", 
+            "252", 
+            "Others"
+        ], 
+        [
+            "Atif", 
+            "260", 
+            "Accused"
+        ], 
+        [
+            "Tauqeer", 
+            "300", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "307", 
+            "Others"
+        ], 
+        [
+            "net.Kapadia", 
+            "336", 
+            "Accused"
+        ], 
+        [
+            "Qayamuddin Kapadia", 
+            "347", 
+            "Accused"
+        ], 
+        [
+            "Moosa", 
+            "350", 
+            "Accused"
+        ], 
+        [
+            "Ashwaq", 
+            "352", 
+            "Accused"
+        ], 
+        [
+            "Abdul Qadir", 
+            "354", 
+            "Accused"
+        ], 
+        [
+            "Rizwan", 
+            "357", 
+            "Accused"
+        ], 
+        [
+            "Shrivastava", 
+            "390", 
+            "Others"
+        ], 
+        [
+            "R I Asari", 
+            "513", 
+            "Others"
+        ], 
+        [
+            "R", 
+            "513", 
+            "Others"
+        ], 
+        [
+            "Asari", 
+            "515", 
+            "Others"
+        ], 
+        [
+            "Ashish Bhatia", 
+            "572", 
+            "Others"
+        ], 
+        [
+            "Tauqeer", 
+            "597", 
+            "Accused"
+        ], 
+        [
+            "Ahmedabad and Surat.Kapadia", 
+            "608", 
+            "Others"
+        ], 
+        [
+            "Surat.Kapadia", 
+            "610", 
+            "Others"
+        ], 
+        [
+            "Safdar Nagori", 
+            "627", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:10", 
+        "Sunday night:10", 
+        "July:45", 
+        "July 26:45", 
+        "September 13:200", 
+        "September:200", 
+        "Monday morning:492", 
+        "Monday:492", 
+        "Monday morning:492"
+    ], 
+    "death": "57", 
+    "title": "Ahmedabad blasts plotter held in MP", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "BHOPAL/AHMEDABAD : The Madhya Pradesh Anti-Terror Squad late on Sunday night arrested Qayamuddin Kapadia , a top-ranking jehadi belonging to the outlawed SIMI and a key conspirator and executor of the 19 serial blasts in Ahmedabad which killed 57 and injured over 200 on July 26 . Police claimed that Kapadia admitted his involvement in the Ahmedabad blasts , as also that he along with fellow jehadis , Abdul Subhan Qureshi alias Tauqeer of Mumbai and Riaz Bhatkal of Karnataka , collaborated with the SIMI cell led by Atif to carry out the Delhi blasts.Atif was later killed in an encounter with Delhi Police . Kapadia aka KP , who knew Atif only by the latters code name , boarded the Rajdhani Express for Delhi from Ahmedabad just before the explosives they had planted in Gujarats biggest city went off.He even stayed in the L-18 apartment , Atifs hideout in New Delhis Batla House , after the Ahmedabad blasts . After the blasts in Ahmedabad , Kapadia had spent a few nights at Batla House , chief of Madhya Pradesh ATS , DIG Pawan Shrivastava told TOI . He was also spotted in Delhi before the serial blasts on September 13 . The arrest after a massive manhunt is important for several reasons . It strengthens the governments case against the outlawed SIMI , while validating the assumption of cops that Indian Mujahideen was just a badge that SIMI activists embraced for tactical reasons.While he is sure to recant later , Kapadias statement to cops marks another confirmation of Atif allegedly being a hardcore jehadi rather than a simple student of Jamia Millia as many have continued to maintain . His arrest , besides helping to add valuable inputs to the already thick dossier cops have on the absconding Tauqeer whom he was close to and Bhatkal , also marks a serious blow to SIMI which has , over the past couple of months , seen many of its top operatives falling in the police net.Kapadia has nearly half-a-dozen names . The police registered him as Qayamuddin Kapadia alias Moosa alias Ashwaq alias Abdul Qadir alias Rizwan , a resident of Wadi Taiwada in Vadodara . In Vadodara , he and his brother were running a DTP business and doing well . His father is an imam there , Shrivastava said . He identified all those in the Batla House and accused in the New Delhi blasts . He told us that he knew them personally and was hiding in that flat in Batla House after the Ahmedabad blasts . Kapadia had , in a cold blooded manner , filmed the blast at Civil Hospital in Ahmedabad that day , which saw the maximum casualty of 32 . This clip was later posted in an email by the Indian Mujahideen sent to media houses.He had hand-picked the terror operatives and also helped procure the cycles used to plant bombs . On Monday morning , MP police informed Ahmedabad crime branch about Kapadias arrest , whose team under assistant commissioner of police , R I Asari rushed to get his custody.In the aftermath of the serial blasts in Ahmedabad , Gujarat police had issued warrant against Kapadia and the other absconders to all police stations across the country . Kapadia is also suspected to have played a role in planting the 29 bombs in Surat.Joint commissioner of police , crime branch , Ashish Bhatia said , This is a very important arrest for us . Kapadia is not only part of the terror conspiracy , along with Tauqeer , but also the executioner of the terror plan for Ahmedabad and Surat.Kapadia had escaped during the MP police crackdown on a SIMI hideout when 13 SIMI activists including Safdar Nagori were arrested . Kapadia has been attached to the SIMI for five years . Police added that he is a high-school graduate .", 
+    "injured": "200", 
+    "org_unorg": "", 
+    "O": [
+        "anti-terror squad:6", 
+        "jehadi:18", 
+        "simi:23", 
+        "conspirator:27", 
+        "executor:29", 
+        "serial:33", 
+        "ahmedabad:36", 
+        "ahmedabad blasts:57", 
+        "jehadis:67", 
+        "simi:85", 
+        "cell:86", 
+        "atif:89", 
+        "delhi blasts.atif:94", 
+        "blasts.atif:95", 
+        "kapadia:106", 
+        "kp:108", 
+        "atif:112", 
+        "name:118", 
+        "rajdhani express:122", 
+        "gujarats:136", 
+        "city:138", 
+        "off.he:140", 
+        "l-18 apartment:145", 
+        "atifs hideout:148", 
+        "atifs:148", 
+        "hideout:149", 
+        "ahmedabad:158", 
+        "ahmedabad blasts:158", 
+        "chief:177", 
+        "toi:187", 
+        "arrest:204", 
+        "manhunt:208", 
+        "case:219", 
+        "simi:223", 
+        "assumption:228", 
+        "badge:237", 
+        "simi activists:239", 
+        "simi:239", 
+        "reasons.while:244", 
+        "statement:253", 
+        "confirmation:258", 
+        "atif:260", 
+        "hardcore jehadi:264", 
+        "student:270", 
+        "arrest:282", 
+        "dossier:294", 
+        "tauqeer:300", 
+        "blow:313", 
+        "simi:315", 
+        "couple:322", 
+        "police net.kapadia:335", 
+        "police:343", 
+        "resident:360", 
+        "brother:373", 
+        "dtp business:377", 
+        "father:384", 
+        "imam:387", 
+        "ahmedabad:428", 
+        "ahmedabad blasts:428", 
+        "manner:438", 
+        "blast:442", 
+        "hospital:445", 
+        "day:449", 
+        "maximum casualty:454", 
+        "mp police:495", 
+        "ahmedabad crime branch:498", 
+        "ahmedabad:498", 
+        "crime branch:499", 
+        "arrest:503", 
+        "team:506", 
+        "assistant commissioner:508", 
+        "police:511", 
+        "custody.in:520", 
+        "aftermath:522", 
+        "serial:525", 
+        "warrant:534", 
+        "country:547", 
+        "role:557", 
+        "surat.joint commissioner:564", 
+        "crime branch:569", 
+        "terror conspiracy:592", 
+        "tauqeer:597", 
+        "executioner:602", 
+        "terror plan:605", 
+        "ahmedabad:608", 
+        "mp police crackdown:615", 
+        "simi hideout:620", 
+        "simi:620", 
+        "simi:624", 
+        "simi:638", 
+        "high-school graduate:649"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Ahmedabad-blasts-plotter-held-in-MP/articleshow/3697294.cms?referral=PM", 
+    "date": "26-07-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "SIMI", 
+            "23", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "85", 
+            "Accused"
+        ], 
+        [
+            "New Delhis Batla House", 
+            "151", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "223", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "232", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "239", 
+            "Accused"
+        ], 
+        [
+            "Jamia Millia", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "469", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "620", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "624", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "638", 
+            "Accused"
+        ]
+    ]
+}

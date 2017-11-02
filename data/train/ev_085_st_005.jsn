@@ -1,0 +1,245 @@
+{
+    "LOC": [
+        [
+            "Varanasi", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Sheetla Ghat", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Dasashwamedh Ghat", 
+            "82", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "391", 
+            "Event"
+        ], 
+        [
+            "Sheetla Ghat", 
+            "398", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mayawati", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Mayawati", 
+            "146", 
+            "Others"
+        ], 
+        [
+            "Shashank Shekhar Singh", 
+            "306", 
+            "Comment"
+        ], 
+        [
+            "Mayawati", 
+            "318", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "366", 
+            "Comment"
+        ], 
+        [
+            "Mayawati", 
+            "376", 
+            "Others"
+        ], 
+        [
+            "Chidambaram", 
+            "387", 
+            "Others"
+        ], 
+        [
+            "Chidambaram", 
+            "420", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "462", 
+            "Comment"
+        ], 
+        [
+            "Mayawati", 
+            "465", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "day : 2", 
+        "5 p.m.:249", 
+        "p.m.:250", 
+        "6 p.m.:257", 
+        "hours : 381"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:36", 
+        "February 25 , 2010 : 67", 
+        "26/11 : 123", 
+        "Tuesday:244", 
+        "February 2010:435", 
+        "Wednesday:472"
+    ], 
+    "death": "", 
+    "title": "Now blame game begins over Varanasi blast", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "A day after the bomb blast at Varanasi 's Sheetla Ghat , Uttar Pradesh Chief Minister Mayawati in a move aimed at giving a clean chit to the State intelligence and security agencies said on Wednesday that no specific actionable intelligence input had been received -LSB- from the Centre -RSB- regarding the bomb blast . . . A fax was received by the State government on February 25 , 2010 , pertaining to the possibility of a terror attack on the Dasashwamedh Ghat in Varanasi during the Dussehra festival . This certainly can not be taken as a specific actionable intelligence input , she said . . . The Chief Minister said general alerts were sounded pertaining to the anniversaries of the 26/11 attacks and the Babri Masjid demolition , but these could not be taken as specific actionable intelligence inputs . . . Ms. Mayawati accused the Centre of lacking the will to contain terrorism , which , she said , had assumed the form of a national problem . The ultras are taking advantage of the Central government 's weakness , she said , adding that until the country 's borders are secure , terrorism can not be eliminated . . . On alleged security failure by the State agencies being the reason for the Indian Mujahideen -LRB- IM -RRB- planting an explosive device at Sheetla Ghat , Ms. Mayawati said that as per normal practice the ghats were sanitised on Tuesday by the police by 5 p.m. before the Ganga aarti began at 6 p.m. . Since the aarti drew large crowds , it was not possible to stop everyone from entering the ghat . After the ghat was sanitised , the responsibility was handed over to the priests . . . No lapses were committed by the police , Cabinet Secretary Shashank Shekhar Singh said at a press conference on behalf of Ms. Mayawati . He added that the police were present when the Ganga aarti was being performed , but not in the midst of the ritual . . . However , how the IM operatives managed to plant the explosive device despite police presence was left unexplained . Mr. Singh said probe was under way . . . Ms. Mayawati 's reaction came within hours of Union Home Minister P. Chidambaram 's visit to Varanasi . . . After visiting the Sheetla Ghat and the Sir Sunderlal Hospital in Banaras Hindu University -LRB- BHU -RRB- , where he met the injured , Mr. Chidambaram told journalists that a specific advisory had been sent to the State Government in February 2010 about ultras planning to attack the ghat . He added that the first responsibility of providing security lay with the State . . . Mr. Singh said Ms. Mayawati wrote to the Prime Minister on Wednesday demanding 125 companies of Central para-military forces .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "bomb blast:5", 
+        "Uttar Pradesh Chief Minister Mayawati:13", 
+        "clean chit:25", 
+        "no specific actionable intelligence:38", 
+        "received:45", 
+        "Centre:49", 
+        "bomb blast:53", 
+        "fax:59", 
+        "received:61", 
+        "terror attack:78", 
+        "Dussehra festival:88", 
+        "actionable intelligence input:100", 
+        "general alerts:113", 
+        "anniversaries:120", 
+        "attacks:124", 
+        "Babri Masjid demolition:127", 
+        "specific actionable intelligence inputs:138", 
+        "accused:147", 
+        "Centre:149", 
+        "lacking:151", 
+        "will:153", 
+        "terrorism:156", 
+        "assumed:164", 
+        "national problem:169", 
+        "ultras:173", 
+        "advantage:176", 
+        "Central government 's weakness:179", 
+        "borders:193", 
+        "secure:195", 
+        "terrorism:197", 
+        "eliminated:201", 
+        "security failure:207", 
+        "large crowds:264", 
+        "ghat:277", 
+        "ghat:281", 
+        "sanitised:283", 
+        "priests:292", 
+        "No lapses:296", 
+        "committed:299", 
+        "press conference:312", 
+        "Ganga aarti:329", 
+        "midst:339", 
+        "ritual:342", 
+        "operatives:351", 
+        "managed:352", 
+        "explosive device:356", 
+        "unexplained:363", 
+        "reaction:378", 
+        "injured:417", 
+        "journalists:422", 
+        "specific advisory:425", 
+        "ultras planning:438", 
+        "attack:441", 
+        "ghat:443", 
+        "first responsibility:449", 
+        "security:453", 
+        "State:457", 
+        "wrote:466", 
+        "demanding:473", 
+        "125 companies:474", 
+        "Central para-military forces:477"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "RELIGIOUS FESTIVAL", 
+    "link": "http://www.thehindu.com/todays-paper/now-blame-game-begins-over-varanasi-blast/article940787.ece", 
+    "date": "08-12-2010", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "State intelligence and security agencies", 
+            "29", 
+            "Others"
+        ], 
+        [
+            "State government", 
+            "64", 
+            "Others"
+        ], 
+        [
+            "Central government", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "State agencies", 
+            "211", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "218", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "221", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "350", 
+            "Accused"
+        ], 
+        [
+            "Sir Sunderlal Hospital", 
+            "402", 
+            "Others"
+        ], 
+        [
+            "Banaras Hindu University", 
+            "406", 
+            "Others"
+        ], 
+        [
+            "BHU", 
+            "410", 
+            "Others"
+        ]
+    ]
+}

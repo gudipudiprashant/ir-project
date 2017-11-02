@@ -1,0 +1,184 @@
+{
+    "LOC": [
+        [
+            "LUCKNOW", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Gorakhpur", 
+            "54", 
+            "Neutral"
+        ], 
+        [
+            "Gorakhpur", 
+            "74", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "264", 
+            "Neutral"
+        ], 
+        [
+            "Faizabad", 
+            "289", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Atiq Khan", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "K. Chandramouli", 
+            "63", 
+            "Comment"
+        ], 
+        [
+            "Chandramouli", 
+            "110", 
+            "Comment"
+        ], 
+        [
+            "Guddu Chaubey", 
+            "173", 
+            "Victim"
+        ], 
+        [
+            "Rajesh Sharma", 
+            "176", 
+            "Victim"
+        ], 
+        [
+            "Sanjay Rai", 
+            "179", 
+            "Victim"
+        ], 
+        [
+            "Santosh Singh", 
+            "182", 
+            "Victim"
+        ], 
+        [
+            "Rameshwar Patel", 
+            "185", 
+            "Victim"
+        ], 
+        [
+            "Vivek Yadav", 
+            "188", 
+            "Victim"
+        ], 
+        [
+            "Chandramouli", 
+            "200", 
+            "Comment"
+        ], 
+        [
+            "Chandramouli", 
+            "256", 
+            "Comment"
+        ], 
+        [
+            "Chandramouli", 
+            "296", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 48", 
+        "Wednesday : 69", 
+        "Tuesday : 169", 
+        "Wednesday : 293"
+    ], 
+    "death": "", 
+    "title": "Use of RDX ruled out in Gorakhpur blasts", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Gorakpur", 
+        "Gorakpur", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Atiq Khan . . Ammonium nitrate may have been used in crude bombs . . Police trying to trace shops where cycles were bought No proof to suggest timer device was used . . LUCKNOW : The investigating agencies have ruled out the use of RDX in Tuesday 's serial bomb blasts in Gorakhpur . . . Principal Secretary -LRB- Home -RRB- K. Chandramouli told newspersons here on Wednesday after his return from Gorakhpur that the blasts were caused by low intensity bombs kept in tiffin boxes attached to three new cycles . He said ammonium nitrate might have been used in the crude bombs . . . Mr. Chandramouli said the cycles were bought from different shops . The police had traced one shop and efforts were on to trace the others . The identification of the shops is expected to give crucial leads . . . He said six persons sustained minor injuries in the blasts and were discharged from hospital after receiving first aid on Tuesday . They were Guddu Chaubey , Rajesh Sharma , Sanjay Rai , Santosh Singh , Rameshwar Patel and Vivek Yadav . . . On those behind the blasts , Mr. Chandramouli said no conclusion could be drawn as the investigations were in the preliminary stage . . . The crude bombs were battery-charged and there was no proof to suggest whether a timer device was used as trigger . One bomb was kept near a petrol pump and two near a transformer . . . Mr. Chandramouli said the Special Task Force of the Uttar Pradesh police was looking into the case . . . The Government Railway Police recovered an abandoned bag from the waiting room of the Faizabad railway station on Wednesday . Mr. Chandramouli said it contained ammonium nitrate used for making crackers . Investigations are on .", 
+    "injured": "6", 
+    "org_unorg": "", 
+    "O": [
+        "ammonium nitrate:5", 
+        "crude bombs:12", 
+        "trace shops:19", 
+        "cycles:22", 
+        "no proof:25", 
+        "timer device:29", 
+        "investigating agencies:38", 
+        "rdx:46", 
+        "serial bomb blasts:50", 
+        "blasts:77", 
+        "low intensity bombs:81", 
+        "tiffin boxes:86", 
+        "ammonium nitrate:96", 
+        "crude bombs:104", 
+        "cycles:113", 
+        "shops:118", 
+        "crucial leads:144", 
+        "sustained:153", 
+        "minor injuries:154", 
+        "blasts:158", 
+        "discharged:161", 
+        "hospital:163", 
+        "first aid:166", 
+        "blasts:197", 
+        "investigations:209", 
+        "preliminary stage:213", 
+        "crude bombs:219", 
+        "battery-charged:222", 
+        "timer device:232", 
+        "trigger:237", 
+        "one bomb:239", 
+        "petrol pump:245", 
+        "transformer:251", 
+        "abandoned bag:281", 
+        "railway station:290", 
+        "ammonium nitrate:300", 
+        "crackers:305", 
+        "investigations:307"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/use-of-rdx-ruled-out-in-gorakhpur-blasts/article1846632.ece", 
+    "date": "22-05-2007", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "TIFFIN BOX", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "Special Task Force", 
+            "259", 
+            "Others"
+        ], 
+        [
+            "Uttar Pradesh police", 
+            "264", 
+            "Others"
+        ], 
+        [
+            "Government Railway Police", 
+            "276", 
+            "Others"
+        ]
+    ]
+}

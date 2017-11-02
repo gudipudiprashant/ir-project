@@ -1,0 +1,96 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Barpeta", 
+            "62", 
+            "Victim"
+        ], 
+        [
+            "Assam", 
+            "65", 
+            "Victim"
+        ]
+    ], 
+    "PER": [
+        [
+            "Devan Soram", 
+            "36", 
+            "Others"
+        ], 
+        [
+            "Kurab Boro", 
+            "56", 
+            "Victim"
+        ], 
+        [
+            "Arun Boro", 
+            "59", 
+            "Victim"
+        ], 
+        [
+            "Modhu Soibam", 
+            "70", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday evening:26"
+    ], 
+    "death": "", 
+    "title": "3 injured seriously in bomb blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Three labourers , including two migrants from Assam , were seriously wounded when a bomb was detonated in the storeroom where they were working on Thursday evening . They were employed by a trader , Devan Soram , who deals in scrap . . . Police sources said when the remote-controlled bomb was detonated , Kurab Boro and Arun Boro from Barpeta district of Assam and a local labourer Modhu Soibam were seriously wounded by the shrapnel . They are battling for their lives in hospital . No underground organisation has claimed responsibility for the blast . Police have registered a case .", 
+    "injured": "3", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Barpeta", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Three labourers:1", 
+        "two migrants:5", 
+        "seriously wounded:11", 
+        "bomb:15", 
+        "detonated:17", 
+        "storeroom:20", 
+        "employed:31", 
+        "trader:34", 
+        "deals:40", 
+        "scrap:42", 
+        "remote-controlled bomb:51", 
+        "detonated:54", 
+        "local labourer:68", 
+        "seriously wounded:73", 
+        "shrapnel:77", 
+        "battling:81", 
+        "hospital:86", 
+        "blast:96", 
+        "registered:100"
+    ], 
+    "unexpl": [
+        "SHRAPNEL"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/3-injured-seriously-in-bomb-blast/article6202901.ece", 
+    "date": "10-07-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "REMOTE CONTROL DEVICE", 
+    "delivery_met": "STORED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

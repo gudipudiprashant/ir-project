@@ -1,0 +1,589 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "2", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "90", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazar", 
+            "163", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "241", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "246", 
+            "Event"
+        ], 
+        [
+            "Ghatkopar", 
+            "299", 
+            "Assoc_Event"
+        ], 
+        [
+            "SEEPZ", 
+            "362", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "431", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "469", 
+            "Event"
+        ], 
+        [
+            "Ghatkopar", 
+            "587", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ghatkopar", 
+            "597", 
+            "Assoc_Event"
+        ], 
+        [
+            "India", 
+            "698", 
+            "Event"
+        ], 
+        [
+            "Dubai", 
+            "773", 
+            "Accused"
+        ], 
+        [
+            "Gujarat", 
+            "788", 
+            "Assoc_Event"
+        ], 
+        [
+            "Dubai", 
+            "797", 
+            "Accused"
+        ], 
+        [
+            "India", 
+            "801", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "821", 
+            "Event"
+        ], 
+        [
+            "Dubai", 
+            "882", 
+            "Accused"
+        ], 
+        [
+            "Saudi Arabia", 
+            "895", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "907", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "983", 
+            "Assoc_Event"
+        ], 
+        [
+            "Surat", 
+            "1000", 
+            "Accused"
+        ], 
+        [
+            "Gujarat", 
+            "1003", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gujarat", 
+            "1012", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "1015", 
+            "Assoc_Event"
+        ], 
+        [
+            "Vadodara", 
+            "1017", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gujarat", 
+            "1020", 
+            "Assoc_Event"
+        ], 
+        [
+            "Surat", 
+            "1022", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "1053", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "1063", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gujarat", 
+            "1076", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "1082", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "1101", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gujarat", 
+            "1110", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gujarat", 
+            "1134", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gujarat", 
+            "1142", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gujarat", 
+            "1189", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gujarat", 
+            "1215", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ghatkopar", 
+            "1229", 
+            "Assoc_Event"
+        ], 
+        [
+            "Zaveri Bazar", 
+            "1231", 
+            "Event"
+        ], 
+        [
+            "Gateway of India", 
+            "1235", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "1237", 
+            "Event"
+        ], 
+        [
+            "Ghatkopar", 
+            "1262", 
+            "Event"
+        ], 
+        [
+            "Andheri East", 
+            "1270", 
+            "Accused"
+        ], 
+        [
+            "Ghatkopar", 
+            "1297", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazar", 
+            "1300", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "1305", 
+            "Event"
+        ], 
+        [
+            "Andheri West", 
+            "1352", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "1356", 
+            "Event"
+        ], 
+        [
+            "Andheri East", 
+            "1361", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "1365", 
+            "Event"
+        ], 
+        [
+            "Chandigarh", 
+            "1447", 
+            "Neutral"
+        ], 
+        [
+            "Mangalore", 
+            "1469", 
+            "Accused"
+        ], 
+        [
+            "India", 
+            "1473", 
+            "Event"
+        ], 
+        [
+            "Bars Bareily", 
+            "1480", 
+            "Accused"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "1484", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Syed Mohammad Hanif", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "Syed Fahmida Mohammand Hanif", 
+            "42", 
+            "Accused"
+        ], 
+        [
+            "Syed Farheen Mohammad Hanif", 
+            "51", 
+            "Accused"
+        ], 
+        [
+            "Hanif", 
+            "67", 
+            "Accused"
+        ], 
+        [
+            "Shivnarayan Pande", 
+            "129", 
+            "Victim"
+        ], 
+        [
+            "Arshad Shafique Mohammad Ansari", 
+            "147", 
+            "Accused"
+        ], 
+        [
+            "Hanif", 
+            "288", 
+            "Accused"
+        ], 
+        [
+            "Arshad", 
+            "329", 
+            "Accused"
+        ], 
+        [
+            "Farheen", 
+            "331", 
+            "Accused"
+        ], 
+        [
+            "R S Sharma", 
+            "434", 
+            "Comment"
+        ], 
+        [
+            "Hanif", 
+            "458", 
+            "Accused"
+        ], 
+        [
+            "Chhagan Bhujbal", 
+            "473", 
+            "Comment"
+        ], 
+        [
+            "Bhujbal", 
+            "703", 
+            "Comment"
+        ], 
+        [
+            "Hanif", 
+            "752", 
+            "Accused"
+        ], 
+        [
+            "Hanif", 
+            "823", 
+            "Accused"
+        ], 
+        [
+            "Ashraf", 
+            "825", 
+            "Accused"
+        ], 
+        [
+            "Hanif", 
+            "837", 
+            "Accused"
+        ], 
+        [
+            "ASHRAF", 
+            "962", 
+            "Accused"
+        ], 
+        [
+            "Ashraf", 
+            "1031", 
+            "Accused"
+        ], 
+        [
+            "Ashraf", 
+            "1049", 
+            "Accused"
+        ], 
+        [
+            "Bhujbal", 
+            "1204", 
+            "Comment"
+        ], 
+        [
+            "Hanif", 
+            "1350", 
+            "Accused"
+        ], 
+        [
+            "Dr Satyapal Singh", 
+            "1428", 
+            "Comment"
+        ], 
+        [
+            "Hanif", 
+            "1464", 
+            "Accused"
+        ], 
+        [
+            "Arshad", 
+            "1476", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:5", 
+        "August 25:11", 
+        "August:11", 
+        "2003:14", 
+        "July 28:301", 
+        "2003:304", 
+        "September 14:803", 
+        "September:803", 
+        "2002:806", 
+        "2002:987"
+    ], 
+    "death": "", 
+    "title": "Mumbai twin blasts case solved: Police", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "Gateway of India, Zaberi Bazaar"
+    ], 
+    "terror_group": [
+        "HANIF GROUP"
+    ], 
+    "content": "The Mumbai Police on Friday claimed to have cracked the August 25 , 2003 twin blasts case with the arrest of four persons . The arrested include three persons from one family -- Syed Mohammad Hanif , 42 ; his wife Syed Fahmida Mohammand Hanif , 36 ; and daughter Syed Farheen Mohammad Hanif , 18 . . . . . These three , along with Hanif 's three-year-old daughter , had hired the taxi that was blown up at the Gateway of India . Complete coverage of the Mumbai blastsThe police have handed over the three-year-old daughter to her grandmother . It was the description provided bythe taxi driver , who survived the blast , that helped the police find the suspects . The taxi driver , Shivnarayan Pande , is now being provided police protection . . . . . The fourth arrested , Arshad Shafique Mohammad Ansari , 27 , had hired the second taxi that blew up at Zaveri Bazar , killing the driver . . . . . The police are still on the lookout for two more suspects and are confident of picking them up soon . . . . . . . . . . . . . . . . . . . Also Read . . . . . . . . . . . . . . . . . . . . . . . . Four arrested in Mumbai blasts case'Police intelligence in Mumbai is very poor '' The sound of the bomb still haunts me '45 minutes before the blasts , a warning ` There was no intelligence failure ' . . Incidentally , this outfit , which the police have termed as the Hanif group , was also responsible for the bomb blast at Ghatkopar on July 28 , 2003 , when a bomb was placed below the back seat of a bus , route number 340 . Then , the police said , Arshad and Farheen had boarded the bus and placed the bomb below the seat . . . . . . . This same outfit had also attempted to carry out a blast at SEEPZ -LRB- Santa Cruz Electronics Export Processing Zone -RRB- last year , but the explosive device failed . . . . . With the arrests , the police are clearly heaving a sigh of relief and are proud of having cracked the case in a week 's time . The media turned up in huge numbers when the police called the press conference , held in the office of Mumbai Police Commissioner R S Sharma . Displayed on his huge table were gelatin sticks , alarm clocks , binding tape andshrapnel , all used by the Hanif group to make their bombs . . . . . Maharashtra Deputy Chief Minister Chhagan Bhujbal announced the arrests of the four suspects , and praised the police Crime Branch for their success . Crime Branch Unit 11 and Unit 9 were mainly responsible for cracking the case . . . . . Said a senior police officer , ` We arrested them a couple of days ago , but we made sure that they were the right people before calling this press conference , ' he said , and added testily , ` Otherwise , the media will be the first to castigate us . ' . . . . Asked if it did not amount to intelligence failure that this group was not arrested after the Ghatkopar blast , he said the reason was that after Ghatkopar , there was just no description of the couple who had boarded the bus . ` The police also need some clues when looking for people . This time , we were lucky to get a good description from the taxi driver and our men did the rest of the work , ' he said . . . . . THE arrests and interrogation of the four culprits has thrown light and revealed the politicised statements made earlier . The four arrested have no connection with any local outfit . When specifically asked whether SIMI -LRB- Students Muslim Organization of India -RRB- was involved , Bhujbal said , ` No . ' Then he added , ` So far . ' . . . . But while the involvement of local jihadi groups is being ruled out , the police were categorical in bringing to light the international links . They pointed out that Hanif , who is clearly the mastermind and key agent of the blast , was employed at the Hilton Hotel in Dubai as an electrician . . . . . The police said that after the Gujarat riots , he was ` indoctrinated ' in Dubai and returned to India on September 14 , 2002 , with the intention of carrying out terrorist acts . On his return to India , Hanif contacted Ashraf and the duo began carrying out the explosions , supported by Hanif 's wife and grown-up daughter . . . . . When asked who indoctrinated him , the police were unwilling to give a name or even a hint . But the aforementioned officer said that as per their information , they believe that the Dubai centre that ` indoctrinated ' Hanif received instructions from an outfit in Saudi Arabia , which in turn was commanded by an outfit in Pakistan . . . . . This officer said the involvement of the Lashkar-e-Tayiba was not ruled out , just that it was more roundabout . . . . . But what stands punctured is the so-called link between the Lashkar and SIMI , a link that had political overtones . . . . . ASHRAF told the police that they had formed the Gujarat Muslim Revenge Force to avenge the killings of Muslim during the Gujarat riots of early 2002 . Ashraf is a zari -LRB- embroidery -RRB- worker , based in Surat , southern Gujarat . . . . . But while the Gujarat riots affected Ahmedabad , Vadodara and central Gujarat , Surat was peaceful . So on what basis did Ashraf claim to be affected ? . . . . A second senior officer told rediff.com that when Ashraf was questioned why Mumbai is being targeted if the motive is revenge for Gujarat , he apparently replied , ` Because the rich supporters of the Gujarat government are all based in Mumbai . ' . . . . But a third senior police officer said in the final analysis , Gujarat was merely the fig leaf cover . ` Gujarat today is being blamed for everything , ' he said , ` It is too simple to assume that the only motive is Gujarat . It is like saying that if Gujarat did not happen then these blasts would not take place . But we know that would not be the case . These blasts are going to occur because the motive is far bigger . ' . . . . There has been the perception that the Gujarat revenge motive is being played to the hilt . When the blast occurred , Bhujbal 's first reaction then was to blame the blasts on Gujarat . Reason : all the blasts had occurred in Gujarati-dominated areas such as Ghatkopar and Zaveri Bazar . The Gateway of India is an international symbol and a favourite tourist spot . . . . . But as the police revealed , the explosive for the Ghatkopar blast was placed inside the bus at Andheri East , from where the bus begins its run , and timed to explode later . It was just a coincidence that it happened to be Ghatkopar . And Zaveri Bazar is one of Mumbai 's most important commercial areas , and an extremely congested and busy area , where it is easy to slip in and out without anyone noticing . . . . . The police also said that the explosives were prepared at the residences of Hanif in Andheri West -LRB- northwestern Mumbai -RRB- and Ashraf in Andheri East -LRB- northwestern Mumbai -RRB- . The two , who lived in poor tenements , made the explosives from gelatin sticks that are available locally since gelatin is used for quarrying and other controlled blasts . . . . . There is as yet no indication that RDX was used . . . . . Asked about the use of RDX , Joint Commissioner of Police Dr Satyapal Singh said the police are still awaiting the report from the Central Forensic Laboratory of India , Chandigarh , and which would be considered final . . . . . The police said that Hanif originally hails from the Mangalore region -LRB- southwestern India -RRB- while Arshad hails from the Bars Bareily district in Uttar Pradesh . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Mumbai Police:2", 
+        "arrested:26", 
+        "family:32", 
+        "taxi:75", 
+        "blown up:78", 
+        "Gateway of India:82", 
+        "taxi driver:126", 
+        "police protection:136", 
+        "fourth arrested:144", 
+        "Hanif group:288", 
+        "bomb blast:296", 
+        "Ghatkopar:299", 
+        "cracked the case:402", 
+        "media:412", 
+        "huge numbers:416", 
+        "press conference:423", 
+        "gelatin sticks:444", 
+        "alarm clocks:447", 
+        "binding tape:450", 
+        "Hanif group:458", 
+        "praised:484", 
+        "Crime Branch:487", 
+        "Ghatkopar:587", 
+        "Ghatkopar:597", 
+        "SIMI:692", 
+        "Students Muslim Organization of India:694", 
+        "Hilton Hotel:770", 
+        "Gujarat riots:788", 
+        "indoctrinated ' in Dubai:794", 
+        "outfit in Saudi Arabia:893", 
+        "Lashkar-e-Tayiba:920", 
+        "Lashkar:947", 
+        "SIMI:949", 
+        "Gujarat Muslim Revenge Force:971", 
+        "Gujarat riots:983", 
+        "Gujarat riots:1012", 
+        "rediff.com:1046", 
+        "blasts:1221", 
+        "occurred:1223", 
+        "Gujarati-dominated areas:1225", 
+        "Gateway of India:1235", 
+        "Andheri:1270", 
+        "explosives:1343", 
+        "prepared:1345", 
+        "residences:1348", 
+        "gelatin sticks:1381", 
+        "available locally:1385", 
+        "controlled blasts:1395", 
+        "RDX:1422", 
+        "Central Forensic Laboratory of India:1441"
+    ], 
+    "unexpl": [
+        "CLOCK", 
+        "SHRAPNEL", 
+        "BINDING TAPE"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2003/sep/01blast2.htm", 
+    "date": "25-08-2003", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "Gateway of India, Zaberi Bazaar", 
+    "delivery_mod": "FOUR WHEELER", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        "GELATINE STICKS"
+    ], 
+    "ORG": [
+        [
+            "Mumbai Police", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Hanif group", 
+            "288", 
+            "Accused"
+        ], 
+        [
+            "Santa Cruz Electronics Export Processing Zone", 
+            "364", 
+            "Victim"
+        ], 
+        [
+            "Hanif group", 
+            "458", 
+            "Accused"
+        ], 
+        [
+            "Crime Branch", 
+            "487", 
+            "Others"
+        ], 
+        [
+            "Crime Branch Unit 11", 
+            "493", 
+            "Others"
+        ], 
+        [
+            "Unit 9", 
+            "498", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "692", 
+            "Others"
+        ], 
+        [
+            "Students Muslim Organization of India", 
+            "694", 
+            "Others"
+        ], 
+        [
+            "Hilton Hotel", 
+            "770", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Tayiba", 
+            "920", 
+            "Others"
+        ], 
+        [
+            "Lashkar", 
+            "947", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "949", 
+            "Others"
+        ], 
+        [
+            "Gujarat Muslim Revenge Force", 
+            "971", 
+            "Assoc_Accused"
+        ], 
+        [
+            "rediff.com", 
+            "1046", 
+            "Others"
+        ], 
+        [
+            "Central Forensic Laboratory of India", 
+            "1441", 
+            "Others"
+        ]
+    ]
+}

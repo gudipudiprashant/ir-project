@@ -1,0 +1,108 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Moirabari", 
+            "69", 
+            "Accused"
+        ], 
+        [
+            "Morigaon", 
+            "71", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Nazir Ahmed", 
+            "66", 
+            "Accused"
+        ], 
+        [
+            "Bhaskarjyoti Mahanta", 
+            "84", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:89"
+    ], 
+    "death": "", 
+    "title": "Car bombs used in city", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Sushanta Talukdar . . Guwahati : The Assam police have taken into custody three persons in connection with the serial blasts in the State . The cell-phone from which an SMS was sent in the name of the Islamic Security Force -LRB- Indian Mujahideen -RRB- , owning responsibility for the blasts , belonged to one of these three persons . He has been identified as Nazir Ahmed of Moirabari in Morigaon district . . . Inspector-General of Police -LRB- Law and Order -RRB- Bhaskarjyoti Mahanta told reporters on Saturday that car bombs were used in the three blasts in the city . . . He said the cars , all Maruti , were packed with RDX and ammonium nitrate .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Assam police:8", 
+        "custody:13", 
+        "three persons:14", 
+        "connection:17", 
+        "serial blasts:20", 
+        "State:24", 
+        "cell-phone:27", 
+        "SMS:31", 
+        "blasts:51", 
+        "three persons:58", 
+        "identified:64", 
+        "Law and Order:80", 
+        "car bombs:91", 
+        "three blasts:97", 
+        "city:101", 
+        "cars:108", 
+        "Maruti:111", 
+        "RDX:116", 
+        "ammonium nitrate:118"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/car-bombs-used-in-city/article1367895.ece", 
+    "date": "30-10-2008", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "RDX", 
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": [
+        [
+            "Islamic Security Force", 
+            "39", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "43", 
+            "Accused"
+        ]
+    ]
+}

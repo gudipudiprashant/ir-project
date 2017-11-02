@@ -1,0 +1,166 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Afghanistan", 
+            "21", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Iran", 
+            "42", 
+            "Assoc_Event"
+        ], 
+        [
+            "Iraq", 
+            "44", 
+            "Assoc_Event"
+        ], 
+        [
+            "Afghanistan", 
+            "46", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "97", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "120", 
+            "Event"
+        ], 
+        [
+            "Bhubaneswar", 
+            "204", 
+            "Neutral"
+        ], 
+        [
+            "Orissa", 
+            "216", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "224", 
+            "Assoc_Event"
+        ], 
+        [
+            "US", 
+            "239", 
+            "Assoc_Event"
+        ], 
+        [
+            "Afghanistan", 
+            "249", 
+            "Assoc_Event"
+        ], 
+        [
+            "Iraq", 
+            "251", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rahul Gandhi", 
+            "11", 
+            "Others"
+        ], 
+        [
+            "Sanjay Raut", 
+            "62", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "76", 
+            "Others"
+        ], 
+        [
+            "Rahul", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "Raut", 
+            "123", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "Rahul", 
+            "236", 
+            "Others"
+        ], 
+        [
+            "Gandhi", 
+            "261", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:257"
+    ], 
+    "death": "", 
+    "title": "Shiv Sena slams Rahul Gandhi's Mumbai blasts comments", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Shiv Sena today said it was wrong for Congress leader Rahul Gandhi to equate Mumbai terror attacks with those in Afghanistan . . . `` We elect you to protect us . When you compare the Mumbai attacks to those in Iran , Iraq and Afghanistan . It is an insult to those killed in these attacks , '' Sena MP Sanjay Raut said . . . A case of treason should be filed against Rahul Gandhi over these remarks , he said . . . `` Rahul does not leave a single chance to insult Mumbai . When he says the terror attacks will continue to happen , it shows that he is not fit to live in India , '' Raut said . . . Congress general secretary Rahul Gandhi today said that 99 per cent of the terror attacks had been stopped in the country due to improved intelligence , but admitted that it 's difficult to stop all terrorist attacks . . . `` We will stop 99 per cent attacks . But in one per cent they will get through . . It is something we will fight and we will defeat , '' he told reporters at Bhubaneswar this morning on the second day of his 2-day tour to Orissa . . . To a question how US was able to stop any terrorist attacks on its soil , Rahul said the US soldiers were taking the hit in foreign shores like Afghanistan and Iraq . . . Referring to Wednesday 's attack , Gandhi said the response of the government was prompt . `` We are responding to it in a quite organised fashion . '' .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "congress leader:9", 
+        "equate mumbai terror:14", 
+        "insult to those killed in these attacks:51", 
+        "case of treason should be filed:69", 
+        "Congress general secretary:128", 
+        "99 per cent of the terror attacks had been stopped:136", 
+        "improved intelligence:151", 
+        "government was prompt:267"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/sena-slams-rahul-for-equating-mumbai-and-afghan-attacks/817422/", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Shiv Sena", 
+            "1", 
+            "Others"
+        ]
+    ]
+}

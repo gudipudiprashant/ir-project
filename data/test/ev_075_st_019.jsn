@@ -1,0 +1,99 @@
+{
+    "LOC": [
+        [
+            "JAIPUR", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "43", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "122", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bappa Majumdar", 
+            "127", 
+            "Comment"
+        ], 
+        [
+            "Pankaj Singh", 
+            "111", 
+            "Others"
+        ], 
+        [
+            "Alistair Scrutton", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "John Chalmers", 
+            "135", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 15 : 4"
+    ], 
+    "death": "61", 
+    "title": "Indian group claims responsibility for India bombings", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "JAIPUR , India May 15 A little-known militant group called the Indian Mujahideen claimed responsibility for setting off bombs in the western Indian city of Jaipur that killed 61 people and injured 216 people this week , police said . Police in Jaipur said the group sent attached video clips of packets strapped to the back of bicycles , which the group said in the video contained bombs . The video was broadcast on national television channels . National media said the videos showed a serial number of one of the bicycles . `` We are examining the authenticity of the video and the claim at the moment , '' Pankaj Singh , a senior police officer , told Reuters in Jaipur . ( Reporting by Bappa Majumdar ; Editing by Alistair Scrutton and John Chalmers ) . . .", 
+    "injured": "216", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Jaipur", 
+        "Jaipur"
+    ], 
+    "O": [
+        "police:38"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.reuters.com/article/idUSSP100897", 
+    "date": "14-05-2008", 
+    "target": "", 
+    "hot_spot": "Jaipur", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "12", 
+            "Others"
+        ], 
+        [
+            "National media", 
+            "79", 
+            "Others"
+        ]
+    ]
+}

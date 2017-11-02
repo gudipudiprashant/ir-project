@@ -1,0 +1,141 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Mehrauli", 
+            "32", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "53", 
+            "Event"
+        ], 
+        [
+            "Red Fort", 
+            "158", 
+            "Event"
+        ], 
+        [
+            "Akshardham Temple", 
+            "161", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "P.M.S. Grewal", 
+            "45", 
+            "Comment"
+        ], 
+        [
+            "Grewal", 
+            "116", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:22"
+    ], 
+    "death": "", 
+    "title": "CPI(M) expresses concern over blast", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "South West", 
+        "NEW DELHI ", 
+        "Mehrauli"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . NEW DELHI : The Delhi State Committee of the Communist Party of India -LRB- Marxist -RRB- on Saturday condemned the heinous blast perpetrated by terrorist elements at Mehrauli here . . . CPI -LRB- M -RRB- Delhi State Committee secretary P.M.S. Grewal said the second terror attack in Delhi within a span of two weeks was a grim reminder of the failure of the Union Government and its intelligence agencies to uncover and neutralise terror networks . . . The Government must take all necessary steps to apprehend the culprits of the barbaric crimes , he said . . . Expressing concern over the bomb blasts in the Capital , Mr. Grewal said : What is required are not tougher anti-terror laws as is being advocated by the BJP but the will and determination to unitedly combat terrorism . This is borne out by the fact that the terrorist attacks on Parliament , Red Fort and Akshardham Temple took place when POTA was in force .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "staff reporter:1", 
+        "heinous blast:25", 
+        "second terror attack:49", 
+        "terror networks:79", 
+        "barbaric crimes:97", 
+        "anti-terror laws:125", 
+        "parliament:156", 
+        "pota:166"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/cpim-expresses-concern-over-blast/article1347186.ece", 
+    "date": "27-09-2008", 
+    "target": "", 
+    "hot_spot": "Mehrauli", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi State Committee", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "terrorist", 
+            "29", 
+            "Accused"
+        ], 
+        [
+            "Delhi State Committee secretary", 
+            "41", 
+            "Others"
+        ], 
+        [
+            "Union Government", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "Government", 
+            "85", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "combat terrorism", 
+            "141", 
+            "Accused"
+        ], 
+        [
+            "terrorist", 
+            "153", 
+            "Others"
+        ]
+    ]
+}

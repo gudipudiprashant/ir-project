@@ -1,0 +1,215 @@
+{
+    "LOC": [
+        [
+            "Burdwan", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Jharkhand", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Mokimnagar", 
+            "48", 
+            "Source"
+        ], 
+        [
+            "West Bengals", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "West Bengals Murshidabad", 
+            "50", 
+            "Source"
+        ], 
+        [
+            "Burdwan", 
+            "68", 
+            "Event"
+        ], 
+        [
+            "madarasa", 
+            "87", 
+            "Source"
+        ], 
+        [
+            "Mokimnagar", 
+            "89", 
+            "Source"
+        ], 
+        [
+            "Bangladesh", 
+            "163", 
+            "Accused"
+        ], 
+        [
+            "Beldanga", 
+            "174", 
+            "Source"
+        ], 
+        [
+            "Mokimnagar", 
+            "176", 
+            "Source"
+        ], 
+        [
+            "Murshidabad Nanur", 
+            "178", 
+            "Source"
+        ], 
+        [
+            "Birbhum", 
+            "181", 
+            "Source"
+        ], 
+        [
+            "Khagraghar", 
+            "183", 
+            "Source"
+        ], 
+        [
+            "Simulia", 
+            "185", 
+            "Source"
+        ], 
+        [
+            "Bhurdman", 
+            "187", 
+            "Source"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mufazzil Haque", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "Laden", 
+            "39", 
+            "Accused"
+        ], 
+        [
+            "Haque", 
+            "43", 
+            "Accused"
+        ], 
+        [
+            "Sheikh Rahmatullah", 
+            "59", 
+            "Accused"
+        ], 
+        [
+            "Sajid", 
+            "63", 
+            "Accused"
+        ], 
+        [
+            "Sajid", 
+            "203", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:34", 
+        "October 2:71"
+    ], 
+    "death": "", 
+    "title": "NIA arrests another accused in Burdwan blast case", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "JAMIAT-UL-MUJAHIDEEN"
+    ], 
+    "content": "Nearly four months ago an accidental blast in Burdwan exposed a terror network operating in different districts of West Bengal , Assam and Jharkhand , the National Investigation Agency -LRB- NIA -RRB- on Wednesday arrested Mufazzil Haque alias Laden . . . Haque is a resident of Mokimnagar in West Bengals Murshidabad district and was closely associated with Sheikh Rahmatullah , alias Sajid who died in the Burdwan blast on October 2 , the NIA claimed . The accused is alleged to have been running a madarasa in Mokimnagar . . . This is the 17th arrest by the NIA in connection with the blast . Only a few days ago the NIA had arrested four persons in connection with the incident . It has been learnt that Haques name came up during questioning the four accused arrested last month . . . According to the NIA , the investigation in the past three months has revealed that senior members of Jammat-ul-Mujahideen Bangladesh had established terrorist training centres and bomb making units in Beldanga and Mokimnagar in Murshidabad Nanur of Birbhum and Khagraghar and Simulia of Bhurdman District . . . All the 17 accused are behind bars while two persons including Sajid died in the blast . The NIA is yet to file charge sheet in connection with the blast . . . This is the 17th arrest by the NIA in connection with the blast .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Kolkata", 
+        "Burdwan"
+    ], 
+    "O": [
+        "terror network operating:12"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/nia-arrests-another-accused-in-burdwan-blast-case/article6858288.ece", 
+    "date": "02-10-2015", 
+    "target": "", 
+    "hot_spot": "Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "ACCIDENTAL", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "27", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "75", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "100", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "113", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "147", 
+            "Others"
+        ], 
+        [
+            "Jammat-ul-Mujahideen", 
+            "162", 
+            "Accused"
+        ], 
+        [
+            "terrorist", 
+            "166", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "210", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "232", 
+            "Others"
+        ]
+    ]
+}

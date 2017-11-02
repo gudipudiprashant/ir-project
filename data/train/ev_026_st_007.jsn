@@ -1,0 +1,225 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "38", 
+            "Neutral"
+        ], 
+        [
+            "Dekamishing", 
+            "69", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "72", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "80", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "85", 
+            "Neutral"
+        ], 
+        [
+            "Rangiya", 
+            "136", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "138", 
+            "Neutral"
+        ], 
+        [
+            "Murkokseleng", 
+            "140", 
+            "Neutral"
+        ], 
+        [
+            "Arunachal Pradesh", 
+            "142", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "229", 
+            "Neutral"
+        ], 
+        [
+            "Kokrajhar", 
+            "232", 
+            "Neutral"
+        ], 
+        [
+            "Udalguri", 
+            "234", 
+            "Neutral"
+        ], 
+        [
+            "Machkhowa", 
+            "296", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "302", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "378", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "T. Hajong", 
+            "433", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "30 minutes : 27", 
+        "morning : 67", 
+        "night : 273", 
+        "6 pm:380", 
+        "night : 415", 
+        "1 am:447", 
+        "6 pm : 450"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:13", 
+        "Sunday:66", 
+        "Sunday:224", 
+        "Saturday:272", 
+        "Sunday:383", 
+        "January 27:385", 
+        "Jan:403", 
+        "Jan 26:403", 
+        "January 26:456"
+    ], 
+    "death": "", 
+    "title": "Rebels blow rail track in Assam before R' day", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)", 
+        "NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)", 
+        ""
+    ], 
+    "content": "Guwahati : Passengers of the Arunachal Express had a narrow escape on Sunday as a powerful explosion ripped apart a stretch of the railway track some 30 minutes before the train was to pass that area in Assam , officials said . Two militants were also killed in separate shootouts in the state . . . A police spokesperson said the blast occurred early on Sunday morning near Dekamishing village in Dhemaji district , about 370 km east of Assam 's main city of Guwahati . . . `` The explosion led to a big crater with at least 10 metres of the railway track damaged in the blast , '' a police official said . . . The bomb was planted on the track and was set to go off when the train from Rangiya in Assam to Murkokseleng in Arunachal Pradesh was to cross that area . . . `` Definitely the target was the Arunachal Express , but probably something went wrong and the explosion took place before the train crossed the area , '' the official said . . . Police blamed the outlawed United Liberation Front of Asom ( ULFA ) for the attack . . . Meanwhile , two militants of the outlawed National Democratic Front of Bodoland ( NDFB ) were killed in separate shootouts on Sunday in western and northern Assam districts of Kokrajhar and Udalguri . . . `` Both the NDFB militants were killed in separate raids with intelligence inputs indicating that they were planning to stage attacks ahead of Republic Day , '' the official said . . . On Saturday night , a powerful improvised explosive device was defused after security forces spotted the explosive concealed in a polythene bag in the busy Machkhowa area in the heart of Guwahati . . . `` We had prior information of an ULFA bomber trying to plant the bomb somewhere in a crowded marketplace . Due to intense security operations , the ULFA militant failed to plant the bomb and left it on the pavement with police commandos managing to detect the explosive and immediately defusing it , '' the official said . . . The Indian Railways have suspended the running of all night trains in Assam from 6 pm on Sunday to January 27 midnight in view of the general strike called by five militant groups in the northeast on Jan 26 . . . `` The decision to suspend running of night trains was taken keeping in view security aspects and safety of passengers , '' said railways spokesperson T. Hajong . . . Five militant groups have called a general strike from 1 am to 6 pm on Republic Day , January 26 . . . The five rebel groups that have announced their boycott through a statement e-mailed to journalists are the ULFA , the NDFB , Manipur People 's Liberation Front ( MPLF ) - comprising several major militant outfits in the state , the Kamtapur Liberation Organization ( KLO ) and the Tripura People 's Democratic Front ( TPDF ) . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhemaji", 
+        "Guwahati", 
+        "Dekamishing"
+    ], 
+    "O": [
+        "Arunachal Express:6", 
+        "police:58", 
+        "Arunachal Express:158", 
+        "marketplace:324"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/rebels-blow-rail-track-in-assam-before-r-day-332488.html", 
+    "date": "24-01-2010", 
+    "target": "TRAIN", 
+    "hot_spot": "Dekamishing", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "189", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "195", 
+            "Accused"
+        ], 
+        [
+            "National Democratic Front of Bodoland", 
+            "210", 
+            "Accused"
+        ], 
+        [
+            "NDFB", 
+            "216", 
+            "Accused"
+        ], 
+        [
+            "NDFB", 
+            "241", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "313", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "333", 
+            "Accused"
+        ], 
+        [
+            "e-mailed", 
+            "473", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "478", 
+            "Accused"
+        ], 
+        [
+            "NDFB", 
+            "481", 
+            "Accused"
+        ], 
+        [
+            "Manipur People 's Liberation Front", 
+            "483", 
+            "Accused"
+        ], 
+        [
+            "MPLF", 
+            "489", 
+            "Accused"
+        ], 
+        [
+            "Kamtapur Liberation Organization", 
+            "502", 
+            "Accused"
+        ], 
+        [
+            "KLO", 
+            "506", 
+            "Accused"
+        ], 
+        [
+            "Tripura People 's Democratic Front", 
+            "510", 
+            "Accused"
+        ], 
+        [
+            "TPDF", 
+            "516", 
+            "Accused"
+        ]
+    ]
+}

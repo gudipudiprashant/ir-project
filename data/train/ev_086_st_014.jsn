@@ -1,0 +1,178 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "78", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "139", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "179", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "181", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "183", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "185", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "355", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "401", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "422", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "429", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "452", 
+            "Source"
+        ]
+    ], 
+    "PER": [
+        [
+            "J Dey", 
+            "99", 
+            "Victim"
+        ], 
+        [
+            "Dawood Ibrahim", 
+            "104", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday : 10", 
+        "July 13 : 281", 
+        "1931 : 303", 
+        "July 13 : 384"
+    ], 
+    "death": "", 
+    "title": "Mumbai blasts: Is underworld behind the return of terror?", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : The security establishment was scrambling on Wednesday for any specific inputs that would give indications of who may have been behind the serial blasts that interrupted the past few months of lull from terror . Sources were veering around to the opinion that the likelihood of underworld involvement was very high because of a host of factors . One official pointed out that the underworld has been `` hyperactive '' in recent weeks in Mumbai . There have been a number of reports about various developments in the underworld such as the killing of journalist J Dey and attacks on Dawood Ibrahim 's brother 's driver . Among the recent inputs is also the possibility of a patch-up between some factions . Another analyst speculated that the simultaneous blasts required a fairly good network in Mumbai as well as strong local support . He said it was likely that the blasts were executed by the underworld , financed by someone else . The attacks came just three days after the Centre issued a warning to Mumbai , Hyderabad , Bangalore and Kolkata about the possibility of a Harkat-ul-Jihad-al-Islami ( HuJI ) conspiracy to target these cities . However , sources are not willing to give much credence to this particular warning , which was based on inputs from BSF . BSF may have got its inputs from Bangladeshi sources . The security establishment was scrambling for any specific inputs that would give indications of who may have been behind the serial blasts . A third angle that is being closely looked at is the possibility of the involvement of Kashmiri terrorist groups . The blasts came on July 13 , which is observed as Kashmir Martyrs Day to commemorate the killing of 22 Kashmiris by the Dogra forces in 1931 . In the present phase of militancy that started in the late 1980s , Martyrs Day has been appropriated significantly by the separatists and terrorist groups . One top official said the degraded capabilities of Kashmiri militant groups in recent times defy the logic of them carrying out multiple blasts in Mumbai . However , the official said possibility of Lashkar-e-Toiba ( LeT ) , which remains a very powerful terror group , carrying out the attack to coincide with July 13 can not be ruled out . Sources said they are seriously examining the possibility of Pakistan backed groups , especially the LeT , carrying out the attack to divert attention away from the domestic woes of Pakistan , and to warn that the Kashmir issue was far from over . If that were the case , then the Indian Mujahideen , or other LeT affiliates in Mumbai , may have been used for carrying out the attack , they said . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "O": [
+        "Bangladeshi sources:231", 
+        "Kashmir Martyrs Day:288"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.timesofindia.indiatimes.com/2011-07-14/india/29772444_1_mumbai-blasts-serial-blasts-underworld", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Harkat-ul-Jihad-al-Islami", 
+            "191", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "193", 
+            "Accused"
+        ], 
+        [
+            "BSF", 
+            "222", 
+            "Others"
+        ], 
+        [
+            "BSF", 
+            "224", 
+            "Others"
+        ], 
+        [
+            "Kashmiri terrorist", 
+            "273", 
+            "Others"
+        ], 
+        [
+            "Dogra forces", 
+            "300", 
+            "Others"
+        ], 
+        [
+            "Kashmiri militant", 
+            "339", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Toiba", 
+            "364", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "366", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "407", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "444", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "449", 
+            "Accused"
+        ]
+    ]
+}

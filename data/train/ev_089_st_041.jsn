@@ -1,0 +1,140 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Lakeview Guesthouse", 
+            "153", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "169", 
+            "Neutral"
+        ], 
+        [
+            "Nampally", 
+            "204", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushilkumar Shinde", 
+            "4", 
+            "Comment"
+        ], 
+        [
+            "E. S. L. Narasimhan", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "N. Kiran Kumar Reddy", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "S.C. Sinha", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "Shinde", 
+            "105", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "188", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "284", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "morning : 14"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:13"
+    ], 
+    "death": "", 
+    "title": "Too early to blame anyone: Shinde", 
+    "det_loc": [
+        "India", 
+        "TELANGANA", 
+        "", 
+        "Dilsukhnagar", 
+        "Dilsukhnagar"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Union Home Minister Sushilkumar Shinde made a flash visit to Hyderabad on Friday morning and saw for himself the damage caused by the twin bomb blasts in Dilsukhnagar , the thickly populated area here , accompanied by Governor E. S. L. Narasimhan , Chief Minister N. Kiran Kumar Reddy and top officials of the National Investigation Agency -LRB- NIA -RRB- , including its Director-General S.C. Sinha . . . Huge crowds that thronged the site jostled to break the police cordon to get a closer look of the leaders as they made an on-the-spot study of the dastardly bomb attacks . . . Mr Shinde later said an all-inclusive investigation into the serial bomb blasts was in progress and the persons who had masterminded the crime , would be identified and caught soon . We will leave no stone unturned to achieve immediate results on this front , he told reporters at Lakeview Guesthouse . . . The Home Minister flew in here by a special aircraft from Delhi and drove straight to the blood-stained blast sites which resembled a war-ravaged zone . A visibly upset Mr Shinde , who earlier had served as Andhra Pradesh Governor , also visited CARE Hospital at Nampally where most of the injured persons are being treated . He spoke with some of them , trying to get a first-hand account of how it all happened . . . No area-specific alerts . . He declined to divulge anything further about the incident on the ground that Parliament was in session . He said it was too early to blame any organisation or outfit , including the Indian Mujahideen , for the blasts . . . Mr Shinde categorically said his Ministry did not issue any area-specific alert to the Andhra Pradesh Government three to four days ago with a warning that incidents such as bomb blasts would occur , as being talked of . What was issued was a general alert to all the States , he said . . . He did not agree with the contention that the blasts were a result of intelligence failure . He did not confirm when asked if any source of phone-tapping was identified in this connection as alleged . . . He said the AP Government would bear the entire medical expenditure for treatment of the injured , besides the ex gratia already announced by it on ThursdayRs 6 lakh for the families of each of those killed and Rs 50,000 to Rs 1 lakh to each of the injured persons . . . The blasts , he stated , claimed 14 lives so far , while the condition of six of the 119 injured persons was critical . The number of casualties could go up , he indicated . . . We will leave no stone unturned to achieve immediate results .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Union Home Minister:1", 
+        "Chief Minister:44", 
+        "Director-General:64", 
+        "police:80", 
+        "CARE Hospital:201"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/too-early-to-blame-anyone-shinde/article4445010.ece", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "Dilsukhnagar", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "59", 
+            "Others"
+        ], 
+        [
+            "Andhra Pradesh Governor", 
+            "195", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "274", 
+            "Accused"
+        ], 
+        [
+            "Andhra Pradesh Government", 
+            "297", 
+            "Others"
+        ], 
+        [
+            "AP Government", 
+            "380", 
+            "Others"
+        ]
+    ]
+}

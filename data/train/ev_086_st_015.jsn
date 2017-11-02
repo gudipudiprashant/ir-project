@@ -1,0 +1,192 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "South Mumbai", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Opera House", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazar", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Dadar West", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "central Mumbai", 
+            "32", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "44", 
+            "Neutral"
+        ], 
+        [
+            "Zaveri Bazar", 
+            "72", 
+            "Event"
+        ], 
+        [
+            "Dadar", 
+            "83", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "89", 
+            "Event"
+        ], 
+        [
+            "Dadar West", 
+            "114", 
+            "Event"
+        ], 
+        [
+            "Khau gali", 
+            "139", 
+            "Neutral"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "148", 
+            "Event"
+        ], 
+        [
+            "Opera House", 
+            "152", 
+            "Event"
+        ], 
+        [
+            "Dadar", 
+            "168", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "209", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "211", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "250", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "252", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "254", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "263", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "265", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "267", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "evening : 12"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:11", 
+        "2002:240"
+    ], 
+    "death": "10", 
+    "title": "Terror Strikes Mumbai, 3 blasts, 10 reported dead", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Mumbai : Three explosions have taken place in Mumbai on Wednesday evening - two in South Mumbai at Opera House and in Zaveri Bazar and one at Dadar West , in central Mumbai . The Home Ministry has confirmed a terrorist attack and Mumbai is on high alert.All blasts took place during rush hour and in crowded places . Eyewitnesses said about 15 to 20 people have taken to hospital in Zaveri Bazar . Reports said six people had died in the Dadar blast , four in the Zaveri Bazaar blast . Government sources put the number of injured at 60 . One explosion , in a car at a bus stop in Dadar West , has been confirmed . A police officer said there might have been an explosive in a meter box behind a hoarding at Khau gali , a street filled with eateries at Zaveri Bazaar . The Opera House blast took place at Prasad Chamber.An unexploded bomb has also reportedly been found in Dadar and a bomb disposal squad is working to defuse it.Early reports said a police control room had received a call claiming that there were serial blasts in Mumbai . A National Investigation Agency -LRB- NIA -RRB- team has rushed to Mumbai from Delhi to investigate and collect forensic evidence . The police have appealed for calm.Zaveri Bazaar has been hit before - over 50 people were killed in twin blasts in 2002 . Malls , markets and other crowded places in Delhi , Chennai and Bangalore are on high alert . -LRB- Read : Delhi , Chennai , Bangalore on high alert -RRB- .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "O": [
+        "Home Ministry:36", 
+        "police officer:122", 
+        "police:182", 
+        "police:220", 
+        "twin blasts:237", 
+        "Malls:242", 
+        "markets:244"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/mumbai-news/terror-strikes-mumbai-3-blasts-10-reported-dead-461403", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Government", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "199", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "203", 
+            "Others"
+        ]
+    ]
+}

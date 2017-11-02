@@ -1,0 +1,108 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "Attari", 
+            "84", 
+            "Neutral"
+        ], 
+        [
+            "Munnabao", 
+            "86", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "230", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "330", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Jagjeevan Ram", 
+            "323", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "February 19:24"
+    ], 
+    "death": "", 
+    "title": "Safety measures initiated for Samjhauta Express", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "India and Pakistan have initiated steps to ensure the safety and security of the passengers of Samjhauta and Thar Express trains following the February 19 Samjhauta Express blasts . . . The two countries are contemplating introducing an Advance Information Passenger Information Systemwherein both sides exchange information on details ofpassengers travelling on these trains , Railway Ministry sources said . . . While Indian Railways has already started sharing the passenger list of both the trains with the security and immigrant agencies at Attari and Munnabao railway stations , they have asked their Pakistani counterpart to do the same within their territory . . . The two sides have also decided to screen passports of passengers travelling on each side and keep a complete record including their addresses , phone numbers and other details to know who is travelling from where , they said . . . In order to provide adequate security , Samjhauta Express and Thar Express trains have been made fully reserved trains following the blasts on the Samjhauta Express . . . ` With no unreserved coaches , we now have complete passenger details from their ticket reservation data a few hours prior to their boarding , and departure of the train , ' they said adding , the idea was being shared with security agencies at both the border stations . . . In India , the Ministry of Railways has taken several steps to improve security arrangements at important and vulnerable railway stations , which include increase in the number of sniffer dogs in the existing RPF dog squads . . . It has also decided to provide bomb detection and disposal equipment , close circuit televisions , hand held metal detectors , and door frame metal detectors at sensitive railway stations for anti-sabotage checks , they said . . . It is also upgrading training centres to improve quality of training to RPF personnel and Jagjeevan Ram Railway Protection Force Academy , Lucknow , has already been upgraded as a centralised Training Institute . . . It has also launched intensive publicity and public awareness campaign alerting and educating all passengers/public to remain vigilant against any unidentified/unclaimed suspicious objects lying on platforms , other premises or coaches and to report to RPF/GRP/railway officials available nearby . . . It has also enhanced close co-ordination with GRP , state police and central intelligence agencies for regular exchange of intelligence information . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Haryana", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "India:1", 
+        "Pakistan:3", 
+        "safety:10", 
+        "security:12", 
+        "samjhauta and thar express:17", 
+        "advance information passenger:39", 
+        "passenger:41", 
+        "both sides:44", 
+        "screen passports:113", 
+        "addresses:128", 
+        "phone numbers:130", 
+        "fully reserved:164", 
+        "Ministry of Railways:233", 
+        "sniffer dogs:258", 
+        "dog squads:264", 
+        "bomb detection:275", 
+        "and disposal equipment:277", 
+        "televisions:283", 
+        "hand held metal detectors:285", 
+        "door frame metal detectors:291", 
+        "sensitive railway stations:296", 
+        "anti-sabotage:300", 
+        "Jagjeevan Ram Railway Protection Force Academy:323", 
+        "centralised Training Institute:338", 
+        "public awareness campaign:351"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2007/apr/28samblast.htm", 
+    "date": "19-02-2007", 
+    "target": "RAILWAY", 
+    "hot_spot": "Samjhauta Express", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Jagjeevan Ram Railway Protection Force Academy", 
+            "323", 
+            "Others"
+        ]
+    ]
+}

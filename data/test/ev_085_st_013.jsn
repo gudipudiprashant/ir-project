@@ -1,0 +1,107 @@
+{
+    "LOC": [
+        [
+            "VARANASI", 
+            "1", 
+            "Assoc_Event"
+        ], 
+        [
+            "Dashashwamedh Ghat", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Babri Masjid", 
+            "192", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "6:20 pm : 201"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:37", 
+        "Tuesday evening:76", 
+        "Tuesday:76", 
+        "Tuesday evening:76", 
+        "1992 : 195"
+    ], 
+    "death": "1", 
+    "title": "No shrapnels in Varanasi bomb: Police", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "", 
+        "varanasi", 
+        "Dashashwamedh Ghat"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "VARANASI : The low-intensity bomb used in the blast here did not have shrapnels in it and all the injured were hit by pieces of wall that broke following the explosion , police sources said on Wednesday . They said the bomb kept near the steps leading to the Dashashwamedh Ghat was placed in such a way that the maximum impact was directed to the ground where the ` arti ' was being held on Tuesday evening . Though the nature of explosives is yet to be ascertained , the sources said there were no burn or shrapnel injuries . Meanwhile , of the 37 injured in the blasts , one is said to be in a critical condition . Forensic experts are examining the blast scene to find clues about the exact nature of the explosives used . An improvised explosive device -LRB- IED -RRB- was recovered from a metal dustbin at the site of the blast . Banned terror outfit Indian Mujahideen -LRB- IM -RRB- has claimed responsibility for the blast in e-mails sent to media houses and said it ` attributed ' the attack to the demolition of Babri Masjid in 1992 . The blast occurred at 6:20 pm when thousands of devotees and some foreign tourists had assembled at the ghat for the Ganga arti ritual . The blast left a child dead and 37 others injured .", 
+    "injured": "37", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "varanasi:1", 
+        "bomb:5", 
+        "blast:9", 
+        "shrapnels:14", 
+        "wall:26", 
+        "explosion:31", 
+        "police:33", 
+        "bomb:42", 
+        "way:57", 
+        "maximum impact:60", 
+        "ground:66", 
+        "arti:70", 
+        "condition:119", 
+        "Forensic experts:121", 
+        "blast scene:126", 
+        "ied:145", 
+        "metal dustbin:151", 
+        "site:155", 
+        "blast:158", 
+        "terror outfit:161", 
+        "im:166", 
+        "responsibility:170", 
+        "blast:173", 
+        "attack:187", 
+        "demolition:190", 
+        "blast:198", 
+        "pm:202", 
+        "ghat:215", 
+        "ganga arti ritual:218", 
+        "ganga:218", 
+        "arti ritual:219", 
+        "blast:223", 
+        "child:226"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "RITUAL", 
+    "link": "http://timesofindia.indiatimes.com/city/varanasi/No-shrapnels-in-Varanasi-bomb-Police/articleshow/7064110.cms", 
+    "date": "07-12-2010", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "DUSTBIN", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        "IED", 
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "163", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "166", 
+            "Accused"
+        ]
+    ]
+}

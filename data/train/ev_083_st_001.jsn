@@ -1,0 +1,59 @@
+{
+    "LOC": [
+        [
+            "Imphal", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Imphal West", 
+            "33", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday night:15"
+    ], 
+    "death": "17", 
+    "title": "17 killed in Imphal blast", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Imphal West", 
+        "Imphal", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Imphal : At least 17 people were killed and more than 30 injured on Tuesday night when unidentified militants exploded a bomb attached to a two-wheeler near a police commando complex in Imphal West district . . . Sources said the victims included a few security personnel . While 13 people died on the spot , four succumbed to injuries in hospital . The condition of many of the injured is critical , sources said . PTI .", 
+    "injured": "30", 
+    "org_unorg": "", 
+    "O": [
+        "unidentified militants exploded:18", 
+        "bomb:22", 
+        "two-wheeler:26", 
+        "police commando complex:29", 
+        "victims:42", 
+        "security personnel:46", 
+        "injuries:60", 
+        "critical:72"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/article1361488.ece", 
+    "date": "21-10-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "TWO WHEELER", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

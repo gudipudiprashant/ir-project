@@ -1,0 +1,165 @@
+{
+    "LOC": [
+        [
+            "Pakistan", 
+            "9", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "NewDelhi", 
+            "95", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "119", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "138", 
+            "Neutral"
+        ], 
+        [
+            "train station", 
+            "151", 
+            "Event"
+        ], 
+        [
+            "Varanasileave", 
+            "157", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "165", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "174", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "177", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "236", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "335", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "370", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "374", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "423", 
+            "Source"
+        ], 
+        [
+            "Mumbai", 
+            "446", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "453", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "455", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dilip Band", 
+            "41", 
+            "Comment"
+        ], 
+        [
+            "Al Jazeera", 
+            "87", 
+            "Comment"
+        ], 
+        [
+            "GK Pillai", 
+            "332", 
+            "Others"
+        ], 
+        [
+            "Al Jazeera", 
+            "341", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "February 25 : 17", 
+        "March 2003 : 112"
+    ], 
+    "death": "", 
+    "title": "Nation put on alert after blast hits restaurant in Pune popular with foreigners.", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "It comes as senior officials from India and Pakistan plan to meet in New Delhi on February 25 to resume talks suspended in the wake of the deadly Mumbai assault , which was blamed on Pakistani-based fighters . . . Dilip Band , another police official , said `` the explosive was in a bag kept in the bakery '' and that four foreign women were among the dead buttheir nationalities were not immediately known.Indian mediareported thatthetoll of thoseinjured could rise . ` Intelligence alert ` Al Jazeera 's Prerna Suri , reporting from NewDelhi , said the explosion was so strong that the entire restauranthad been destroyed . . . March 2003 : 11 killed in a Mumbai train bomb attack.August 2004 : Sixdie in two carbomb blasts in Mumbai.October 2005 : Three bomb blasts in New Delhi markets kill 62 and injure hundreds.March 2006 : Blasts in a train station and a temple in Varanasileave 20 dead.July : Seven blasts on trainsin Mumbai kill 187 , and injure 800 , prompting India to freeze Pakistan peace talks.September :38 killed , 100 injuredin three blasts , one in a mosque , in Maharashtra.February 2007 : Pakistan-bound train is fire-bombed , killing 66 , mostly Pakistanis.May :11 killed , 15 injured in blast at Hyderabadmosque.August : 40 killed , 50 injured in bombs in Hyderabadeatery.November : 13 die inblasts outside court buildings inthree cities in Uttar Pradesh . . . `` Interestingly enough , there was an intelligence alert received by the home ministry , sayingthat a possible terror strike may take place on villages and crowded areas ... and various agencies had shared this information . '' . . The authoritiesinitially blamedthe blaston an cooking-gas cylinder which exploded , but they later said they suspected it was a `` terror attack '' . `` It 's a suspectedterrorist attack ... because it appears the bomb blast arose from an unattended package which was left behind in the bakery , '' GK Pillai , India 's interior secretary , told Al Jazeera . `` The whole country has been put on high alert.A team from theCBI [ Central Bureau of Investigation ) will be shortly on its way from Delhi to assist the Mumbai policeteam in the investigation of this blast . '' . . ThePress Trust of India news agencyquoted an unnamed official source as saying the blast wascaused by an improvised explosive device.Maharashtra police said an investigation was under way to establish the cause of the explosion.The site of the Pune blast was close toChabad House , a Jewish cultural andreligious centre run by the orthodox Chabad-Lubavitch movement whosemembers were targeted in the Mumbai attacks.Pune is about 100km southeast of Mumbai , India 's commercial capital . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        "Pune"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.aljazeera.com/news/asia/2010/02/2010213155016855188.html", 
+    "date": "14-02-2010", 
+    "target": "", 
+    "hot_spot": "Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Central Bureau of Investigation", 
+            "358", 
+            "Others"
+        ]
+    ]
+}

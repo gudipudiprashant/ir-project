@@ -1,0 +1,115 @@
+{
+    "LOC": [
+        [
+            "Shitla Ghat", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Nellore", 
+            "44", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "M. Ramesh", 
+            "106", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:11", 
+        "Wednesday:46"
+    ], 
+    "death": "1", 
+    "title": "Terrorists' effigy burnt", 
+    "org_unorg": "", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Protesting the bomb blast at Shitla Ghat in Varanasi on Tuesday in which one child was killed and several other devotees were injured , activists of Bharatiya Janata Party -LRB- BJP -RRB- burnt the effigy of Indian Mujahideen ' at V.R. Centre in Nellore on Wednesday . . . The party activists raised slogans against the terrorist groups who were trying to create panic and unrest among the people at holy places . Alleging that the government was not serious measures to control terrorists in the country , they demanded to suppress militant and terrorist groups with iron hand . . . BJP district secretary M. Ramesh and others participated in the protest .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        ""
+    ], 
+    "O": [
+        "Protesting:1", 
+        "bomb blast:3", 
+        "one child:14", 
+        "killed:17", 
+        "devotees:21", 
+        "injured:23", 
+        "activists:25", 
+        "burnt:33", 
+        "effigy of Indian Mujahideen:35", 
+        "party activists:51", 
+        "slogans:54", 
+        "terrorist groups:57", 
+        "panic:64", 
+        "unrest:66", 
+        "holy places:71", 
+        "Alleging:74", 
+        "government:77", 
+        "not serious measures:79", 
+        "control terrorists:83", 
+        "country:87", 
+        "demanded:90", 
+        "suppress:92", 
+        "militant:93", 
+        "terrorist groups:95", 
+        "participated:110", 
+        "protest:113"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/terrorists-effigy-burnt/article940540.ece", 
+    "date": "07-12-2010", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bharatiya Janata Party", 
+            "27", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "V.R. Centre", 
+            "41", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "103", 
+            "Others"
+        ]
+    ]
+}

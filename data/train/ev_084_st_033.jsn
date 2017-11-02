@@ -1,0 +1,197 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "36", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "91", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "97", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "180", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "196", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "P. Chidambaram", 
+            "27", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "76", 
+            "Others"
+        ], 
+        [
+            "Praveen Pant", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "Chidambaram", 
+            "252", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 30", 
+        "February 13 : 41", 
+        "October 9 , 2009 : 106", 
+        "December 2009 : 153", 
+        "April 3 or 4 : 369"
+    ], 
+    "death": "17", 
+    "title": "Pune blast a blot on our record, says Chidambaram", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . Denies there was intelligence failure . . States urged to have their own anti-terrorist forces . . NEW DELHI : Home Minister P. Chidambaram on Tuesday said the bomb blast in Pune 's German Bakery on February 13 despite the Centre sharing enough intelligence about the terror threat was a blot on our record . . . Seventeen persons including some foreigners were killed in the blast . . . Mr. Chidambaram claimed that there was no intelligence failure as enough information was shared with the Maharashtra police about specific targets in Pune . In turn , the Pune police on October 9 , 2009 , sent advisories to various establishments , including the German Bakery and its manager Praveen Pant even acknowledged receipt of the police 's letter . But the German Bakery and some other establishments did not pay heed to the warning . Again in December 2009 , the same advisory was reiterated . . . The Minister , who was responding to a supplementary question in the Lok Sabha on the Pune blast , said : Despite the intelligence shared , despite the advisories issued , the Pune blast occurred . It is a blot . I regard that as a blot on our record . The Centre monitors and reviews the internal security situation on a continuous basis . Intelligence inputs are regularly shared with State governments and Union Territories and wherever necessary , advisories are also issued . . . Mr. Chidambaram said the Centre helped the State governments under the police modernisation scheme to establish an elite Anti-Terrorist Force -LRB- ATF -RRB- . Six States had so far raised their own ATFs . Some States had Quick Reaction Teams which were smaller units . . . He urged all the States to have their own ATFs and promised Central assistance for procuring weapons , bullet-proof jackets and accessories . If the States want to ride piggy back on the Centre they can give their requirement and need not undergo the tendering process . . . On procuring bullet-proof jackets for the Central forces , he said the final decision on the tendering process would be taken on April 3 or 4 . . . He expressed confidence that threats from terrorists would be countered as things were improving , the capacity -LRB- of the police -RRB- was being strengthened and the police forces were becoming more efficient . But it will take time to have a more strong anti-terrorist capacity in this country , he said .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Denies:5", 
+        "intelligence failure:8", 
+        "States:12", 
+        "anti-terrorist forces:18", 
+        "bomb blast:33", 
+        "German Bakery:38", 
+        "Centre:45", 
+        "intelligence:48", 
+        "terror threat:51", 
+        "blot:55", 
+        "record:58", 
+        "foreigners:66", 
+        "killed:68", 
+        "blast:71", 
+        "claimed:77", 
+        "no intelligence failure:81", 
+        "enough information:85", 
+        "specific targets:94", 
+        "advisories:112", 
+        "German Bakery:119", 
+        "police 's letter:131", 
+        "German Bakery:137", 
+        "heed:146", 
+        "warning:149", 
+        "advisory:158", 
+        "reiterated:160", 
+        "supplementary question:172", 
+        "Lok Sabha:176", 
+        "Pune blast:180", 
+        "intelligence:187", 
+        "advisories issued:192", 
+        "blast:197", 
+        "record:213", 
+        "Centre monitors:216", 
+        "reviews:219", 
+        "internal security situation:221", 
+        "Intelligence inputs:229", 
+        "advisories:244", 
+        "Centre:255", 
+        "modernisation scheme:263", 
+        "Six States:275", 
+        "raised:280", 
+        "States:286", 
+        "Quick Reaction Teams:288", 
+        "States:302", 
+        "promised:309", 
+        "Central assistance:310", 
+        "procuring weapons:313", 
+        "bullet-proof jackets:316", 
+        "accessories:319", 
+        "States:323", 
+        "ride piggy back:326", 
+        "Centre:331", 
+        "requirement:336", 
+        "tendering process:342", 
+        "bullet-proof jackets:349", 
+        "Central forces:353", 
+        "final decision:359", 
+        "tendering process:363", 
+        "confidence:378", 
+        "threats:380", 
+        "terrorists:382", 
+        "improving:389", 
+        "strengthened:400", 
+        "anti-terrorist:420"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/pune-blast-a-blot-on-our-record-says-chidambaram/article730261.ece", 
+    "date": "13-02-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "State governments", 
+            "235", 
+            "Others"
+        ], 
+        [
+            "Union Territories", 
+            "238", 
+            "Others"
+        ], 
+        [
+            "State governments", 
+            "258", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorist Force", 
+            "269", 
+            "Others"
+        ], 
+        [
+            "ATF", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "ATFs", 
+            "283", 
+            "Others"
+        ], 
+        [
+            "ATFs", 
+            "307", 
+            "Others"
+        ]
+    ]
+}

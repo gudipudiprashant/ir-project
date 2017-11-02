@@ -1,0 +1,170 @@
+{
+    "LOC": [
+        [
+            "AHMEDABAD", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Patan", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "Ahmedabad", 
+            "59", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "92", 
+            "Neutral"
+        ], 
+        [
+            "Russia", 
+            "219", 
+            "Source"
+        ], 
+        [
+            "Patan", 
+            "268", 
+            "Accused"
+        ], 
+        [
+            "UP", 
+            "283", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Monu Ojha", 
+            "30", 
+            "Accused"
+        ], 
+        [
+            "Monu Ojha", 
+            "98", 
+            "Accused"
+        ], 
+        [
+            "Sudhir Sinha", 
+            "233", 
+            "Comment"
+        ], 
+        [
+            "Rajkumar Yadav", 
+            "279", 
+            "Accused"
+        ], 
+        [
+            "Yadav", 
+            "286", 
+            "Accused"
+        ], 
+        [
+            "Monu Ojha", 
+            "296", 
+            "Accused"
+        ], 
+        [
+            "Yadav", 
+            "306", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 16"
+    ], 
+    "death": "", 
+    "title": "Man faces life term for Delhi terror email", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "AHMEDABAD : A 22-year-old data entry operator working in a town 120km from Ahmedabad on Monday learnt the hard way that being funny about terror does n't pay . Monu Ojha , an internet addict from Patan , was arrested by Gujarat police after they traced a mail , threatening that the next blast would take place in Ahmedabad , to his computer . But even after his arrest , the youth was unrepentant . He said he did it to alarm Gujarat cops so that security was stepped up in Ahmedabad where his family lived . Monu Ojha , the 22-year-old school dropout , who is behind the Delhi terror email , has been charged with cyber terrorism and if convicted faces life imprisonment or a jail term of 14 years . ' I do n't believe the police are equipped to fight terror and I am happy that the mail has generated so much action . I am half-guilty that it created trouble for citizens , ' he said . He admitted he expected to be famous after his act . Ojha 's mail was the third of the four that claimed responsibility for the blast and threatened more attacks . ` The breakthrough came when cyber cell tracked the email down to a server in Russia and found it to be a decoy , ' said Ahmedabad police commissioner Sudhir Sinha . A probe found that the IP address was masked by specialized software . Using cyber crime probe tools , the crime branch tracked down the computer used to send the mail to Patan . The officers then hunted down the address and detained Rajkumar Yadav , from UP . When Yadav was questioned , he directed them to his friend Monu Ojha , who confessed to sending the mail using Yadav 's laptop . TIMES VIEW : Hoax calls or mails might seem like innocent pranks to be dealt with indulgently , but that would be a completely wrong attitude to take in the times we live in . These hoax mails/calls do serious damage at several levels , each of them helping the terrorists , even if that is not the intention . For one , they add to the panic , which is precisely the purpose of terror . Secondly , they divert already overstretched police resources to investigating the hoax calls . Finally , there is the serious risk that if there are many hoax threats , the genuine ones too will be taken lightly . For all of these reasons , such hoax callers must be dealt with strictly . At the same time , the police must launch an awareness campaign to educate people on the damage such calls or mail can do .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "22-year-old:4", 
+        "data entry operator:5", 
+        "120km:12", 
+        "internet addict:34", 
+        "arrested:40", 
+        "traced a mail:46", 
+        "threatening:50", 
+        "blast:54", 
+        "unrepentant:74", 
+        "alarm:82", 
+        "Gujarat cops:83", 
+        "security:87", 
+        "stepped up:89", 
+        "family lived:95", 
+        "school dropout:103", 
+        "Delhi terror email:110", 
+        "charged:116", 
+        "cyber terrorism:118", 
+        "life imprisonment:124", 
+        "jail term of 14 years:128", 
+        "server:217", 
+        "commissioner:232", 
+        "IP address:241", 
+        "masked:244", 
+        "specialized software:246", 
+        "hunted down:273", 
+        "address:276", 
+        "detained:278", 
+        "questioned:288", 
+        "friend:295", 
+        "confessed:300", 
+        "laptop:308", 
+        "Hoax calls:313", 
+        "mails:316", 
+        "serious damage:349", 
+        "helping the terrorists:358", 
+        "add to the panic:374", 
+        "divert:390", 
+        "overstretched police resources:392", 
+        "investigating the hoax:396", 
+        "genuine ones:417", 
+        "taken lightly:422"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Man-faces-life-term-for-Delhi-terror-email/articleshow/9962526.cms?referral=PM", 
+    "date": "12-09-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Gujarat police", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "Ahmedabad police", 
+            "230", 
+            "Others"
+        ]
+    ]
+}

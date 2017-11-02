@@ -1,0 +1,200 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Lumbini Park", 
+            "89", 
+            "Assoc_Event"
+        ], 
+        [
+            "Tank Bund", 
+            "92", 
+            "Assoc_Event"
+        ], 
+        [
+            "Koti", 
+            "98", 
+            "Assoc_Event"
+        ], 
+        [
+            "Hyderabad", 
+            "100", 
+            "Assoc_Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "147", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "224", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "310", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "416", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "419", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushil Kumar Shinde", 
+            "163", 
+            "Others"
+        ], 
+        [
+            "Shinde", 
+            "219", 
+            "Comment"
+        ], 
+        [
+            "N Kiran Kumar Reddy", 
+            "260", 
+            "Others"
+        ], 
+        [
+            "Shinde", 
+            "322", 
+            "Comment"
+        ], 
+        [
+            "N Chandrababu Naidu", 
+            "347", 
+            "Comment"
+        ], 
+        [
+            "V Dinesh Reddy", 
+            "381", 
+            "Others"
+        ], 
+        [
+            "Naidu", 
+            "402", 
+            "Comment"
+        ], 
+        [
+            "Rajnath Singh", 
+            "409", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:13", 
+        "Thursday:72", 
+        "2007:102", 
+        "Friday:111", 
+        "Friday morning:362"
+    ], 
+    "death": "16", 
+    "title": "Hyderabad bomb blasts: Initial probe suggests hand of Indian Mujahideen", 
+    "org_unorg": "", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "HYDERABAD : The initial investigations into the twin blasts in Dilsukhnagar on Thursday evening point to the involvement of Indian Mujahideen in the terror strike , according to police sources . However , a clear picture would emerge only in the next couple of days after the analysis of the blasts site is completed , feel the cops probing the terror strike . The powerful IEDs that were used in the Thursday 's blast are similar to the ones that were used to carry out the blasts at Lumbini Park near Tank Bund and Gokul Chat in Koti in Hyderabad in 2007 in which 42 persons were killed . On Friday morning , a team of the National Investigation Agency -LRB- NIA -RRB- descended on the site and began hunting for clues . Meanwhile , one more person succumbed to his injuries in Omni Hospital near Dilsukhnagar , taking the number of dead in the blasts to 16 . Union home minister Sushil Kumar Shinde , who visited the blasts site and Care Hospital where some of the injured are admitted , said apart from the dead , 117 persons have been injured of which at least six are in a serious condition . ` Investigations are on and it is too early to fix responsibility , ' Shinde said before leaving for Delhi to attend the Parliament session . The home minister also announced a compensation of Rs 2 lakh to the dead in addition to what was granted by the state government . Meanwhile , chief minister N Kiran Kumar Reddy held a high-level meeting to discuss the blasts and the follow up steps that are needed to be taken in its aftermath . Contrary to the claim of the centre , the state has been maintaining that there was no specific alert with regard to the Dilsukhnagar blasts . Perhaps in reaction to the state 's assertion , Shinde said in the morning that the alert given by the centre to the states two days ago was a general one . TDP chief N Chandrababu Naidu , who cut short his padayatra and visited the blasts site on Friday morning , blamed the state government . ` It is not right for the chief minister nor DGP V Dinesh Reddy to say that the alerts that were issued by the centre were of a routine nature , ' Naidu said . Meanwhile , BJP president Rajnath Singh was scheduled to land in Hyderabad and visit Dilsukhnagar . He is also slated to address the media in the evening . The state-wide bandh that has been called for by the BJP was peaceful till the afternoon .", 
+    "injured": "117", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "twin blasts:8", 
+        "ieds:66", 
+        "42 persons:105", 
+        "16:158", 
+        "union home minister:160", 
+        "visited the blasts site:168", 
+        "117 persons:189", 
+        "injured:193", 
+        "six are in a serious condition:198", 
+        "parliament session:228", 
+        "compensation of rs 2 lakh:237", 
+        "chief minister:258", 
+        "high-level meeting:266", 
+        "no specific alert:303", 
+        "tdp chief:345", 
+        "dgp:380", 
+        "bjp president:407", 
+        "state-wide bandh:434"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Hyderabad-bomb-blasts-Initial-probe-suggests-hand-of-Indian-Mujahideen/articleshow/18625615.cms?referral=PM", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "20", 
+            "Accused"
+        ], 
+        [
+            "Gokul Chat", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "118", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "Omni Hospital", 
+            "144", 
+            "Others"
+        ], 
+        [
+            "Care Hospital", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "TDP", 
+            "345", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "407", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "443", 
+            "Others"
+        ]
+    ]
+}

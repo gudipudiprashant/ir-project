@@ -1,0 +1,122 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "88", 
+            "Neutral"
+        ], 
+        [
+            "Rangia", 
+            "246", 
+            "Event"
+        ], 
+        [
+            "Kamrup", 
+            "248", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "U.K. Bansal", 
+            "46", 
+            "Comment"
+        ], 
+        [
+            "Bansal", 
+            "98", 
+            "Comment"
+        ], 
+        [
+            "B. Sanjio", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "Sylvia Orang", 
+            "198", 
+            "Accused"
+        ], 
+        [
+            "Soren", 
+            "213", 
+            "Accused"
+        ], 
+        [
+            "Bansal", 
+            "216", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:4", 
+        "Sunday:22"
+    ], 
+    "death": "", 
+    "title": "Centre tells Assam to step up vigil", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Centre on Monday asked Assam to maintain utmost vigil , especially on the rail network , in the wake of Sunday 's derailment of Puri Express following a bomb blast near Guwahati . . . Secretary -LRB- Internal Security -RRB- in the Home Ministry U.K. Bansal said the Assam government had assured the Centre that vigorous steps were being taken to apprehend those responsible for the blast . . . In the last three months , the Centre had shared a number of intelligence inputs with Assam on possible threats to the rail network , Mr. Bansal said in a statement . . . These inputs pointed to possible violent acts by the anti-talk faction of the National Democratic Front of Bodoland . However , the group 's publicity secretary , B. Sanjio , and the United Liberation Front of Asom have denied involvement in the blast . . . E-mail to TV channel . . It is learnt that an email has been received by a Guwahati-based television channel from a group called Adivasi People 's Army ' . This group has claimed responsibility for the blast . The email has been sent by one Sylvia Orang , a self-styled commander of the group . He is otherwise known as Soren , Mr. Bansal said . . . The IED blast damaged a stretch of the track and led to derailment of seven bogies of the train , injuring over 100 passengers near Rangia in Kamrup district .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        " Puri Express,Guwahati"
+    ], 
+    "O": [
+        "home ministry:44", 
+        "three months:75", 
+        "ied:222"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/centre-tells-assam-to-step-up-vigil/article2219952.ece", 
+    "date": "10-07-2011", 
+    "target": "TRAIN", 
+    "hot_spot": " Puri Express,Guwahati", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Assam government", 
+            "50", 
+            "Others"
+        ], 
+        [
+            "National Democratic Front of Bodoland", 
+            "119", 
+            "Accused"
+        ], 
+        [
+            "Liberation Front of Asom", 
+            "139", 
+            "Accused"
+        ], 
+        [
+            "Adivasi People 's Army", 
+            "176", 
+            "Accused"
+        ]
+    ]
+}

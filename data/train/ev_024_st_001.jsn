@@ -1,0 +1,134 @@
+{
+    "LOC": [
+        [
+            "KOLKATA", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Belacoba", 
+            "39", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "42", 
+            "Neutral"
+        ], 
+        [
+            "Jalpaiguri", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "north Bengal", 
+            "100", 
+            "Accused"
+        ], 
+        [
+            "Kamtapur", 
+            "151", 
+            "Neutral"
+        ], 
+        [
+            "north Bengal", 
+            "160", 
+            "Accused"
+        ], 
+        [
+            "Assam", 
+            "167", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Prasad Ranjan Roy", 
+            "190", 
+            "Others"
+        ], 
+        [
+            "Roy", 
+            "227", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "6.20 p.m.:49", 
+        "p.m.:50"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:52"
+    ], 
+    "death": "10", 
+    "title": "10 killed in train blast", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Jalpaiguri", 
+        "", 
+        "Jalpaiguri"
+    ], 
+    "terror_group": [
+        "KAMTAPUR LIBERATION ORGANISATION", 
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Special Correspondent . . KLO suspected to be behind the act . . KOLKATA : At least 10 persons were killed and nearly 50 injured in a powerful blast inside a compartment of the Haldibari-Siliguri Passenger train at Belacoba station in West Bengal 's Jalpaiguri district at around 6.20 p.m. on Monday . The condition of some of those injured was said to be critical . . . Unconfirmed reports said that the explosion had claimed at least 15 lives . . . The Kamtapur Liberation Organisation -LRB- KLO -RRB- , a militant outfit that has been active in north Bengal in the recent past and which has links with the United Liberation Front of Asom -LRB- ULFA -RRB- , is suspected to be behind the explosion . This , however , is yet to be officially ascertained . . . The KLO has been demanding a separate state of Kamtapur to be carved out of large parts of north Bengal and some districts in neighbouring Assam . . . For the first time in the State an explosion of such intensity has occurred , the State Home Secretary Prasad Ranjan Roy said . The death toll could rise , he feared . . . Senior police officials have rushed to the spot and the State Government has ordered an inquiry into the incident , Mr. Roy said . It is suspected that the bomb had been planted inside the compartment . Two compartments including the one where the blast occurred were extensively damaged . . . An alert has been sounded at all major railway stations in the State and vigil inside trains has been intensified , according to a State official .", 
+    "injured": "50", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Haldibari-Siliguri:35", 
+        "State Home Secretary:187"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/10-killed-in-train-blast/article3050762.ece", 
+    "date": "20-11-2006", 
+    "target": "TRAIN", 
+    "hot_spot": "Jalpaiguri", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "KLO", 
+            "5", 
+            "Accused"
+        ], 
+        [
+            "Kamtapur Liberation Organisation", 
+            "85", 
+            "Accused"
+        ], 
+        [
+            "KLO", 
+            "89", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "112", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "118", 
+            "Accused"
+        ], 
+        [
+            "KLO", 
+            "143", 
+            "Accused"
+        ], 
+        [
+            "State Government", 
+            "216", 
+            "Others"
+        ]
+    ]
+}

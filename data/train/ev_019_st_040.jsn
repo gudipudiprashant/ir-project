@@ -1,0 +1,247 @@
+{
+    "LOC": [
+        [
+            "Burdwan", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "76", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "163", 
+            "Event"
+        ], 
+        [
+            "Madrasa", 
+            "171", 
+            "Neutral"
+        ], 
+        [
+            "madrasa", 
+            "204", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "217", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "226", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "294", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "330", 
+            "Event"
+        ], 
+        [
+            "madarsa", 
+            "371", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "385", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "472", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mamata Banerjee", 
+            "466", 
+            "Comment"
+        ], 
+        [
+            "Mamata Banerjee", 
+            "505", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:29", 
+        "Sunday:194", 
+        "Thursday:229", 
+        "October 8:271"
+    ], 
+    "death": "", 
+    "title": "Burdwan Blast: A Pen Drive with Video on Bomb-making Key for Bengal Terror Investigation", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "", 
+        "Burdwan"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The bombs were detonated today on a sandy stretch a little away from Burdwan town.Burdwan : The West Bengal police 's handling of the initial investigation into the October 2 blast in Burdwan might have allowed at least three dozen people possibly connected with the explosion that killed two people , to escape to Bangladesh , say sources in the National Investigation Agency or NIA , which now has charge of the investigation . -LRB- Burdwan Blast Case : 30 Grenades Found From House Sealed by Bengal Police -RRB- The sources said the local police had failed to make much headway in the case even after the arrest of three prime suspects in the case . This despite the fact that the Bengal police had also recovered a pen drive from a house in the area , that had a recording of an instructor explaining in Urdu and Bangla how to make bombs , improvised explosive devices and hand grenades . -LRB- Burdwan Blast : National Investigation Agency Team Visits Madrasa -RRB- The pen drive has now been handed over to the NIA , which has , since it began its investigation on Sunday , also reportedly found material suggesting that an abandoned madrasa may have been used as a hub by people linked to the Burdwan blast to make bombs that were exported to Bangladesh . On Thursday , the NIA found more than 30 IEDs in the toilet of a house near the blast site - one that was searched and sealed by the state police eight days ago . The Bengal police had raided the house on October 8 after questioning the two women arrested in the case and found it vacant . -LRB- National Investigation Agency Files Complaint in Burdwan Blast Case -RRB- But yesterday , sniffer dogs of the NIA and the elite National Security Guards or NSG found the bombs , which were detonated today on a sandy stretch a little away from Burdwan town . The NIA reportedly estimates that about 36 people allegedly associated with the manufacturing of bombs and hand grenades should have been in apprehended , among them terror masterminds . But the local police did not even raid the madarsa , which came under the scanner after the two women arrested for the Burdwan blast allegedly admitted their links with it . The opposition in the state , including the BJP that rules at the Centre , has alleged that the state police are hiding evidence at the behest of the ruling Mamata Banerjee-led Trinamool Congress , which had vehemently opposed handing the case over to the NIA . The Trinamool has lashed back , saying the party has full confidence in the state police . In a recent Facebook post , Chief Minister Mamata Banerjee did not mention the Burdwan blast directly or the deployment of NIA , but accused the Centre of violating the federal structure of the country . -LRB- BJP 's Arrogance , Conduct Reminiscent of Emergency Days : Mamata Banerjee -RRB- .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "30 Grenades:80", 
+        "local police:94", 
+        "pen drive:129", 
+        "Urdu:147", 
+        "Bangla:149", 
+        "explosive devices:156", 
+        "hand grenades:159", 
+        "pen drive:174", 
+        "30 IEDs:236", 
+        "detonated:320", 
+        "grenades:350", 
+        "local police:364", 
+        "police:365", 
+        "state police:413", 
+        "state police:455", 
+        "police:456"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/burdwan-blast-a-pen-drive-with-video-on-bomb-making-key-for-bengal-terror-investigation-680626", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "West Bengal police", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "Bengal Police", 
+            "87", 
+            "Others"
+        ], 
+        [
+            "Bengal police", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency Team", 
+            "166", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "183", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "232", 
+            "Others"
+        ], 
+        [
+            "Bengal police", 
+            "264", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "288", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "305", 
+            "Others"
+        ], 
+        [
+            "elite National Security Guards", 
+            "308", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "313", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "334", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "402", 
+            "Others"
+        ], 
+        [
+            "Mamata Banerjee-led Trinamool Congress", 
+            "424", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "439", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "442", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "479", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "495", 
+            "Others"
+        ]
+    ]
+}

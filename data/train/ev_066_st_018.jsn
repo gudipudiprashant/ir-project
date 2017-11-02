@@ -1,0 +1,159 @@
+{
+    "LOC": [
+        [
+            "Pakistan", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "44", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "46", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "106", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "108", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "121", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "123", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "169", 
+            "Neutral"
+        ], 
+        [
+            "Samjhauta Express", 
+            "287", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "296", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "298", 
+            "Neutral"
+        ], 
+        [
+            "Dewana", 
+            "399", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "406", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "451", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Laloo Prasad", 
+            "101", 
+            "Comment"
+        ], 
+        [
+            "Sriprakash Jaiswal", 
+            "134", 
+            "Comment"
+        ], 
+        [
+            "Khursheed Kasuri", 
+            "163", 
+            "Others"
+        ], 
+        [
+            "Tasnim Aslam", 
+            "185", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "248", 
+            "Comment"
+        ], 
+        [
+            "Bharti Arora", 
+            "367", 
+            "Comment"
+        ], 
+        [
+            "Mohammed Wasim Khan", 
+            "492", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 458"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 457", 
+        "Sunday : 510"
+    ], 
+    "death": "66", 
+    "title": "66 Die in India-Pakistan Train Attack", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "DEWANA , India -- An explosion on a train headed for Pakistan set off a fire that swept through two cars and killed at least 66 people in an attack that a government minister said was aimed at undermining the peace process between India and Pakistan . . . Authorities said two suitcases packed with unexploded crude bombs and bottles of gasoline were found in cars not hit in the attack , leading them to suspect the fire was set off by an identical explosive device . . . `` This is an act of sabotage , '' Railway Minister Laloo Prasad told reporters in Patna , India . `` This is an attempt to derail the improving relationship between India and Pakistan . '' . . India 's junior home Minster , Sriprakash Jaiswal , said the homemade bombs were not powerful , and were simply intended to start a fire on the train , one day before Pakistani Foreign Minister Khursheed Kasuri was to arrive in New Delhi for talks on the ongoing peace process . . . Pakistani Foreign Ministry spokeswoman Tasnim Aslam said there were `` all kinds of terrorists '' who may have been behind the attack but said it was too early to speculate about the possible motive . . . `` We expect the Indian authorities to conduct a full investigation and punish those responsible for this heinous act of terrorism , '' she said . . . Prime Minister Manmohan Singh expressed anguish and grief at the loss of lives and said that `` the culprits will be caught , '' a brief statement by his office said . . . The fire engulfed two cars of the Samjhauta Express , one of two train links between India and Pakistan . As on most Indian trains , the windows of many cars are barred . In addition , investigators say at least one of the doors of the two burning carriages was fused shut by the heat of the flames , trapping some passengers inside . . . `` From the less damaged coach , some people were seen jumping out with their bodies on fire , '' Bharti Arora , superintendent of the Haryana state railway police , told reporters . . . The explosion and fire struck just before the train reached the station in the village of Dewana , about 50 miles north of New Delhi . In a stretch of nearly empty countryside , there was almost no one around to help . But townspeople and villagers soon flocked to the scene with buckets to try to put out the fire . . . Frantic relatives flocked to New Delhi 's main railway station Monday morning in search of answers . But there was only a handwritten list , posted on a bulletin board , with the names of 13 injured people and one identified body . . . Mohammed Wasim Khan , who had dropped off his uncle and two young nephews at the station late Sunday , said railway officials had brusquely told him to take a train to the scene of the blast if he wanted more information . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "two cars:20", 
+        "Railway Minister:99", 
+        "Foreign Minister:161"
+    ], 
+    "unexpl": [
+        "GASOLINE"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.washingtonpost.com/wp-dyn/content/article/2007/02/18/AR2007021801136.html", 
+    "date": "19-02-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "Haryana state railway police", 
+            "373", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Haryana", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Bikaner", 
+            "39", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Panipat", 
+            "48", 
+            "Event"
+        ], 
+        [
+            "Bikaner", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "Panipat", 
+            "101", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "156", 
+            "Neutral"
+        ], 
+        [
+            "Lahore", 
+            "267", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "294", 
+            "Neutral"
+        ], 
+        [
+            "Bulandshahr", 
+            "304", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "306", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "320", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Salman", 
+            "83", 
+            "Accused"
+        ], 
+        [
+            "Zahid", 
+            "237", 
+            "Others"
+        ], 
+        [
+            "Zahid", 
+            "257", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "week : 50"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 103", 
+        "Sunday night : 171", 
+        "Saturday : 248", 
+        "Sunday night : 280"
+    ], 
+    "death": "", 
+    "title": "Haryana police question over a dozen people", 
+    "det_loc": [
+        "India", 
+        "Haryana", 
+        "", 
+        "Panipat", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . Interrogation of detained person in connection with Samjhauta blasts yields no result . . NEW DELHI : The Haryana police have so far not come across any evidence to link the man detained at Bikaner in Rajasthan to the Samjhauta Express blasts near Panipat a week ago . They are now questioning over a dozen people picked up on the basis of their resemblance to the sketches of the suspects . . . The police have thoroughly interrogated Salman , who was picked up from the residence of a railway employee at Bikaner and brought to Panipat on Friday , but nothing has come of it yet . . . Following the release of sketches of the suspects , the police have received a number of calls from the public . Acting on the tip-offs , they have picked up more than a dozen people , some of who belong to Uttar Pradesh . ` They are being questioned to find out where they were on Sunday night at the time of the blasts , ' said a police officer . . . Few fingerprints . . It is learnt that a forensic team has lifted a few fingerprints from inside one of the suitcases containing the unexploded bomb , which would be matched with those being brought for questioning . . . The police had earlier picked up a Pakistani , Zahid , for questioning . However , he was released on Saturday after verification of his antecedents . . . Zahid told the police that he was to return to Lahore along with his mother and younger brother by the Samjhauta Express on Sunday night , but due to a quarrel with his brother at the old Delhi station , he changed his plans and returned to Bulandshahr in Uttar Pradesh . . . Meanwhile , efforts of the Special Cell of the Delhi police to find out the place from where the suitcases , used for planting the bombs , had been purchased have not yielded any results .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Interrogation:5", 
+        "detained person:7", 
+        "connection:10", 
+        "Samjhauta blasts:12", 
+        "no result:15", 
+        "evidence:32", 
+        "link:34", 
+        "detained:37", 
+        "Samjhauta Express blasts:44", 
+        "questioning:56", 
+        "dozen people:59", 
+        "resemblance:68", 
+        "sketches:71", 
+        "suspects:74", 
+        "interrogated:82", 
+        "residence:91", 
+        "railway employee:94", 
+        "release of sketches:117", 
+        "suspects:122", 
+        "received:127", 
+        "calls:131", 
+        "public:134", 
+        "questioned:163", 
+        "blasts:178", 
+        "Few fingerprints:188", 
+        "forensic team:197", 
+        "fingerprints:203", 
+        "suitcases:209", 
+        "unexploded bomb:212", 
+        "Pakistani:235", 
+        "released:246", 
+        "verification:250", 
+        "antecedents:253", 
+        "return:265", 
+        "Samjhauta Express:277", 
+        "quarrel:287", 
+        "old Delhi station:293", 
+        "plans:300", 
+        "returned:302", 
+        "efforts:313", 
+        "Special Cell:316", 
+        "Delhi police:320", 
+        "suitcases:330", 
+        "planting:334", 
+        "bombs:336", 
+        "purchased:340"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/haryana-police-question-over-a-dozen-people/article1802282.ece", 
+    "date": "18-02-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

@@ -1,0 +1,179 @@
+{
+    "LOC": [
+        [
+            "Patna", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "Dhurwa", 
+            "113", 
+            "Accused"
+        ], 
+        [
+            "Ranchi", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "Jharkhand", 
+            "117", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "168", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "172", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "180", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "198", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Imtiyaz Ansari", 
+            "107", 
+            "Accused"
+        ], 
+        [
+            "Imtiyaz", 
+            "158", 
+            "Accused"
+        ], 
+        [
+            "Narendra Modi", 
+            "183", 
+            "Others"
+        ], 
+        [
+            "Imtiyaz", 
+            "189", 
+            "Accused"
+        ], 
+        [
+            "Mujibulla", 
+            "243", 
+            "Accused"
+        ], 
+        [
+            "Hyder Ali", 
+            "245", 
+            "Accused"
+        ], 
+        [
+            "Numan", 
+            "248", 
+            "Accused"
+        ], 
+        [
+            "Taufiq Ansari", 
+            "250", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:9"
+    ], 
+    "death": "", 
+    "title": "Patna blast case: NIA files charge sheet", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "", 
+        "Patna"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "The National Investigation Agency -LRB- NIA -RRB- on Thursday filed first charge sheet in the case relating to the last years Patna serial blasts . . . The NIA has so far arrested eight suspects for their alleged involvement in the explosions . . . Investigation into the serial blasts at Gandhi Maidan and Patna railway station was handed over to the NIA . During the probe , eight accused were arrested of whom one succumbed to injuries sustained while planting a bomb at the railway station , said an NIA official . . . Since the investigation in respect of one of the accused , Imtiyaz Ansari , a resident of Dhurwa in Ranchi -LRB- Jharkhand -RRB- , has been completed , the agency filed the charge sheet against him under various provisions of the Indian Penal Code , Explosive Substances Act and other laws at an NIA special court . . . Investigations revealed that Imtiyaz along with others had planted the bombs at the Patna railway station and Gandhi Maidan , where the Hunkar rally of Gujarat Chief Minister Narendra Modi was being organised . Imtiyaz was associated with the Students Islamic Movement of India and also had very close links with the members of Indian Mujahideen , said an NIA release . . . Cash rewards ranging from Rs . 5 lakh to Rs . 10 lakh have been declared for the arrest of the absconding accused -- Mujibulla , Hyder Ali , Numan and Taufiq Ansari . Efforts are being made to track them down , an official added .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Indian Penal Code:137"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/other-states/patna-blast-case-nia-files-charge-sheet/article5944703.ece", 
+    "date": "24-04-2014", 
+    "target": "", 
+    "hot_spot": "Patna", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "29", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "Indian", 
+            "209", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "209", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "214", 
+            "Others"
+        ]
+    ]
+}

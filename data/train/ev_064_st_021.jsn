@@ -1,0 +1,80 @@
+{
+    "LOC": [
+        [
+            "Sawantwadi", 
+            "9", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Aurangabad", 
+            "76", 
+            "Accused"
+        ], 
+        [
+            "Nandanvan colony", 
+            "92", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Baig", 
+            "32", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "9 pm:96"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:4", 
+        "Tuesday:22"
+    ], 
+    "death": "", 
+    "title": "One detained in connection with blasts", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The police on Wednesday detained a person in Sawantwadi in connection with the serial blasts in Mumbai 's suburban trains on Tuesday . . . The suspect , only identified as Baig , was picked up for interrogation , police sources said . . . They , however , refused to divulge any further information saying interrogation was still on . . . Meanwhile , the Anti-terrorist cell conducted searches at the residence of an Aurangabad doctor . . . The police conducted searches at the residence of the doctor in Nandanvan colony at around 9 pm , sources said . . . They , however , refused to divulge details regarding the searches . .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "police:2", 
+        "serial blasts:14", 
+        "interrogation:38", 
+        "searches:70"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/13train1.htm", 
+    "date": "11-07-2006", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-terrorist cell", 
+            "67", 
+            "Others"
+        ]
+    ]
+}

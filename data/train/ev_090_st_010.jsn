@@ -1,0 +1,296 @@
+{
+    "LOC": [
+        [
+            "Srinagar attack", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar attack", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "India and Pakistan", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "99", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "130", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "148", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "156", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "184", 
+            "Neutral"
+        ], 
+        [
+            "cities of Ranchi", 
+            "192", 
+            "Neutral"
+        ], 
+        [
+            "Ranchi , Lucknow", 
+            "194", 
+            "Neutral"
+        ], 
+        [
+            "Ranchi", 
+            "194", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow ,", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "198", 
+            "Neutral"
+        ], 
+        [
+            "Mohali", 
+            "200", 
+            "Neutral"
+        ], 
+        [
+            "Jalandhar", 
+            "202", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "210", 
+            "Neutral"
+        ], 
+        [
+            "Lahore", 
+            "229", 
+            "Neutral"
+        ], 
+        [
+            ", Faisalabad ,", 
+            "230", 
+            "Neutral"
+        ], 
+        [
+            "Faisalabad", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "233", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "242", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "244", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "260", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "293", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "295", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "April:204", 
+        "April 23:237", 
+        "2006:252"
+    ], 
+    "death": "", 
+    "title": "Srinagar attack: India, Pakistan hockey series called off", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Srinagar attack : After the deadly fidayeen assault on the CRPF camp in Srinagar , that left 5 CRPF troops dead , the diplomatic tensions between India and Pakistan has yet again spilled over onto the sporting arena . The Indian government has refused permission for a home-and-away bilateral hockey series between the two countries on security grounds . . . A top source in Hockey India today said that they have received a communication from the Ministry of External Affairs asking it call off the bilateral series . . . `` The bilateral series between India and Pakistan has been cancelled as the Ministry of External Affairs did not give us permission . The MEA had sent a fax to us yesterday , asking us not to host Pakistan or travel to the country for the series , '' the source said . . . The Pakistan 's hockey team was scheduled to tour India next month for five Test matches , which would have revived the bilateral hockey ties between the two traditional rivals in nearly seven years . . . Pakistan was expected to play matches in the cities of Ranchi , Lucknow , Delhi , Mohali and Jalandhar between April 5-15 . . . After Pakistan 's visit , the Indian team was scheduled to pay a return visit and play five matches in Lahore , Faisalabad , Karachi and Sialkot from April 23 . . . Pakistan and India last played a bilateral hockey series in 2006 -- three matches in each country . Pakistan won three and lost one while the remaining two were drawn . . . The cancellation of the hockey rubber came close on the heels of an abandoned bilateral snooker series between India and Pakistan earlier this month following Government 's objection .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Srinagar:1", 
+        "attack:2", 
+        "fidayeen assault:7", 
+        "camp:12", 
+        "crpf:19", 
+        "arena:38", 
+        "government:42", 
+        "permission:45", 
+        "hockey series:50", 
+        "security:57", 
+        "a:62", 
+        "source in:64", 
+        "source:64", 
+        "in:65", 
+        "in hockey:65", 
+        "hockey:66", 
+        "received:73", 
+        "from the ministry of:76", 
+        "from:76", 
+        "ministry of:78", 
+        "the:86", 
+        ".:91", 
+        "the:93", 
+        "the bilateral series:93", 
+        "series:95", 
+        "been cancelled as the:101", 
+        "been:101", 
+        "as the:103", 
+        "did:109", 
+        "us:112", 
+        "mea:116", 
+        "a:119", 
+        "asking:125", 
+        "asking us:125", 
+        "us:126", 
+        "or:131", 
+        "the:134", 
+        "series:138", 
+        "source:142", 
+        ". .:144", 
+        "hockey:150", 
+        "was:152", 
+        "tour:155", 
+        "which:164", 
+        "rivals:176", 
+        "expected:186", 
+        "play:188", 
+        "in:190", 
+        "cities:192", 
+        ".:206", 
+        "visit ,:212", 
+        "to:219", 
+        "a:221", 
+        "visit:223", 
+        "visit and play:223", 
+        "play:225", 
+        "play five matches:225", 
+        "matches:227", 
+        "matches in:227", 
+        ",:230", 
+        ",:232", 
+        "played:246", 
+        "bilateral:248", 
+        "three:262", 
+        "one while:265", 
+        "cancellation of:276", 
+        "hockey rubber came:279", 
+        "hockey:279", 
+        "came:281", 
+        "the:284", 
+        "of:286", 
+        "abandoned:288"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/srinagar-attack-india-pakistan-hockey-series-called-off/1088567/", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CRPF camp", 
+            "11", 
+            "Others"
+        ], 
+        [
+            "CRPF camp", 
+            "11", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "11", 
+            "Others"
+        ], 
+        [
+            "Ministry of External Affairs", 
+            "78", 
+            "Others"
+        ]
+    ]
+}

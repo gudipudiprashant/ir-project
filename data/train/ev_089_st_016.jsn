@@ -1,0 +1,363 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "UP", 
+            "202", 
+            "Assoc_Event"
+        ], 
+        [
+            "Hyderabad", 
+            "267", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "307", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "347", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "351", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "353", 
+            "Neutral"
+        ], 
+        [
+            "Coimbatore", 
+            "355", 
+            "Neutral"
+        ], 
+        [
+            "Hubli", 
+            "357", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "362", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "364", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "387", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "456", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "492", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "503", 
+            "Event"
+        ], 
+        [
+            "Andhra", 
+            "541", 
+            "Neutral"
+        ], 
+        [
+            "AP", 
+            "620", 
+            "Neutral"
+        ], 
+        [
+            "Gokul Chat Bhandar", 
+            "714", 
+            "Assoc_Event"
+        ], 
+        [
+            "Lumbini Park", 
+            "718", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "771", 
+            "Assoc_Event"
+        ], 
+        [
+            "Hyderabad", 
+            "792", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "795", 
+            "Neutral"
+        ], 
+        [
+            "Coimbatore", 
+            "797", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "897", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushilkumar Shinde", 
+            "251", 
+            "Comment"
+        ], 
+        [
+            "Afzal Guru", 
+            "280", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Guru", 
+            "310", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Hafiz Saeed", 
+            "321", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Shinde", 
+            "434", 
+            "Others"
+        ], 
+        [
+            "Syed Maqbool", 
+            "535", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Imran", 
+            "538", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Shinde", 
+            "610", 
+            "Others"
+        ], 
+        [
+            "Riyaz Bhatkal", 
+            "709", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Guru", 
+            "759", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Ajmal Kasab", 
+            "773", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Kasab", 
+            "787", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Shinde", 
+            "808", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:17", 
+        "Thursday:107", 
+        "Friday:141", 
+        "November:195", 
+        "November 2007:195", 
+        "Saturday:289", 
+        "February:391", 
+        "February 19:391", 
+        "February:449", 
+        "February 20:449", 
+        "Thursday:481", 
+        "July:551", 
+        "2007:676", 
+        "November:781", 
+        "February:823", 
+        "February 19:823", 
+        "1999:916", 
+        "2002:930", 
+        "2007:942", 
+        "Thursday:962"
+    ], 
+    "death": "16", 
+    "title": "Indian Mujahideen hand becomes clearer in Hyderabad blasts", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        "Dilsukhnagar"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "NEW DELHI : As investigators trawl the devastated spots in Hyderabad 's Dilsukhnagar for clues to Thursday 's twin blasts , a debate has begun in the home ministry over whether the terror attack could have been prevented . According to reports reaching here , there is no breakthrough yet for the investigators . ` We are still groping in the dark , ' a senior home ministry official familiar with the details of the probe said . However , there was relief after it turned out that some of the CCTV cameras in the ill-fated locality were functional at the time of the explosions on Thursday evening and , therefore , might be holding pointers . Senior sources disputed reports that the wires of CCTV cameras had been snapped four days ago . The MHA had fewer doubts on Friday about the involvement of Indian Mujahideen in the attack . The bombs carried the signature of IM . Both the devices were packed with ammonium nitrate and shrapnel with a timer mechanism : the staple of IM bomb-makers . The use of cycles to strap bombs has also been an IM trademark since November 2007 when they attacked courts in UP . Both bombs were designed to ensure that the impact of explosions was concentrated on one side : again a stock in trade for IM which has used boat-shaped devices earlier in order to maximize casualties . Faced with allegations of intelligence failure in Parliament , home minister Sushilkumar Shinde pointed out that the Centre has issued a series of alerts to authorities in Hyderabad about a possible terrorist reprisal against the hanging of Parliament attack convict Afzal Guru . The first advisory went out on Saturday , alerting states against the threat of United Jehad Council to launch a fresh terror campaign against India to avenge Guru 's hanging . The message was amplified by Lashkar chief Hafiz Saeed . Although the first alert was general in nature , intelligence agencies , acting on basis of intercepts , refined it to caution that Hyderabad , along with Mumbai , Bangalore , Coimbatore and Hubli and certain places in Gujarat and Maharashtra , could be on the hit list of terrorists desperate to make good their threat . This message highlighting the threat to Hyderabad was sent on February 19 . The following day , Intelligence Bureau asked the states to step up vigil at places which were known to be on the radar of terrorists and had been recced . Centre 's concern , prompted by clear inputs according to Shinde , that a terrorist strike could be in the works manifested itself again on February 20 , when it repeated that Hyderabad could be among the likely targets along with other places . The same anxiety led the government to sound the same alert anew on Thursday morning just eight hours before the bombs went off in Hyderabad , killing at least 16 and maiming many more . Dilsukhnagar fitted the bill , having been surveyed by an IM module as recently as last year . Delhi Police had on the basis of testimonies of two alleged IM terrorists , Syed Maqbool and Imran , told Andhra authorities that the locality was recceed as recently in July last year . Sources in the home ministry said that the emphasis on the sites which had already been reconnoitered reflected the assessment that the terrorists were under pressure to do something spectacular sooner than later and , hence , focussed on locales they were already familiar with . Centre refrained from blaming the state government , with Shinde saying in Rajya Sabha that the calm professionalism of AP cops was worth emulating . But many in his own ministry wondered whether cops could have prevented the carnage by upping their guard in response to a series of advisories . There was also puzzlement about the reasons why they failed to do so despite the fact that terrorists had targeted the same spot in 2007 . The last attempt failed only because the device planted by IM terrorists failed to go off , sparing the locality the devastation caused by the bombs the same module led by Riyaz Bhatkal had planted at Gokul Chat Bhandar and Lumbini Park . According to sources , one possible explanation could be the fatigue among cops over having to deal with the same kind of alerts over and over again . They said the counter-terror advisories issued in the wake of Guru 's hanging were not different from those which were sent after Mumbai attacker Ajmal Kasab was sent to the gallows in November . The alerts issued after Kasab 's execution had mentioned Hyderabad along with Bangalore and Coimbatore among the vulnerable spots . Speaking in Rajya Sabha , Shinde emphasized that the Centre had strong reasons to hoist the caution sign higher after February 19 and afterwards . If this was the case , the authorities clearly failed to impress the urgency upon the men at ground zero Sources said that the routine of having to respond to the same kind of cues repeatedly could not but lead to a dulling of response : a vulnerability which could be exploited by a terrorist group set on a particular target as has been the case with IM and Dilsukhnagar . The predominantly Hindu locality with a history of communal tension has been consistently targeted by terrorists since 1999 when they unsuccessfully planted a bomb there . The terrorists returned again in 2002 when a bomb claimed two lives . Residents were lucky in 2007 when the bomb planted there did not go off , but the determined group had had their way on Thursday .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "twin blasts:19", 
+        "terror attack could have been prevented:33", 
+        "CCTV cameras in the ill-fated locality:92", 
+        "cycles to strap bombs:184", 
+        "maximize casualties:237", 
+        "intelligence failure in Parliament:244", 
+        "parliament attack:277", 
+        "fresh terror campaign:303", 
+        "guru 's hanging:310", 
+        "vigil:406", 
+        "radar of terrorists:416", 
+        "response to a series of advisories:645", 
+        "fatigue among cops:731", 
+        "same kind of alerts over and over:740", 
+        "counter-terror advisories:752", 
+        "ground zero:846", 
+        "Hindu locality:901", 
+        "communal tension:907", 
+        "targeted by terrorists:912", 
+        "unsuccessfully planted a bomb:919"
+    ], 
+    "unexpl": [
+        "MECHANICAL TIMERS", 
+        "NAILS"
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Indian-Mujahideen-hand-becomes-clearer-in-Hyderabad-blasts/articleshow/18635772.cms?referral=PM", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": [
+        [
+            "MHA", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "146", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "158", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "178", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "192", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "227", 
+            "Accused"
+        ], 
+        [
+            "United Jehad Council", 
+            "297", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Lashkar", 
+            "319", 
+            "Assoc_Accused"
+        ], 
+        [
+            "intelligence agencies", 
+            "333", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "398", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "513", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "521", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "532", 
+            "Accused"
+        ], 
+        [
+            "Rajya Sabha", 
+            "613", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "688", 
+            "Accused"
+        ], 
+        [
+            "Rajya Sabha", 
+            "805", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "895", 
+            "Accused"
+        ]
+    ]
+}

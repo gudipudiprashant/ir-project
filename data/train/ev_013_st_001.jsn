@@ -1,0 +1,158 @@
+{
+    "LOC": [
+        [
+            "Dibrugarh",
+            "127", 
+            "Event"
+        ], 
+        [
+            "Assam",
+            "198", 
+            "Event"
+            
+        ], 
+        [
+            "Assam", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "GUWAHATI", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Sivasagar", 
+            "39", 
+            "Neutral"
+        ], 
+        [
+            "Majgaon", 
+            "72", 
+            "Neutral"
+        ], 
+        [
+            "Mathurapur", 
+            "75", 
+            "Neutral"
+        ], 
+        [
+            "Tinsukia", 
+            "201", 
+            "Neutral"
+        ], 
+        [
+            "Dibruagarh", 
+            "203", 
+            "Neutral"
+        ], 
+        [
+            "Sivasagar", 
+            "205", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "11", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 42", 
+        "fortnight : 194"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "JUNE 24 : 17"
+    ], 
+    "death": "7", 
+    "title": "Blast in Assam  bus kills 7", 
+    "org_unorg": "", 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM"
+    ], 
+    "content": "National Blast in Assam bus kills 7 . . By Sushanta Talukdar . . GUWAHATI , JUNE 24 . Seven passengers were killed and 18 others injured in a bomb blast in a bus in upper Assam 's Sivasagar district this morning . . . Police suspect the banned United Liberation Front of Asom -LRB- ULFA -RRB- , to be behind it . . . As soon as the bus reached Majgaon area under Mathurapur police station , a powerful blast ripped apart the bus killing four passengers , including a woman on the spot , and injuring 18 others . While one passenger died at Sonari Civil Hospital , two others died on way to the Assam Medical College Hospital -LRB- AMCH -RRB- in neighbouring Dibrugarh district . Seven of the critically injured passengers were admitted to the AMCH . . . Police were still trying to ascertain if the blast occurred inside the bus or an explosive device had been planted on the road . A gas cylinder carried by one of the passengers could have added to the intensity to the blast . This was the sixth blast in a fortnight in the upper Assam districts of Tinsukia , Dibruagarh and Sivasagar .", 
+    "injured": "18", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Sivasagar", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "blast:2", 
+        "kills:6", 
+        "killed:23", 
+        "injured:27", 
+        "bomb blast:30", 
+        "suspect:47", 
+        "banned:49", 
+        "mathurapur police station:75", 
+        "powerful blast:80", 
+        "killing:86", 
+        "four passengers:87", 
+        "passenger died:104", 
+        "critically injured passengers:133", 
+        "admitted:137", 
+        "blast:152", 
+        "explosive device:159", 
+        "planted:163", 
+        "gas cylinder:169", 
+        "intensity:182", 
+        "blast:185", 
+        "sixth blast:190"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2004/06/25/stories/2004062506031100.htm", 
+    "date": "24-06-2004", 
+    "target": "BUS", 
+    "hot_spot": "", 
+    "delivery_mod": "BUS", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "Sonari Civil Hospital", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "Assam Medical College Hospital", 
+            "118", 
+            "Others"
+        ], 
+        [
+            "AMCH", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "AMCH", 
+            "140", 
+            "Others"
+        ]
+    ]
+}

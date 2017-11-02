@@ -1,0 +1,241 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "Fakiragram", 
+            "73", 
+            "Assoc_Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "75", 
+            "Assoc_Event"
+        ], 
+        [
+            "Sesapani", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Nagajan", 
+            "162", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "164", 
+            "Event"
+        ], 
+        [
+            "Panbari", 
+            "231", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "233", 
+            "Event"
+        ], 
+        [
+            "Agartala", 
+            "293", 
+            "Neutral"
+        ], 
+        [
+            "Tripura", 
+            "302", 
+            "Event"
+        ], 
+        [
+            "Jirania", 
+            "348", 
+            "Event"
+        ], 
+        [
+            "Tripura", 
+            "354", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "night : 29", 
+        "9 a.m.:41", 
+        "15 minutes : 95", 
+        "48 hours : 115", 
+        "20 minutes : 143", 
+        "night : 167", 
+        "afternoon : 264", 
+        "night : 322", 
+        "night : 362"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:28", 
+        "Friday:166"
+    ], 
+    "death": "4", 
+    "title": "4 killed as militants step up violence", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Assam", 
+        "upper and lower Assam "
+    ], 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM"
+    ], 
+    "content": "After a brief lull , the ULFA and the Bodo militant outfit , NDFB , carried out a number of attacks in upper and lower Assam on Friday night , killing four persons . . . A bomb detonated around 9 a.m. by the NDFB militants snapped the rail link between Assam and the rest of the country . Nine wagons of a cement-laden goods train were derailed in the blast between Fakiragram and Kokrajhar stations . It is suspected that the militants ' target was a passenger train which had passed that area 15 minutes earlier . Railway officials said here today that the line restoration work had started but might take another 48 hours to restore the link . In another incident , militants fired at an armed police post at nearby Sesapani and the exchange of fire continued for 20 minutes . None was injured . . . The ULFA hijacked an Oil India Ltd. staff bus at Nagajan in Tinsukia on Friday night and drove it to a CISF camp . As a havildar opened the gate , he was shot dead . Another jawan was injured and died later . In the retaliatory fire by the CISF jawans , one militant was killed , while the others escaped . Earlier , they threw a rocket-propelled grenade on an oil tanker which was empty.Later , at Panbari in Dhubri the ULFA attacked a CRPF post . One militant was killed while a civilian driver and two CRPF jawans were injured . Senior civil and police officials met here this afternoon and reviewed the security scenario in view of the stepped up activities of the militants . . . Rocket attacks on security forces . . PTI reports from Agartala : . . For the first time in Tripura , militants used rockets to attack security forces even as they killed four persons in separate incidents since last night , police said today . . . Two groups of the banned All-Tripura Tiger Force -LRB- ATTF -RRB- fired rockets at a CRPF camp in Jirania and the battalion headquarters of Tripura State Rifles in the same area last night , the police said . . . The attacks appeared to be planned as the rockets were fired at the same time . No casualty was reported in the rocket attack .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "militants:46", 
+        "derailed:68", 
+        "militants:83", 
+        "Railway officials:99", 
+        "militants:126", 
+        "havildar:178", 
+        "jawan:189", 
+        "militant:206", 
+        "militant:242", 
+        "civilian driver:247", 
+        "Senior civil:256", 
+        "Rocket:283", 
+        "PTI:290", 
+        "militants:304", 
+        "rockets:306", 
+        "fired rockets:341", 
+        "battalion headquarters:351", 
+        "rocket attack:392"
+    ], 
+    "unexpl": [
+        "DETONATORS"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2003/06/22/stories/2003062205061000.htm", 
+    "date": "20-06-2003", 
+    "target": "", 
+    "hot_spot": "upper and lower Assam ", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "ROCKET-PROPELLED GRENADE"
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "7", 
+            "Accused"
+        ], 
+        [
+            "Bodo militant", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "NDFB", 
+            "14", 
+            "Accused"
+        ], 
+        [
+            "NDFB", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "armed police", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "153", 
+            "Accused"
+        ], 
+        [
+            "Oil India Ltd.", 
+            "156", 
+            "Others"
+        ], 
+        [
+            "CISF", 
+            "173", 
+            "Accused"
+        ], 
+        [
+            "CISF", 
+            "202", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "235", 
+            "Accused"
+        ], 
+        [
+            "CRPF", 
+            "238", 
+            "Accused"
+        ], 
+        [
+            "CRPF", 
+            "251", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "259", 
+            "Others"
+        ], 
+        [
+            "security forces", 
+            "286", 
+            "Others"
+        ], 
+        [
+            "security forces", 
+            "309", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "324", 
+            "Others"
+        ], 
+        [
+            "All-Tripura Tiger Force", 
+            "335", 
+            "Accused"
+        ], 
+        [
+            "ATTF", 
+            "339", 
+            "Accused"
+        ], 
+        [
+            "CRPF", 
+            "345", 
+            "Accused"
+        ], 
+        [
+            "Tripura State Rifles", 
+            "354", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "365", 
+            "Others"
+        ]
+    ]
+}

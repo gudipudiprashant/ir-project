@@ -1,0 +1,245 @@
+{
+    "LOC": [
+        [
+            "AHMEDABAD", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "17", 
+            "Accused"
+        ], 
+        [
+            "Kolkata", 
+            "55", 
+            "Accused"
+        ], 
+        [
+            "Waghamon", 
+            "162", 
+            "Source"
+        ], 
+        [
+            "Kerala", 
+            "164", 
+            "Source"
+        ], 
+        [
+            "Halol", 
+            "166", 
+            "Source"
+        ], 
+        [
+            "Vadodara", 
+            "168", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Amir Raza Khan", 
+            "9", 
+            "Accused"
+        ], 
+        [
+            "Riyaz Bhatkal", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "Iqbal", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "Amir Raza Khan", 
+            "38", 
+            "Accused"
+        ], 
+        [
+            "Riyaz Bhatkal", 
+            "58", 
+            "Accused"
+        ], 
+        [
+            "Safdar Nagori", 
+            "119", 
+            "Accused"
+        ], 
+        [
+            "Hafez Hussain", 
+            "122", 
+            "Accused"
+        ], 
+        [
+            "Sibli Abdul Karim", 
+            "125", 
+            "Accused"
+        ], 
+        [
+            "Kamruddin Nagori", 
+            "129", 
+            "Accused"
+        ], 
+        [
+            "Amil Parvez", 
+            "132", 
+            "Accused"
+        ], 
+        [
+            "Mufti Abu Basher", 
+            "135", 
+            "Accused"
+        ], 
+        [
+            "Abdus Subhan", 
+            "143", 
+            "Accused"
+        ], 
+        [
+            "Tauqeer", 
+            "146", 
+            "Accused"
+        ], 
+        [
+            "Qayamuddin Kapadia", 
+            "148", 
+            "Accused"
+        ], 
+        [
+            "Qayamuddin", 
+            "173", 
+            "Accused"
+        ], 
+        [
+            "Tauqeer", 
+            "175", 
+            "Accused"
+        ], 
+        [
+            "Abu Basher", 
+            "248", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 26 : 35", 
+        "2001 : 214"
+    ], 
+    "death": "", 
+    "title": "'Ahmedabad blasts carried out on the direction of Pak's Amir Raza Khan'", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI", 
+        "STUDENTS ISLAMIC MOVEMENT OF INDIA", 
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "AHMEDABAD : City crime branch has claimed that Amir Raza Khan , at present based in Pakistan , had directed Riyaz Bhatkal and his brother Iqbal to carry out the bomb blasts here on July 26 . Amir Raza Khan , learnt to be a member of terror outfit HuJI is a resident of Kolkata , while Riyaz Bhatkal is alleged to be the founder member of Indian Mujahideen -LRB- IM -RRB- . Bhatkal brothers had connived with SIMI leaders to hatch the conspiracy of serial blasts in the city and trained local people , the chargesheet submitted last week by the Crime Branch said , adding , IM was a new form of SIMI . SIMI members Safdar Nagori , Hafez Hussain , Sibli Abdul Karim , Kamruddin Nagori , Amil Parvez and Mufti Abu Basher planned the attack and asked Abdus Subhan alias Tauqeer and Qayamuddin Kapadia for executing the blasts . SIMI members organised terror training camps in Waghamon in Kerala and Halol near Vadodara , it said . Qayamuddin and Tauqeer then held a meeting with their local contacts in the city for arrangements of logistics and support to carry out the conspiracy . The local contacts were those who were associated with SIMI before it was banned in 2001 by the Central Government . Some of them have already been arrested by the crime branch while some are still absconding , the 2000-page chargesheet stated . Gujarat police had earlier claimed that Abu Basher was the mastermind behind the terror attacks in the city .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "City crime branch:3", 
+        "bomb blasts:31", 
+        "founder member:65", 
+        "Bhatkal brothers:74", 
+        "connived:77", 
+        "SIMI leaders:79", 
+        "hatch:82", 
+        "conspiracy:84", 
+        "serial blasts:86", 
+        "trained local people:92", 
+        "chargesheet:97", 
+        "last week:99", 
+        "SIMI members:117", 
+        "planned:138", 
+        "attack:140", 
+        "terror training camps:158", 
+        "meeting:179", 
+        "local contacts:182", 
+        "arrangements of logistics:188", 
+        "support:192", 
+        "conspiracy:197", 
+        "Central Government:217", 
+        "Some:220", 
+        "arrested:226", 
+        "crime branch:229", 
+        "some:232", 
+        "absconding:235", 
+        "2000-page chargesheet:238", 
+        "mastermind:252"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Ahmedabad-blasts-carried-out-on-the-direction-of-Paks-Amir-Raza-Khan/articleshow/3738211.cms?referral=PM", 
+    "date": "26-07-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "HuJI", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "68", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "71", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "79", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "109", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "115", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "117", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "155", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "208", 
+            "Accused"
+        ], 
+        [
+            "Gujarat police", 
+            "242", 
+            "Others"
+        ]
+    ]
+}

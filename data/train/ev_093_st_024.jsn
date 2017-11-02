@@ -1,0 +1,319 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "2", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "36", 
+            "Assoc_Event"
+        ], 
+        [
+            "Pune", 
+            "72", 
+            "Assoc_Event"
+        ], 
+        [
+            "Hyderabad", 
+            "92", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "151", 
+            "Assoc_Event"
+        ], 
+        [
+            "Myanmar", 
+            "164", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "184", 
+            "Assoc_Event"
+        ], 
+        [
+            "Pune", 
+            "218", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "241", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "280", 
+            "Assoc_Event"
+        ], 
+        [
+            "Dilkushnagar", 
+            "297", 
+            "Assoc_Event"
+        ], 
+        [
+            "Begum Bazar", 
+            "299", 
+            "Assoc_Event"
+        ], 
+        [
+            "Abids", 
+            "302", 
+            "Assoc_Event"
+        ], 
+        [
+            "Hyderabad", 
+            "304", 
+            "Assoc_Event"
+        ], 
+        [
+            "Dilkushnagar", 
+            "320", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sayed Maqbool", 
+            "19", 
+            "Accused"
+        ], 
+        [
+            "Maqbools", 
+            "68", 
+            "Accused"
+        ], 
+        [
+            "Asad Khan", 
+            "115", 
+            "Accused"
+        ], 
+        [
+            "Imran Khan", 
+            "118", 
+            "Accused"
+        ], 
+        [
+            "Sayed Feroz", 
+            "121", 
+            "Accused"
+        ], 
+        [
+            "Landge Irfan Mustafa", 
+            "124", 
+            "Accused"
+        ], 
+        [
+            "Maqbool", 
+            "136", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "174", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Maqbool", 
+            "192", 
+            "Accused"
+        ], 
+        [
+            "Imran", 
+            "195", 
+            "Accused"
+        ], 
+        [
+            "Asad", 
+            "197", 
+            "Accused"
+        ], 
+        [
+            "Imran", 
+            "208", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "213", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Maqbool", 
+            "225", 
+            "Accused"
+        ], 
+        [
+            "Irfan", 
+            "227", 
+            "Accused"
+        ], 
+        [
+            "Imran", 
+            "229", 
+            "Accused"
+        ], 
+        [
+            "Asad", 
+            "231", 
+            "Accused"
+        ], 
+        [
+            "Bhatkals", 
+            "252", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Qateel Siddiqui", 
+            "259", 
+            "Others"
+        ], 
+        [
+            "Maqbool", 
+            "287", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Imran", 
+            "291", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "nine months : 50", 
+        "last year : 100", 
+        "last year : 288", 
+        "February 21 : 322"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "October : 23", 
+        "October 26 , 2012 : 58", 
+        "October 23 : 98", 
+        "April 2012 : 205", 
+        "August : 222"
+    ], 
+    "death": "", 
+    "title": "Delhi Police warning went in vain", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Delhi Police Special Cell had , on the basis of revelations made by alleged Indian Mujahideen terrorist Sayed Maqbool , last October disclosed that the banned outfit planned to target the Buddhist shrines in Bodh Gaya . The police had shared the input with the agencies concerned almost nine months ago . . . Through an October 26 , 2012 release , the Special Cell announced Maqbools arrest in the Pune blasts case . It said he was a trainer in improvised explosive devices . He was tracked down to Hyderabad where he was arrested on October 23 last year . . . Based on the purported disclosures of other suspected IM members Asad Khan , Imran Khan , Sayed Feroz and Landge Irfan Mustafa the police had said the four , along with Maqbool , had planned to carry out a fidayeen attack at the Buddhist shrines in Bodh Gaya in retaliation to the alleged atrocities being committed on Muslims in Myanmar . Their plan had the approval and support of Bhatkal brothers -LSB- alleged IM founders -RSB- . . . Pune blasts . . The Special Cell said Maqbool had taught Imran and Asad how to configure a bomb . In April 2012 , Imran introduced him to the Bhatkal brothers . Before the Pune serial blasts in August last , Maqbool , Irfan , Imran and Asad discussed their plan to target the Buddhist shrines in Bodh Gaya , said the release , adding that since the Bhatkals wanted to avenge the death of Qateel Siddiqui -LRB- a terror suspect killed in Punes Yerawada Jail -RRB- , they decided to first carry out blasts in Pune . . . The police said Maqbool last year helped Imran in conducting a reconnaissance of Dilkushnagar , Begum Bazar and Abids in Hyderabad on a motorcycle . Incidentally , two blasts were triggered that claimed 18 lives in Dilkushnagar on February 21 . No arrests have been made in the case so far .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "revelations:12", 
+        "alleged:15", 
+        "terrorist:18", 
+        "disclosed:24", 
+        "banned outfit planned:27", 
+        "target:31", 
+        "Buddhist shrines:33", 
+        "shared:42", 
+        "input:44", 
+        "agencies:47", 
+        "concerned:48", 
+        "announced:67", 
+        "arrest:69", 
+        "Pune blasts case:72", 
+        "trainer:81", 
+        "improvised explosive devices:83", 
+        "tracked down:89", 
+        "arrested:96", 
+        "purported disclosures:108", 
+        "suspected:112", 
+        "planned:139", 
+        "fidayeen attack:144", 
+        "Buddhist shrines:148", 
+        "retaliation:154", 
+        "alleged atrocities:157", 
+        "committed:160", 
+        "Muslims:162", 
+        "plan:167", 
+        "approval:170", 
+        "support:172", 
+        "Bhatkal brothers:174", 
+        "IM founders:178", 
+        "Pune blasts:184", 
+        "configure:200", 
+        "bomb:202", 
+        "Bhatkal brothers:213", 
+        "Pune serial blasts:218", 
+        "discussed:232", 
+        "plan:234", 
+        "target:236", 
+        "Buddhist shrines:238", 
+        "release:246", 
+        "avenge:255", 
+        "death:257", 
+        "terror suspect:263", 
+        "killed:265", 
+        "Punes Yerawada Jail:267", 
+        "decided:273", 
+        "blasts:278", 
+        "helped:290", 
+        "reconnaissance:295", 
+        "motorcycle:307", 
+        "two blasts:311", 
+        "triggered:314", 
+        "arrests:326", 
+        "case:332"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/delhi-police-warning-went-in-vain/article4892206.ece?ref=relatedNews", 
+    "date": "08-07-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi Police Special Cell", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "16", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Special Cell", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "113", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "178", 
+            "Accused"
+        ], 
+        [
+            "Special Cell", 
+            "189", 
+            "Others"
+        ]
+    ]
+}

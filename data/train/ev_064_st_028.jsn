@@ -1,0 +1,153 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "158", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "170", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "194", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "242", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "283", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sitaram Yechury", 
+            "153", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:12", 
+        "July 13-19 : 122", 
+        "Thursday:174", 
+        "Tuesday:259"
+    ], 
+    "death": "", 
+    "title": "Mumbai blasts: Left demands probe into intelligence lapse", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Condemning the serial blasts in Mumbai , the Left parties on Wednesday said the blasts were designed to rip apart the country 's social fabric and demanded a thorough probe into the ` serious intelligence lapse ' . . . '' The central and state governments must not spare any effort to track down the perpetrators of the heinous crime and take steps to eliminate the network sustaining the terrorists who indulge in organised fanatical operations , ' leaders of the Communist Party of India-Marxist , Communist Party of India , Forward Bloc , Revolutionary Socialist Party and CPI -LRB- M-L -RRB- said . . . The Left parties , while postponing the first phase of their anti-price rise week -LRB- July 13-19 -RRB- , have instructed their units to immediately hold meetings and take out silent processions to condemn the terrorist attacks . . . CPI-M leader and Rajya Sabha member Sitaram Yechury along with two Maharashtra party unit leaders will also undertake an on-the-spot study on the Mumbai blasts , begining Thursday . . . The party has also organised relief work there . . . The CPI-M politburo statement in Delhi flayed the series of bomb blasts in the suburban railway network as a vicious terrorist attack . . . The Left party also demanded adequate compensation to the kin of those killed and provision of all medical help to the injured , while complimenting the people of Mumbai ` who had risen like one man in the face of series of blasts ' on Tuesday , which left 190 people dead and several hundred injured . . . The CPI also condemned the attack on tourist buses in Srinagar leading to the death of eight people and injuries to several others . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "suburban railway trains "
+    ], 
+    "O": [
+        "serial blasts:3", 
+        "Mumbai:6", 
+        "rip apart:19", 
+        "social fabric:24", 
+        "heinous crime:59", 
+        "eliminate:65", 
+        "network:67", 
+        "terrorists:70", 
+        "The Left parties:107", 
+        "silent processions:137", 
+        "condemn:140", 
+        "CPI-M leader:147", 
+        "on-the-spot study:166", 
+        "relief work:183", 
+        "suburban railway network:203", 
+        "compensation:220", 
+        "medical help:231"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/12mumtrain1.htm", 
+    "date": "11-07-2006", 
+    "target": "RAILWAY", 
+    "hot_spot": "suburban railway trains ", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Communist Party of India-Marxist", 
+            "82", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "87", 
+            "Others"
+        ], 
+        [
+            "Party", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "Forward Bloc", 
+            "92", 
+            "Others"
+        ], 
+        [
+            "Revolutionary Socialist Party", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "The Left", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "CPI-M", 
+            "147", 
+            "Others"
+        ], 
+        [
+            "CPI-M", 
+            "190", 
+            "Others"
+        ], 
+        [
+            "The Left", 
+            "214", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "274", 
+            "Others"
+        ]
+    ]
+}

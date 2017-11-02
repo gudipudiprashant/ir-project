@@ -1,0 +1,521 @@
+{
+    "LOC": [
+        [
+            "Ahmedabad", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "NEW DELHI", 
+            "39", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "69", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "74", 
+            "Neutral"
+        ], 
+        [
+            "Mumbais Matunga", 
+            "120", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "162", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "168", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "203", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabads", 
+            "243", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "256", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "277", 
+            "Neutral"
+        ], 
+        [
+            "Mumbais Kharghar", 
+            "320", 
+            "Neutral"
+        ], 
+        [
+            "Mumbais", 
+            "357", 
+            "Neutral"
+        ], 
+        [
+            "Aurangabad", 
+            "375", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "437", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "468", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "477", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "563", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "624", 
+            "Neutral"
+        ], 
+        [
+            "Surat", 
+            "626", 
+            "Neutral"
+        ], 
+        [
+            "Surat", 
+            "720", 
+            "Neutral"
+        ], 
+        [
+            "Surat", 
+            "784", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "837", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "873", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "881", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Praveen Swami", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Qureshi", 
+            "20", 
+            "Accused"
+        ], 
+        [
+            "al-Arbi", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "Abdul Subhan Qureshi", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "Qureshi", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "Qureshi", 
+            "181", 
+            "Others"
+        ], 
+        [
+            "Navi", 
+            "202", 
+            "Others"
+        ], 
+        [
+            "Qureshi", 
+            "211", 
+            "Comment"
+        ], 
+        [
+            "Qureshi", 
+            "258", 
+            "Others"
+        ], 
+        [
+            "Qureshi", 
+            "312", 
+            "Others"
+        ], 
+        [
+            "Qureshi", 
+            "396", 
+            "Others"
+        ], 
+        [
+            "Qureshis", 
+            "444", 
+            "Others"
+        ], 
+        [
+            "Rahil Abdul Rehman Sheikh", 
+            "449", 
+            "Others"
+        ], 
+        [
+            "Ehtesham Siddiqi", 
+            "471", 
+            "Others"
+        ], 
+        [
+            "Ashish Bhatia", 
+            "567", 
+            "Others"
+        ], 
+        [
+            "P.C. Pandey", 
+            "570", 
+            "Others"
+        ], 
+        [
+            "Mufti Abul Bashir", 
+            "579", 
+            "Others"
+        ], 
+        [
+            "Sajid Mansuri", 
+            "583", 
+            "Others"
+        ], 
+        [
+            "Zahid Shaikh", 
+            "586", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "797", 
+            "Others"
+        ], 
+        [
+            "al-Arbi", 
+            "822", 
+            "Others"
+        ], 
+        [
+            "Al-Arbis", 
+            "824", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "night : 165", 
+        "two days : 173", 
+        "minutes : 190", 
+        "Gujarat : 208", 
+        "eight weeks : 237", 
+        "minute : 530", 
+        "minutes : 834"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 24 : 26", 
+        "Saturdays : 30", 
+        "July : 59", 
+        "Saturday : 93", 
+        "July 24 : 170", 
+        "2006 : 230", 
+        "2008 : 232", 
+        "1990 : 324", 
+        "1998 : 369", 
+        "2003 : 440", 
+        "2006 : 464", 
+        "Saturdays : 807"
+    ], 
+    "death": "", 
+    "title": "Key Gujarat bombings suspect in Mumbai?", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Praveen Swami . . New Indian Mujahideen e-mail warns of more attacks ; claims suspects are innocent . . Qureshi left Ahmedabad on . . July 24 . . Saturdays e-mail bears the signature of al-Arbi . . NEW DELHI : Top Indian Mujahideen operative Abdul Subhan Qureshi , who investigators believe was the principal architect of the July serial bombings in Gujarat , could be hiding in Mumbai , according to the Maharashtra police . . . Police sources said their belief rested on the fact that an e-mail issued on Saturday , insisting that suspects held for their alleged role in the bombings are innocent and threatening further attacks , has been traced to a computer in Mumbais Matunga area . . . Investigators have determined that Qureshi , who investigators say wrote the e-mail claiming responsibility for the bombings on behalf of the Students Islamic Movement of India -LRB- SIMI -RRB- and Lashkar-e-Taiba-linked Indian Mujahideen , left for Mumbai on a night train from Ahmedabad on July 24 , two days before the bombings . . . Qureshi is thought to have e-mailed the Indian Mujahideen minutes before the bombing using a private homes unsecured wi-fi network in Navi Mumbai . . . The Gujarat police said Qureshi , a crack bomb-maker , who is believed to have held several training camps for SIMI operatives from 2006 to 2008 , spent at least eight weeks in a flat in Ahmedabads Vatva neighbourhood , supervising the making of the explosive devices used in Gujarat . Qureshi , the Gujarat police claims to have been told by arrested suspects , also organised for contacts in Mumbai to provide four stolen cars used in the bombings . . . Photographs of at least two of the stolen cars are contained in the e-mail , to establish its authenticity . . . Qureshi graduated from the Bharatiya Vidyapeeth in suburban Mumbais Kharghar area in 1990 , and later did a computer course from a private institute . . . For some time , he worked as a salesperson for a company that marketed Wipro computer products in Mumbais western suburbs . . . He was recruited by SIMI in 1998 , shortly before the critical Aurangabad convention where jihadists in its ranks first developed an organisational relationship with the Lashkar-e-Taiba . . . Soon after , Qureshi left his job to become a full-time Rukun , or organisational cadre . . . He became close to a core circle of operatives who were to execute a series of major terrorist attacks , starting with the Gateway of India bombings in 2003 . . . Qureshis associates in SIMI include Rahil Abdul Rehman Sheikh , who is wanted for his central role in organising the 2006 serial bombings in Mumbai , and Ehtesham Siddiqi , the former SIMI Maharashtra general-secretary , who is now being tried for his alleged role in the attacks . . . e-mail claims . . In the e-mail , the Indian Mujahideen on its full authority declares that by the Grace of Allah not even a single mujahid from our ranks , who played even a minute role in the blasts , has been arrested to date . We are completely safe and in Allah , The Most Sublime , do the believers put their trust . Whatever -LSB- Gujarat police officers -RSB- Ashish Bhatia and P.C. Pandey have bragged about -LSB- key suspects -RSB- Mufti Abul Bashir , Sajid Mansuri , Zahid Shaikh and other innocent brothers like them is a big lie . . . However , the Indian Mujahideen addresses the escaped multitude of faithless disbelievers , thanking our Lord for humiliating you by our hands at Ahmedabad and Surat and calming our hearts by chastising your bodies with a disgraceful punishment . . . It states : we declare that with the will of Allah -LSB- that -RSB- our attacks on you will be severely intensified from now on and with our extremely lethal strikes , which are to follow successively , we shall make you weep and repent for the evil hatred and grudge against Islam and Muslims . . . In the e-mail , the Indian Mujahideen seems to suggest that a set of malfunctioning improvised explosive devices found in Surat were designed not to detonate . You are nothing but victims of our terrorizing plan that turns you helpless when the Wrath of Allah descends on you . Just think O numbskulls ! How many microchips can be faulty ? One ? Or two ? Or all thirty at the same time ? This is yet another threat to those filthy Hindus of Surat , who have failed to take heed , and a reminder to Narendra Modi that it is not over . . . Saturdays e-mail bears the signature of an individual , who identities himself by the pseudonym al-Arbi . Al-Arbis signature also figured on the Indian Mujahideen e-mail issued minutes after the Gujarat bombings , along with that of another operative who uses the pseudonym Guru al-Hindi . . . Guru al-Hindi was the sole signatory on Indian Mujahideen messages that were issued after the terror attacks in Jaipur and on three trial court buildings in Uttar Pradesh .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "e-mail:8", 
+        "warns:9", 
+        "attacks:12", 
+        "claims:14", 
+        "suspects:15", 
+        "e-mail:31", 
+        "signature:34", 
+        "investigators:51", 
+        "serial bombings:60", 
+        "hiding:67", 
+        "e-mail:90", 
+        "suspects:97", 
+        "alleged role:101", 
+        "bombings:105", 
+        "attacks:111", 
+        "investigators:126", 
+        "e-mail claiming:137", 
+        "bombings:142", 
+        "train:166", 
+        "bombings:177", 
+        "e-mailed:186", 
+        "bombing:193", 
+        "wi-fi network:199", 
+        "crack bomb-maker:214", 
+        "training camps:224", 
+        "explosive devices:252", 
+        "claims:263", 
+        "arrested suspects:269", 
+        "organised:273", 
+        "contacts:275", 
+        "stolen cars:281", 
+        "bombings:286", 
+        "photographs:290", 
+        "stolen cars:297", 
+        "e-mail:303", 
+        "authenticity:308", 
+        "suburban:319", 
+        "salesperson:347", 
+        "company:350", 
+        "marketed:352", 
+        "computer products:354", 
+        "western suburbs:358", 
+        "convention:376", 
+        "jihadists:378", 
+        "ranks first:381", 
+        "developed:383", 
+        "organisational relationship:385", 
+        "job:399", 
+        "rukun:404", 
+        "organisational cadre:407", 
+        "core circle of operatives:417", 
+        "execute:424", 
+        "major terrorist attacks:428", 
+        "gateway of india:435", 
+        "bombings:438", 
+        "central role:459", 
+        "serial bombings:465", 
+        "alleged role:487", 
+        "attacks:491", 
+        "e-mail claims:495", 
+        "e-mail:501", 
+        "full authority:508", 
+        "grace of allah:514", 
+        "single mujahid:520", 
+        "ranks:524", 
+        "blasts:534", 
+        "arrested:538", 
+        "bragged:573", 
+        "key suspects:576", 
+        "innocent brothers:590", 
+        "humiliating:618", 
+        "calming:628", 
+        "disgraceful punishment:637", 
+        "attacks:657", 
+        "lethal strikes:671", 
+        "evil hatred:689", 
+        "grudge:692", 
+        "islam:694", 
+        "muslims:696", 
+        "e-mail:702", 
+        "suggest:709", 
+        "malfunctioning improvised explosive devices:714", 
+        "victims:731", 
+        "terrorizing plan:734", 
+        "wrath of allah:742", 
+        "microchips:756", 
+        "threat:778", 
+        "hindus:782", 
+        "failed:788", 
+        "heed:791", 
+        "e-mail:808", 
+        "signature:811", 
+        "pseudonym:821", 
+        "signature:825", 
+        "figured:827", 
+        "e-mail:832", 
+        "issued:833", 
+        "bombings:838", 
+        "operative:845", 
+        "guru al-hindi:850", 
+        "guru al-hindi:855", 
+        "messages:864", 
+        "terror attacks:870", 
+        "trial court buildings:877"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/key-gujarat-bombings-suspect-in-mumbai/article1323130.ece", 
+    "date": "26-07-2008", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "6", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "43", 
+            "Accused"
+        ], 
+        [
+            "Maharashtra police", 
+            "74", 
+            "Others"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "147", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "153", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba-linked", 
+            "156", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "157", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "188", 
+            "Accused"
+        ], 
+        [
+            "Gujarat police", 
+            "208", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "227", 
+            "Others"
+        ], 
+        [
+            "Gujarat police", 
+            "261", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Vidyapeeth", 
+            "316", 
+            "Others"
+        ], 
+        [
+            "Wipro", 
+            "353", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "367", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "389", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "447", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "476", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "504", 
+            "Accused"
+        ], 
+        [
+            "Gujarat police", 
+            "563", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "604", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "705", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "830", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "862", 
+            "Accused"
+        ]
+    ]
+}

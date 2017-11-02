@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "HYDERABAD", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Varanasi", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "25", 
+            "Victim"
+        ], 
+        [
+            "Cyberabad", 
+            "27", 
+            "Victim"
+        ], 
+        [
+            "Holland", 
+            "39", 
+            "Victim"
+        ], 
+        [
+            "Dutch", 
+            "130", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "143", 
+            "Neutral"
+        ], 
+        [
+            "Dutch", 
+            "158", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "171", 
+            "Neutral"
+        ], 
+        [
+            "Israel", 
+            "184", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Wilder", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "Geert Wilders", 
+            "84", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0006", 
+    "DAT": [
+        "December:52", 
+        "December 6:52"
+    ], 
+    "death": "", 
+    "title": "Terror alert against attack on Dutch nationals?", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "HYDERABAD : Not leaving anything to chance in the aftermath of Varanasi bomb blast , the state intelligence has alerted the police commissionerates in Hyderabad and Cyberabad on possible attacks on Western nationals , especially those hailing from Holland , by terror groups . According to a departmental memo 425/CI/2010 dated December 6 , the intelligence wing has come to know of an exchange of SMSes that speak against the anti-Islam Dutch film ` Fitna ' -LRB- Devilry -RRB- made by right-wing politician Geert Wilders . One of the SMSes , the circular said , was ` Remember Allah may ask you one day what did you do when they made fun of My messenger ? ' Senior police officers , however , denied issuing any circular specifically mentioning Dutch nationals . The circular deals with general alert against the backdrop of Varanasi terrorist attack , they added . Some police officers said the circular related to Dutch nationals emanated from the central intelligence agencies and was not specific to Hyderabad . The circular is the result of Wilder 's recent tour of Israel where he was promoting his short film and demanding a campaign for banning the Muslim holy book ` The Koran . ' Police officers fear that hate-mongering against one group of people could provoke some to take law into their hands .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "varanasi bomb blast:12", 
+        "state intelligence:17", 
+        "terror:42", 
+        "memo 425/ci/2010:49", 
+        "intelligence wing:56", 
+        "The Koran:203"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/hyderabad/Terror-alert-against-attack-on-Dutch-nationals/articleshow/7073533.cms", 
+    "date": "07-12-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "CONTAINER", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "central intelligence agencies", 
+            "163", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "LOC": [
+        [
+            "U.S.", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "German Bakery", 
+            "82", 
+            "Event"
+        ], 
+        [
+            "Koregaon Park", 
+            "91", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "107", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "109", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Barack Obama", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "8", 
+            "Comment"
+        ], 
+        [
+            "Obama", 
+            "68", 
+            "Others"
+        ], 
+        [
+            "Gordon Duguid", 
+            "170", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "morning : 12"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:11", 
+        "Saturday:23"
+    ], 
+    "death": "", 
+    "title": "Obama speaks to Manmohan, condemns Pune blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "U.S. President Barack Obama called Prime Minister Manmohan Singh on Thursday morning to condemn the blast that took place in Pune on Saturday and to condole the loss of lives . In a brief conversation , the two leaders took the opportunity to review developments in Indo-U.S. relations , according to a statement from the Prime Ministers Office . . . PTI adds : . . The Obama administration has offered FBI help in the investigation into Saturdays blast at the German Bakery , a popular eatery in Punes posh Koregaon Park area . . . The U.S. State Department has said it is working with India and Pakistan to combat the threats the three countries face from terrorist and extremist groups . . . ` The information we have shared so far has been quite unprecedented , and we intend to continue to working with the Government of India to try and protect our two societies from these types of attacks , ' Acting US State Department Spokesman Gordon Duguid said .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        "Pune"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/international/article108620.ece", 
+    "date": "13-02-2010", 
+    "target": "", 
+    "hot_spot": "Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "FBI", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "U.S. State Department", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "Government of India", 
+            "148", 
+            "Others"
+        ], 
+        [
+            "US State Department", 
+            "166", 
+            "Others"
+        ]
+    ]
+}

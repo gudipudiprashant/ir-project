@@ -1,0 +1,90 @@
+{
+    "LOC": [
+        [
+            "Varanasi",
+            "17", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "57", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Sankat Mochan temple", 
+            "104", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "127", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "163", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "197", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mulayam Singh Yadav", 
+            "187", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 19", 
+        "45 minutes : 137"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "21", 
+    "title": "India puts security forces on alert as 21 die in bomb blasts", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        "Varanasi"
+    ], 
+    "terror_group": [
+        "ISLAMIC TERRORIST OUTFITS"
+    ], 
+    "content": "A series of bomb blasts killed at least 21 people in the Indian holy city of Varanasi last night . . . Security forces across the country were on high alert as intelligence officials hinted that the explosions , which also injured more than 60 people , were the work of Islamic militants . . . Varanasi , 450 miles east of New Delhi , is one of Hinduism 's holiest cities and is filled with pilgrims visiting temples and bathing in the holy waters of the Ganges , which runs through the city . . . The first blast at the crowded Sankat Mochan temple killed 10 worshippers . Witnesses said debris , body parts and blood covered the temple 's floor . . . India factfile . . Eleven more people died in explosions 45 minutes later at a station a few miles away and inside a nearby train . A fourth bomb was defused in a residential district of Varanasi . . . `` The entire country is shocked by the blasts and is trying to cope with the situation , '' said Mulayam Singh Yadav , chief minister of the state of Uttar Pradesh .", 
+    "injured": "60", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "chief minister:191"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraph.co.uk/news/worldnews/asia/india/1512434/India-puts-security-forces-on-alert-as-21-die-in-bomb-blasts.html", 
+    "date": "07-03-2006", 
+    "target": "TEMPLE", 
+    "hot_spot": "Varanasi,Sankat Mochan temple", 
+    "delivery_mod": "TEMPLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Islamic", 
+            "52", 
+            "Accused"
+        ]
+    ]
+}

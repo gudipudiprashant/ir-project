@@ -1,0 +1,151 @@
+{
+    "LOC": [
+        [
+            "Srinagar", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "NEW DELHI", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Kashmir Valley", 
+            "127", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "159", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Anil Chowdhary", 
+            "73", 
+            "Comment"
+        ], 
+        [
+            "Chowdhary", 
+            "164", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "two months : 113"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday : 43"
+    ], 
+    "death": "5", 
+    "title": "NSG experts to assist probe  into Srinagar car bomb blast", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "Srinagar", 
+        ""
+    ], 
+    "terror_group": [
+        "HIZB-UL-MUJAHIDEEN / HIZB-UL-MUJAHIDEEN PIR PANJAL REGIMENT"
+    ], 
+    "content": "National NSG experts to assist probe into Srinagar car bomb blast . . Special Correspondent . . NEW DELHI : The Centre has rushed NSG -LRB- National Security Guards -RRB- and forensic experts to Srinagar to assist the security forces in probing Wednesday 's car bomb blast there , in which three Army personnel and two civilians were killed . . . Special Secretary -LRB- Internal Security -RRB- in the Home Ministry Anil Chowdhary said here that reports indicated that militants rammed an explosives-laden car into an Army jeep . Details were being collected to confirm the Hizbul Mujahideen 's claims about the blast , the sixth such incident over the past two months . . . On the rise in car bomb attacks in the Kashmir Valley , he said militants were desperate to make their presence felt . The police were instructed to step up searches of vehicles moving in or out of VIP areas in Srinagar . . . Mr. Chowdhary said militants were increasingly resorting to grenade attacks and car bombs to inflict maximum damage and get publicity as well . Terrorists were gaining expertise in setting up car bombs .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "National NSG experts:1", 
+        "assist probe:5", 
+        "car bomb blast:9", 
+        "Special Correspondent:14", 
+        "Centre:22", 
+        "forensic experts:32", 
+        "assist:37", 
+        "security forces:39", 
+        "probing:42", 
+        "car bomb blast:45", 
+        "Army personnel:53", 
+        "two civilians:56", 
+        "killed:59", 
+        "Internal Security:66", 
+        "reports:78", 
+        "militants:81", 
+        "rammed:82", 
+        "explosives-laden car:84", 
+        "Army jeep:88", 
+        "confirm:96", 
+        "claims:101", 
+        "blast:104", 
+        "incident:109", 
+        "car bomb attacks:122", 
+        "militants:132", 
+        "desperate:134", 
+        "presence felt:138", 
+        "instructed:144", 
+        "searches:148", 
+        "vehicles:150", 
+        "VIP:156", 
+        "militants:166", 
+        "increasingly resorting:168", 
+        "grenade attacks:171", 
+        "car bombs:174", 
+        "inflict:177", 
+        "maximum damage:178", 
+        "publicity:182", 
+        "Terrorists:186", 
+        "expertise:189", 
+        "car bombs:193"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/07/21/stories/2005072106271200.htm", 
+    "date": "20-07-2005", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "NSG", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "25", 
+            "Others"
+        ], 
+        [
+            "National Security Guards", 
+            "27", 
+            "Others"
+        ], 
+        [
+            "Army", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "Army", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "Hizbul Mujahideen", 
+            "98", 
+            "Accused"
+        ]
+    ]
+}

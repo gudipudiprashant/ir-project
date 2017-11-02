@@ -1,0 +1,182 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "43", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan-bound train", 
+            "53", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "91", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "149", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "160", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "173", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "274", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "314", 
+            "Neutral"
+        ], 
+        [
+            "eastern Pakistani city", 
+            "318", 
+            "Neutral"
+        ], 
+        [
+            "Lahore", 
+            "322", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "372", 
+            "Neutral"
+        ], 
+        [
+            "Islamabad", 
+            "409", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "430", 
+            "Neutral"
+        ], 
+        [
+            "Lahore", 
+            "442", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Musharraf", 
+            "1", 
+            "Comment"
+        ], 
+        [
+            "Musharraf", 
+            "80", 
+            "Comment"
+        ], 
+        [
+            "Musharraf", 
+            "199", 
+            "Comment"
+        ], 
+        [
+            "Khursheed Mehmood Kasuri", 
+            "251", 
+            "Comment"
+        ], 
+        [
+            "Kasuri", 
+            "282", 
+            "Comment"
+        ], 
+        [
+            "Sheikh Rashid Ahmed", 
+            "350", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "midnight : 183"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 47", 
+        "1947 : 97", 
+        "2002 : 107", 
+        "2004 : 124", 
+        "Sunday : 185", 
+        "Tuesday : 260", 
+        "Monday : 386"
+    ], 
+    "death": "", 
+    "title": "Train blasts won't sabotage peace", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "", 
+        "Pakistan-bound train "
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Musharraf said the leaders of India and Pakistan had to `` move forward undeterred '' in their efforts to resolve disputes and establish lasting peace . . . Pakistan 's foreign minister said earlier he was going ahead with a trip to India as planned on Tuesday despite the blasts on the Pakistan-bound train . . . `` We will not allow elements which want to sabotage the ongoing peace process to succeed in their nefarious designs , '' Musharraf said in a statement . . . Nuclear-armed India and Pakistan have fought three wars since 1947 and nearly went to war a fourth time in 2002 . . . Relations have improved since they launched a peace process at the beginning of 2004 , although they have yet to make any significant progress in their central dispute over the divided Himalayan region of Kashmir . . . India has blamed previous bomb attacks on Islamist militants linked to Pakistan , casting a pall over peace efforts . . . Officials in India also said the attack on the train at around midnight on Sunday appeared to be an attempt to undermine the peace process . . . Musharraf said the `` heinous crime '' would have the opposite effect . . . `` Such wanton acts of terrorism will only serve to further strengthen our resolve to attain the mutually desired objective of sustainable peace between the two countries , '' he said . . . Pakistani Foreign Minister Khursheed Mehmood Kasuri said his trip to India on Tuesday was still on . . . `` I will be leaving tomorrow for Delhi to further the peace process , '' Kasuri told reporters in the Pakistani capital . . . `` In fact , if at all , we should hasten the peace process . '' . . The train service links New Delhi with the eastern Pakistani city of Lahore , although passengers have to get down at the border and cross on foot before boarding another train for their destination . . . Pakistani Railways Minister Sheikh Rashid Ahmed said there were 757 passengers on board the train , 553 of them Pakistanis . . . He said Pakistan , for its part , would continue the train service as scheduled on Monday , although security would be stepped up on the Pakistani leg of the journey . . . The Indian High Commission in Islamabad said arrangements had been made to process visas immediately for relatives of people on the train wishing to go to India . A temporary visa office was also being set up in Lahore .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Pakistani Railways:347"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.thedailystar.net/2007/02/20/d70220130182.htm", 
+    "date": "20-02-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "Pakistan-bound train ", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Islamist militants", 
+            "156", 
+            "Accused"
+        ], 
+        [
+            "Indian High Commission", 
+            "405", 
+            "Others"
+        ]
+    ]
+}

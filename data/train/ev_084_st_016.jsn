@@ -1,0 +1,228 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "5", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "105", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "256", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "261", 
+            "Event"
+        ], 
+        [
+            "Chicago", 
+            "350", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "362", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "371", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "375", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "426", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "460", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "632", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "G K Pillai", 
+            "119", 
+            "Comment"
+        ], 
+        [
+            "David Coleman Headley", 
+            "149", 
+            "Accused"
+        ], 
+        [
+            "Pillai", 
+            "167", 
+            "Comment"
+        ], 
+        [
+            "Pillai", 
+            "233", 
+            "Comment"
+        ], 
+        [
+            "P Chidambaram", 
+            "250", 
+            "Others"
+        ], 
+        [
+            "Pillai", 
+            "312", 
+            "Comment"
+        ], 
+        [
+            "Prabhat Kumar", 
+            "432", 
+            "Comment"
+        ], 
+        [
+            "Ashok Chavan", 
+            "463", 
+            "Comment"
+        ], 
+        [
+            "Chavan", 
+            "545", 
+            "Comment"
+        ], 
+        [
+            "Santosh", 
+            "595", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 7", 
+        "7.30 pm : 66", 
+        "tomorrow : 262", 
+        "evening : 386"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "8", 
+    "title": "Terror strikes Pune; 8 killed, 32 injured", 
+    "org_unorg": "", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "PUNE : Terror struck Pune this evening when a powerful bomb ripped apart a popular bakery near a Jewish prayer house , killing eight people , including a foreigner , and injuring 32 in the first major attack since 26/11 carnage . . . The improvised explosive device , kept in an unattended packet outside the kitchen of the German bakery , exploded at around 7.30 pm when a waiter attempted to open it . . . `` It is most probably a terror attack . Forensic experts of CBI and team of National Investigation Agency ( NIA ) officials are being airlifted to Pune to assist the state police in the investigations , '' Union Home Secretary G K Pillai said . . . The German bakery is a favourite food joint for foreigners , located close to Osho Ashram which had been surveyed by Pakistani-origin American David Coleman Headley , a Lashkar-e Taiba operative . . . Quoting information from the state government , Pillai said eight people had died and 32 were injured in the blast . One each of the killed and the injured are foreigners , he said , but could not give the nationality . . . The rest , he said , were believed to be Indians but the situation could change . . . Asked whether Pakistani hand was suspected behind the attack , Pillai said he could not say anything till forensic examination was over . . . Home Minister P Chidambaram , who is in Tamil Nadu , will visit Pune tomorrow . He is closely monitoring the situation and the position is being reviewed periodically . . . The Home Ministry has issued an alert across the country asking people not to open any unattended object and to inform the police if they find any suspicious object . . . Pillai said the Union Home Ministry had issued an advisory to Maharashtra government informing it that the Osho Ashram was one of the sites surveyed by Headley . . . Headley , who was arrested by FBI at Chicago airport last year when he proceeding to board a flight to Pakistan , had visited a number of places in India , including the Mumbai terror attack targets . . . The site of this evening 's blast , that destroyed the bakery , was littered with severed limbs and pools of blood . A number of victims were charred beyond recognition , making it difficult for authorities to ascertain their identity . . . Pune 's Additional Commissioner of Police Prabhat Kumar said `` it is a suspected terror attack and we are trying to find out the exact device used in the incident '' . . . Maharashtra Chief Minister Ashok Chavan said it was yet to be established as to what was the cause of the blast . He said he had talked to the Police Commissioner who told him that unless they examined the evidence on the scene of the blast they can not come to any conclusion . . . He said initially it was thought to be a cylinder blast . Forensic experts are there at the site and the exact cause was yet to be ascertained , Chavan added . . . The Chief Minister announced an ex-gratia of Rs one lakh for the kin of those killed and Rs 50,000 for those injured . . . `` I was travelling by an autorickshaw . I heard a loud explosion and the ground shook '' , said Santosh , one of the injured in the blast . . . An eyewitness said there was a loud bang which shook the entire area and `` we saw a fire '' . . . Was the Pune blast an intelligence failure ? .", 
+    "injured": "32", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "terror struck:3", 
+        "powerful bomb:10", 
+        "bakery:16", 
+        "jewish prayer house:19", 
+        "attack:38", 
+        "26/11 carnage:40", 
+        "improvised explosive device:46", 
+        "german bakery:60", 
+        "terror attack:84", 
+        "forensic experts:87", 
+        "airlifted:103", 
+        "german bakery:127", 
+        "osho ashram:140", 
+        "injured:176", 
+        "blast:179", 
+        "killed:185", 
+        "injured:188", 
+        "indians:214", 
+        "attack:231", 
+        "forensic examination:241", 
+        "alert:286", 
+        "unattended object:296", 
+        "suspicious object:307", 
+        "osho ashram:329", 
+        "chicago airport:350", 
+        "terror attack targets:376", 
+        "victims:408", 
+        "terror attack:440", 
+        "blast:480", 
+        "evidence:499", 
+        "blast:505", 
+        "cylinder blast:525", 
+        "forensic experts:528", 
+        "rs one lakh:557", 
+        "killed:565", 
+        "rs 50,000:567", 
+        "injured:571", 
+        "autorickshaw:581", 
+        "explosion:587", 
+        "injured:600", 
+        "blast:603", 
+        "blast:633"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2010-02-13/news/27574219_1_german-bakery-osho-ashram-terror-attack", 
+    "date": "13-02-2010", 
+    "target": "BAKERY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CBI", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "94", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e Taiba", 
+            "154", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "164", 
+            "Others"
+        ], 
+        [
+            "Maharashtra government", 
+            "323", 
+            "Others"
+        ], 
+        [
+            "FBI", 
+            "348", 
+            "Others"
+        ]
+    ]
+}

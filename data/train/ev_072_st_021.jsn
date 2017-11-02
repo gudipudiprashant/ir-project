@@ -1,0 +1,79 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Indo-Nepal", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "cinema hall", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "34", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "36", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:7", 
+        "October:39"
+    ], 
+    "death": "", 
+    "title": "3 Sikh militants arrested", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi : The police on Tuesday arrested three suspected members of a Sikh militant group near Indo-Nepal border in Bihar in connection with a bomb blast at in a cinema hall in Ludhiana , Punjab , in October this year .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Punjab", 
+        "Ludhiana", 
+        "", 
+        "cinema hall in Ludhiana"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/3-sikh-militants-arrested/article1974813.ece", 
+    "date": "14-10-2007", 
+    "target": "", 
+    "hot_spot": "cinema hall in Ludhiana", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Sikh militant group", 
+            "14", 
+            "Others"
+        ]
+    ]
+}

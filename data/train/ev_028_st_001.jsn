@@ -1,0 +1,161 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "42", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "49", 
+            "Event"
+        ], 
+        [
+            "Guwahati Central Jail", 
+            "49", 
+            "Event"
+        ], 
+        [
+            "Fancy Bazaar", 
+            "53", 
+            "Event"
+        ], 
+        [
+            "Fancy Bazar", 
+            "76", 
+            "Event"
+        ], 
+        [
+            "northeast", 
+            "84", 
+            "Neutral"
+        ], 
+        [
+            "Fancy Bazaar", 
+            "129", 
+            "Event"
+        ], 
+        [
+            "Kamrup", 
+            "205", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "328", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abinash Joshi", 
+            "211", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "11:30 a.m.:126"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Another blast rocks Guwahati, 13 hurt", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Guwahati", 
+        "near the Guwahati Central Jail at Fancy Bazaar"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASOM "
+    ], 
+    "content": "Special Correspondent . . 13 injured as bomb goes off in crowded area ; fourth explosion in city . . Traders , local residents take out procession in protest Explosives are believed to have been planted in a rickshaw . . Guwahati : A powerful blast near the Guwahati Central Jail at Fancy Bazaar , suspected to have been triggered by the United Liberation Front of Asom -LRB- ULFA -RRB- , injured 13 persons . Fancy Bazar is the business hub of the northeast . . . Police had to use teargas shells and batons to disperse protesters angry at the failure of the district administration and police officials to prevent the blast . The mob pelted stones at policemen . The blast occurred around 11:30 a.m. when Fancy Bazaar was crowded . . . Fourth blast . . This was the fourth blast in the city and the third in the commercial centre in the past 15 days . Later traders and the local people took out a procession . Police suspect the blast was caused by an improvised explosive device planted in a rickshaw , which was blown to pieces in the impact . . . Security to be reviewed . . Kamrup -LRB- Metropolitan -RRB- Deputy Commissioner Abinash Joshi told reporters that the administration would review security measures . . . However , he said that people 's cooperation was essential to foil the evil designs of the militants and anti-social elements . . . ULFA 's charge . . Though ULFA did not claim responsibility , it issued a statement accusing the Purvottar Hindustani Sanmilan , a platform of Hindi-speaking people , of remaining a mute spectator to the ` atrocities committed by occupational forces on indigenous people . ' . . The outfit alleged that ` barring contributions made by a few individuals , Hindi-speaking people had always indulged in exploitation and looting and have not made any contributions towards protection of Assam 's identity and culture . ' . . Traders and residents in the area , where the blast occurred , mostly belong to Hindi-speaking communities .", 
+    "injured": "13", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "fourth explosion:15", 
+        "13 persons:73", 
+        "business hub:80", 
+        "teargas shells:92", 
+        "batons:95", 
+        "fourth blast:143", 
+        "commercial centre:153", 
+        "15 days:158", 
+        "explosive device:181", 
+        "metropolitan:207", 
+        "deputy commissioner:209", 
+        "purvottar hindustani sanmilan:267", 
+        "hindi-speaking people:274", 
+        "exploitation:316", 
+        "looting:318", 
+        "traders:337", 
+        "residents:339", 
+        "hindi-speaking communities:352"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/another-blast-rocks-guwahati-13-hurt/article1844299.ece", 
+    "date": "19-05-2007", 
+    "target": "", 
+    "hot_spot": "near the Guwahati Central Jail at Fancy Bazaar", 
+    "delivery_mod": "RICKSHAW", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "63", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "69", 
+            "Accused"
+        ], 
+        [
+            "Police", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "district administration", 
+            "105", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "police officials", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "policemen", 
+            "120", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "172", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "249", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "255", 
+            "Accused"
+        ]
+    ]
+}

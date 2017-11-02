@@ -1,0 +1,199 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Kothi", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "64", 
+            "Event"
+        ], 
+        [
+            "Lumbini amusement park", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "186", 
+            "Event"
+        ], 
+        [
+            "Lumbini Park", 
+            "195", 
+            "Event"
+        ], 
+        [
+            "Hussain Sagar lake", 
+            "201", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "281", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "296", 
+            "Event"
+        ], 
+        [
+            "Lumbini Park", 
+            "338", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "473", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "524", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "K Jana Reddy", 
+            "58", 
+            "Comment"
+        ], 
+        [
+            "Jana Reddy", 
+            "126", 
+            "Comment"
+        ], 
+        [
+            "Balwinder Singh", 
+            "189", 
+            "Comment"
+        ], 
+        [
+            "Reddy", 
+            "218", 
+            "Comment"
+        ], 
+        [
+            "Y S Rajasekhar Reddy", 
+            "387", 
+            "Comment"
+        ], 
+        [
+            "Rajasekhar Reddy", 
+            "435", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "453", 
+            "Others"
+        ], 
+        [
+            "Sriprakash Jaiswal", 
+            "483", 
+            "Comment"
+        ], 
+        [
+            "Rajasekhar Reddy", 
+            "532", 
+            "Comment"
+        ], 
+        [
+            "M A Basith", 
+            "541", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "7.50 pm:51"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:31", 
+        "Satuday:249", 
+        "May 2006 : 264", 
+        "Sunday:311"
+    ], 
+    "death": "42", 
+    "title": "Hyderabad: 42 killed, 50 injured in twin blasts", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "In a major terror strike ,42 persons were killed and about 50 injured in two powerful near-simultaneous blasts at a crowded park and a popular eating joint in Hyderabad on Saturday evening . . . Thirty-twopeople died when an explosion ripped through Gokul Chat Shop at Kothi locality at around 7.50 pm , Andhra Pradesh Home Minister K Jana Reddy told reporters in Hyderabad . Around 21 persons were wounded in this blast . . . In another blast five minutes earlier at the Lumbini amusement park five km away , 10 people perished in a blast when a laser show was on , he said . The amusement park is situated near the state secretariat in the heart of the city . . . Jana Reddy said about 500 people were in the auditorium at the time of the incident . . . The blast ripped through the middle row of the auditorium when the show had just begun . . . So powerful was the blast that some of bodies were flung into the air and scattered over the area . . . Hyderabad Police Commissioner Balwinder Singh said the toll at Lumbini Park , overlooking the picturesque Hussain Sagar lake , may go up as it was teeming with week-end crowd . . . Reddy said that ` according to preliminary reports , it was a terrorist act . ' . . A senior police official said the explosives used in the twin blasts on Satuday were similar to the one used by terrorists in the Mecca Masjid blasts in May 2006 . . . The police cordoned off the areas and sounded a red alert across Hyderabad and conducted searches at railway stations and bus depots . . . Security in Hyderabad city has been tightened further in view of 10,000 weddings that are scheduled on Sunday . . . The dead and injured were ferried to Osmania Hospital , Medicity and Yashoda hospital . . . Gory scenes were witnessed at the Lumbini Park auditorium with limbs , blood , clothes and shoes of the people watching the laser show strewn around . . . Explosive experts visited the sites and collected samples of the materials used in the blast . . . After visiting the blast sites , Chief Minister Y S Rajasekhar Reddy told reporters that ` it is definitely a terrorist act . It has claimed 30 lives . We are going into details . ' . . He said the government would see to it that efforts were taken to restore peace . . . Rajasekhar Reddy appealed to the people to maintain calm and not spread rumours . . . Prime Minister Manmohan Singh expressed deep concern over the blasts and the Union Home Ministry said it was monitoring the situation in Hyderabad . . . Union Minister of State for Home Sriprakash Jaiswal said the blasts were the handiwork of some terrorist group . . . ` One terrorist group or the other , which is bent on destroying the unity of the country , is certainly involved in the blasts in Hyderabad , ' he said . . . Rajasekhar Reddy reviewed the situation with Director-General of Police M A Basith and other top officials . . . Additional Reportage : PTI .", 
+    "injured": "50", 
+    "org_unorg": "", 
+    "O": [
+        "two powerful near-simultaneous blasts:15", 
+        "amusement park is situated near the state secretariat:109", 
+        "blast ripped through the middle row:146", 
+        "red alert across hyderabad:278", 
+        "searches at railway stations:284", 
+        "searches at railway stations and bus depots:284", 
+        "people watching the laser show:351", 
+        "collected samples of the materials:367", 
+        "definitely a terrorist act:397", 
+        "restore peace:430", 
+        "destroying the unity of the country:510"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2007/aug/25hydblast.htm", 
+    "date": "26-08-2007", 
+    "target": "PARK AND RESTRAUNT", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Gokul Chat Shop", 
+            "43", 
+            "Victim"
+        ], 
+        [
+            "Mecca Masjid", 
+            "260", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Osmania Hospital", 
+            "322", 
+            "Others"
+        ], 
+        [
+            "Medicity", 
+            "325", 
+            "Others"
+        ], 
+        [
+            "Yashoda hospital", 
+            "327", 
+            "Others"
+        ]
+    ]
+}

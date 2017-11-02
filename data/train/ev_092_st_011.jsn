@@ -1,0 +1,77 @@
+{
+    "LOC": [
+        [
+            "Jagdalpur", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "3", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "24", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "evening : 43"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:45"
+    ], 
+    "death": "", 
+    "title": "Naxals used 30 kg explosives to attack Congress convoy in Chhattisgarh, says initial forensic report", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Jagdalpur , Chhattisgarh : A week after the deadly Maoist ambush of a convoy of cars carrying top leaders of the Congress in Chhattisgarh , an initial forensic report is out . It pieces together the two hours of horror on the evening of Saturday last on the narrow highway 221 in the state .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Chattisgarh", 
+        "", 
+        "Chhattisgarh", 
+        "Chhattisgarh"
+    ], 
+    "O": [
+        "week after:6", 
+        "convoy of cars:14", 
+        "two hours:37"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/cheat-sheet/naxals-used-30-kg-explosives-to-attack-congress-convoy-in-chhattisgarh-says-initial-forensic-report-523859", 
+    "date": "25-05-2013", 
+    "target": "", 
+    "hot_spot": "Chhattisgarh", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maoist", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "Congress", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "forensic", 
+            "28", 
+            "Others"
+        ]
+    ]
+}

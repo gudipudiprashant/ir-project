@@ -1,0 +1,150 @@
+{
+    "LOC": [
+        [
+            "Namphalong", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "IMPHAL", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Namphalong", 
+            "98", 
+            "Event"
+        ], 
+        [
+            "Namphalong", 
+            "126", 
+            "Event"
+        ], 
+        [
+            "Myanmar", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Namphalong", 
+            "226", 
+            "Event"
+        ], 
+        [
+            "Moreh", 
+            "234", 
+            "Neutral"
+        ], 
+        [
+            "Chawangphai", 
+            "254", 
+            "Neutral"
+        ], 
+        [
+            "Tengoupal", 
+            "374", 
+            "Neutral"
+        ], 
+        [
+            "Moreh", 
+            "380", 
+            "Neutral"
+        ], 
+        [
+            "Namphalong", 
+            "393", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "January 8:87", 
+        "Saturday:360", 
+        "1995:398"
+    ], 
+    "death": "", 
+    "title": "Violence hits Manipur border trade", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Correspondent . . Tension mounts ; traders and tourists are not able to move around . . Bomb blasts at Namphalong hotels Junta seals off border Combing operations launched but no one is arrested . . IMPHAL : Trade at the international market along the Manipur-Myanmar border has been disrupted from the beginning of this year following a recrudescence of insurgency-related violence . With tension mounting , traders , tourists and insurgents of all hues have not been able to move around . . . On January 8 , two bombs exploded in two small hotels at Namphalong , killing two persons and wounding four others . There was no claim by any insurgent group . In the past , firing took place at the Namphalong market , just across the border gate in Myanmar . After the market was torched twice , heavily armed military personnel are guarding it round the clock . . . Border sealed . . Following the latest incident , the Myanmarese junta sealed off the border . Business was shut down and the movement of all sections banned . The Indian Army sent reinforcements to the border areas for a combing operation . However , no insurgent has been arrested on either side . . . Strike at border town . . Soon after the twin bomb blasts at Namphalong , a general strike was called at Moreh . And before normality returned to the border town , 24 Assam Rifles personnel gunned down a carpenter at Chawangphai village . Residents alleged he was deliberately singled out and killed . But an Assam Rifles spokesman said six suspects , on seeing the personnel , tried to flee despite a warning . . . Shots were fired at the fleeing ` armed persons ' and in the process the carpenter was fatally hit . . . Rejecting this version , the Kuki Women 's Union on Human Rights , the Hill Tribal Council , the Kuki Students ' Organisation and the Chwangphai Administrative Committee launched a strike . . . It was suspended following an understanding with Assam Rifles personnel . . . On Saturday , insurgents in an ambush killed two personnel of 32 Assam Rifles at Tengoupal , about 30 km from Moreh . . . All sorts of foreign goods are available at the Namphalong market , constructed in 1995 .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Imphal West", 
+        "", 
+        "Namphalong"
+    ], 
+    "O": [
+        "Myanmarese junta:167"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/violence-hits-manipur-border-trade/article3240525.ece", 
+    "date": "09-01-2006", 
+    "target": "", 
+    "hot_spot": "Namphalong Namphalong hotels Junta ", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Army", 
+            "187", 
+            "Others"
+        ], 
+        [
+            "24 Assam Rifles", 
+            "245", 
+            "Others"
+        ], 
+        [
+            "Assam Rifles", 
+            "269", 
+            "Others"
+        ], 
+        [
+            "the Kuki Women 's Union on Human Rights", 
+            "316", 
+            "Others"
+        ], 
+        [
+            "the Hill Tribal Council", 
+            "325", 
+            "Others"
+        ], 
+        [
+            "Kuki Students ' Organisation", 
+            "331", 
+            "Others"
+        ], 
+        [
+            "Chwangphai Administrative Committee", 
+            "337", 
+            "Others"
+        ], 
+        [
+            "Committee", 
+            "339", 
+            "Others"
+        ], 
+        [
+            "Assam Rifles", 
+            "353", 
+            "Others"
+        ], 
+        [
+            "32 Assam Rifles", 
+            "370", 
+            "Others"
+        ]
+    ]
+}

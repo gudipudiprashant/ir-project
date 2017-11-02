@@ -1,0 +1,153 @@
+{
+    "LOC": [
+        [
+            "Guwahati parade ground", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "GUWAHATI", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Parade Ground", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Jiribam", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "75", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "103", 
+            "Event"
+        ], 
+        [
+            "Parade Ground", 
+            "113", 
+            "Event"
+        ], 
+        [
+            "broad gauge railway", 
+            "164", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bamunimaidan", 
+            "169", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "179", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "12", 
+            "Accused"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "Ajai Singh", 
+            "128", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "8.47 a.m.:83", 
+        "9.05 a.m.:92", 
+        "7.10 p.m.:171"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "JAN. 26 : 18"
+    ], 
+    "death": "", 
+    "title": "Bombs explode at Guwahati parade ground", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        "Guwahati parade ground ."
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASOM "
+    ], 
+    "content": "Front Page Bombs explode at Guwahati parade ground . . By Sushanta Talukdar . . GUWAHATI , JAN. 26 . Violence rocked Assam and Manipur on Republic Day as militants triggered blasts at the Parade Ground here injuring two Government employees and seven at Jiribam in Manipur . A sub-inspector and a Government employee were injured when two programmed time delay devices went off at Judges Field , venue of the ceremonial parade at Guwahati . The first one went off at 8.47 a.m. in a drain and the other at 9.05 a.m. . . The first blast occurred minutes after the Assam Chief Minister , Tarun Gogoi , arrived at the Parade Ground and the second when the Governor , Lt. Gen. -LRB- retd . -RRB- Ajai Singh , was getting ready for inspecting the guard of honour . . . Two persons were injured when a bomb , suspected to have been planted by the ULFA , went off near the broad gauge railway yard at Bamunimaidan around 7.10 p.m. . Yet another blast occurred at Bongaigaon town .", 
+    "injured": "2", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "militants:30", 
+        "seven:43", 
+        "Judges Field:66", 
+        "Chief Minister:104", 
+        "Governor:120", 
+        "Lt. Gen.:122"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "REPULBIC DAY", 
+    "link": "http://www.thehindu.com/2005/01/27/stories/2005012708150100.htm", 
+    "date": "26-01-2005", 
+    "target": "POLICE AND DEFENCE FORCES", 
+    "hot_spot": "Guwahati parade ground .", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Government", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "Government", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "Governor", 
+            "120", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "158", 
+            "Accused"
+        ]
+    ]
+}

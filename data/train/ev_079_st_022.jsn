@@ -1,0 +1,114 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "39", 
+            "Event"
+        ], 
+        [
+            "Mehrauli", 
+            "60", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shivraj Patil", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "71", 
+            "Others"
+        ], 
+        [
+            "Y.S. Dadwal", 
+            "87", 
+            "Comment"
+        ], 
+        [
+            "Gupta", 
+            "93", 
+            "Comment"
+        ], 
+        [
+            "Pranab Mukherjee", 
+            "128", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:19"
+    ], 
+    "death": "", 
+    "title": "Patil reviews security situation", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . NEW DELHI : As the Capital was rocked again by a bomb blast on Saturday , Union Home Minister Shivraj Patil reviewed the security situation with top officials and extended all assistance to the Delhi Police Commissioner to deal with the situation . . . Soon after the blast in the busy flower market at Mehrauli , he spoke to senior officials , including Home Secretary Madhukar Gupta , who , in turn , was in constant touch with Delhi police chief Y.S. Dadwal . . . Mr. Gupta also spoke to authorities of the All-India Institute of Medical Sciences to find out the condition of the injured , a Ministry spokesman said . . . Condemning the blast , External Affairs Minister Pranab Mukherjee said : We will have to wait for investigations to find out who are responsible for this act . . . The police were determined to bring the culprits to book .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "special correspondent:1", 
+        "capital:10", 
+        "rocked again:12", 
+        "bomb blast:16", 
+        "security situation:28", 
+        "top officials:31", 
+        "assistance:36", 
+        "situation:46", 
+        "blast:53", 
+        "busy flower market:56", 
+        "constant touch:81", 
+        "authorities:97", 
+        "injured:112", 
+        "blast:123", 
+        "investigations:138", 
+        "culprits:158"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/patil-reviews-security-situation/article1347292.ece", 
+    "date": "27-09-2008", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi Police", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "Delhi police", 
+            "84", 
+            "Others"
+        ], 
+        [
+            "All-India Institute of Medical Sciences", 
+            "100", 
+            "Others"
+        ]
+    ]
+}

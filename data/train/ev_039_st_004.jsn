@@ -1,0 +1,149 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "10", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Dhekijuli",
+            "74", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "251", 
+            "Neutral"
+        ], 
+        [
+            "Maligaon", 
+            "254", 
+            "Event"
+        ], 
+        [
+            "Dhekiajuli", 
+            "262", 
+            "Event"
+        ], 
+        [
+            "northern Sonitpur", 
+            "265", 
+            "Neutral"
+        ], 
+        [
+            "eastern Karbi Anglong", 
+            "283", 
+            "Event"
+        ], 
+        [
+            "northern Udalguri", 
+            "296", 
+            "Event"
+        ], 
+        [
+            "Mancachar", 
+            "317", 
+            "Event"
+        ], 
+        [
+            "Dhurbi", 
+            "320", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "28", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "148", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "morning : 79", 
+        "afternoon : 100"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:12", 
+        "Tuesday:78", 
+        "Monday:99", 
+        "Monday:182", 
+        "Monday:256", 
+        "Monday:315"
+    ], 
+    "death": "", 
+    "title": "Assam on maximum alert, toll in blasts rises to 10", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "", 
+        "Dhekijuli"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Guwahati : A maximum security alert was sounded in Assam on Tuesday , a day after a series of explosions rocked the state ahead of Prime Minister Manmohan Singh 's arrival in Assam for poll campaigning . . . The toll in the blasts rose to 10 with two of the 61 injured succumbing to their injuries . . . A woman injured in the explosion here and a youth injured in the Dhekijuli blast died on Tuesday morning , police said . . . The prime minister arrives in the eastern tea growing town of Dibrugarh on Monday afternoon to campaign for the Congress party . . . `` Security forces have been put on a state of high alert to prevent any further rebel attacks . Police , army and paramilitary troopers have been deployed in strength across the state , '' Assam Chief Minister Tarun Gogoi told IANS . . . Security forces have launched a massive hunt to nab the bombers . The government has blamed the outlawed United Liberation Front of Asom ( ULFA ) for Monday 's four explosions and two grenade attacks . . . `` The ULFA is behind the attacks and I would say such senseless killings of innocent civilians would achieve nothing . We all should stand up against such barbaric terror attacks . I have asked the security agencies to make sure the bombers are captured , '' the chief minister said . . . A powerful explosion rocked Guwahati 's busy Maligaon area Monday , while another explosion shook Dhekiajuli town in northern Sonitpur district , about 150 km from here . . . The third explosion took place in eastern Karbi Anglong district injuring two people , while another grenade attack in northern Udalguri district had no casualties . . . There was another grenade attack at a police station late Monday in Mancachar in western Dhurbi district in which one policeman was killed and two injured . . . .", 
+    "injured": "61", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Prime Minister:26", 
+        "eastern tea growing town:92", 
+        "grenade:293"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/assam-on-maximum-alert-toll-in-blasts-rises-to-10-313124.html", 
+    "date": "07-04-2009", 
+    "target": "", 
+    "hot_spot": "Dhekijuli", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Congress", 
+            "105", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "179", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "195", 
+            "Accused"
+        ]
+    ]
+}

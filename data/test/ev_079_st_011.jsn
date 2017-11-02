@@ -1,0 +1,155 @@
+{
+    "LOC": [
+        [
+            "Mehrauli", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "South Delhi", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "71", 
+            "Victim"
+        ], 
+        [
+            "Delhi", 
+            "219", 
+            "Neutral"
+        ], 
+        [
+            "Lakhi Sarai", 
+            "234", 
+            "Victim"
+        ], 
+        [
+            "Bihar", 
+            "238", 
+            "Victim"
+        ], 
+        [
+            "Delhi", 
+            "243", 
+            "Victim"
+        ], 
+        [
+            "Bihar", 
+            "264", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "266", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Santosh Kumar", 
+            "33", 
+            "Victim"
+        ], 
+        [
+            "Kumar", 
+            "67", 
+            "Victim"
+        ], 
+        [
+            "Kumar", 
+            "102", 
+            "Victim"
+        ], 
+        [
+            "Fantoosh", 
+            "154", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Santosh", 
+            "167", 
+            "Victim"
+        ], 
+        [
+            "Rekha", 
+            "190", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Kumar", 
+            "195", 
+            "Victim"
+        ], 
+        [
+            "Santosh", 
+            "208", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday : 29", 
+        "1980s : 245"
+    ], 
+    "death": "1", 
+    "title": "Delhi blast: Honesty turns fatal for boy", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Sincerity and honesty became the death warrant for the child who lost his life in the blast that shook the flower market in Mehrauli of South Delhi on Saturday . . . Santosh Kumar -LRB- 13 -RRB- , who fell victim to the low intensity bomb , was only trying to return the ` packet ' of the two motorcycle-borne youth . . . Little did Kumar , hailing from Bihar , know that he was trying to return the bomb , which the duo had deliberately dropped . . . The last words heard by eyewitnesses and his relations were Kumar saying , ` bhai saab , aapka packet gir gaya hai -LRB- brother , your packet has fallen -RRB- . ' . . `` Everything happened so suddenly . Thick smoke came out instantly and there was a bang . My nephew was in blood , '' recounts his maternal uncle Fantoosh , a snacks vendor selling omelets and boiled eggs . . . Santosh was sent by his maternal uncle to fetch a crate of eggs when the incident happened . . . His grandmother , Rekha , was wailing for Kumar who was declared brought dead by the hospital authorities . . . Santosh 's father works as a labourer in a godown in Delhi while his brother is a rickshaw puller . . . His parents belong to Lakhi Sarai district in Bihar and had migrated to Delhi in 1980s . They were living in Islam colony near to the blast site . . . Migrant labourers from Bihar and Uttar Pradesh live in this colony .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "SOUTH DELHI", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "flower market:21", 
+        "13:36", 
+        "low intensity bomb:44", 
+        "return:52", 
+        "packet:55", 
+        "two motorcycle-borne youth:59", 
+        "deliberately dropped:87", 
+        "eyewitnesses:97", 
+        "relations:100", 
+        "bhai saab , aapka packet gir gaya hai -LRB- brother , your packet has fallen:106", 
+        "nephew:144", 
+        "blood:147", 
+        "maternal uncle:152", 
+        "snacks vendor:157", 
+        "fetch:175", 
+        "crate of eggs:177", 
+        "grandmother:188", 
+        "brought dead:199", 
+        "hospital authorities:203", 
+        "father:210", 
+        "labourer:214", 
+        "godown:217", 
+        "brother:222", 
+        "rickshaw puller:225", 
+        "migrated:241", 
+        "Islam colony:251", 
+        "Migrant labourers:261"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/delhi-blast-honesty-turns-fatal-for-boy/366708/", 
+    "date": "27-09-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "TWO WHEELER", 
+    "delivery_met": "THROWN", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

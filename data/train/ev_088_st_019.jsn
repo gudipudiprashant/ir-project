@@ -1,0 +1,123 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "Jangli Maharaj", 
+            "86", 
+            "Neutral"
+        ], 
+        [
+            "JM", 
+            "89", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "96", 
+            "Event"
+        ], 
+        [
+            "Balgandharva Theatre", 
+            "104", 
+            "Event"
+        ], 
+        [
+            "Dena Bank branch", 
+            "107", 
+            "Event"
+        ], 
+        [
+            "McDonald food outlet", 
+            "112", 
+            "Event"
+        ], 
+        [
+            "Garware Bridge", 
+            "116", 
+            "Event"
+        ], 
+        [
+            "Balgandharva theatre", 
+            "167", 
+            "Event"
+        ], 
+        [
+            "Uruli Kanchan", 
+            "191", 
+            "Victim"
+        ]
+    ], 
+    "PER": [
+        [
+            "RR Patil", 
+            "6", 
+            "Comment"
+        ], 
+        [
+            "Patil", 
+            "70", 
+            "Comment"
+        ], 
+        [
+            "Dayanand Patil", 
+            "181", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "night : 301"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:9", 
+        "Wednesday:37", 
+        "Wednesday:98"
+    ], 
+    "death": "", 
+    "title": "Formal probe begins in Pune serial blasts case", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Pune : Maharashtra Home Minister RR Patil on Friday said that investigating agencies were probing all angles to determine whether any terror outfit was behind the low intensity serial bomb blasts that rocked the city on Wednesday . . . Whether it was a terrorist act or not will be determined only after proper investigations are carried out by Maharashtra ATS , city crime branch and central agencies , Patil said . . . Agencies . . Four coordinated low-intensity explosions struck the busy arterial Jangli Maharaj ( JM ) road in the heart of Pune on Wednesday . The explosions occurred near Balgandharva Theatre , Dena Bank branch , a McDonald food outlet and Garware Bridge . . . Asked whether there could be a saffron terror angle to the incident , he said , All angles are being probed and it will not be proper to comment at this stage . . . He said the person injured in one of the blasts near Balgandharva theatre was being treated for minor injuries . . . The injured person Dayanand Patil , who hails from a nearby village of Uruli Kanchan , had reportedly visited the spot opposite the Balgandharva Theatre , where a dharna agitation by India Against Corruption was in progress . . . After he left the place , the explosive , which had apparently been put in his carry bag , exploded on the way , police sources said . . . Unconfirmed reports said ammonium nitrate could have been the substance used in the blast triggered by small detonators and pencil cells . . . Police have also issued an advisory to IAC activists to wind up the dharna pandal for security reasons . . . Life in the city returned to normal late night as the blasts did not cause any large-scale damage . Police have appealed to people to ignore rumours and carry on daily routine without fear .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "", 
+        ""
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/india/formal-probe-begins-in-pune-serial-blasts-case-403924.html", 
+    "date": "03-08-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maharashtra ATS", 
+            "60", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "LOC": [
+        [
+            "Gujarat", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "Buddhist shrine", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "34", 
+            "Event"
+        ], 
+        [
+            "Iram Lodge", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "Ranchi", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "98", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "121", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "142", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "Iram Lodge", 
+            "175", 
+            "Source"
+        ], 
+        [
+            "Hindpiri", 
+            "178", 
+            "Source"
+        ], 
+        [
+            "New Delhi", 
+            "225", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narendra Modi", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "Mujibal Ansari", 
+            "186", 
+            "Others"
+        ], 
+        [
+            "Salim Ansari", 
+            "189", 
+            "Others"
+        ], 
+        [
+            "Hyder Ali", 
+            "207", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "November 4:180", 
+        "October 25:228"
+    ], 
+    "death": "", 
+    "title": "Patna terror cell behind Bodh Gaya strike too: NIA", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Investigating agencies say they have evidence that the terrorist cell that bombed Gujarat Chief Minister Narendra Modi 's rally in Patna last month also carried out Julys attack on the Buddhist shrine at Bodh Gaya . . . Sources in the National Investigation Agency told The Hindu they were basing their conclusion on documentary evidence found during a search at Iram Lodge in Ranchi , where the alleged perpetrators stayed before the attack . Key among the evidence , the sources said , was a hand-drawn map marking out locations where bombs were to be placed at Bodh Gaya , as well as code-names for the men carrying the explosive devices . . . The map tallies accurately with the Bodh Gaya attack , a senior NIA officer said . The NIA , he said , also recovered documents mapping the Gandhi Maidan in Patna , where Mr. Modis rally was being held when the bombs went off , as well as material on future options . . . Nine bombs were recovered from Iram Lodge at Hindpiri on November 4 . Two young men Mujibal Ansari and Salim Ansari had rented the room . Both went missing a week ago along with a suspect , Hyder Ali . . . Interestingly , the NIA had moved an application before a special court in New Delhi on October 25 seeking an arrest warrant against Ali , now named by investigators as a key member of the terror cell . The application was filed on the basis of a separate general investigation by the NIA against Indian Mujahideen members .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "", 
+        "Buddhist shrine at Bodh Gaya"
+    ], 
+    "O": [
+        "Chief Minister:14"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/patna-terror-cell-behind-bodh-gaya-strike-too-nia/article5322815.ece", 
+    "date": "07-07-2013", 
+    "target": "", 
+    "hot_spot": "Buddhist shrine at Bodh Gaya", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "127", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "215", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "264", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "266", 
+            "Accused"
+        ]
+    ]
+}

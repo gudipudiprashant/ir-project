@@ -1,0 +1,114 @@
+{
+    "LOC": [
+        [
+            "Kashmir", 
+            "32", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "Jammu-Kashmir", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Himalayan", 
+            "233", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "236", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "249", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "264", 
+            "Neutral"
+        ], 
+        [
+            "Islamabad", 
+            "268", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "270", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "272", 
+            "Neutral"
+        ], 
+        [
+            "Himalayan", 
+            "276", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Hasseb Ahmed", 
+            "66", 
+            "Comment"
+        ], 
+        [
+            "Ahmed", 
+            "93", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday : 11"
+    ], 
+    "death": "5", 
+    "title": "Car Bomb In Kashmir Kills Six", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "ISLAMIC TERRORIST OUTFITS"
+    ], 
+    "content": "A bomber rammed an explosives-laden car into an army jeep Wednesday , sparking a blast that killed five soldiers and a civilian near a school in an elite neighborhood of Indian Kashmir 's capital , police said . At least 20 people were injured.No children were hurt inside the school in Srinagar , the summer capital of India 's Jammu-Kashmir state , senior police officer Hasseb Ahmed said.However , the blast knocked down some of the school perimeter and shattered windows in a neighborhood filled with residences of top government officials , Ahmed said.The crushed remains of the attack car lay on the leafy avenue near shreds of flesh and the bodies of soldiers . The severely damaged army jeep lay toppled on a side . Bits of the engine , metal and glass shards and other debris lay on the blood-splattered road.The body of the attacker had n't yet been found , but police believed it was blown to pieces . `` The earth shook and all the window panes were shattered . I was inside and I rushed out . There was smoke everywhere . I saw the bodies , '' an unidentified witness told the private Channel 7 . No one immediately claimed responsibility for the attack.Pakistan-based Islamic militants have been fighting Indian security forces in the state since 1989 to carve out a separate homeland or merge the Himalayan region into Pakistan . More than 66,000 people have been killed in the conflict.India accuses Pakistan of aiding and arming the militants at training camps on the Pakistani side of Kashmir , a charge Islamabad denies.Both India and Pakistan claim the divided Himalayan region in its entirety and have fought two wars over it . . . .", 
+    "injured": "20", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "Kashmir", 
+        "Srinagar"
+    ], 
+    "O": [
+        "police:36"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.cbsnews.com/news/car-bomb-in-kashmir-kills-six/", 
+    "date": "20-07-2005", 
+    "target": "", 
+    "hot_spot": "Srinagar", 
+    "delivery_mod": "JEEP", 
+    "delivery_met": "THROWN", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Islamic militants", 
+            "211", 
+            "Accused"
+        ]
+    ]
+}

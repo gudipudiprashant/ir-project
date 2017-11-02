@@ -1,0 +1,228 @@
+{
+    "LOC": [
+        [
+            "Navi Mumbai", 
+            "3", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "Sanpada", 
+            "33", 
+            "Accused"
+        ], 
+        [
+            "Navi Mumbai", 
+            "35", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "52", 
+            "Accused"
+        ], 
+        [
+            "Navi Mumbai", 
+            "71", 
+            "Accused"
+        ], 
+        [
+            "Ahmedabad", 
+            "74", 
+            "Event"
+        ], 
+        [
+            "Vadodara", 
+            "79", 
+            "Source"
+        ], 
+        [
+            "Ahmedabad", 
+            "98", 
+            "Event"
+        ], 
+        [
+            "Navi Mumbai", 
+            "109", 
+            "Accused"
+        ], 
+        [
+            "Ahmedabad", 
+            "122", 
+            "Event"
+        ], 
+        [
+            "Surat", 
+            "124", 
+            "Accused"
+        ], 
+        [
+            "Vadodara", 
+            "126", 
+            "Source"
+        ], 
+        [
+            "Vadodara", 
+            "151", 
+            "Source"
+        ], 
+        [
+            "Maharashtra", 
+            "160", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "174", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "186", 
+            "Event"
+        ], 
+        [
+            "Surat", 
+            "193", 
+            "Accused"
+        ], 
+        [
+            "Puna Gaam", 
+            "202", 
+            "Accused"
+        ], 
+        [
+            "Varachha", 
+            "205", 
+            "Accused"
+        ], 
+        [
+            "Surat", 
+            "208", 
+            "Accused"
+        ], 
+        [
+            "Ahmedabad", 
+            "227", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "404", 
+            "Accused"
+        ], 
+        [
+            "Salem", 
+            "453", 
+            "Neutral"
+        ], 
+        [
+            "TN", 
+            "455", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Palaniswami", 
+            "446", 
+            "Others"
+        ], 
+        [
+            "Ramaswami", 
+            "448", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "8pm : 251"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday.Three : 100", 
+        "July:112", 
+        "July 7:112", 
+        "July 15:115", 
+        "July:115", 
+        "Sunday:210", 
+        "Monday:262", 
+        "Saturday:378"
+    ], 
+    "death": "", 
+    "title": "Cars started from Mumbai, bombs loaded in Vadodara", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "AHMEDABAD/MUMBAI : Navi Mumbai , generally dismissed as the bedroom suburb of Mumbai , has suddenly become the focus of anti-terror operations . After the India Mujahideen threat email was traced to Sanpada in Navi Mumbai , it now transpires that all the four cars converted into bombs-on-wheels were stolen from Mumbai 's twin city.The cars , all of them of Maruti make , are believed to have travelled from Navi Mumbai to Ahmedabad with a stopover in Vadodara , where they were loaded with explosives . Two of these cars blew up in public hospitals in Ahmedabad on Saturday.Three WagonRs and one Maruti 800 , stolen from Navi Mumbai on July 7 and July 15 , made their way to Ahmedabad through Surat and Vadodara , where the deadly incendiary material for the bombs was loaded . Investigations by the Ahmedabad crime branch reveal that their passage on fake Vadodara registration numbers were recorded at toll booths in Maharashtra and on the Ahmedabad-Vadodara expressway.LPG cylinders packed in cars for maximum damageSources in Ahmedabad said that while one WagonR and a Maruti 800 headed for Ahmedabad , two WagonRs probably returned to Surat these are the ones which were found in Puna Gaam and Varachha areas of Surat on Sunday , fully loaded with explosive material including ammonium nitrate , ball bearings and timers . In Ahmedabad , sleuths who attempted a reconstruction of the car bomb in the civil hospital , suspect that the car which blew up at 8pm was brought in one hour before it exploded.The reconstruction on Monday also indicated that the boot of this WagonR had a CNG tank . The free space in the boot was packed with ammonium nitrate in between three 5kg LPG cylinders . The second blast at this hospital , which happened after a short interval , was probably the explosion of an LPG gas cylinder , said a senior police officer.From the way the car has been damaged , it is also believed that the LPG cylinders were placed on their sides , horizontally , beside the bomb . All the gas cylinders were uncorked and kept slightly leaking.The Maruti 800 that exploded at LG Hospital , another site where the injured were streaming in on Saturday , did not claim any human lives as it lacked intensity having only one LPG bottle packed in its small boot . Police sources in Mumbai say there are several inter-state car theft syndicates that steal vehicles based on orders given by ` clients ' . The Mumbai crime branch had recently busted an inter-state racket where they had even arrested seven persons , including DMK corporator Palaniswami alias Ramaswami -LRB- 49 -RRB- from Salem in TN .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "", 
+        "LG Hospital"
+    ], 
+    "O": [
+        "anti-terror operations:21", 
+        "threat email:28", 
+        "four cars converted into bombs-on-wheels:44", 
+        "cars blew up in public hospitals:91", 
+        "ammonium nitrate:218", 
+        "reconstruction of the car bomb:233", 
+        "car bomb in the civil hospital:236", 
+        "explosion of an lpg gas cylinder:311", 
+        "did not claim any human lives:380", 
+        "inter-state car theft syndicates:409", 
+        "steal vehicles:414", 
+        "inter-state racket:433", 
+        "arrested seven persons:439"
+    ], 
+    "unexpl": [
+        "BALL BEARING", 
+        "MECHANICAL TIMERS"
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/India/Cars_started_from_Mumbai_bombs_loaded_in_Vadodara/rssarticleshow/3299487.cms", 
+    "date": "26-07-2008", 
+    "target": "PUBLIC HOSPITAL", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "AMMONIUM NITRATE", 
+        "LPG CYLINDER", 
+        "CNG"
+    ], 
+    "ORG": [
+        [
+            "India Mujahideen", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "Ahmedabad crime branch", 
+            "142", 
+            "Others"
+        ], 
+        [
+            "LG Hospital", 
+            "366", 
+            "Victim"
+        ], 
+        [
+            "Mumbai crime branch", 
+            "426", 
+            "Others"
+        ], 
+        [
+            "DMK", 
+            "444", 
+            "Others"
+        ]
+    ]
+}

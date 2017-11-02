@@ -1,0 +1,112 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "112", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "166", 
+            "Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukh Nagar", 
+            "210", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "214", 
+            "Event"
+        ], 
+        [
+            "Anand Kishan Centre", 
+            "229", 
+            "Event"
+        ], 
+        [
+            "Konark theater", 
+            "233", 
+            "Event"
+        ], 
+        [
+            "Venkatadri movie theater", 
+            "236", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "11", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "102", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 25", 
+        "7pm : 246", 
+        "7:01 pm:255", 
+        "7:06 pm:263"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:24"
+    ], 
+    "death": "", 
+    "title": "Hyderabad blasts: PM appeals for calm, announces Rs 2 lakh for dead", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "Hyderabad", 
+        "Hyderabad"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Zeenews Bureau . . New Delhi : Prime Minister Dr Manmohan Singh has strongly condemned the bomb blasts that occurred in Hyderabad on Thursday evening . The Prime Ministers Office posted on Twitter , ` This is a dastardly attack , the guilty will not go unpunished ( sic ) ' . . . And added , ' I appeal to the public to remain calm and maintain peace . ' . . The Union Cabinet which was in a meeting when the blasts took place , was informed about the incident . . . ` The Prime Minister , Dr. Manmohan Singh , has strongly condemned the bomb blasts in Hyderabad . While expressing shock and grief over the loss of lives in the blasts , the Prime Minister has appealed to the public to remain calm and maintain peace , ' an official statement said . . . PM also announced Rs 2 lakh each to next of kin of those killed in Hyderabad blasts and Rs 50,000 each to those seriously injured , agencies reported . . . PM has also directed the central agencies to extend all possible help to the Andhra Pradesh state authorities in relief operations . . . Three bomb blasts rocked Dilsukh Nagar area of Hyderabad city near a bus stop . The blasts took place at three points - Anand Kishan Centre , Konark theater and Venkatadri movie theater . The blasts happened simultaneously at around 7pm . . . The first blast occurred at 7:01 pm . The second blast happened at 7:06 pm . The blasts have been said to have been caused by tiffin bombs . One bomb has been found to be un exploded near a foot bridge . . . As per reports more than 50 people have have been injured in the blasts and have been rushed to the nearby hospital .", 
+    "injured": "50", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "zeenews bureau:1", 
+        "union cabinet:75", 
+        "prime minister:98", 
+        "tiffin bombs:276", 
+        "foot bridge:290"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/nation/hyderabad-blasts-pm-appeals-for-calm-announces-rs-2-lakh-for-dead_830672.html", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "Hyderabad", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

@@ -1,0 +1,118 @@
+{
+    "LOC": [
+        [
+            "Silda", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "THIRUVANANTHAPURAM", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Pune", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Kerala", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "96", 
+            "Neutral"
+        ], 
+        [
+            "Silda", 
+            "111", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "chief minister V S Achuthanandan", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "V S Achuthanandan", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "Achuthanandan", 
+            "79", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0022", 
+    "DAT": [], 
+    "death": "35", 
+    "title": "Kerala CM condemns terror attacks in Pune, West Midnapore", 
+    "org_unorg": "", 
+    "terror_group": [
+        "MAOIST COMMUNIST CENTRE (MCC)"
+    ], 
+    "content": "THIRUVANANTHAPURAM : In the wake of the Pune bomb blast and Maoist attack at Silda in West Bengal , Kerala chief minister V S Achuthanandan said strong steps would be taken to safeguard the state from subversive activities of anti-national forces . ` Terrorist strikes being reported from different parts of the country are matters of grave concern , ' he said . Terrorist threat should be viewed seriously and stern measures taken to tackle the menace , Achuthanandan told reporters here after a state cabinet meeting The incidents of blast triggered by terrorist at Pune claiming 11 lives and Maoist attack on the Eastern Frontier Rifles ' camp at Silda in which 24 jawans were gunned down were deplorable , he said .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Trivandrum", 
+        "Trivandram", 
+        ""
+    ], 
+    "O": [
+        "wake:5", 
+        "pune bomb blast:8", 
+        "pune:8", 
+        "bomb blast:9", 
+        "state:35", 
+        "country:53", 
+        "concern:58", 
+        "threat:65", 
+        "menace:77", 
+        "state cabinet meeting:85", 
+        "terrorist:94"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/thiruvananthapuram/Kerala-CM-condemns-terror-attacks-in-Pune-West-Midnapore-/articleshow/5583633.cms?referral=PM", 
+    "date": "13-02-2010", 
+    "target": "CAMP", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Maoist", 
+            "12", 
+            "Accused"
+        ], 
+        [
+            "Maoist", 
+            "101", 
+            "Accused"
+        ], 
+        [
+            "Eastern Frontier Rifles", 
+            "105", 
+            "Others"
+        ]
+    ]
+}

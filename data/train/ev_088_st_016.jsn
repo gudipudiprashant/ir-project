@@ -1,0 +1,150 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Delhi Police", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "bus stand", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "66", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "86", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "140", 
+            "Neutral"
+        ], 
+        [
+            "Nizamuddin Railway Station", 
+            "164", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Landge Irfan Mustafa", 
+            "52", 
+            "Accused"
+        ], 
+        [
+            "Mustafa", 
+            "77", 
+            "Accused"
+        ], 
+        [
+            "SN Srivastav", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "Mustafa", 
+            "109", 
+            "Accused"
+        ], 
+        [
+            "Asad Khan", 
+            "126", 
+            "Accused"
+        ], 
+        [
+            "Imran Khan", 
+            "132", 
+            "Accused"
+        ], 
+        [
+            "Sayed Firoz", 
+            "150", 
+            "Accused"
+        ], 
+        [
+            "Hamza", 
+            "153", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "1 August : 17", 
+        "Wednesday:34", 
+        "10 October : 68", 
+        "30 October : 121", 
+        "26 September:142", 
+        "1 October : 160"
+    ], 
+    "death": "", 
+    "title": "Fourth accused in Pune blast arrested", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "New Delhi : The fourth suspected Indian Mujahideen ( IM ) operative allegedly involved in the 1 August Pune blast was arrested by the Special Cell of Delhi Police , an official said Wednesday . The other three accused were arrested earlier . . . The accused has been identified as Landge Irfan Mustafa , 30 . He was arrested near a bus stand in Jaipur on 10 October , police said . . . `` Mustafa was one of the other accused in the Pune blast . Many are still absconding , '' said Special Commissioner of Police ( Special Cell ) SN Srivastav . . . Mustafa is undergoing 20 days of police custody , which ends on 30 October . . . Asad Khan , 33 , and Imran Khan , 31 were arrested from south Delhi on 26 September . The third alleged operative , Sayed Firoz alias Hamza , 38 , was arrested on 1 October from the Nizamuddin Railway Station here .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "pune", 
+        "Pune"
+    ], 
+    "O": [
+        "police:71", 
+        "Special Commissioner of Police:96"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/india/fourth-accused-in-pune-blast-arrested-494126.html", 
+    "date": "17-10-2012", 
+    "target": "", 
+    "hot_spot": "Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "7", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "Special Cell", 
+            "25", 
+            "Others"
+        ]
+    ]
+}

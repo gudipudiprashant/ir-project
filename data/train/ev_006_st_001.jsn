@@ -1,0 +1,79 @@
+{
+    "LOC": [
+        [
+            "Lilong", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Thoubal", 
+            "28", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohammad Wahamuddin", 
+            "40", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "morning : 115"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:10", 
+        "Saturday:37", 
+        "Sunday:114"
+    ], 
+    "death": "1", 
+    "title": "Bomb blast in Manipur ahead of Modis visit", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Thoubal", 
+        "Thoubal", 
+        "Lilong"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": ": Ahead of Prime Minister Narendra Modis visit on Sunday , a powerful bomb went off in a paddy field near the police station at Lilong in Thoubal district and camp of 40 Assam Rifles on Saturday , killing Mohammad Wahamuddin , 11 . The police suspect that the bomb had been planted to carry out an ambush . . . Local people held a meeting shortly after the blast , and alleged that the bomb had been planted by the Assam Rifles troops as a trap for insurgents . The meeting resolved to demand the removal of Assam Rifles troops immediately , failing which they would launch various forms of agitations from Sunday morning .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Prime Minister:4", 
+        "police:46"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/bomb-blast-in-manipur-ahead-of-modis-visit/article6647668.ece", 
+    "date": "29-11-2014", 
+    "target": "", 
+    "hot_spot": "paddy field near the police station,Lilong", 
+    "delivery_mod": "AMBUSH", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "40 Assam Rifles", 
+            "33", 
+            "Others"
+        ], 
+        [
+            "Assam Rifles", 
+            "82", 
+            "Others"
+        ], 
+        [
+            "Assam Rifles", 
+            "99", 
+            "Others"
+        ]
+    ]
+}

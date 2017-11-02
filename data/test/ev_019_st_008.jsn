@@ -1,0 +1,140 @@
+{
+    "LOC": [
+        [
+            "Bangladesh", 
+            "1", 
+            "Victim"
+        ], 
+        [
+            "India", 
+            "4", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "64", 
+            "Victim"
+        ], 
+        [
+            "India", 
+            "112", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "159", 
+            "Victim"
+        ], 
+        [
+            "Beldanga", 
+            "170", 
+            "Neutral"
+        ], 
+        [
+            "Murshidabad", 
+            "172", 
+            "Neutral"
+        ], 
+        [
+            "Khagragarh", 
+            "183", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "185", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Asaduzzaman Khan", 
+            "99", 
+            "Comment"
+        ], 
+        [
+            "Shakeel Ahmed", 
+            "145", 
+            "Victim"
+        ], 
+        [
+            "Khan", 
+            "231", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:44", 
+        "2009:161"
+    ], 
+    "death": "", 
+    "title": "Dhaka seeks Bardhaman blast details", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "terror_group": [
+        "ISLAMIC TERRORIST OUTFITS"
+    ], 
+    "content": "Bangladesh has asked India to share any details of the Bardhaman blast investigation that point to the hand of Islamist terror groups on its soil . . . The West Bengal police are investigating if any of the four people arrested for the October 2 blast at the house of a local Trinamool Congress supporter have links with underground or terrorist groups in Bangladesh . . . Along with certain explosives , literature used for making bombs was found at the site of the blast . . . Expressing concern over the incident , Bangladeshs junior Home Minister Asaduzzaman Khan told The Hindu over phone : We have good relations with India . We share all information on sensitive issues . We would like the Indian Government to do the same in this case . . . The prime suspect in the blast , Shakeel Ahmed , who died on the spot , had allegedly crossed over from Bangladesh in 2009 . He had earlier rented a house in Beldanga in Murshidabad and only a few months ago rented the one in Khagragarh in Bardhaman , where the explosion occurred . . . The Minister said the Government of Bangladesh has not allowed its territory to be used for anti-Indian activities . . . We have dismantled several camps along the border which were involved in such activities , Mr. Khan said .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "home minister:97"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/dhaka-seeks-bardhaman-blast-details/article6479804.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "ACCIDENTAL", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Islamist terror", 
+            "20", 
+            "Accused"
+        ], 
+        [
+            "West Bengal police", 
+            "30", 
+            "Others"
+        ], 
+        [
+            "Trinamool Congress", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "Indian Government", 
+            "126", 
+            "Others"
+        ], 
+        [
+            "Government of Bangladesh", 
+            "198", 
+            "Others"
+        ]
+    ]
+}

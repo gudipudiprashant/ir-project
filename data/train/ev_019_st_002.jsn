@@ -1,0 +1,100 @@
+{
+    "LOC": [
+        [
+            "West Bengal", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "26", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shakil Ahmad", 
+            "64", 
+            "Victim"
+        ], 
+        [
+            "Sovon Mondal", 
+            "67", 
+            "Accused"
+        ], 
+        [
+            "Nurul Hasan Choudhury", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "Shakil Ahmad", 
+            "155", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:22"
+    ], 
+    "death": "2", 
+    "title": "NIA may probe Bengal blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Even as the ruling Trinamool Congress in West Bengal came under attack from opposition parties for alleged terror links following the October 2 blast in Bardhaman district reportedly in the house of a party member , a Union Home Ministry official indicated that the National Investigation Agency -LRB- NIA -RRB- might take over the investigation . . . Two men , identified as Shakil Ahmad and Sovon Mondal , were killed in the blast . . . The government has taken cognisance of the incident and may transfer the case to the NIA for further investigations if necessary , the official said . Preliminary findings by Central agencies indicated that the two men killed in the blast at the house of TMC leader Nurul Hasan Choudhury could be linked to an extremist group . . . The local police have purportedly seized several watch dials and SIM cards from the house , rented to Shakil Ahmad .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "O": [
+        "union home ministry:38", 
+        "police:139"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/nia-may-probe-bengal-blast/article6474293.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Trinamool Congress", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "45", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "TMC", 
+            "122", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "Dhemaji", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "96", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "202", 
+            "Neutral"
+        ], 
+        [
+            "Barua", 
+            "204", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "222", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Paresh Barua", 
+            "91", 
+            "Accused"
+        ], 
+        [
+            "Barua", 
+            "121", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "August 15:38", 
+        "2004:41", 
+        "Sunday:53"
+    ], 
+    "death": "13", 
+    "title": "ULFA tenders apology for Dhemaji blast", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhemaji", 
+        "Guwahati", 
+        "parade ground ,Dhemaji"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "More than five years after it had triggered a bomb blast at the Independence Day parade ground in upper Assams Dhemaji town in which 13 people , including 10 children and three women , were killed on August 15 , 2004 , the United Liberation Front of Asom -LRB- ULFA -RRB- on Sunday tendered an apology to the people of Assam for denying its hand in the blast immediately after the blast . . . In a statement e-mailed to the local media , self-styled Commander-in-Chief of the ULFA , Paresh Barua , described the Dhemaji blast as the most tainted chapter of ULFAs revolutionary history and the most brutal and heinous murder of children and women . . . Barua claimed that ULFA had denied its hand in the blast as those ULFA cadres who had triggered it , misinformed higher-ups in the militant outfit that the blast was the handiwork of the occupational forces . . . We did not realise that our statement issued at that time was incorrect . However , later when the real truth came to light , we realised that our statement was incorrect . So we seek the apology of the people of Assam , Barua said . . . The ULFA military chief alleged that those cadres who were involved in the Dhemaji blast had already been expelled from the outfit .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "INDEPENDENCE DAY", 
+    "link": "http://www.thehindu.com/news/national/ulfa-tenders-apology-for-dhemaji-blast/article64697.ece", 
+    "date": "15-08-2009", 
+    "target": "POLICE AND DEFENCE FORCES", 
+    "hot_spot": "parade ground ,Dhemaji", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "44", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "89", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "124", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "134", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "210", 
+            "Accused"
+        ]
+    ]
+}

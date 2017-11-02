@@ -1,0 +1,130 @@
+{
+    "LOC": [
+        [
+            "Jammu and Kashmir", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Maulana Azad stadium", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Jammu", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Bakshi stadium", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "108", 
+            "Neutral"
+        ], 
+        [
+            "Digboi", 
+            "116", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "120", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "184", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "NN Vohra", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "AP Tiwari", 
+            "161", 
+            "Comment"
+        ], 
+        [
+            "J-K", 
+            "233", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "1950 : 183", 
+        "march : 213"
+    ], 
+    "death": "", 
+    "title": "R-Day relatively peaceful barring minor blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Amid multi-tier security , Jammu and Kashmir Governor NN Vohra took the salute at the Maulana Azad stadium in Jammu with no untoward incident being reported from any part of the state.For the first time in a decade , mobile phone and Internet services were not disrupted in the Kashmir Valley as part of the security drill for the celebrations which took place at Bakshi stadium in Srinagar and other district headquarters.At three points along the Line of Control ( LoC ) , Indian and Pakistani troops exchanged sweets even though areas along the border in Jammu and Kashmir witnessed regular ceasefire violations and infiltration bids from Pakistan . In the oil town of of Digboi in upper Assams Tinsukia district , two low-intensity bombs exploded but no damage or casualty was reported.While one blast took place under dumped garbage near a railway track , the other occurred in a drain under the garbage there , Senior Superintendent of Police AP Tiwari said.In the state capitals , Governors took the salute at traditional parades marking the occasion when on this day in 1950 India became a republic . Chief Ministers unfurled the national flag as the states showcased the countrys cultural diversity at parades where smartly dressed contingents of security forces held march pasts . Colourfully decorated tableaux also displayed the rich cultural traditions . In his Republic Day speech , the J-K Governor said that cross-border factors were responsible for the hurdles in development of the state , even as he stressed on the need for maintenance of peace and public order for sustained growth .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Tinsukia", 
+        "", 
+        "oil town ,Digboi"
+    ], 
+    "O": [
+        "oil town:112", 
+        "low-intensity bombs:124", 
+        "garbage:140", 
+        "railway track:143", 
+        "Senior Superintendent of Police:157", 
+        "Republic Day:228"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "REPULBIC DAY", 
+    "link": "http://millenniumpost.in/NewsContent.aspx?NID=93342", 
+    "date": "26-01-2015", 
+    "target": "", 
+    "hot_spot": "oil town ,Digboi", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Line of Control", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "LoC", 
+            "81", 
+            "Others"
+        ]
+    ]
+}

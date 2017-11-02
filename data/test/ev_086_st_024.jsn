@@ -1,0 +1,253 @@
+{
+    "LOC": [
+        [
+            "Pakistan", 
+            "49", 
+            "Accused"
+        ], 
+        [
+            "Darbanga", 
+            "252", 
+            "Accused"
+        ], 
+        [
+            "Bihar", 
+            "254", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "259", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "327", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Riyaz Bhatkal", 
+            "41", 
+            "Accused"
+        ], 
+        [
+            "Naquee Ahmed", 
+            "76", 
+            "Accused"
+        ], 
+        [
+            "Shaikh", 
+            "80", 
+            "Accused"
+        ], 
+        [
+            "Kanwar Pathrija", 
+            "82", 
+            "Accused"
+        ], 
+        [
+            "Haroon Naik", 
+            "85", 
+            "Accused"
+        ], 
+        [
+            "Riyaz Bhatkal", 
+            "94", 
+            "Accused"
+        ], 
+        [
+            "Riyaz Bhatkal", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "Ujjwal Nikam", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "Riyaz Bhatkal", 
+            "174", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "177", 
+            "Accused"
+        ], 
+        [
+            "Waqas Ibrahim Sad", 
+            "180", 
+            "Accused"
+        ], 
+        [
+            "Danish", 
+            "184", 
+            "Accused"
+        ], 
+        [
+            "Tarbez", 
+            "186", 
+            "Accused"
+        ], 
+        [
+            "Dubai", 
+            "188", 
+            "Accused"
+        ], 
+        [
+            "Muzaffar Kolah", 
+            "190", 
+            "Accused"
+        ], 
+        [
+            "Tehseen Akhtar Shaikh", 
+            "193", 
+            "Accused"
+        ], 
+        [
+            "Rakesh Maria", 
+            "201", 
+            "Others"
+        ], 
+        [
+            "Mohammed Qafeel Ansari", 
+            "225", 
+            "Accused"
+        ], 
+        [
+            "Ansari", 
+            "248", 
+            "Accused"
+        ], 
+        [
+            "Maria", 
+            "275", 
+            "Comment"
+        ], 
+        [
+            "Ansari", 
+            "296", 
+            "Accused"
+        ], 
+        [
+            "Riyaz", 
+            "319", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "335", 
+            "Accused"
+        ], 
+        [
+            "Maria", 
+            "370", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 19 : 263"
+    ], 
+    "death": "27", 
+    "title": "13/7 blasts case: ATS files charge sheet, names Riyaz Bhatkal", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Nearly a year after triple bomb blasts shook the city killing 27 people and wounding many others , Maharashtra ATS today filed 4700-page charge sheet in a special court against 10 members of Indian Mujahideen , including its top operative Riyaz Bhatkal , believed to be hiding in Pakistan . . . Of the 10 members of the home terror group , six are absconding while four have been arrested . Those facing trial are Naquee Ahmed , Nadeem Shaikh , Kanwar Pathrija and Haroon Naik . . . The new face of Riyaz Bhatkal , a top operative of Indian Mujahideen ( IM ) . Inset : Riyaz Bhatkal 's old avatar . . . The chargesheet was filed by special public prosecutor Ujjwal Nikam against the 10 under the stringent Maharashtra Control of Organised Crime Act ( MCOCA ) , IPC , Explosives Act , Explosives Substances Act , Prevention of Damage to Public Properties Act and Unlawful Prevention of Activities Act . . . `` Among the wanted accused are Riyaz Bhatkal , Yasin Bhatkal , Waqas Ibrahim Sad , Danish alias Tarbez , Dubai based Muzaffar Kolah and Tehseen Akhtar Shaikh , '' said ATS chief Rakesh Maria . . . In an another development , ATS claimed to have arrested one more accused in the 13/7 blast case , Mohammed Qafeel Ansari ( 55 ) , who was already in the custody of Delhi Police in a terror-related case . . . Ansari , hailing from Darbanga in Bihar , was arrested in Mumbai blasts case on May 19 , taking the total number of arrests to five , Maria said , adding his transit remand was sought and a supplementary charge sheet would be filed soon . . . Ansari was involved in criminal conspiracy and also provided logistical support in executing the crime , ATS officials said . . . `` Riyaz , who is suspected to be in Pakistan now , was in coordination with absconding Yasin , who looks after the IM 's operations in India , had conspired and executed the blasts at business hubs with an intention to destroy economic structure ( of the city ) , '' Maria said . . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "special court:28", 
+        "IPC:143", 
+        "Explosives Act:145", 
+        "Explosives Substances Act:148", 
+        "Prevention of Damage to Public Properties Act and Unlawful Prevention of Activities Act:152"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.mid-day.com/news/2012/may/250512-13-7-blasts-case-ATS-files-chargesheet.htm", 
+    "date": "25-05-2012", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maharashtra ATS", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "101", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "104", 
+            "Accused"
+        ], 
+        [
+            "Maharashtra Control of Organised Crime Act", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "MCOCA", 
+            "140", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "199", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "211", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "239", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "312", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "341", 
+            "Accused"
+        ], 
+        [
+            "India", 
+            "345", 
+            "Others"
+        ]
+    ]
+}

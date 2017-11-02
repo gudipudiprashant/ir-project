@@ -1,0 +1,290 @@
+{
+    "LOC": [
+        [
+            "Uttar Pradesh", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Allahabad", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Kanpur", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Ayodhaya", 
+            "39", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "53", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "77", 
+            "Neutral"
+        ], 
+        [
+            "Allahabad", 
+            "197", 
+            "Neutral"
+        ], 
+        [
+            "Kanpur", 
+            "234", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "238", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "342", 
+            "Neutral"
+        ], 
+        [
+            "Ayodhya", 
+            "403", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "444", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "457", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "459", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "461", 
+            "Event"
+        ], 
+        [
+            "Varansi", 
+            "483", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "487", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "491", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "516", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bajrang Dal", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "Ashok Singhal", 
+            "139", 
+            "Others"
+        ], 
+        [
+            "Singhal", 
+            "192", 
+            "Comment"
+        ], 
+        [
+            "Mayawati", 
+            "218", 
+            "Others"
+        ], 
+        [
+            "Sriprakash Jaiswal", 
+            "228", 
+            "Others"
+        ], 
+        [
+            "Jaiswal", 
+            "313", 
+            "Comment"
+        ], 
+        [
+            "Mridul Mishra", 
+            "390", 
+            "Comment"
+        ], 
+        [
+            "Sachidanand Pandey", 
+            "434", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "533", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "15 minutes : 504"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Nov 24 : 41", 
+        "Friday : 87", 
+        "Friday : 411", 
+        "Friday : 447"
+    ], 
+    "death": "9", 
+    "title": "Blasts in Uttar Pradesh evoke protests", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "JAISH-E-MOHAMMED / TAHRIK-E-FURQAN"
+    ], 
+    "content": "The simultaneous bomb blasts that rocked three cities in Uttar Pradesh have angered the people who blame the State as well as the Centre for inaction against terrorist threat . . . Allahabad / Varanasi / Kanpur / Ayodhaya , Nov 24 : The simultaneous bomb blasts that rocked three cities in Uttar Pradesh have angered the people who blame the State as well as the Centre for inaction against terrorist threat . . . In Varanasi , where at least nine people were killed in Friday 's blasts , Bajrang Dal activists took to the street after Bharatiya Janata Party ( BJP ) and Vishwa Hindu Parishad ( VHP ) called for a shutdown in the state . . . The activists forced the shopkeepers to close their shops in the city . . . VHP Chief Ashok Singhal said the attack was the result of Congress-led ruling coalition 's soft attitude towards terrorists . . . `` The reason behind the increase in such incidents is that the Congress-led coalition government at the Centre is rather lax in curbing terrorist activities and has even repealed POTA , '' said Singhal . . . In Allahabad , Samajwadi Party workers halted a train in protest against the state Government and demanded the resignation of Chief Minister Mayawati . . . Union Minister of State for Home Sriprakash Jaiswal , who is in Kanpur , criticised the Uttar Pradesh State Government for not taking the terrorist threat seriously . . . `` This is not the time to resort to politics . We should assuage people 's fears and work towards ensuring that such events are not repeated . As far as the blast is concerned , our central intelligence agency had warned all the states in our country that any crowded place is a potential target of terrorists , '' said Jaiswal . . . But the attacks could n't deter the faith of thousands of devotees who turned out in large numbers on the banks of Ganges River in Varanasi to take a holy dip on the occasion of Kartik Purnima , the full moon day . . . `` Terrorism can never affect the faith of people . History reveals that devout Hindus are always ready to sacrifice their life for their faith , '' said Mridul Mishra , a devotee . . . Similar scenes were visible in Ayodhya , where four people were killed in Friday 's blast . . . `` Security arrangements are very good here . We are not scared at all , '' said Sachidanand Pandey , a devotee . . . Terror struck Uttar Pradesh on Friday when militants triggered near-simultaneous blasts in court premises at Varanasi , Faizabad and Lucknow killing 15 people , four of them lawyers , and injuring over 80 . . . Six bombs - three in Varansi , two in Faizabad and one in Lucknow - some planted on cycles , went off within a span of 15 minutes . . . The blasts came a week after the Uttar Pradesh police along with central security agencies busted a Jaish-e-Mohammed module , which wanted to target Rahul Gandhi . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "bomb blasts:3", 
+        "terrorist threat:28", 
+        "bomb blasts:46", 
+        "terrorist threat:71", 
+        "killed:85", 
+        "activists:93", 
+        "activists:123", 
+        "attack:143", 
+        "terrorists:155", 
+        "terrorist activities:182", 
+        "POTA:188", 
+        "protest:206", 
+        "terrorist:246", 
+        "blast:284", 
+        "intelligence agency:290", 
+        "terrorists:309", 
+        "ganges river:339", 
+        "kartik purnima:352", 
+        "terrorism:363", 
+        "hindus:376", 
+        "blast:413", 
+        "terror struck:442", 
+        "militants:449", 
+        "blasts:452", 
+        "six bombs:478", 
+        "blasts:510", 
+        "central security agencies:521"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.andhranews.net/India/2007/November/24-Blasts-Uttar-23551.asp", 
+    "date": "23-11-2007", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "State", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "State", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "67", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "103", 
+            "Others"
+        ], 
+        [
+            "Vishwa Hindu Parishad", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "VHP", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "VHP", 
+            "137", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "176", 
+            "Others"
+        ], 
+        [
+            "Samajwadi Party", 
+            "199", 
+            "Others"
+        ], 
+        [
+            "state Government", 
+            "209", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "240", 
+            "Others"
+        ], 
+        [
+            "Jaish-e-Mohammed", 
+            "526", 
+            "Accused"
+        ]
+    ]
+}

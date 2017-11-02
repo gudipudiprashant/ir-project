@@ -1,0 +1,137 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "79", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ajit Doval", 
+            "30", 
+            "Others"
+        ], 
+        [
+            "Mamata Banerjee", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "Prakash Mishra", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "Banerjee", 
+            "117", 
+            "Comment"
+        ], 
+        [
+            "Mishra", 
+            "166", 
+            "Comment"
+        ], 
+        [
+            "Mishra", 
+            "173", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "two-hour : 51"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:45"
+    ], 
+    "death": "", 
+    "title": "Centre, State are together on Bardhaman blast probe", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "kolkata", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": ": Stressing that the Centre has taken the accidental blast at Bardhaman very seriously , senior officials of the Union Home Ministry including National Security Adviser -LRB- NSA -RRB- Ajit Doval met West Bengal Chief Minister Mamata Banerjee at the State Secretariat here on Monday . . . After a two-hour meeting with the Chief Minister and senior officials , Prakash Mishra , Special Secretary -LRB- Internal Security -RRB- at the Union Home Ministry said the Centre and West Bengal are together in fighting terror . . . The visit of senior Home Ministry officials is crucial as the Trinamool Congress had initially opposed the probe by National Investigation Agency -LRB- NIA -RRB- . Recently Ms. Banerjee had expressed displeasure that the Centre had not taken her into confidence while ordering the probe . . . I am very happy to say that the Chief Minister has given an assurance that the Centre and State will work together in unearthing the entire case , Mr. Mishra told journalists . . . Mr. Mishra also added that the Home Ministry will work on improving the capacity of State police and central forces engaged in this operation so that the investigation reaches its logical end .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Stressing:2", 
+        "Centre:5", 
+        "accidental blast:9", 
+        "seriously:14", 
+        "Union Home Ministry:20", 
+        "National Security Adviser:24", 
+        "NSA:28", 
+        "meeting:52", 
+        "Chief Minister:55", 
+        "Special Secretary:64", 
+        "Internal Security:67", 
+        "Union Home Ministry:72", 
+        "Centre:77", 
+        "fighting terror:84", 
+        "crucial:97", 
+        "Trinamool Congress:100", 
+        "opposed:104", 
+        "expressed:119", 
+        "displeasure:120", 
+        "Centre:123", 
+        "confidence:129", 
+        "probe:133", 
+        "assurance:150", 
+        "Centre:153", 
+        "State:155", 
+        "unearthing:160", 
+        "entire case:162", 
+        "State police:187", 
+        "central forces:190", 
+        "operation:195", 
+        "investigation:199", 
+        "logical end:202"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/centre-state-are-together-on-bardhaman-blast-probe/article6539665.ece", 
+    "date": "27-10-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "ACCIDENTAL", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "State Secretariat", 
+            "41", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "112", 
+            "Others"
+        ]
+    ]
+}

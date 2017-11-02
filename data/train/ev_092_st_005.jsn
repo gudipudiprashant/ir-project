@@ -1,0 +1,179 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "60", 
+            "Event"
+        ], 
+        [
+            "forested area", 
+            "86", 
+            "Event"
+        ], 
+        [
+            "Dharba", 
+            "89", 
+            "Event"
+        ], 
+        [
+            "Sukma", 
+            "92", 
+            "Event"
+        ], 
+        [
+            "Keshkal falls", 
+            "153", 
+            "Neutral"
+        ], 
+        [
+            "Jagdalpur", 
+            "159", 
+            "Assoc_Event"
+        ], 
+        [
+            "Sukma", 
+            "161", 
+            "Assoc_Event"
+        ], 
+        [
+            "Keshkal", 
+            "186", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "324", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mahendra Karma", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Salwa Judum", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "Karma", 
+            "64", 
+            "Victim"
+        ], 
+        [
+            "Karma", 
+            "210", 
+            "Victim"
+        ], 
+        [
+            "Karma", 
+            "236", 
+            "Victim"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "294", 
+            "Others"
+        ], 
+        [
+            "VC Shukla", 
+            "304", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:31"
+    ], 
+    "death": "17", 
+    "title": "Mahendra Karma was reportedly shot in cold blood by alleged Maoists", 
+    "det_loc": [
+        "India", 
+        "Chattisgarh", 
+        "", 
+        "", 
+        "Chhattisgarh"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi : Mahendra Karma , the tribal Congress leader who organised the anti-Naxalite `` Salwa Judum '' movement in Chhattisgarh , was reportedly shot dead in cold blood in Saturday 's attack . 17 people have been killed and 20 are injured . The suspected Maoists , who attacked a convoy of cars carrying top Congress leaders of Chhattisgarh , including Mr Karma , after a rally , had the strategic advantage of surprise and location . They attacked the convoy in the deeply forested area of Dharba valley in Sukma district of the state , in what is being seen as a meticulously planned assault.As information about the attack trickled in from the remote region late this evening , reports said the attackers first triggered a landmine blast and then rained bullets at the Congress convoy from a height . The land-mine blast on the narrow two-lane highway near the Keshkal falls - situated in between Jagdalpur and Sukma - targeted the second vehicle in the convoy blocking the route . The Maoists then opened fire from the adjoining hill tops of the Keshkal hills . Although the security forces fired back they soon exhausted their ammunition and were cornered . The Maoists then pulled out Mr Karma from his vehicle and killed him . Eyewitness say when the alleged Maoists struck , mobile phones of all leaders were also snatched . Mr Karma , who had survived an assassination attempt last year , had Z plus security which means that a posse of about 30 policemen guarded him . Several people are said to be missing and are believed to either have taken shelter when the attack happened or then are feared abducted . Among them , state party president Nand Kumar Patel and his son Dinesh Patel.Former Union Minister VC Shukla reportedly has bullet injuries in his abdomen and an air ambulance is being dispatched to bring him to Delhi for treatment . .", 
+    "injured": "20", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "anti-Naxalite:14", 
+        "cars:54", 
+        "landmine blast:129", 
+        "land-mine:144", 
+        "two-lane highway:149", 
+        "policemen:259"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/mahendra-karma-was-reportedly-shot-in-cold-blood-by-alleged-maoists-523353", 
+    "date": "25-05-2013", 
+    "target": "", 
+    "hot_spot": "Chhattisgarh", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "tribal Congress", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "47", 
+            "Accused"
+        ], 
+        [
+            "Congress leaders", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "Congress convoy", 
+            "137", 
+            "Others"
+        ], 
+        [
+            "Congress convoy", 
+            "137", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "175", 
+            "Accused"
+        ], 
+        [
+            "Maoists", 
+            "205", 
+            "Accused"
+        ], 
+        [
+            "Maoists", 
+            "223", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Mehrauli", 
+            "22", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "M. C. Misra", 
+            "138", 
+            "Comment"
+        ], 
+        [
+            "Misra", 
+            "161", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:40", 
+        "Monday:79"
+    ], 
+    "death": "", 
+    "title": "Two more victims reach AIIMS", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . NEW DELHI : Two more persons , admitted to a private hospital after being injured in the Mehrauli bomb blast here over the weekend , were brought to the All-India Institute of Medical Sciences on Monday with splinter injuries . . . According to a senior physician at the AIIMS Trauma Centre , a seven-year-old girl and her father , both of whom sustained splinter injuries in the blast , were brought in on Monday morning . That had earlier got themselves admitted to a private hospital . . . The two are now under treatment and their condition is stable . We have two critically ill patients with head injuries , while four others are stable . Seven other patients under our care are doing well , said Trauma Centre Medical Superintendent M. C. Misra . . . Stating that the best possible medical care was being given to patients admitted to AIIMS , Dr. Misra said : While we are extremely worried about the condition of two patients who are critically ill , we are optimistic about the recovery of the other patients who seem to be responding well to treatment . We also want appeal to the blood donors to leave their phone numbers with us so that we can call them as and when needed .", 
+    "injured": "2", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "South West", 
+        "DELHI", 
+        "Mehrauli"
+    ], 
+    "O": [
+        "Trauma Centre Medical Superintendent:134"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/two-more-victims-reach-aiims/article1348554.ece", 
+    "date": "27-09-2008", 
+    "target": "", 
+    "hot_spot": "Mehrauli", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "All-India Institute of Medical Sciences", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "AIIMS Trauma Centre", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "AIIMS", 
+            "158", 
+            "Others"
+        ]
+    ]
+}

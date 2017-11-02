@@ -1,0 +1,114 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "58", 
+            "Event"
+        ], 
+        [
+            "Naojan", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "Chungajan", 
+            "73", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "75", 
+            "Event"
+        ], 
+        [
+            "Golaghat", 
+            "77", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "130", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "132", 
+            "Neutral"
+        ], 
+        [
+            "Dimapur", 
+            "163", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "1.00 a.m.:81", 
+        "6.00 a.m.:139", 
+        "a.m.:140"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday morning : 26", 
+        "Dec 13 : 33", 
+        "Thursday morning : 61", 
+        "June 2006 : 197"
+    ], 
+    "death": "5", 
+    "title": "Bomb blast in Assam Rajdhani Express, five killed", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least five persons were dead and four others injured when a bomb exploded in the 2423 A Guwahati-Delhi Rajdhani Express in Assam early on Thursday morning . . . Guwahati , Dec 13 : At least five persons were dead and four others injured when a bomb exploded in the 2423 A Guwahati-Delhi Rajdhani Express in Assam early on Thursday morning . . . The explosion took place between Naojan and Chungajan in Assam 's Golaghat District at around 1.00 a.m. . . According to initial reports , the bomb was planted inside one of the compartments and not on the train track . There was partial damage to the tracks with just two sleepers affected . . . The train , which was on its way from Dibrugarh to Delhi , resumed its journey at around 6.00 a.m. after passengers in the affected van were shifted to a 3-tier AC bogie . . . The injured have been rushed to Dimapur . Reports suggest that the death toll could rise . . . This is the first bomb blast on the Dibrugarh-New Delhi Rajdhani , although the train has been targeted once before in June 2006 . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .", 
+    "injured": "4", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Golaghat", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "dead:6", 
+        "injured:10", 
+        "bomb exploded:13", 
+        "2423 A Guwahati-Delhi Rajdhani Express:17", 
+        "dead:41", 
+        "injured:45", 
+        "bomb exploded:48", 
+        "2423 A Guwahati-Delhi Rajdhani Express:52", 
+        "explosion:67", 
+        "bomb:91", 
+        "planted:93", 
+        "train track:103", 
+        "3-tier AC bogie:151", 
+        "first bomb blast:179", 
+        "Dibrugarh-New Delhi Rajdhani:184", 
+        "targeted:193"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.andhranews.net/India/2007/December/13-Bomb-blast-Assam-Rajdhani-Express-25899.asp", 
+    "date": "13-12-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

@@ -1,0 +1,259 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "40", 
+            "Event"
+        ], 
+        [
+            "Birubari", 
+            "236", 
+            "Event"
+        ], 
+        [
+            "Bhootnath", 
+            "264", 
+            "Event"
+        ], 
+        [
+            "Bhagagarh", 
+            "266", 
+            "Event"
+        ], 
+        [
+            "Sonapur", 
+            "420", 
+            "Neutral"
+        ], 
+        [
+            "Kamrup", 
+            "422", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "439", 
+            "Event"
+        ], 
+        [
+            "State", 
+            "454", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "473", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "487", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "522", 
+            "Neutral"
+        ], 
+        [
+            "State", 
+            "536", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "P. Chidambaram", 
+            "19", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "69", 
+            "Comment"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "76", 
+            "Others"
+        ], 
+        [
+            "Chidamabaram", 
+            "160", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "181", 
+            "Others"
+        ], 
+        [
+            "Chidamabarams", 
+            "199", 
+            "Others"
+        ], 
+        [
+            "Pranjal Deka", 
+            "208", 
+            "Accused"
+        ], 
+        [
+            "Biju Sarania", 
+            "211", 
+            "Accused"
+        ], 
+        [
+            "Chidambaram", 
+            "241", 
+            "Comment"
+        ], 
+        [
+            "Deka", 
+            "247", 
+            "Accused"
+        ], 
+        [
+            "Chidambaram", 
+            "360", 
+            "Comment"
+        ], 
+        [
+            "Sheikh Hasinas", 
+            "477", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "evening : 44", 
+        "two-hour : 165"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:22", 
+        "Thursdays : 30", 
+        "December 31:46", 
+        "Thursday morning : 79", 
+        "October 30:530", 
+        "Thursdays : 539"
+    ], 
+    "death": "5", 
+    "title": "Intelligence shared with Assam: Chidambaram", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASOM "
+    ], 
+    "content": "Sushanta Talukdar . . Police know two perpetrators of the blasts . . Guwahati : Union Home Minister P. Chidambaram on Friday said the Centre had prior intelligence on Thursdays serial blasts here and it was shared with the Assam government in the evening of December 31 , resulting in the police nearly succeeding in apprehending one of the three perpetrators of the blasts . . . Mr. Chidambaram said he spoke to Chief Minister Tarun Gogoi on Thursday morning about the intelligence input . . . The serial blasts on the New Years Day claimed five lives and left 62 injured . . . The police knew who the person is . They knew him by face and his family , and nearly succeeded in apprehending him . This time , with little bit of luck , he evaded the police . This time , the police were unlucky . Next time they will be lucky , Mr. Chidamabaram told reporters after a two-hour long meeting of the Unified Command . . . The meeting was attended by Mr. Gogoi and top Army , police , paramilitary forces and intelligence officials . . . Soon after Mr. Chidamabarams briefing , the police released a photograph of Pranjal Deka alias Biju Sarania , a cadre of the United Liberation Front of Asom -LRB- ULFA -RRB- , who they suspect to be behind the blast at Birubari . . . Mr Chidambaram said that while escaping , Deka dumped a bomb in a trash bin and two of his associates planted explosive devices at Bhootnath and Bhagagarh . Two of the three perpetrators are known to the police . I have full faith on the ability of the police to apprehend them . . . Broad guidelines had issued to the Unified Command that it should have a more sharply focused strategy . . . No quarter will be given to militancy . Any banned organisation will be dealt with firmly and decisively , said the Minister . These organisations must get the clear message that the security forces would deal decisively and firmly with them . . . Mr. Chidambaram said he requested the Chief Minister and his Cabinet to devote their entire energy on development issues . While the Chief Minister and his government deal with development issues , the security forces will decisively deal with anyone who threatens the countrys sovereignty . . . Earlier , inaugurating the 11,111 th branch of State Bank of India at Sonapur in Kamrup district , the Home Minister said that whatever may be the obstacles and threats to the Assam people , the United Progressive Alliance government was determined to bring development to the State . However formidable the obstacles may be , we are determined to overcome them . . . Welcoming Bangladesh Prime Minister elect Sheikh Hasinas statement , expressing her willingness to work with India in fighting terror as positive , he said : We hope that we can make a new beginning and we can neutralise the leadership of the banned organisations , who have found sanctuary in Bangladesh . The Minister refused to compare the October 30 serial blasts in the State with the Thursdays blasts .", 
+    "injured": "62", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Bilubari", 
+        ""
+    ], 
+    "O": [
+        "two perpetrators:7", 
+        "blasts:11", 
+        "prior intelligence:27", 
+        "serial blasts:31", 
+        "three perpetrators:60", 
+        "blasts:64", 
+        "intelligence input:83", 
+        "serial blasts:89", 
+        "New Years Day:93", 
+        "unlucky:150", 
+        "reporters:162", 
+        "meeting:167", 
+        "meeting:176", 
+        "top Army:183", 
+        "police:186", 
+        "paramilitary forces:188", 
+        "intelligence officials:191", 
+        "suspect:229", 
+        "blast:234", 
+        "escaping:245", 
+        "bomb:250", 
+        "trash bin:253", 
+        "planted explosive devices:260", 
+        "Broad guidelines:295", 
+        "sharply focused strategy:309", 
+        "militancy:321", 
+        "Any banned organisation:323", 
+        "Minister:336", 
+        "security forces:347", 
+        "entire energy:373", 
+        "development issues:376", 
+        "security forces:392", 
+        "countrys sovereignty:402", 
+        "Home Minister:426", 
+        "obstacles:434", 
+        "threats:436", 
+        "willingness:483", 
+        "fighting terror:489", 
+        "neutralise:509", 
+        "banned organisations:514", 
+        "sanctuary:520", 
+        "refused:526", 
+        "serial blasts:532"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/intelligence-shared-with-assam-chidambaram/article366921.ece", 
+    "date": "01-01-2009", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "DUSTBIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Centre", 
+            "25", 
+            "Others"
+        ], 
+        [
+            "Unified Command", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "218", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "224", 
+            "Accused"
+        ], 
+        [
+            "Unified Command", 
+            "301", 
+            "Others"
+        ], 
+        [
+            "State Bank of India", 
+            "415", 
+            "Others"
+        ], 
+        [
+            "United Progressive Alliance government", 
+            "443", 
+            "Others"
+        ]
+    ]
+}

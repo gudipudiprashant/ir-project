@@ -1,0 +1,298 @@
+{
+    "LOC": [
+        [
+            "HYDERABAD", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "22", 
+            "Accused"
+        ], 
+        [
+            "Hyderabad", 
+            "47", 
+            "Source"
+        ], 
+        [
+            "Karnataka", 
+            "58", 
+            "Accused"
+        ], 
+        [
+            "Andhra", 
+            "76", 
+            "Accused"
+        ], 
+        [
+            "Bangalore", 
+            "95", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "108", 
+            "Victim"
+        ], 
+        [
+            "US", 
+            "118", 
+            "Victim"
+        ], 
+        [
+            "Hyderabad", 
+            "127", 
+            "Accused"
+        ], 
+        [
+            "Bangalore", 
+            "137", 
+            "Accused"
+        ], 
+        [
+            "Hubli", 
+            "142", 
+            "Accused"
+        ], 
+        [
+            "Karnataka", 
+            "144", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "161", 
+            "Accused"
+        ], 
+        [
+            "Sabarmati Jail", 
+            "168", 
+            "Accused"
+        ], 
+        [
+            "Gujarat", 
+            "177", 
+            "Victim"
+        ], 
+        [
+            "Hyderabad", 
+            "194", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "240", 
+            "Victim"
+        ], 
+        [
+            "Andhra", 
+            "265", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "267", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "303", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "338", 
+            "Event"
+        ], 
+        [
+            "Karnataka", 
+            "352", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "354", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "403", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "430", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "432", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "official.Raziuddin Nasir", 
+            "123", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Hafiz Khan Adnan", 
+            "133", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Raziuddin", 
+            "153", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Maulana Naseeruddin", 
+            "156", 
+            "Others"
+        ], 
+        [
+            "Hiren Pandiya", 
+            "180", 
+            "Victim"
+        ], 
+        [
+            "Raziuddin", 
+            "185", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Muqamuddin", 
+            "189", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [
+        "however : 318"
+    ], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0015", 
+    "content": "HYDERABAD : Andhra Pradesh cops have managed to establish that there 's a clear link between terror elements operating in neighbouring Karnataka and those active in its soil . They are , however , yet to identify them.Based on evidence gathered from the twin blasts in Hyderabad last year and on the interrogation of arrested persons in Karnataka , the police believe that sleeper cells in the beighbouring state have close ties with elements from Andhra . ` The aim of these groups , whether Huji or LeT or Simi , is clear . Bangalore and Hyderabad are being chosen as targets to create panic in the US as the cities house biggest IT companies from the US , ' said an official.Raziuddin Nasir , a Hyderabad resident , and his aide Hafiz Khan Adnan from Bangalore , were arrested near Hubli in Karnataka in January this year as terror suspects . Raziuddin 's father Maulana Naseeruddin , also from Hyderabad , is currently lodged in the Sabarmati Jail in connection with the murder of former Gujarat home minister Hiren Pandiya . Recently , Raziuddin 's elder brother Muqamuddin had been arrested in Hyderabad for alleged terror links . ` All this proves that the terror elements in the two states are operating as one group , ' said another police official.According to sources , interrogation of suspects revealed that the October 2005 attack on the STF office in Hyderabad and the December attack in IISC , Bangalore was carried out by the same elements . Another clear link between the terror elements in Andhra and Karnataka is the explosive material used in the blasts . In Friday 's Bangalore blasts , an explosive with an ammonium nitrate base was used , while in the Gokul Chat and Lumbini Park explosions in Hyderabad last August , a similar ammonium nitrate base was used.The Andhra police are , however , yet to dismantle a single sleeper cell . ` So many suspects have been rounded up in the Mecca Masjid and twin blasts last year . So many teams have sent across Karnataka , Jaipur and other blast sites , but not a single arrest directly related to terrorists could be made . This is very frustrating for us , ' a senior official said.Based on preliminary reports , the police have found some facts with regard to Friday 's serial blasts in Bangalore . ` One that it was a low intensity one intended to create only panic and not to cause major casualties . And like the the Malegaon and Mecca Masjid blasts , it took place on a Friday during or just after the prayers , ' said another official .", 
+    "death": "", 
+    "title": "'Clear link with terror elements of Andhra'", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "DAT": [
+        "January:146", 
+        "October 2005:232", 
+        "October:232", 
+        "December:243", 
+        "December attack:243", 
+        "Friday:278", 
+        "August:305", 
+        "Friday:398", 
+        "Friday:441"
+    ], 
+    "injured": "", 
+    "org_unorg": "UNORGANISED", 
+    "O": [
+        "link:15", 
+        "terror:17", 
+        "soil:28", 
+        "evidence:40", 
+        "twin blasts in hyderabad:44", 
+        "interrogation:53", 
+        "sleeper cells:64", 
+        "it companies:114", 
+        "resident:128", 
+        "terror suspects:150", 
+        "home minister:178", 
+        "police official.according:221", 
+        "interrogation:226", 
+        "attack:244", 
+        "explosive material:270", 
+        "bangalore blasts:280", 
+        "ammonium:287", 
+        "ammonium nitrate base:287", 
+        "nitrate:288", 
+        "base:289", 
+        "ammonium nitrate base:309", 
+        "sleeper cell:325", 
+        "twin blasts:341", 
+        "serial blasts:400"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Clear-link-with-terror-elements-of-Andhra/articleshow/3281651.cms?referral=PM", 
+    "date": "25-08-2007", 
+    "target": "PARK AND RESTRAUNT", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "THROWN", 
+    "expl": [
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": [
+        [
+            "Huji", 
+            "86", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "Simi", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "STF", 
+            "237", 
+            "Others"
+        ], 
+        [
+            "IISC , Bangalore", 
+            "246", 
+            "Others"
+        ], 
+        [
+            "Gokul Chat", 
+            "296", 
+            "Others"
+        ], 
+        [
+            "Lumbini Park", 
+            "299", 
+            "Others"
+        ], 
+        [
+            "Andhra police", 
+            "314", 
+            "Others"
+        ]
+    ]
+}

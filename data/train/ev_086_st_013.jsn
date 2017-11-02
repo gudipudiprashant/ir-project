@@ -1,0 +1,152 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "133", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "159", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "210", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "301", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "P Chidambaram", 
+            "206", 
+            "Others"
+        ], 
+        [
+            "Prithviraj Chavan", 
+            "213", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "216", 
+            "Others"
+        ], 
+        [
+            "Chavan", 
+            "222", 
+            "Others"
+        ], 
+        [
+            "P Chidambaram", 
+            "250", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "5.30 PM : 67"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 9", 
+        "Wednesday : 25", 
+        "Wednesday : 124", 
+        "Wednesday : 303"
+    ], 
+    "death": "", 
+    "title": "PM to visit Mumbai, announces Rs 2 lakh for kin of deceased", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : Prime Minister Manmohan Singh on Thursday announced ex-gratia assistance of Rs two lakh each for the kin of the deceased in Wednesday 's terror attack and decided to visit Mumbai to personally take stock of the situation there . He also announced Rs one lakh each for the seriously injured , a PMO spokesman said . Singh will be travelling to Mumbai at 5.30 PM to personally take stock of the situation , sources said . He is expected to visit the blast sites and hospitals to meet the injured . In view of his visit , a meeting of the Council of Ministers convened this evening has been put off , the sources said . The Prime Minister on Wednesday night strongly condemned the serial bomb blasts in Mumbai and appealed to the people of the megapolis to remain calm and show a united front . ' I strongly condemn the bomb blasts in Mumbai this evening ... I appeal to the people of Mumbai to remain calm and show a united face , ' Singh had said in a statement . The Prime Minister , who was monitoring the developments related to the explosions , had spoken to home minister P Chidambaram and also Maharashtra chief minister Prithviraj Chavan . Singh had said he had asked Chavan to do whatever is possible to provide relief to the injured and to the families of the deceased . ' I have also asked Union home minister P Chidambaram to provide all possible expert assistance to the state government , ' according to the statement . Meanwhile , the Maharashtra government also announced a compensation of Rs 5 lakh to the families of those killed and Rs 50,000 to those injured in the triple bomb blasts that rocked Mumbai on Wednesday .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "NEW:1", 
+        "Prime Minister:4", 
+        "ex-gratia:11", 
+        "Rs two lakh:14", 
+        "kin of the deceased:20", 
+        "Wednesday 's terror attack:25", 
+        "Rs one lakh:46", 
+        "seriously injured:52", 
+        "PMO spokesman:56", 
+        "visit:84", 
+        "blast sites:86", 
+        "hospitals:89", 
+        "condemned:127", 
+        "serial bomb blasts:129", 
+        "appealed:135", 
+        "remain calm:143", 
+        "home minister:204", 
+        "chief minister:211", 
+        "injured:233", 
+        "families of the deceased:237", 
+        "Union home minister:247", 
+        "expert assistance:256", 
+        "state government:260", 
+        "Maharashtra government:272", 
+        "compensation:277", 
+        "Rs 5 lakh:279", 
+        "killed:287", 
+        "50,000:290", 
+        "injured:293", 
+        "triple bomb blasts:296"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/PM-to-visit-Mumbai-announces-Rs-2-lakh-for-kin-of-deceased/articleshow/9223450.cms?referral=PM", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

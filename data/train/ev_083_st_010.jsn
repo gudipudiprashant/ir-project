@@ -1,0 +1,143 @@
+{
+    "LOC": [
+        [
+            "Imphal",
+            "15", 
+            "Event"
+        ], 
+        [
+            "Imphal",
+            "68", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "170", 
+            "Neutral"
+        ], 
+        [
+            "Kangleipak", 
+            "172", 
+            "Neutral"
+        ], 
+        [
+            "Manipur", 
+            "188", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "190", 
+            "Neutral"
+        ], 
+        [
+            "Ragailong", 
+            "203", 
+            "Event"
+        ], 
+        [
+            "Imphal", 
+            "211", 
+            "Neutral"
+        ], 
+        [
+            "Manipur", 
+            "235", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Lanheiba Meitei", 
+            "138", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "7:30 PM : 200"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:9", 
+        "Tuesday night:9", 
+        "Wednesday:33", 
+        "Wednesday:70", 
+        "1980:162"
+    ], 
+    "death": "17", 
+    "title": "Imphal blast toll 17, KCP faction claims responsibility", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Even as the number of persons killed in Tuesday night 's powerful explosion in Imphal rose to 17 , the Kangleipak Communist Party -LRB- Military Council -RRB- KCP -LRB- MC -RRB- on Wednesday claimed responsibility for the blast and said it did so as part of its campaign against gambling that reaches its peak during Diwali . . . A press note distributed to newspaper offices in Imphal on Wednesday evening said the KCP -LRB- MC -RRB- triggered the explosion in order to put an end to lagao , a form of gambling which it said was an `` alien culture '' and was adversely affecting Manipuri society . . . `` Lagao is a form of gambling which is alien to Meitei culture and it needs to be stopped , '' said the statement signed by Lanheiba Meitei , leader of the KCP -LRB- MC -RRB- , one of the several factions of the original KCP that was formed in 1980 . Named after the historical name of Manipur , Kangleipak , the KCP is more concerned with preservation of Meitei culture and demands secession of Manipur from India . . . The blast had occurred at around 7:30 PM at Ragailong , a locality on the outskirts of Imphal and killed 17 persons , most of whom were engaged in lagao , a game of dice that becomes increasingly popular in the Manipur capital around diwali . Sources said at least 20 persons are undergoing treatment in the Regional Institute of Medical Sciences while some are in the JN Hospital too .", 
+    "injured": "20", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Imphal East", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Diwali:56", 
+        "Lagao:113", 
+        "Meitei culture:123", 
+        "KCP:175", 
+        "Meitei culture:182", 
+        "lagao:223", 
+        "diwali:238"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/imphal-blast-toll-17--kcp-faction-claims-responsibility/376676", 
+    "date": "21-10-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Kangleipak Communist Party", 
+            "21", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "KCP", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "KCP", 
+            "157", 
+            "Accused"
+        ], 
+        [
+            "KCP", 
+            "175", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Regional Institute of Medical Sciences", 
+            "251", 
+            "Others"
+        ], 
+        [
+            "Sciences while", 
+            "255", 
+            "Others"
+        ], 
+        [
+            "JN Hospital", 
+            "261", 
+            "Others"
+        ]
+    ]
+}

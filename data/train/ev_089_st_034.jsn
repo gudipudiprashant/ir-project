@@ -1,0 +1,56 @@
+{
+    "LOC": [
+        [
+            "US", 
+            "2", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "23", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "US condemns Hyderabad blasts, offers assistance in probe", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The US has strongly condemned the `` cowardly attack '' in Hyderabad that claimed many lives , saying that it stood with India in battling the `` scourge of terrorism '' and offered its assistance in probing the incident .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "cowardly attack:8", 
+        "scourge of terrorism:28"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.business-standard.com/article/pti-stories/us-condemns-hyderabad-blasts-offers-assistance-in-probe-113022200190_1.html", 
+    "date": "21-02-2013", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

@@ -1,0 +1,120 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "33", 
+            "Victim"
+        ], 
+        [
+            "NEW DELHI", 
+            "105", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "119", 
+            "Event"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "137", 
+            "Victim"
+        ]
+    ], 
+    "PER": [
+        [
+            "MS.Margaret Alva", 
+            "61", 
+            "Comment"
+        ], 
+        [
+            "MS.Margaret Alva", 
+            "167", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "AUG 10 : 4", 
+        "AUG 10 : 108"
+    ], 
+    "death": "", 
+    "title": "Congress condemns bomb blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI , AUG 10 The congress today strongly condemned the bomb blast in Srinagar and asked the Government to take adequate precautionary steps to protect the lives of innocent people in Jammu and Kashmir . Expressing deep sorrow and regret over the loss of innocent lives , including a photo Journalist of Hindustan times , the party spokesperson , MS.Margaret Alva , said it seems there was a planned conspiracy behind the series of blasts . She said if the Government failed to prevent these blasts there are greater possibility of escalation of violence in the militancy-hit state . - PTI . . NEW DELHI , AUG 10 The congress today strongly condemned the bomb blast in Srinagar and asked the Government to take adequate precautionary steps to protect the lives of innocent people in Jammu and Kashmir . . . Expressing deep sorrow and regret over the loss of innocent lives , including a photo Journalist of Hindustan times , the party spokesperson , MS.Margaret Alva , said it seems there was a planned conspiracy behind the series of blasts . . . She said if the Government failed to prevent these blasts there are greater possibility of escalation of violence in the militancy-hit state . . . - PTI .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "", 
+        "Srinagar"
+    ], 
+    "O": [
+        "congress:7", 
+        "journalist:52", 
+        "hindustan times:54", 
+        "party spokesperson:58", 
+        "conspiracy:71", 
+        "violence:95", 
+        "pti:102", 
+        "congress:111", 
+        "bomb blast:116", 
+        "hindustan times:160", 
+        "pti .:212"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2000/08/11/stories/02110006.htm", 
+    "date": "10-08-2000", 
+    "target": "", 
+    "hot_spot": "Srinagar", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Government", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "Government", 
+            "82", 
+            "Others"
+        ], 
+        [
+            "Government", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "Journalist", 
+            "158", 
+            "Others"
+        ], 
+        [
+            "Government", 
+            "190", 
+            "Others"
+        ]
+    ]
+}

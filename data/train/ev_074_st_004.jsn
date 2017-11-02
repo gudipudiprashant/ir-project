@@ -1,0 +1,196 @@
+{
+    "LOC": [
+        [
+            "luggage van", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh-Guwahati-Delhi Rajdhani Express", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Sungajan railway station", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "North-East Frontier Railway", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Dimapur", 
+            "57", 
+            "Neutral"
+        ], 
+        [
+            "Nagaland", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "158", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "160", 
+            "Neutral"
+        ], 
+        [
+            "Rajdhani Express", 
+            "205", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "209", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh station", 
+            "249", 
+            "Neutral"
+        ], 
+        [
+            "Mariani", 
+            "263", 
+            "Neutral"
+        ], 
+        [
+            "railway station Sungajan", 
+            "271", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Trikal Rabha", 
+            "34", 
+            "Comment"
+        ], 
+        [
+            "Prasad", 
+            "84", 
+            "Victim"
+        ], 
+        [
+            "A K Jha", 
+            "89", 
+            "Victim"
+        ], 
+        [
+            "Laxman Rai", 
+            "96", 
+            "Victim"
+        ], 
+        [
+            "Sudama Rai", 
+            "102", 
+            "Victim"
+        ], 
+        [
+            "Dineshwar Prasad", 
+            "108", 
+            "Victim"
+        ], 
+        [
+            "Amarnath Singh", 
+            "120", 
+            "Victim"
+        ], 
+        [
+            "Tapas Rai", 
+            "123", 
+            "Victim"
+        ], 
+        [
+            "Laxman Jha", 
+            "126", 
+            "Victim"
+        ], 
+        [
+            "Pradip Choudhury", 
+            "129", 
+            "Victim"
+        ], 
+        [
+            "Rabha", 
+            "165", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "1.06 am : 27", 
+        "two minutes : 257"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "5 killed in blast in Delhi-bound Rajdhani Express", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "ALL ADIVASI NATIONAL LIBERATION ARMY (AANLA)"
+    ], 
+    "content": "The blast took place in a compartment attached to the luggage van of the Dibrugarh-Guwahati-Delhi Rajdhani Express , two km ahead of Sungajan railway station at 1.06 am , North-East Frontier Railway CPRO Trikal Rabha said . . . Five passengers died on the spot and the four critically injured were admitted to a hospital at Dimapur in neighbouring Nagaland . The five others who received minor injuries were discharged after first aid . . . The dead were identified as S P Prasad ( 24 ) , A K Jha ( 30 ) , Laxman Rai ( 20 ) , Sudama Rai ( 45 ) , Dineshwar Prasad ( 19 ) . . . The critically injured are Amarnath Singh , Tapas Rai , Laxman Jha and Pradip Choudhury . . . The 30 other passengers in the compartment were accommodated in the three-tier AC compartment of the train that continued with its onward journey to Delhi via Guwahati at six am , Rabha said . . . The explosion also damaged the luggage van just behind the engine and two sleepers of the track , he said . . . The 2423A dn is the link train of the main 2423 dn Rajdhani Express starting from Guwahati , the CPRO said . Train movement on the section has been restored . . . Security forces suspect that the explosive was planted in a suitcase inside the luggage van of the train at its starting point at Dibrugarh station as the train halts for only two minutes at the next destination Mariani and does not stop at the next railway station Sungajan , thereby leaving no scope for the militants to alight after planting the bomb . . . Bomb experts were trying to ascertain the nature of the bomb as to whether it was an improvised explosive devise or some other type of explosive , police sources said . . . There was also an intelligence report of the Adivasi National Liberation Army planning to attack trains in that area . . . In support of the Adivasis ' demand for inclusion in the Scheduled Tribe list , the ANLA had recently threatened to intensify their subversive activities , particularly targeting trains .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dibrugarh", 
+        "", 
+        "Dibrugarh-Guwahati-Delhi Rajdhani Express"
+    ], 
+    "O": [
+        "luggage van:175", 
+        "police:318"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://expressindia.indianexpress.com/karnatakapoll08/story_page.php?id=249902", 
+    "date": "13-12-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "Dibrugarh-Guwahati-Delhi Rajdhani Express", 
+    "delivery_mod": "SUITCASE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CPRO", 
+            "33", 
+            "Others"
+        ], 
+        [
+            "CPRO", 
+            "212", 
+            "Others"
+        ], 
+        [
+            "Security forces", 
+            "226", 
+            "Others"
+        ], 
+        [
+            "Adivasi National Liberation Army", 
+            "332", 
+            "Accused"
+        ], 
+        [
+            "Adivasis", 
+            "350", 
+            "Accused"
+        ], 
+        [
+            "ANLA", 
+            "362", 
+            "Accused"
+        ]
+    ]
+}

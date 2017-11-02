@@ -1,0 +1,188 @@
+{
+    "LOC": [
+        [
+            "Ranchi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Birsa Munda Airport", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "Old Commissioners Compound", 
+            "177", 
+            "Neutral"
+        ], 
+        [
+            "Harmu crematorium", 
+            "263", 
+            "Neutral"
+        ], 
+        [
+            "Madhabendra", 
+            "274", 
+            "Neutral"
+        ], 
+        [
+            "Nariman Point", 
+            "376", 
+            "Neutral"
+        ], 
+        [
+            "Namkum", 
+            "402", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Malayesh Banerjee", 
+            "20", 
+            "Victim"
+        ], 
+        [
+            "Ketan Parekh", 
+            "41", 
+            "Victim"
+        ], 
+        [
+            "Saurav Kumar", 
+            "44", 
+            "Victim"
+        ], 
+        [
+            "Prasenjit Kumar", 
+            "50", 
+            "Victim"
+        ], 
+        [
+            "Madhabendra Banerjee", 
+            "77", 
+            "Victim"
+        ], 
+        [
+            "Madhabendra", 
+            "153", 
+            "Victim"
+        ], 
+        [
+            "Banerjee", 
+            "174", 
+            "Victim"
+        ], 
+        [
+            "Mridula", 
+            "225", 
+            "Victim"
+        ], 
+        [
+            "Pradeep Banerjee", 
+            "288", 
+            "Comment"
+        ], 
+        [
+            "Pradeep", 
+            "336", 
+            "Comment"
+        ], 
+        [
+            "Ketan", 
+            "344", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Malayesh", 
+            "347", 
+            "Others"
+        ], 
+        [
+            "Arjun Munda", 
+            "439", 
+            "Victim"
+        ], 
+        [
+            "Banerjee", 
+            "444", 
+            "Comment"
+        ], 
+        [
+            "Tridib Ghosh", 
+            "460", 
+            "Comment"
+        ], 
+        [
+            "Banerjee", 
+            "470", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "1.35 pm:8", 
+        "2.02 pm : 169", 
+        "20 minutes : 188", 
+        "half-an-hour : 250", 
+        "20 minutes : 368", 
+        "two minutes : 417"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Nov. 28:3", 
+        "Wednesday : 72"
+    ], 
+    "death": "", 
+    "title": "No homecoming this", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Ranchi , Nov. 28 : It was 1.35 pm . Numb with pain , friends and family members of Malayesh Banerjee watched IC 809 touch down at Birsa Munda Airport . They knew it had arrived . . . Colleagues Ketan Parekh and Saurav Kumar , and family friend Prasenjit Kumar were accompanying the body of the 27-year-old architect , killed in one of the worst terror attacks in Mumbai on Wednesday . . . Father Madhabendra Banerjee the head of chemistry department at Ranchi University perhaps for the first time fumbled for an answer when someone asked where the coffin was and how it would be taken home . . . As the others wondered what to do , an airport employee directed them to an ambulance parked near the side gate on the premises . . . Soon , a red and white trolley carrying the black coffin appeared . Madhabendra broke down . The coffin was put in ambulance . It left the airport at 2.02 pm and reached the Banerjee residence at Old Commissioners Compound , behind Lionel Edward Bengali Boys School , 20 minutes later . . . For a moment , there was silence . . . As the ambulance stopped , a group of hysterical women rushed towards the vehicle . They were followed by an inconsolable Mridula , Malayeshs mother . A family friend said doctors had had to give sedatives to soothe her frayed nerves . . . After a half-an-hour stay , Malayeshs body was taken on its final journey to the Harmu crematorium . . . It was a heartrending scene . Madhabendra could barely walk to the pyre . Finally , Malayeshs maternal uncle , Pradeep Banerjee , had to complete the last rites , said a neighbour . . . This is the most unfortunate day of my life . I am lighting the pyre of the boy who once played on my lap . I wish I could challenge destiny , Pradeep told The Telegraph . . . Colleague Ketan said that Malayesh would not have died had he stayed a little longer at office . . . He took the bullet hardly 20 minutes after he left our office at Nariman Point . He was rushed to hospital , but could not be saved , he said . . . The Bishop Westcott Boys School in Namkum , Malayeshs alma mater , today mourned his death . Students observed silence for two minutes and prayed that his soul may rest in peace . . . Several dignitaries , including former state chief minister Arjun Munda , visited the Banerjee residence later in the day to condole his death . . . PUCL state vice-president Tridib Ghosh also sent a condolence message to the bereaved Banerjee family .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "O": [
+        "chief minister:437", 
+        "vice-president:459"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1081129/jsp/jharkhand/story_10182204.jsp", 
+    "date": "26-11-2008", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Ranchi University", 
+            "85", 
+            "Others"
+        ], 
+        [
+            "Lionel Edward Bengali Boys School", 
+            "182", 
+            "Others"
+        ], 
+        [
+            "Bishop Westcott Boys School", 
+            "397", 
+            "Others"
+        ]
+    ]
+}

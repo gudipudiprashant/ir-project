@@ -1,0 +1,166 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "3", 
+            "Event"
+        ], 
+        [
+            "Mankachar", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Udalguri", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "Maligaon", 
+            "120", 
+            "Event"
+        ], 
+        [
+            "Dhekiajuli", 
+            "123", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "135", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "139", 
+            "Event"
+        ], 
+        [
+            "Maligaon", 
+            "160", 
+            "Event"
+        ], 
+        [
+            "Dhekiajuli", 
+            "206", 
+            "Event"
+        ], 
+        [
+            "Dispur", 
+            "305", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "307", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "332", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "J M Srivastav", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "284", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "6.40 pm : 56", 
+        "10 am : 81", 
+        "2:00 pm : 163"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 59", 
+        "Monday : 84", 
+        "Monday : 98", 
+        "Tuesday : 296"
+    ], 
+    "death": "7", 
+    "title": "Three blasts in Assam, 7 killed", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhubri", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "GUWAHATI : Assam was rocked by another blast at Mankachar in Dhubri district along Indo-Bangladesh border . Two people were injured in the blast . . . The condition of both was stated to be serious . Police sources said that an unidentified person lobbed a grenade in front of the police station at about 6.40 pm on Monday . . . In Udalguri district , a grenade was lobbed on workers engaged in the construction of a bridge at 10 am on Monday . However , the grenade did not explode . . . Earlier on Monday , at least seven people were killed and 61 others injured in two bomb blasts triggered by suspected ULFA militants in Maligaon area and Dhekiajuli on the eve of Prime Minister Manmohan Singh 's visit to Assam . . . Assam DGP J M Srivastav said seven people were killed and 56 injured when a powerful bomb blast went off in Maligaon at around 2:00 pm ( local time ) , sparking a fire that set ablaze two cars and 20 motorcycles and spread to a three-storey building housing the area police station . . . Just hours later , five people were reportedly injured in the Dhekiajuli blast . According to reports , the bomb was planted in a cycle . . . `` This is the handiwork of ULFA boys ahead of the outfit 's ` Raising Day ' , '' he said , adding the militants used hi-tech explosives . . . While six were killed on the blast site , one succumbed to injuries after jumping from an adjacent building which had caught fire . . . The DGP said PM Manmohan Singh will go ahead with his visit to the state on Tuesday during which he will address poll meetings in Dispur and Dibrugarh . `` We have taken all precautions . '' . . `` The PM 's programme remains unchanged , '' PMO sources said in New Delhi .", 
+    "injured": "61", 
+    "org_unorg": "", 
+    "O": [
+        "blast:8", 
+        "indo-bangladesh border:15", 
+        "injured:21", 
+        "blast:24", 
+        "unidentified person:43", 
+        "grenade:47", 
+        "grenade:68", 
+        "grenade:89", 
+        "killed:105", 
+        "injured:109", 
+        "bomb blasts:112", 
+        "killed:148", 
+        "injured:151", 
+        "bomb blast:155", 
+        "two cars:176", 
+        "20 motorcycles:179", 
+        "three-storey building:185", 
+        "injured:203", 
+        "blast:207", 
+        "bomb:214", 
+        "raising day:237", 
+        "militants:247", 
+        "hi-tech explosives:249", 
+        "blast site:260", 
+        "poll meetings:302", 
+        "pmo:328"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2009-04-06/news/27654050_1_assam-blast-grenade", 
+    "date": "06-04-2009", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "117", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "229", 
+            "Accused"
+        ]
+    ]
+}

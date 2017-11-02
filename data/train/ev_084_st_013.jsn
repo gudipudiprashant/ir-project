@@ -1,0 +1,238 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "MUMBAI", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "German Bakery on North Main Avenue", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "Punes Koregaon Park", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "Osho Ashram", 
+            "66", 
+            "Neutral"
+        ], 
+        [
+            "Jewish Chabad House", 
+            "257", 
+            "Neutral"
+        ], 
+        [
+            "Osho Ashram", 
+            "303", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "349", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "377", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "384", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "389", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra .", 
+            "389", 
+            "Neutral"
+        ], 
+        [
+            "Ruby Hall", 
+            "461", 
+            "Neutral"
+        ], 
+        [
+            "Jehangir", 
+            "464", 
+            "Neutral"
+        ], 
+        [
+            "Budhrani", 
+            "466", 
+            "Neutral"
+        ], 
+        [
+            "Sassoon hospitals", 
+            "468", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "551", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "557", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "569", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ashok Chavan", 
+            "148", 
+            "Others"
+        ], 
+        [
+            "David Headley", 
+            "297", 
+            "Accused"
+        ], 
+        [
+            "Headley", 
+            "308", 
+            "Accused"
+        ], 
+        [
+            "Rajendra Sonawane", 
+            "409", 
+            "Others"
+        ], 
+        [
+            "Abhay Chhajed", 
+            "427", 
+            "Others"
+        ], 
+        [
+            "Chavan", 
+            "502", 
+            "Comment"
+        ], 
+        [
+            "Suresh Kalmadi", 
+            "559", 
+            "Comment"
+        ], 
+        [
+            "Ramesh Bagwe", 
+            "579", 
+            "Comment"
+        ], 
+        [
+            "Sharad Pawar", 
+            "608", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "7.30 p.m.:69"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "November 26 , 2008 : 23", 
+        "Saturday:72", 
+        "Sunday:367", 
+        "Sunday:553"
+    ], 
+    "death": "9", 
+    "title": "9 killed, 40 injured in Pune bomb blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "Mumbai Bureau . . Explosives planted in bakery frequented by foreigners . . MUMBAI : In a major terror strike after the November 26 , 2008 carnage in Mumbai , nine persons including four foreigners , all women , were killed and over 40 injured in a bomb blast which ravaged the famous German Bakery on North Main Avenue in Punes Koregaon Park near the Osho Ashram around 7.30 p.m. on Saturday . Unofficial figures put the number of injured at 50 . . . Initially the police said it was a gas cylinder blast , but the explosion is now suspected to be an improvised explosive device -LRB- IED -RRB- using an ammonium nitrate fuel oil mix , with RDX as a booster , police sources said . About 7 kg explosives may have been used . The bodies were charred beyond recognition . Chief Minister Ashok Chavan said preliminary reports indicated that it was a bomb blast . . . An eyewitness who was travelling in an autorickshaw said he heard a loud explosion and blacked out . Another eyewitness said bodies were scattered and more than 10 were seen at the site . Four shops were damaged near the bakery , which has been there for 22 years . . . The bag containing the bomb was said to be under a table , according to one account , and a waiter is said to have tried to open it . This caused the explosion which devastated the bakery , located near the Jewish Chabad House . A customer said he heard the blast , but escaped unhurt . There were bodies lying all around , he said . . . Sources said the bakery was close to a hotel where Lashkar-e-Taiba operative David Headley had stayed while visiting Osho Ashram . However , Headley did not recce this bakery . . . Soon after the blast , an unidentified bag was found in an autorickshaw . It contained 7 kg of explosives . . . The Anti-Terrorism Squad -LRB- ATS -RRB- has also reached Pune , apart from forensic experts . The National Investigation Agency -LRB- NIA -RRB- will reach there by Sunday . . . The blast has sent shockwaves in Pune , prompting a high alert in Mumbai and other cities in Maharashtra . The police have been asked to look out for unattended baggage . . . Joint Commissioner of Police Rajendra Sonawane said that prima facie it looked like a bomb blast . . . Congress city president Abhay Chhajed confirmed the number of deaths . I myself have seen six bodies at the Sassoon Hospital . There are more at other hospitals . He said the injured had been taken to Ruby Hall , Jehangir , Budhrani and Sassoon hospitals in the city . . . The bakery is a popular spot with foreign tourists . Six or eight of the injured are said to be foreign nationals . . . Mr. Chavan has announced ex gratia payment of Rs . 1 lakh to each of the families of the deceased and Rs . 50,000 for the injured . . . Security for the Indian and South African cricket teams has been tightened . The second test match is beginning in Kolkata on Sunday . . . Pune MP Suresh Kalmadi said : I appeal to the people of Pune to be calm . Minister of State for Home Ramesh Bagwe , who is at the site , has confirmed to me that it was bomb blast . Further details are awaited . . . Union Agriculture Minister Sharad Pawar and other leaders have appealed for calm after the incident .", 
+    "injured": "40", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "", 
+        "German Bakery on North Main Avenue"
+    ], 
+    "O": [
+        "7 kg explosives:131", 
+        "Joint Commissioner of Police:405", 
+        "Minister of State for Home:574", 
+        "Union Agriculture Minister:605"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/article710019.ece", 
+    "date": "09-02-2008", 
+    "target": "", 
+    "hot_spot": "German Bakery on North Main Avenue", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED", 
+        "LPG CYLINDER"
+    ], 
+    "ORG": [
+        [
+            "Lashkar-e-Taiba", 
+            "295", 
+            "Accused"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "341", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "344", 
+            "Others"
+        ], 
+        [
+            "forensic", 
+            "353", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "357", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "361", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "424", 
+            "Others"
+        ], 
+        [
+            "Sassoon Hospital", 
+            "443", 
+            "Others"
+        ]
+    ]
+}

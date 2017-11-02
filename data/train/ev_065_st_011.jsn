@@ -1,0 +1,230 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "38", 
+            "Neutral"
+        ], 
+        [
+            "NEW DELHI", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "110", 
+            "Assoc_Event"
+        ], 
+        [
+            "Nanded", 
+            "157", 
+            "Neutral"
+        ], 
+        [
+            "Parbani", 
+            "177", 
+            "Source"
+        ], 
+        [
+            "Purna", 
+            "179", 
+            "Source"
+        ], 
+        [
+            "Jalna", 
+            "181", 
+            "Source"
+        ], 
+        [
+            "Maharashtra", 
+            "345", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "347", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "354", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:47", 
+        "April:159"
+    ], 
+    "death": "", 
+    "title": "Left parties condemn blasts in Malegaon", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . A diabolic attempt to create communal tensions , says CPI -LRB- M -RRB- . . State Government must uncover motives behind the attack Ensure proper medical treatment for injured Terrorists can not weaken India . . NEW DELHI : Left parties on Saturday condemned the Malegaon bomb blasts and asked the State Government and security agencies to uncover the motives behind the attack and track down those responsible . . . In a statement , the Polit Bureau of the Communist Party of India -LRB- Marxist -RRB- said the blasts indicated a diabolic attempt to create communal tensions and provoke violence . Coming after the Mumbai train explosions , this attack should be viewed with utmost seriousness . . . `` The State Government and the concerned security agencies must uncover the motives behind this attack and track down those responsible . In this connection , the link with the blasts in Nanded in April this year which killed two Bajrang Dal activists while making bombs and the blasts in mosques in Parbani , Purna and Jalna in recent years must also be investigated , '' the statement said . . . Conveying its sympathy to all those who have lost their family members in these attacks , the Polit Bureau asked the State Government to ensure proper medical treatment for the injured and provide adequate compensation to families of the victims . . . The Polit Bureau called upon its State units to mobilise people against the designs of the extremist and terrorist groups and to foil their attempts to divide the people on communal lines . . . The Communist Party of India too condemned the serial bomb blasts and said if such an attack could take place despite an alert by the Government , the situation demanded more coordinated and effective measures against terrorists . . . In a statement , the party Central Secretariat said the terrorists would not succeed in weakening the country through such cowardly attacks targeting innocent people . `` The people of Maharashtra and India will show the same resilience of Mumbai on resisting the terrorists and maintaining the unity and harmony among the people , '' the statement said .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Nashik", 
+        "Malegaon", 
+        ""
+    ], 
+    "O": [
+        "diabolic attempt:6", 
+        "communal tensions:10", 
+        "uncover motives:23", 
+        "attack:27", 
+        "proper medical treatment:29", 
+        "injured:33", 
+        "terrorists:34", 
+        "Left parties:44", 
+        "condemned:48", 
+        "Malegaon bomb blasts:50", 
+        "security agencies:59", 
+        "uncover:62", 
+        "motives:64", 
+        "attack:67", 
+        "track down:69", 
+        "blasts:94", 
+        "diabolic attempt:97", 
+        "communal tensions:101", 
+        "provoke violence:104", 
+        "train explosions:111", 
+        "attack:115", 
+        "viewed:118", 
+        "seriousness:121", 
+        "security agencies:132", 
+        "uncover:135", 
+        "motives:137", 
+        "attack:140", 
+        "track down:142", 
+        "responsible:145", 
+        "connection:149", 
+        "blasts:155", 
+        "killed:163", 
+        "Bajrang Dal activists:165", 
+        "bombs:170", 
+        "blasts:173", 
+        "mosques:175", 
+        "recent years:183", 
+        "investigated:188", 
+        "Conveying:197", 
+        "sympathy:199", 
+        "attacks:211", 
+        "medical treatment:223", 
+        "injured:227", 
+        "adequate compensation:230", 
+        "victims:236", 
+        "State units:246", 
+        "mobilise:249", 
+        "designs:253", 
+        "extremist:256", 
+        "terrorist groups:258", 
+        "attempts:264", 
+        "communal lines:270", 
+        "condemned:281", 
+        "serial bomb blasts:283", 
+        "attack:291", 
+        "Government:300", 
+        "situation:303", 
+        "demanded:304", 
+        "effective measures:308", 
+        "terrorists:311", 
+        "Central Secretariat:321", 
+        "terrorists:325", 
+        "succeed:328", 
+        "resilience:352", 
+        "resisting:356", 
+        "terrorists:358", 
+        "unity and harmony:362"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/left-parties-condemn-blasts-in-malegaon/article3073274.ece", 
+    "date": "08-09-2006", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CPI", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "M", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "Polit Bureau", 
+            "81", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "85", 
+            "Others"
+        ], 
+        [
+            "Marxist", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "127", 
+            "Others"
+        ], 
+        [
+            "Bajrang Dal", 
+            "165", 
+            "Others"
+        ], 
+        [
+            "Polit Bureau", 
+            "214", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "218", 
+            "Others"
+        ], 
+        [
+            "Polit Bureau", 
+            "241", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "276", 
+            "Others"
+        ]
+    ]
+}

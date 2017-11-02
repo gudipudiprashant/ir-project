@@ -1,0 +1,190 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Anirudha Nagar", 
+            "389", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "443", 
+            "Neutral"
+        ], 
+        [
+            "Kerala", 
+            "445", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Surjya Kanta Mishra", 
+            "108", 
+            "Comment"
+        ], 
+        [
+            "Mishra", 
+            "152", 
+            "Comment"
+        ], 
+        [
+            "Mishra", 
+            "234", 
+            "Comment"
+        ], 
+        [
+            "Sankar Roychowdhury", 
+            "241", 
+            "Comment"
+        ], 
+        [
+            "Roychowdhury", 
+            "287", 
+            "Comment"
+        ], 
+        [
+            "Partha Chatterjee", 
+            "298", 
+            "Comment"
+        ], 
+        [
+            "Nagar", 
+            "458", 
+            "Comment", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2006:46", 
+        "June 2010:53", 
+        "December 2010:117", 
+        "2010:267", 
+        "2010 : 284", 
+        "April 2013:410"
+    ], 
+    "death": "", 
+    "title": "Bengal renders security commission defunct", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "In the wake of the blast in West Bengals Bardhaman district which has raised serious security concerns , it has come to light that the State government has rendered the Security Commission defunct . The Supreme Court had directed setting up of the Commission in 2006 . . . It was in June 2010 that the Left Front Government brought out a gazette notification setting up the West Bengal State Security Commission which shall deliberate on the security concerns of the State among other issues . . . The Commission was to be headed by the Home Minister but the government appointed the then Health Minister , Surjya Kanta Mishra , as its Chairman . In December 2010 , the Supreme Court asked the State government to comply with the order in letter and spirit and appoint Home Minister as its chairperson . . . Commenting on the issue , Dr Mishra , who is the Leader of the Opposition in the Assembly , told The Hindu that he had written to the Governor and as well as the State government pointing out that the Commission was a Constitutional obligation and that it be reconstituted . He said he hasnt received any answer . . . This government feels that having such a functioning commission would undermine its powers to take arbitrary decisions and ensure lack of transparency in its functioning , Dr Mishra added . . . Retired General Sankar Roychowdhury who was the member of the Commission appointed by the Left Front Government also admitted that he had not heard about the Commission since 2010 . . . In my opinion , it was not taken seriously by the Government after 2010 , Mr Roychowdhury said . . . On being contacted , senior Minister Partha Chatterjee , who was the Leader of Opposition in the previous Left Front regime , said he was not aware of the Commission and asked to check the website of the Home Department instead . The website has no mention of the Commission . . . In fact , the government has not responded to RTI queries made by international NGO , Commonwealth Human Rights Initiative -LRB- CHRI -RRB- , which has prepared a report on the functioning of the State Security Commission all across the country . . . Anirudha Nagar , programme officer of CHRI who has worked on the report , said the organisation filed RTI queries in April 2013 to the office of State Director General of Police , which was later transferred to the Home department but no response has come from the government . . . States like Delhi and Kerala have set up the Commission and they hold regular meetings , Mr Nagar added .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Home Minister:97", 
+        "Health Minister:105", 
+        "Chairman:114", 
+        "Governor:174", 
+        "government:208", 
+        "Director General of Police:417"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/bengal-renders-security-commission-defunct/article6486962.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "State government", 
+            "26", 
+            "Others"
+        ], 
+        [
+            "Security Commission", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "Supreme Court", 
+            "36", 
+            "Others"
+        ], 
+        [
+            "Left Front Government", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "West Bengal State Security Commission", 
+            "68", 
+            "Others"
+        ], 
+        [
+            "Supreme Court", 
+            "121", 
+            "Others"
+        ], 
+        [
+            "State government", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "166", 
+            "Others"
+        ], 
+        [
+            "State government", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "Left Front Government", 
+            "253", 
+            "Others"
+        ], 
+        [
+            "Home Department", 
+            "330", 
+            "Others"
+        ], 
+        [
+            "NGO", 
+            "359", 
+            "Others"
+        ], 
+        [
+            "Commonwealth Human Rights Initiative", 
+            "361", 
+            "Others"
+        ], 
+        [
+            "CHRI", 
+            "366", 
+            "Others"
+        ], 
+        [
+            "State Security Commission", 
+            "379", 
+            "Others"
+        ], 
+        [
+            "CHRI", 
+            "395", 
+            "Others"
+        ]
+    ]
+}

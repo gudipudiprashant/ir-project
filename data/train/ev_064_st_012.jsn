@@ -1,0 +1,139 @@
+{
+    "LOC": [
+        [
+            "Mahim", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Borivali-bound", 
+            "101", 
+            "Event"
+        ], 
+        [
+            "Mahim", 
+            "212", 
+            "Neutral"
+        ], 
+        [
+            "Tulsi Pipe Road", 
+            "304", 
+            "Neutral"
+        ], 
+        [
+            "Mahim", 
+            "312", 
+            "Event"
+        ], 
+        [
+            "Dharavi", 
+            "343", 
+            "Neutral"
+        ], 
+        [
+            "Lady Jamshedji Road", 
+            "352", 
+            "Neutral"
+        ], 
+        [
+            "Dharavi", 
+            "436", 
+            "Neutral"
+        ], 
+        [
+            "platform 3", 
+            "462", 
+            "Event"
+        ], 
+        [
+            "Borivli", 
+            "502", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Hitesh Shah", 
+            "4", 
+            "Comment"
+        ], 
+        [
+            "Shah", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "Shah", 
+            "245", 
+            "Comment"
+        ], 
+        [
+            "Rajesh Varma", 
+            "429", 
+            "Comment"
+        ], 
+        [
+            "Krishna Mishra", 
+            "491", 
+            "Comment"
+        ], 
+        [
+            "J Singh", 
+            "595", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "6.20 pm : 19"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "A river of blood at Mahim", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": ". . For Hitesh Shah , travel by train will never be the same again . At around 6.20 pm , Shah was on a Western Railway foot over-bridge , crossing from Mahim West to the East , when he heard a loud bang . He looked down to see a train moving quickly beneath the bridge , coming to a halt a few seconds later . . . At first , he assumed it was a short circuit that led to the halt . When he took a second look , he saw dead bodies flying out of the Borivali-bound fast train . Blood was flowing like a river all around . ` People were screaming for help and many were jumping out from other compartments . No one knew what was happening , ' he recalls . . . Without fearing for his life , he ran down to the tracks to help people trapped in the train . The first class compartment , where the bomb was placed , had been reduced to a tangled mass of metal in seconds . When the blast occurred , people standing at the platform waiting to board other trains were also swept off their feet . . . People staying around Mahim station soon arrived in large numbers to help the trapped passengers . Heavy rains did n't deter them from the rescue operations . . . ` It was gruesome , ' says Shah . ' I saw mutilated bodies . I do n't think anyone in that compartment could have come out alive . The intensity of the blast was very high . Some people got sheets from their homes to take out the dead . Those who were breathing were immediately rushed to the nearest hospital . ' . . Tulsi Pipe Road , which runs parallel to Mahim station , witnessed another horrifying scene as locals began dumping dead bodies on the street and trying to save the injured with a sense of urgency . Traffic leading to Dharavi was brought to a halt and diverted via Lady Jamshedji Road . . . Locals were seen consoling unknown passengers who could n't believe their near and dear ones were no more . Some women could n't bear the sight and started vomiting on account of the bloodstains on their bodies . Many started walking away from the station after realizing that the trains would not move further . . . ` We stopped many cars and tempos to take the bodies , ' says Rajesh Varma , a local resident of Dharavi . ` Every person on the road was co-operative and there was no sign of the police . ' . . The blast happened on platform 3 , when the train left . Surprisingly , there were four trains at the station at almost the same time when the incident occurred . . . Krishna Mishra , who was in a slow train bound for Borivli , said there was no sign of the police for almost an hour . ` The least they can do at times like this is arrive on time , ' he says . ` Even when they came , they were beating and shooing away rescuers who were helping the injured . ' . . Many locals are angry that the government had done little to save the lives of ordinary people . ` We should not give these terrorists bail . They need to be hanged in public , ' says J Singh , another commuter . ` There is no law and order . These were innocent people who had nothing to do with politics , but they lost their lives . ' .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Western Railway:26", 
+        "foot over-bridge:28", 
+        "halt:84", 
+        "compartment:165", 
+        "tangled:178", 
+        "mutilated bodies:250", 
+        "Locals:358", 
+        "consoling:361", 
+        "terrorists:582", 
+        "commuter:599", 
+        "politics:619"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/11firdaus.htm", 
+    "date": "11-07-2006", 
+    "target": "RAILWAY STATION", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Western Railway", 
+            "26", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "LOC": [
+        [
+            "Ludhiana", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Sarmala road", 
+            "69", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "180", 
+            "Event"
+        ], 
+        [
+            "Punjab", 
+            "343", 
+            "Neutral"
+        ], 
+        [
+            "Ludhiana", 
+            "410", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer Dargah", 
+            "434", 
+            "Assoc_Event"
+        ], 
+        [
+            "Rajasthan", 
+            "437", 
+            "Accused"
+        ], 
+        [
+            "Chandigarh", 
+            "451", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "455", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "510", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ludhiana", 
+            "552", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Chandrashekar", 
+            "150", 
+            "Comment"
+        ], 
+        [
+            "Ishwar Singh", 
+            "182", 
+            "Comment"
+        ], 
+        [
+            "N. P. Singh", 
+            "214", 
+            "Comment"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "350", 
+            "Others"
+        ], 
+        [
+            "Mr. Gupta", 
+            "376", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "381", 
+            "Others"
+        ], 
+        [
+            "Sarabjit Pandher", 
+            "447", 
+            "Others"
+        ], 
+        [
+            "N.P.S. Aulakh", 
+            "458", 
+            "Comment"
+        ], 
+        [
+            "R.K. Jaiswal", 
+            "554", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "8.40 p.m. : 108", 
+        "7 p.m. : 115"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday night : 21", 
+        "Thursday : 416"
+    ], 
+    "death": "6", 
+    "title": "Six killed, 25 injured in Ludhiana cinema hall blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Appears to be the handiwork of some terror outfit , say police . . Ludhiana : Terror struck Ludhiana on Sunday night when six people were killed and 25 injured in a blast in one of the three cinema halls in a multiplex in a busy shopping area of this industrial town . . . It was not immediately known what caused the explosion in the multiplex on Sarmala road , which was teeming with hundreds of people . . . Janan Janam Ke Saath was being screened in the hall , which has a capacity for an audience of 600 , when the explosion occurred at 8.40 p.m. . The show started at 7 p.m. . . The police , who did not rule out the hand of terrorists , said the casualties could go up . Limbs of some of the dead were seen . . . Chandrashekar , ADGP -LRB- Law and Order -RRB- , said the blast appeared to have been caused by a bomb . . . Victims yet to be identified . . Ludhiana DIG Ishwar Singh said half of the injured were critical and the victims were yet to be identified . The cause of the blast is yet to be ascertained . . . DGP N. P. Singh said four people died on the spot and two in hospital . . . One person came inside the theatre during interval time and the needle of suspicion was on him . . . Windowpanes in the multiplex were smashed and several chairs in the cinema hall destroyed . The blast took place under a seat in the third row of second block of the theatre . . . Immediately after the blast , panic-stricken people rushed out of the theatre , officials said . . . Creates a crater . . The intensity of the blast was such that it created a big crater in the hall and smashed the window panes . . . The Union government is closely monitoring the security situation in Punjab . . . Union Home Secretary Madhukar Gupta spoke to Punjabs Chief Secretary and Director-General of Police to have first hand information about the incident , official sources said . . . Mr. Gupta apprised Home Minister Shivraj Patil of the situation . The Centre has assured all assistance to the State government . It was also rushing bomb experts from the National Security Guards to Ludhiana . . . Only on Thursday last , two people were killed and nearly a dozen injured in a bomb attack on the Ajmer Dargah in Rajasthan . PTI . . Handiwork of terrorists . . Sarabjit Pandher reports from Chandigarh : . . Punjab police chief N.P.S. Aulakh said that from the preliminary investigations , it appeared to be the handiwork of some terror outfit . . . The exact nature of the device and the explosive used would be confirmed by forensic experts . . . Keeping in view the coming festival season and the blast in Ajmer , the police have sounded an alert all over the State . . . Vigil at sensitive places had been tightened and night patrol intensified . . . Talking to reporters at the site of the incident , police chief of Ludhiana district R.K. Jaiswal , said it was suspected that RDX was used . . . The incident has sent a wave of scare across the State . Senior officers were closeted in meetings .", 
+    "injured": "25", 
+    "det_loc": [
+        "India", 
+        "Punjab", 
+        "Ludhiana", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "handiwork:5", 
+        "terror outfit:8", 
+        "Terror struck:17", 
+        "blast:33", 
+        "three cinema halls:38", 
+        "multiplex:43", 
+        "busy shopping area:46", 
+        "industrial town:51", 
+        "explosion:64", 
+        "multiplex:67", 
+        "Janan Janam Ke Saath:82", 
+        "audience of 600:99", 
+        "explosion:105", 
+        "terrorists:130", 
+        "Law and Order:154", 
+        "blast:161", 
+        "bomb:169", 
+        "Victims:173", 
+        "victims:193", 
+        "blast:204", 
+        "theatre:236", 
+        "interval time:238", 
+        "suspicion:244", 
+        "Windowpanes:251", 
+        "multiplex:254", 
+        "smashed:256", 
+        "cinema hall:262", 
+        "blast:267", 
+        "third row:275", 
+        "second block:278", 
+        "panic-stricken:291", 
+        "big crater:320", 
+        "smashed the window panes:326", 
+        "monitoring:338", 
+        "security situation:340", 
+        "Union Home Secretary Madhukar Gupta:347", 
+        "Punjabs Chief Secretary:354", 
+        "Director-General of Police:358", 
+        "first hand information:363", 
+        "Home Minister Shivraj Patil:379", 
+        "assistance:392", 
+        "rushing bomb experts:401", 
+        "bomb attack:430", 
+        "Handiwork of terrorists:442", 
+        "preliminary investigations:464", 
+        "terror outfit:475", 
+        "device:485", 
+        "explosive:488", 
+        "forensic experts:494", 
+        "Vigil:525", 
+        "sensitive places:527", 
+        "tightened:531", 
+        "night patrol:533", 
+        "RDX:562"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/six-killed-25-injured-in-ludhiana-cinema-hall-blast/article1930459.ece", 
+    "date": "14-10-2007", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "Union government", 
+            "334", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "388", 
+            "Others"
+        ], 
+        [
+            "State government", 
+            "395", 
+            "Others"
+        ], 
+        [
+            "National Security Guards", 
+            "406", 
+            "Others"
+        ]
+    ]
+}

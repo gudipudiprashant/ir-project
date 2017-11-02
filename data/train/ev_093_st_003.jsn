@@ -1,0 +1,242 @@
+{
+    "LOC": [
+        
+        [
+            "TALEGAON/GAYA", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Talegaon", 
+            "108", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "114", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "140", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "143", 
+            "Event"
+        ], 
+        [
+            "Magadh", 
+            "154", 
+            "Event"
+        ], 
+        [
+            "Barachatti block", 
+            "187", 
+            "Accused"
+        ], 
+        [
+            "Gaya", 
+            "190", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "232", 
+            "Event"
+        ], 
+        [
+            "Magadh", 
+            "383", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gaya", 
+            "402", 
+            "Event"
+        ], 
+        [
+            "Jehanabad", 
+            "404", 
+            "Neutral"
+        ], 
+        [
+            "Jehanabad", 
+            "414", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "436", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "488", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "493", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi Temple", 
+            "516", 
+            "Event"
+        ], 
+        [
+            "Karmapa monastery", 
+            "523", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushilkumar Shinde", 
+            "29", 
+            "Comment"
+        ], 
+        [
+            "Dorji", 
+            "74", 
+            "Victim"
+        ], 
+        [
+            "Bala Sanga", 
+            "76", 
+            "Victim"
+        ], 
+        [
+            "Shinde", 
+            "83", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "88", 
+            "Comment"
+        ], 
+        [
+            "Nayyer Hasnain Khan", 
+            "157", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:33", 
+        "Monday : 131", 
+        "Sunday:171", 
+        "Monday : 290", 
+        "Sunday : 496"
+    ], 
+    "death": "0", 
+    "title": "13 bombs were planted in Mahabodhi temple complex: Shinde", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "TALEGAON/GAYA : As many as 13 bombs were planted inside the Mahabodhi temple complex in Bodh Gaya of which ten had exploded injuring two monks , home minister Sushilkumar Shinde said on Monday . ` Today , I have the information of 10 blasts . A total of 13 bombs were placed there . I will not go into details where they were kept and all . Two persons have been injured 50-year-old Dorji and Bala Sanga -LRB- 30 -RRB- , ' Shinde told reporters here . Shinde was speaking on the sidelines of a function for inauguration of a hospital of Central Reserve Police Force in Talegaon , about 100 kilometers from Pune . One person held ; bandh hits life in city The NIA detained one person on Monday in connection with the serial blasts at the Mahabodhi temple in Bodh Gaya in which two monks were injured . DIG , Magadh range , Nayyer Hasnain Khan said an identity card was found within the temple premises on Sunday on the basis of which the person was detained . ` One suspect hailing from Barachatti block in Gaya has been detained and we are questioning him . We have been analysing the footage and based on that some more people would be questioned soon , ' a senior police official said . ` All the CCTV cameras in the Mahabodhi temple premises were fully functional . As you must have seen in the CCTV footage , both state security personnel and temple 's own security personnel were present . I do n't think there was any lapse on security front , ' the official said . Meanwhile , normal life was severely hit in the district on Monday as BJP and RJD gave separate bandh calls to protest against the state government 's alleged security lapses that led to the terror attack in the temple town . BJP workers took to the streets from early morning to enforce the dawn-to-dusk bandh forcing shops and business establishments to close down , the sources said . The temple town was particularly hit by the bandh as roads wore a deserted look and shops and business establishments remained shut since morning , they said . Observing a separate 12-hour bandh in the entire Magadh division , RJD workers were seen stopping movement of vehicles and forcing shopkeepers to shut down shops in Gaya , Jehanabad and adjoining districts , the sources said . In Jehanabad , the RJD supporters disrupted train services and raised slogans against the state government for failure to prevent serial blasts in Bodh Gaya . There was no report of any untoward incident from anywhere due to the bandh called by the RJD and BJP , police sources said . Security has been stepped up at the temple and adjoining areas . Terror struck one of the holiest Buddhist shrines and other places in Bihar 's pilgrimage town of Bodh Gaya on Sunday with suspected Indian Mujahideen operatives simultaneously triggering nine low intensity bombs . While four blasts took place inside the Mahabodhi Temple complex , three occurred in Karmapa monastery , one each near the famous 80-ft Buddha statue and at the bus stand near bypass . The temple 's sanctum sanctorum and the Bodhi Tree , under which Lord Buddha is believed to have attained enlightenment , did not suffer any damage in the blasts .", 
+    "injured": "2", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "Bodh Gaya", 
+        "Mahabodhi temple complex"
+    ], 
+    "O": [
+        "temple:168", 
+        "gaya:190", 
+        "terror attack:313", 
+        "bodh gaya:436", 
+        "security:464", 
+        "terror:476", 
+        "pilgrimage town:490", 
+        "monastery:524", 
+        "buddha statue:532"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/13-bombs-were-planted-in-Mahabodhi-temple-complex-Shinde/articleshow/20970721.cms?referral=PM", 
+    "date": "07-07-2013", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "Mahabodhi temple complex", 
+    "delivery_mod": "", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "TALEGAON/GAYA", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Central Reserve Police Force", 
+            "103", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "126", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "292", 
+            "Others"
+        ], 
+        [
+            "RJD", 
+            "294", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "320", 
+            "Others"
+        ], 
+        [
+            "RJD", 
+            "386", 
+            "Others"
+        ], 
+        [
+            "RJD", 
+            "417", 
+            "Others"
+        ], 
+        [
+            "RJD", 
+            "456", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "458", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "499", 
+            "Assoc_Accused"
+        ]
+    ]
+}

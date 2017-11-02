@@ -1,0 +1,184 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "eastern Delhi", 
+            "89", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "284", 
+            "Neutral"
+        ], 
+        [
+            "cinema halls", 
+            "344", 
+            "Accused"
+        ], 
+        [
+            "Safdarjung", 
+            "352", 
+            "Neutral"
+        ], 
+        [
+            "movie theatres", 
+            "365", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "K K Paul", 
+            "43", 
+            "Comment"
+        ], 
+        [
+            "Shivraj Patil", 
+            "144", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "295", 
+            "Comment"
+        ], 
+        [
+            "Mohammad Irshad", 
+            "347", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:16", 
+        "Sunday:70", 
+        "Monday morning:93", 
+        "late Sunday:316", 
+        "Sunday:317"
+    ], 
+    "death": "0", 
+    "title": "3rd blast rocks Delhi", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "EASTERN DELHI", 
+        "", 
+        "Nand Nagri"
+    ], 
+    "terror_group": [
+        "LET"
+    ], 
+    "content": "NEW DELHI : One person was injured in a blast in the Indian capital on Monday , but the incident was not linked to bomb attacks on two cinemas showing a controversial Sikh film , the police said . Delhi police chief K K Paul said investigations were underway into all three explosions but there was no evidence as yet to ` prove Monday 's blast is linked to Sunday 's explosions . ' The latest blast went off in the middle-class residential district of Nand Nagri in eastern Delhi early on Monday morning . The blast occurred when a man picked up a lady 's purse he found abandoned by the roadside , said another police officer asking not to be identified . The man was rushed to hospital with injuries on his hands and face , he said . Home Minister Shivraj Patil confirmed the third blast , which came after two explosions at cinemas overnight left at least one person dead and 49 injured . ` The injuries to the people are not life threatening , and they are out of danger , ' Patil said Monday . ` The police have been asked to keep a close watch and tighten security . ' The two cinemas were screening the Bollywood action thriller Jo Bole So Nihal , which is a Sikh religious chant used as a battle cry or in prayer . The Sikh Gurdwara Prabandhak Committee , the highest authority in the Sikh religion , had demanded a ban on the film , saying its content and use of the prayer as a title had hurt Sikh religious sentiment . The film was withdrawn from all theatres in Punjab last week following protests from the committee . Prime Minister Manmohan Singh visited the wounded in hospital on Monday , a spokesman for his office said . An emergency cabinet meeting late Sunday chaired by Singh condemned the blasts . Meanwhile , an LeT militant was arrested in Delhi shortly after twin blasts after twin bomb blasts in two cinema halls . Mohammad Irshad was nabbed in Safdarjung area by the Special Cell which is investigating the blasts in the movie theatres , the sources said . However , it was not clear whether he was involved in the explosions .", 
+    "injured": "1", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "person:5", 
+        "blast:10", 
+        "capital:14", 
+        "incident:20", 
+        "bomb:25", 
+        "controversial sikh:32", 
+        "sikh film:33", 
+        "film:34", 
+        "police:37", 
+        "underway:49", 
+        "evidence:58", 
+        "blast:66", 
+        "blast:77", 
+        "middle-class:82", 
+        "district:84", 
+        "morning:94", 
+        "blast:97", 
+        "man:101", 
+        "lady:105", 
+        "purse:107", 
+        "roadside:113", 
+        "police officer:117", 
+        "man:126", 
+        "hospital:130", 
+        "face:137", 
+        "blast:149", 
+        "person:163", 
+        "life:177", 
+        "danger:185", 
+        "patil:188", 
+        "watch:202", 
+        "security:205", 
+        "bollywood:214", 
+        "bollywood action thriller:214", 
+        "action thriller jo:215", 
+        "action thriller:215", 
+        "jo bole:217", 
+        "jo bole so nihal:217", 
+        "nihal:220", 
+        "chant:227", 
+        "battle cry:231", 
+        "prayer:235", 
+        "authority:245", 
+        "sikh religion:248", 
+        "sikh:248", 
+        "religion:249", 
+        "ban:254", 
+        "film:257", 
+        "content:261", 
+        "use:263", 
+        "prayer:266", 
+        "title:269", 
+        "sikh:272", 
+        "sentiment:274", 
+        "film:277", 
+        "week:286", 
+        "committee:291", 
+        "hospital:301", 
+        "spokesman:306", 
+        "office:309", 
+        "emergency cabinet meeting:313", 
+        "let:328", 
+        "bomb:340", 
+        "cinema:344", 
+        "area:353", 
+        "cell:357", 
+        "movie:365"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/3rd-blast-rocks-Delhi/articleshow/1118851.cms", 
+    "date": "23-05-2005", 
+    "target": "ROAD SIDE", 
+    "hot_spot": "", 
+    "delivery_mod": "LADY'S BAG", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "hospital", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "Sikh Gurdwara Prabandhak Committee", 
+            "238", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "328", 
+            "Assoc_Accused"
+        ]
+    ]
+}

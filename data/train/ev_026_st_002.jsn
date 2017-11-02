@@ -1,0 +1,172 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Chandra Chutia", 
+            "91", 
+            "Accused"
+        ], 
+        [
+            "Tarani Pathar", 
+            "103", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "107", 
+            "Event"
+        ], 
+        [
+            "Adabari bus terminus", 
+            "132", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "137", 
+            "Neutral"
+        ], 
+        [
+            "Bongaigaon", 
+            "145", 
+            "Event"
+        ], 
+        [
+            "Paglasthan", 
+            "160", 
+            "Neutral"
+        ], 
+        [
+            "Boro fish market", 
+            "192", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "197", 
+            "Event"
+        ], 
+        [
+            "Kamalpur", 
+            "230", 
+            "Event"
+        ], 
+        [
+            "Kamrup", 
+            "233", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati Refinery", 
+            "261", 
+            "Neutral"
+        ], 
+        [
+            "Noonmati", 
+            "266", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "269", 
+            "Neutral"
+        ], 
+        [
+            "Lakhimpur", 
+            "274", 
+            "Neutral"
+        ], 
+        [
+            "paddy field", 
+            "294", 
+            "Source"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 47"
+    ], 
+    "death": "1", 
+    "title": "One killed, 12 hurt as violence unabated in Assam", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "The long-drawn-out violence in Assam shows no signs of abating . . . As each day passes , the situation seems to be getting more dreadful , with the outlawed United Liberation Front of Assam ( ULFA ) stepping up its attacks . . . On Tuesday , a panchayat member belonging to the Congress party was killed and at least 12 people were injured , some seriously , in separate incidents of ULFA-sponsored bomb blasts . . . The Assam police said armed ULFA militants raided the house of Chandra Chutia , president of the Congress-controlled Sachani Gaon gram panchayat at Tarani Pathar area in Dibrugarh district and shot him dead . . . Six people were injured when a bomb exploded among the Saraswati Puja revellers in the busy Adabari bus terminus area in Guwahati . . . Tension prevailed in the Bongaigaon town as a powerful bomb went off near the Superintendent of Polices office at Paglasthan area . . . Five persons were seriously injured in the blast . . . Police said the casualty figure could go up . . . Another bomb exploded at the Boro fish market area in Bongaigaon , but there was no casualty . . . In another incident , a 16-year old girl was injured when she was hit by bullet splinters from the ULFAs grenade attack in Kamalpur area in Kamrup district . . . The Assam police also recovered and defused a powerful improvised explosive devise ( IED ) kept in an isolated area near the high-security Guwahati Refinery area complex in Noonmati area of Guwahati . . . In Lakhimpur district , the police dug up an IED , fitted with TNT and a time device , from a paddy field and defused it . . . Labels : Politics .", 
+    "injured": "12", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        "Assam"
+    ], 
+    "O": [
+        "Saraswati Puja:126", 
+        "Polices:157", 
+        "grenade:227", 
+        "IED:251", 
+        "TNT:286"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.dancewithshadows.com/blog/2007/01/one-killed-12-hurt-as-violence-unabated.htm", 
+    "date": "23-01-2007", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Assam", 
+            "31", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "panchayat", 
+            "50", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "Assam police", 
+            "81", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "85", 
+            "Accused"
+        ], 
+        [
+            "Sachani Gaon gram panchayat", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "Assam police", 
+            "239", 
+            "Others"
+        ]
+    ]
+}

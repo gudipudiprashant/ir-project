@@ -1,0 +1,240 @@
+{
+    "LOC": [
+        [
+            "Burdwan", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Kolkata", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "32", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "48", 
+            "Neutral"
+        ], 
+        [
+            "Bengal", 
+            "73", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan",
+            "92", 
+            "Event"
+        ], 
+        [
+            "Khagragarh", 
+            "94", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "168", 
+            "Event"
+        ], 
+        [
+            "Bengal", 
+            "204", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "213", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "245", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "292", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "306", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "335", 
+            "Neutral"
+        ], 
+        [
+            "Dhaka", 
+            "355", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ajit Doval", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Ajit Doval", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "Mamata Banerjee", 
+            "59", 
+            "Others"
+        ], 
+        [
+            "Banerjee", 
+            "68", 
+            "Others"
+        ], 
+        [
+            "Doval", 
+            "87", 
+            "Others"
+        ], 
+        [
+            "Prakash Mishra", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "Doval", 
+            "144", 
+            "Others"
+        ], 
+        [
+            "Doval", 
+            "182", 
+            "Others"
+        ], 
+        [
+            "Bannerjee", 
+            "221", 
+            "Others"
+        ], 
+        [
+            "Banerjee", 
+            "235", 
+            "Others"
+        ], 
+        [
+            "Sheikh Hasina", 
+            "302", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Bengal Can't Turn a Blind Eye to Terror, NSA Told Mamata Banerjee, say Sources", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "National Security Adviser Ajit Doval -LRB- second from left -RRB- inspects the blast site in Burdwan . Kolkata : National Security Adviser Ajit Doval - who visited West Bengal regarding the Burdwan blast case today - is believed to have expressed displeasure that a jihadi hub from Bangladesh has mushroomed in the state without the knowledge of the Mamata Banerjee government . Sources said he gave Ms Banerjee a tough message . Bengal , he reportedly said , could not turn a blind eye to terror.Mr Doval 's first stop was Burdwan 's Khagragarh - the site of a recent blast and the death of two terror suspects , which blew the lid off the terror network in the state . Later , he met the Chief Minister . Prakash Mishra , Special Secretary in the Ministry of Home Affairs who accompanied Mr Doval , said the Bengal government has promised to cooperate with the investigation . The state government had agreed to an investigation into the Burdwan incident by the National Investigation Agency , or NIA , with considerable reluctance.Mr Doval 's visit comes in the background of a bitter war of words between the BJP - fresh from electoral successes in Bengal - and the ruling Trinamool Congress over the Burdwan incident . The BJP has accused Ms Bannerjee and the Trinamool of going soft on terror and playing down the issue.Ms Banerjee claims the police have done a good job in Burdwan , but the Opposition and security point to many flaws . The most glaring - missing 39 crude bombs during their search at a house near the blast site , which were later found by the NIA.The dead terror suspects allegedly had links to the Jamaat-Ul-Mujahideen Bangladesh - a banned terror group working to destabilise the Sheikh Hasina government in Bangladesh . The NIA has said all four persons arrested in the case are members of Jamaat-ul-Mujahideen Bangladesh . The accused were preparing crude bombs to transport them to Bangladesh for possible terror attacks , it said . A dossier being prepared by the Centre will be shared with Dhaka , which had sought details on the case . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Burdwan"
+    ], 
+    "O": [
+        "National:0", 
+        "National Security:1", 
+        "National Security:20", 
+        "jihadi hub:45", 
+        "Chief Minister:127", 
+        "Ministry of Home Affairs:137", 
+        "police:238", 
+        "crude bombs:263", 
+        "crude bombs:329"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/bengal-cant-turn-a-blind-eye-to-terror-nsa-told-mamata-banerjee-say-sources-684893", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bengal government", 
+            "148", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "159", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "172", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "177", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "Trinamool Congress", 
+            "209", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "217", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "224", 
+            "Others"
+        ], 
+        [
+            "Jamaat-Ul-Mujahideen Bangladesh", 
+            "291", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "309", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen Bangladesh", 
+            "322", 
+            "Accused"
+        ]
+    ]
+}

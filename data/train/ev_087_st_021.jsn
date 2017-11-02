@@ -1,0 +1,135 @@
+{
+    "LOC": [
+        [
+            "UN", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "52", 
+            "Neutral"
+        ], 
+        [
+            "UN", 
+            "72", 
+            "Neutral"
+        ], 
+        [
+            "UN", 
+            "100", 
+            "Neutral"
+        ], 
+        [
+            "UN", 
+            "110", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ban Ki-moon", 
+            "16", 
+            "Comment"
+        ], 
+        [
+            "Eduardo del Buey", 
+            "74", 
+            "Comment"
+        ], 
+        [
+            "Buey", 
+            "91", 
+            "Comment"
+        ], 
+        [
+            "Lebanon", 
+            "105", 
+            "Others"
+        ], 
+        [
+            "Nawaf Salam", 
+            "111", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "12", 
+    "title": "Delhi High Court blast: UN Security Council, Ban Ki-moon condemn attack", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "United Nations : The United Nations Security Council -LRB- UNSC -RRB- today joined UN Chief Ban Ki-moon in strongly condemning the deadly terror attack in Delhi , saying such `` heinous '' acts of terrorism are `` criminal and unjustifiable '' . Moon expressed solidarity with the government and people of India and reiterated `` his firm stance that there is no justification for indiscriminate violence against civilians , '' deputy UN spokesman Eduardo del Buey said.The Secretary-General `` hopes that the perpetrators will be brought to justice , '' Buey said.In a separate statement read by the current UN Security Council President , Lebanon 's envoy to the UN Nawaf Salam , the UNSC also `` condemned in the strongest terms '' the terrorist attack that killed 12 people and left over 60 injured . `` The members of the Security Council reaffirmed that terrorism in all its forms and manifestations constitutes one of the most serious threats to international peace and security , and that any acts of terrorism are criminal and unjustifiable , regardless of their motivation , wherever , whenever and by whomsoever committed , '' the 15-member council said.Expressing sympathy and condolences to families and victims of the `` heinous act '' , the Security Council said it is determined to combat all forms of terrorism . .", 
+    "injured": "60", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        "Delhi,High court"
+    ], 
+    "O": [
+        "heinous:31", 
+        "criminal and unjustifiable:38", 
+        "Secretary-General:78", 
+        "terrorism:171"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/delhi-high-court-blast-un-security-council-ban-ki-moon-condemn-attack-467025", 
+    "date": "07-09-2011", 
+    "target": "HIGH COURT", 
+    "hot_spot": "Delhi,High court", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Nations Security Council", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "UNSC", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "48", 
+            "Others"
+        ], 
+        [
+            "Security Council", 
+            "101", 
+            "Others"
+        ], 
+        [
+            "UNSC", 
+            "115", 
+            "Others"
+        ], 
+        [
+            "Security Council", 
+            "142", 
+            "Others"
+        ], 
+        [
+            "Security Council", 
+            "210", 
+            "Others"
+        ]
+    ]
+}

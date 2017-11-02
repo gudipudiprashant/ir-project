@@ -1,0 +1,271 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "4", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Kolkata", 
+            "100", 
+            "Neutral"
+        ], 
+        [
+            "Symbiosis Law College", 
+            "111", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "115", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "135", 
+            "Event"
+        ], 
+        [
+            "Osho Ashram", 
+            "179", 
+            "Accused"
+        ], 
+        [
+            "Jewish Chabad House", 
+            "183", 
+            "Accused"
+        ], 
+        [
+            "German Bakery", 
+            "229", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "233", 
+            "Event"
+        ], 
+        [
+            "Koregaon Park", 
+            "235", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "252", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "262", 
+            "Neutral"
+        ], 
+        [
+            "restaurant", 
+            "278", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "318", 
+            "Event"
+        ], 
+        [
+            "Osho Ashram", 
+            "431", 
+            "Neutral"
+        ], 
+        [
+            "Chabad House", 
+            "435", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "454", 
+            "Neutral"
+        ], 
+        [
+            "Chicago", 
+            "493", 
+            "Neutral"
+        ], 
+        [
+            "Denmark", 
+            "507", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "509", 
+            "Event"
+        ], 
+        [
+            "US", 
+            "519", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "521", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "540", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rajeev Nandkumar Agarwal", 
+            "91", 
+            "Accused"
+        ], 
+        [
+            "Vikas Suresh Tulsiani", 
+            "126", 
+            "Accused"
+        ], 
+        [
+            "David Coleman Headley", 
+            "445", 
+            "Accused"
+        ], 
+        [
+            "Headley", 
+            "456", 
+            "Accused"
+        ], 
+        [
+            "Tahawwur Hussain Rana", 
+            "466", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 72", 
+        "0530 hours : 76", 
+        "1130 hours : 82", 
+        "7.30 pm : 369"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "February 21 , 2010 : 7", 
+        "February 13 : 33", 
+        "November 26 , 2008 : 255", 
+        "February 13 : 372", 
+        "October : 495"
+    ], 
+    "death": "", 
+    "title": "Pune blast: Toll rises to 15 with two more deaths", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        "Pune"
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "NetIndian News Network New Delhi , February 21 , 2010 Two more people today succumbed to injuries they suffered in the powerful bomb blast that devastated a popular eatery in Pune on February 13 , taking the death toll in the terrorist attack to 15 , police said . Pune police officials told NetIndian over the telephone that both persons breathed their last at the Jehangir Hospital in the city this morning , one at 0530 hours and the other at 1130 hours . One of them was identified as Rajeev Nandkumar Agarwal , 23 , who hailed from Kolkata and was a final year student of law at the Symbiosis Law College in Pune . The other victim was identified by the police as Vikas Suresh Tulsiani , 24 , a resident of Pune , who had completed his engineering degree and was looking for a job . Nine people had died and 57 others injured on the day of the blast that was set off by unidentified terrorists at the restaurant , located close to the Osho Ashram and a Jewish Chabad House . Since then , six people , including a Sudanese student , have succumbed to their injuries in hospital . About six of those still undergoing treatment in hospital are said to be in a serious condition . The blast at the `` German Bakery '' in Pune 's Koregaon Park area , frequented by foreigners and youngsters , was the first major terrorist incident in India after the November 26 , 2008 terror attacks in Mumbai , which claimed 166 lives . Four of those killed in the attack on the restaurant were foreigners . Apart from the Sudanese youth , the others were an Iranian youth , an Italian woman and a Nepalese youth who worked as a waiter at the restaurant . Reports from the forensic science laboratory in Pune have stablished that ammonium nitrate , RDX and petroleum had been used in the explosive used by the perpetrators of the attack . Details about how the explosion was triggered , whether by a timer device or by remote conrol , were still not available . The blast occurred around 7.30 pm on February 13 when the restaurant was teeming with youngsters and foreigners . The explosion took place when a waiter noticed an unattended backpack under one of the tables and tried to open it . The Maharashtra Anti-Terrorist Squad ( ATS ) is investigating the case with assistance from officials of the National Investigation Agency ( NIA ) . The Osho Ashram and the Chabad House had both been surveyed by suspected Lashkar-e-Taiba operative David Coleman Headley during one of his visits to India . Headley , a US national of Pakistani origin , and Tahawwur Hussain Rana , also believed to be an LeT operative , were arrested by the United States ' Federal Bureau of Investigation ( FBI ) from Chicago in October last year for allegedly conspiring to carry out terrorist attacks in Denmark and India . Subsequent investigations have led the authorities in the US and India to believe that the two men were involved in the conspiracy to carry out the 26/11 attacks in Mumbai . NNN . . .", 
+    "injured": "2", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Sudanese student:195", 
+        "ammonium nitrate:322", 
+        "RDX:325", 
+        "petroleum:327"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://netindian.in/news/2010/02/21/0005439/pune-blast-toll-rises-15-two-more-deaths", 
+    "date": "13-02-2010", 
+    "target": "", 
+    "hot_spot": "Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "NetIndian News Network", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "NetIndian", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "Jehangir Hospital", 
+            "66", 
+            "Others"
+        ], 
+        [
+            "forensic science laboratory", 
+            "314", 
+            "Others"
+        ], 
+        [
+            "Maharashtra Anti-Terrorist Squad", 
+            "407", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "411", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "423", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "427", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "443", 
+            "Accused"
+        ], 
+        [
+            "US national", 
+            "459", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "475", 
+            "Accused"
+        ], 
+        [
+            "Federal Bureau of Investigation", 
+            "485", 
+            "Others"
+        ], 
+        [
+            "FBI", 
+            "490", 
+            "Others"
+        ]
+    ]
+}

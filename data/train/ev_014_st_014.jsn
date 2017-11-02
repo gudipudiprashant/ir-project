@@ -1,0 +1,172 @@
+{
+    "LOC": [
+        [
+            "Dhemaji", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "GUWAHATI", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "113", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "320", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "337", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "383", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "509", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Gogoi", 
+            "2", 
+            "Comment"
+        ], 
+        [
+            "Sushanta Talukdar", 
+            "14", 
+            "Accused"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "28", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "74", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "222", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "365", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "388", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "morning : 238", 
+        "12-hour : 496"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "AUG. 19 : 20", 
+        "August:110", 
+        "August 15:110", 
+        "Wednesday:504"
+    ], 
+    "death": "", 
+    "title": "Gogoi sees `foreign hand' behind Dhemaji killings", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhemaji", 
+        "GUWAHATI", 
+        "Dhemaji"
+    ], 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM"
+    ], 
+    "content": "National Gogoi sees ` foreign hand ' behind Dhemaji killings . . By Sushanta Talukdar . . GUWAHATI , AUG. 19 . The Assam Chief Minister , Tarun Gogoi , today alleged that the banned United Liberation Front of Asom -LRB- ULFA -RRB- was playing into the hands of foreign agencies to create terror in the State . . . Dubbing the rebel group as a ` band of mercenaries , ' Mr. Gogoi said the ULFA had been indulging in mass killing out of ` frustration ' as it had lost its support base . . . Referring to the killing of schoolchildren in a bomb blast on August 15 in Dhemaji district , he told reporters that while the militant outfit used to go for selective targets earlier , it was now indulging in mass killing at the instance of foreign agencies . . . ` ULFA isolated ' . . The widespread public protests throughout the State against the incident had proved that the militant outfit had lost its base among the people and stood isolated . The message should go loud and clear that people would no longer remain silent spectators to the mindless killings perpetrated by the banned outfit . . . The State Government would also mobilise public opinion against its violent activities , Mr. Gogoi added . . . Earlier , during a discussion with editors of local dailies this morning , he said the Government had kept the doors open for talks with militant outfits . At the same time , it would not tolerate any attempts by them to disturb peace and retard the process of development . ` Let good sense dawn upon the militant outfit to honour the wishes and aspirations of the people and to come forward for peaceful solution of the problem through talks . ' . . The killing of innocent children and women at Dhemaji was an indicator of ULFA 's desperate bid to prove its existence . ` Let the Dhemaji incident be the end to the reign of terror unleashed by ULFA and this should reverberate through the length and breadth of the State , ' Mr. Gogoi said . . . ` Strengthen intelligence ' . . The editors , while strongly denouncing the Dhemaji incident , urged Mr. Gogoi to gear up the law and order machinery and strengthen the intelligence network to thwart the sinister designs of extremist outfits . They felt that the Government should go ahead in procuring sophisticated equipment to detect IEDs to prevent the loss of life and property . . . Later in the day , a meeting of senior citizens held here issued a clarion call for building up strong public resistance against extremist violence . . . AASU protest . . The activists of the All-Assam Students Union today burnt effigies of the Chief Minister in different parts of the city to protest against police excess during a 12-hour bandh called by the student body on Wednesday in protest against the Dhemaji killings .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Chief Minister:25", 
+        "Government:243", 
+        "IEDs:425"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2004/08/20/stories/2004082005011100.htm", 
+    "date": "15-08-2004", 
+    "target": "", 
+    "hot_spot": "Dhemaji", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "42", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "77", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "149", 
+            "Accused"
+        ], 
+        [
+            "State Government", 
+            "209", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "325", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "349", 
+            "Accused"
+        ], 
+        [
+            "AASU", 
+            "465", 
+            "Others"
+        ], 
+        [
+            "All-Assam Students Union", 
+            "473", 
+            "Others"
+        ]
+    ]
+}

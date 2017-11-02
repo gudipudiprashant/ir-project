@@ -1,0 +1,155 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "40", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "155", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "238", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "249", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "277", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "LK Advani", 
+            "6", 
+            "Comment"
+        ], 
+        [
+            "P Chidambaram", 
+            "30", 
+            "Comment"
+        ], 
+        [
+            "Advani", 
+            "53", 
+            "Comment"
+        ], 
+        [
+            "Advani", 
+            "176", 
+            "Comment"
+        ], 
+        [
+            "Advani", 
+            "242", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 105", 
+        "morning : 119"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "17", 
+    "title": "Repeated Mumbai attacks prove policy failure: Advani", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Mumbai : Senior BJP leader LK Advani , who is in Mumbai , blamed the Mumbai attacks today on `` a policy failure '' by the UPA government.Home Minister P Chidambaram said this morning that the serial blasts in Mumbai last evening can not be described as an intelligence failure . Mr Advani countered , `` It is not an intelligence failure ... I do n't accuse the government of that ... it is a policy failure . `` So far , 17 people have died ; 131 were injured in the three blasts that took place within twelve minutes during rush hour last evening . The BJP leader visited the sites of the trio of blasts this morning ; he also spent some time in two hospitals where those injured are being treated . He urged the government to adopt a `` zero-tolerance policy on terror . `` He also said that `` Mumbai has become a favourite target of terrorists - whether they are from neighbouring countries or from here . '' Mr Advani said that there are reports that the Indian Mujahideen - an indigenous terror group - may have been responsible for the latest attacks . The Home Minister categorically said this morning that it would be irresponsible right now to speculate on who is to blame . `` Even if Indian Mujahideen caused these new blasts , they get their support from Pakistan , '' Mr Advani said . `` As far as India is concerned , the government must shed its ambivalence towards terrorism , '' he added . `` It must be categorical in declaring that total policy of India towards terrorism hereafter shall be of zero-tolerance . . we will not tolerate anything which seems to promote or condone or compromise or disregard any terrorist activity . This should be a basic premise of our relationship with Pak - that it will have to dismantle the infrastructure that it has created for terror , '' he said . .", 
+    "injured": "131", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "policy:76", 
+        "three blasts:93", 
+        "zero-tolerance policy on terror:144", 
+        "Home Minister:202", 
+        "morning:207", 
+        "policy:275"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/repeated-mumbai-attacks-prove-policy-failure-advani-461520", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "BJP", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "UPA", 
+            "27", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "139", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "184", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "226", 
+            "Accused"
+        ], 
+        [
+            "government", 
+            "254", 
+            "Others"
+        ]
+    ]
+}

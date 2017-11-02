@@ -1,0 +1,194 @@
+{
+    "LOC": [
+        [
+            "Ahmedabad", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Ambur", 
+            "119", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "183", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "191", 
+            "Neutral"
+        ], 
+        [
+            "Aligarh", 
+            "201", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "235", 
+            "Neutral"
+        ], 
+        [
+            "Kochi", 
+            "322", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "390", 
+            "Neutral"
+        ], 
+        [
+            "Alwaye", 
+            "400", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "V.M. Khaleelur Rahman", 
+            "113", 
+            "Others"
+        ], 
+        [
+            "Rettavayal S. Krishnaswamy", 
+            "177", 
+            "Others"
+        ], 
+        [
+            "P. Malhotra", 
+            "186", 
+            "Others"
+        ], 
+        [
+            "Rashid G. Khan", 
+            "195", 
+            "Others"
+        ], 
+        [
+            "Yasir Malik", 
+            "230", 
+            "Others"
+        ], 
+        [
+            "Thehseen Zakir", 
+            "317", 
+            "Others"
+        ], 
+        [
+            "Ustad Humaid", 
+            "385", 
+            "Others"
+        ], 
+        [
+            "Ajmeera A. Azeez", 
+            "394", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Aug. 1 : 13"
+    ], 
+    "death": "", 
+    "title": "Ahmedabad blasts", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "Ahmedabad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "This refers to the article Ahmedabad blasts : the usual suspects -LRB- Aug. 1 -RRB- . Indian Muslims are peace-loving . It would be better for national integration if stories and articles of sacrifices made by Muslims for their country and their achievements are published , instead of repeating the views of the lunatic fringe gone astray . . . Indian Muslims proudly sing sare jahaan say achcha Hindustan hamaara and are second to none in patriotism . Let the author give some useful suggestions to enable the police and intelligence agencies to nab the culprits who plant bombs and kill innocent people . They belong to no religion . . . V.M. Khaleelur Rahman , . . Ambur . . By reproducing the so-called manifesto of an unknown organisation , which has the most blasphemous content against a religion , the article has given legitimacy to it . There are umpteen organisations with radical ideologies which civil society can not accept . One hopes such content will not be published in future . . . Rettavayal S. Krishnaswamy , . . Chennai . . P. Malhotra , . . New Delhi . . Rashid G. Khan , . . Aligarh . . The media must observe caution , and refrain from dragging the names of religious scholars who work tirelessly to eliminate antipathy among people . . . Yasir Malik , . . New Delhi . . What is the solution ? Prompt apprehension and punishment of miscreants by the government could have averted many disasters . Sadly , the wheels of justice turn in an excruciatingly slow manner . The sane majority can make a difference by reassuring those affected and providing physical , financial and , most important of all , psychological help to them . Religious leaders should invite them to walk the tougher path of forgiveness and forbearance . . . Thehseen Zakir , . . Kochi . . It is worrisome that a bomb blast in any corner of the world spells trouble for Muslims . Whether or not a Muslim is attached to an organisation , he or she feels suspected , secretly followed , and directly or indirectly targeted . In this sense , every blast is an attack on Islam and Muslims . . . Ustad Humaid , . . New Delhi . . Ajmeera A. Azeez , . . Alwaye .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "ahmedabad blasts:6", 
+        "usual suspects:10", 
+        "indian muslims:17", 
+        "national integration:27", 
+        "sacrifices:34", 
+        "muslims:37", 
+        "achievements:43", 
+        "lunatic fringe:54", 
+        "indian muslims:61", 
+        "proudly:63", 
+        "sare jahaan say achcha hindustan hamaara:65", 
+        "patriotism:77", 
+        "intelligence agencies:91", 
+        "culprits:96", 
+        "plant bombs:98", 
+        "kill:101", 
+        "innocent people:102", 
+        "reproducing:123", 
+        "manifesto:126", 
+        "unknown organisation:129", 
+        "blasphemous:136", 
+        "religion:140", 
+        "legitimacy:146", 
+        "umpteen organisations:152", 
+        "radical ideologies:155", 
+        "civil society:158", 
+        "future:173", 
+        "media:205", 
+        "caution:208", 
+        "refrain:211", 
+        "dragging:213", 
+        "religious scholars:217", 
+        "tirelessly:221", 
+        "eliminate:223", 
+        "antipathy:224", 
+        "punishment:247", 
+        "miscreants:249", 
+        "averted:255", 
+        "disasters:257", 
+        "wheels of justice:262", 
+        "excruciatingly:268", 
+        "slow manner:269", 
+        "sane majority:273", 
+        "reassuring:280", 
+        "religious leaders:300", 
+        "tougher path:308", 
+        "forgiveness:311", 
+        "forbearance:313", 
+        "worrisome:327", 
+        "bomb blast:330", 
+        "spells:338", 
+        "trouble:339", 
+        "muslims:341", 
+        "muslim:347", 
+        "organisation:352", 
+        "feels suspected:357", 
+        "targeted:367", 
+        "blast:374", 
+        "attack:377", 
+        "islam:379", 
+        "muslims:381"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-opinion/ahmedabad-blasts/article1306517.ece", 
+    "date": "01-08-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "government", 
+            "252", 
+            "Others"
+        ]
+    ]
+}

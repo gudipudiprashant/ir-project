@@ -1,0 +1,89 @@
+{
+    "LOC": [
+        [
+            "Bangalore", 
+            "15", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "R.K. Singh", 
+            "23", 
+            "Comment"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "50", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "morning : 118"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:10", 
+        "Wednesday:74", 
+        "May 5:96", 
+        "Tuesday:124"
+    ], 
+    "death": "", 
+    "title": "Bangalore blast a terror attack, confirms Home Ministry", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Ministry of Home Affairs ( MHA ) on Wednesday confirmed that the latest Bangalore blast was a terror attack.Union Home Secretary R.K. Singh confirmed that it was indeed a terror attack , but refrained from naming any organisation as the investigation was still on.Earlier , Union Home Minister Sushilkumar Shinde said , We are enquiring the matter and will let you know about the details soon.At least 16 people were injured on Wednesday when an incendiary bomb placed in a motorbike exploded near the Karnataka BJP city office buzzing with activity ahead of the May 5 Assembly polls.The MHA sources said that the office of Karnataka BJP , near which the blast took place in the morning , was bustling with till Tuesday when ticket distribution process concluded . However , since the process had ended , there was not much crowd at the party office on Wednesday.Sources also said that a temple located about 100 metre from the blast site , could also be the target . The bombers wanted higher casualties so they chose the spot carefully , a source said.The incident comes a day before the third anniversary of the blast outside the Chinnaswamy Stadium.Sources said it was too early to name any suspect , but confirmed that improvised explosive device ( IED ) was used in the explosion . .", 
+    "injured": "16", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Rural", 
+        "", 
+        "Bangalore"
+    ], 
+    "O": [
+        "Union Home Minister:47"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/bangalore-blast-bjp-terror-attack-home-ministry-sushilkumar-shinde/1/262709.html", 
+    "date": "17-04-2013", 
+    "target": "", 
+    "hot_spot": "Bangalore", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Ministry of Home Affairs", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "MHA", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "Karnataka BJP", 
+            "86", 
+            "Others"
+        ], 
+        [
+            "MHA", 
+            "100", 
+            "Others"
+        ], 
+        [
+            "Karnataka BJP", 
+            "107", 
+            "Others"
+        ]
+    ]
+}

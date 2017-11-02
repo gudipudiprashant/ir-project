@@ -1,0 +1,213 @@
+{
+    "LOC": [
+        [
+            "LUCKNOW", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "114", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "164", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "251", 
+            "Assoc_Event"
+        ], 
+        [
+            "Varanasi", 
+            "253", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "255", 
+            "Assoc_Event"
+        ], 
+        [
+            "Lucknow", 
+            "291", 
+            "Neutral"
+        ], 
+        [
+            "Aishbagh Idgah", 
+            "293", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "R.M. Srivastava", 
+            "54", 
+            "Comment"
+        ], 
+        [
+            "Srivastava", 
+            "82", 
+            "Comment"
+        ], 
+        [
+            "Maulana Kalbe Sadiq", 
+            "209", 
+            "Comment"
+        ], 
+        [
+            "Maulana", 
+            "226", 
+            "Comment"
+        ], 
+        [
+            "Naib Imam", 
+            "288", 
+            "Others"
+        ], 
+        [
+            "Maulana Khalid Rasheed Firangi Mahali", 
+            "299", 
+            "Comment"
+        ], 
+        [
+            "Shab-e-Barat", 
+            "317", 
+            "Others"
+        ], 
+        [
+            "Maulana Rasheed", 
+            "353", 
+            "Comment"
+        ], 
+        [
+            "Zafaryab Jilani", 
+            "371", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "hour : 283", 
+        "today : 314"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 48"
+    ], 
+    "death": "", 
+    "title": "High alert in U.P. after Malegaon blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . Possibility of some of the victims belonging to the State not ruled out . . LUCKNOW : A state of high alert has been sounded in Uttar Pradesh in the wake of the bomb blast in a mosque in Malegaon in Maharashtra on Friday . . . Home Secretary R.M. Srivastava told newsmen that the intelligence agencies have been geared up and the securitymen asked to keep a close watch on rumour mongers . . . Mr Srivastava said vigil had been stepped up at religious places , communally sensitive towns , vital installations , airports , railway stations and bus terminuses . . . The security concerns in Uttar Pradesh have another dimension . Though the identity of the victims was not known the intelligence and security agencies have not ruled out the possibility of some of the victims belonging to the State , considering that large number of people , particularly from eastern districts , went to Mumbai for earning their livelihood . . . The Home Secretary said there were no reports of any untoward incident in the light of the bomb blast . . . Reacting to the incident , the Vice-Chairman of All India Muslim Personal Law Board , Maulana Kalbe Sadiq , said the incident was a test of the Muslims ' patience . The Maulana said the Muslims should display the same restraint as was exhibited by the majority community in the aftermath of the serial bomb blasts in Delhi , Varanasi and Mumbai . . . The Law Board Vice-Chairman said the incident was the handiwork of a few persons , adding that communal harmony is the need of the hour . . . The Naib Imam of Lucknow 's Aishbagh Idgah and AIMPLB member , Maulana Khalid Rasheed Firangi Mahali said security ought to have been stepped up considering that today was ` Shab-e-Barat ' when large numbers of Muslims congregate in the mosques and visit the graveyards to offer ` Fateha ' for their departed ones . . . Stating that both the communities should exercise restraint , Maulana Rasheed said the government should do some introspection into some of its past actions . . . Zafaryab Jilani , legal convenor of AIMPLB and Babri Masjid Action Committee , assailed the government for a one-sided view of the recent developments .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "", 
+        "Maharashtra", 
+        ""
+    ], 
+    "O": [
+        "special correspondent:1", 
+        "Special:1", 
+        "victims:10", 
+        "state:14", 
+        "high alert:25", 
+        "bomb blast:38", 
+        "mosque:42", 
+        "intelligence agencies:60", 
+        "securitymen:68", 
+        "rumour mongers:76", 
+        "vigil:84", 
+        "religious places:90", 
+        "communally sensitive towns:93", 
+        "vital installations:97", 
+        "airports:100", 
+        "railway stations:102", 
+        "bus terminuses:105", 
+        "security concerns:111", 
+        "victims:125", 
+        "intelligence:130", 
+        "security agencies:132", 
+        "victims:144", 
+        "state:148", 
+        "eastern districts:159", 
+        "livelihood:168", 
+        "home secretary:173", 
+        "no reports:178", 
+        "untoward incident:182", 
+        "bomb blast:189", 
+        "incident:197", 
+        "all india muslim personal law board:202", 
+        "incident:215", 
+        "majority community:240", 
+        "serial bomb blasts:247", 
+        "the law board vice-chairman:259", 
+        "handiwork:268", 
+        "communal harmony:276", 
+        "security:305", 
+        "muslims congregate:323", 
+        "mosques:327", 
+        "visit:329", 
+        "graveyards:331", 
+        "departed ones:339", 
+        "government:357", 
+        "introspection:361", 
+        "legal convenor:374", 
+        "recent developments:393"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/high-alert-in-up-after-malegaon-blast/article3072980.ece", 
+    "date": "08-09-2006", 
+    "target": "MOSQUE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AIMPLB", 
+            "296", 
+            "Others"
+        ], 
+        [
+            "AIMPLB", 
+            "377", 
+            "Others"
+        ], 
+        [
+            "Babri Masjid Action Committee", 
+            "379", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "386", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "LOC": [
+        [
+            "Burdwan", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "98", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "177", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sharad Kumar", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "Ajit Doval", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "Doval", 
+            "68", 
+            "Others"
+        ], 
+        [
+            "Banerjee", 
+            "82", 
+            "Others"
+        ], 
+        [
+            "Doval", 
+            "163", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 75"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2 .:49", 
+        "Monday:74", 
+        "Friday:119"
+    ], 
+    "death": "", 
+    "title": "National Security Advisor Ajit Doval to Visit Burdwan Blast Site", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "", 
+        "Bardhaman", 
+        "Delhi,High court"
+    ], 
+    "terror_group": [
+        "JAMAAT-UL-MUJAHIDEEN BANGLADESH "
+    ], 
+    "content": "File photo : National Security Advisor Ajit DovalKolkata : Two days after National Investigation Agency or NIA 's Director General Sharad Kumar visited the Burdwan blast site , National Security Advisor Ajit Doval is scheduled to visit the village in West Bengal where the blast took place on October 2 . He is also likely to meet Chief Minister Mamata Banerjee.According to state secretariat sources , Mr Doval , who will arrive on Monday morning , is likely to meet Ms Banerjee and senior state officials at the state secretariat in the afternoon.He will also travel to Burdwan where he is expected to assess the progress of the probe , official sources said.The National Investigation Agency had on Friday said that the arrested persons and their associates were members of terror group Jamaat-ul-Mujahideen Bangladesh , who were makingImprovised explosive devices to be transported to the neighbouring country for possible terror attacks.The visit by the NIA DG and the scheduled trip of Me Doval come ahead of the central government 's decision to send a report to Bangladesh , following a request from that country in this regard.Three persons , including two women - one of them the widow of a suspected terrorist who died in the blast - have been arrested by the NIA . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Chief Minister:58", 
+        "explosive devices:139", 
+        "terror attacks.The:150"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/national-security-advisor-ajit-doval-to-visit-burdwan-blast-site-684469", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Delhi,High court", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen Bangladesh", 
+            "133", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "155", 
+            "Others"
+        ], 
+        [
+            "central government", 
+            "168", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "214", 
+            "Others"
+        ]
+    ]
+}

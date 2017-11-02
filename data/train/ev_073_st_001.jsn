@@ -1,0 +1,200 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Faizabad", 
+            "36", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "40", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "76", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "K.G. Balakrishnans", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "P.H. Parekh", 
+            "92", 
+            "Others"
+        ], 
+        [
+            "Dr. Singh", 
+            "142", 
+            "Others"
+        ], 
+        [
+            "Mr. Patil", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "Adish C. Agarwala", 
+            "165", 
+            "Others"
+        ], 
+        [
+            "S. Prabhakaran", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "Prabhakaran", 
+            "172", 
+            "Others"
+        ], 
+        [
+            "S. Gopakumaran Nair", 
+            "226", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "November:43", 
+        "November 23:43", 
+        "Wednesday:96"
+    ], 
+    "death": "", 
+    "title": "Council, Bar associations condemn blasts", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Legal Correspondent . . New Delhi : The Supreme Court Bar Association -LRB- SCBA -RRB- , the All-India Bar Association -LRB- AIBA -RRB- and the Bar Council of India have condemned the bomb blasts in Faizabad , Varanasi and Lucknow courts on November 23 . . . They urged Prime Minister Manmohan Singh and Home Minister Shivraj Patil to order tightening of security in all courts of the country . They sought Chief Justice of India K.G. Balakrishnans intervention in this regard . . . Lawyers , led by SCBA president P.H. Parekh , observed Wednesday as protest day . They said the blasts in which lawyers/litigants/stamp vendors and others were killed were heinous crimes against humanity . . . It was resolved at a special general body meeting of the SCBA that members of its executive committee would call on Dr. Singh and Mr. Patil to impress on them the need to provide tight security in court premises . . . AIBA chairman Adish C. Agarwala and its vice-chairman S. Prabhakaran , in a statement , expressed serious concern over the attacks . . . The AIBA wanted the CJI to prevail on the Centre to install surveillance cameras in all courts . It called upon all members of the profession to stand united in this hour of crisis . . . BCI chairman S. Gopakumaran Nair said in a statement that the bomb blasts were highly reprehensible as they were planned , brutal and an affront to the rule of law and democratic process . It is also a challenge to the justice delivery system of our country and an open threat to the legal profession .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "bomb blasts:33", 
+        "Prime Minister Manmohan Singh:50", 
+        "Home Minister Shivraj Patil:55", 
+        "tightening of security:61", 
+        "Chief Justice of India:73", 
+        "protest day:98", 
+        "blasts:104", 
+        "lawyers/litigants/stamp vendors:107", 
+        "heinous crimes:114", 
+        "executive committee:137", 
+        "impress:148", 
+        "tight security:155", 
+        "court premises:158", 
+        "serious concern:179", 
+        "attacks:183", 
+        "CJI:191", 
+        "surveillance cameras:199", 
+        "crisis:220", 
+        "bomb blasts:235", 
+        "planned:243", 
+        "brutal:245", 
+        "rule of law:251", 
+        "democratic process:255", 
+        "justice delivery system:265", 
+        "legal profession:277"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/council-bar-associations-condemn-blasts/article1957972.ece", 
+    "date": "23-11-2007", 
+    "target": "COURT", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "The Supreme Court Bar Association", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "SCBA", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "All-India Bar Association", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "AIBA", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "Bar Council of India", 
+            "26", 
+            "Others"
+        ], 
+        [
+            "SCBA", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "SCBA", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "AIBA", 
+            "163", 
+            "Others"
+        ], 
+        [
+            "AIBA", 
+            "188", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "196", 
+            "Others"
+        ], 
+        [
+            "BCI", 
+            "224", 
+            "Others"
+        ]
+    ]
+}

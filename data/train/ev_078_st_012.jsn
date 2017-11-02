@@ -1,0 +1,141 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "US", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Chembur", 
+            "139", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "145", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kenneth Heywood", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "KM Kamath", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "Parambir Singh", 
+            "95", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "last night : 104", 
+        "25 years : 173"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "evening : 37"
+    ], 
+    "death": "", 
+    "title": "WiFi was hacked again to send terror mail: Mumbai ATS", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "doweshowbellyad = 0 ; . . The Mumbai 's Anti-Terrorism Squad ( ATS ) reached this conclusion after extensive questioning of the owner of the flat from whose IP address the terror mail was sent last evening . . . `` It is similar to the case of ( US national ) Kenneth Heywood and after the preliminary questioning of flat owner KM Kamath it is believed that his internet connection is not secure and is WiFi-enabled , making it easier to be hacked , '' Additional Commissioner of Police ( ATS ) , Parambir Singh told PTI . . . The ATS last night traced the terror mail sent under the name of Indian Mujhahideen to the IP address of a firm , Kamran Power Control Pvt Ltd , at 201-202 Eric House , 16th Road , Chembur , an eastern suburb in Mumbai . Service provider Mahanagar Telephone Nigam Limited ( MTNL ) was used for sending the email . . . Kamran Power has been in existence for about 25 years , with 50 employees and manufactures low and medium voltage electrical and electronic control panels required in industries such as steel , cement , sugar and pharma , police said .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "IP address:29", 
+        "terror mail:32", 
+        "hacked:84", 
+        "terror mail:108", 
+        "IP address:119", 
+        "201-202 Eric House:132", 
+        "steel:195", 
+        "cement:197", 
+        "sugar:199", 
+        "pharma:201"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2008-09-14/news/28476418_1_terror-mail-ip-address-eric-house", 
+    "date": "13-09-2008", 
+    "target": "INDUSTRIES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorism Squad", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "92", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "103", 
+            "Others"
+        ], 
+        [
+            "Indian Mujhahideen", 
+            "115", 
+            "Accused"
+        ], 
+        [
+            "Kamran Power Control Pvt Ltd", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "Mahanagar Telephone Nigam Limited", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "MTNL", 
+            "154", 
+            "Others"
+        ], 
+        [
+            "Kamran Power", 
+            "165", 
+            "Others"
+        ]
+    ]
+}

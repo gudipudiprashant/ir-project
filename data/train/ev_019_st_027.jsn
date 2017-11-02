@@ -1,0 +1,140 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "10", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "155", 
+            "Event"
+        ], 
+        [
+            "Murshidabad", 
+            "157", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ajit Doval", 
+            "36", 
+            "Comment"
+        ], 
+        [
+            "Doval", 
+            "61", 
+            "Comment"
+        ], 
+        [
+            "Prakash Mishra", 
+            "121", 
+            "Others"
+        ], 
+        [
+            "Sharad Kumar", 
+            "150", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:28", 
+        "October 24:159"
+    ], 
+    "death": "", 
+    "title": "NSA sees large network behind Bardhaman blast", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "terror_group": [
+        "JAMAATUL MUJAHIDEEN BANGLADESH (JMB)"
+    ], 
+    "content": "On the eve of his visit to Bardhaman in West Bengal , where two suspected members of Jamaat-ul Mujahideen Bangladesh -LRB- JMB -RRB- were killed in the October 2 bomb blast , National Security Adviser Ajit Doval said there appeared to be a large network of the banned group that the investigators were working to unravel . . . Mr. Doval told The Hindu that both Indian and Bangladeshi governments were working in close coordination in the fight against terrorism . Both the countries enjoy excellent bilateral relations and we have been working together , he said . . . The NSA said the case had serious implications and required a comprehensive investigation . Special Secretary -LRB- Internal Security -RRB- Prakash Mishra and representatives of the Research and Analysis Wing , the Intelligence Bureau and the National Investigation Agency may accompany the NSA to West Bengal . NIA Director-General Sharad Kumar had earlier visited Bardhaman and Murshidabad on October 24 .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/nsa-sees-large-network-behind-bardhaman-blast/article6536254.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Jamaat-ul Mujahideen Bangladesh", 
+            "18", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "22", 
+            "Accused"
+        ], 
+        [
+            "National Security Adviser", 
+            "33", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "Bangladeshi governments", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "NSA", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "137", 
+            "Others"
+        ], 
+        [
+            "NSA", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "148", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "LOC": [
+        [
+            "Jamia Nagar", 
+            "74", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "78", 
+            "Neutral"
+        ], 
+        [
+            "Jhandewalan", 
+            "87", 
+            "Neutral"
+        ], 
+        [
+            "Central Delhi", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "Gaffar Market", 
+            "134", 
+            "Event"
+        ], 
+        [
+            "Greater Kailash-I", 
+            "160", 
+            "Event"
+        ], 
+        [
+            "Connaught Place", 
+            "176", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gaffar Market", 
+            "179", 
+            "Event"
+        ], 
+        [
+            "Karol Bagh", 
+            "182", 
+            "Event"
+        ], 
+        [
+            "Central Delhi", 
+            "185", 
+            "Event"
+        ], 
+        [
+            "M Block market", 
+            "189", 
+            "Event"
+        ], 
+        [
+            "Greater Kailash", 
+            "193", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohammed Saif", 
+            "32", 
+            "Accused"
+        ], 
+        [
+            "Zeeshan", 
+            "35", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Shakeel", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "Zia-Ur-Rehman", 
+            "40", 
+            "Accused"
+        ], 
+        [
+            "Saquib Nissar", 
+            "42", 
+            "Accused"
+        ], 
+        [
+            "Saif", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "Zeeshan", 
+            "80", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Shakeel", 
+            "111", 
+            "Accused"
+        ], 
+        [
+            "Zia-Ur-Rehman", 
+            "114", 
+            "Accused"
+        ], 
+        [
+            "Saquib Nissar", 
+            "116", 
+            "Accused"
+        ], 
+        [
+            "Saif", 
+            "145", 
+            "Accused"
+        ], 
+        [
+            "Zeeshan", 
+            "147", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "12 days : 20", 
+        "evening : 85", 
+        "day : 109", 
+        "day : 165"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "September 13:10", 
+        "Saturday:17", 
+        "October 16:59", 
+        "September 19:70", 
+        "September 13:140", 
+        "September 13:170"
+    ], 
+    "death": "21", 
+    "title": "Delhi blasts: 5 suspects sent to 12 days' police custody", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "Central", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : Five suspected terrorists allegedly involved in September 13 serial blasts here were on Saturday remanded to 12 days ' police custody by a court here . . . Mohammed Saif , Zeeshan , Mohammed Shakeel , Zia-Ur-Rehman and Saquib Nissar were produced before Chief Metropolitan Magistrate Sanjeev Jain who sent them to police custody till October 16 . . . Saif was arrested immediately after the September 19 encounter in Jamia Nagar in south Delhi while Zeeshan was arrested the same evening from Jhandewalan area in Central Delhi where he had gone to give an interview to a private TV channel . . . A day after Mohammed Shakeel , Zia-Ur-Rehman and Saquib Nissar were arrested from south Delhi and were produced in court in connection with the blast at Gaffar Market in Karol Bagh on September 13 . . . Saif and Zeeshan have been named as accused for their alleged involvement in the blasts Greater Kailash-I on the same day . . . The September 13 serial blasts which rocked Connaught Place , Gaffar Market in Karol Bagh in Central Delhi and the M Block market in Greater Kailash left 21 people dead and several others injured .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "terrorists:6", 
+        "serial blasts:12", 
+        "custody:24", 
+        "arrested:66", 
+        "interview:99", 
+        "tv channel:103", 
+        "accused:152", 
+        "blasts:159", 
+        "serial blasts:172"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2008-10-04/news/27719630_1_zia-ur-rehman-and-saquib-nissar-serial-blasts-delhi-blasts", 
+    "date": "03-10-2008", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

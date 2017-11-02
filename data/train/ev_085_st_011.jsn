@@ -1,0 +1,412 @@
+{
+    "LOC": [
+        [
+            "Babri Masjid", 
+            "73", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "147", 
+            "Neutral"
+        ], 
+        [
+            "Japan", 
+            "247", 
+            "Victim"
+        ], 
+        [
+            "South Korean", 
+            "249", 
+            "Victim"
+        ], 
+        [
+            "German", 
+            "261", 
+            "Victim"
+        ], 
+        [
+            "Dashashwamedh ghat", 
+            "286", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "335", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "406", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "474", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "531", 
+            "Neutral"
+        ], 
+        [
+            "Dashashwamedh", 
+            "542", 
+            "Accused"
+        ], 
+        [
+            "Shitla ghats", 
+            "544", 
+            "Accused"
+        ], 
+        [
+            "Agra", 
+            "589", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "593", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "658", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "704", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "730", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "768", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "788", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "817", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "822", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "835", 
+            "Assoc_Event"
+        ], 
+        [
+            "Lucknow", 
+            "878", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "896", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "G K Pillai", 
+            "82", 
+            "Comment"
+        ], 
+        [
+            "Swastika Sharma", 
+            "123", 
+            "Victim"
+        ], 
+        [
+            "R P Singh", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "Pillai", 
+            "155", 
+            "Comment"
+        ], 
+        [
+            "Alexandeo Mantello", 
+            "219", 
+            "Victim"
+        ], 
+        [
+            "Rachael", 
+            "242", 
+            "Victim"
+        ], 
+        [
+            "Ki Taro", 
+            "244", 
+            "Victim"
+        ], 
+        [
+            "Wan Sen Kim", 
+            "251", 
+            "Victim"
+        ], 
+        [
+            "Lydia de Mayo", 
+            "257", 
+            "Others"
+        ], 
+        [
+            "Ozel", 
+            "263", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "305", 
+            "Others"
+        ], 
+        [
+            "Brijlal", 
+            "331", 
+            "Others"
+        ], 
+        [
+            "Pillai", 
+            "403", 
+            "Comment"
+        ], 
+        [
+            "U K Bansal", 
+            "415", 
+            "Comment"
+        ], 
+        [
+            "Brij Lal", 
+            "526", 
+            "Comment"
+        ], 
+        [
+            "Brij Lal", 
+            "610", 
+            "Comment"
+        ], 
+        [
+            "Murli Manohar Joshi", 
+            "698", 
+            "Others"
+        ], 
+        [
+            "P Chidambaram", 
+            "735", 
+            "Comment"
+        ], 
+        [
+            "Mayawati", 
+            "792", 
+            "Others"
+        ], 
+        [
+            "Mayawati", 
+            "857", 
+            "Comment"
+        ], 
+        [
+            "Swami Prasad Maurya", 
+            "891", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "evening : 26", 
+        "11-month-old : 119", 
+        "night : 172", 
+        "6:20 pm : 272", 
+        "6.20 PM : 399", 
+        "today : 637", 
+        "yesterday : 654", 
+        "night : 800", 
+        "tomorrow : 855", 
+        "evening : 865", 
+        "night : 912"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "1992 : 76", 
+        "2006 : 377", 
+        "March seven : 667", 
+        "2006 : 670"
+    ], 
+    "death": "1", 
+    "title": "Terror strikes Varanasi: 1 killed", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Varanasi : Terror struck this holy town when a low-intensity blast ripped through a crowded bathing ghat on the banks of the Ganges river during evening prayers killing a child and injuring 37 people , including six foreigners . . . Banned terror outfit Indian Mujahideen ( IM ) claimed responsibility for the blast in e-mails sent to media houses and said it ` attributed ' the attack to the demolition of Babri Masjid in 1992 . . . Home Secretary G K Pillai said the Government believes that the blast , which also led to a stampede , was a terror strike . Some people were injured in the stampede , police said . . . A 11-month-old girl identified as Swastika Sharma , who was with her mother for the prayers , died at Marwari hospital after the blast , according to IG ( Varanasi ) R P Singh . . . Pillai had earlier said roughly between '20 to 25 persons ' were injured . Later in the night , hospital officials said 37 people were injured , including six foreigners . . . Officials said 20 injured were admitted to BHU Hospital , 13 in Kabir Chaura Hospital and four in Heritage Hospital . . . Among the injured foreigners was an Italian , Alexandeo Mantello , who was now out of danger , police said . According to hospital sources , the others were French national Rachael , Ki Taro from Japan , South Korean Wan Sen Kim , Italian national Lydia de Mayo and German national Ozel . . . The blast occurred at around 6:20 pm when thousands of devotees and some foreign tourists had assembled at the Dashashwamedh ghat for having darshan of the Ganga Arti ritual , police sources said . . . Prime Minister Manmohan Singh appealed for calm . Several cities including the national capital were put on high alert . . . Additional Director General Law and Order Brijlal told reporters in Lucknow that the blast took place due to ` some explosive material ' kept on the stairs of the ghat . . . The blast occurred at a spot some two km away from Sankatmochan Temple which was targeted by terrorists in 2006 . . . ` According to the information that we have , it was a low intensity blast which occurred around 6.20 PM , ' Pillai said in New Delhi . But Secretary ( Internal Security ) U K Bansal said the explosion was a ` medium intensity ' blast . Some people suffered injuries due to the blast while some were hurt during the stampede which occurred due to the collapse of a railing . Some of the injured persons were reported to have been hurt by metal pellets . . . Official sources in New Delhi said that an Improvised Explosive Device ( IED ) was recovered from a metal dustbin at the site of the blast . . . Eyewitnesses said a loud noise which also shook some nearby buildings was heard when the explosion occurred . . . ADG ( Law and Order ) Brij Lal told reporters in Lucknow that the explosive was planted in the wall between the Dashashwamedh and Shitla ghats and most of the persons suffered injuries due to stone splinters . . . He said the baby girl fell from the lap of her mother after the blast and succumbed to injuries in hospital . . . Forensic teams were airlifted from Agra and rushed to Varanasi for detailed investigations , the ADG said . . . On the Indian Mujahideen e-mail , Brij Lal said that it would be probed threadbare . . . He , however , said that there was no specific warning in the e-mail for today as the one that is being referred to was for the anniversary of Babri mosque demolition yesterday . . . Varanasi , which was rocked by twin blasts on March seven in 2006 in which 20 persons were killed , has been under constant threat from various terror outfits like Lashkar-e-Taiba ( LeT ) . . . Senior BJP leader Murli Manohar Joshi , who represents Varanasi in the Lok Sabha , said there seemed to be a ` motive ' behind the blast since it occurred during prayer time . In Delhi , Union Home Minister P Chidambaram said , ` Government condemns the attempt to disturb the peace and harmony by a misguided group which appears to have planted a low-intensity device in one of the ghats in Varanasi . ' . . The authenticity of the IM claim is being verified , he said . . . Uttar Pradesh Chief Minister Mayawati visited the blast site late in the night . . . She said the Central government should make security forces and equipment available to Uttar Pradesh , especially for Varanasi , the way it had done after the 26/11 terror strikes in Mumbai . . . She will write a letter to the Prime Minister and Union Home Minister in this regard tomorrow , Mayawati said . . . Earlier in the evening , she had held an emergency meeting of senior government officials in Lucknow and sent a team of officials , besides BSP state unit president Swami Prasad Maurya , to Varanasi . . . Meanwhile , officials said forensic teams reached the site late in the night and collected samples .", 
+    "injured": "37", 
+    "org_unorg": "", 
+    "O": [
+        "terror struck:3", 
+        "holy town:6", 
+        "low-intensity blast:10", 
+        "bathing ghat:16", 
+        "ganges river:23", 
+        "banned terror outfit:42", 
+        "blast:54", 
+        "e-mails:56", 
+        "attack:68", 
+        "blast:91", 
+        "terror strike:102", 
+        "injured:108", 
+        "blast:141", 
+        "injured:167", 
+        "injured:180", 
+        "injured foreigners:213", 
+        "italian:217", 
+        "french:240", 
+        "italian:255", 
+        "blast:268", 
+        "devotees:277", 
+        "foreign tourists:280", 
+        "darshan:290", 
+        "ganga arti:293", 
+        "high alert:320", 
+        "blast:338", 
+        "explosive material:345", 
+        "blast:359", 
+        "sankatmochan temple:369", 
+        "terrorists:375", 
+        "low intensity blast:393", 
+        "explosion:420", 
+        "medium intensity:424", 
+        "blast:427", 
+        "blast:436", 
+        "stampede:443", 
+        "metal pellets:466", 
+        "improvised explosive device:479", 
+        "ied:483", 
+        "metal dustbin:489", 
+        "blast:496", 
+        "explosion:515", 
+        "law and order:522", 
+        "explosive:534", 
+        "stone splinters:555", 
+        "blast:574", 
+        "forensic teams:584", 
+        "e-mail:608", 
+        "e-mail:635", 
+        "babri mosque:651", 
+        "twin blasts:664", 
+        "terror outfits:685", 
+        "lok sabha:707", 
+        "blast:721", 
+        "peace and harmony:747", 
+        "low-intensity device:760", 
+        "26/11 terror strikes:831", 
+        "emergency meeting:871", 
+        "forensic teams:904"
+    ], 
+    "unexpl": [
+        "METAL PELLETS"
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/uttar-pradesh/terror-strikes-varanasi-1-killed_673011.html", 
+    "date": "08-12-2010", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "48", 
+            "Accused"
+        ], 
+        [
+            "Government", 
+            "87", 
+            "Others"
+        ], 
+        [
+            "Marwari hospital", 
+            "137", 
+            "Others"
+        ], 
+        [
+            "BHU Hospital", 
+            "195", 
+            "Others"
+        ], 
+        [
+            "Kabir Chaura Hospital", 
+            "200", 
+            "Others"
+        ], 
+        [
+            "Heritage Hospital", 
+            "206", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "606", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "688", 
+            "Assoc_Accused"
+        ], 
+        [
+            "LeT", 
+            "690", 
+            "Assoc_Accused"
+        ], 
+        [
+            "BJP", 
+            "696", 
+            "Others"
+        ], 
+        [
+            "Government", 
+            "740", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "777", 
+            "Accused"
+        ], 
+        [
+            "Central government", 
+            "807", 
+            "Others"
+        ]
+    ]
+}

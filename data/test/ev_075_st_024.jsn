@@ -1,0 +1,211 @@
+{
+    "LOC": [
+        [
+            "Jaipur", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Hanuman temple", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Jodhpur", 
+            "80", 
+            "Neutral"
+        ], 
+        [
+            "Hawa Mahal", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "Tripolia Bazar", 
+            "152", 
+            "Event"
+        ], 
+        [
+            "Hanuman temple", 
+            "164", 
+            "Event"
+        ], 
+        [
+            "Johari Bazar", 
+            "167", 
+            "Event"
+        ], 
+        [
+            "Manas Chowk", 
+            "170", 
+            "Event"
+        ], 
+        [
+            "Badi Choupal", 
+            "173", 
+            "Event"
+        ], 
+        [
+            "Choti Choupal", 
+            "176", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "193", 
+            "Event"
+        ], 
+        [
+            "Hanuman temple", 
+            "228", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "269", 
+            "Event"
+        ], 
+        [
+            "Rajasthan", 
+            "271", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "321", 
+            "Event"
+        ], 
+        [
+            "Kotwali", 
+            "350", 
+            "Event"
+        ], 
+        [
+            "Hanuman temple", 
+            "412", 
+            "Event"
+        ], 
+        [
+            "Tripolia bazar", 
+            "415", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "443", 
+            "Event"
+        ], 
+        [
+            "Hanuman Mandir", 
+            "460", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "482", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "497", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vasundhara Raje", 
+            "69", 
+            "Comment"
+        ], 
+        [
+            "Pankaj Singh", 
+            "195", 
+            "Comment"
+        ], 
+        [
+            "A S Gill", 
+            "276", 
+            "Comment"
+        ], 
+        [
+            "Lalit Modi", 
+            "431", 
+            "Comment"
+        ], 
+        [
+            "Narayanan", 
+            "492", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:21", 
+        "Tuesday:423", 
+        "Saturday:445"
+    ], 
+    "death": "60", 
+    "title": "60 killed, 150 hurt in Jaipur blasts: CM", 
+    "org_unorg": "", 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI"
+    ], 
+    "content": ". . Terrorists struck for the first time in Jaipur triggering seven blasts in a span of 12 minutes on Tuesday night in crowded market areas and near a Hanuman temple in the walled city leaving at least 60 killed and 200 injured . . . ` According to the information I have received 60 people have died and 150 have been injured , ' said Chief Minister Vasundhara Raje , who rushed back to the state capital from Jodhpur . . . Bangladesh-based Harkut-ul-Jehadi Islami is suspected to be behind the blasts that has taken the state authorities by surprise , home ministry sources said . The sources ruled out the use of RDX in the carefully orchestrated low-intensity explosions which were suspected to have been set off from cycles in areas including near the famous Hawa Mahal which are frequented by domestic and foreign tourists . The blasts rocked Tripolia Bazar , where large number of devotees turned up at a Hanuman temple , Johari Bazar , Manas Chowk , Badi Choupal and Choti Choupal -- all located within a two-km radius in the old city . Inspector General -LRB- Jaipur -RRB- Pankaj Singh said in all there were seven blasts , a couple of them in the same area . . . Police said one explosive was defused by bomb disposal squad near the Hanuman temple . . . Blood was splattered at the scene of the blasts which tossed some of the victims several feet up in the sky . . . The Centre rushed bomb data squad of the National Security Guards to Jaipur . Rajasthan Director General of Police A S Gill said the blasts were ` obviously a terror attack . ' . . Doctors said many of the victims had shrapnel injuries . They feared that the toll may go up further . . . Rapid Action Force personnel were deployed in Jaipur to help deal with the situation as security was beefed up . One of the blasts took place in a car and another near a handloom shop in Kotwali area of the city , home department sources said . Most of the injured were rushed to Sawai Man Singh hospital . Bodies of several victims lay strewn in the corridors of hospitals . The blasts triggered a near-stampede situation at the blast sites were crammed with peak-hour shoppers and panic-stricken people ran helter skelter in search of safety . The Hanuman temple at Tripolia bazar was crowded with worshippers being a Tuesday . . . Indian Premier League Commisioner Lalit Modi said said the league match scheduled to be played in Jaipur on Saturday will go on as planned.Image : The scene near the blast site at the Hanuman Mandir in ChandpoleReportage : PTI | Photograph : Rajesh KumawatAlso Read : Trapped in Terror 's WakeIndia 's counter-terrorism strategyTerrorism : India 's unending warISI continues to train terror groups : Narayanan ` Most attacks in India by Pak-based terror groups ' A terrorist 's stunning revelationsWomen & kids : The new soldiers of terror .", 
+    "injured": "200", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Jaipur", 
+        ""
+    ], 
+    "O": [
+        "terrorists struck for the first time in jaipur:3", 
+        "seven blasts in a span of 12 minutes:12", 
+        "RDX:115", 
+        "carefully orchestrated low-intensity:118", 
+        "frequented by domestic and foreign tourists:142", 
+        "one explosive was defused:218", 
+        "centre rushed bomb data squad:258", 
+        "rapid action force personnel were deployed:314", 
+        "handloom shop:347", 
+        "several victims lay strewn in the corridors of hospitals:375", 
+        "near-stampede situation:389"
+    ], 
+    "unexpl": [
+        "NAILS"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2008/may/13rajblast.htm", 
+    "date": "13-05-2008", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Harkut-ul-Jehadi Islami", 
+            "85", 
+            "Accused"
+        ], 
+        [
+            "National Security Guards", 
+            "265", 
+            "Others"
+        ], 
+        [
+            "Sawai Man Singh hospital", 
+            "368", 
+            "Others"
+        ], 
+        [
+            "Indian Premier League", 
+            "427", 
+            "Others"
+        ]
+    ]
+}

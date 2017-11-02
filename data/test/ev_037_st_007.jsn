@@ -1,0 +1,154 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Bhangagarh", 
+            "74", 
+            "Neutral"
+        ], 
+        [
+            "Bhootnath", 
+            "130", 
+            "Event"
+        ], 
+        [
+            "Birubari Tiniali", 
+            "194", 
+            "Victim"
+        ], 
+        [
+            "Assam", 
+            "244", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "P. Chidambaram", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "G.M. Srivastava", 
+            "105", 
+            "Comment"
+        ], 
+        [
+            "Amal Das", 
+            "114", 
+            "Victim"
+        ], 
+        [
+            "Chidambaram", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "205", 
+            "Others"
+        ], 
+        [
+            "Chidambaram", 
+            "226", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "275", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "5.30 pm : 152", 
+        "3.30 pm : 188"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:36", 
+        "Friday:211", 
+        "January:223", 
+        "January 3:223"
+    ], 
+    "death": "5", 
+    "title": "5 killed, 50 injured in New Year day bombings in Assam", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Five people were killed and over 50 injured in three blasts allegedly set off by insurgent outfit United Liberation Front of Asom ( ULFA ) in the Assam 's important city , Guwahati , on Thursday hours before Union Home Minister P. Chidambaram 's visit to the state.Three people were killed and 35 injured , including four women , when a bomb planted in front of a closed sweet shop exploded near upmarket Bhangagarh flyover on the busy Guwahati-Shillong road at around 5:45 pm.Two persons died on way to hospital while another succumbed to his injuries at the Guwahati Medical College Hospital , DGP G.M. Srivastava said.Two of the dead were identified as Amal Das and Kahil Sheikh.A bomb kept in a bicycle exploded at a market in the Bhootnath area , the route which Chidambaram was to take on his way from the airport , under Baralumukh police station around 5.30 pm in which two persons were killed and 12 others injured , official sources said.An improvised explosive devise ( IED ) kept in a Gauhati Municipal Corporation ( GMC ) dustbin went off at around 3.30 pm injuring three people in Birubari Tiniali area.The blasts came a day ahead of Prime Minister Manmohan Singh 's arrival here on Friday en route Shillong to inaugurate the Indian Science Congress there on January 3 . Chidambaram arrived at the Lokopriyo Gopinath Bordoloi international airport on a two-day visit to the state to review Assam 's law and order situation in the wake of deadly blasts that left 88 dead two months ago and attend a meeting of the Unified Command headed by Chief Minister Tarun Gogoi . .", 
+    "injured": "50", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "guwahati", 
+        "Assam"
+    ], 
+    "O": [
+        "Union Home Minister:39", 
+        "sweet shop:69", 
+        "DGP:104", 
+        "Prime Minister:203", 
+        "Lokopriyo Gopinath Bordoloi international airport:230"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/5+killed,+50+injured+in+New+Year+day+bombings+in+Assam/1/24137.html", 
+    "date": "01-01-2009", 
+    "target": "", 
+    "hot_spot": "market in the Bhootnath,Assam", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "18", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "24", 
+            "Accused"
+        ], 
+        [
+            "Guwahati Medical College Hospital", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "Baralumukh police", 
+            "148", 
+            "Others"
+        ], 
+        [
+            "Gauhati Municipal Corporation", 
+            "177", 
+            "Others"
+        ], 
+        [
+            "GMC", 
+            "181", 
+            "Others"
+        ], 
+        [
+            "Indian Science Congress", 
+            "218", 
+            "Others"
+        ]
+    ]
+}

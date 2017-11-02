@@ -1,0 +1,146 @@
+{
+    "LOC": [
+        [
+            "France", 
+            "4", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Paris", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "49", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "France", 
+            "85", 
+            "Neutral"
+        ], 
+        [
+            "France", 
+            "112", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "133", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "167", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "183", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "210", 
+            "Neutral"
+        ], 
+        [
+            "France", 
+            "238", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "246", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Francois Hollande", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "Hollande", 
+            "87", 
+            "Comment"
+        ], 
+        [
+            "Hollande", 
+            "213", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "last week : 50", 
+        "last week : 204"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:125", 
+        "Friday:161"
+    ], 
+    "death": "16", 
+    "title": "France condemns Hyderabad attack, offers support", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi : France has condemned ` in the strongest terms ' the twin bombing in Hyderabad and said India can count on Paris ` ` steadfast support and cooperation ' in the fight against terrorism . . . French President Francois Hollande , who had come to India last week , ` most firmly condemns the attacks ' that struck the people of Hyderabad , said a statement . . . Conveying his heartfelt condolences to the victims ` families on behalf of France , Hollande expressed ` his complete solidarity with the Indian people and the government in the fight against terrorism , for which they can count on France ` s steadfast support and cooperation ' , the statement said on Friday . . . The twin blasts in Hyderabad left 16 people dead and over 100 injured . . . In another statement , the official spokesperson of the French Ministry of Foreign Affairs said on Friday that their Consul General in Bangalore had gone immediately to the site of the explosions ` to express our solidarity with India and ensure the safety of the French community ' . . . It said that both countries had affirmed during last week ` s visit to India by President Hollande that ` no compromise is possible with terrorists ' . . . ` Our two countries are determined to fight this threat together . France is ready to offer all cooperation that India may require , ' the statement said .", 
+    "injured": "100", 
+    "org_unorg": "", 
+    "O": [
+        "twin bombing:14", 
+        "terrorism:36", 
+        "attacks:58", 
+        "victims:79", 
+        "terrorism:104", 
+        "support and cooperation:116", 
+        "explosions:176", 
+        "french community:190", 
+        "terrorists:221"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/nation/france-condemns-hyderabad-attack-offers-support_830971.html", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "French Ministry of Foreign Affairs", 
+            "154", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "7", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Raj Bhawan", 
+            "150", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "302", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "308", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "361", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "390", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Tarun Gogoi", 
+            "10", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "106", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "128", 
+            "Comment"
+        ], 
+        [
+            "P Chidambaram", 
+            "134", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "242", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "272", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "321", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "323", 
+            "Comment"
+        ], 
+        [
+            "Sheikh Hasina", 
+            "339", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "371", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "373", 
+            "Comment"
+        ], 
+        [
+            "Hasina", 
+            "384", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:13"
+    ], 
+    "death": "5", 
+    "title": "Assam Chief Minister admits security lapses", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)", 
+        "NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)"
+    ], 
+    "content": "Guwahati : Admitting security lapses , Assam Chief Minister Tarun Gogoi on Thursday directed security forces to intensify operations against terrorists in the wake of three bomb blasts in Guwahati that left five dead and injured at least 51 others . . . Asked whether the blasts were the result of intelligence failure , he said , `` I do not say failure but lapses are there . '' . . `` No country can provide 100 per cent security and we do n't have the best intelligence . We need to improve and strengthen our police force apart from ensuring its modernisation , '' Gogoi said . . . The Chief Minister said the needle of suspicion for the blasts pointed towards ULFA . . . Gogoi also briefed Union Home Minister P Chidambaram on the law and order situation in the state at a meeting at the Raj Bhawan . . . The Chief Minister , who visited the blast sites , said he was shocked at the inhuman and cowardly act of the terrorists on the New Year day . He also directed security forces to intensify operations against terrorists . . . `` We have hoped to usher in peace in the New Year , but the blasts have forced us to intensify operations against the terrorists . I urge people to come forward and fight against these forces unitedly , '' he said . . . Gogoi directed health authorities to provide all possible help to the injured undergoing treatment at various hospitals in the city . . . Asked whether the blasts were timed with Chidambaram 's visit to the state capital , the Chief Minister said `` no '' . . . He also favoured the creation of a National Security Guard hub in Guwahati . . . Alleging that Bangladesh was providing shelter to ULFA and other terrorist outfits like NDFB , Gogoi asked Chidambaram to take up the matter with the new dispensation , headed by Awami League chief Sheikh Hasina , there . . . He said he was 100 per cent sure that India would put diplomatic pressure on Bangladesh not to give shelter to insurgents . . . Gogoi said Chidambaram told him it was a `` good signal '' that Hasina had come to power in Bangladesh . . . .", 
+    "injured": "51", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "guwahati", 
+        "Guwahati"
+    ], 
+    "O": [
+        "Union Home Minister:131", 
+        "National Security Guard:297"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/assam-chief-minister-admits-security-lapses-305238.html", 
+    "date": "01-01-2009", 
+    "target": "", 
+    "hot_spot": "Guwahati", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "124", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "313", 
+            "Accused"
+        ], 
+        [
+            "NDFB", 
+            "319", 
+            "Accused"
+        ], 
+        [
+            "Awami League", 
+            "336", 
+            "Others"
+        ]
+    ]
+}

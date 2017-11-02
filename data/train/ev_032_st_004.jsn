@@ -1,0 +1,76 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Bengpukhuri", 
+            "39", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "42", 
+            "Neutral"
+        ], 
+        [
+            "Athgaon", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "Fatasil Ambari", 
+            "74", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "evening : 46"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:24", 
+        "Sunday:45"
+    ], 
+    "death": "2", 
+    "title": "Serial blasts in Assam, 2 killed", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "", 
+        "Assam"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Two persons were killed and 18 injured as three serial blasts , suspected to have been triggered by ULFA , rocked Assam on Sunday . One person was killed and 16 injured in a car bomb explosion at Bengpukhuri area in Tinsukia town on Sunday evening , officials said . In another blast in Athgaon area here , one person was killed and two were injured . The third explosion took place in Fatasil Ambari area of the city but there was no report of any casualty . .", 
+    "injured": "18", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/Serial+blasts+in+Assam,+2+killed/1/2065.html", 
+    "date": "25-11-2007", 
+    "target": "", 
+    "hot_spot": "Assam", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "19", 
+            "Accused"
+        ]
+    ]
+}

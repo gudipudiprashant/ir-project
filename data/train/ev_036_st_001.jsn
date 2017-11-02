@@ -1,0 +1,167 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Kheroni village", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Kheroni", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Kheroni village", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "central Assams Karbi Anglong", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Karbi Anglong", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "Anglong district", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Anglong district", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Diphu", 
+            "138", 
+            "Neutral"
+        ], 
+        [
+            "Diphu", 
+            "162", 
+            "Neutral"
+        ], 
+        [
+            "Dolamara", 
+            "183", 
+            "Neutral"
+        ], 
+        [
+            "Jagiroad", 
+            "238", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Chander Prakash", 
+            "234", 
+            "Others"
+        ], 
+        [
+            "Assams", 
+            "241", 
+            "Others"
+        ], 
+        [
+            "Assams Morigaon", 
+            "241", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "evening : 34"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:33", 
+        "Tuesday:112"
+    ], 
+    "death": "", 
+    "title": "Nine injured in Assam market blast", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "KARBI ANGLONG", 
+        "GUWAHATI", 
+        "marketplace near Kheroni village in central Assams Karbi Anglong district"
+    ], 
+    "terror_group": [
+        "KARBI LONGRI N.C. HILLS LIBERATION FRONT"
+    ], 
+    "content": "Special Correspondent . . GUWAHATI : Nine persons , including two children , were injured in a bomb blast at a marketplace near Kheroni village in central Assams Karbi Anglong district on Saturday evening . Police suspect the hand of the extremist outfit Karbi Longri N.C. Hills Liberation Front -LRB- KLNLF -RRB- behind the blast . . . The condition of one of the injured was stated to be critical . . . The blast coincided with the KLNLFs foundation day . It was the second blast suspected to have been triggered by the KLNLF in the past five days since the indefinite economic blockade called by the outfit began on Tuesday . . . Earlier in the day , the police recovered a live bomb from near the office of the Autonomous State Demand Committee in Diphu town , which was later defused . . . The KLNLF had claimed the responsibility for Tuesdays blast in a passenger train at Diphu railway station that claimed three lives and left 32 injured . The outfit also gunned down two Hindi-speaking persons at Dolamara village of the district . . . The Army on the other hand succeeded in motivating eight KLNLF cadres to give up violence and return to the mainstream . . . The eight cadres laid down arms and ammunition before General-Officer-Commanding -LRB- GOC -RRB- 21 Mountain Division , Major General Chander Prakash , at Jagiroad in central Assams Morigaon district . The arms included AK-56 rfiles , a 9mm pistol , a .32 revolver , a few grenades , explosives , detonators , ammunition and a hand-held radio set .", 
+    "injured": "9", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/nine-injured-in-assam-market-blast/article1390258.ece", 
+    "date": "06-12-2008", 
+    "target": "", 
+    "hot_spot": "marketplace near Kheroni village in central Assams Karbi Anglong district", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Police", 
+            "36", 
+            "Others"
+        ], 
+        [
+            "Karbi Longri N.C. Hills Liberation Front", 
+            "44", 
+            "Others"
+        ], 
+        [
+            "KLNLF", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "KLNLF", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "Autonomous State Demand Committee", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "KLNLF", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "Army", 
+            "192", 
+            "Others"
+        ], 
+        [
+            "KLNLF", 
+            "201", 
+            "Others"
+        ]
+    ]
+}

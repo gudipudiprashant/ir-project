@@ -1,0 +1,87 @@
+{
+    "LOC": [
+        [
+            "Bhadrachalam", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "39", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "41", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:44"
+    ], 
+    "death": "", 
+    "title": "Security at Bhadradri temple in focus again", 
+    "det_loc": [
+        "India", 
+        "TELANGANA", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The long-pending proposals for up-gradation of the existing security mechanism at the famous Sri Seetharamachandra Swamy temple in Bhadrachalam have once again come into sharp focus in the aftermath of the bomb blast at the temple city of Varanasi in Uttar Pradesh on Tuesday . . . Dog squad . . Sources say that the security agencies concerned have issued instructions to the personnel manning the temple to remain vigilant to prevent untoward incidents during the ensuing Vaikunta Ekadasi festival , which attracts thousands of devotees to the shrine . . . A dog squad has also been deployed at the temple as part of heightened security measures . . . However , the deficiencies in the existing security mechanism , particularly the inadequate number of security personnel and lack of sophisticated security devices , have become a cause for concern . . . The temple security is being manned by the Special Protection Force consisting of two head constables and nine constables , in association with the town police . . . Foolproof plan . . In an effort to revamp the security set-up at the temple , the authorities concerned have drawn up a foolproof security plan and sent the proposals to the government for up-gradation of the whole security system at the temple long ago , sources added . . . The plan envisages enhancement of the security and surveillance mechanism , including strengthening of the existing CCTV camera system , and appointment of a SI rank officer to head the SPF team at the temple .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Sri Seetharamachandra Swamy temple:14", 
+        "temple city:36", 
+        "Dog squad:48", 
+        "Vaikunta Ekadasi festival:78", 
+        "shrine:89", 
+        "dog squad:94", 
+        "temple:102", 
+        "temple:146", 
+        "SI rank officer:249", 
+        "temple:259"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/security-at-bhadradri-temple-in-focus-again/article943277.ece", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Special Protection Force", 
+            "153", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "temple", 
+            "188", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "206", 
+            "Others"
+        ]
+    ]
+}

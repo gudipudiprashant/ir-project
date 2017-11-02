@@ -1,0 +1,122 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "10", 
+            "Neutral"
+        ], 
+        [
+            "Saibaba temple", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "44", 
+            "Neutral"
+        ], 
+        [
+            "Gokul Chat", 
+            "49", 
+            "Event"
+        ], 
+        [
+            "Kothi", 
+            "52", 
+            "Neutral"
+        ], 
+        [
+            "Lumbini Park", 
+            "54", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "75", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar ?", 
+            "117", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "148", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "159", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "173", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "Vijayawada", 
+            "278", 
+            "Neutral"
+        ], 
+        [
+            "Guntur", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "Tenali", 
+            "282", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "evening : 356", 
+        "6 p.m.:391", 
+        "9 p.m.:394"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "2002:31", 
+        "Thursday:355"
+    ], 
+    "death": "", 
+    "title": "Dilsukhnagar: a target yet again", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "It was the third time in last decade that Dilsukhnagar has been targeted by terrorists . The bustling residential-commercial centre had earlier witnessed a bomb blast at Saibaba temple in 2002 , which claimed two lives . . . Five years later , Hyderabad experienced twin blasts at Gokul Chat in Kothi and Lumbini Park in front of the Secretariat . The terrorists had also planted a bomb at the foot over bridge in Dilsukhnagar , but it was detected and defused in time . And now again by a quirk of fate , five years later , the same area is rocked by blasts . . . Why do the terror planners keep returning to Dilsukhnagar ? Is it because of the high concentration of crowds so that maximum damage could be inflicted ? . . Located almost on the south-eastern tip of the city , Dilsukhnagar ranks high among the densely populated and busy corridors of Hyderabad . Given the numerous middle class colonies in the vicinity , the central Dilsukhnagar area around the bus stop teems with crowds throughout the day , peaking during the evenings . . . The bus stop here connects to almost all the parts of the city and thus has a large fleet of buses making a halt here to pick up and drop commuters . In the 1980s and 90s , Dilsukhnagar was the most preferred location by the government employees for setting up home and even now , sundown sees a large administrative staff getting down from buses here to return home . . . The location is the last pick up point for passengers heading for Vijayawada , Guntur , Tenali and parts of the coastal region , which adds to the crowd presence here . Also , the surroundings of the bus stop here have metamorphosed into a beehive of commercial activity with road side kiosks to well furnished showrooms and a couple of film theatres . . . Also , the bomb attack site is close to the popular Sai Baba temple which draws devotees in large numbers , particularly on Thursday evening when aarti is held around the sunset . . . With little or no mechanism to control and streamline the movement of crowds along or across the roads , chaotic conditions prevail particularly between 6 p.m. to 9 p.m. . . At the same time , the area does not get adequate attention from security agencies . The focus that is paid to other parts of the main city or even the emerging IT corridors on peripheries is not accorded here .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "TELANGANA", 
+        "", 
+        "Hyderabad", 
+        "Saibaba temple"
+    ], 
+    "O": [
+        "government:239"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/dilsukhnagar-a-target-yet-again/article4441518.ece", 
+    "date": "21-11-2002", 
+    "target": "TEMPLE", 
+    "hot_spot": "Saibaba temple", 
+    "delivery_mod": "FOOT OVER BRIDGE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

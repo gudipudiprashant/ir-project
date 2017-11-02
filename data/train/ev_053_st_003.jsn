@@ -1,0 +1,228 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Palika Bazar", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Sena Bhavan", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Capital", 
+            "31", 
+            "Neutral"
+        ], 
+        [
+            "Army Headquarters canteen", 
+            "78", 
+            "Event"
+        ], 
+        [
+            "Sena Bhavan", 
+            "83", 
+            "Event"
+        ], 
+        [
+            "Bhavan", 
+            "108", 
+            "Event"
+        ], 
+        [
+            "Army Headquarters ' canteen", 
+            "136", 
+            "Event"
+        ], 
+        [
+            "Army Headquarters canteen", 
+            "280", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "306", 
+            "Event"
+        ], 
+        [
+            "Red Fort", 
+            "386", 
+            "Neutral"
+        ], 
+        [
+            "Capital", 
+            "407", 
+            "Neutral"
+        ], 
+        [
+            "Capital", 
+            "454", 
+            "Neutral"
+        ], 
+        [
+            "Sena Bhavan", 
+            "470", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "R.P. Singh", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "R.P. Singh", 
+            "273", 
+            "Others"
+        ], 
+        [
+            "Suresh Roy", 
+            "312", 
+            "Comment"
+        ], 
+        [
+            "Roy", 
+            "356", 
+            "Comment"
+        ], 
+        [
+            "Kishan Arora", 
+            "463", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "week : 7", 
+        "today : 32", 
+        "3.07 p.m. : 70", 
+        "3.14 p.m. : 92", 
+        "todays : 351"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 9 : 4", 
+        "April 10 : 337", 
+        "January 21 : 384"
+    ], 
+    "death": "", 
+    "title": "Two bomb blasts near Army HQ Syed Ali Ahmed", 
+    "org_unorg": "", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "New Delhi , May 9 A week after a crude bomb was discovered in the famous Palika Bazar , two bombs exploded near Sena Bhavan in the heart of the Capital today , injuring a 56-year-old man . . . Mr R.P. Singh , who sustained splinter injuries in his chest and mouth , is recuperating in Ram Manohar Lohia Hospital . . . The first explosion occurred at 3.07 p.m. at the parking lot of the Army Headquarters canteen , opposite Sena Bhavan . The second explosion took place at 3.14 p.m. in a garbage dumped under a neem tree near gate number two of the Bhavan , just behind the Prime Ministers Office . . . The first bomb is supposed to have been kept on the carrier of a cycle at the Army Headquarters ' canteen . The cycle and a Hero Honda motor cycle were damaged . As the bombs exploded there was panic among the passersby and employees in various government offices located in the area . Top police officials and forensic experts reached the spot and the entire area was cordoned off . . . The investigators at the spot also recovered two timer devices , one nine volt battery and a detonator wire and lifted samples of the remnants . . . The security personnel detained a person from near the spot immediately after the blast and whisked him away . However , he looked like a Kashmiri . . . Anti-sabotage squads also sanitised the area to make sure that there was no other bomb planted in the high-security area . . . Mr R.P. Singh , an employee in the Army Headquarters canteen sustained injuries as he was standing near the cycle on which the bomb was apparently kept . The Joint Commissioner of Police ( New Delhi Range ) , Mr Suresh Roy , said the blasts were of low intensity and were triggered with crude bombs similar to the one recovered from North Block on April 10 . . . While not ruling out the involvement of militants in todays bomb explosion , Mr Roy said : It is too early to name the militant group involved in the twin blasts . . . It may be recalled that soon after the January 21 Red Fort shoot-out incident the Pakistan-backed Lashkar-e-Toiba militant outfit had made an open threat to strike at vital installations in the Capital , including the Prime Ministers Office . . . Even as the Special Cell in tandem with the Crime Branch of the Delhi Police began a probe into the blasts , senior police officials expressed apprehensions that the anti-national elements could trigger more blasts in the Capital . . . An eye witness , Mr Kishan Arora , who is working in Sena Bhavan , said when the bomb exploded only one person was standing near the cycle . He fell down just after the blast . Though the explosion was not of high intensity we thought that there was something wrong . The next moment we saw the person standing near the cycle , lying on the ground . . . He said it is very difficult to find out the culprit as it is a public place . . . An Army official said only traffic is managed by the Army in this area . It is not responsible for the security . The Delhi Police is responsible for the security in the area .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        ""
+    ], 
+    "O": [
+        "crude bomb:10", 
+        "two bombs exploded:20", 
+        "56-year-old:36", 
+        "splinter:47", 
+        "first explosion:66", 
+        "parking lot:74", 
+        "second explosion:87", 
+        "garbage dumped:96", 
+        "Prime Ministers Office:113", 
+        "first bomb:120", 
+        "cycle:133", 
+        "cycle:142", 
+        "Hero Honda motor cycle:145", 
+        "bombs:154", 
+        "forensic experts:177", 
+        "two timer devices:199", 
+        "one nine volt battery:203", 
+        "detonator:209", 
+        "blast:233", 
+        "whisked:235", 
+        "Kashmiri:245", 
+        "sanitised:252", 
+        "bomb planted:263", 
+        "high-security area:267", 
+        "cycle:291", 
+        "bomb:295", 
+        "New Delhi Range:306", 
+        "blasts:317", 
+        "low intensity:320", 
+        "crude bombs:326", 
+        "North Block:334", 
+        "militants:349", 
+        "bomb explosion:352", 
+        "militant group:366", 
+        "twin blasts:371", 
+        "shoot-out:388", 
+        "Pakistan-backed:391", 
+        "militant outfit:393", 
+        "Special Cell:420", 
+        "Crime Branch:426", 
+        "blasts:437", 
+        "anti-national elements:446", 
+        "blasts:451", 
+        "bomb exploded:476", 
+        "blast:493", 
+        "explosion:497", 
+        "culprit:540"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.tribuneindia.com/2001/20010510/main2.htm", 
+    "date": "09-05-2001", 
+    "target": "MILITARY GROUP", 
+    "hot_spot": "", 
+    "delivery_mod": "BICYCLES, DUSTBIN, POLYTHENE BAGS", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "Ram Manohar Lohia Hospital", 
+            "58", 
+            "Others"
+        ], 
+        [
+            "Anti-sabotage squads", 
+            "249", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Toiba", 
+            "392", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "430", 
+            "Others"
+        ], 
+        [
+            "Army", 
+            "551", 
+            "Accused"
+        ], 
+        [
+            "Army", 
+            "560", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "574", 
+            "Others"
+        ]
+    ]
+}

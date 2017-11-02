@@ -1,0 +1,195 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Bangladeshs", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "70", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "129", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "190", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "200", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "206", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Asaduzzaman Khan Kamal", 
+            "75", 
+            "Comment"
+        ], 
+        [
+            "Shakil Ahmed", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "Sobhan Mandal", 
+            "96", 
+            "Others"
+        ], 
+        [
+            "Hasan Saheb", 
+            "140", 
+            "Victim"
+        ], 
+        [
+            "Rajira Bibi", 
+            "150", 
+            "Accused"
+        ], 
+        [
+            "Rumi", 
+            "153", 
+            "Accused"
+        ], 
+        [
+            "Amina Bibi", 
+            "155", 
+            "Accused"
+        ], 
+        [
+            "Hafez Mollah", 
+            "158", 
+            "Accused"
+        ], 
+        [
+            "Hasan", 
+            "161", 
+            "Accused"
+        ], 
+        [
+            "Syed Akbaruddin", 
+            "174", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:4", 
+        "October 2:210"
+    ], 
+    "death": "", 
+    "title": "Bangladesh extremists finding shelter in W.B.?", 
+    "org_unorg": "", 
+    "terror_group": [
+        "JAMAATUL MUJAHIDEEN BANGLADESH (JMB)"
+    ], 
+    "content": "Investigations of the October 2 explosion in Bardhaman have indicated that extremists may be taking shelter in West Bengal . One of those arrested suspected of belonging to the banned Jamaatul Mujahideen Bangladesh allegedly confessed that bombs were being assembled for terror strikes across the border . . . Bangladeshs elite anti-terror Rapid Action Battalion is currently verifying names and identities that have emerged from the Indian probe . Bangladesh Minister for Home Affairs Asaduzzaman Khan Kamal said India had not yet officially provided the nationality of the two persons suspected militants Shakil Ahmed and Sobhan Mandal killed in the blast . We are always against terrorism . We will not allow anyone to use our land to conduct militant or terrorist activities against our country or neighbouring India , he said . Besides the two killed , one Hasan Saheb was injured in the blast ; three persons Rajira Bibi alias Rumi , Amina Bibi and Hafez Mollah alias Hasan have been arrested . According to Indian Ministry of External Affairs spokesperson Syed Akbaruddin , Indian investigating agencies have been asked to collate and tabulate information on the Bardhaman blast to be shared with Bangladesh . . . Bangladesh has offered all support to India in probing the October 2 incident .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Investigations:1", 
+        "explosion:6", 
+        "extremists:12", 
+        "shelter:16", 
+        "arrested:24", 
+        "suspected:25", 
+        "banned:30", 
+        "confessed:35", 
+        "bombs:37", 
+        "assembled:40", 
+        "terror strikes:42", 
+        "border:46", 
+        "Bangladeshs elite anti-terror:50", 
+        "names and identities:59", 
+        "emerged:64", 
+        "Indian probe:67", 
+        "officially provided:83", 
+        "suspected militants:91", 
+        "killed:98", 
+        "blast:101", 
+        "terrorism:107", 
+        "militant:120", 
+        "terrorist activities:122", 
+        "two killed:136", 
+        "injured:143", 
+        "blast:146", 
+        "arrested:164", 
+        "collate and tabulate information:184", 
+        "Bardhaman blast:190", 
+        "support:204", 
+        "probing:208"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/bangladesh-extremists-finding-shelter-in-wb/article6494829.ece", 
+    "date": "02-10-2014", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Jamaatul Mujahideen Bangladesh", 
+            "31", 
+            "Accused"
+        ], 
+        [
+            "Rapid Action Battalion", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "Indian Ministry of External Affairs", 
+            "168", 
+            "Others"
+        ], 
+        [
+            "Indian investigating agencies", 
+            "177", 
+            "Others"
+        ]
+    ]
+}

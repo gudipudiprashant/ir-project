@@ -1,0 +1,203 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "NEW DELHI", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "36", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi railway station", 
+            "36", 
+            "Assoc_Event"
+        ], 
+        [
+            "Chheh Tuti Chowk", 
+            "49", 
+            "Event"
+        ], 
+        [
+            "Paharganj area", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "Central Delhi", 
+            "57", 
+            "Event"
+        ], 
+        [
+            "Paharganj", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Paharganj ,", 
+            "85", 
+            "Neutral"
+        ], 
+        [
+            "Sarojini Nagar", 
+            "87", 
+            "Event"
+        ], 
+        [
+            "Govindpuri", 
+            "90", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "100", 
+            "Neutral"
+        ], 
+        [
+            "Red Fort", 
+            "236", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "292", 
+            "Neutral"
+        ], 
+        [
+            "Govindpuri", 
+            "302", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Karnal Singh", 
+            "119", 
+            "Comment"
+        ], 
+        [
+            "Sanjeev", 
+            "324", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 61", 
+        "afternoon : 182"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:60", 
+        "Saturday:75", 
+        "Sunday:181", 
+        "Saturday:255"
+    ], 
+    "death": "", 
+    "title": "Several persons rounded up for questioning", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "New Delhi Several persons rounded up for questioning . . Staff Reporter . . NEW DELHI : Even as there were unconfirmed reports of two residents of Jammu and Kashmir having been picked up from New Delhi railway station on suspicion of their involvement in the blast at Chheh Tuti Chowk in the Paharganj area of Central Delhi on Saturday evening , several others were rounded up for questioning . . . Late on Saturday night , all the three bomb blast cases at Paharganj , Sarojini Nagar and Govindpuri were handed over to the Special Cell of the Delhi police . Subsequently , several teams were formed to conduct raids . The Joint Commissioner of Police , Karnal Singh , said investigations had started , but the police were still in the process of collecting clues . . . ` RDX used ' . . While the Union Home Ministry said that RDX was used in the explosion , the police are trying to reconstruct the sequence of events leading to the blasts . ` We hope that by Sunday afternoon we will have enough clues to carry forward the probe in the right direction , ' said a senior police officer . . . Incidentally , the bombs were triggered on a day when a city court was to pronounce sentences fixed for seven convicts , including Lashkar-e-Toiba militants , involved in the Red Fort attack case . ` We are yet to confirm the identity of the terrorist group involved in Saturday 's serial blasts , ' said the police officer , adding that it was too pre-mature to reach any conclusion at this stage . . . Meanwhile , the police were questioning the passengers of the Delhi Transport Corporation bus in which a bomb exploded at Govindpuri to get clues to the identity of the person who had left the bag near a seat . A passenger named Sanjeev , who was also travelling in that bus , claimed that he had seen the man alight from the vehicle minutes before the bomb exploded .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "NEW DELHI ", 
+        "Chheh Tuti Chowk in the Paharganj area "
+    ], 
+    "O": [
+        "Staff Reporter:11", 
+        "three bomb:80", 
+        "Joint Commissioner:114", 
+        "RDX:142", 
+        "RDX:154", 
+        "serial blasts:257", 
+        "bus:295", 
+        "bus:332", 
+        "vehicle:344"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/10/30/stories/2005103020270300.htm", 
+    "date": "15-10-2005", 
+    "target": "", 
+    "hot_spot": "Chheh Tuti Chowk in the Paharganj area ", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "police", 
+            "101", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "117", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "129", 
+            "Others"
+        ], 
+        [
+            "Union Home Ministry", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "162", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "202", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Toiba", 
+            "230", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "263", 
+            "Others"
+        ], 
+        [
+            "police officer", 
+            "263", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "285", 
+            "Others"
+        ], 
+        [
+            "Delhi Transport Corporation", 
+            "292", 
+            "Others"
+        ]
+    ]
+}

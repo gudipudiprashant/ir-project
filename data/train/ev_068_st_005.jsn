@@ -1,0 +1,235 @@
+{
+    "LOC": [
+        [
+            "Uttar Pradesh", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Gorakhpur", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "25", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Gorakhpur", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "Gorakhpur", 
+            "64", 
+            "Event"
+        ], 
+        [
+            "Gorakhpur", 
+            "113", 
+            "Event"
+        ], 
+        [
+            "Gorakhpur", 
+            "136", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "179", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "197", 
+            "Event"
+        ], 
+        [
+            "Allahabad", 
+            "242", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "244", 
+            "Neutral"
+        ], 
+        [
+            "Kanpur", 
+            "306", 
+            "Neutral"
+        ], 
+        [
+            "Gorakhpur", 
+            "318", 
+            "Event"
+        ], 
+        [
+            "Baldev Plaza", 
+            "453", 
+            "Event"
+        ], 
+        [
+            "Ganesh Hotel", 
+            "464", 
+            "Event"
+        ], 
+        [
+            "Jalkal Building", 
+            "468", 
+            "Event"
+        ], 
+        [
+            "Mecca mosque", 
+            "553", 
+            "Assoc_Event"
+        ], 
+        [
+            "Hyderabad", 
+            "556", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mayawati", 
+            "5", 
+            "Comment"
+        ], 
+        [
+            "Mayawati", 
+            "34", 
+            "Comment"
+        ], 
+        [
+            "R.K. Chaturvedi", 
+            "299", 
+            "Comment"
+        ], 
+        [
+            "Suryakant Tripathi", 
+            "369", 
+            "Comment"
+        ], 
+        [
+            "Pradeep Singh", 
+            "438", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "today : 6", 
+        "today : 35", 
+        "today : 137", 
+        "7.00 p.m.:509", 
+        "p.m.:510", 
+        "five minutes : 518", 
+        "last week : 560"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 23 : 27", 
+        "Tuesday : 141", 
+        "Wednesday : 157", 
+        "Tuesday : 542"
+    ], 
+    "death": "", 
+    "title": "Mayawati orders thorough probe into Gorakhpur blasts", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Gorakpur", 
+        "Lucknow", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Uttar Pradesh Chief Minister Mayawati today said that senior officials have been rushed to Gorakhpur District to conduct a thorough probe . . . Lucknow , May 23 : Uttar Pradesh Chief Minister Mayawati today said that senior officials have been rushed to Gorakhpur District to conduct a `` thorough probe '' . . . Suspecting a `` big conspiracy '' behind the Gorakhpur serial blasts , in which six persons were injured , she said the state police chief , Principal Secretary ( home ) , Additional Director General of Police ( Law and Order ) and Additional Director General of Police ( Special Task Force ) had been sent to Gorakhpur by air to monitor the investigation . . . Traders and activists of the Hindu Yuva Vahini are observing a shutdown in Gorakhpur today in protest against Tuesday 's three bomb blasts in the town 's busiest shopping area . . . On Wednesday , police said they had recovered 10 kgs of explosives and 20 litres of ammonium nitrate from a railway station in Faizabad at around 2.00 a.m.According to the police , the explosives were recovered during a search . . Uttar Pradesh has been placed on state of high alert following the incident . . . Security has also been beefed around the famous Dwarkadheesh , Bankey Behari Ji , Daan Ghati and Krishna Balram and Gorakhnath temples and in the nearby holy towns of Allahabad and Varanasi . . . Orders for special vigil at the fair of Goverdhan where scores of pilgrims perform Parikrama of hillock Goverdhan were issued . . . Checking in yellow Zone area at the two shrines of Sri Krishna Janmasthan has also begun with special vigil at railway and bus stations , District Police Chief R.K. Chaturvedi said . . . A Kanpur report said security has been beefed up in the city following Gorakhpur blasts . . . `` Security measures have been put in place . Strict checking is on across all cinemas , railway stations , bus stations . People are being urged not to lend ears to rumours and to report if they come across any unattended object , '' said Suryakant Tripathi , a senior police officer . . . Police have been placed on alert in the city and exit points , besides the India-Nepal border . . . Local said the explosions were created to spread terror and create a rift among the people . . . `` The blasts were aimed at spreading terror among people . It targeted the harmony among people , '' said Pradeep Singh , a local . . . The first blast took place near the Baldev Plaza shopping complex . Two more bombs exploded at the Ganesh Hotel and the Jalkal Building respectively . . . The bombs were wrapped in polythene bags and packed in tiffin boxes before being planted on bicycles and a scooter parked in crowded places in the city . . . The blasts went off around 7.00 p.m. , each with an interval of about five minutes . . . The Union Home Ministry has reportedly asked the State Government to give details about the blasts . . . Tuesday 's serial blasts came after a bomb blast at the Mecca mosque in Hyderabad that killed 13 last week . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .", 
+    "injured": "6", 
+    "org_unorg": "", 
+    "O": [
+        "thorough probe:20", 
+        "thorough probe:50", 
+        "big conspiracy:59", 
+        "serial blasts:65", 
+        "injured:73", 
+        "Law and Order:94", 
+        "investigation:119", 
+        "Traders:123", 
+        "activists:125", 
+        "three bomb blasts:143", 
+        "explosives:167", 
+        "ammonium nitrate:172", 
+        "railway station:176", 
+        "explosives:189", 
+        "high alert:205", 
+        "Dwarkadheesh:221", 
+        "Bankey Behari Ji:223", 
+        "Daan Ghati:227", 
+        "Krishna Balram:230", 
+        "Gorakhnath temples:233", 
+        "Goverdhan:256", 
+        "pilgrims:260", 
+        "Parikrama:262", 
+        "hillock Goverdhan:264", 
+        "Sri Krishna Janmasthan:281", 
+        "railway:291", 
+        "bus stations:293", 
+        "blasts:319", 
+        "railway stations:340", 
+        "bus stations:343", 
+        "India-Nepal border:394", 
+        "explosions:402", 
+        "terror:407", 
+        "blasts:420", 
+        "terror:425", 
+        "first blast:447", 
+        "bombs exploded:460", 
+        "bombs:475", 
+        "polythene bags:479", 
+        "tiffin boxes:484", 
+        "planted:488", 
+        "bicycles:490", 
+        "scooter parked:493", 
+        "blasts:538", 
+        "serial blasts:544", 
+        "bomb blast:549"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.andhranews.net/India/2007/May/23-Mayawati-orders-thorough-2239.asp", 
+    "date": "22-05-2007", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "PLASTIC BAG", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": [
+        [
+            "Special Task Force", 
+            "105", 
+            "Others"
+        ], 
+        [
+            "Hindu Yuva Vahini", 
+            "128", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "531", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,238 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "2", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "41", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "117", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "149", 
+            "Event"
+        ], 
+        [
+            "Aurangabad", 
+            "196", 
+            "Assoc_Event"
+        ], 
+        [
+            "Marathwada", 
+            "201", 
+            "Assoc_Event"
+        ], 
+        [
+            "Maharashtra", 
+            "204", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "222", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "240", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "249", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "305", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "349", 
+            "Neutral"
+        ], 
+        [
+            "Churchgate station", 
+            "377", 
+            "Event"
+        ], 
+        [
+            "Churchgate station", 
+            "433", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "438", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "455", 
+            "Event"
+        ], 
+        [
+            "Churchgate station", 
+            "467", 
+            "Event"
+        ], 
+        [
+            "Churchgate", 
+            "535", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "A N Roy", 
+            "308", 
+            "Others"
+        ], 
+        [
+            "K P Raghuvanshi", 
+            "318", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "6:15:365", 
+        "6:15 pm:365", 
+        "pm:366", 
+        "6 pm:402", 
+        "6.30 pm:405", 
+        "6.15 pm:481"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "2002:57", 
+        "2003:59", 
+        "Tuesday:344"
+    ], 
+    "death": "190", 
+    "title": "New Lashkar module maybe behind blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "The Mumbai police suspect that a new module of the Lashkar-e-Tayiba that may have penetrated Mumbai recently , could be responsible for yesterday 's serial bomb blasts that killed over 190 people and left over 600 injured . . . Mumbai crime branch officials , who probed the blasts conducted by the Lashkar in Mumbai in 2002 and 2003 , told PTI that the entire LeT module involved in those blasts had been exposed . Two to three LeT operatives from the module , who are absconding , do not seem to be involved in yesterday 's blasts , they said . . . ` It could be an entirely new LeT module that has entered Mumbai with the specific assignment of executing yesterday 's blasts , ' officials said . . . From the damage caused to the railway compartments and the number of casualties , the Mumbai police suspect the use of RDX in the blasts , but tjey are also not ruling out the possibility of compacted low-intensity explosives . This possibility is being explored against the backdrop of the seizure of 43 kg of RDX by the Anti Terrorists Squad from Aurangabad and other parts of Marathwada and north Maharashtra in the past few months . . . ` More RDX consignments could still be hidden in Mumbai and around , and the same may have been used in yesterday 's blasts , ' a Mumbai police official said . . . A senior Mumbai crime branch officer told PTI that there was a definite pattern in the blasts and the entire operation was executed with great precision . The samples collected from the blast-hit trains have been sent for forensic examination , and experts said it would take some time to reach a definite conclusion . . . While Mumbai Police Commissioner A N Roy could not be contacted , ATS chief K P Raghuvanshi told PTI , ` It it too premature to comment on the issue . ' . . Meanwhile , an initial probe into Tuesday 's serial blasts in Mumbai 's suburban trains has revealed that the explosions were probably timed to trigger off at 6:15 pm , and the explosive devices could have been loaded at Churchgate station , the police said today . . . All the seven blasts aboard suburban trains on the Western Railway line took place between 6 pm and 6.30 pm yesterday , and the pattern that has been derived by the police is that all took place on north-bound slow and fast trains that originated from Churchgate station . . . Mumbai Crime Branch sources told PTI that going by the previous experiences of the train blasts in Mumbai , it was likely that the explosive devices were loaded at Churchgate station and were fitted with commonly used mechanical timers set to explode at 6.15 pm . . . ` The perpetrators wanted to create an atmosphere of terror and knew that triggering simultaneous blasts in various parts of the city would serve the purpose , ' a senior crime branch official said , adding that the suspects may have disembarked from the trains at stations immediately after Churchgate . .", 
+    "injured": "600", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        ""
+    ], 
+    "O": [
+        "module:8", 
+        "lashkar-e-tayiba:11", 
+        "serial bomb:25", 
+        "rdx:155", 
+        "43 kg:186", 
+        "seven:389", 
+        "suburban trains:392", 
+        "railway:397", 
+        "train:452", 
+        "mechanical:475", 
+        "set:477"
+    ], 
+    "unexpl": [
+        "MECHANICAL TIMERS"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/12mumtrain.htm", 
+    "date": "11-07-2006", 
+    "target": "RAILWAY", 
+    "hot_spot": "Churchgate Railway Station", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "Lashkar-e-Tayiba", 
+            "11", 
+            "Accused"
+        ], 
+        [
+            "Lashkar", 
+            "53", 
+            "Accused"
+        ], 
+        [
+            "PTI", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "66", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "79", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "112", 
+            "Accused"
+        ], 
+        [
+            "Anti Terrorists Squad", 
+            "192", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "254", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "316", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "322", 
+            "Others"
+        ], 
+        [
+            "Railway", 
+            "397", 
+            "Victim"
+        ], 
+        [
+            "Mumbai Crime Branch", 
+            "438", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "443", 
+            "Others"
+        ]
+    ]
+}

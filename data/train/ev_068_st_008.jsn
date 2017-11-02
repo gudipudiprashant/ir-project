@@ -1,0 +1,132 @@
+{
+    "LOC": [
+        [
+            "Golghar", 
+            "67", 
+            "Accused"
+        ], 
+        [
+            "Mayabazar", 
+            "74", 
+            "Accused"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "295", 
+            "Neutral"
+        ], 
+        [
+            "Gorakhpur", 
+            "316", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "R K Rai", 
+            "45", 
+            "Comment"
+        ], 
+        [
+            "Sameer", 
+            "62", 
+            "Accused"
+        ], 
+        [
+            "Iftekhar", 
+            "69", 
+            "Accused"
+        ], 
+        [
+            "Rai", 
+            "125", 
+            "Comment"
+        ], 
+        [
+            "P Amitabh Yash", 
+            "228", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 54", 
+        "12pm : 119", 
+        "4pm : 121", 
+        "five minutes : 270", 
+        "7 pm : 274", 
+        "yesterday : 298"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 24:3", 
+        "Thursday:8", 
+        "Tuesday:27", 
+        "Tuesday:123", 
+        "Tuesday:286"
+    ], 
+    "death": "", 
+    "title": "Gorakhpur blasts: Sketches released", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Gorakhpur , May 24 : Police on Thursday released the sketches of two persons allegedly involved in the serial bomb blasts that rocked the city on Tuesday and announced a reward of Rs 10,000 for information leading to their arrest . . . SSP R K Rai told a press conference here this evening that the two have been identified as Sameer ( 16 ) of Golghar and Iftekhar ( 21 ) of Mayabazar locality here . . . Their sketches have been drawn on the basis of interrogation of a bicycle shop owner , he said . . . The duo purchased the bicycle , which were used in the blasts , from the same shop at 12pm and 4pm on Tuesday , Rai said . . . The SSP said the investigation into the explosions is going on in the ` right direction ' and the police declared a reward of Rs 10,000 for the information leading to the arrest of these two people . . . Meanwhile , police have traced the shop from where cycles used in the Gorakhpur serial blasts were bought and two persons , including the shop owner , are being quizzed for clues . . . ` We have found some clues . The investigation is progressing in the right direction , ' Special Task Force Superintendent of Police P Amitabh Yash said without divulging the details . . . He said the investigators are questioning two persons , including the cycle shop owner . . . Three crude bombs kept in tiffin boxes and tied to cycles went off at five minutes interval after 7 pm in a crowded shopping area of this temple town on Tuesday , injuring five persons . . . The Uttar Pradesh government yesterday ruled out use of the deadly RDX or any timer device in the low-intensity serial blasts in Gorakhpur that left six injured . . . Bureau Report .", 
+    "injured": "5", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Gorakpur", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "serial bomb blasts:19", 
+        "reward:31", 
+        "arrest:40", 
+        "press conference:50", 
+        "sketches:81", 
+        "interrogation:89", 
+        "bicycle:92", 
+        "bicycle:105", 
+        "blasts:112", 
+        "investigation:134", 
+        "explosions:137", 
+        "reward:152", 
+        "arrest:162", 
+        "serial blasts:184", 
+        "clues:201", 
+        "clues:210", 
+        "investigation:213", 
+        "crude bombs:257", 
+        "tiffin boxes:261", 
+        "rdx:305", 
+        "timer device:308", 
+        "low-intensity serial blasts:312", 
+        "injured:320"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/home/gorakhpur-blasts-sketches-released_373211.html", 
+    "date": "24-05-2007", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "TIFFIN BOX", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "Special Task Force", 
+            "222", 
+            "Others"
+        ], 
+        [
+            "Uttar Pradesh government", 
+            "295", 
+            "Others"
+        ]
+    ]
+}

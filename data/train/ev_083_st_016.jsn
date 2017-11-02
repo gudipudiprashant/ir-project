@@ -1,0 +1,101 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "39", 
+            "Event"
+        ], 
+        [
+            "Bombay", 
+            "76", 
+            "Event"
+        ], 
+        [
+            "Nariman House", 
+            "445", 
+            "Victim"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ajmal Kamal", 
+            "374", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Doctors shocked at hostages's torture", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "They said that just one look at the bodies of the dead hostages as well as terrorists showed it was a battle of attrition that was fought over three days at the Oberoi and the Taj hotels in Mumbai . . . Doctors working in a hospital where all the bodies , including that of the terrorists , were taken said they had not seen anything like this in their lives . . . ` Bombay has a long history of terror . I have seen bodies of riot victims , gang war and previous terror attacks like bomb blasts . But this was entirely different . It was shocking and disturbing , ' a doctor said . . . Asked what was different about the victims of the incident , another doctor said : ` It was very strange . I have seen so many dead bodies in my life , and was yet traumatised . A bomb blast victim 's body might have been torn apart and could be a very disturbing sight . But the bodies of the victims in this attack bore such signs about the kind of violence of urban warfare that I am still unable to put my thoughts to words , ' he said . . . Asked specifically if he was talking of torture marks , he said : ` It was apparent that most of the dead were tortured . What shocked me were the telltale signs showing clearly how the hostages were executed in cold blood , ' one doctor said . . . The other doctor , who had also conducted the post-mortem of the victims , said : ` Of all the bodies , the Israeli victims bore the maximum torture marks . It was clear that they were killed on the 26th itself . It was obvious that they were tied up and tortured before they were killed . It was so bad that I do not want to go over the details even in my head again , ' he said . . . Corroborating the doctors ' claims about torture was the information that the Intelligence Bureau had about the terror plan . ` During his interrogation , Ajmal Kamal said they were specifically asked to target the foreigners , especially the Israelis , ' an IB source said . . . It is also said that the Israeli hostages were killed on the first day as keeping them hostage for too long would have focused too much international attention . ` They also might have feared the chances of Israeli security agencies taking over the operations at the Nariman House , ' he reasoned . . . On the other hand , there is enough to suggest that the terrorists also did not meet a clean , death . . . The doctors who conducted the post mortem said the bodies of the terrorists were beyond recognition . ` Their faces were beyond recognition . ' . . There was no way of identifying them , ' he said . Asked how , if this is the case , they knew the bodies were indeed those of the terrorists , he said : ` The security forces that brought the bodies told us that those were the bodies of the terrorists , ' he said , adding there was no other way they could have identified the bodies . . . An intelligence agency source added : ` One of the terrorists was shot through either eye . ' . . A senior National Security Guard officer , who had earlier explained the operation in detail to rediff.com , said the commandos went all out after they ascertained that there were no more hostages left . When asked if the commandos attempted to capture them alive at that stage , he replied : ` Unko bachana kaun chahega -LRB- Who will want to save them -RRB- ? ' .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "hostages:13", 
+        "attrition:24", 
+        "terrorists:57", 
+        "traumatised:156", 
+        "telltale:245", 
+        "Israeli victims:288", 
+        "torture:293", 
+        "Corroborating:349", 
+        "Israelis:388", 
+        "Israeli:404", 
+        "terrorists:490", 
+        "terrorists:535", 
+        "commandos:618", 
+        "::583", 
+        "intelligence agency:579"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2008/nov/30mumterror-doctors-shocked-at-hostagess-torture.htm", 
+    "date": "26-11-2008", 
+    "target": "HOTEL AND RESTAURANT", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Oberoi", 
+            "33", 
+            "Victim"
+        ], 
+        [
+            "Taj hotels", 
+            "36", 
+            "Victim"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "361", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "392", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "600", 
+            "Others"
+        ]
+    ]
+}

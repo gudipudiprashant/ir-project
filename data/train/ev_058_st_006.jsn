@@ -1,0 +1,212 @@
+{
+    "LOC": [
+        [
+            "Gateway of India", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "jewellery market", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "98", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "116", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "118", 
+            "Neutral"
+        ], 
+        [
+            "Islamabad", 
+            "123", 
+            "Accused"
+        ], 
+        [
+            "New Delhi", 
+            "165", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "169", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "175", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "Zaveri bazaar", 
+            "223", 
+            "Event"
+        ], 
+        [
+            "Bombay", 
+            "226", 
+            "Event"
+        ], 
+        [
+            "diamond market", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "Bombay", 
+            "277", 
+            "Event"
+        ], 
+        [
+            "Taj Mahal Hotel", 
+            "292", 
+            "Neutral"
+        ], 
+        [
+            "public car park", 
+            "325", 
+            "Source"
+        ], 
+        [
+            "Gateway", 
+            "408", 
+            "Neutral"
+        ], 
+        [
+            "Gateway", 
+            "435", 
+            "Neutral"
+        ], 
+        [
+            "railway tunnel", 
+            "498", 
+            "Neutral"
+        ], 
+        [
+            "Bombay", 
+            "504", 
+            "Event"
+        ], 
+        [
+            "Igatpuri", 
+            "518", 
+            "Neutral"
+        ], 
+        [
+            "Bombay", 
+            "535", 
+            "Event"
+        ], 
+        [
+            "Ayodhya", 
+            "562", 
+            "Neutral"
+        ], 
+        [
+            "northern India", 
+            "564", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "570", 
+            "Neutral"
+        ], 
+        [
+            "Bombay", 
+            "605", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Atal Bihari Vajpayee", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "Ravi Dubey", 
+            "351", 
+            "Comment"
+        ], 
+        [
+            "Ingrid Alva", 
+            "397", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 72", 
+        "night : 141", 
+        "1pm : 218", 
+        "four minutes : 283", 
+        "night : 483"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        ":", 
+        "1993 : 537"
+    ], 
+    "death": "10", 
+    "title": "45 killed in Bombay bomb blasts", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "NEw Delhi", 
+        "jewellery market"
+    ], 
+    "terror_group": [
+        "ISLAMIC TERRORIST OUTFITS"
+    ], 
+    "content": "One bomb planted in a taxi went off outside the Gateway of India - the city 's most famous tourist attraction - killing at least 10 people and wounding dozens of others standing nearby . . . Another had exploded minutes earlier in a crowded jewellery market , also in the south of the city , causing a huge number of casualties . There was no immediate claim of responsibility last night - but suspicion is likely to fall on Islamist extremists , possibly taking revenge for last year 's communal riots in the neighbouring state of Gujarat , where 2,000 Muslims died . . . The blasts follow a recent thaw in relations between Pakistan and India , which has accused Islamabad of supporting Islamist militants who have carried out previous attacks on Indian soil . . . Last night India 's Hindu nationalist prime minister , Atal Bihari Vajpayee , held an emergency cabinet meeting as police put the Indian capital , New Delhi , and Gujarat 's riot-hit main city , Ahmedabad , on a state of high alert . . . Analysts warned that the blasts would damage already-strained relations between India 's majority Hindu community and the country 's 140 million Muslims . . . The first blast took place shortly after 1pm local time in the Zaveri bazaar , Bombay 's packed gold and diamond market which had just opened . The bomb was hidden inside a taxi . . . It sent debris flying across a huge area , ripping into shops . More than 30 people were killed in the explosion . . . The second blast along Bombay 's crowded seafront took place four minutes later , shattering windows in the five-star Taj Mahal Hotel 200 metres away , which is used by the city 's wealthy elite and by Bollywood film stars . The taxi which contained the bomb had been dumped in a public car park . The blast left paving stones drenched with blood and littered with abandoned shoes . . . The hotel 's communications manager , Ravi Dubey , said no guests or foreign tourists had been hurt . `` This was a terrorist attack . It was too organised to be anything else , '' he said . `` They decided to strike at an elite area . '' . . Ingrid Alva , a public relations consultant who works near the Gateway , said : `` The building we were in shook and we heard a loud noise . I rushed out and saw the crowds at the Gateway of India . We saw some body parts lying around , before we were told to move away by the police . '' . . As hospitals struggled to cope with the wounded , police rounded up suspects , including a taxi driver . . . Last night police claimed they had also discovered a large amount of explosive concealed near a railway tunnel on the outskirts of Bombay . Around 100 detonators had been hidden along a busy commuter line at Igatpuri . . . The bombings bear a grim resemblance to a wave of explosions that shook Bombay in 1993 , killing 250 people . Those blasts were blamed on groups avenging Muslim deaths in Hindu-Muslim riots after the razing of a mosque at Ayodhya in northern India . . . Yesterday India 's chief archaeological body released a report that claimed a temple had existed at the disputed religious site long before the mosque . It was not clear last night whether the report and the Bombay blasts were linked . . . .", 
+    "injured": "12", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Indian soil:135", 
+        "detonators:508"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.theguardian.com/world/2003/aug/26/india.pakistan", 
+    "date": "26-08-2003", 
+    "target": "", 
+    "hot_spot": "jewellery market", 
+    "delivery_mod": "TAXI", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Islamist extremists", 
+            "81", 
+            "Accused"
+        ], 
+        [
+            "Islamist militants", 
+            "126", 
+            "Accused"
+        ], 
+        [
+            "India 's Hindu nationalist", 
+            "142", 
+            "Others"
+        ]
+    ]
+}

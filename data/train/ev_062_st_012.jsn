@@ -1,0 +1,195 @@
+{
+    "LOC": [
+        [
+            "Varanasi", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "North 24 Parganas", 
+            "96", 
+            "Accused"
+        ], 
+        [
+            "West Bengal", 
+            "101", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "110", 
+            "Accused"
+        ], 
+        [
+            "Jyotiba Phule Nagar", 
+            "121", 
+            "Accused"
+        ], 
+        [
+            "India", 
+            "164", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "166", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan .", 
+            "166", 
+            "Neutral"
+        ], 
+        [
+            "Sankatmochan temple", 
+            "205", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "209", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "241", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "247", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Wali Ullah", 
+            "44", 
+            "Accused"
+        ], 
+        [
+            "Jagmohan Yadav", 
+            "69", 
+            "Comment"
+        ], 
+        [
+            "Mehbook Ali", 
+            "90", 
+            "Accused"
+        ], 
+        [
+            "Syed Shuaib Hussain", 
+            "104", 
+            "Accused"
+        ], 
+        [
+            "Farhan", 
+            "108", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Rizwan Siddique", 
+            "113", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Saad Ali", 
+            "117", 
+            "Accused"
+        ], 
+        [
+            "Jaish", 
+            "133", 
+            "Accused"
+        ], 
+        [
+            "Wali Ullah", 
+            "136", 
+            "Accused"
+        ], 
+        [
+            "Wali Ullah", 
+            "174", 
+            "Accused"
+        ], 
+        [
+            "Wali Ullah", 
+            "219", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:18"
+    ], 
+    "death": "", 
+    "title": "Varanasi blasts mastermind, 5 accomplices arrested", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "", 
+        "Varanasi", 
+        "Varanasi"
+    ], 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI"
+    ], 
+    "content": "LUCKNOW : A mastermind of the recent Varanasi blasts and five of his accomplices were arrested on Wednesday by the Uttar Pradesh police and Central security agencies . A module of the Bangladesh-based Harkat-ul-Jehadi-Islamia -LRB- HuJI -RRB- was also busted . . . Wali Ullah and his accomplices were arrested from different parts of the State and a large quantity of arms and ammunition recovered from them , Jagmohan Yadav , Inspector-General of Special Task Force of the police , told reporters . . . The five were : Mehbook Ali , a resident of North 24 Parganas district in West Bengal , Syed Shuaib Hussain and Farhan of Lucknow , and Mohammad Rizwan Siddique and Mohammad Saad Ali from Jyotiba Phule Nagar district , he said . . . Trained with Jaish . . Wali Ullah , who had trained with the Pakistan-based Jaish-e-Mohammed , was extending ` all help ' to the cadre of the HuJI , which is banned by India and Pakistan . . . Telephone calls made by Wali Ullah made the sleuths close in on him . . . He had made calls to the same number to which militants , who had planted the bombs at the Sankatmochan temple and the Varanasi cantonment railway station , had made . . . Wali Ullah , who was presented before the mediapersons , said the HuJI could even be responsible for the last year 29/10 Delhi blasts , an explosion in Varanasi last year and a blast on board the Shramjeevi Express last year .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "inspector-general of special task force of the police:72", 
+        "shramjeevi express:256"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/varanasi-blasts-mastermind-5-accomplices-arrested/article3143341.ece", 
+    "date": "05-04-2006", 
+    "target": "", 
+    "hot_spot": "Varanasi", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Uttar Pradesh police", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "Central security agencies", 
+            "25", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jehadi-Islamia", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "Jaish-e-Mohammed", 
+            "145", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "158", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "231", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "42", 
+            "Neutral"
+        ], 
+        [
+            "Bhabha", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "KEM hospitals", 
+            "69", 
+            "Neutral"
+        ], 
+        [
+            "Mahim", 
+            "72", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "88", 
+            "Event"
+        ], 
+        [
+            "Maharasthra", 
+            "130", 
+            "Event"
+        ], 
+        [
+            "London", 
+            "155", 
+            "Assoc_Event"
+        ], 
+        [
+            "India", 
+            "178", 
+            "Event"
+        ], 
+        [
+            "New York", 
+            "212", 
+            "Assoc_Event"
+        ], 
+        [
+            "United States", 
+            "218", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "226", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "315", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "322", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "395", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "401", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "L K Advani", 
+            "4", 
+            "Comment"
+        ], 
+        [
+            "Advani", 
+            "59", 
+            "Comment"
+        ], 
+        [
+            "Advani", 
+            "242", 
+            "Comment"
+        ], 
+        [
+            "Advani", 
+            "264", 
+            "Comment"
+        ], 
+        [
+            "Dawood Ibrahim", 
+            "310", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Advani", 
+            "341", 
+            "Comment"
+        ], 
+        [
+            "Dawood", 
+            "343", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Osama Bin Laden", 
+            "348", 
+            "Others"
+        ], 
+        [
+            "Dawood", 
+            "357", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Dawood", 
+            "397", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:9", 
+        "9/11 : 204", 
+        "Tuesday:221", 
+        "Tuesday:336", 
+        "7/11 : 346", 
+        "9/11 : 353", 
+        "March 12:365", 
+        "1993:368"
+    ], 
+    "death": "", 
+    "title": "This was an attack on India: Advani", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Leader of Opposition L K Advani said on Wednesday that the serial bomb blasts on Mumbai 's suburban trains have brought to the fore the need for an anti-terrorist law . . . ` The blasts show that the government of Pakistan has not kept up its committment to dismantle anti-India terrorist infrastructure on Pakistani soil , ' Advani told reporters after visiting the injured at Bhabha and KEM hospitals and Mahim railway station , one of the seven blast sites . . . Refusing to criticise Maharashtra government directly , he said , ` This is a time when raja and praja must unitedly face the challenge before them . ' . . The senior Bharatiya Janata Party leader said it was the responsibility of the Central and Maharasthra governments to demolish the terrorist modules operating within . . . About the blasts themselves , he said they were far more well-coordinated than London metro blasts last year . . . Referring to media reports about the alleged involvement of the banned Students Islamic Movement of India , he said , ` Its footprints and those of similar anti-national elements must be investigated and erased . ' . . Just like the 9/11 attacks were not just an attack on New York , but the entire United States , Tuesday 's serial blasts in Mumbai were not just an attack on the commercial capital but on the entire nation , Advani added . . . Replying to a query on theUnion Home Secretary 's statement that Indo-Pak peace process will continue , Advani said , ` If you want to deal firmly with terrorism we should not give an impression that you are ready to make any compromise . The image of being a soft nation encourages terrorism . ' . . He also demanded that underworld don Dawood Ibrahim be brought to India to stand trial in the 1993 Mumbai serial bomb blasts case . . . Suspecting the don 's role in Tuesday 's serial blasts , Advani said Dawood is to 7/11 what Osama Bin Laden is to 9/11 . . . Dawood has been named absconding accused in the March 12 , 1993 serial blasts case in which CBI has alleged that the underworld don masterminded the explosions to destablise the country . . . After several claims by India that Dawood was hiding in Pakistan , the neighbouring country has denied reports that he was holed up in the country . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        ""
+    ], 
+    "O": [
+        "serial bomb:12", 
+        "anti-india:51", 
+        "well-coordinated:153", 
+        "9/11 attacks:204", 
+        "underworld:308", 
+        "dawood:343", 
+        "masterminded:381", 
+        "destablise:385", 
+        "in:400"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/12mumblast11.htm", 
+    "date": "11-07-2006", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bharatiya Janata Party", 
+            "117", 
+            "Others"
+        ], 
+        [
+            "Students Islamic Movement", 
+            "174", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "374", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "83", 
+            "Neutral"
+        ], 
+        [
+            "Konark theatre", 
+            "142", 
+            "Event"
+        ], 
+        [
+            "Venkatadri theatre", 
+            "151", 
+            "Event"
+        ], 
+        [
+            "Lumbini Park", 
+            "256", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gokul Chat", 
+            "259", 
+            "Assoc_Event"
+        ], 
+        [
+            "New Delhi", 
+            "303", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "306", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dinesh Reddy", 
+            "6", 
+            "Comment"
+        ], 
+        [
+            "Reddy", 
+            "78", 
+            "Others"
+        ], 
+        [
+            "Reddy", 
+            "131", 
+            "Comment"
+        ], 
+        [
+            "Reddy", 
+            "221", 
+            "Comment"
+        ], 
+        [
+            "R.K. Singh", 
+            "363", 
+            "Others"
+        ], 
+        [
+            "Asif Ibrahim", 
+            "368", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "three minutes : 66", 
+        "7.10 p.m. : 120", 
+        "6.58 p.m. : 139", 
+        "three minutes : 147"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:87", 
+        "2007:262"
+    ], 
+    "death": "13", 
+    "title": "IEDs with nitro compound used: DGP", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Director General of Police V. Dinesh Reddy has said that improvised explosive devices -LRB- IEDs -RRB- with nitro compound were used in the explosions that killed 13 persons and left 83 injured . . . He did not hazard a guess whether RDX was used in the bombs but asserted that they were timed as the two powerful explosions took place within a gap of three minutes and were only hundred yards apart . . . Mr. Reddy , who returned from New Delhi only on Thursday after attending a meeting convened by the Central government to discuss the naxalite situation in various affected states , drove straight from the airport to the scene of the twin blasts at 7.10 p.m. . . Talking to media persons later , Mr. Reddy said the first blast took place at 6.58 p.m. near Konark theatre and the second three minutes later near Venkatadri theatre . The bombs were placed in rexine bags and hung to bicycles at both the places . The locations were selected strategically to inflict maximum damage as they were crowded areas . . . No signs of more bombs were available after sanitising the entire area . A massive search operation in and around the locations was taken up in fear of more blasts . . . Mr. Reddy said that it was too premature to suspect the role of any particular group in the blasts . He denied picking up anybody or coming to know of any similarities with earlier explosions at Lumbini Park or Gokul Chat in 2007 . . . A high alert was sounded across the State and the Centre despatched rapid action force personnel to deal with the situation . A post-energy blast team that specialises in tackling this kind of blasts , also left New Delhi for Hyderabad . The investigation was being handed over to the National Investigation Agency , he said . . . The DGP appealed to the people not to panic as the police were fully geared to meet the situation . He hoped there would be a breakthrough in investigation soon . He also said the Union Home Secretary R.K. Singh and IB chief Asif Ibrahim were in constant touch with him .", 
+    "injured": "83", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "O": [
+        "improvised explosive devices:11", 
+        "ieds:15", 
+        "nitro compound:18", 
+        "explosions:24", 
+        "killed:26", 
+        "hazard:39", 
+        "rdx:43", 
+        "bombs:48", 
+        "two powerful explosions:57", 
+        "returned:81", 
+        "meeting:91", 
+        "naxalite situation:100", 
+        "affected states:104", 
+        "airport:111", 
+        "twin blasts:117", 
+        "first blast:134", 
+        "bombs:155", 
+        "rexine bags:159", 
+        "bicycles:164", 
+        "selected strategically:173", 
+        "maximum damage:177", 
+        "crowded areas:182", 
+        "bombs:191", 
+        "sanitising:195", 
+        "massive search operation:201", 
+        "blasts:216", 
+        "suspect:229", 
+        "blasts:238", 
+        "explosions:254", 
+        "high alert:267", 
+        "state:273", 
+        "centre:276", 
+        "rapid action:278", 
+        "force personnel:280", 
+        "situation:286", 
+        "post-energy blast team:289", 
+        "specialises:293", 
+        "tackling:295", 
+        "blasts:299", 
+        "investigation:309", 
+        "appealed:327", 
+        "fully geared:338", 
+        "situation:343", 
+        "investigation:353"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/ieds-with-nitro-compound-used-dgp/article4441507.ece", 
+    "date": "21-02-2013", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Central government", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "316", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "LOC": [
+        [
+            "Mahabodhi Temple complex", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Siliguri", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "47", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "82", 
+            "Event"
+        ], 
+        [
+            "North Bengal", 
+            "93", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi Temple complex", 
+            "104", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi Temple complex", 
+            "141", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sonal Lama", 
+            "61", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 7 : 85"
+    ], 
+    "death": "", 
+    "title": "Buddhists protest in Siliguri against Bodh Gaya blasts", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "Bihar", 
+        "Bodh Gaya"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Upset over the recent explosions at the famed Mahabodhi Temple complex in Bodh Gaya , Bihar , Buddhists in Siliguri , West Bengal , staged silent protests . . . From women to children , the Buddhist protestors demanded more safety for their religious centres in India . . . The secretary of the All Buddhist Organisations of North-Bengal , Sonal Lama , said : `` This rally has been organised to protest against the explosions inside the Mahabodhi Temple of Bodh Gaya on July 7 by all the Buddhist groups in North Bengal . '' . . Ten bombs exploded at the Mahabodhi Temple complex , where the Buddha is believed to have attained enlightenment . Two persons were injured in the incidents , in what the government described as a `` terror '' attack . . . The Mahabodhi Temple complex was declared a world heritage site by UNESCO in 2002 . . . .", 
+    "injured": "2", 
+    "org_unorg": "", 
+    "O": [
+        "explosions:5", 
+        "Buddhists:18", 
+        "silent protests:26", 
+        "Buddhist protestors:37", 
+        "protest:73", 
+        "Mahabodhi Temple:79", 
+        "Buddhist groups:90", 
+        "Ten bombs:99", 
+        "exploded:101", 
+        "Buddha:110", 
+        "enlightenment:116", 
+        "injured:121", 
+        "terror:134"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.business-standard.com/article/news-ani/buddhists-protest-in-siliguri-against-bodh-gaya-blasts-113071200138_1.html", 
+    "date": "07-07-2013", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "TEMPLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "All Buddhist Organisations of North-Bengal", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "129", 
+            "Others"
+        ], 
+        [
+            "UNESCO", 
+            "151", 
+            "Others"
+        ]
+    ]
+}

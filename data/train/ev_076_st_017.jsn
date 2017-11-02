@@ -1,0 +1,240 @@
+{
+    "LOC": [
+        [
+            "Karnataka",
+            "353", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Gurapanapalya", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "Bangalore", 
+            "59", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "Surat", 
+            "145", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gurapanapalya", 
+            "152", 
+            "Accused"
+        ], 
+        [
+            "Bangalore", 
+            "154", 
+            "Event"
+        ], 
+        [
+            "Karnataka", 
+            "222", 
+            "Event"
+        ], 
+        [
+            "Karnataka", 
+            "227", 
+            "Event"
+        ], 
+        [
+            "Indore", 
+            "247", 
+            "Accused"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "249", 
+            "Accused"
+        ], 
+        [
+            "Karnataka", 
+            "329", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "344", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sameer Sadiq", 
+            "48", 
+            "Accused"
+        ], 
+        [
+            "Sadiq", 
+            "184", 
+            "Accused"
+        ], 
+        [
+            "Sadiq", 
+            "206", 
+            "Accused"
+        ], 
+        [
+            "Riazuddin Nasir", 
+            "216", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Yahya Kamakutty", 
+            "219", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 25:7", 
+        "Tuesday:25", 
+        "Tuesday:62"
+    ], 
+    "death": "", 
+    "title": "Bangalore arrest turns focus back on SIMI", 
+    "org_unorg": "", 
+    "terror_group": [
+        "STUDENTS ISLAMIC MOVEMENT OF INDIA"
+    ], 
+    "content": "The Special Investigating Team probing the July 25 serial blasts in Bangalore picked up an activist of the Students Islamic Movement of India on Tuesday . . . ` Indian Mujahideen is SIMI , V2 .0 . . An investigating officer told rediff.com that they picked up Sameer Sadiq , a SIMI activist from the Gurapanapalya area in Bangalore , on Tuesday . . . With this arrest , the police say it is becoming clear that SIMI was behind the blasts in Bangalore and were using the name of Indian Mujahideen to conceal their identity . . . View : Incubus of India Mujahideen . . The investigating teams say they are probing deeper into the SIMI angle and preliminary investigations show that the banned outfit was behind the blasts.Sadiq , according to the police , had played a key role in the Surat riots . He was staying at Gurapanapalya in Bangalore , the area which incidentally housed the SIMI office before it had been banned . . . Indian Mujahideen 's two-pronged terror strategy . . The police have seized Sadiq 's mobile phone and are checking the call records of both his cell phone and land phone.It may be recalled that Sadiq had been questioned following the arrests of SIMI operative Riazuddin Nasir and Yahya Kamakutty in Karnataka earlier this year . Karnataka Police had cracked down on SIMI operatives and their interrogation led to the arrest of 10 SIMI activists at Indore in Madhya Pradesh . . . ISI 's Indianisation of jihad . . With the role of the SIMI becoming stronger in the case , the police are cracking down on local SIMI groups in the state . The police are trying to find more clues by cracking down on these groups . More arrests are expected in the next couple of days , an officer added.On high alertPolice has decided to crack down on terror in a big way in Karnataka . While the government proposed the issuing of identification cards to all residents of Bangalore and other parts of the state , the Karnataka police have issued a circular to all PCO owners to maintain a register regarding the people who come to the booths . The police , in their circular , have stated that it is mandatory that PCO owners maintain a register and keep a tab on all callers . They should make a mention of the destination to which a call is made , how much time was spent at the booth and also jot details regarding the description of the man who came to the booth . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "indian mujahideen is simi , v2 .0:30", 
+        "using the name of indian mujahideen to conceal their identity:87", 
+        "key role in the surat riots:141", 
+        "surat riots:145", 
+        "checking the call records:190", 
+        "cracked down on simi:230", 
+        "isi 's indianisation of jihad:254", 
+        "simi becoming stronger:266", 
+        "police are cracking down on local simi groups:274", 
+        "maintain a register:364"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2008/jul/30beng.htm", 
+    "date": "25-07-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Students Islamic Movement of India", 
+            "19", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "30", 
+            "Assoc_Accused"
+        ], 
+        [
+            "SIMI", 
+            "33", 
+            "Assoc_Accused"
+        ], 
+        [
+            "rediff.com", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "52", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "78", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "91", 
+            "Assoc_Accused"
+        ], 
+        [
+            "India Mujahideen", 
+            "104", 
+            "Assoc_Accused"
+        ], 
+        [
+            "SIMI", 
+            "118", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "162", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "172", 
+            "Assoc_Accused"
+        ], 
+        [
+            "SIMI", 
+            "214", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "233", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "244", 
+            "Accused"
+        ], 
+        [
+            "ISI", 
+            "254", 
+            "Assoc_Accused"
+        ], 
+        [
+            "SIMI", 
+            "266", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "280", 
+            "Accused"
+        ], 
+        [
+            "Karnataka police", 
+            "353", 
+            "Others"
+        ]
+    ]
+}

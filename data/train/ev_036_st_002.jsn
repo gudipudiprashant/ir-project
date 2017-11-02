@@ -1,0 +1,156 @@
+{
+    "LOC": [
+        [
+            "DIPHU", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Karbi Anglong", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Diphu", 
+            "101", 
+            "Accused"
+        ], 
+        [
+            "Morigaon", 
+            "112", 
+            "Accused"
+        ], 
+        [
+            "Karbi Anglong", 
+            "180", 
+            "Assoc_Event"
+        ], 
+        [
+            "Jagiroad", 
+            "206", 
+            "Accused"
+        ], 
+        [
+            "Morigaon", 
+            "208", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Chandan Kumar", 
+            "242", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "5.40 Pm : 55"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "December 2:164", 
+        "December 2:266"
+    ], 
+    "death": "", 
+    "title": "Nine injured in Assam bomb blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        "KARBI LONGRI N.C. HILLS LIBERATION FRONT"
+    ], 
+    "content": "DIPHU : Nine persons , including two children , were injured in a powerful bomb blast by KLNLF militants in a market in Assam 's Karbi Anglong district where another bomb was recovered . Police sources said the bomb exploded in the forest gate of the fish market under Kheroni police station at around 5.40 Pm when about 2000 people gathered there . Five , including a woman and two children , were seriously injured , in the explosion of the bomb planted by Karbi Longri National Liberation Front , the sources said . A powerful bomb was recovered in Diphu town and eight militants of the KLNLF surrendered in neighbouring Morigaon district . An army patrol noticed a suspicious packet lying near the autonomous state demand council office here , official sources said . The two kg improvisewd explosive devise fitted with a timer device was defused by army engineers , the sources said . This is the sixth bomb recovered since December 2 when rebels of the same outfit blasted a bomb in Lumding-Diphu passenger train in Karbi Anglong district killing three persons and injury to 34 others . Meanwhile , eight militants surrendered before the army today with arms and ammunition at Jagiroad of Morigaon and deposited two AK-56 rifles , a 9-mm pistol , two .32 revolvers and 90 rounds of assorted ammunition , some grenades , explosives , detonators and a radio set to Maj Gen Chandan Kumar of the Red Horn division at a ceremony here . The KLNLF has called an indefinite economic blockade in the district since December 2 but vehicles were plying on the national highways with police escort .", 
+    "injured": "9", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Karbi Anglong", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "nine persons:3", 
+        "two children:7", 
+        "klnlf militants:18", 
+        "forest gate:43", 
+        "fish market:47", 
+        "kheroni police station:50", 
+        "2000 people:59", 
+        "a powerful bomb:95", 
+        "recovered:99", 
+        "eight militants:104", 
+        "surrendered:109", 
+        "army patrol:116", 
+        "suspicious packet:120", 
+        "two kg:137", 
+        "improvisewd explosive devise:139", 
+        "timer device:145", 
+        "defused:148", 
+        "army engineers:150", 
+        "sixth bomb:160", 
+        "recovered since:162", 
+        "lumding-diphu passenger train:176", 
+        "killing three persons:183", 
+        "injury to 34:187", 
+        "two ak-56 rifles:211", 
+        "9-mm pistol:216", 
+        "two .32 revolvers:219", 
+        "90 rounds of assorted ammunition:223", 
+        "grenades:230", 
+        "explosives:232", 
+        "detonators:234", 
+        "a radio set:236", 
+        "maj gen:240", 
+        "ceremony:251", 
+        "indefinite economic blockade:259", 
+        "police escort:277"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Nine-injured-in-Assam-bomb-blast/articleshow/3802644.cms", 
+    "date": "05-12-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "KLNLF", 
+            "18", 
+            "Accused"
+        ], 
+        [
+            "Karbi Longri National Liberation Front", 
+            "85", 
+            "Accused"
+        ], 
+        [
+            "KLNLF", 
+            "108", 
+            "Accused"
+        ], 
+        [
+            "autonomous state demand council office", 
+            "125", 
+            "Victim"
+        ], 
+        [
+            "Red Horn division", 
+            "246", 
+            "Others"
+        ], 
+        [
+            "KLNLF", 
+            "255", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "LOC": [
+        [
+            "Mumbai",
+            "20", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "75", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai",
+            "104", 
+            "Event"
+        ], 
+        [
+            "Pune",
+            "126", 
+            "Victim"
+        ], 
+        [
+            "Pakistan", 
+            "153", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "214", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "216", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "P", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "P Chidambaram", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Chidambaram", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Chidambaram", 
+            "100", 
+            "Others"
+        ], 
+        [
+            "Chidambaram", 
+            "208", 
+            "Others"
+        ], 
+        [
+            "Chidambaram", 
+            "237", 
+            "Others"
+        ], 
+        [
+            "Chidambaram said", 
+            "237", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:6", 
+        "July:18", 
+        "July 13:18"
+    ], 
+    "death": "", 
+    "title": "Pune and Mumbai blasts are 'major blots' on my career: PC", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Nagpur", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Home Minister P Chidambaram on Thursday said there are indications of involvement of Indian module in the July 13 Mumbai blasts that killed 26 people . . . It is for the first time that the government has pointed towards the involvement of a homegrown terror group for the three explosions in the metropolis . . . The Home Minister also said all over the world right-wing fascist forces were on the rise and India is no exception to it . . . `` While no conclusion has been reached , all indications point to Indian module , '' Chidambaram said about the Mumbai blasts , adding that perhaps it could be the same module that carried out a blast in the German Bakery in Pune last year . . . He said that while there was a finger-pointing for every terror incident towards the neighbouring country , a clear reference to Pakistan , there is also an existence of home grown terror modules as right wing fascist forces . . . `` We can not live in denial . We can not close our eyes to facts . There are home grown modules . Indian modules . They do not belong to one religion , '' Chidambaram said . . . The Pune and Mumbai blasts are `` two major blots on my career , I accept it , '' he said . . . Chidambaram said another mistake was to point fingers at a particular religion whenever a bomb blast took place .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "home minister:1", 
+        "Indian:14", 
+        "module:15", 
+        "Mumbai blasts:20", 
+        "Home Minister:59", 
+        "Indian:96", 
+        ",\u00a0'':98", 
+        "Mumbai blasts:104", 
+        "Pune and Mumbai blasts:214"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/pune-and-mumbai-blasts-are-major-blots-on-my-career-pc/827244/", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Chidambaram on Thursday", 
+            "4", 
+            "Others"
+        ]
+    ]
+}

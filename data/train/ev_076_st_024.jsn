@@ -1,0 +1,154 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "7", 
+            "Neutral"
+        ], 
+        [
+            "Silicon Valley", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "IT community", 
+            "38", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "47", 
+            "Neutral"
+        ], 
+        [
+            "Indian Institute of Science complex", 
+            "142", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "149", 
+            "Neutral"
+        ], 
+        [
+            "Hosur Road", 
+            "266", 
+            "Neutral"
+        ], 
+        [
+            "Madiwala", 
+            "269", 
+            "Neutral"
+        ], 
+        [
+            "Nayandahalli", 
+            "275", 
+            "Neutral"
+        ], 
+        [
+            "Vittal Mallya Road", 
+            "277", 
+            "Neutral"
+        ], 
+        [
+            "Richmond Circle", 
+            "281", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "415", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kiran Mazumdar-Shaw", 
+            "56", 
+            "Comment"
+        ], 
+        [
+            "Shankar Bidari", 
+            "287", 
+            "Comment"
+        ], 
+        [
+            "Leslie Gomes", 
+            "398", 
+            "Others"
+        ], 
+        [
+            "Shoba", 
+            "485", 
+            "Comment"
+        ], 
+        [
+            "Manjula Sharan", 
+            "530", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "1.30 pm : 171", 
+        "1.45 pm : 174", 
+        "1.35 : 439"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "2005 : 136"
+    ], 
+    "death": "2", 
+    "title": "Blasts rock Bangalore: City shell-shocked", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Rural", 
+        "Banglore", 
+        "Silicon Valley"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Pandemonium ruled as serial blasts rocked India 's Silicon Valley today . The low-intensity bomb blasts that exploded in different crowded locations saw two people dead and several injured . The seven near-simultaneous blasts had a shell-shocked IT community initiating enhanced security measures across locations in Bangalore . . . Biocon chairman and managing director Kiran Mazumdar-Shaw said , `` This is a real wake-up call and we need to keep track of people coming in and out of the city . Terrorists have started outsmarting our intelligence networks so the solutions lie in adopting high-end technology . The police need to have an audit done of our security systems . '' . . It is for the first time that the country 's IT capital witnessed a terror attack of such proportions . In 2005 , terrorists had attacked the Indian Institute of Science complex . A Delhi IIT professor was killed and four persons injured in the firing . . . Today 's blasts , which occurred between 1.30 pm and 1.45 pm , shows the need to keep constant vigil and be better-prepared . A Wipro spokesperson said , `` We have initiated enhanced security measures as per our standard operating procedure across locations . None of our employees or facilities have been affected . '' . . PTI reports say the seven near-simultaneous blasts occurred due to crude bombs that were concealed near refugee camps and roadside stuffed with nuts and bolts . They exploded during the busy lunch hour at different crowded locations . Four of the blasts were between Hosur Road and Madiwala ; the other three at Nayandahalli , Vittal Mallya Road and Richmond Circle , City Police Commissioner Shankar Bidari told reporters . . . Following the blast , local mobile networks were jammed with people left in the lurch.An Infosys spokesperson said , `` All our employees are safe and there has been no impact on our business operations . We are in touch with the police department to and will remain fully alert . We have increased security on our campus . '' . . Traffic snarls and chaos took over as people scurried home . But the common man was caught in the eye of the storm as schools closed early and people found it difficult to find transport to ferry them home . People like Leslie Gomes , a software engineer who was out with a group of friends in one of Bangalore 's popular hangouts-Brigade Road , the news of the blast came as a shock . . . `` We got the call around 1.35 but we thought one of our friends was playing the fool . But slowly we saw people in our restaurant pack food and leave . That is when it struck us that the news might be true . '' . . The state welfare minister Shoba has announced a solatium of Rs one lakh to the family of the deceased woman and said the government would bear the medical expenses of those injured . . . However for people on the street this will come as little solace . As Manjula Sharan , a mother of two , who was taking her children home said , `` For now , I am going to try and keep my family safe at home , and pray we do not have a situation like this . '' .", 
+    "injured": "7", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:100", 
+        "Police Commissioner:285"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.mydigitalfc.com/my-world/blasts-rock-bangalore-city-shell-shocked", 
+    "date": "25-07-2008", 
+    "target": "", 
+    "hot_spot": "Silicon Valley", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "LOW INTENSITY BOMB"
+    ], 
+    "ORG": [
+        [
+            "Biocon", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "IIT", 
+            "150", 
+            "Others"
+        ], 
+        [
+            "Wipro", 
+            "189", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "222", 
+            "Others"
+        ]
+    ]
+}

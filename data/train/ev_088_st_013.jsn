@@ -1,0 +1,147 @@
+{
+    "LOC": [
+        [
+            "MUMBAI", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Pune", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "74", 
+            "Neutral"
+        ], 
+        [
+            "Yerawada jail", 
+            "89", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "92", 
+            "Neutral"
+        ], 
+        [
+            "Mantralaya", 
+            "276", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "293", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "295", 
+            "Neutral"
+        ], 
+        [
+            "Thane", 
+            "297", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "R R Patil", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "Qateel Siddiqui", 
+            "41", 
+            "Accused"
+        ], 
+        [
+            "Satej Patil", 
+            "208", 
+            "Others"
+        ], 
+        [
+            "Dayanand Patil", 
+            "234", 
+            "Others"
+        ], 
+        [
+            "Sanjeev Dayal", 
+            "347", 
+            "Others"
+        ], 
+        [
+            "minister Prithviraj Chavan", 
+            "352", 
+            "Others"
+        ], 
+        [
+            "minister Prithviraj", 
+            "352", 
+            "Others"
+        ], 
+        [
+            "Prithviraj Chavan", 
+            "353", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:20", 
+        "June:94"
+    ], 
+    "death": "", 
+    "title": "Letter had warned of attack to avenge Qateels death: Maharashtra home minister", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "MUMBAI : In a twist to the Pune serial blasts case , Maharashtra home minister R R Patil on Thursday said the Pune police commissioner had received an anonymous letter a few days ago , warning that the death of Qateel Siddiqui in police custody would be avenged . The police had identified Qateel as an Indian Mujahideen operative allegedly involved in several terror cases , including the German Bakery blast and the Bangalore terror attack . He was strangled to death by his two inmates at the Yerawada jail in Pune in June . ' A letter , written in Marathi , indicating that Qateel 's death had become a major flashpoint , was received by the Pune police , ' Patil said , adding , ` According to preliminary reports , ammonium nitrate was used . But the department is awaiting a detailed report from the forensic laboratory on this . ' Although the letter is anonymous , the investigating team is looking into its source . ATS and crime branch teams have formed to probe the blast case . Besides the anonymous letter , all other possible angles , too , are being scanned by the investigating team . Minister of state for home Satej Patil said , ` Electronic timer and square batteries were used in explosives . ' The investigating agencies are also trying to find out how Dayanand Patil came in contact with the bomb . CCTV footage , which is available , is being scanned by the investigating team . With the festival season to begin soon , the state government held a high-level internal security meeting in Mantralaya . ` In the meeting , the law and order situation , especially security arrangements in Mumbai , Pune , Thane and other metros ahead of festivals like Dahi-Handi , Id and Ganeshotsav , were reviewed , ' said a senior home department official . ` Even coastal security was discussed in the meeting , ' the official added . Newly appointed director general of police -LRB- DGP -RRB- , Sanjeev Dayal , briefed chief minister Prithviraj Chavan about the Pune blast and the law and order situation in the state , it is learnt .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "pune serial blasts case:8", 
+        "operative:59", 
+        "ammonium nitrate:134", 
+        "cctv footage:243", 
+        "dahi-handi:305", 
+        "id:307", 
+        "home department official:318", 
+        "dgp:344", 
+        "minister:352"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Letter-had-warned-of-attack-to-avenge-Qateels-death-Maharashtra-home-minister/articleshow/15332202.cms?referral=PM", 
+    "date": "01-08-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": []
+}

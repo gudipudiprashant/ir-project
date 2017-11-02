@@ -1,0 +1,103 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "Faridabad", 
+            "87", 
+            "Accused"
+        ], 
+        [
+            "Patna", 
+            "110", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dipak Misra", 
+            "178", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:76", 
+        "Wednesday:161", 
+        "May 25:226"
+    ], 
+    "death": "12", 
+    "title": "Delhi HC blast: Sleuths look for 'getaway' car owner", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Investigators probing the Delhi high court blast have zeroed in on a Patna-based man and have launched a hunt to nab the owner of a car which is suspected to have ferried the perpetrators . . . ` The car 's owner has cheated a few people and they have told the investigators that the face of the car owner resembles the sketch of a suspect released last evening , ' official sources said on Thursday . . . The car has been traced to neighbouring Faridabad , nand efforts were on to trace the owner of the vehicle , they said . . . ` Another man from Patna who was arrested on charges of using a stolen ATM card is being interrogated by the joint team led by National Investigation Agency , ' they said . Twelve people have died and 75 injured in the powerful blast that took place outside gate number 5 of the court on Wednesday . . . Meanwhile , Delhi police and NIA teams met Delhi high court Chief Justice Dipak Misra and discussed with him measures to beef up security in and around court premises and installation of CCTV cameras , metal-detectors and other security gadgets . . . The sources said the government has also decided to hand over to NIA the case relating to the May 25 low-intensity blast outside the Delhi high court . .", 
+    "injured": "75", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        "Delhi High Court"
+    ], 
+    "O": [
+        "delhi high court blast:4", 
+        "launched a hunt:17", 
+        "suspected to have ferried the perpetrators:29", 
+        "sketch of a suspect:63", 
+        "stolen atm card:119", 
+        "gate number 5:154", 
+        "beef up security:186", 
+        "installation of cctv cameras:195"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/report/delhi-hc-blast-sleuths-look-for-getaway-car-owner/20110908.htm", 
+    "date": "07-09-2011", 
+    "target": "HIGH COURT", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "Delhi police", 
+            "167", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "Delhi high court", 
+            "173", 
+            "Victim"
+        ], 
+        [
+            "NIA", 
+            "220", 
+            "Others"
+        ], 
+        [
+            "Delhi high court", 
+            "232", 
+            "Victim"
+        ]
+    ]
+}

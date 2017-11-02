@@ -1,0 +1,283 @@
+{
+    "LOC": [
+        [
+            "Thanarpara", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Nadia", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "64", 
+            "Event"
+        ], 
+        [
+            "Sheikhs house", 
+            "87", 
+            "Source"
+        ], 
+        [
+            "Sealdah", 
+            "115", 
+            "Event"
+        ], 
+        [
+            "Kolkata", 
+            "118", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "172", 
+            "Neutral"
+        ], 
+        [
+            "Murshidabad", 
+            "197", 
+            "Accused"
+        ], 
+        [
+            "Nadia", 
+            "199", 
+            "Accused"
+        ], 
+        [
+            "Malda", 
+            "201", 
+            "Event"
+        ], 
+        [
+            "Birbhum", 
+            "203", 
+            "Accused"
+        ], 
+        [
+            "Bardhaman", 
+            "205", 
+            "Accused"
+        ], 
+        [
+            "West Bengal", 
+            "207", 
+            "Neutral"
+        ], 
+        [
+            "Barpeta", 
+            "210", 
+            "Accused"
+        ], 
+        [
+            "Assam", 
+            "212", 
+            "Neutral"
+        ], 
+        [
+            "Sahibganj", 
+            "214", 
+            "Accused"
+        ], 
+        [
+            "Pakur", 
+            "216", 
+            "Accused"
+        ], 
+        [
+            "Jharkhand", 
+            "218", 
+            "Neutral"
+        ], 
+        [
+            "in Beldanga and", 
+            "239", 
+            "Neutral"
+        ], 
+        [
+            "Beldanga", 
+            "240", 
+            "Neutral"
+        ], 
+        [
+            "and Mukim", 
+            "241", 
+            "Neutral"
+        ], 
+        [
+            "and Mukim", 
+            "241", 
+            "Neutral"
+        ], 
+        [
+            "Mukim Nagar", 
+            "242", 
+            "Neutral"
+        ], 
+        [
+            "Mukim", 
+            "242", 
+            "Neutral"
+        ], 
+        [
+            "Murshidabad", 
+            "245", 
+            "Neutral"
+        ], 
+        [
+            "Nanur", 
+            "247", 
+            "Neutral"
+        ], 
+        [
+            "Birbhum", 
+            "249", 
+            "Neutral"
+        ], 
+        [
+            "Khagragarh", 
+            "251", 
+            "Neutral"
+        ], 
+        [
+            "Simulia", 
+            "253", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "255", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Jahir-ul Sheikh", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "Sheikh", 
+            "46", 
+            "Accused"
+        ], 
+        [
+            "Abdul Mazeed Momin", 
+            "106", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:6", 
+        "October 2:67", 
+        "March 21:102"
+    ], 
+    "death": "", 
+    "title": "NIA team visits Nadia in search of Bardhaman blast case accused", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "JAMAATUL MUJAHIDEEN BANGLADESH (JMB)"
+    ], 
+    "content": ": An NIA team on Monday visited Thanarpara area in Nadia district of West Bengal , close to the Indo-Bangla border , in search of Jahir-ul Sheikh , a Bardhaman blast case accused . . . The team gave the Thanarpara police a warrant against Sheikh . It also went to his house and enquired about his whereabouts . . . After the Bardhaman blast on October 2 last year , which left two people dead , the NIA team had recovered 41 gelatin sticks from Sheikhs house , who has been absconding since then . . . The NIA on March 21 had arrested Abdul Mazeed Momin in connection with the blast from Sealdah area of Kolkata , taking the total number of persons arrested to 17 . . . The agency had taken over the case from the West Bengal police a few days after the explosion . . . Investigators have found that Improvised Explosive Devices -LRB- IED -RRB- were being fabricated in the house and smuggled to Bangladesh . . . The NIA has so far found that members of the JMB terror group had established their network in different places like Murshidabad , Nadia , Malda , Birbhum , Bardhaman in West Bengal and Barpeta in Assam , Sahibganj and Pakur in Jharkhand . . . The NIA also claimed that senior members of JMB had established terrorist training centres and bomb-making units in Beldanga and Mukim Nagar of Murshidabad , Nanur of Birbhum and Khagragarh and Simulia of Bardhaman district . PTI .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "O": [
+        "41 gelatin:83", 
+        "explosive devices:158", 
+        "ied:161"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/nia-team-visits-nadia-in-search-of-bardhaman-blast-case-accused/article7025644.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "GELATINE STICKS"
+    ], 
+    "ORG": [
+        [
+            "NIA team", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "NIA team", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Thanarpara police", 
+            "41", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "100", 
+            "Others"
+        ], 
+        [
+            "West Bengal police", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "177", 
+            "Others"
+        ], 
+        [
+            "JMB", 
+            "186", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "223", 
+            "Others"
+        ], 
+        [
+            "JMB", 
+            "230", 
+            "Accused"
+        ], 
+        [
+            "PTI", 
+            "258", 
+            "Others"
+        ]
+    ]
+}

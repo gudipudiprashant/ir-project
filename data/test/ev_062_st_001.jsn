@@ -1,0 +1,215 @@
+{
+    "LOC": [
+        [
+            "Varanasi", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Sankat Mochan temple", 
+            "121", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "291", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "519", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kalam", 
+            "395", 
+            "Others"
+        ], 
+        [
+            "A.P.J. Abdul Kalam", 
+            "402", 
+            "Others"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "481", 
+            "Comment", 
+            "Others"
+        ], 
+        [
+            "Mulayam Singh Yadav", 
+            "524", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "6.30 p.m.:136", 
+        "evening : 147"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:636"
+    ], 
+    "death": "21", 
+    "title": "Bomb blasts rock Varanasi, 21 killed", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Over 62 injured ; terrorists target Sankat Mochan temple , railway station ; security stepped up nationwide . . Varanasi : Three bomb explosions ripped through this holy city , killing at least 21 persons and injuring 62 others at a crowded temple and a railway station . . . The police found two other bombs near the city 's main cremation site on the banks of the Ganga . . . Immediately after the blasts , the police were put on high alert in several parts of the country and security was stepped up at places of worship , vital installations and government buildings . . . Temple was crowded . . The first blast took place inside the Sankat Mochan temple adjacent to the Kashi Vishwanath temple . The bomb went off around 6.30 p.m. when the temple was teeming with devotees during the evening pooja . An eyewitness said a marriage ceremony was in progress at the temple . . . `` The blast was so powerful that it could be heard across the town ... we have moved five or six badly-burned dead , '' he said . . . `` Everyone was running . There were corpses lying around , '' another witness told a television news channel . `` There was almost a stampede . '' . . Rescue workers struggled in the city 's narrow lanes to cart out the victims , said the people on the scene . . . Minutes later , another bomb went off in the holding area of platform one of the Cantonment railway station . . . The third blast occurred in a crowded coach of the Shiv Ganga Express just before it was to leave for New Delhi . The compartment was packed with people going on vacation ahead of the Holi . . . An official said 10 persons died at the temple and 11 at the railway station . Eight of them were women , he said . . . `` We are counting the bodies as they are coming in . There is confusion everywhere and all I can say of now is that three of the eight are young girls , '' he told AFP by telephone . . . Around 62 people were injured , some in critical condition , he said . . . Kalam appeals for calm . . President A.P.J. Abdul Kalam condemned the blasts and appealed for calm and peace . . . A Rashtrapati Bhavan spokesman said the President condoled the loss of lives and conveyed his sympathies to the bereaved families . . . He wished the injured speedy recovery . . . `` The President is sure that the State Government is taking all possible steps to help the victims and to maintain peace there , '' he said . . . Congress president Sonia Gandhi said the incidents were `` mindless acts of terrorism '' and expressed her deep concern and anguish at the loss of lives . . . Ex gratia . . A red alert has been sounded in Uttar Pradesh . Chief Minister Mulayam Singh Yadav announced an ex gratia relief for the victims and appealed to the people to maintain peace and order . . . In a statement in Lucknow , he said the culprits would not be spared . `` Stern action will be initiated against all those found involved in the incident . '' . . He announced an ex gratia of Rs . 5 lakh to those killed in the blasts , Rs . 1 lakh to those seriously injured and Rs . 50,000 to those with minor injuries . . . Patrolling has been intensified throughout the State , especially in those areas where communal clashes took place last Friday . PTI , UNI .", 
+    "injured": "62", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        ""
+    ], 
+    "O": [
+        "injured:3", 
+        "terrorists target:5", 
+        "Sankat Mochan temple:7", 
+        "railway station:11", 
+        "security:14", 
+        "stepped up:15", 
+        "nationwide:17", 
+        "Three bomb explosions:22", 
+        "ripped:25", 
+        "holy city:28", 
+        "crowded temple:42", 
+        "railway station:46", 
+        "bombs:56", 
+        "cremation site:62", 
+        "banks of the Ganga:66", 
+        "blasts:76", 
+        "high alert:83", 
+        "security:92", 
+        "stepped up:94", 
+        "worship:99", 
+        "vital installations:101", 
+        "government buildings:104", 
+        "Temple:109", 
+        "crowded:111", 
+        "blast:116", 
+        "Kashi Vishwanath temple:127", 
+        "bomb:132", 
+        "temple:140", 
+        "teeming:142", 
+        "devotees:144", 
+        "pooja:148", 
+        "eyewitness:151", 
+        "marriage ceremony:154", 
+        "temple:161", 
+        "blast:167", 
+        "powerful:170", 
+        "heard:175", 
+        "town:178", 
+        "badly-burned dead:186", 
+        "running:198", 
+        "corpses:202", 
+        "witness:208", 
+        "television news channel:211", 
+        "stampede:220", 
+        "Rescue workers:225", 
+        "struggled:227", 
+        "city 's narrow lanes:230", 
+        "cart:235", 
+        "victims:238", 
+        "scene:245", 
+        "bomb:253", 
+        "holding area of platform:258", 
+        "Cantonment railway station:265", 
+        "third blast:272", 
+        "crowded coach:277", 
+        "Shiv Ganga Express:281", 
+        "compartment:295", 
+        "packed:297", 
+        "vacation:302", 
+        "Holi:306", 
+        "10 persons died:313", 
+        "temple:318", 
+        "11 at the railway station:320", 
+        "confusion:351", 
+        "young girls:367", 
+        "telephone:375", 
+        "injured:383", 
+        "critical condition:387", 
+        "appeals:396", 
+        "calm:398", 
+        "condemned:405", 
+        "blasts:407", 
+        "appealed:409", 
+        "calm and peace:411", 
+        "Rashtrapati Bhavan:418", 
+        "President condoled:423", 
+        "loss of lives:426", 
+        "conveyed:430", 
+        "sympathies:432", 
+        "bereaved families:435", 
+        "injured:443", 
+        "speedy recovery:444", 
+        "possible steps:461", 
+        "victims:466", 
+        "maintain peace:469", 
+        "incidents:485", 
+        "mindless acts of terrorism:488", 
+        "expressed:494", 
+        "deep concern:496", 
+        "and anguish:498", 
+        "loss of lives:502", 
+        "Ex gratia:508", 
+        "red alert:513", 
+        "sounded:517", 
+        "announced:527", 
+        "ex gratia relief:529", 
+        "victims:534", 
+        "appealed:536", 
+        "peace and order:542", 
+        "Lucknow:552", 
+        "culprits:557", 
+        "spared:561", 
+        "Stern action:564", 
+        "initiated:568", 
+        "incident:576", 
+        "announced:582", 
+        "ex gratia:584", 
+        "Rs . 5 lakh:587", 
+        "killed:593", 
+        "blasts:596", 
+        "Rs . 1 lakh:598", 
+        "seriously injured:604", 
+        "Rs . 50,000:607", 
+        "minor injuries:613", 
+        "Patrolling:618", 
+        "intensified:621", 
+        "State:624", 
+        "communal clashes:631"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/bomb-blasts-rock-varanasi-21-killed/article3161347.ece", 
+    "date": "07-03-2006", 
+    "target": "TEMPLE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AFP", 
+            "373", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "456", 
+            "Others"
+        ]
+    ]
+}

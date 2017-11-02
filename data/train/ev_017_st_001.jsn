@@ -1,0 +1,152 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "GUWAHATI", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Lokapriya Gopinath Bardoloi international airport", 
+            "53", 
+            "Event"
+        ], 
+        [
+            "lower Assam", 
+            "81", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "84", 
+            "Neutral"
+        ], 
+        [
+            "Fancy Bazaar", 
+            "124", 
+            "Event"
+        ], 
+        [
+            "Dispur", 
+            "127", 
+            "Event"
+        ], 
+        [
+            "Sonapur", 
+            "129", 
+            "Event"
+        ], 
+        [
+            "Dispur", 
+            "163", 
+            "Event"
+        ], 
+        [
+            "Fancy Bazaar", 
+            "176", 
+            "Event"
+        ], 
+        [
+            "Sibsagar", 
+            "229", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "231", 
+            "Event"
+        ], 
+        [
+            "Goalpara", 
+            "233", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Khagen Sharma", 
+            "195", 
+            "Comment"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "320", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "evening : 106", 
+        "evening : 132"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "MARCH 9 : 17", 
+        "January 26:288"
+    ], 
+    "death": "", 
+    "title": "Bomb blasts rock Assam", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "BORJHAR", 
+        "Guwahati", 
+        "Lokapriya Gopinath Bardoloi international airport"
+    ], 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM"
+    ], 
+    "content": "Front Page Bomb blasts rock Assam . . By Our Special Correspondent . . GUWAHATI , MARCH 9 . Suspected militants of the United Liberation Front of Asom -LRB- ULFA -RRB- today triggered eight blasts in different parts of the State . Four blasts took place here , including one at the Lokapriya Gopinath Bardoloi international airport injuring two persons . . . A Sub-Inspector was killed and the officer-in-charge of a police station injured while defusing a bomb in lower Assam 's Bongaigaon district . Police recovered two unexploded bombs here . . . An unexploded bomb had been found near the airport this evening . Army experts were rushed to defuse the unexploded bomb . . . Three blasts occurred at Fancy Bazaar , Dispur and Sonapur in the evening . While two persons , including a policeman , were injured in the blast near the Sonapur police outpost , there was no casualty in the other blasts . In Dispur , the blast occurred near a private hospital while the one in Fancy Bazaar occurred near a police outspost . . . The Inspector-General of Police -LRB- Special Branch -RRB- , Khagen Sharma , said that the police were trying to ascertain if the explosions were caused by programmable time delay devices . . . Earlier in the day , blasts took place in the Sibsagar , Dhubri and Goalpara districts . . . There were , however , no casualties . . . UNI adds : . . Most of the blasts were of low intensity and were aimed at creating panic rather than causing serious harm to any installations , officials said . . . The blasts come after the attack on January 26 , when two bombs exploded in the parade ground here . . . The ULFA has not yet claimed responsibility for the blasts . . . The Chief Minister , Tarun Gogoi , reviewed the situation with senior police officers . Security has been beefed up in the State .", 
+    "injured": "2", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Sub-Inspector:65", 
+        "Inspector-General of Police:187", 
+        "police:201", 
+        "low intensity:259", 
+        "Chief Minister:317"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/03/10/stories/2005031007950100.htm", 
+    "date": "10-03-2005", 
+    "target": "", 
+    "hot_spot": "Lokapriya Gopinath Bardoloi international airport", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "24", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "30", 
+            "Accused"
+        ], 
+        [
+            "Sonapur police", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "parade ground", 
+            "297", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "304", 
+            "Accused"
+        ]
+    ]
+}

@@ -125,12 +125,12 @@ def gen_keywords(param):
   threshold = param.get("threshold", 10)
   radius = param.get("radius", 4)
 
-  base_dir = "E:\College\IR\Entity"
+  base_dir = config.base_dir
   if close_words_glob is not None:
     return close_words_glob
 
   print ("ONLY ONCE")
-  jsonDir = "tagged_dataset"
+  jsonDir = config.train_dataset_folder
   import random
   jsonFiles = os.listdir(os.path.join(base_dir, jsonDir))
   random.shuffle(jsonFiles)
@@ -167,8 +167,8 @@ def gen_keywords(param):
   
   for ent_type in close_words.keys():
     close_words[ent_type] = close_words[ent_type].most_common(threshold)
-    # print (ent_type)
-    # print(close_words[ent_type])
+    print (ent_type)
+    print(close_words[ent_type])
     # print("Non relev")
     # print(close_words_non_relev[ent_type].most_common(threshold))
     close_words[ent_type] = [word for word,_ in close_words[ent_type]]

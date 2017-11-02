@@ -1,0 +1,97 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "34", 
+            "Event"
+        ], 
+        [
+            "Panbazar", 
+            "40", 
+            "Event"
+        ], 
+        [
+            "Shani Mandir",
+            "132", 
+            "Event"
+        ], 
+        [
+            "Fancy Bazar", 
+            "136", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "S N Singh", 
+            "106", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 44", 
+        "evening : 129", 
+        "0315 hrs : 172"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "February 9:17", 
+        "February:17", 
+        "Sunday:43", 
+        "Saturday:128"
+    ], 
+    "death": "", 
+    "title": "Powerful bomb blast rocks Assam", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "New Delhi Ahead of the National Games , which is scheduled to begin in Assam on February 9 , a powerful bomb , placed inside a stranded vehicle , exploded in front of Guwahati 's main police station in Panbazar early on Sunday morning . . . There was no casualty or injury in the blast , and it was suspected to have been carried on by ULFA in the run-up to the National Games . . . The car in which the bomb was placed was towed away along with three other cars . . . According to city 's Senior Superintendent of Police S N Singh , the vehicle was towed away before the police station along with three others by the traffic department on Saturday evening from nearby Shani Mandir area of Fancy Bazar . . . While three of the vehicles were claimed by owners and taken away by paying required fines , the unclaimed fourth one was fitted with a bomb , which went off at 0315 hrs , IST . . . The vehicle was dragged despite a warning from state intelligence that militants from the banned ULFA could use car bombs in the next few days . . . Though the vehicle was considerably damaged , the police station remained unscathed . . . Security in the entire city has been further beefed up to ensure the ensuing National Games passes off smoothly . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "guwahati", 
+        "Assam"
+    ], 
+    "O": [
+        "car:80", 
+        "Senior Superintendent of Police:102"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/powerful-bomb-blast-rocks-assam-257727.html", 
+    "date": "04-02-2007", 
+    "target": "", 
+    "hot_spot": "Assam", 
+    "delivery_mod": "VEHICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "68", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "194", 
+            "Accused"
+        ]
+    ]
+}

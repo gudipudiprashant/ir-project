@@ -1,0 +1,152 @@
+{
+    "LOC": [
+        [
+            "Agartala", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Agartala", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Tripura", 
+            "157", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "S.B. Dutta", 
+            "161", 
+            "Others"
+        ], 
+        [
+            "Bikash Debbarma", 
+            "183", 
+            "Others"
+        ], 
+        [
+            "Kumaria Debbarma", 
+            "186", 
+            "Others"
+        ], 
+        [
+            "Sachindra Debbarma", 
+            "189", 
+            "Others"
+        ], 
+        [
+            "Dinesh Debbarma", 
+            "192", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "evening : 41", 
+        "six years : 137"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 4", 
+        "2008 : 16", 
+        "October 1 : 43", 
+        "Tuesday : 164"
+    ], 
+    "death": "", 
+    "title": "4 get life for 2008 Agartala serial bombings", 
+    "org_unorg": "", 
+    "terror_group": [
+        "ALL TRIPURA TIGER FORCE"
+    ], 
+    "content": "A court on Tuesday awarded life imprisonment to four extremist collaborators for their involvement in 2008 serial blasts in Agartala . Around 100 people , many of them women , were injured in the bombings in four crowded places on evening of October 1 . . . The attacks on eve of Durga Puja biggest annual festival of the state created huge panic in Agartala and elsewhere of the state . Three bombs were later recovered in separate places of the city and defused preventing further casualties . . . Despite initial confusion CID of state police cracked the case and found evidence to link outlawed All Tripura Tiger Force -LRB- ATTF -RRB- . Police had chargesheeted seven men for carrying out the bombings in connivance with the extremists . . . The trial took over six years to complete and the designated judge earlier freed three accused from charges for want of evidence . West Tripura Additional District Judge S.B. Dutta on Tuesday sentenced four men to life under different IPC sections including Explosive Substance Act . . . Counsels representing Bikash Debbarma , Kumaria Debbarma , Sachindra Debbarma and Dinesh Debbarma said they would appeal in the High Court against the verdict . Two of the convicts however pleaded guilty in the court .", 
+    "injured": "100", 
+    "det_loc": [
+        "India", 
+        "Tripura", 
+        "West District", 
+        "Agartala", 
+        ""
+    ], 
+    "O": [
+        "court:2", 
+        "awarded:5", 
+        "life imprisonment:6", 
+        "four extremist:9", 
+        "collaborators:11", 
+        "involvement:14", 
+        "serial blasts:17", 
+        "women:29", 
+        "injured:32", 
+        "bombings:35", 
+        "four crowded places:37", 
+        "attacks:49", 
+        "durga puja:53", 
+        "festival:57", 
+        "huge panic:62", 
+        "state:70", 
+        "three bombs:72", 
+        "recovered:76", 
+        "separate places:78", 
+        "defused:84", 
+        "casualties:87", 
+        "initial confusion:92", 
+        "cracked:98", 
+        "case:100", 
+        "found evidence:102", 
+        "chargesheeted:117", 
+        "bombings:124", 
+        "connivance:126", 
+        "extremists:129", 
+        "trial:134", 
+        "designated judge:143", 
+        "three accused:147", 
+        "charges:150", 
+        "evidence:154", 
+        "sentenced:165", 
+        "ipc sections:172", 
+        "explosive substance act:175", 
+        "counsels:181", 
+        "appeal:197", 
+        "verdict:204", 
+        "convicts:209", 
+        "guilty:212", 
+        "court:215"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/other-states/4-get-life-for-2008-agartala-serial-bombings/article7150985.ece", 
+    "date": "01-10-2015", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CID", 
+            "94", 
+            "Others"
+        ], 
+        [
+            "All Tripura Tiger Force", 
+            "107", 
+            "Accused"
+        ], 
+        [
+            "ATTF", 
+            "112", 
+            "Accused"
+        ], 
+        [
+            "High Court", 
+            "200", 
+            "Others"
+        ]
+    ]
+}

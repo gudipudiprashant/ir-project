@@ -1,0 +1,134 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Manipur", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "34", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Bongaigaon", 
+            "91", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "93", 
+            "Neutral"
+        ], 
+        [
+            "Kokrajhar", 
+            "109", 
+            "Neutral"
+        ], 
+        [
+            "Chirang", 
+            "123", 
+            "Neutral"
+        ], 
+        [
+            "Manipur", 
+            "166", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Omar Abdullah", 
+            "38", 
+            "Comment"
+        ], 
+        [
+            "Sangbijit", 
+            "99", 
+            "Accused"
+        ], 
+        [
+            "Bipul Brahma", 
+            "126", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:4"
+    ], 
+    "death": "", 
+    "title": "Blasts in Assam, Manipur", 
+    "org_unorg": "", 
+    "terror_group": [
+        "NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)"
+    ], 
+    "content": "Bomb blasts on Thursday rocked Assam and Manipur during Independence Day functions injuring one person even as Chief Ministers asked extremists to abjure violence and return to the mainstream . . . In Srinagar , Chief Minister Omar Abdullah in his Independence Day address advocated resumption of dialogue with Pakistan as well as with the separatists to resolve the political issues of Jammu and Kashmir . The celebrations passed off peacefully in the state with no report of any untoward incident from anywhere in the Valley . . . In Bongaigaon in Assam , the anti-talk NDFB -LRB- Sangbijit -RRB- faction triggered serial blasts injuring one person in Kokrajhar district where the outfit exploded two grenades while another was triggered in neighbouring Chirang district . Bipul Brahma -LRB- 45 -RRB- was injured in one of the explosions in Kokrajhar.Another unexploded bomb was recovered from the district and defused . . . A powerful bomb exploded a few minutes before the celebrations of Independence day in Manipur but no casualty was reported.PTI .", 
+    "injured": "1", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kokrajhar", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Bomb blasts:1", 
+        "Independence Day functions:10", 
+        "Chief Ministers:18", 
+        "extremists:21", 
+        "abjure violence:23", 
+        "return to the mainstream:26", 
+        "Independence Day:42", 
+        "resumption of dialogue:46", 
+        "separatists:56", 
+        "peacefully:71", 
+        "untoward incident:80", 
+        "Valley:86", 
+        "anti-talk:96", 
+        "triggered serial blasts:102", 
+        "exploded two grenades:114", 
+        "injured:132", 
+        "unexploded bomb:140", 
+        "defused:148", 
+        "powerful bomb exploded:153", 
+        "Independence day:163", 
+        "casualty:169"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/blasts-in-assam-manipur/article5026818.ece", 
+    "date": "15-08-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "NDFB", 
+            "97", 
+            "Accused"
+        ]
+    ]
+}

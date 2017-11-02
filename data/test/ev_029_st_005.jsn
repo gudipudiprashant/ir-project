@@ -1,0 +1,156 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "25", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "42", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "92", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "174", 
+            "Event"
+        ], 
+        [
+            "Athgaon", 
+            "176", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "4", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "34", 
+            "Comment"
+        ], 
+        [
+            "Shivraj Patil", 
+            "58", 
+            "Comment"
+        ], 
+        [
+            "Patil", 
+            "124", 
+            "Comment"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "S N Singh", 
+            "210", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "273", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "today : 6", 
+        "today : 36", 
+        "10.45 a.m. : 187"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 26:28", 
+        "Saturday:179"
+    ], 
+    "death": "7", 
+    "title": "Manmohan, Patil condemn Guwahati blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Prime Minister Dr. Manmohan Singh today condemned the bomb blast in Guwahati that left seven people dead and other twenty injured . . . New Delhi , May 26 : Prime Minister Dr. Manmohan Singh today condemned the bomb blast in Guwahati that left seven people dead and other twenty injured . . . Union Home Minister Shivraj Patil also expressed condolences to the relatives of those killed . . . The Centre said that such incidents would not succeed in weakening their resolve to deal strongly with divisive forces in Assam and other northeastern states . . . Following the blast , the Home Ministry is in constant touch with the State Government and is monitoring the situation regularly . . . Patil also spoke to the Assam Chief Minister Tarun Gogoi and advised the State administration to remain vigilant and ensure that peace is maintained.At least seven people were killed and 20 injured in a powerful bomb explosion set off by the United Liberation Front of Asom ( ULFA ) in Guwahati 's Athgaon area on Saturday . . . The explosion occurred around 10.45 a.m. . The bomb was hidden in a autorickshaw parked near the Marwari Maternity Hospital , said Senior Superintendent of Police , S N Singh . . . The intensity of the blast was so high that vehicles parked nearby were destroyed and the windowpanes of a three-storyed building located nearby were broken . . . Chaos and confusion prevailed at the blast site as people attempted to flee . . . The area has been cordoned off and a rescue mission is on , Singh added . . . The injured have been admitted to the Guwahati Medical College Hospital . . . Locals have protested against the incident . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .", 
+    "injured": "20", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "bomb blast:9", 
+        "bomb blast:39", 
+        "northeastern states:95", 
+        "blast:102", 
+        "State administration:137", 
+        "vigilant:141", 
+        "powerful bomb explosion:158", 
+        "explosion:184", 
+        "bomb:191", 
+        "autorickshaw:196", 
+        "blast:220", 
+        "blast site:250", 
+        "protested:294"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.andhranews.net/India/2007/May/26-Manmohan-Patil-condemn-2522.asp", 
+    "date": "26-05-2007", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "AUTO-RICKSHAW", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Centre", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "113", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "165", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "171", 
+            "Accused"
+        ], 
+        [
+            "Marwari Maternity Hospital", 
+            "200", 
+            "Others"
+        ], 
+        [
+            "Guwahati Medical College Hospital", 
+            "285", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "LOC": [
+        [
+            "Srinagar", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Sonwar", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Kashmir", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "152", 
+            "Event"
+        ], 
+        [
+            "Kashmir", 
+            "241", 
+            "Neutral"
+        ], 
+        [
+            "central Lal Chowk", 
+            "308", 
+            "Neutral"
+        ], 
+        [
+            "Badami Bagh Cantonment", 
+            "476", 
+            "Neutral"
+        ], 
+        [
+            "Church Lane", 
+            "513", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singhs", 
+            "101", 
+            "Others"
+        ], 
+        [
+            "S.S. Dhillon", 
+            "161", 
+            "Others"
+        ], 
+        [
+            "Javed Ahmad Makhdoomi", 
+            "245", 
+            "Comment"
+        ], 
+        [
+            "Kapil Vinayak", 
+            "360", 
+            "Victim"
+        ], 
+        [
+            "Nayak Ram Krishen", 
+            "363", 
+            "Victim"
+        ], 
+        [
+            "Sepoy S.C. Dubey", 
+            "367", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "morning : 43", 
+        "9-30 a.m.:288", 
+        "a.m.:289"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 20 : 3"
+    ], 
+    "death": "4", 
+    "title": "4 killed, 15 hurt in Srinagar car bomb blast   ", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "Srinagar", 
+        ""
+    ], 
+    "terror_group": [
+        "HIZB-UL-MUJAHIDEEN / HIZB-UL-MUJAHIDEEN PIR PANJAL REGIMENT"
+    ], 
+    "content": "Srinagar , July 20 A powerful car bomb explosion targeted at a convoy of the security forces took place in the high security area , killing at least four persons , including three Army personnel in the Sonwar area , here this morning . An Army Major was among those killed while at least 15 others , including four Army jawans , were injured as the Maruti car and an Army vehicle were completely damaged in the explosion . . . The incident is regarded as a desperate action by militants , which coincided with the Prime Minister , Dr Manmohan Singhs US visit . It follows a series of infiltration attempts of armed militants from across the LoC in north Kashmir ahead of the Prime Ministers visit , and is believed to be an attempt on scuttling the peace process . It was only a day after the GOC of Srinagar based 15 Corps of the Army , Lieut-Gen S.S. Dhillon claiming that there was a considerable reduction in the level of violence , but admitting that the militants had the potential to strike . . . A spokesman for the Hizbul Mujahideen outfit , who rang up some local media agencies here , has claimed responsibility for the attack . It was , however , not clear whether the explosion was caused by triggering an IED fitted in the car . . . The Inspector-General of Police , Kashmir Range , Mr Javed Ahmad Makhdoomi , said here that the explosion was caused by an explosive-laden Maruti car , which had come in the opposite direction of the Army convoy near SK Cricket stadium . . . He said the incident took place at about 9-30 a.m. , when there was heavy movement of traffic on the main road about one km . from the central Lal Chowk . He said that three Army personnel , including a Major and one civilian were killed , in the incident , while 15 others were injured . The condition of a woman injured in the explosion was critical , the IG , Police said . Those killed included Major Kapil Vinayak , Nayak Ram Krishen and Sepoy S.C. Dubey . The IG , Police , ruled out the possibility of this being a suicide attack as the four bodies recovered from the site had been identified . . . Panic gripped the area after the explosion near the Christian Missionary Burn Hall School . At the time of the explosion , the students were inside the classrooms , which prevented any harm to the children . However , window panes of the nearby buildings , one of these housing LIC office , were damaged . Damage was also caused to the glass panes of various buildings in the area , about one km from the Badami Bagh Cantonment , where the 15 Corps Headquarters of the Army is located . . . The explosion took place about 50 metres away from the main entrance to the Burn Hall School opposite to the Church Lane where a number of ministerial bungalows are located . . . It was also in front of the Sher-e-Kashmir cricket stadium , which normally remains the venue of VIP functions .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "car bomb explosion:7", 
+        "security forces:16", 
+        "high security area:22", 
+        "killed:51", 
+        "injured:64", 
+        "maruti car:67", 
+        "explosion:78", 
+        "militants:91", 
+        "militants:115", 
+        "loc:119", 
+        "peace process:140", 
+        "goc:150", 
+        "15 corps:154", 
+        "violence:174", 
+        "militants:180", 
+        "attack:211", 
+        "explosion:222", 
+        "ied:228", 
+        "explosion:253", 
+        "maruti car:259", 
+        "SK Cricket stadium:274", 
+        "killed:326", 
+        "injured:336", 
+        "injured:343", 
+        "explosion:346", 
+        "killed:357", 
+        "suicide attack:384", 
+        "explosion:406", 
+        "explosion:420", 
+        "explosion:494", 
+        "ministerial bungalows:519", 
+        "Sher-e-Kashmir cricket stadium:533", 
+        "VIP functions:543"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.tribuneindia.com/2005/20050721/main3.htm", 
+    "date": "20-07-2005", 
+    "target": "MILITARY GROUP", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Army", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "Army", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "Army", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "Army", 
+            "71", 
+            "Others"
+        ], 
+        [
+            "US", 
+            "103", 
+            "Others"
+        ], 
+        [
+            "Army", 
+            "158", 
+            "Others"
+        ], 
+        [
+            "Hizbul Mujahideen", 
+            "193", 
+            "Accused"
+        ], 
+        [
+            "Army", 
+            "271", 
+            "Others"
+        ], 
+        [
+            "Army", 
+            "316", 
+            "Others"
+        ], 
+        [
+            "Christian Missionary Burn Hall School", 
+            "409", 
+            "Others"
+        ], 
+        [
+            "Army", 
+            "487", 
+            "Others"
+        ], 
+        [
+            "Burn Hall School", 
+            "507", 
+            "Others"
+        ]
+    ]
+}

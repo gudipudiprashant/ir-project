@@ -1,0 +1,122 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati and Tinsukia", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Tinsukia", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Tinsukia in Assam", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "21", 
+            "Assoc_Event"
+        ], 
+        [
+            "Anthgaon", 
+            "39", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "45", 
+            "Assoc_Event"
+        ], 
+        [
+            "Devipukhuri", 
+            "82", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "89", 
+            "Neutral"
+        ], 
+        [
+            "Bilasipara", 
+            "103", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "106", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "110", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "6.30 : 48"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saunday:50", 
+        "Sunday:91"
+    ], 
+    "death": "3", 
+    "title": "Assam: 3 killed, 15 hurt in blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Three persons were killed and over 15 injured in two separtae incidents of bomb blasts in Guwahati and Tinsukia in Assam . . . Police informed that suspected United Liberation Front of Asom militants detonated a bomb at Anthgaon area in the heart of Guwahati at around 6.30 on Saunday evening killing one person and injuring four . . . Two more persons were killed and at least 11 others injured when a bomb went off inside a Maruti car at Devipukhuri area in Tinsukia town of eastern Assam on Sunday evening . . . Militants also triggered a grenade explosion at Bilasipara town in Dhubri district of western Assam . The police cliamed that no one was injurted in the incident . .", 
+    "injured": "15", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "guwahati", 
+        ""
+    ], 
+    "O": [
+        "bomb:14", 
+        "detonated:35", 
+        "Militants:96", 
+        "grenade explosion:100", 
+        "district:107"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2007/nov/25assam.htm", 
+    "date": "25-11-2007", 
+    "target": "CITIZENS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "BOMB", 
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "29", 
+            "Accused", 
+            "Others"
+        ]
+    ]
+}

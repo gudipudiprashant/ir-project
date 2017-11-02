@@ -1,0 +1,197 @@
+{
+    "LOC": [
+        [
+            "Chennai", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "100", 
+            "Neutral"
+        ], 
+        [
+            "Kerala", 
+            "103", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "118", 
+            "Neutral"
+        ], 
+        [
+            "Beldanga", 
+            "147", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "Simulia Madrassa", 
+            "206", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "251", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "270", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "284", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shakil Ahmed", 
+            "150", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:9", 
+        "October 2:158"
+    ], 
+    "death": "", 
+    "title": "NIA summons three from Chennai", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "JAMIAT-UL-MUJAHIDEEN"
+    ], 
+    "content": "The National Investigation Agency -LRB- NIA -RRB- on Tuesday summoned three persons from Chennai for interrogation in the Bardhaman blast case , after phone records revealed that they were in touch with the accused . . . At this stage , there is no concrete evidence to suggest their involvement . However , since their names have cropped up during the preliminary investigations , they have to be examined , an official said . . . Based on the phone records , the NIA found that the accused had links in almost all major cities , including those in Tamil Nadu and Kerala , he said . . . The NIA conducted searches in different parts of West Bengal on further leads in the case , allegedly involving members of Jamaat-Ul-Mujahideen , a Bangladesh-based extremist group . . . The agency also collected evidence from the Beldanga accommodation of Shakil Ahmed , who was killed in the October 2 blast . Certain documents and metal pieces used in the making of the improvised explosive devices have been recovered , said an official of the Union Home Ministry . . . The NIA team and the West Bengal CID have also launched a search of the Simulia Madrassa , where the accused had been radicalised and initiated into terror activities . . . The NIA has already taken custody of three of the 12 accused , and is trying to secure the custody of the others for joint interrogation with the West Bengal CID and intelligence sleuths . . . Phone records reveal that they were in touch with the Bardhaman blast accused . . Phone records reveal they were in touch with the Bardhaman blast accused .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "summoned:10", 
+        "three persons:11", 
+        "interrogation:16", 
+        "bardhaman blast case:19", 
+        "phone records:24", 
+        "revealed:26", 
+        "accused:34", 
+        "concrete evidence:45", 
+        "suggest:48", 
+        "involvement:50", 
+        "cropped up:58", 
+        "preliminary investigations:62", 
+        "examined:69", 
+        "phone records:80", 
+        "accused:88", 
+        "links:90", 
+        "major cities:94", 
+        "searches:113", 
+        "case:125", 
+        "bangladesh-based extremist group:134", 
+        "agency:141", 
+        "collected evidence:143", 
+        "accommodation:148", 
+        "killed:155", 
+        "blast:160", 
+        "certain documents:162", 
+        "metal pieces:165", 
+        "improvised explosive devices:173", 
+        "recovered:178", 
+        "launched:201", 
+        "accused:211", 
+        "radicalised:214", 
+        "initiated:216", 
+        "terror activities:218", 
+        "custody:228", 
+        "12 accused:233", 
+        "secure:240", 
+        "custody:242", 
+        "joint interrogation:247", 
+        "intelligence sleuths:255", 
+        "phone records:260", 
+        "reveal:262", 
+        "touch:267", 
+        "bardhaman blast accused:270", 
+        "phone records:275", 
+        "reveal:277", 
+        "reveal they were in touch with the bardhaman blast accused:277", 
+        "touch:281"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/nia-summons-three-from-chennai/article6502057.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "84", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "111", 
+            "Others"
+        ], 
+        [
+            "Jamaat-Ul-Mujahideen", 
+            "131", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "192", 
+            "Others"
+        ], 
+        [
+            "CID", 
+            "198", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "224", 
+            "Others"
+        ], 
+        [
+            "CID", 
+            "253", 
+            "Others"
+        ]
+    ]
+}

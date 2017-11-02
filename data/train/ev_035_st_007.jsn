@@ -1,0 +1,77 @@
+{
+    "LOC": [
+        [
+            "HYDERABAD", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "18", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:42"
+    ], 
+    "death": "", 
+    "title": "CPI condemns Assam blasts", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "HYDERABAD : The CPI has condemned the killing of several people in bomb blasts by militants in Assam and demanded that necessary steps be taken for restoring peace in the troubled State . The partys State Executive which met here on Thursday expressed its shock over the heinous act and conveyed its condolences to the members of the bereaved families . It sought payment of Rs .5 lakh each to the kin of those killed in the blasts . Special Correspondent .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "condemned:6", 
+        "killing:8", 
+        "bomb blasts:13", 
+        "militants:16", 
+        "demanded:20", 
+        "necessary steps:22", 
+        "peace:28", 
+        "troubled:31", 
+        "state executive:36", 
+        "expressed:43", 
+        "shock:45", 
+        "heinous act:48", 
+        "conveyed:51", 
+        "condolences:53", 
+        "bereaved families:59", 
+        "payment:64", 
+        "Rs .5 lakh:66", 
+        "kin:72", 
+        "killed:75", 
+        "blasts:78"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/cpi-condemns-assam-blasts/article1366741.ece", 
+    "date": "31-10-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CPI", 
+            "4", 
+            "Others"
+        ]
+    ]
+}

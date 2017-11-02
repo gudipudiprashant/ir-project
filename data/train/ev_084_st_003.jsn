@@ -1,0 +1,491 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "43", 
+            "Event"
+        ], 
+        [
+            "German Bakery", 
+            "79", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "99", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "101", 
+            "Event"
+        ], 
+        [
+            "Kanpur", 
+            "103", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "136", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "151", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "191", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "204", 
+            "Accused"
+        ], 
+        [
+            "Karachi", 
+            "210", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "246", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "249", 
+            "Event"
+        ], 
+        [
+            "Pune .", 
+            "249", 
+            "Event"
+        ], 
+        [
+            "Karachi", 
+            "259", 
+            "Accused"
+        ], 
+        [
+            "Karachi", 
+            "282", 
+            "Accused"
+        ], 
+        [
+            "Maharashtra", 
+            "319", 
+            "Accused"
+        ], 
+        [
+            "Pune", 
+            "331", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "539", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "542", 
+            "Event"
+        ], 
+        [
+            "Iraq", 
+            "580", 
+            "Event"
+        ], 
+        [
+            "Afghanistan", 
+            "582", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "584", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "592", 
+            "Neutral"
+        ], 
+        [
+            "Mangalore", 
+            "663", 
+            "Neutral"
+        ], 
+        [
+            "United States", 
+            "728", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "765", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "767", 
+            "Event"
+        ], 
+        [
+            "Mangalore", 
+            "783", 
+            "Accused"
+        ], 
+        [
+            "Pune", 
+            "840", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "891", 
+            "Neutral"
+        ], 
+        [
+            "United States", 
+            "900", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "906", 
+            "Neutral"
+        ], 
+        [
+            "Afghan", 
+            "940", 
+            "Neutral"
+        ], 
+        [
+            "Kabul", 
+            "960", 
+            "Event"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "979", 
+            "Neutral"
+        ], 
+        [
+            "India-Punjab", 
+            "989", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "jihadist Mohammad Khwaja", 
+            "125", 
+            "Accused"
+        ], 
+        [
+            "Khalid Sardana", 
+            "162", 
+            "Accused"
+        ], 
+        [
+            "jihadist David Headley", 
+            "232", 
+            "Accused"
+        ], 
+        [
+            "Riyaz Ismail Shahbandari", 
+            "288", 
+            "Others"
+        ], 
+        [
+            "Iqbal Shahbandari", 
+            "294", 
+            "Others"
+        ], 
+        [
+            "Abdul Subhan Qureshi", 
+            "297", 
+            "Others"
+        ], 
+        [
+            "Zabiuddin Ansari", 
+            "322", 
+            "Others"
+        ], 
+        [
+            "Rahil Sheikh", 
+            "325", 
+            "Others"
+        ], 
+        [
+            "Mohammad Mansoor Asghar Peerbhoy", 
+            "375", 
+            "Others"
+        ], 
+        [
+            "Peerbhoy", 
+            "411", 
+            "Accused"
+        ], 
+        [
+            "Peerbhoy", 
+            "458", 
+            "Accused"
+        ], 
+        [
+            "Peerbhoy", 
+            "544", 
+            "Accused"
+        ], 
+        [
+            "Asif Bashar Sheikh", 
+            "563", 
+            "Others"
+        ], 
+        [
+            "Peerbhoy", 
+            "567", 
+            "Accused"
+        ], 
+        [
+            "Peerbhoy", 
+            "606", 
+            "Others"
+        ], 
+        [
+            "Riyaz Shahbandri", 
+            "617", 
+            "Accused"
+        ], 
+        [
+            "Iqbal Shahbandri", 
+            "625", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "660", 
+            "Accused"
+        ], 
+        [
+            "Peerbhoy", 
+            "679", 
+            "Accused"
+        ], 
+        [
+            "Peerbhoy", 
+            "703", 
+            "Others"
+        ], 
+        [
+            "Bhatkal", 
+            "779", 
+            "Accused"
+        ], 
+        [
+            "Peerbhoy", 
+            "795", 
+            "Accused"
+        ], 
+        [
+            "Mohsin Chowdhury", 
+            "822", 
+            "Others"
+        ], 
+        [
+            "Peerbhoy", 
+            "843", 
+            "Others"
+        ], 
+        [
+            "Jalaluddin Haqqani", 
+            "942", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "August : 3", 
+        "Saturday:45", 
+        "February 5:106", 
+        "2006:361", 
+        "2008:399", 
+        "1998:409", 
+        "June , 2004 : 477", 
+        "October:528", 
+        "2006:530", 
+        "2007:602", 
+        "August , 2008 : 774", 
+        "November , 2008 : 886", 
+        "October , 2009:930"
+    ], 
+    "death": "", 
+    "title": "Pune bombing could herald renewed Lashkar offensive", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        "Pune"
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA", 
+        "JAISH-E-MOHAMMED / TAHRIK-E-FURQAN"
+    ], 
+    "content": "Late last August , Indias intelligence services listened in as two Pakistan-based Lashkar-e-Taiba operatives discussed plans to attack targets in Pune . . . No evidence has yet emerged to link the timer-controlled , directional improvised explosive device that went off in Pune on Saturday to Pakistan-backed jihadist groups like the Lashkar-e-Taiba . But Indias intelligence services believe that call and a mass of other indications suggest they were the most likely perpetrators of the bombing of the German Bakery . . . Jihadist operations . . Long before Lashkar Deputy Chief held out threats of attacks against Delhi , Pune and Kanpur in a February 5 speech , a mass of jihadist operations had been detected . . . In mid-2009 , Karachi-based jihadist Mohammad Khwaja recently handed over by Sri Lankan authorities to India is believed to have planned a bombing of the Rashtriya Swayamsevak Sanghs offices in Kolkata to coincide with the Lok Sabha elections . . . Khalid Sardana , a Poonch-based Lashkar operative who played a key role in raising recruits for the organisation , was arrested late last year while attempting to rebuild western India networks he had constructed for the terrorist group while studying at a Gujarat seminary . . . The Karachi Project . . Lashkar commanders , evidence presented by the Federal Bureau of Investigation in support of the prosecution of Pakistani-American jihadist David Headley suggests , were at an advanced stage of planning attacks in New Delhi and Pune . Headley also spoke of what he called the Karachi Project : a Lashkar unit dedicated to using Pakistan-based Indian operatives to stage a renewed series of attacks . . . In Karachi , fugitive Indian Mujahideen leaders Riyaz Ismail Shahbandari , his brother Iqbal Shahbandari and Abdul Subhan Qureshi were believed to be preparing the ground for these attacks , possibly in alliance with long-standing Lashkar operatives from Maharashtra , like Zabiuddin Ansari and Rahil Sheikh . . . The Pune cell . . Investigators are focussing their attentions on the prospect that the attacks were carried out by a Pune jihad cell known to have existed since at least 2006 . Much of the story of the cell emerged from the questioning of Mohammad Mansoor Asghar Peerbhoy , an Indian Mujahideen operative held in the course of a national counter-terrorism operation that targeted the Lashkar-linked group in 2008 . . . Having graduated from Pune University in 1998 , Peerbhoy developed a successful career as a software engineer . He served for over a decade with the offshore operations of several United States-based companies , before he was hired as a web services engineer by Yahoo . . . But like many upwardly mobile professionals , Peerbhoy found himself dislocated by the westernised social milieu he found themselves in and turned to religion . In June , 2004 , he travelled with his father a major contractor of fruit to the Indian Armys western command for the Haj pilgrimage . Later , he began studying Arabic and religion with the Quran Foundation , a prominent religious organisation that steered clear of politics . . . In October , 2006 , during a 10-day spiritual retreat at the Jama Masjid in Pune , Peerbhoy ran into an associate from his Quran Foundation classes who helped alter his world view . Local resident Asif Bashar Sheikh introduced Peerbhoy to Islamism . The young computer engineer began discussing the conflicts in Iraq , Afghanistan and Pakistan , as well as communal violence in India . . . Later , in the spring of 2007 , though , Peerbhoy was introduced to the Indian Mujahideens key operational commander , Riyaz Shahbandri , and his brother , ideologue Iqbal Shahbandri . Based out of a rented flat off Ashoka Mews in Punes Khondva area , the two men sons of an affluent Mumbai-based tannery owner , who had migrated to the city from Bhatkal , near Mangalore ran a secret jihadist group which called itself Isabah . . . Early on , Peerbhoy was tasked with setting up a website for IsabahArabic for the companions of the Prophet Mohammad . The plan was dropped , but Peerbhoy was paid to attend a courses on internet security to help the organisation communicate safely . Later , on a business visit to the United States , he purchased equipment police say was intended to help the organisation evade espionage and locate unsecured wireless networks . The hacked wireless networks were used to send out manifestos claiming responsibility for bombings in Gujarat and New Delhi . . . Late in August , 2008 , the Bhatkal brothers returned to Mangalore a decision which allowed them to evade the police who arrested Peerbhoy and other members of the Pune jihad cell later that year . However , several members of the Indian Mujahideen network in the city , notably Mohsin Chowdhury , also succeeded in escaping . Police believe the Bhatkal brothers may also have recruited other Pune residents who Peerbhoy and his associates were never introduced to . . . Escalating threat . . Indian intelligence analysis believe that these networks are being revived because the international pressure which compelled Pakistans Inter-Services Intelligence Directorate to clamp down on jihadist operations after the November , 2008 carnage in Mumbai has waned . . . Even as the United States seeks a deal with Afghanistan and Pakistan-based Islamists , Pakistans ISI appears to have been testing Indias responses to violence from the jihadist groups it backs . In October , 2009 , jihadists linked to the networks of Afghan warlord Jalaluddin Haqqani widely believed to be a close ally of Pakistans ISI attempted to bomb Indias Embassy in Kabul , killing 19 people . Later in the winter , tensions escalated along the Line of Control in Jammu and Kashmir , and rockets were fired across the India-Punjab border .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Deputy Chief:91", 
+        "Lok Sabha:156", 
+        "Arabic:507", 
+        "Quran Foundation:512", 
+        "Islamism:569"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/article106587.ece", 
+    "date": "13-02-2010", 
+    "target": "", 
+    "hot_spot": "Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indias intelligence services", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "jihadist groups", 
+            "48", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "52", 
+            "Accused"
+        ], 
+        [
+            "Lashkar", 
+            "90", 
+            "Accused"
+        ], 
+        [
+            "Rashtriya Swayamsevak Sanghs", 
+            "146", 
+            "Others"
+        ], 
+        [
+            "Lashkar", 
+            "167", 
+            "Accused"
+        ], 
+        [
+            "Lashkar", 
+            "214", 
+            "Accused"
+        ], 
+        [
+            "Federal Bureau of Investigation", 
+            "221", 
+            "Others"
+        ], 
+        [
+            "Lashkar", 
+            "263", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "285", 
+            "Accused"
+        ], 
+        [
+            "Lashkar", 
+            "316", 
+            "Accused"
+        ], 
+        [
+            "Pune jihad cell", 
+            "351", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "381", 
+            "Accused"
+        ], 
+        [
+            "Pune University", 
+            "406", 
+            "Others"
+        ], 
+        [
+            "Yahoo", 
+            "447", 
+            "Others"
+        ], 
+        [
+            "Indian Armys western", 
+            "493", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideens", 
+            "611", 
+            "Accused"
+        ], 
+        [
+            "jihadist group", 
+            "667", 
+            "Accused"
+        ], 
+        [
+            "Prophet Mohammad", 
+            "694", 
+            "Others"
+        ], 
+        [
+            "Pune jihad cell", 
+            "801", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "814", 
+            "Accused"
+        ], 
+        [
+            "Indian intelligence analysis", 
+            "858", 
+            "Others"
+        ], 
+        [
+            "Islamists", 
+            "909", 
+            "Accused"
+        ]
+    ]
+}

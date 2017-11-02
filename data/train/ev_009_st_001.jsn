@@ -1,0 +1,81 @@
+{
+    "LOC": [
+        [
+            "Manipur", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Nagamapal", 
+            "32", 
+            "Event"
+        ], 
+        [
+            "Imphal West", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "39", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "7.45 pm .:53"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:18"
+    ], 
+    "death": "8", 
+    "title": "Manipur: Eight killed and 10 injured in Imphal explosion", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "GUWAHATI : In a powerful explosion in Manipur eight people were killed and over 10 injured on Friday . . . Police sources told ET , `` Militants exploded powerful bomb Nagamapal area in Imphal West district of Manipur . The bomb was planted in a shop and explosion took place around 7.45 pm . The victims of the blast are believed to be non-Manipuri persons . '' . . Sources said no militant outfit has claimed the responsibility fort the blast . `` There are several militants ' outfits operating in the state . '' .", 
+    "injured": "10", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Imphal West", 
+        "Imphal", 
+        "Nagamapal"
+    ], 
+    "O": [
+        "explosion:6", 
+        "killed:12", 
+        "injured:16", 
+        "militants:28", 
+        "bomb:31", 
+        "bomb:42", 
+        "explosion:49", 
+        "victims:57", 
+        "blast:60", 
+        "militant outfit:74", 
+        "blast:82", 
+        "militants ' outfits:88"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2013-09-13/news/42041977_1_imphal-west-manipur-explosion", 
+    "date": "13-09-2013", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ET", 
+            "25", 
+            "Others"
+        ]
+    ]
+}

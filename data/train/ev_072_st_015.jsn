@@ -1,0 +1,212 @@
+{
+    "LOC": [
+        [
+            "Ludhiana", 
+            "3", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "139", 
+            "Event"
+        ], 
+        [
+            "Punjab", 
+            "171", 
+            "Event"
+        ], 
+        [
+            "Chandigarh", 
+            "417", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "438", 
+            "Event"
+        ], 
+        [
+            "Punjab", 
+            "520", 
+            "Event"
+        ], 
+        [
+            "Chandigarh", 
+            "672", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "718", 
+            "Event"
+        ], 
+        [
+            "Punjab", 
+            "729", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ajit Doval", 
+            "86", 
+            "Comment"
+        ], 
+        [
+            "Doval", 
+            "131", 
+            "Comment"
+        ], 
+        [
+            "Ishwar Singh", 
+            "142", 
+            "Comment"
+        ], 
+        [
+            "N P S Aulakh", 
+            "177", 
+            "Comment"
+        ], 
+        [
+            "Ishwar Singh", 
+            "250", 
+            "Comment"
+        ], 
+        [
+            "Rajesh Paul", 
+            "348", 
+            "Comment"
+        ], 
+        [
+            "Aulakh", 
+            "406", 
+            "Comment"
+        ], 
+        [
+            "Ishwar Singh", 
+            "475", 
+            "Comment"
+        ], 
+        [
+            "Parkash Singh Badal", 
+            "523", 
+            "Comment"
+        ], 
+        [
+            "Badal", 
+            "551", 
+            "Comment"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "725", 
+            "Comment"
+        ], 
+        [
+            "Shivraj Patil", 
+            "791", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "8.40 pm:198", 
+        "8.40 pm .:198", 
+        "7 pm:206"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:5", 
+        "Sunday:50"
+    ], 
+    "death": "6", 
+    "title": "Blast in Ludhiana cinema hall: 6 dead, 30 hurt", 
+    "det_loc": [
+        "India", 
+        "Punjab", 
+        "Ludhiana", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Terror struck Ludhiana on Sunday when six people were killed and 30 injured in a blast in one of the three cinema halls in a multiplex located in a busy shopping area of this industrial town in Punjab.The multiplex has a capacity for 1,050 persons and being a festive Sunday evening , it was full . Police said the blast may have been caused by a low intensity explosive.The Intelligence Bureau has not ruled out a terrorist link to the blast . Former IB director Ajit Doval even hinted at a possible ISI linkage . Some sleeper cells of terrorists have been looking for such an opportunity . The IB has to study this development , as such an attack can not be carried out without months of planning , Doval told rediff.com . . . However , Ludhiana Range DID Ishwar Singh confirmed that the blast had been carried out by a terrorist group . No outfit has yet claimed responsibility . . . Confirming the death toll , Punjab 's Director General of Police N P S Aulakh said the involvement of the Babbar Khalsa could not be ruled out . The blast occurred around 8.40 pm . The evening show commenced at 7 pm . . . Four died on the spot while two died in hospital , police said . Half of the injured were in a critical condition and some of them underwent surgeries at the nearby Christian Medical College hospital . . . Ishwar Singh said the bomb was planted between the second and third seat in the third row of second block on the right side of the lower stall in the blast affected hall . Maximum damage was done to the ` lower class ' area of the hall , which is usually frequented by migrant labourers . . . The intensity of the blast was such that it created a big crater in the hall and window panes were smashed . A Bhojpuri film Janam Janam Ka Saath was being screened in the hall . . . Dr Rajesh Paul , a CMC doctor , said the victims brought to the hospital had injuries in upper and lower limbs . ` They are basically blast injuries , ' he said , adding that ` the number of casualties may go up . ' Eyewitnesses said some of the deceased had their limbs dismembered . . . Aulakh said a forensic team had already reached the spot from Chandigarh and was lifting samples , adding the nature of the explosives would be known later on . He said that Punjab had been already put on maximum alert in view of the current festive season . . . Police said that investigations were on to know the nature of explosives used in the attack . . . Ishwar Singh said that those who died in the incident were all males and added that only one blast had occurred and did not agree with some eyewitness accounts that two blasts had rocked the cinema hall . . . Strongly condemning the incident , Punjab Chief Minister Parkash Singh Badal said that fundamental and anti-national forces inimical to peace and communal harmony will not be allowed to succeed in their nefarious designs . . . Badal said that law and order in the state will be maintained at all costs and appealed to people to remain calm . He also directed the civil and police officials in the state to remain vigilant and added that government will provide free medical treatment to the injured and will give adequate compensation to the next of those who had died in the incident . . . The blast occurred when the film being screened had resumed after an interval , eyewitness accounts said , adding a song was being screened when the hall was rocked by the blast . . . Immediately after the blast , panic-stricken viewers rushed out of the theatre , officials said . . . Chandigarh was put on high alertfollowing the blast . . . A police spokesmansaid security around the inter-state bus terminus , railway station and other important buildings and installations had been beefed up . . . Meanwhile , the Centreis closely monitoring the security situation in Punjab . . . Union Home secretary Madhukar Gupta spoke to Punjab 's chief secretary and Director General of Police to have first hand information about the incident , official sources said . . . The Centre has assured all assistance to the state government and was also rushing bomb experts from elite National Security Guards . The Union Home secretary , after talking to Punjab chief secretary , apprised the home minister Shivraj Patil about the situation.Additional Reportage : PTI .", 
+    "injured": "30", 
+    "org_unorg": "", 
+    "O": [
+        "terror struck ludhiana:1", 
+        "terrorist link to the blast:77", 
+        "sleeper cells of terrorists have been looking for such an opportunity:97", 
+        "no outfit has yet claimed responsibility:157", 
+        "lower class ' area:291", 
+        "usually frequented by migrant labourers:301", 
+        "Janam Janam Ka Saath:334", 
+        "injuries in upper and lower limbs:363", 
+        "blast injuries:374", 
+        "incident were all males:484", 
+        "adequate compensation to the next of those who had died:603", 
+        "blast occurred when the film being screened:620", 
+        "centreis closely monitoring the security situation:711", 
+        "rushing bomb experts from elite national security guards:766"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "RELIGIOUS FESTIVAL", 
+    "link": "http://www.rediff.com/news/2007/oct/14punjab1.htm", 
+    "date": "14-10-2007", 
+    "target": "CINEMA HALL", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Intelligence Bureau", 
+            "70", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "84", 
+            "Others"
+        ], 
+        [
+            "ISI", 
+            "93", 
+            "Accused"
+        ], 
+        [
+            "IB", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "rediff.com", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "Babbar Khalsa", 
+            "186", 
+            "Accused"
+        ], 
+        [
+            "Christian Medical College hospital", 
+            "243", 
+            "Others"
+        ], 
+        [
+            "CMC", 
+            "352", 
+            "Others"
+        ], 
+        [
+            "National Security Guards", 
+            "771", 
+            "Others"
+        ]
+    ]
+}

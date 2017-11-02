@@ -1,0 +1,253 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "102", 
+            "Neutral"
+        ], 
+        [
+            "Junglee Maharaj Road", 
+            "137", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "200", 
+            "Neutral"
+        ], 
+        [
+            "Dena Bank", 
+            "246", 
+            "Event"
+        ], 
+        [
+            "Garware Chowk", 
+            "249", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "361", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "385", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "405", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "413", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "434", 
+            "Event"
+        ], 
+        [
+            "Jantar Mantar", 
+            "468", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Gulabrao Pol", 
+            "61", 
+            "Comment"
+        ], 
+        [
+            "R.K. Singh", 
+            "98", 
+            "Comment"
+        ], 
+        [
+            "Balgandharva Rang Mandir", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "Dayanand Patil", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "Patil", 
+            "191", 
+            "Others"
+        ], 
+        [
+            "Anna Hazares", 
+            "198", 
+            "Others"
+        ], 
+        [
+            "Preeti Sharma Menon", 
+            "207", 
+            "Others"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "316", 
+            "Others"
+        ], 
+        [
+            "Shinde", 
+            "365", 
+            "Others"
+        ], 
+        [
+            "Anna Hazare", 
+            "472", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "7.30 p.m.:126", 
+        "p.m.:127", 
+        "one hour : 277", 
+        "day : 336"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday evening : 13"
+    ], 
+    "death": "", 
+    "title": "Four low-intensity blasts in Pune; one injured", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Four low-intensity blasts rocked the busy Junglee Maharaj Road in Pune on Wednesday evening injuring one person . . . The explosions were set off with pencil cell detonators placed in a plastic bag , a dustbin and on cycles at two locations , police said . . . Speaking to reporters at a blast site , Pune Police Commissioner Gulabrao Pol said it was a case of mischief and no terror act . The situation is under control . There is no need to panic , he added . . . However , Union Home Secretary R.K. Singh said in New Delhi that it was a planned attack and terrorists role could not be ruled out . . . The first explosion occurred around 7.30 p.m. near the Balgandharva Rang Mandir , an auditorium on Junglee Maharaj Road . Dayanand Patil , who was injured in the blast , was carrying a cake box kept in a plastic bag , police said . . . He was admitted to the Sassoon Hospital , where the police recorded his evidence . . . While an unconfirmed report stated that Mr. Patil was a member of social activist Anna Hazares India Against Corruption movement , IAC coordinator Preeti Sharma Menon denied it . . . According to the police , the second explosion occurred in a dustbin outside the popular fast food joint McDonalds . Soon after , the third and fourth blasts were reported at Dena Bank and Garware Chowk , in the same vicinity , with the explosive material planted on cycles . . . Another bomb was defused by the police within the next one hour . The number of the injured might have been higher , but have not been reported as they were minor injuries . . . The explosions occurred on a day the newly appointed Union Home Minister , Sushilkumar Shinde , was scheduled to visit the city . The visit was , however , cancelled earlier in the day . The Home Ministry has rushed a team of National Investigation Agency sleuths to probe the blasts . . . Talking to journalists in New Delhi , Mr. Shinde said a team of the NIA and a bomb disposal squad of the National Security Guard were rushed to Pune . I have no information of its being a terror attack , he said . . . Alert in Delhi . . PTI reports : . . Delhi was put on heightened vigil with the deployment of armed police personnel across the city in the wake of the Pune blasts . . . Roads were barricaded and vehicles checked , while security was strengthened at vital installations like Parliament and other key buildings . . . The police also strengthened security at Jantar Mantar , where Anna Hazare and his team are on an indefinite fast .", 
+    "injured": "1", 
+    "org_unorg": "", 
+    "O": [
+        "Four low-intensity blasts:1", 
+        "rocked:4", 
+        "Junglee Maharaj Road:7", 
+        "explosions:22", 
+        "pencil cell detonators:27", 
+        "plastic bag:33", 
+        "dustbin:37", 
+        "cycles:40", 
+        "reporters:52", 
+        "blast site:55", 
+        "mischief:69", 
+        "no terror act:71", 
+        "under control:78", 
+        "panic:86", 
+        "planned attack:108", 
+        "terrorists role:111", 
+        "first explosion:122", 
+        "auditorium:135", 
+        "injured:146", 
+        "blast:149", 
+        "cake box:154", 
+        "plastic bag:159", 
+        "evidence:180", 
+        "unconfirmed report:186", 
+        "social activist:196", 
+        "Corruption movement:202", 
+        "second explosion:221", 
+        "dustbin:226", 
+        "fast food:230", 
+        "third and fourth blasts:239", 
+        "vicinity:255", 
+        "explosive material:259", 
+        "planted:261", 
+        "cycles:263", 
+        "bomb:268", 
+        "defused:270", 
+        "injured:284", 
+        "minor injuries:298", 
+        "explosions:304", 
+        "scheduled:320", 
+        "city:324", 
+        "blasts:353", 
+        "journalists:359", 
+        "bomb disposal squad:374", 
+        "information:390", 
+        "terror attack:395", 
+        "Alert:403", 
+        "heightened vigil:417", 
+        "armed police personnel:423", 
+        "city:428", 
+        "blasts:435", 
+        "barricaded:441", 
+        "vehicles:443", 
+        "security:447", 
+        "strengthened:449", 
+        "vital installations:451", 
+        "Parliament:454", 
+        "key buildings:457", 
+        "strengthened security:465", 
+        "indefinite fast:480"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/other-states/article3713166.ece?homepage=true", 
+    "date": "01-08-2012", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Sassoon Hospital", 
+            "172", 
+            "Others"
+        ], 
+        [
+            "IAC", 
+            "205", 
+            "Others"
+        ], 
+        [
+            "McDonalds", 
+            "233", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "346", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "371", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "379", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "408", 
+            "Others"
+        ]
+    ]
+}

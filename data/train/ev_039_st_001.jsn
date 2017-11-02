@@ -1,0 +1,176 @@
+{
+    "LOC": [
+        [
+            "Guwahati",
+            "18", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "Maligaon", 
+            "92", 
+            "Event"
+        ], 
+        [
+            "Santipur", 
+            "208", 
+            "Event"
+        ], 
+        [
+            "Bokajan", 
+            "210", 
+            "Neutral"
+        ], 
+        [
+            "Dhekiajuli", 
+            "229", 
+            "Event"
+        ], 
+        [
+            "Sonitpur", 
+            "231", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "276", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "291", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "359", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "359", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "366", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "M.S. Prabhakara", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "G.M. Srivastav", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "Monohari Rajbongshi", 
+            "406", 
+            "Accused"
+        ], 
+        [
+            "Pradip Kalita", 
+            "409", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "five hours : 53", 
+        "2 p.m.:94"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:42", 
+        "April 7:318", 
+        "1979 : 333", 
+        "Friday:430"
+    ], 
+    "death": "8", 
+    "title": "8 killed in Assam blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "M.S. Prabhakara and PTI . . Suspected ULFA militants strike on eve of Manmohans visit . . Guwahati : On the eve of Prime Minister Manmohan Singhs visit to Assam , suspected militants of the United Liberation Front of Assam on Monday set off three blasts and mounted a grenade attack within five hours . Eight persons and over 62 were injured in the terror attacks . . . Assam DGP G.M. Srivastav said seven people were killed and 56 injured in a powerful blast in a crowded market in Guwahatis Maligaon around 2 p.m. . . The explosion sparked a fire that set ablaze two cars and 20 motorcycles and spread to a three-storey building housing the area police station . . . Six were killed at the blast site . One died of injuries after jumping from an adjacent building which had caught fire . The bomb is suspected to have been hidden in a car or a motorcycle parked adjacent to the North-East Frontier Railway headquarters . . . This is the handiwork of ULFA boys ahead of the outfits Raising Day Mr. Srivastav said , adding the militants used hi-tech explosives . . . A bomb was set off by unidentified persons in Santipur near Bokajan earlier in the day . . . Suspected ULFA militants also set off a bicycle bomb explosion in Dhekiajuli in Sonitpur district later . Four people were injured , one of them seriously , in this incident . According to an unconfirmed report , he later died of his injuries . . . An unidentified youth lobbed a hand grenade at Mankachar police station in Dhubri district , killing a police driver and injuring another . . . In the Guwahati blast , four of the dead , including a minor girl , have been identified . . . The Foundation Day of ULFA is observed on April 7 every year , marking the founding of the organisation on this day in 1979 . . . Congress sources said there will be no change in the Prime Ministers programme . He is to address an election rally in Dibrugarh . . . Dr. Singh represents Assam in the Rajya Sabha and the rally marks his entry into the poll campaign trail . . . The explosions have taken place amidst reports that two top bombing experts of the ULFA , identified by the police as Monohari Rajbongshi and Pradip Kalita , recently arrived in the city to carry out such attacks . . . Police released their photographs on Friday .", 
+    "injured": "62", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        "market in Guwahatis Maligaon"
+    ], 
+    "O": [
+        "DGP:71", 
+        "North-East Frontier Railway:166"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/8-killed-in-assam-blasts/article299585.ece", 
+    "date": "06-04-2009", 
+    "target": "", 
+    "hot_spot": "market in Guwahatis Maligaon", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Assam", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "178", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "219", 
+            "Accused"
+        ], 
+        [
+            "Mankachar police", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "314", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "399", 
+            "Accused"
+        ]
+    ]
+}

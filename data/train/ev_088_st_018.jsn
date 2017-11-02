@@ -1,0 +1,195 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "136", 
+            "Event"
+        ], 
+        [
+            "Junglee Maharaj Road", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "crowded with restaurants", 
+            "142", 
+            "Event"
+        ], 
+        [
+            "shops", 
+            "146", 
+            "Event"
+        ], 
+        [
+            "Sambhaji Park", 
+            "150", 
+            "Event"
+        ], 
+        [
+            "Balgandharva Theatre", 
+            "167", 
+            "Event"
+        ], 
+        [
+            "Balgandharva Theatre ,", 
+            "167", 
+            "Event"
+        ], 
+        [
+            "McDonald food", 
+            "175", 
+            "Event"
+        ], 
+        [
+            "Garware bridge", 
+            "179", 
+            "Event"
+        ], 
+        [
+            "Balgandharva Theatre", 
+            "188", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "212", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "326", 
+            "Neutral"
+        ], 
+        [
+            "polythene bag", 
+            "360", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dayanand Patil", 
+            "195", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "7.37 : 125", 
+        "8.15 pm:127", 
+        "pm:128", 
+        "evening : 159"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "1 August : 31", 
+        "Wednesday:116"
+    ], 
+    "death": "", 
+    "title": "Pune blasts: Police prepare sketches of suspects", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        "Pune"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Pune : Maharashtra Police has prepared sketches of two persons who may have planted explosives in Pune as investigators suspect the involvement of at least three persons in executing the 1 August serial bomb blasts here . . . `` The sketches of two persons who could be bomb planters are ready . It will not be made public but would be given to the policemen involved in the investigations , '' a police officer told PTI today . . . `` Initial probe suggest that the there could be at least three suspects who have planted bombs that exploded within an area of 500 meters , '' the official added . . . On Wednesday , four low intensity explosions took place between 7.37 and 8.15 pm during rush hour in the heart of Pune on Junglee Maharaj Road , crowded with restaurants , shops and the large Sambhaji Park , popular for family outings in the evening . . . The explosions occurred near Balgandharva Theatre , Dena Bank branch , a McDonald food outlet and Garware bridge . The first bomb went off at Balgandharva Theatre where one person identified as Dayanand Patil was injured . . . The National Investigation Agency , Maharashtra Anti Terrorism Squad and Pune crime branch have been conducting the probe into the blasts simultaneously . . . The investigators have also approached mobile operators to verify if any new numbers were traced in and around the spots on the fateful day . . . `` We have approached mobile companies seeking the details of new numbers or suspicious numbers their towers have captured before and after the blasts . There will be lakhs of calls a tower catches in a few minutes . In this mammoth task , we have to go through all these numbers and zero in on the numbers used by suspects , '' the official added . . . Official sources in Delhi had yesterday said that wrist watches were used to trigger the serial blasts and the manner in which this was done with detonators kept on three newly-bought bicycles , two dustbins and a polythene bag was similar to the technique adopted by banned home grown terror group Indian Mujahideen ( IM ) .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:74", 
+        "four low intensity:118", 
+        "wrist watches:331", 
+        "detonators:349", 
+        "bicycles:354", 
+        "two dustbins:356"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/india/pune-blasts-police-prepare-sketches-of-suspects-404059.html", 
+    "date": "03-08-2012", 
+    "target": "", 
+    "hot_spot": "Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maharashtra Police", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "Dena Bank", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "Bank", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "Bank branch", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "Bank branch", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "The National Investigation", 
+            "202", 
+            "Others"
+        ], 
+        [
+            "The National Investigation", 
+            "202", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "Maharashtra Anti Terrorism Squad", 
+            "207", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "374", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "377", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "44", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "58", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "71", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "74", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "114", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "128", 
+            "Event"
+        ], 
+        [
+            "Bilasipara", 
+            "172", 
+            "Assoc_Event"
+        ], 
+        [
+            "Dhubri", 
+            "176", 
+            "Neutral"
+        ], 
+        [
+            "Fatasil locality", 
+            "242", 
+            "Event"
+        ], 
+        [
+            "Jharkhand", 
+            "303", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Subhash Das", 
+            "99", 
+            "Comment"
+        ], 
+        [
+            "Khagen Sharma", 
+            "198", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "5 . 45 p.m. : 245"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:60", 
+        "November 27:227", 
+        "Saturdays : 305"
+    ], 
+    "death": "2", 
+    "title": "Four bomb blasts in Assam, two killed", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhubri", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASOM "
+    ], 
+    "content": "Sushanta Talukdar . . Explosions suspected to have been triggered by United Liberation Front of Asom . . Blasts come ahead of the ritualistic protest day observance by ULFA . . Police recovers IED from a rented house of two militants . . Guwahati : Two persons were killed and 18 injured in four bomb blasts in Assam on Sunday . The blasts two here , and one each in Tinsukia district and Dhubri district are suspected to have been triggered by the United Liberation Front of Asom -LRB- ULFA -RRB- . . Principal Secertary , Home , Subhash Das told The Hindu that one person was killed and 16 were injured in Tinsukia while one person was killed and two were injured in twin blasts in Guwahati . The police averted a third blast here by recovering an improvised explosive device from a rented house of two arrested ULFA militants . . . The fourth one , caused by a grenade attack , occurred before the sub-divisional police office at Bilasipara in Lower Assams Dhubri district . However , there was no report of any casualty . . . Inspector-General of Police -LRB- Special Branch -RRB- Khagen Sharma said the ULFA was trying to prove its presence by carrying out blasts in public places and attacking soft targets ahead of its annual protest day on November 27 . . . In the city , the first blast occurred at the Fatasil locality around 5 . 45 p.m. killing a roadside vendor and injuring two others . . . As people ran helter-skelter , there was another blast on the other side of the road in quick succession . . . Police officers , who were at the Guwahati Medical College and Hospital to oversee security for the visiting political leaders from Jharkhand following Saturdays violence here over the Adivasi protest rally , rushed to the spot .", 
+    "injured": "18", 
+    "org_unorg": "", 
+    "O": [
+        "Explosions:5", 
+        "suspected:6", 
+        "triggered:10", 
+        "Blasts:19", 
+        "ritualistic protest day:24", 
+        "recovers:33", 
+        "IED:34", 
+        "rented house:37", 
+        "two militants:40", 
+        "killed:49", 
+        "injured:52", 
+        "four bomb blasts:54", 
+        "blasts:63", 
+        "suspected:77", 
+        "triggered:81", 
+        "killed:108", 
+        "injured:112", 
+        "killed:119", 
+        "injured:123", 
+        "twin blasts:125", 
+        "averted:132", 
+        "third blast:134", 
+        "improvised explosive device:140", 
+        "rented house:145", 
+        "two arrested:148", 
+        "militants:151", 
+        "grenade attack:162", 
+        "Lower Assams Dhubri district:174", 
+        "Special Branch:195", 
+        "prove:206", 
+        "blasts:212", 
+        "public places:214", 
+        "attacking:217", 
+        "soft targets:218", 
+        "annual protest day:223", 
+        "first blast:237", 
+        "killing:249", 
+        "roadside vendor:251", 
+        "helter-skelter:263", 
+        "blast:268", 
+        "road:275", 
+        "quick succession:277", 
+        "oversee security:295", 
+        "political leaders:300", 
+        "violence:306", 
+        "Adivasi protest rally:310", 
+        "spot:317"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/four-bomb-blasts-in-assam-two-killed/article1955795.ece", 
+    "date": "24-11-2007", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "12", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "29", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "84", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "90", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "150", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "202", 
+            "Accused"
+        ], 
+        [
+            "Guwahati Medical College and Hospital", 
+            "289", 
+            "Others"
+        ]
+    ]
+}

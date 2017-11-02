@@ -1,0 +1,232 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Delhi High Court", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Kishtwar", 
+            "28", 
+            "Source"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "31", 
+            "Source"
+        ], 
+        [
+            "Kishtwar", 
+            "75", 
+            "Source"
+        ], 
+        [
+            "Delhi", 
+            "81", 
+            "Event"
+        ], 
+        [
+            "Kishtwar", 
+            "105", 
+            "Source"
+        ], 
+        [
+            "Kishtwar", 
+            "142", 
+            "Source"
+        ], 
+        [
+            "Delhi", 
+            "205", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "326", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "335", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "372", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohammed", 
+            "60", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Khalid Aziz", 
+            "62", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Kuldeep Khoda", 
+            "89", 
+            "Comment"
+        ], 
+        [
+            "Khoda", 
+            "118", 
+            "Comment"
+        ], 
+        [
+            "Afzal Guru", 
+            "211", 
+            "Assoc_Accused"
+        ], 
+        [
+            "U K Bansal", 
+            "252", 
+            "Comment"
+        ], 
+        [
+            "S C Sinha", 
+            "292", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "May:367", 
+        "May 25:367"
+    ], 
+    "death": "", 
+    "title": "Delhi HC blast: 2 cyber cafe owners quizzed in J&K", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI"
+    ], 
+    "content": "A day after the deadly attack outside the Delhi High Court , investigators have traced the Harkat-ul - Jehadi Islami email claiming responsibility for the blast to Kishtwar district of Jammu and Kashmir . . . There are only two cyber cafes in the district . National Investigation Agency officials are questioning two owners of a cyber cafe , Mohammed and Khalid Aziz . . . ` We are investigating the email link from Kishtwar district in connection with the Delhi blast , ' Director General of police Kuldeep Khoda said . . . There is an input about an email being sent from Kishtwar district , he said , adding police is working on it . Khoda said no arrests have been made so far . According to police sources , the email was sent from a cyber cafe in Kishtwar from the address arkatuljihadi2011@gmail.com . . . Even as the questioning with the cyber cafe owners is underway , suspicion points towards a young boy aged around 18 years having sent the mail . Initial reports suggest that the draft was prepared as early as 7.30 am . . . ` We own responsibility of the blast at the high court , Delhi . Our demand is that Afzal Guru 's death sentence should be repealed immediately as we would target major High Courts and the Supreme Court of India , ' the HuJI email said . . . Secretary -LRB- Internal Secretary -RRB- in the Home Ministry , U K Bansal had said yesterday that the National Investigation Agency is also verifying the authenticity of the email received by two media channels . . . Asked about the communication received by TV channels , Director General of NIA S C Sinha had said , ` It is too premature to comment on the HuJI mail but we are looking at it seriously because HuJI is a very prominent terrorist group which considers India as target number one . ' . . Delhi Police has in the past arrested several HuJI militants from the national capital . . . Meanwhile , the NIA team is also likely to take over the investigations of the May 25 blast outside the Delhi high court as well . . . Investigators are looking at the possibility of both the high court blast being linked with the same group as traces of PETN have been established the composition of explosives used in both the blasts . . . While officials have not yet zeroed in on any particular group , the presence of PETN , has strengthened the possibility of HuJi 's involvement , since PETN is the ` explosive of choice ' for Jehadi groups such as the HUJI . . . The preliminary report that was handed over to the Home Ministry officials states that the crater was about 2 feet wide and one foot deep . . . The report says that the maximum damage was caused because of the explosion and not shrapnel . So far , forensic teams have not been able trace any wire or timer device . . . National Security Guard officials believe that a battery could have triggered the blast . They also inform that since PETN has a tendency of evaporating , only a few samples have been found from the location , but enough to strongly indicate the presence of the explosive . . . The briefcase in which explosive was placed is estimated to be of 48 cm in length , 30cm wide , and 15 cm in thickness . . . With inputs from PTI .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "", 
+        "", 
+        "Delhi High Court"
+    ], 
+    "O": [
+        "jehadi islami:19", 
+        "cyber cafes:41", 
+        "director general:85", 
+        "cyber cafe:139", 
+        "arkatuljihadi2011@gmail.com:146", 
+        "secretary:245", 
+        "the home ministry:248", 
+        "media channels:274", 
+        "Director General:288", 
+        "prominent terrorist:321", 
+        "team:356", 
+        "PETN:401", 
+        "PETN:432", 
+        "PETN:444", 
+        "preliminary:463", 
+        "home ministry:471", 
+        "PETN:544", 
+        "briefcase:576"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/report/delhi-hc-blast-huji-email-traced-to-jk/20110908.htm", 
+    "date": "07-09-2011", 
+    "target": "HIGH COURT", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "STORED", 
+    "expl": [
+        "PETN"
+    ], 
+    "ORG": [
+        [
+            "Delhi High Court", 
+            "9", 
+            "Victim"
+        ], 
+        [
+            "Harkat-ul - Jehadi Islami", 
+            "17", 
+            "Accused"
+        ], 
+        [
+            "National Investigation Agency", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "Supreme Court of India", 
+            "229", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "236", 
+            "Accused"
+        ], 
+        [
+            "National Investigation Agency", 
+            "260", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "291", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "307", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "317", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "343", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "355", 
+            "Others"
+        ], 
+        [
+            "HuJi", 
+            "439", 
+            "Assoc_Accused"
+        ], 
+        [
+            "HUJI", 
+            "458", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "525", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "606", 
+            "Others"
+        ]
+    ]
+}

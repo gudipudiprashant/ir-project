@@ -1,0 +1,123 @@
+{
+    "LOC": [
+        [
+            "Lucknow", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "temple city", 
+            "243", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Alok Sinha", 
+            "49", 
+            "Comment"
+        ], 
+        [
+            "Sinha", 
+            "142", 
+            "Comment"
+        ], 
+        [
+            "Sinha", 
+            "157", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday : 19", 
+        "Wednesday : 40"
+    ], 
+    "death": "", 
+    "title": "Lashkar behind blasts: UP official", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "Pakistan-based Lashkar-e-Tayiba militant outfit , whose member was shot dead in an encounter with police near Lucknow on Wednesday , appeared prima facie behind the blasts in Varanasi , a senior Uttar Pradesh government official said in Varanasi on Wednesday . . . Principal Secretary ( Home ) Alok Sinha told a hurriedly called press conference that security agencies probing the blasts have been able to `` uncover '' that the LeT terrorist , who was shot dead in an encounter with the Special Task Force of the state police near the state capital , was involved in them . . . `` Prima facie , it appears that the slain terrorist was involved in the twin blasts but it would be a matter of investigation to ascertain the degree of his involvement or whether he was the mastermind , '' Sinha said . . . Asked specifically whether LeT was involved in the blasts , Sinha said it could not be said with certainty as yet but hastened to add that the terrorist outfit keep on changing their names and also their modules . To a query about the possible involvement of Pakistani intelligence agency Inter Services Intelligence , the Home Secretary said , `` It was difficult to say whether it was involved . '' . . In reply to a question , he said there was no specific intelligence information about the possibility of a terrorist attack in the temple city and added that , `` There never is any specific inputs on terrorist attacks . '' . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        "Varanasi"
+    ], 
+    "O": [
+        "police:15", 
+        "Principal Secretary:44", 
+        "twin blasts:117", 
+        "Home Secretary:202"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://in.rediff.com/news/2006/mar/09up.htm", 
+    "date": "08-03-2006", 
+    "target": "", 
+    "hot_spot": "Varanasi", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Lashkar-e-Tayiba", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Uttar Pradesh government", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "72", 
+            "Accused"
+        ], 
+        [
+            "Special Task Force", 
+            "84", 
+            "Others"
+        ], 
+        [
+            "state police", 
+            "89", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "150", 
+            "Accused"
+        ], 
+        [
+            "Pakistani intelligence agency", 
+            "194", 
+            "Others"
+        ], 
+        [
+            "Inter Services Intelligence", 
+            "197", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Bombay", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "108", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "193", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "218", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "286", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "329", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "V K Duggal", 
+            "62", 
+            "Comment"
+        ], 
+        [
+            "Praful Patel", 
+            "75", 
+            "Others"
+        ], 
+        [
+            "Duggal", 
+            "128", 
+            "Comment"
+        ], 
+        [
+            "Patel", 
+            "161", 
+            "Comment"
+        ], 
+        [
+            "P S Pasricha", 
+            "198", 
+            "Comment"
+        ], 
+        [
+            "Pasricha", 
+            "220", 
+            "Comment"
+        ], 
+        [
+            "Pasricha", 
+            "277", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:5"
+    ], 
+    "death": "190", 
+    "title": "Blasts: Government claims to have leads", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Central government on Wednesday claimed to have got some ` leads ' on the Mumbai serial blasts that has as yet claimed the lives of about 190 suburban train passengers but remained tightlipped on who was responsible for it . . . ` We have leads about the Bombay blasts but no arrests have been made , ' Home Secretary V K Duggal told media persons after a meeting with Civil Aviation Minister Praful Patel and top officials in New Delhion beefing up security at airports . . . ` Though there is no possibility of terrorist attacks on vital and prime economic installations following the Mumbai blasts , all systems are being put in place to ensure security , ' he said . . . Duggal said the number of security equipments , manpower , baggage and personal check-in systems were being put in place . Appealing to passengers to cooperate with security officials at the airports , Patel said : ` Some concrete decisions have been taken -LRB- in regard to the security beef-up -RRB- and these will be implemented . ' . . Later in the day , Maharashtra Director General of Police P S Pasricha too claimed that certain leads had been found in the case . Addressing a press conference in Mumbai , Pasricha said the state government 's first priority in the wake of the blasts was to provide relief to the injured and much success had been achieved in this . ` We have held meeting with authorities of both Western and Central Railways to discuss ways and means to restore normalcy as soon as possible , ' Pasricha said . ` Security has been tightened across Maharashtra . Metal detectors and dog squads will be deployed at railway stations , ' he said , adding that some measures will be implemented immediately while others will take some time to be put into effect . He praised the citizens of Mumbai for displaying ` admirable resilience ' and for lending a helping hand to their fellow citizens in the aftermath of the bombings . The police were interacting with political and religious leaders and asking them to counsel their followers to maintain calm and restraint , he said . .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Central government:2", 
+        "Civil Aviation Minister:72", 
+        "beefing:83", 
+        "airports:87", 
+        "economic installations:104", 
+        "Director General of Police:194", 
+        "press conference:215", 
+        "government:224", 
+        "Central Railways:261", 
+        "dog squads:291", 
+        "admirable resilience:333"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/12mumblast8.htm", 
+    "date": "11-07-2006", 
+    "target": "RAILWAY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": []
+}

@@ -1,0 +1,623 @@
+{
+    "LOC": [
+        [
+            "Gujarat", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Nalanda", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "86", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "123", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "140", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "147", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "253", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "287", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "334", 
+            "Event"
+        ], 
+        [
+            "Gaurichak", 
+            "345", 
+            "Neutral"
+        ], 
+        [
+            "Kaimur", 
+            "350", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "358", 
+            "Neutral"
+        ], 
+        [
+            "Gopalganj", 
+            "393", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "418", 
+            "Event"
+        ], 
+        [
+            "Gaurichak", 
+            "463", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "465", 
+            "Neutral"
+        ], 
+        [
+            "Gaurichak", 
+            "484", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "487", 
+            "Event"
+        ], 
+        [
+            "Azeemchak", 
+            "498", 
+            "Neutral"
+        ], 
+        [
+            "Kaimur", 
+            "565", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "606", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "612", 
+            "Neutral"
+        ], 
+        [
+            "Gauraichak", 
+            "720", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "773", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "800", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "828", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "860", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "877", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "895", 
+            "Event"
+        ], 
+        [
+            "Gaurichak", 
+            "915", 
+            "Neutral"
+        ], 
+        [
+            "Kaimur", 
+            "925", 
+            "Victim"
+        ], 
+        [
+            "Gopalganj", 
+            "927", 
+            "Victim"
+        ], 
+        [
+            "Supual", 
+            "929", 
+            "Victim"
+        ], 
+        [
+            "Begusarai", 
+            "931", 
+            "Victim"
+        ], 
+        [
+            "Nalanda.Nalanda", 
+            "933", 
+            "Victim"
+        ], 
+        [
+            "Patna airport", 
+            "961", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "961", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "966", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "1034", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "1059", 
+            "Neutral"
+        ], 
+        [
+            "Modi", 
+            "1081", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "1102", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "1136", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "1170", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "1223", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "1231", 
+            "Neutral"
+        ], 
+        [
+            "Simrahi bazar", 
+            "1257", 
+            "Neutral"
+        ], 
+        [
+            "Supaul", 
+            "1260", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narendra Modi", 
+            "9", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "38", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "41", 
+            "Comment"
+        ], 
+        [
+            "Nitish", 
+            "166", 
+            "Comment"
+        ], 
+        [
+            "Rajnarain Singh", 
+            "304", 
+            "Victim"
+        ], 
+        [
+            "Vikas Kumar", 
+            "307", 
+            "Victim"
+        ], 
+        [
+            "Rajesh Kumar", 
+            "310", 
+            "Victim"
+        ], 
+        [
+            "Nitish Kumar", 
+            "361", 
+            "Comment"
+        ], 
+        [
+            "Nitish", 
+            "384", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "395", 
+            "Comment"
+        ], 
+        [
+            "Shaheed Munna Srivastava", 
+            "426", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "450", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "468", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "480", 
+            "Comment"
+        ], 
+        [
+            "Raj Narain Singh", 
+            "500", 
+            "Victim"
+        ], 
+        [
+            "Singh", 
+            "519", 
+            "Victim"
+        ], 
+        [
+            "Arun Sinha", 
+            "546", 
+            "Comment"
+        ], 
+        [
+            "Jaiprakash Narayan", 
+            "561", 
+            "Others"
+        ], 
+        [
+            "Shaheed Vikas Singh", 
+            "573", 
+            "Victim"
+        ], 
+        [
+            "Narendra Modi", 
+            "585", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "597", 
+            "Comment"
+        ], 
+        [
+            "Sushil Kumar Modi", 
+            "618", 
+            "Others"
+        ], 
+        [
+            "Nand Kishore Yadav", 
+            "626", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "645", 
+            "Victim"
+        ], 
+        [
+            "Modi", 
+            "647", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "664", 
+            "Victim"
+        ], 
+        [
+            "Ravishanakar Prasad", 
+            "695", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "759", 
+            "Comment"
+        ], 
+        [
+            "Rajnarain", 
+            "769", 
+            "Victim"
+        ], 
+        [
+            "Modi", 
+            "836", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "857", 
+            "Comment"
+        ], 
+        [
+            "Manu Maharaj", 
+            "900", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "917", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "941", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "991", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "1000", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "1054", 
+            "Comment"
+        ], 
+        [
+            "Shivanand Tiwari", 
+            "1153", 
+            "Comment"
+        ], 
+        [
+            "K C Tyagi", 
+            "1157", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "1161", 
+            "Others"
+        ], 
+        [
+            "Sushil Modi", 
+            "1240", 
+            "Others"
+        ], 
+        [
+            "Nand Kishore Yadav", 
+            "1243", 
+            "Others"
+        ], 
+        [
+            "Shahnawaz Hussain", 
+            "1247", 
+            "Others"
+        ], 
+        [
+            "Ravishankar Prasad", 
+            "1250", 
+            "Others"
+        ], 
+        [
+            "Dharmendra Pradhan", 
+            "1253", 
+            "Others"
+        ], 
+        [
+            "Sh Bharat Rajak", 
+            "1270", 
+            "Others"
+        ], 
+        [
+            "Shahnawaz Hussain", 
+            "1282", 
+            "Others"
+        ], 
+        [
+            "Sushil Kumar Modi", 
+            "1301", 
+            "Others"
+        ], 
+        [
+            "Sushil Kumar Modi", 
+            "1335", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "night : 1226", 
+        "11:15 pm : 1228", 
+        "9am : 1333"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:12", 
+        "Saturday:298", 
+        "October 27 , 2013 : 336", 
+        "October 27 , 2013 : 777", 
+        "October 27:982", 
+        "June 16:1017", 
+        "2002 : 1101"
+    ], 
+    "death": "", 
+    "title": "Narendra Modi meets families of Patna blast victims, says he is thankful to people for their support", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Gujarat Chief Minister and BJP Prime Ministerial candidate Narendra Modi on Saturday met the families of Patna blasts victims . After concluding his visit in Nalanda , which is also the home district of Bihar Chief Minister Nitish Kumar , Modi addressed the media at Patna Airport . He said : - I wanted to meet the family members of those who died in Patna blasts but met just three families due to dense fog . - I am really thankful to the families of Patna serial blasts for meeting and supporting me . - Bad weather played spoilsport , could n't visit some places . - People of Bihar have shown exemplary courage . - I am hopeful this strength of Bihar will become a case study for people across the globe . My salute for people of Bihar . - I greet people of Bihar of occassion of Diwali . This festival will take us out from darkness to light ( hinting at Nitish governance ) . Greet people on occassion of Chath . - In BJP 's rally terrorists killed many innocent Biharis . I wanted to meet the families . I gave this proposal to BJP leaders and today I came here to share their pain . Due to weather I could not go to 2 places . In future I will try to meet those two families . - Those who have lost their loved ones , I sympathise with them . - I thank people of Bihar for the massive turnout in the rally . I saw such people 's outrage in films . But in rally people showed lot of patience . I appreciate that . - People of Bihar showed great courage by attending rally despite bombs exploding.Modi on Saturday met the families of victims Rajnarain Singh , Vikas Kumar and Rajesh Kumar , three of the six people killed in serial blasts that took place just before he was to address a rally in Patna on October 27 , 2013 . Modi first went to Gaurichak and then left for Kaimur and Nalanda.Reacting to Modi 's visit , Bihar Chief Minister Nitish Kumar said that this is just a political gimmick and nothing else . Outsiders can not understand what 's happening here , Nitish was quoted as saying.Meanwhile , on way to Gopalganj , Modi 's helicopter was to get fuel refilling done and move to Supaul . But because of dense fog it returned back to Patna for refuilling . Spoke to wife of Shaheed Munna Srivastava on phone . We are all a part of one family & stand by them in this hour of grief . Narendra Modi ( @narendramodi ) November 2 , 2013While meeting the families in Gaurichak , Gujarat Chief Minister Narendra Modi assured them all help from the party.Amid tight security , Modi first headed for Gaurichak in old Patna locality to convey his condolences to the kin of village Azeemchak resident Raj Narain Singh , 65 , who had died in the serial blasts.The BJP leader garlanded the photograph of Singh , sat on the floor as he consoled the family and handed them a cheque of Rs five lakh on behalf of the party , said Arun Sinha , BJP MLA from Kumar.Singh was a farmer and an ardent follower of Jaiprakash Narayan . In Kaimur , met the wife & children of Shaheed Vikas Singh and offered my deepest condolences to the family . Narendra Modi ( @narendramodi ) November 2 , 2013He had gone to Modi 's rally without informing his family , the Gujarat Chief Minister was informed by Bihar 's former Deputy Chief Minister Sushil Kumar Modi who accompanied him.Leader of Opposition Nand Kishore Yadav was also present.Sinha said the family sought a job for one of the three sons of Singh and Modi assured them he will look into it.Singh 's other two sons are in the Army.Modi consoled Singh 's widow . The family was assured that the party will take care of them and and they were satisfied that Modi had come to meet them , BJP leader Ravishanakar Prasad said.Modi 's visit was delayed by two hours this morning due to fog . As the weather opened up , he left for Gauraichak , 25 kms from here , in a helicopter . He has been accorded the status of state guest by the Bihar government . The state guest house where he has been staying is opposite to chief minister Nitish Kumar 's official residence.Narendra Modi meets family members of Rajnarain who died in Patna serial blasts on October 27 , 2013 . Heavy security arrangement were in place Modi 's visit.Besides , Bihar police personnel , 150 police officials from Gujarat including one Additional Director General of Police rank officer , two Deputy Inspector General of Police and six Deputy Superintendent of Police level officials have come to Bihar as part of elaborate security cover for Modi at all the places he would visit , police sources said.As part of Z + + VVIP security arrangement for Modi , the Bihar government has issued an alert . A DIG rank officer along with Commissioner is accompanying the Gujarat Chief Minister in all the districts he is visiting , police sources added.At Singh 's residence , Patna Senior Superintendent of Police Manu Maharaj was present . Mediapersons were allowed near the residence after a thorough check.From Gaurichak , Modi was slated to families of victims in Kaimur , Gopalganj , Supual , Begusarai and Nalanda.Nalanda , the home district of Chief Minister Nitish Kumar , will be the final destination of Modi . From there he will fly in helicopter straight to Patna airport to return to Ahmedabad in his chartered plane , BJP sources said.Six persons were killed in multiple explosions on October 27 during Hunkar rally which was addressed by Modi , his first major political show in rival Nitish Kumar 's home turf after parting of ways of JD ( U ) and BJP on June 16 last.The investigation in the blasts case has pointed to involvement of Indian Mujahideen militant outfit.The Gujarat Chief Minister also handed over a cheque of Rs five lakh to the victim 's kin.Within a week , Narendra Modi has returned to Bihar to pay condolence to the six persons killed in the blasts on Sunday.The ruling JD ( U ) hit out at Modi , alleging that he was playing politics of polarisation and questioned why he had never visited the families of 2002 Gujarat riots.This kind of behaviour does not behove a person who has been named as the prime ministerial candidate by the main opposition party . We are not saying he should not come to Bihar . But the time he has chosen is not right , JD ( U ) leader Shivanand Tiwari said.His colleague K C Tyagi attacked Modi for travelling with a large security entourage from Gujarat , saying his actions were an insult to the prestige of Bihar.It is naked aggression from one state against another.He is behaving like the cruel invaders from the medieval period . Till now we had only seen Centre 's interference in affairs of the states , he said.Modi arrived in JP Airport Patna late last night around 11:15 pm from Pune . He was received at the airport by Sushil Modi , Nand Kishore Yadav , Shahnawaz Hussain , Ravishankar Prasad , Dharmendra Pradhan among others.reached Simrahi bazar in Supaul ( my home district ) to meet family of Sh Bharat Rajak , victim of #patnablasts . Fog has delayed @narendramodi Shahnawaz Hussain ( @ShahnawazBJP ) November 2 , 2013Me@Namo met gaurichak victim.Very touchy scene.Thousands people nearby.paid his respect . Sushil Kumar Modi ( @SushilModi ) November 2 , 2013Helicopter flight of @Namo delayed because of dense fog.Visibility only 300 mt till 8.40 am.Required 600 mt . likely to take off at 9am . Sushil Kumar Modi ( @SushilModi ) November 2 , 2013With inputs from agencies .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "Patna", 
+        "Patna"
+    ], 
+    "O": [
+        "Deputy Chief Minister:615", 
+        "Additional Director General of Police:803", 
+        "Deputy Inspector General of Police:812", 
+        "Hunkar rally:985", 
+        "JD:1148"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/narendra-modi-in-patna-meets-blasts-victims-families/1/321332.html", 
+    "date": "27-10-2013", 
+    "target": "", 
+    "hot_spot": "Patna", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "BJP", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "200", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "513", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "549", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "693", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "742", 
+            "Others"
+        ], 
+        [
+            "Bihar police", 
+            "792", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "972", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1015", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "1030", 
+            "Accused"
+        ]
+    ]
+}

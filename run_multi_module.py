@@ -4,13 +4,7 @@ import sys
 import importlib
 from vis_multi_bar import plot_multi_bar
 
-module_list = []
-
-if len(sys.argv) > 1:
-    for element in sys.argv[1:]:
-        module_list.append(elem_dict) 
-else:
-    module_list = config.default_module_list
+module_list = config.run_multi_module_dict["module_list"]
 
 #import relevant modules and get their objects into module_obj_list
 module_obj_list = []
@@ -22,11 +16,11 @@ for elem in module_list:
 results_list = []
 
 for element in module_obj_list:
-    cur_method = getattr(element, config.module_func_map[element.__name__])
+    cur_method = getattr(element, config.custom_func_name)
 
     tester = Tester(cur_method, 
                     config.base_dir,
-                    size=10,
+                    size=-1,
                     stop=False
                     custom_param={"Batch_size":500})
     tester.test()

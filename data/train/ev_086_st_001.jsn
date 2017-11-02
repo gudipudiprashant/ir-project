@@ -1,0 +1,182 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "49", 
+            "Victim"
+        ], 
+        [
+            "Karachi", 
+            "53", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "56", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "167", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "186", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "196", 
+            "Victim"
+        ], 
+        [
+            "Babri mosque", 
+            "270", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "313", 
+            "Neutral"
+        ], 
+       
+        [
+            "Mumbai", 
+            "410", 
+            "Victim"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dilip De", 
+            "113", 
+            "Comment"
+        ], 
+        [
+            "Ashoke Pandit", 
+            "163", 
+            "Comment"
+        ], 
+        [
+            "M N Singh", 
+            "170", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "249", 
+            "Comment"
+        ], 
+        [
+            "D M Sukhtankar", 
+            "309", 
+            "Comment"
+        ], 
+        [
+            "Ram Pradhan", 
+            "399", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "1990s:12", 
+        "1993:183", 
+        "2003:204", 
+        "26/11 : 226", 
+        "1993:260", 
+        "26/11 : 405"
+    ], 
+    "death": "", 
+    "title": "Mumbai: Hot hunting ground for terror", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "ISLAMIC TERRORIST OUTFITS"
+    ], 
+    "content": "MUMBAI : Repeatedly hit over a half-a-dozen times since the early 1990s , India 's financial capital has now become the favourite hunting ground for terror outfits . Over 600 people have died in these attacks . The macabre dance of death has unnerved citizens amid fears that Mumbai may go the Karachi way . Pakistan 's port city , barely 800km from Mumbai , has been wracked with violence and bloodbath over the past few years . ' I am shocked beyond words . It proves yet again Mumbai 's un-preparedness . Civilians are not on the radar of politicians , who live safely in their havens , ' said industrialist Dilip De . ` It looks like a repeat telecast of the same incident . Politicians have already started the blame game and now the candle vigil marches will begin . The term security no longer has any meaning . It 's a shame , ' said filmmaker and activist Ashoke Pandit . Former Mumbai police commissioner M N Singh , who headed the investigations into the serial blasts of 1993 , said Mumbai will continue to be the prime target . ` Mumbai has been attacked every three years since 2003 . The city has a strong network of IM and SIMI . While the police upgraded its infrastructure and equipment after 26/11 attack , the focus should be on how to curb radicalization of youth from the minority community , ' he said . Singh warned that the reasons behind the first serial blasts in 1993 which was in revenge for the demolition of the Babri mosque still remained unresolved . ` It has not come to a closure because the prime instigators still elude the authorities . Their role was visible in subsequent attacks , ' he added . Former state chief secretary D M Sukhtankar said Mumbai 's being the financial nerve-centre makes it vulnerable to repeated attacks . ` The high population density , and its intense business and economic activity , make it an easy target for those who want to create worldwide panic , ' he said . ` Terrorists want to demonstrate that despite efforts to prevent such incidents they can still strike at will . Mumbai offers anonymity . It is difficult to identify someone next to you , ' he added . Former union home secretary Ram Pradhan , who headed the 26/11 probe committee , said Mumbai has always been a target because it is here that the maximum damage can be done . ` It 's a big city and such blasts hit the morale of the people , ' he said .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "MUMBAI:1", 
+        "financial capital:16", 
+        "hunting ground:23", 
+        "terror outfits:26", 
+        "macabre:39", 
+        "violence:70", 
+        "bloodbath:72", 
+        "un-preparedness:92", 
+        "radar:99", 
+        "havens:108", 
+        "Politicians:128", 
+        "blame game:133", 
+        "candle vigil:138", 
+        "marches:140", 
+        "shame:156", 
+        "prime target:192", 
+        "infrastructure:222", 
+        "equipment:224", 
+        "radicalization:237", 
+        "minority community:242", 
+        "revenge:264", 
+        "demolition:267", 
+        "mosque:271", 
+        "prime instigators:286", 
+        "elude:289", 
+        "nerve-centre:318", 
+        "population density:329", 
+        "economic activity:337", 
+        "Terrorists:359", 
+        "anonymity:379", 
+        "union home secretary:396", 
+        "probe committee:406", 
+        "morale:439"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/mumbai/Mumbai-Hot-hunting-ground-for-terror/articleshow/9217757.cms?referral=PM", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "IM", 
+            "213", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "215", 
+            "Accused"
+        ]
+    ]
+}

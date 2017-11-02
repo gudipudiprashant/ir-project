@@ -1,0 +1,115 @@
+{
+    "LOC": [
+        [
+            "Imphal", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Ragailong", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Ragailong", 
+            "57", 
+            "Event"
+        ], 
+        [
+            "Imphal", 
+            "66", 
+            "Neutral"
+        ], 
+        [
+            "Ragailong", 
+            "99", 
+            "Event"
+        ], 
+        [
+            "Palace Gate", 
+            "226", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "N. Bhumeshgore", 
+            "252", 
+            "Others"
+        ], 
+        [
+            "Kambui Lunglu", 
+            "325", 
+            "Comment"
+        ], 
+        [
+            "Okram Ibobi Singh", 
+            "381", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 116"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Oct. 28:3", 
+        "October 21:20", 
+        "march : 76", 
+        "October 21:118"
+    ], 
+    "death": "", 
+    "title": "Imphal blast probe sought", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Imphal , Oct. 28 : Residents of Ragailong and its surrounding areas today demanded a judicial inquiry into the October 21 bomb blast in which 17 people were killed and more than 30 wounded . . . While residents in the rest of the state were preparing to celebrate the festival of lights , those in Ragailong , a tribal village on the outskirts of Imphal city today spent the day by organising a protest march . . . A powerful bomb , fitted to a moped , exploded near a dice game venue near the gate of Ragailong , close to a police commando barrack and an Assam Rifles transit camp , on the night of October 21 . . . Cadres of the Kangleipak Communist Party ( Military Council ) planted the bomb to target the police and security forces who encouraged gambling and also to warn the gamblers . . . The incident evoked widespread condemnation and sent the Manipur government into taking various preventive measures to avoid such incidents in future . . . The residents of the blast site formed a joint action committee to take up the matter with the Ibobi Singh government . . . Protesters belonging to all communities took out a march from the spot towards the chief ministers office . The police stopped them at Palace Gate , around 300 metres from the office . A delegation was allowed to meet the chief minister . . . The memorandum signed by N. Bhumeshgore , secretary of the action committee , urged the chief minister to order a judicial inquiry into the blast to find out how the bomb exploded near two security establishments and also if there were any security lapses . . . Residents have been accusing the state police of serious lapses . We repeatedly told the police to stop the gambling in the area . But our requests went unheeded , Kambui Lunglu , secretary of the Ragailong Women Union , said . . . The committee also demanded relief for the victims family and the injured . It sought immediate attention for the seriously injured persons and if necessary , their being taken to hospitals outside the state at government cost . . . Chief minister Okram Ibobi Singh has already announced ex gratia for the victims family members and extend financial help to the injured .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "police:222", 
+        "chief minister:263"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1081029/jsp/northeast/story_10031439.jsp", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Assam Rifles", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "Kangleipak Communist Party", 
+            "126", 
+            "Accused"
+        ], 
+        [
+            "Manipur government", 
+            "163", 
+            "Others"
+        ], 
+        [
+            "Ragailong Women Union", 
+            "331", 
+            "Others"
+        ]
+    ]
+}

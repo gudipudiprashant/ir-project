@@ -1,0 +1,98 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "66", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "68", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "72", 
+            "Event"
+        ], 
+        [
+            "Varasani", 
+            "110", 
+            "Event"
+        ], 
+        [
+            "local court", 
+            "117", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:81"
+    ], 
+    "death": "", 
+    "title": "Indian Mujahideen claims responsibility for UP blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "New Delhi : About an hour and a half after serial blasts rocked Uttar Pradesh , Intelligence sources said little known outfit Indian Mujahideen have taken responsibility of the blast . . . Intelligence sources have told CNN-IBN that that a senior police official received an e-mail intimating him about who carried out the attack . . . Five bomb blasts rocked the cities of Lucknow , Varanasi and Faizabad in Uttar Pradesh almost within minutes of each other on Friday , throwing the security apparatus into a tizzy . . . At least 12 people were killed and many others were injured when the blasts occurred . In Varasani , the explosion occured at a local court premises during the busy court hour . . . Over 2,000 people were present in the court premises when the bomb went off . Early reports said there could be heavy casualties as it occurred in a crowded spot . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "", 
+        "", 
+        "Uttar Pradesh"
+    ], 
+    "O": [
+        "senior police:42"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/blast-responsibilty-276967.html", 
+    "date": "23-11-2007", 
+    "target": "", 
+    "hot_spot": "Uttar Pradesh", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "23", 
+            "Accused"
+        ], 
+        [
+            "CNN-IBN", 
+            "38", 
+            "Others"
+        ], 
+        [
+            "e-mail", 
+            "47", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Garchuk", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "Baksa", 
+            "174", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Punkha Brahma", 
+            "53", 
+            "Accused"
+        ], 
+        [
+            "Punkha Brahma", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "Dinesh Boro", 
+            "85", 
+            "Accused"
+        ], 
+        [
+            "Punkha Brahma", 
+            "139", 
+            "Accused"
+        ], 
+        [
+            "Dinesh Boro", 
+            "177", 
+            "Others"
+        ], 
+        [
+            "Punkha Boro", 
+            "180", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "12 days : 93"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 30:16", 
+        "Sunday:33"
+    ], 
+    "death": "", 
+    "title": "Another accused presented in court", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . Guwahati : The Special Investigation Team -LRB- SIT -RRB- probing the October 30 serial blasts in Assam produced another accused before the Court of Chief Judicial Magistrate on Sunday . . . Police said that all the three Maruti cars used as car-bombs were in possession of one Punkha Brahma the day before the serial blasts . . . Punkha Brahma was arrested from the citys Garchuk locality by SIT based on the alleged confession made by another arrested person Dinesh Boro . The court remanded him to 12 days in police custody . . . However , the arrested youth , whose face was masked with a black cloth as he was brought to the court , claimed that he was innocent . The SIT has so far arrested six persons , including Punkha Brahma , and picked up about 40 people for questioning in connection with the serial blasts . . . Police sources said interrogations of the arrested revealed that all the three cars were from Baksa district . Dinesh Boro and Punkha Boro were allegedly involved in the movement of the cars and providing logistics to the perpetrators of the terror attacks . Initial probe revealed that the number plates of the cars were fake . Police then began tracking down the owners with the help of the engine and chassis numbers .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Special Correspondent:1", 
+        "probing:14", 
+        "serial blasts:18", 
+        "Maruti cars:43", 
+        "car-bombs:47", 
+        "possession:50", 
+        "serial blasts:59", 
+        "arrested:67", 
+        "alleged:78", 
+        "confession:79", 
+        "arrested:83", 
+        "arrested:104", 
+        "masked:110", 
+        "black cloth:113", 
+        "court:121", 
+        "claimed:123", 
+        "innocent:127", 
+        "arrested:134", 
+        "six persons:135", 
+        "40 people:146", 
+        "questioning:149", 
+        "connection:151", 
+        "serial blasts:154", 
+        "interrogations:162", 
+        "arrested revealed:165", 
+        "three cars:170", 
+        "allegedly involved:183", 
+        "movement:187", 
+        "cars:190", 
+        "providing logistics:192", 
+        "perpetrators:196", 
+        "terror attacks:199", 
+        "Initial probe:202", 
+        "revealed:204", 
+        "number plates:207", 
+        "cars:211", 
+        "fake:213", 
+        "tracking down:218", 
+        "engine:227", 
+        "chassis numbers:229"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/another-accused-presented-in-court/article1373056.ece", 
+    "date": "30-10-2008", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Special Investigation Team", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "SIT", 
+            "12", 
+            "Others"
+        ], 
+        [
+            "SIT", 
+            "74", 
+            "Others"
+        ], 
+        [
+            "SIT", 
+            "130", 
+            "Others"
+        ]
+    ]
+}

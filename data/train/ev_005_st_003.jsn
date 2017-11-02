@@ -1,0 +1,190 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "102", 
+            "Neutral"
+        ], 
+        [
+            "Bakshi Stadium", 
+            "114", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "127", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "163", 
+            "Neutral"
+        ], 
+        [
+            "Bongaigaon", 
+            "226", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "228", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "244", 
+            "Event"
+        ], 
+        [
+            "Chirang", 
+            "258", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "303", 
+            "Event"
+        ], 
+        [
+            "Moirangkhom", 
+            "322", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Omar Abdullah", 
+            "39", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "Nawaz Sharif", 
+            "129", 
+            "Others"
+        ], 
+        [
+            "Omar", 
+            "153", 
+            "Comment"
+        ], 
+        [
+            "Sangbijit", 
+            "234", 
+            "Others"
+        ], 
+        [
+            "Bipul Brahma", 
+            "263", 
+            "Victim"
+        ], 
+        [
+            "Ibobi Singh", 
+            "360", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "few minutes : 294", 
+        "8.20 AM : 319"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Blasts in Assam, Manipur; Omar Abdullah for resumption of talks with Pakistan", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)"
+    ], 
+    "content": "NEW DELHI : Bomb blasts rocked Assam and Manipur during Independence Day functions injuring one person even as Chief Ministers asked extremists to abjure violence and return to the mainstream . . . In Srinagar , Chief Minister Omar Abdullah in his Independence Day address advocated resumption of dialogue with Pakistan as well as with the separatists to resolve the political issues of Jammu and Kashmir . . . `` Jammu and Kashmir is a political problem and can be resolved only through a process of dialogue.We have to start the dialogue process both internally as well as bilaterally ( with Pakistan ) for addressing this issue , '' he said at the Bakshi Stadium . . . He said Prime Minister Manmohan Singh and his Pakistan counterpart Nawaz Sharif should take steps for earning each other 's confidence to carry forward the dialogue process between the two countries . . . Omar also expressed concern over the recent ceasefire violations by Pakistan , saying such incidents were not good for the dialogue process . `` You violate the ceasefire , our people suffer.We retaliate , your people suffer.Guns can not be a solution , '' he said . . . The celebrations passed off peacefully in the state with no report of any untoward incident from anywhere in the Valley . . . In Bongaigaon in Assam , the anti-talk NDFB ( Sangbijit ) faction triggered serial blasts injuring one person in Kokrajhar district where the outfit exploded two grenades while another was triggered in neighbouring Chirang district . . . Bipul Brahma ( 45 ) was injured in one of the explosions in Kokrajhar.Another unexploded bomb was recovered from the district and defused . . . A powerful bomb exploded a few minutes before the celebrations of Independence day in Manipur but no casualty was reported.The bomb , planted by insurgents , went off at around 8.20 AM at Moirangkhom petrol pump area , about 400 metres from the 1st Manipur rifles parade ground ahead of the I-Day function . . . The site of the explosion was about one km from the residence of Chief Minister Ibobi Singh , who asked insurgents to give up violence and join the national mainstream by participating in implementation of various development programmes for the welfare of the people .", 
+    "injured": "1", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Chirang", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "bomb blasts:4", 
+        "independence day:11", 
+        "extremists:22", 
+        "violence:25", 
+        "independence day:43", 
+        "political problem:76", 
+        "ceasefire:160", 
+        "ceasefire:180", 
+        "incident:216", 
+        "valley:221", 
+        "serial blasts:238", 
+        "outfit:248", 
+        "grenades:251", 
+        "injured:269", 
+        "explosions:274", 
+        "unexploded bomb:277", 
+        "bomb:291", 
+        "independence day:300", 
+        "bomb:309", 
+        "insurgents:313", 
+        "1st manipur rifles parade ground:332", 
+        "i-day function:340", 
+        "explosion:349", 
+        "insurgents:365", 
+        "violence:369", 
+        "national mainstream:373"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "INDEPENDENCE DAY", 
+    "link": "http://articles.economictimes.indiatimes.com/2013-08-15/news/41413692_1_dialogue-process-jammu-and-kashmir-pakistan", 
+    "date": "15-08-2013", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "NDFB", 
+            "232", 
+            "Accused"
+        ]
+    ]
+}

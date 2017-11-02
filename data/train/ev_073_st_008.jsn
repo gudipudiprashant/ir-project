@@ -1,0 +1,273 @@
+{
+    "LOC": [
+        [
+            "Lucknow", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "43", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "80", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "82", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "98", 
+            "Neutral"
+        ], 
+        [
+            "Allahabad railway station", 
+            "140", 
+            "Neutral"
+        ], 
+        [
+            "Faizabad", 
+            "147", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "197", 
+            "Event"
+        ], 
+        [
+            "East Delhi", 
+            "302", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "307", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "369", 
+            "Event"
+        ], 
+        [
+            "Varansi", 
+            "402", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "406", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "410", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rajnath Singh", 
+            "92", 
+            "Others"
+        ], 
+        [
+            "Vikram Singh", 
+            "227", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "276", 
+            "Comment"
+        ], 
+        [
+            "Mayawati", 
+            "311", 
+            "Others"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "452", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "today : 21", 
+        "today : 68", 
+        "15 minutes : 423"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 39", 
+        "Nov 24 : 45", 
+        "Friday : 86", 
+        "Saturday morning : 131", 
+        "Friday night : 193", 
+        "Friday : 372"
+    ], 
+    "death": "15", 
+    "title": "BJP, VHP call for shutdown in Uttar Pradesh", 
+    "org_unorg": "", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "The Bharatiya Janata Party ( BJP ) and Vishwa Hindu Parishad ( VHP ) have called for a state-wide shutdown today in protest against the simultaneous bomb blasts in court premises in Lucknow , Varanasi and Faizabad on Friday . . . Lucknow , Nov 24 : The Bharatiya Janata Party ( BJP ) and Vishwa Hindu Parishad ( VHP ) have called for a state-wide shutdown today in protest against the simultaneous bomb blasts in court premises in Lucknow , Varanasi and Faizabad on Friday . . . BJP President Rajnath Singh is scheduled to visit Uttar Pradesh to meet injured in the hospitals and to take stock of the situation in the affected areas . . . Meanwhile , Samajwadi Party workers have already begun their protest early Saturday morning , stopping the Ganga-Gomti Express at the Allahabad railway station . . . In Faizabad , a four-member forensic team is examining vital clues related to the blasts as to who could be behind the serial blasts . . . According to sources , a terrorist group called Indian Mujahideen has claimed responsibility for the blast . . . On Friday night , the Uttar Pradesh police released sketches of three suspects believed to be behind the blasts . All sketches were prepared on the basis of information received from eyewitness . . . Vikram Singh , Director General of Uttar Pradesh Police has said that new cycles could be likely clues for probe into blasts . . . `` Special Task Force will probe the case . We can not rule out anything and will soon give you the result , '' Singh said . . . According to unconfirmed reports , investigators have traced an email , which warned of the attack , to a cybercafe in East Delhi . . . Uttar Pradesh Chief Minister Mayawati blamed the Central intelligence agencies for failing to provide any inputs about the blasts , and said that state agencies were not even asked to stay ` alert ' . . . The Home Ministry has already issued advisory to all States and Union Territories to step up vigilance and surveillance . . . Terror struck in Uttar Pradesh on Friday when militants triggered near-simultaneous blasts in court premises killing 15 people , four of them lawyers , and injuring over 80 . . . Six bombs - three in Varansi , two in Faizabad and one in Lucknow - some planted on cycles , went off within a span of 15 minutes . . . The blasts came a week after the Uttar Pradesh police along with central security agencies busted a Jaish-e-Mohammed module , who wanted to target Rahul Gandhi . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .", 
+    "injured": "80", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Lucknow", 
+        "Lucknow", 
+        ""
+    ], 
+    "O": [
+        "protest:23", 
+        "bomb blasts:27", 
+        "protest:70", 
+        "bomb blasts:74", 
+        "injured:102", 
+        "Ganga-Gomti Express:136", 
+        "four-member forensic team:150", 
+        "blasts:160", 
+        "serial blasts:168", 
+        "terrorist group:178", 
+        "blast:188", 
+        "suspects:204", 
+        "blasts:210", 
+        "clues:244", 
+        "blasts:248", 
+        "attack:296", 
+        "blasts:325", 
+        "state agencies:330", 
+        "alert:339", 
+        "vigilance:360", 
+        "surveillance:362", 
+        "Terror struck:366", 
+        "militants triggered:374", 
+        "blasts:377", 
+        "blasts:429", 
+        "central security agencies:440"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.andhranews.net/India/2007/November/24-call-shutdown-23525.asp", 
+    "date": "", 
+    "target": "CITIES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bharatiya Janata Party", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Vishwa Hindu Parishad", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "VHP", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "Vishwa Hindu Parishad", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "VHP", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "Samajwadi Party", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "181", 
+            "Accused"
+        ], 
+        [
+            "Uttar Pradesh Police", 
+            "233", 
+            "Others"
+        ], 
+        [
+            "Special Task Force", 
+            "253", 
+            "Others"
+        ], 
+        [
+            "Central intelligence agencies", 
+            "314", 
+            "Others"
+        ], 
+        [
+            "States and Union Territories", 
+            "353", 
+            "Others"
+        ], 
+        [
+            "Uttar Pradesh police", 
+            "435", 
+            "Others"
+        ], 
+        [
+            "Jaish-e-Mohammed", 
+            "445", 
+            "Accused"
+        ]
+    ]
+}

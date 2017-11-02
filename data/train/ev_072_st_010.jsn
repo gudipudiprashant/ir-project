@@ -1,0 +1,101 @@
+{
+    "LOC": [
+        [
+            "Ajmer", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "dargah", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "17", 
+            "Assoc_Event"
+        ], 
+        [
+            "Punjab", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "Shringhar", 
+            "114", 
+            "Assoc_Event"
+        ], 
+        [
+            "Punjab", 
+            "145", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:92"
+    ], 
+    "death": "6", 
+    "title": "Ajmer, Ludhiana blasts differ in nature", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The modus operandi of the terror attacks on the Ajmer dargah and the cinema hall in Ludhiana are different , said sources in Punjab Police probing the blast in the cinema hall that killed six persons . . . They said investigations so far showed there was no link with the recent blast at Ajmer as no evidence of any mobile or phone or its SIM card having been used in the blast in the cinema hall had come out . . . Senior police officers preferred to remain silent on Wednesday saying investigations were still on . . . Officials of the Intelligence Bureau conducted daylong investigations at the blast site in Shringhar cinema . However , the IB officials declined to divulge any details . . . National Security Guards officials have also returned after inspecting the spot and holding consultations with Punjab Police officials . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Punjab", 
+        "", 
+        "ajmer", 
+        ""
+    ], 
+    "O": [
+        "modus operandi:2", 
+        "cinema hall:14", 
+        "cinema hall:31", 
+        "SIM card:66", 
+        "cinema hall:76", 
+        "investigations:108", 
+        "shringhar:114", 
+        "shringhar cinema:114", 
+        "divulge:124"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2007/oct/17ajmer.htm", 
+    "date": "11-10-2007", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Intelligence Bureau", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "120", 
+            "Others"
+        ], 
+        [
+            "National Security Guards", 
+            "130", 
+            "Others"
+        ]
+    ]
+}

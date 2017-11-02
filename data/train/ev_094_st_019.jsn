@@ -1,0 +1,155 @@
+{
+    "LOC": [
+        [
+            "Patna", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "Muzaffarnagar", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Muzaffarnagar", 
+            "94", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "102", 
+            "Event"
+        ], 
+        [
+            "Muzaffarnagar", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "121", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "163", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "263", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "428", 
+            "Event"
+        ], 
+        [
+            "Patna railway station", 
+            "428", 
+            "Event"
+        ], 
+        [
+            "New York", 
+            "498", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narendra Modi", 
+            "107", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "157", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "258", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "486", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "505", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "592", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "634", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:265"
+    ], 
+    "death": "", 
+    "title": "Patna serial blasts: Give BJP credit for keeping the calm during Modi rally", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "So , the Patna serial blasts were the handiwork of Indian Mujahideen to avenge Muzaffarnagar riots ? That 's what the security agencies want us to believe . Should we trust them ? Well , we do not know the truth yet , but there 's little to trust this spin because it tries to deflect attention from the actual conspiracy and subtly justify the crime.First , the purpose was to kill some people in explosions and trigger a stampede that killed scores , scare people and scuttle the rally . Not avenging Muzaffarnagar as the police is spinning it.Bihar , Patna or for that matter Narendra Modi has little do with riots in Muzaffarnagar . That the terrorists chose Patna 's Hunkar Rally to target means they chose Hunkar Rally as target . Simple . There 's no need to find meanings in what is apparent.Also Read : Ca n't disappoint those at rally , Modi said when told to skip Patna addressWhen security agencies add motives beyond the obvious , they attribute , often without realising it , a cause to the madness . Madness may have an unholy pattern , but does n't always have a holier motive . They wanted to avenge one riot or another becomes a tool , like it or not , to lessen the severity of the crime . The revenge angle may or may not be true . In any case , killing innocents in the name of revenge is terrorism.Smoke rises after the serial blasts that shook Modi 's Hunkar rally in Patna on Sunday . PTIIt was no coincidence that the tragedy did n't become colossal in scale . All the ingredients that make a disaster were present . Lakhs of people gathered in an area with controlled access and exit . A political rally largely consisting of charged-up youth . A leader branded divisive addressing a crowd in the heart of the city that he was persona non grata in . When cops or vested interests prop up the revenge angle , they forget that an attack on any election rally is an attack on democracy.In this case , there is also an attempt to deny credit where it 's due : That BJP leaders handled the blasts in a mature and responsible manner . Hundreds of thousands of emotionally charged youth could do a great deal of damage to themselves and to the city if told that the rally was under attack . Initially , BJP leaders too were in the dark as the Patna railway station explosions were seen in isolation.When bombs started going off in the vicinity of the ground , cops told them not to worry about pre-Diwali crackers and tyre bursts . But news did reach the stage that bombs had been planted around the venue and that people had died and many had been injured.Must Read : Modi can not hope to lead India by inspiring fear , says New York TimesHence the final lines of Modi 's speech were focused on maintaining calm , communal harmony and ensuring no life is lost . Any panic or one provocative statement could turn it into a calamity.Patna escaped a disaster . Not because of security , but because the party that organised the rally felt responsible for maintaining calm and minimising damage . This is not what generally happens in this country . With the kind of police preparation on display , simply cancelling the rally would have meant large-scale violence and destruction.That the Modi rally did take place , that a mob of that size could be controlled and disciplined by party workers in spite of the tragic turn of events deserves credit . Whether you like the BJP or not , whether you hate Modi or not . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "", 
+        "Patna"
+    ], 
+    "O": [
+        "police:97", 
+        "Hunkar Rally:123"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/patna-serial-blasts-give-bjp-credit-for-keeping-the-calm-during-modi-rally/1/320622.html", 
+    "date": "28-10-2013", 
+    "target": "", 
+    "hot_spot": "Patna", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "11", 
+            "Accused"
+        ], 
+        [
+            "BJP", 
+            "376", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "419", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "627", 
+            "Others"
+        ]
+    ]
+}

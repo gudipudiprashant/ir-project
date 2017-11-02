@@ -1,0 +1,92 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "16", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Centre seeks report on Bardhaman blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Union Home Ministry has sought a report from the West Bengal government on the Bardhaman blast case , in which four persons have been arrested . The Centre is yet to take a decision on handing over the case to the National Investigation Agency -LRB- NIA -RRB- . . . Given that the West Bengal Police have invoked the Unlawful Activities -LRB- Prevention -RRB- Act provisions pertaining to allegations of terror act , conspiracy , organising terror training camps and harbouring , the case falls within NIA jurisdiction . . . Scheduled Offences . . The Act is among the laws listed in the Scheduled Offences category of the NIA Act , empowering the agency to conduct the investigation . . . The Centre can transfer cases of scheduled offences to the NIA , either based on the report submitted by the State government as provided under Section 6 -LRB- 4 -RRB- or suo motu under Section 6 -LRB- 5 -RRB- of the NIA Act .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "O": [
+        "Union Home Ministry:2", 
+        "Unlawful Activities:61"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/centre-seeks-report-on-bardhaman-blast/article6483280.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "West Bengal government", 
+            "11", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "West Bengal Police", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "111", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "134", 
+            "Others"
+        ], 
+        [
+            "State government", 
+            "144", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "165", 
+            "Others"
+        ]
+    ]
+}

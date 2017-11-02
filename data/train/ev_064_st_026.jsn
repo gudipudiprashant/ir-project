@@ -1,0 +1,128 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "73", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "91", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "95", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "110", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "295", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "P Chidambaram", 
+            "68", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "97", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "148", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "239", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:4", 
+        "Tuesday:25", 
+        "Tuesday:52", 
+        "Tuesday:112", 
+        "Wednesday:128", 
+        "Wednesday:175", 
+        "April-May:199", 
+        "2005-06:215", 
+        "April-May:227"
+    ], 
+    "death": "190", 
+    "title": "Blasts will not hit economy: FM", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The government on Wednesday said the Indian economic growth story is intact and a dastardly act like the serial bomb blasts in Mumbai on Tuesday will not break the country 's resolve to move forward . . . ` This kind of cowardly and dastardly act -LRB- blasts in Mumbai on Tuesday -RRB- will not break our will and resolve to move forward , ' Finance Minister P Chidambaram told reporters in New Delhi . . . A solitary attack can not be a setback to economic activity all over India or even in Mumbai , Chidambaram said . . . Serial bomb blasts ripped through suburban trains in Mumbai on Tuesday , killing at least 190 people and injuring over 600 others . . . On Wednesday , life in the city returned to normal as train services resumed and schools and colleges remained open . Chidambaram said the country 's economic growth story is intact with industrial and manufacturing growth remaining buoyant . . . Official data on industrial production released on Wednesday showed that the strong performance in the manufacturing sector pulled the overall Index of Industrial Production marginally up to 9.8 per cent during April-May of the current fiscal as compared to 9.5 per cent in the corresponding period of 2005-06 . . . Manufacturing shot up by 10.9 per cent in April-May this fiscal from 10.3 per cent last fiscal . . . Chidambaram said investors continued to repose confidence in the Indian economy . . . Attractive quarterly results announced by IT major Infosys Technologies rescued the stock markets from a major plunge after the serial blasts and placed the benchmark index Sensex considerably higher by 170.46 points , according to latest reports . . . . . Mumbai blasts : Complete Coverage . . ` Economic impact of blasts to be limited ' . . Blasts : Minimal impact on markets .", 
+    "injured": "600", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "government:2", 
+        "Indian economic growth:7", 
+        "growth story:9", 
+        "finance minister:66", 
+        "economic:87", 
+        "blasts:104", 
+        "economic growth:153", 
+        "Industrial Production:190", 
+        "fiscal:203", 
+        "fiscal:235", 
+        "indian:248", 
+        "IT:258"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/money/2006/jul/12fm.htm", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Infosys Technologies", 
+            "260", 
+            "Others"
+        ], 
+        [
+            "Sensex", 
+            "279", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "LOC": [
+        [
+            "Bihar", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "37",
+	    "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "90", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "93",
+	    "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nitish Kumar", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Lalu Prasad Yadav", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "Ramvilas Paswan", 
+            "121", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "We had always been on alert: Nitish", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Bihar Chief Minister Nitish Kumar , who visited the Mahabodhi temple condemned the attack but maintained that security had been provided to the religious site . Any condemnation of this incident would not be enough . Bodh Gaya is a sacred pilgrimage site and the key location for the faith of millions across the world . To carry out such an attack at such a place in condemnable , he said . The government had always been on the alert and taken steps to ensure the security of the Mahabodhi temple and Bodh Gaya in general . . . RJD chief Lalu Prasad Yadav held the government responsible for failing to act upon intelligence inputs . . . LJP leader Ramvilas Paswan demanded Mr. Kumars resignation on moral grounds for failing to prevent the attack despite intelligence inputs .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "", 
+        "Mahabodhi temple,Bodh Gaya"
+    ], 
+    "O": [
+        "government:74"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/other-states/we-had-always-been-on-alert-nitish/article4891411.ece?ref=relatedNews", 
+    "date": "07-07-2013", 
+    "target": "", 
+    "hot_spot": "Mahabodhi temple,Bodh Gaya", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "LJP", 
+            "119", 
+            "Others"
+        ]
+    ]
+}

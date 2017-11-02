@@ -1,0 +1,96 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "cinema", 
+            "64", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "124", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vijay Kumar", 
+            "3", 
+            "Victim"
+        ], 
+        [
+            "Vijay", 
+            "45", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "morning : 90"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:89"
+    ], 
+    "death": "16", 
+    "title": "Hyderabad bomb blasts: among 16 dead, at least three students", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Hyderabad : Vijay Kumar , 24 , was shopping for text books when two bombs ripped through the busy market in Hyderabad 's Dilsukhnagar neighbourhood.Vijay was scheduled to take an exam soon that would qualify him as a sub inspector in the police . Vijay died in the terror attack.Two other students also died as bombs strapped to bicycles exploded next to a cinema and a bus stand.The Prime Minister has vowed `` the guilty will not go unpunished '' for the `` dastardly attack . `` On Friday morning , police with cameras , gloves and plastic evidence bags used pointers to search through the debris . Officials from the National Investigation Agency and commandos of the National Security Guards arrived from New Delhi to help with the investigation . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "Hyderabad", 
+        "market"
+    ], 
+    "O": [
+        "two bombs:14", 
+        "sub inspector:39", 
+        "police:43", 
+        "Prime Minister:69", 
+        "dastardly attack:84", 
+        "police:92"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/hyderabad-bomb-blasts-among-16-dead-at-least-three-students-514191", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "market", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "112", 
+            "Others"
+        ], 
+        [
+            "National Security Guards", 
+            "119", 
+            "Others"
+        ]
+    ]
+}

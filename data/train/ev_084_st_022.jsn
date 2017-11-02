@@ -1,0 +1,495 @@
+{
+    "LOC": [
+        [
+            "bakery", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Jewish prayer house", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "43", 
+            "Neutral"
+        ], 
+        [
+            "German Bakery", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "Cantonment", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "Osho Ashram", 
+            "93", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "143", 
+            "Event"
+        ], 
+        [
+            "bakery", 
+            "225", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "559", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "586", 
+            "Neutral"
+        ], 
+        [
+            "German Bakery", 
+            "594", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "668", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "670", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "781", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "794", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "813", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "848", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "869", 
+            "Event"
+        ], 
+        [
+            "Maharashtra government", 
+            "898", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "901", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "905", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra government", 
+            "909", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "913", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "945", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "993", 
+            "Event"
+        ], 
+        [
+            "Ahmed", 
+            "1087", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "1093", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "1109", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "1112", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "1137", 
+            "Event"
+        ], 
+        [
+            "Pawar", 
+            "1178", 
+            "Neutral"
+        ], 
+        [
+            "Osho Ashram", 
+            "1192", 
+            "Neutral"
+        ], 
+        [
+            "German Bakery", 
+            "1197", 
+            "Event"
+        ], 
+        [
+            "Koregaon Park", 
+            "1200", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "1226", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "1244", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "1261", 
+            "Event"
+        ], 
+        [
+            "Pawar", 
+            "1266", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "1276", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "1299", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rajneesh", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "David Headley", 
+            "110", 
+            "Accused"
+        ], 
+        [
+            "Gopal Krishna Pillai", 
+            "179", 
+            "Comment"
+        ], 
+        [
+            "Home Ramesh Bagve", 
+            "243", 
+            "Others"
+        ], 
+        [
+            "Ramesh Bagve", 
+            "244", 
+            "Others"
+        ], 
+        [
+            "U K Bansal", 
+            "281", 
+            "Comment"
+        ], 
+        [
+            "Prabhat Kumar", 
+            "387", 
+            "Comment"
+        ], 
+        [
+            "Ashok Chavan", 
+            "422", 
+            "Comment"
+        ], 
+        [
+            "Chavan", 
+            "498", 
+            "Comment"
+        ], 
+        [
+            "Santosh", 
+            "517", 
+            "Comment"
+        ], 
+        [
+            "Shahjad", 
+            "589", 
+            "Accused"
+        ], 
+        [
+            "Pillai", 
+            "637", 
+            "Others"
+        ], 
+        [
+            "Chagan Bhujbal", 
+            "674", 
+            "Comment"
+        ], 
+        [
+            "Ashok Chavan", 
+            "853", 
+            "Comment"
+        ], 
+        [
+            "Khan", 
+            "930", 
+            "Accused"
+        ], 
+        [
+            "Khan", 
+            "965", 
+            "Accused"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "970", 
+            "Others"
+        ], 
+        [
+            "Mukhtar Abbas Naqvi", 
+            "976", 
+            "Comment"
+        ], 
+        [
+            "Shakeel Ahmed", 
+            "1041", 
+            "Comment"
+        ], 
+        [
+            "PawarIt", 
+            "1097", 
+            "Comment"
+        ], 
+        [
+            "Sharad Pawar", 
+            "1120", 
+            "Comment"
+        ], 
+        [
+            "Pawar", 
+            "1143", 
+            "Comment"
+        ], 
+        [
+            "R R Patil", 
+            "1165", 
+            "Others"
+        ], 
+        [
+            "Ajit Pawar", 
+            "1172", 
+            "Comment"
+        ], 
+        [
+            "David Headley", 
+            "1186", 
+            "Others"
+        ], 
+        [
+            "Pawar", 
+            "1208", 
+            "Comment"
+        ], 
+        [
+            "Pawar", 
+            "1236", 
+            "Comment"
+        ], 
+        [
+            "Prakash Jawadekar", 
+            "1280", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "7.15 pm:66", 
+        "evening : 867", 
+        "night : 1291"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "14 months : 44", 
+        "Saturday:677", 
+        "Saturday:856", 
+        "Saturday:1290"
+    ], 
+    "death": "9", 
+    "title": "9 killed, foreigners among 57 injured in Pune bakery blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Ninepeople were killed and up to 57 , including five to six foreigners and women , injured in a bomb explosion that ripped apart a popular bakery near a Jewish prayer house here in the first terror attack since the carnage in Mumbai 14 months ago.The site of the blast in Pune.The blast -- suspected to be an Improvised Explosive Device -- took place around 7.15 pm at the German Bakery , an old business establishment in the Cantonment area of the city and a favourite joint for foreigners visiting the nearby Osho Ashram set up by Rajneesh . TV reports put the foreigner toll at one.US terror suspect David Headley is believed to have stayed at the Ashram during his visit to the city.There was a bomb blast . There have been eight deaths and 33 people were injured , said Pune 's Joint Commissioner of Police Rajendra Sonwane.It 's most probably a terror attack . We are sending a forensic team of CBI and personnel of National Investigative Agency ( NIA ) , Union Home Secretary Gopal Krishna Pillai said in New Delhi.While some foreigners were believed among the dead , a senior police official said it was difficult to confirm their identity and nationalty as their faces were charred beyond recognition.Police said there was a packet outside the kitchen of the bakery and when the waiters were calling the police , the IED went off.Maharashtra Minister of State for Home Ramesh Bagve , who is an MLA from the constituency , said up to 40 people were injured , three of them seriously.He said five to six foreigners were among the injured.Special Secretary in Union Home Ministry U K Bansal said foreigners are among the eight dead.It is a suspected bomb blast . So far , it is not confirmed . We are verifying this , Sonwane said adding we have not arrived at any conclusion at this stage but prima facie it appears that it is a bomb blast.A team of Anti-Terrorism Squad and bomb disposal squad visited the spot to ascertain the nature of the blast.The scene of the blast , that destroyed the bakery , was littered with thick patches of blood and severed limbs.Bagve said the police is exploring all angles , including terror.Pune 's Additional Commissioner of Police Prabhat Kumar said , It is a suspected terror attack and we are trying to find out the exact device used in the incident.Sonewane said the nationality of the dead was being ascertained.Maharashtra Chief Minister Ashok Chavan said it was yet to be established as to what was the cause of the blast . He said he had talked to the Police Commissioner who told him that unless they examined the evidence on the scene of the blast they can not come to any conclusion.He said initially it was thought to be a cylinder blast.Forensic experts are there at the site and the exact cause was yet to be ascertained , Chavan added.I was travelling by an autorickshaw . I heard a loud explosion and the ground shook , said Santosh , one of the injured in the blast.An eyewitness said there was a loud bang which shook the entire area and we saw a fire.NIA to investigateTeams of forensic experts from NIA , CBI and IB have also been rushed to Pune . The NIA will probe the blast . ATS sources have told Headlines Today that Indian Mujahhiddin Operatives are suspected to be behind the attack . Delhi blast suspect Shahjad is being probed . German Bakery is a popular joint just opposite the Osho Commune lane in Pune.The bakery is a nerve centre of sorts for the entire area and is frequented by foreigners visiting the Osho Commune.A high-level security meet is on at the residence of Pillai . Meanwhile , Force one has al ; so been rushed to Pune.Maha had received inputs but none was specific : BhujbalIn the wake of a suspected terror attack in Pune , Maharashtra Deputy Chief Minister Chagan Bhujbal on Saturday said the state had received a lot of inputs from intelligence agencies but none of them was specific.We are receiving a lot of inputs from intelligence agencies . But it does not say where it will happen , when it will happen or who will do it . We do n't have such details , he said.He was responding to a question whether the state had received prior reports about possibility of terror strike in the state.Condemning the terror strike , he said the police was doing its best to secure people.ATS zeroes in on IMMohsin Chowdhry , who founded IM module in Pune , is the key supect , sources said.Chowdhry was also involved in Jaipur and ahmedabad blasts.High alert in MaharashtraA high alert has been sounded in the state following the blast in Pune , police said.The state police has been asked to remain on high alert , a senior police official told PTI.The security for the Indian cricket team has been beefed up.Maha CM announces ex-gratia to Pune blast victimsMaharashtra Chief Minsiter Ashok Chavan on Saturday announced Rs one lakh each to those killed in this evening 's Pune blast.The government will pay Rs one lakh to the kin of each victim of the blast and Rs 50,000 each to those injured , an official said.BJP attacks Maharashtra government over Pune blastOpposition BJP in New Delhi attacked the Maharashtra government over the Pune blast , alleging it was engaged in protecting the makers of the film My Name is Khan leaving the terrorists scot free to attack.The whole Congress led government and police in Maharashtra were engaged in protecting the interests of the actor , director , producer and distributor of My Name is Khan on the orders of Rahul Gandhi , BJP vice president Mukhtar Abbas Naqvi said.He said , This left the terrorists scot free to attack innocent people in Pune . Congress , however , condemned the statement of the BJP saying it was unfortunate that political parties were trying to take mileage from an unfortunate incident.The incident is very unfortunate . Nobody should play politics with with the security system of the country , party spokesman Shakeel Ahmed said.He said no political party should make a statement which jeopardises the country 's fight against terror.This is a time for all of us to stay united.Unfortunately some political parties are trying to take a mileage out of it . This is pathetic , Ahmed said.Not alright to say entire Pune targeted , says PawarIt is not alright to conclude after this evening 's blast in Pune that entire Pune city was targeted , Union Agriculture Minister Sharad Pawar has said in Mumbai.It is not alright to arrive at a conclusion that the entire Pune city has been targeted , Pawar said . The place where the blast took place is an isolated area , he added.I have spoken to Home Minister R R Patil , district guardian minister Ajit Pawar and district collector , Pawar said.On the issue of American terror suspect David Headley 's visits to the Osho Ashram located near the German Bakery in Koregaon Park which witnessed the bomb blast , Pawar said I have no information as yet to reach this conclusion . Expressing confidence that people of Pune will face the incident with a brave face , Pawar said when I was Chief Minister , Mumbai saw 11 simultaneous blasts but everything returned to normal soon . There is no need for Pune residents to panic , Pawar said.Reconsider proposed dialogue with Pak , BJP tells CentreIn Pune , BJP spokesman Prakash Jawadekar , who visited the blast site , on Saturday night demanded government reconsider the proposed dialogue with Pakistan in the wake of the blast here.Terror and talks can not go together , he told reporters at the blast site.With PTI .", 
+    "injured": "57", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "pune", 
+        " bakery near a Jewish prayer house"
+    ], 
+    "O": [
+        "Explosive Device:60", 
+        "Joint Commissioner of Police:145", 
+        "PTI.The:833", 
+        "Chief Minsiter:851", 
+        "Union Agriculture Minister:1117"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/9+killed,+foreigners+among+57+injured+in+Pune+bakery+blast/1/83796.html", 
+    "date": "13-02-2010", 
+    "target": "", 
+    "hot_spot": " bakery near a Jewish prayer house", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "CBI", 
+            "165", 
+            "Others"
+        ], 
+        [
+            "National Investigative Agency", 
+            "169", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "Union Home Secretary", 
+            "176", 
+            "Others"
+        ], 
+        [
+            "MLA", 
+            "250", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "336", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "549", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "551", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "562", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "568", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahhiddin", 
+            "575", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "778", 
+            "Accused"
+        ], 
+        [
+            "BJP", 
+            "903", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "939", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "973", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "995", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1004", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1273", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1278", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "1321", 
+            "Others"
+        ]
+    ]
+}

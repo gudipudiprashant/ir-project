@@ -1,0 +1,136 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "South Delhi", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Mehrauli", 
+            "72", 
+            "Event"
+        ], 
+        [
+            "Qutab Minar", 
+            "202", 
+            "Event"
+        ], 
+        [
+            "Faridabad", 
+            "276", 
+            "Neutral"
+        ], 
+        [
+            "Haryana", 
+            "279", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "H S Dhaliwal", 
+            "85", 
+            "Comment"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "178", 
+            "Comment"
+        ], 
+        [
+            "Gupta", 
+            "291", 
+            "Comment"
+        ], 
+        [
+            "Shivraj Patil", 
+            "308", 
+            "Others"
+        ], 
+        [
+            "Gupta", 
+            "322", 
+            "Comment"
+        ], 
+        [
+            "Y S Dadwal", 
+            "330", 
+            "Others"
+        ], 
+        [
+            "Patil", 
+            "335", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "2.15 pm:75"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:289", 
+        "Saturday:349"
+    ], 
+    "death": "1", 
+    "title": "Terror hits Delhi again; bomb blast kills boy", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Terror returned to Delhi a fortnight after the serial blasts with two motorcycle-borne youth dropping a tiffin bomb in a crowded South Delhi market that exploded killing a young boy and injuring 18 people . . . Riding a black motorcycle , the two men in black dress and wearing helmets , dropped a black polythene bag containing a tiffin box opposite an electronic goods shop in the flower market in Mehrauli at about 2.15 pm , Deputy Commissioner of Police -LRB- South -RRB- H S Dhaliwal said . . . A 13-year-old boy picked it up to give it back to the bikers . They refused and fled the place but the boy was still keen on giving it to them when it exploded killing him instantaneously and injuring 18 others . . . Eleven of the injured were rushed to AIIMS where doctors said six were in critical condition . Five of them suffered serious head injuries . Three or four of the injured could be required to be operated upon , Union Home Secretary Madhukar Gupta said . . . The explosive shattered the window panes of several adjacent shops in the market located close to the historic Qutab Minar , which was bustling with shoppers . . . The blast , which caused a crater , left a gory scene where blood was splattered on the road along with shattered glass panes and furniture . . . The explosion comes exactly two weeks after the national capital was rocked by five near simultaneous blasts in which 24 people were killed . . . There were reports that police in the neighbouring Faridabad district in Haryana had tipped off about the possibility of explosions on Saturday but Gupta asked the media not to speculate . . . Soon after the explosion , Home Minister Shivraj Patil reviewed the situation with top officials of his Ministry . . . Gupta , who talked to Delhi Police Commissioner Y S Dadwal , briefed Patil on the situation . . . The nature of the explosives used in Saturday 's blast was not immediately known . Forensic experts of the NSG bomb data squad , who visited the spot , found the nails in the explosives were sharpened on both sides . . . ... contd .", 
+    "injured": "18", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "South West", 
+        "", 
+        "Mehrauli"
+    ], 
+    "O": [
+        "two motorcycle-borne youth dropping a tiffin bomb:12", 
+        "killing a young boy:27", 
+        "polythene bag containing a tiffin box:56", 
+        "flower market:69", 
+        "boy picked it up:94", 
+        "critical condition:150", 
+        "explosive shattered the window panes:185", 
+        "national capital was rocked by five near simultaneous blasts:250", 
+        "tipped off about the possibility of explosions:281", 
+        "nails in the explosives:373"
+    ], 
+    "unexpl": [
+        "NAILS"
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/terror-hits-delhi-again--bomb-blast-kills-bo/366683/", 
+    "date": "27-10-2008", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "TIFFIN BOX", 
+    "delivery_met": "ACCIDENTAL", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AIIMS", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "327", 
+            "Others"
+        ], 
+        [
+            "NSG bomb data squad", 
+            "361", 
+            "Others"
+        ]
+    ]
+}

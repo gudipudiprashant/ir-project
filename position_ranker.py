@@ -2,7 +2,7 @@
 import time
 from Entity_test import Tester
 
-def custom_pos_func(sent_ent_list, sentence_list, content, custom_param):
+def custom_entity_detect_func(sent_ent_list, sentence_list, content, custom_param):
   t1 = time.time()
   relev_entitites = {
                     "LOC": [],

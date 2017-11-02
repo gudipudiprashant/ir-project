@@ -1,0 +1,108 @@
+{
+    "LOC": [
+        
+        [
+            "Guwahati", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "upper Assam", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Ratanipathar", 
+            "58", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "Tinsukia", 
+            "74", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Khagen Sharma", 
+            "39", 
+            "Comment"
+        ], 
+        [
+            "Debajit Hazarika", 
+            "76", 
+            "Others"
+        ], 
+        [
+            "Margherita", 
+            "96", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "5.15 p.m.:67"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:27"
+    ], 
+    "death": "5", 
+    "title": "5 policemen killed in Assam", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM"
+    ], 
+    "content": "Special Correspondent . . Guwahati : Five police personnel were killed in a bomb attack by the United Liberation Front of Asom in upper Assam on Friday . . . Inspector General of Police , Special Branch , Khagen Sharma told The Hindu that an improvised explosive device , planted by the ULFA , went off at Ratanipathar under Pengeri police station in Tinsukia district around 5.15 p.m. just after the vehicle of Tinsukia SP Debajit Hazarika had crossed the area . . . The blast ripped apart the vehicle of Sub-Divisional Police Officer of Margherita , which was closely following the SP 's vehicle .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        "upper Assam"
+    ], 
+    "O": [
+        "inspector general of police:31", 
+        "sub-divisional police officer:92"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/5-policemen-killed-in-assam/article3089152.ece", 
+    "date": "11-08-2006", 
+    "target": "", 
+    "hot_spot": "upper Assam", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "18", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "53", 
+            "Accused"
+        ], 
+        [
+            "Pengeri police", 
+            "60", 
+            "Others"
+        ]
+    ]
+}

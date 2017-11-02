@@ -1,0 +1,90 @@
+{
+    "LOC": [
+        [
+            "Bangalore", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Forum Mall", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Koramangla", 
+            "40", 
+            "Event"
+        ], 
+        [
+            "Hosur Road", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "83", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shankar Bidri", 
+            "85", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Fridays : 117", 
+        "Friday:131"
+    ], 
+    "death": "", 
+    "title": "Another bomb found in Bangalore, defused", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : NEW DELHI : A day after a string of eight low intensity bomb blasts rocked Bangalore that killed one and injured several others , another live bomb was reportedly found near Forum Mall in Bangalore 's Koramangla area . -LRB- Watch -RRB- The bomb has now been defused.Police cordoned off the area and blocked the entire stretch leading to the mall . Traffic has been diverted from Hosur Road and Koramangla.Following the bomb scare , the police commissioner of Bangalore , Shankar Bidri also reached the area and requested the locals to remain calm . -LRB- Watch -RRB- According to police , the object found today is similar to the one used in Fridays blasts.The National Bomb Detection squad rushed to the spot to conduct more checks.On Friday the IT city was rocked by eight low-intensity blasts that killed one and injured several others.More details awaited .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "NEW DELHI:1", 
+        "forum mall:35", 
+        "cordoned:52", 
+        "police commissioner:80", 
+        "it city:133", 
+        "eight low-intensity blasts:138"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Another-bomb-found-in-Bangalore-defused/articleshow/3282520.cms?referral=PM", 
+    "date": "26-07-2008", 
+    "target": "SHOPPING MALL", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "National Bomb Detection squad", 
+            "119", 
+            "Others"
+        ]
+    ]
+}

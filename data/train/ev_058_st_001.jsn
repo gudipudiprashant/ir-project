@@ -1,0 +1,220 @@
+{
+    "LOC": [
+        [
+            "Afghanistan", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "158", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "161", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "191", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "201", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "213", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "220", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "307", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "343", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "403", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Zaher Shah", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "Atal Behari Vajpayee", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "Hamid Karzai", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "A.P.J. Abdul Kalam", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "Vajpayee", 
+            "81", 
+            "Comment"
+        ], 
+        [
+            "Marshal Qasim Fahim", 
+            "92", 
+            "Others"
+        ], 
+        [
+            "Yashwant Sinha", 
+            "101", 
+            "Others"
+        ], 
+        [
+            "Abdullah Abdullah", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "Brajesh Mishra", 
+            "117", 
+            "Others"
+        ], 
+        [
+            "Zalmai Rassoul", 
+            "124", 
+            "Comment"
+        ], 
+        [
+            "Vajpayee", 
+            "134", 
+            "Comment"
+        ], 
+        [
+            "Zaher Shah", 
+            "137", 
+            "Comment"
+        ], 
+        [
+            "Vajpayee", 
+            "185", 
+            "Comment"
+        ], 
+        [
+            "Karzai", 
+            "194", 
+            "Comment"
+        ], 
+        [
+            "Kalam", 
+            "234", 
+            "Others"
+        ], 
+        [
+            "Karzai", 
+            "237", 
+            "Comment"
+        ], 
+        [
+            "Chandrika Kumaratunga", 
+            "282", 
+            "Others"
+        ], 
+        [
+            "Ranil Wickremesinghe", 
+            "290", 
+            "Others"
+        ], 
+        [
+            "Kalam", 
+            "300", 
+            "Others"
+        ], 
+        [
+            "Vajpayee", 
+            "303", 
+            "Comment"
+        ], 
+        [
+            "Kumaratunga", 
+            "317", 
+            "Comment"
+        ], 
+        [
+            "Wickremesinghe", 
+            "354", 
+            "Comment"
+        ], 
+        [
+            "Vajpayee", 
+            "375", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:25"
+    ], 
+    "death": "50", 
+    "title": "Afghanistan, Sri Lanka condemn Mumbai blasts", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        "Mumbai"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "As many as six messages of condolence have been sent to the Indian leadership by Afghanistan , following the bomb blasts in Mumbai on Monday . . . While His Majesty Zaher Shah , Father of the Nation , has addressed his message to the Prime Minister , Atal Behari Vajpayee , the President , Hamid Karzai , has sent letters of condolence both to the President , A.P.J. Abdul Kalam , and the Prime Minister . . . Mr. Vajpayee has also received a letter from the first Vice-President , Marshal Qasim Fahim , the External Affairs Minister , Yashwant Sinha , from his counterpart , Abdullah Abdullah , and the National Security Adviser , Brajesh Mishra , from his counterpart , Zalmai Rassoul . . . In his message to Mr. Vajpayee , Mr. Zaher Shah said : ` Most regretfully , I have received information that the criminal terrorists undertook an anti-humanistic action in Mumbai city of India which caused a lot of injury and the death of more than 50 persons . ' . . Expressing his condolences to Mr. Vajpayee and to the people of India , Mr. Karzai wrote : ` The people of Afghanistan also present their condolences to you and to the people of India . The Transitional Islamic State of Afghanistan is fighting against these terrorist actions too . ' . . To Mr. Kalam , Mr. Karzai said : ' I pray that God Almighty may give patience to the grieved families . I hope that -LRB- the -RRB- international coalition against terrorism succeeds in removing the roots of these anti-human activities . ' . . The Sri Lankan President , Chandrika Kumaratunga , and the Prime Minister , Ranil Wickremesinghe , have also sent separate messages to Mr. Kalam and Mr. Vajpayee , on the Mumbai blasts . . . In a letter , Ms. Kumaratunga said : ` We strongly condemn such acts of terror aimed at innocent civilians . We extend our solidarity to the Government and people of India in this time of crisis . ' . . Mr. Wickremesinghe , for his part , expressed shock and horror at the twin car bomb blasts in his message to Mr. Vajpayee . . . ` We condemn this senseless act of terror against innocent people . We extend our sincere condolences also to the Government and people of India . ' .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Prime Minister:46", 
+        "President:54", 
+        "Vice-President:90", 
+        "External Affairs Minister:97", 
+        "National Security Adviser:113", 
+        "Islamic State:217", 
+        "Sri Lankan President:278", 
+        "Government:399"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2003/08/30/stories/2003083004391100.htm", 
+    "date": "25-08-2003", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

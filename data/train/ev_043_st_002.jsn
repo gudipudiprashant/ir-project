@@ -1,0 +1,75 @@
+{
+    "LOC": [
+        [
+            "Imphal", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Manipur", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "M-sector complex", 
+            "64", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Manipur Raj Bhavan", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Johnstone Higher Secondary", 
+            "73", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "morning.The : 18"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:17"
+    ], 
+    "death": "", 
+    "title": "Powerful bomb explodes in army office in Imphal", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Imphal : A powerful bomb exploded in an Army office in Manipur 's capital Imphal on Tuesday morning.The bomb was so powerful that the sound of the explosion could be heard from a distance of three km , official sources said , adding security personnel have cordoned off the complex before checking some passers-by . The bomb went off in the heavy security M-sector complex , adjoining Manipur Raj Bhavan and prestigious Johnstone Higher Secondary School , the sources said . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Imphal West", 
+        "", 
+        "M-sector comple"
+    ], 
+    "O": [
+        "Army office:9", 
+        "cordoned:47"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/powerful-bomb-explodes-in-army-office-in-imphal-500130", 
+    "date": "25-09-2012", 
+    "target": "", 
+    "hot_spot": "M-sector comple", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

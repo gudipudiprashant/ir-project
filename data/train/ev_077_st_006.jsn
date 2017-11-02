@@ -1,0 +1,134 @@
+{
+    "LOC": [
+        [
+            "Narol", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Danilimda", 
+            "73", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "159", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "165", 
+            "Event"
+        ], 
+        [
+            "Maninagar", 
+            "182", 
+            "Victim"
+        ], 
+        [
+            "L G Hospital", 
+            "196", 
+            "Victim"
+        ], 
+        [
+            "Maninagar", 
+            "204", 
+            "Victim"
+        ], 
+        [
+            "Danilimda", 
+            "241", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mufti Mohammad Abu Bashr", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "Sajid Mansuri", 
+            "42", 
+            "Accused"
+        ], 
+        [
+            "Safdar Nagori", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "G M Patel", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "Mehandi Hasan", 
+            "148", 
+            "Accused"
+        ], 
+        [
+            "Atiz-Ur-Rehman", 
+            "151", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:10", 
+        "October 31:22", 
+        "October:22", 
+        "Thursday:81"
+    ], 
+    "death": "", 
+    "title": "Court extends custody of 26 blast accused till Oct 31", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The designated Metropolitan Court in an on-camera hearing on Friday remanded all the 26 serial blasts accused in police custody till October 31 in two different cases . . . Twenty-two accused that . . included Mufti Mohammad Abu Bashr , Sajid Mansuri and Safdar Nagori were sent to police custody in connection with the blast that had taken place near a temple in Narol . The case was registered with the Danilimda police station . . . Earlier on Thursday , lawyers representing the accused had walked out of the courtroom , alleging the court had not let them complete their arguments . . . They had also filed a joint application , demanding that they be permitted to meet the accused in the absence of police . Metropolitan Magistrate G M Patel had rejected this application . . . The other four accused , including Mehandi Hasan and Atiz-Ur-Rehman , who were first arrested by the Rajasthan Police in connection with the Jaipur serial blasts , have been taken into custody in connection with the case registered with the Maninagar police station . . . Four blasts , including the one at the L G Hospital had taken place in the Maninagar area of the city . . . The Ahmedabad City Detection of Crime Branch -LRB- DCB -RRB- , the investigating agency , has stated in its remand application that the custody of the accused in the Danilimda case was necessary to present them before eye-witnesses for identification . . . The police said that by way of an identification parade before eyewitnesses they were looking to pin down the persons who had planted the bombs at various places . . . The DCB has also stated that details of the bicycles used to plant bombs are yet to be found from the accused .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Metropolitan Magistrate:130", 
+        "Jaipur serial blasts:165", 
+        "Danilimda case:241"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/court-extends-custody-of-26-blast-accused-till-oct-31/377886", 
+    "date": "25-10-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Ahmedabad City Detection of Crime Branch", 
+            "213", 
+            "Others"
+        ], 
+        [
+            "DCB", 
+            "220", 
+            "Others"
+        ], 
+        [
+            "DCB", 
+            "287", 
+            "Others"
+        ]
+    ]
+}

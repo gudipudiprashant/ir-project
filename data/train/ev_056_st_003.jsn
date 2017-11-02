@@ -1,0 +1,92 @@
+{
+    "LOC": [
+        [
+            "Godhra", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Lunawada", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Panchamahals", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Godhra", 
+            "99", 
+            "Event"
+        ], 
+        [
+            "Godhra bus terminus", 
+            "124", 
+            "Event"
+        ], 
+        [
+            "Lunawada", 
+            "137", 
+            "Event"
+        ], 
+        [
+            "Panchamahals", 
+            "188", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "February 27:103", 
+        "Tuesday:128"
+    ], 
+    "death": "", 
+    "title": "Gujarat blasts: 25 persons picked up for questioning", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Police have picked up 25 persons for questioning in connection with the bomb blasts in the Godhra and Lunawada bus stations both in the tribal-dominated Panchamahals district of central Gujarat in the last two days . . . A senior police official of the district , however , did not see any ` definite pattern ' in the bomb explosions and believed these to be acts of local anti-social elements trying to create panic . The bombs were crude ones not requiring expert handling . The official also disagreed that the blasts could have any links with the Godhra train carnage of February 27 as the time gap between the two was large . . . While the bomb that exploded at the Godhra bus terminus on Tuesday last was planted in a bus , at Lunawada , the explosion was on the platform and most of the injured were those who queued up in front of the drinking water pub . . . In the wake of the explosions , the State Transport Corporation is strengthening security in and around bus stations , particularly in the Panchamahals district . The crew have also been issued strict instructions not to stop the buses at any point other than specified platforms and maintain vigil on the movement of suspicious passengers .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Haryana", 
+        "", 
+        "", 
+        "Godhra bus terminus "
+    ], 
+    "O": [
+        "senior police:40", 
+        "bomb explosions:59", 
+        "bus:134", 
+        "drinking water pub:159"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2002/10/18/stories/2002101804781100.htm", 
+    "date": "16-10-2002", 
+    "target": "", 
+    "hot_spot": "Godhra bus terminus ", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "State Transport Corporation", 
+            "173", 
+            "Others"
+        ]
+    ]
+}

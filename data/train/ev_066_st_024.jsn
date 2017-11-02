@@ -1,0 +1,224 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "47", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Islamabad", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "104", 
+            "Neutral"
+        ], 
+        [
+            "Islamabad", 
+            "171", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "205", 
+            "Neutral"
+        ], 
+        [
+            "Palam Airport", 
+            "224", 
+            "Neutral"
+        ], 
+        [
+            "Panipat", 
+            "418", 
+            "Victim"
+        ], 
+        [
+            "Pakistan", 
+            "437", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "451", 
+            "Neutral"
+        ], 
+        [
+            "Panipat", 
+            "466", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "490", 
+            "Neutral"
+        ], 
+        [
+            "Wagah", 
+            "492", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Amit Baruah", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Rana Shoukat Ali", 
+            "395", 
+            "Victim"
+        ], 
+        [
+            "Rukhsana", 
+            "399", 
+            "Victim"
+        ], 
+        [
+            "Aksa", 
+            "405", 
+            "Victim"
+        ], 
+        [
+            "Ali", 
+            "410", 
+            "Comment"
+        ], 
+        [
+            "Rana Shaukat Ali", 
+            "457", 
+            "Others"
+        ], 
+        [
+            "Rana Shaukat Ali", 
+            "481", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "1505 hrs : 208", 
+        "1730 hrs : 235", 
+        "1800 hrs : 243", 
+        "2115 hrs : 287"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 15", 
+        "Friday : 53", 
+        "Thursday : 75", 
+        "Sunday : 84", 
+        "Thursday : 129", 
+        "Thursday night : 173", 
+        "Thursday : 310", 
+        "Friday : 361", 
+        "Thursday : 371"
+    ], 
+    "death": "", 
+    "title": "Train attack probe: plea to Pakistan", 
+    "det_loc": [
+        "India", 
+        "Haryana", 
+        "", 
+        "Panipat", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Amit Baruah . . Seven of the injured sent home by special aircraft on Thursday . . Delay in aircraft 's take was on account of a ` glitch ' : External Affairs Ministry Pakistani version of events do not match Ministry 's statement . . NEW DELHI : India hoped on Friday that Islamabad would facilitate the recording of statements by the 10 injured Pakistanis , being treated at the Safdarjung Hospital till Thursday , in the interest of the investigations into Sunday 's fire-bombing of the Samjhauta Express . . . In a statement , the External Affairs Ministry confirmed that India had requested the Pakistani authorities to allow the interrogation of these persons , seven of whom flew back home by a special aircraft on Thursday . . . ` This request had been made to Pakistani authorities while conveying the clearance for the aircraft , ' the Ministry said , referring to the Pakistani C-130 aircraft , which , after a long tangle , returned to Islamabad on Thursday night . . . Giving an account of the C-130 flight , the Ministry statement said , ` The aircraft which had 14 crew members and a 15-member medical team reached New Delhi at 1505 hrs . Seven of the injured Pakistanis were taken from Safdarjung Hospital in ambulances to Palam Airport . ' . . ` They reached there at 1730 hrs and their boarding was completed by 1800 hrs . However , the aircraft could not take off because it developed a technical glitch . One of its engines developed a problem and had to be repaired by the ground staff of the airport . The aircraft finally took off at 2115 hrs . ' . . The statement cited the remarks of the External Affairs Ministry spokesman , reported in The Hindu on Thursday , that the delay in the aircraft taking off was on account of a ` glitch . ' . . The Pakistani version of the events , as reported in the words of its Foreign Office spokeswoman , of course , does not match either the Ministry 's statement on Friday or the spokesman 's comments to this newspaper on Thursday . . . Referring to the ` media reports ' that the aircraft was delayed because it was waiting for three injured Pakistanis Rana Shoukat Ali , Rukhsana , and their daughter , Aksa the statement said Mr. Ali had expressed a desire to go to Panipat to identify the bodies of his five other children killed in the train blasts . . . ` Pakistan High Commission was informed that these three persons would not be going to Pakistan in the special aircraft . Rana Shaukat Ali and his family were taken to Panipat where they were able to identify all the five bodies of their children . Rana Shaukat Ali and his family will return to Pakistan via Wagah . ' . . The statement said that the attention of the Pakistani authorities was drawn to the fact that the terrorist attack on the train was being investigated by the Indian police who may wish to take their statements at a later date .", 
+    "injured": "10", 
+    "org_unorg": "", 
+    "O": [
+        "injured:8", 
+        "special aircraft:12", 
+        "delay:18", 
+        "aircraft:20", 
+        "external affairs ministry pakistani version:32", 
+        "ministry 's statement:42", 
+        "injured:65", 
+        "pakistanis:66", 
+        "treated:69", 
+        "investigations:82", 
+        "fire-bombing:86", 
+        "samjhauta express:89", 
+        "pakistani authorities:108", 
+        "interrogation:113", 
+        "aircraft:127", 
+        "pakistani authorities:140", 
+        "aircraft:148", 
+        "pakistani c-130 aircraft:158", 
+        "returned:169", 
+        "c-130 flight:183", 
+        "aircraft:193", 
+        "14 crew members:196", 
+        "15-member medical team:201", 
+        "injured:214", 
+        "pakistanis:215", 
+        "ambulances:222", 
+        "aircraft:249", 
+        "technical glitch:258", 
+        "ground staff:275", 
+        "airport:279", 
+        "aircraft:282", 
+        "statement cited:294", 
+        "external affairs ministry spokesman:300", 
+        "delay:314", 
+        "aircraft:317", 
+        "glitch:326", 
+        "pakistani version:332", 
+        "foreign office spokeswoman:345", 
+        "ministry 's statement:357", 
+        "newspaper:369", 
+        "media reports:379", 
+        "aircraft:384", 
+        "three injured pakistanis:392", 
+        "killed:428", 
+        "train blasts:431", 
+        "high commission:438", 
+        "special aircraft:454", 
+        "identify:472", 
+        "five bodies:475", 
+        "attention:502", 
+        "pakistani authorities:505", 
+        "terrorist attack:514", 
+        "indian police:524"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/train-attack-probe-plea-to-pakistan/article1801636.ece", 
+    "date": "18-02-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Safdarjung Hospital", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "Safdarjung Hospital", 
+            "219", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "307", 
+            "Others"
+        ]
+    ]
+}

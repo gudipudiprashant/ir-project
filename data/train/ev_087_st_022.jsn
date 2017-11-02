@@ -1,0 +1,99 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "High Court", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Australia", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Australia", 
+            "106", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "114", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Julia Gillard", 
+            "3", 
+            "Comment"
+        ], 
+        [
+            "Gillard", 
+            "68", 
+            "Comment"
+        ], 
+        [
+            "Julie Bishop", 
+            "182", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday : 74"
+    ], 
+    "death": "10", 
+    "title": "Australia condemns India attack: Gillard", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        "High Court, New Delhi"
+    ], 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI"
+    ], 
+    "content": "Prime Minister Julia Gillard has condemned a deadly bomb attack at New Delhi 's High Court as an act of senseless violence . . . An Islamist militant group has reportedly claimed responsibility for the attack , in which at least 10 people have been killed and another 62 injured . . . `` The government and people of Australia unreservedly condemn the bombing , '' Ms Gillard said in a statement on Wednesday . . . `` Our thoughts are with the families of the innocent people who have been killed and with those injured by the blast . '' . . She said Australia continued to give its full support to India 's anti-terrorism work . . . The bomb went off after being hidden in a briefcase in a reception area where more than 100 people were waiting for passes to the court complex , located in the heart of the Indian capital . . . Indian police investigators have received an email reportedly from the Harkat-ul-Jihad al-Islami group claiming responsibility . . . Opposition foreign affairs spokeswoman Julie Bishop said the attack was a blow to Indian society . . . .", 
+    "injured": "62", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Prime Minister:1"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.smh.com.au//breaking-news-national/australia-condemns-india-attack-gillard-20110907-1jxsd.html", 
+    "date": "07-09-2011", 
+    "target": "COURT", 
+    "hot_spot": "High Court, New Delhi", 
+    "delivery_mod": "HIGH COURT", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Islamist militant", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "Indian police", 
+            "160", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jihad al-Islami", 
+            "170", 
+            "Accused"
+        ]
+    ]
+}

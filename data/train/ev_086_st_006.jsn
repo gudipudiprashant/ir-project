@@ -1,0 +1,144 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Opera House", 
+            "188", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "196", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "265", 
+            "Event"
+        ], 
+        [
+            "Pancharatna", 
+            "332", 
+            "Accused"
+        ], 
+        [
+            "Bandra-Kurla Complex", 
+            "354", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Arup Patnaik", 
+            "193", 
+            "Comment"
+        ], 
+        [
+            "Hardik Hundia", 
+            "318", 
+            "Comment"
+        ], 
+        [
+            "Hundia", 
+            "357", 
+            "Comment"
+        ], 
+        [
+            "Sanjay Kothari", 
+            "409", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "five minutes : 109", 
+        "evening : 115", 
+        "tomorrow : 441"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Mumbai terror attack: Chaos reigns in city's famous diamond hub Opera House", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "MUMBAI : Chaos reigned in Opera House , the hub of Mumbai 's diamond trade , as mediapersons and onlookers jostled to catch a view of the destruction wreaked by an improvised explosive device , which ripped through a crowded lane just outside Prasad Chambers and Panchratna Building , workplaces of 5,000-6 ,000 diamond merchants , brokers , cutters and polishers of precious stones . . . The police cordoned off the area which is packed with small eateries with a bomb squad collecting forensic evidence for clues into the type of explosive used . Most offices in the area were shut when the blast took place , five minutes before seven in the evening , as diamond traders normally leave for home at sundown . . . However , some who congregated to grab a bite at the roadside stalls were seriously injured by the blast impact , which brought down a heavy name board of a Jumbo Vada Pav stall that had earlier served as a police chowki . `` Information at first sight suggests 25-30 people have been seriously injured by the blast at Opera House , '' said Arup Patnaik , Mumbai 's police commissioner , who was at the site shortly after the blast . . . `` Preliminary investigation indicates this could be the handiwork of a terrorist outfit though our investigation will ascertain who was responsible . Our effort will be to bring the guilty to book . A team from the National Security Guard is on its way and we have sounded a red alert across Mumbai . '' . . However , the commissioner 's presence seemed to have done little to soothe the frayed nerves of those who witnessed the blast . `` Despite repeated warnings by a few traders , the business community chose to ignore the possibility of a bomb blast here , '' said Hardik Hundia , a diamond expert who heard the explosion from his office near Pancharatna . . . Asked whether the blast would compel diamond merchants to shift to the recentlyopened Bharat Diamond Bourse in the Bandra-Kurla Complex , Hundia said : `` There are around 5,000-6 ,000 traders here and only half a dozen have moved from here so far ... more than shifting out , the police should prevent illegal parking by twowheelers and diamond traders should push for setting up of a chowki here . '' . . Sanjay Kothari , vice-chairman of Gems & Jewellery Export Promotion Council , said though the blasts had created a psychosis of fear among businessmen , `` it would be business as usual tomorrow . We ca n't stop working ... if we do , we 'll be playing into the hands of terrorists responsible for this blast . '' .", 
+    "injured": "30", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        ""
+    ], 
+    "O": [
+        "chaos:3", 
+        "opera house:6", 
+        "diamond trade:14", 
+        "improvised explosive device:32", 
+        "prasad chambers:44", 
+        "panchratna building:47", 
+        "diamond merchants:54", 
+        "brokers:57", 
+        "cutters:59", 
+        "bomb squad:82", 
+        "forensic evidence:85", 
+        "explosive:93", 
+        "blast:105", 
+        "diamond traders:118", 
+        "roadside stalls:140", 
+        "injured:144", 
+        "blast:147", 
+        "jumbo vada pav stall:159", 
+        "injured:183", 
+        "blast:186", 
+        "blast:209", 
+        "terrorist outfit:224", 
+        "investigation:228", 
+        "witnessed:289", 
+        "blast:291", 
+        "warnings:296", 
+        "traders:300", 
+        "bomb blast:312", 
+        "diamond expert:322", 
+        "explosion:327", 
+        "merchants:343", 
+        "bharat diamond bourse:349", 
+        "traders:366", 
+        "illegal parking:389", 
+        "diamond traders:394", 
+        "blasts:424", 
+        "psychosis:428", 
+        "terrorists:461", 
+        "blast:465"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2011-07-14/news/29773134_1_diamond-traders-bomb-blast-blast-impact", 
+    "date": "13-07-2011", 
+    "target": "BUSINESS HUB", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "National Security Guard", 
+            "250", 
+            "Others"
+        ], 
+        [
+            "Gems & Jewellery Export Promotion Council", 
+            "414", 
+            "Others"
+        ]
+    ]
+}

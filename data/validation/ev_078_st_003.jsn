@@ -1,0 +1,105 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Central Park", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Connaught Place", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Palika", 
+            "125", 
+            "Neutral"
+        ], 
+        [
+            "Central Park", 
+            "146", 
+            "Event"
+        ], 
+        [
+            "Palika", 
+            "312", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ashok Kumar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Inderjeet Singh", 
+            "115", 
+            "Comment"
+        ], 
+        [
+            "Deepak Kumar", 
+            "214", 
+            "Comment"
+        ], 
+        [
+            "Pritpal Singh Kohli", 
+            "369", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 23", 
+        "6-40 p.m.:54", 
+        "evening : 138"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:22"
+    ], 
+    "death": "", 
+    "title": "A weekend turns a nightmare", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "DELHI", 
+        "Central Park "
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Ashok Kumar . . NEW DELHI : As usual scores of families have gathered at Central Park in Connaught Place on Saturday evening in anticipation of a memorable weekend . But alas that was not to be . Little did they realise what destiny had in store for them . . . Around 6-40 p.m. , a bomb planted inside a dustbin went off leaving behind a bloody trail . A dense cloud of smoke engulfed the park and people ran helter-skelter screaming for help . Even before anyone could realise what had happened , scores of people , mostly women and children , were lying around in pools of blood . . . Inderjeet Singh , who owns an electronic goods shop in Palika Bazar , said : I was busy attending to customers in the evening when I heard a deafening sound near Central Park . I along with fellow shopkeepers immediately rushed towards the park and was stunned to see the scene there . Over 50 people , mostly women and children , were lying around writhing in pain . Without wasting any time , we pulled people out of the park and rushed them to nearby hospitals in cars , autorickshaws and other private vehicles available . . . Deepak Kumar , a garments shop owner , said : Several Police Control Room vans and ambulances also reached the spot within minutes of the blast and helped us in shifting the injured to hospital . I myself carried over a dozen people from inside the park . Most of the victims were women and children and were badly injured . Their blood-splattered clothes were torn and many were unconscious . . . Such was the impact of the blast that the glass windows of several shops and cars parked around the park were shattered . Shopkeepers in Palika Bazar downed their shutters and carried out checks around their shops . In view of the seriousness of the situation , we made an announcement asking all shopkeepers to down their shutters . Before that , we carried out a check in and around our shops to ensure that no bombs were planted there , said Pritpal Singh Kohli , Joint Secretary of the Palika Bazar Shopkeepers Welfare Association .", 
+    "injured": "50", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Several Police Control Room vans:224", 
+        "ambulances:230", 
+        "Joint Secretary:373"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/a-weekend-turns-a-nightmare/article1338082.ece", 
+    "date": "13-09-2008", 
+    "target": "CENTRAL PARK", 
+    "hot_spot": "Central Park ", 
+    "delivery_mod": "DUSTBIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Palika Bazar Shopkeepers Welfare Association", 
+            "377", 
+            "Others"
+        ]
+    ]
+}

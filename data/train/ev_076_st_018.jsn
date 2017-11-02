@@ -1,0 +1,365 @@
+{
+    "LOC": [
+        [
+            "Ahmedabad", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Bengaluru", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Farahan Arcade Gulistan", 
+            "40", 
+            "Accused"
+        ], 
+        [
+            "Karachi", 
+            "44", 
+            "Accused"
+        ], 
+        [
+            "Hyderabad", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad ,", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "52", 
+            "Accused"
+        ], 
+        [
+            "Karachi", 
+            "59", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "73", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "101", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "109", 
+            "Assoc_Event"
+        ], 
+        [
+            "Kotli", 
+            "145", 
+            "Source"
+        ], 
+        [
+            "Pakistan", 
+            "147", 
+            "Source"
+        ], 
+        [
+            "United Arab Emirates", 
+            "216", 
+            "Neutral"
+        ], 
+        [
+            "UAE", 
+            "239", 
+            "Neutral"
+        ], 
+        [
+            "UAE", 
+            "269", 
+            "Neutral"
+        ], 
+        [
+            "Dubai", 
+            "274", 
+            "Neutral"
+        ], 
+        [
+            "Muzaffarabad", 
+            "281", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "283", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "285", 
+            "Neutral"
+        ], 
+        [
+            "Patangiya", 
+            "303", 
+            "Neutral"
+        ], 
+        [
+            "Dubai", 
+            "389", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "394", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "403", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "428", 
+            "Neutral"
+        ], 
+        [
+            "Bengaluru", 
+            "440", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "442", 
+            "Event"
+        ], 
+        [
+            "Bengaluru", 
+            "519", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "531", 
+            "Source"
+        ], 
+        [
+            "Kerala", 
+            "533", 
+            "Source"
+        ], 
+        [
+            "Mysore", 
+            "535", 
+            "Source"
+        ], 
+        [
+            "Bengaluru", 
+            "553", 
+            "Source"
+        ], 
+        [
+            "India", 
+            "583", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "613", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "626", 
+            "Source"
+        ], 
+        [
+            "Karnataka", 
+            "653", 
+            "Accused"
+        ], 
+        [
+            "Karachi", 
+            "667", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rasool Khan Parti", 
+            "22", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Sufiya Ahmed Patangiya", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "Haren Pandya", 
+            "120", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Parti", 
+            "207", 
+            "Accused"
+        ], 
+        [
+            "Patangiya", 
+            "209", 
+            "Accused"
+        ], 
+        [
+            "Patri", 
+            "301", 
+            "Accused"
+        ], 
+        [
+            "Patangiya", 
+            "303", 
+            "Accused"
+        ], 
+        [
+            "B Raman", 
+            "366", 
+            "Others"
+        ], 
+        [
+            "Parti", 
+            "462", 
+            "Accused"
+        ], 
+        [
+            "Parti", 
+            "622", 
+            "Accused"
+        ], 
+        [
+            "Riazuddin Nasir", 
+            "643", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Mohammad Ghouse", 
+            "646", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Parti", 
+            "665", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "May:150", 
+        "May .:150"
+    ], 
+    "death": "", 
+    "title": "IB identifies Pak-based masterminds", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI", 
+        "STUDENTS ISLAMIC MOVEMENT OF INDIA", 
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Who carried out the blasts at Ahmedabad and Bengaluru ? Investigating agencies say they were masterminded by two Karachi-based men -- Rasool Khan Parti and Mohammad Sufiya Ahmed Patangiya . . . The duo , who currently reside at Farahan Arcade Gulistan in Karachi , are originally residents of Hyderabad , Andhra Pradesh . Prior to fleeing to Karachi , the duo were involved in recruitment of youth for jihadi activities in Hyderabad and other parts of the country . They were both allegedly members of the Harkat-ul-Jihad-al Islami , but recruited youth mainly from the Students Islamic Movement of India . Both men are wanted by the Gujarat police in connection with the murder of former state minister Haren Pandya . . . An Intelligence Bureau officer investigating last week 's blasts told rediff.com the duo planned the attacks during a meeting in Kotli , Pakistan , in May . . . Investigators say Indian Mujahideen is SIMI , V2 .0 . . The investigating agencies have also got information on the manner in which the blasts were executed . They say the entire operation was carried out by Indians , unlike in past instances where Pakistanis or Bangladeshis were used . . . Both Parti and Patangiya handpicked Indian youth working in the United Arab Emirates for the operation . This indicates that the youth had been picked well in advance and sent off to the UAE on the pretext of jobs there . This could have been done to avoid coming under the scanner of the Indian police , the officials say . From the UAE they were flown into Dubai from where they were taken to Muzaffarabad in Pakistan occupied Kashmir . . . The youth were divided in two groups and then trained personally by Patri and Patangiya . They were taught how to prepare bombs and execute the attacks . They called it training in alternate explosions . They were specifically taught how to make bombs using ammonium nitrate and directed to pick up the material locally . The use of RDX was ruled out since it was a problem to smuggle it across the border . . . B Raman : ISI 's Indianisation of jihad . . After undergoing training for a month , the youth were flown back to Dubai and then taken to Bangladesh . They were directed to cross over into India through the porous border . Investigating agencies say they took this trouble to avoid the police and security agencies . . . Once in India , the two groups split up and undertook the operations in Bengaluru and Ahmedabad separately , although they kept in regular touch . The date and time of the attacks was fixed by Parti . . . The police are now trying to ascertain how many members were in each team and also from where they picked up the ammonium nitrate and other material required to make the bombs . The police suspect that the two teams assembled the bombs separately in the cities they attacked . . . The Bengaluru police believe that the ammonium nitrate must have been brought into Karnataka from Kerala via Mysore . However , police says the terrorists dumped a part of the consignment about 50 kilometres from Bengaluru as they feared detection . However , they managed to smuggle in enough material to carry out the blasts . . . View : The truth is security in India is a joke . . IB sources say they are concerned by the growing number of Indian youth being lured into terror outfits . They say that intercepts from Pakistan indicate that there are many Indian youth outside Parti 's home in Karachi daily . . . Investigating agencies are also looking into the statements made by SIMI activist Riazuddin Nasir aka Mohammad Ghouse . After his arrest in Karnataka earlier this year had told the police that he had met Parti in Karachi . . . Thanks to these men , not all bombs explode .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "recruitment:66", 
+        "jihadi:70", 
+        "students islamic movement:97", 
+        "state minister:118", 
+        "bureau:127", 
+        "executed:180", 
+        "Indians:191", 
+        "Pakistanis:198", 
+        "bombs:332", 
+        "ammonium nitrate:334", 
+        "RDX:348", 
+        "smuggle:358", 
+        "Indianisation of jihad:371", 
+        "ammonium nitrate:488", 
+        "ammonium nitrate:524", 
+        "terrorists:542", 
+        "feared:556", 
+        "security:581", 
+        "indian:600", 
+        "outfits:606", 
+        "indian youth:619", 
+        "investigating:631"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2008/jul/30ahd7.htm", 
+    "date": "25-07-2008", 
+    "target": "CITIZENS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "AMMONIUM NITRATE", 
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "Harkat-ul-Jihad-al Islami", 
+            "88", 
+            "Accused"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "97", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "126", 
+            "Others"
+        ], 
+        [
+            "rediff.com", 
+            "135", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "156", 
+            "Assoc_Accused"
+        ], 
+        [
+            "SIMI", 
+            "159", 
+            "Assoc_Accused"
+        ], 
+        [
+            "ISI", 
+            "369", 
+            "Assoc_Accused"
+        ], 
+        [
+            "IB", 
+            "589", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "641", 
+            "Assoc_Accused", 
+            "Others"
+        ]
+    ]
+}

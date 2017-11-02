@@ -1,0 +1,413 @@
+{
+    "LOC": [
+        [
+            "Bodh Gaya", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi Temple", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "Tergar Monastery", 
+            "97", 
+            "Event"
+        ], 
+        [
+            "Tergar Monastery classroom", 
+            "191", 
+            "Neutral"
+        ], 
+        [
+            "Royal Residency hotel", 
+            "195", 
+            "Source"
+        ], 
+        [
+            "80-foot Buddha", 
+            "199", 
+            "Source"
+        ], 
+        [
+            "Tergar Monastery", 
+            "213", 
+            "Event"
+        ], 
+        [
+            "Tibet", 
+            "222", 
+            "Neutral"
+        ], 
+        [
+            "Nepal", 
+            "224", 
+            "Neutral"
+        ], 
+        [
+            "Arunachal Pradesh", 
+            "230", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "233", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "235", 
+            "Neutral"
+        ], 
+        [
+            "Tergar Monastery", 
+            "248", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi Temple", 
+            "434", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "451", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "478", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi", 
+            "478", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "538", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "560", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "608", 
+            "Accused"
+        ], 
+        [
+            "Pune", 
+            "636", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "648", 
+            "Neutral"
+        ], 
+        [
+            "Maheyan", 
+            "700", 
+            "Accused"
+        ], 
+        [
+            "Mohanpur", 
+            "703", 
+            "Accused"
+        ], 
+        [
+            "Gaya", 
+            "705", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "719", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "721", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "731", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "734", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi Temple", 
+            "746", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "841", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "852", 
+            "Accused"
+        ], 
+        [
+            "Myanmar", 
+            "860", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "871", 
+            "Event"
+        ], 
+        [
+            "Myanmar", 
+            "897", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "914", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "940", 
+            "Accused"
+        ], 
+        [
+            "Saudi Arabia", 
+            "946", 
+            "Accused"
+        ], 
+        [
+            "UK", 
+            "949", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Syed Maqbool", 
+            "571", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "599", 
+            "Accused"
+        ], 
+        [
+            "Qateel Siddiquie", 
+            "645", 
+            "Accused"
+        ], 
+        [
+            "Amir Reza Khan", 
+            "686", 
+            "Accused"
+        ], 
+        [
+            "Parvez", 
+            "690", 
+            "Accused"
+        ], 
+        [
+            "Rizwan", 
+            "692", 
+            "Accused"
+        ], 
+        [
+            "Muttaki", 
+            "694", 
+            "Accused"
+        ], 
+        [
+            "Nayyar Hasnain Khan", 
+            "771", 
+            "Others"
+        ], 
+        [
+            "Nitish Kumar", 
+            "821", 
+            "Others"
+        ], 
+        [
+            "shaky", 
+            "825", 
+            "Others"
+        ], 
+        [
+            "Hafiz Saeed", 
+            "847", 
+            "Accused"
+        ], 
+        [
+            "Jamat-ud-Dawa", 
+            "854", 
+            "Accused"
+        ], 
+        [
+            "Sarful Rehman", 
+            "931", 
+            "Accused"
+        ], 
+        [
+            "Sahidur Rehman", 
+            "934", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "morning : 253", 
+        "5 am:255", 
+        "30-minute : 261", 
+        "5:45 am : 376", 
+        "100 hours : 798"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:7", 
+        "Sunday:84", 
+        "Sunday:113", 
+        "October 2012:519", 
+        "August 1 , 2012 : 540", 
+        "July:618", 
+        "April 2013:652", 
+        "July 3:781"
+    ], 
+    "death": "", 
+    "title": "Strike on a non-functional day at Bodh Gaya's Mahabodhi Temple spared many lives", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "The Bihar Police failed to prevent Sunday 's serial blasts in and around Bodh Gaya 's Mahabodhi Temple , a World Heritage Site 115 km south of Patna , but the terrorists who planted a dozen improvised explosive devices ( IEDs ) all over the complex were no better . Nine of the devices , described as low-intensity bombs , went off across the complex but the casualty list had only two injured on it.That 's because the blasts were triggered on a Sunday , a day when the complex has very few visitors and the Tergar Monastery in the complex has no classes . The terrorists apparently miscalculated . Today being Sunday , fewer believers were present . We are extremely lucky to have escaped with minor injuries to two devotees . The terrorists had planned to inflict maximum damage , said one senior police officer on condition of anonymity . The police are also examining why the terrorists used low intensity time bombs to trigger the blasts . The bombs were low-intensity but not crude , said an IPS officer.The three bombs that failed to explode at the Tergar Monastery classroom , Royal Residency hotel and 80-foot Buddha statue were later defused . The one that failed to explode at Tergar Monastery , home to 200 apprentice monks from Tibet , Nepal and the Indian states of Arunachal Pradesh , Assam and Uttar Pradesh , is the reason behind minimum damage . The kids at Tergar Monastery wake up every morning at 5 am , and after a 30-minute prayer session settle down for classes by 6 am-when the first bomb placed behind the classroom wall went off . The blast damaged the window and classroom doors , besides breaking the glass panes but it did not cause any casualty because there were no classes being held . A second cylinder bomb placed there did not explode.ExplosivesThe three bombs that did not explode were later defused . The IEDs used in the blasts have been found to have consisted of a small gas container , an explosive detonator device and an analog clock used as a timer . Top police sources said they were sophisticated devices , and set to go off at 5:45 am , the time when most Buddhist believers begin prayers . The investigation , undertaken by multiple agencies right from the local police to the National Investigation Agency ( NIA ) , is still in its initial stages as the police are yet to make any breakthrough . There are 16 closed circuit cameras installed in the Mahabodhi Temple complex ; all of them have captured images that investigators are now going over.Lax securityThe Bodh Gaya blasts have exposed the inadequacies of security system , both at the operational and management level . For instance , the metal detectors fitted at Mahabodhi temple are not calibrated , which render them ineffective and useless to detect explosives . The decision to let the Bodh Gaya Management Committee man security inside the premises is preposterous and immature , says one security expert . In October 2012 , Delhi police had arrested four Indian Mujahideen ( IM ) terrorists responsible for serial blasts in Pune on August 1 , 2012 . Subjected to sustained interrogation , the IM men revealed their game plan of attacking the Mahabodhi temple in Bodh Gaya.The strike was being planned by suspect Syed Maqbool , who was arrested on leads obtained from the other three who were arrested earlier . Sources said the disclosures also revealed that top IM leaders-Imran Bhatkal and Riyaz Bhatkal-who are suspected to be in Pakistan gave the approval to attack Bodh Gaya sometime in July last year . But the plan was put on hold as the group planned a strike in Pune to avenge the mysterious killing of IM suspect Qateel Siddiquie in Pune 's Yerwada jail.In April 2013 , when the National Investigation Agency ( NIA ) released a list of 12 IM terrorists and announced an award of Rs 10 lakh on each of them , it placed Gaya-born Amir Reza Khan alias Parvez alias Rizwan alias Muttaki , a permanent resident of Maheyan village in Mohanpur , Gaya , at sixth in the list.Reza , who is involved in blasts at Bangalore and Hyderabad , is said to have provided pinpoint information about Mahabodhi temple in Bodh Gaya . Specific Intelligence Bureau ( IB ) alerts on the Mahabodhi Temple were provided to the Bihar Police once last year and twice this year . Following these , Gaya Deputy Inspector General of Police Nayyar Hasnain Khan had held a security review meeting on July 3 with senior police and administrative officers , seeking better security at the temple . Within 100 hours , the terrorists triggered a series of blast that rocked the pilgrimage site . It also shook the confidence of the Nitish Kumar government , shaky as it is from its recent acrimonious breakup with the BJP.VengeanceSources said the attack in Bodh Gaya has happened days after Hafiz Saeed , chief of Pakistan 's Jamat-ud-Dawa , accused India of helping Myanmar in carrying out atrocities on Muslims in the country . Bodh Gaya has been on the terror radar over the last one year . Pakistan-based terror groups have been planning terror strikes in retaliation to the Myanmar violence , said a source.Last month the Intelligence Bureau gave specific information about two suspects entering Bihar to carry out a terror strike in the holy town . The suspects were identified as Sarful Rehman and Sahidur Rehman . Both belong to Bihar but have been living in Saudi Arabia and UK . .", 
+    "injured": "2", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "patna", 
+        "Mahabodhi Temple"
+    ], 
+    "O": [
+        "explosive devices:38", 
+        "government:823"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/bodh-gayas-mahabodhi-temple-blast-bihar-monks/1/287392.html", 
+    "date": "07-07-2013", 
+    "target": "TEMPLE", 
+    "hot_spot": "Mahabodhi Temple", 
+    "delivery_mod": "TEMPLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Bihar Police", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "402", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "406", 
+            "Others"
+        ], 
+        [
+            "Bodh Gaya Management Committee", 
+            "499", 
+            "Others"
+        ], 
+        [
+            "Delhi police", 
+            "522", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "527", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "530", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "551", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "597", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "643", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "661", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "668", 
+            "Accused"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "738", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "741", 
+            "Others"
+        ], 
+        [
+            "Bihar Police", 
+            "752", 
+            "Others"
+        ], 
+        [
+            "Gaya Deputy Inspector General of Police", 
+            "765", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "905", 
+            "Others"
+        ]
+    ]
+}

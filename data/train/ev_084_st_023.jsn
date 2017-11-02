@@ -1,0 +1,434 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "54", 
+            "Assoc_Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "56", 
+            "Event"
+        ], 
+        [
+            "Pune German Bakery", 
+            "83", 
+            "Event"
+        ], 
+        [
+            "Chinnaswamy stadium", 
+            "88", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "92", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "164", 
+            "Accused"
+        ], 
+        [
+            "Tamil Nadu", 
+            "167", 
+            "Accused"
+        ], 
+        [
+            "Bihar", 
+            "170", 
+            "Accused"
+        ], 
+        [
+            "Anand Vihar Bus Terminal", 
+            "264", 
+            "Accused"
+        ], 
+        [
+            "Jama Masjid", 
+            "302", 
+            "Neutral"
+        ], 
+        [
+            "Bhatkal", 
+            "372", 
+            "Source"
+        ], 
+        [
+            "Karnataka", 
+            "374", 
+            "Source"
+        ], 
+        [
+            "Delhi", 
+            "389", 
+            "Accused"
+        ], 
+        [
+            "Madhubani", 
+            "400", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "402", 
+            "Accused"
+        ], 
+        [
+            "Karachi", 
+            "427", 
+            "Neutral"
+        ], 
+        [
+            "Madhubani", 
+            "432", 
+            "Accused"
+        ], 
+        [
+            "India", 
+            "438", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "463", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "565", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "681", 
+            "Event"
+        ], 
+        [
+            "Chinnaswamy stadium", 
+            "683", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "706", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ahmad Siddi Bappa", 
+            "4", 
+            "Accused"
+        ], 
+        [
+            "Imran", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "Imran", 
+            "44", 
+            "Accused"
+        ], 
+        [
+            "Chinnaswamy", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "Mohd Adil", 
+            "125", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Mohd Qateel Siddique", 
+            "128", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Mohd Irshad Khan", 
+            "132", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Gauhar Aziz Khomani", 
+            "136", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Gayur Ahmad Jamali", 
+            "140", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Abdur Rehman", 
+            "144", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Siddiqui", 
+            "258", 
+            "Accused"
+        ], 
+        [
+            "Adil", 
+            "296", 
+            "Accused"
+        ], 
+        [
+            "Vivek Mishra", 
+            "330", 
+            "Others"
+        ], 
+        [
+            "Siddiqui", 
+            "345", 
+            "Others"
+        ], 
+        [
+            "Bappa", 
+            "361", 
+            "Accused"
+        ], 
+        [
+            "Shahrukh", 
+            "363", 
+            "Accused"
+        ], 
+        [
+            "Yashin Ahmad", 
+            "365", 
+            "Accused"
+        ], 
+        [
+            "Imran", 
+            "368", 
+            "Accused"
+        ], 
+        [
+            "Asif", 
+            "370", 
+            "Accused"
+        ], 
+        [
+            "Khomani", 
+            "382", 
+            "Accused"
+        ], 
+        [
+            "Jamali", 
+            "408", 
+            "Accused"
+        ], 
+        [
+            "Adil", 
+            "419", 
+            "Accused"
+        ], 
+        [
+            "Adil", 
+            "435", 
+            "Others"
+        ], 
+        [
+            "Riaz", 
+            "446", 
+            "Others"
+        ], 
+        [
+            "Iqbal Bhatkal", 
+            "448", 
+            "Others"
+        ], 
+        [
+            "Khan", 
+            "472", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Abdur Rahman", 
+            "477", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Siddiqi", 
+            "486", 
+            "Others"
+        ], 
+        [
+            "Ahmad Siddi Bappa", 
+            "491", 
+            "Others"
+        ], 
+        [
+            "Imran", 
+            "495", 
+            "Others"
+        ], 
+        [
+            "Khan", 
+            "513", 
+            "Others"
+        ], 
+        [
+            "Bappa", 
+            "515", 
+            "Others"
+        ], 
+        [
+            "Bappa", 
+            "548", 
+            "Others"
+        ], 
+        [
+            "Khomani", 
+            "553", 
+            "Others"
+        ], 
+        [
+            "Bappa", 
+            "558", 
+            "Others"
+        ], 
+        [
+            "Bappa", 
+            "575", 
+            "Others"
+        ], 
+        [
+            "Jamali", 
+            "591", 
+            "Others"
+        ], 
+        [
+            "Bappa", 
+            "596", 
+            "Others"
+        ], 
+        [
+            "Rahman", 
+            "603", 
+            "Others"
+        ], 
+        [
+            "Bappa", 
+            "605", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:40", 
+        "September 19:59", 
+        "2010:62", 
+        "November 22:269", 
+        "November 23:379", 
+        "November 25:416", 
+        "August 2010:440", 
+        "November:465", 
+        "November 27:465", 
+        "2008:501", 
+        "2009:521", 
+        "2007:561", 
+        "November 2008:568", 
+        "November:568", 
+        "April 17:690", 
+        "2010:693", 
+        "September 19:709", 
+        "2010:712"
+    ], 
+    "death": "", 
+    "title": "6 Indian Mujahideen terror suspects held across country", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "", 
+        "", 
+        "Jama Masjid"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "A seventh person Ahmad Siddi Bappa alias Imran , believed to be the `` main man '' who was allegedly providing finance and other logistics besides coordinating various modules , is on the run , police sources said on Wednesday . . . Imran had allegedly planted the bomb in a car outside Delhi 's Jama Masjid on September 19 , 2010 , the sources said . . . Police smashed an `` Indian Mujahideen terrorist module suspected to be involved in Pune German Bakery blast , Chinnaswamy stadium blast and Jama Masjid firing and blast in a car with the help of central intelligence agencies '' , a Delhi Police statement said . . . The arrested have been identified as Pakistani national Mohd Adil , Mohd Qateel Siddique , Mohd Irshad Khan , Gauhar Aziz Khomani , Gayur Ahmad Jamali and Abdur Rehman . . . `` The arrests came following a coordinated action with central agencies and police forces in West Bengal , Tamil Nadu and Bihar , '' a senior police official said . . . Two AK-47 rifles along with 50 cartridges , one 9mm pistol along with 14 live cartridges , 1.4 kgs of black explosive material , 3.2 kgs of white explosive material , 350 gms granular off white explosive material , 5 detonators and fake Indian currency notes of the face value of Rs 2 lakh along with other incriminating material were recovered from the six arrested , he said . . . The first to be arrested was Siddiqui -LRB- 27 -RRB- from near Anand Vihar Bus Terminal on November 22 . A 9 mm loaded pistol along with 14 live cartridges besides fake Indian currency were seized from him . Sources said he along with Adil were allegedly involved in the Jama Masjid incident . . . `` Two fake passports , one forged identity card of National Cadet Corps and one fake driving licence in the name of Vivek Mishra were recovered , '' the official said . . . The statement said Siddiqui 's interrogation led to the revelation that an Indian Mujahideen terrorist module was led by Bappa alias Shahrukh alias Yashin Ahmad alias Imran alias Asif of Bhatkal in Karnataka . . . On November 23 , Khomani -LRB- 31 -RRB- was apprehended from Delhi . . . His interrogation led to raids in in Madhubani , Bihar and the next day , Jamali -LRB- 21 -RRB- was arrested . On November 25 , Adil -LRB- 40 -RRB- , who hails from Karachi , was apprehended from Madhubani . `` Adil came to India in August 2010 on the instructions of Riaz and Iqbal Bhatkal for action , '' the statement said . . . Further raids in Chennai on November 27 led to the apprehension of Khan -LRB- 52 -RRB- and Abdur Rahman -LRB- 19 -RRB- . . . `` Siddiqi came in contact with Ahmad Siddi Bappa alias Imran in the last quarter of 2008 and became a member of the terrorist module Indian Mujahiddin . Khan met Bappa in the first quarter of 2009 . They became close associates and he also joined the Indian Mujahiddin terrorist module . . . `` All the six members came in contact with Bappa at various occasions . Khomani came in contact with Bappa . In 2007 he came to Delhi and in November 2008 he renewed his contact with Bappa and joined Indian Mujahiddin . He provided them logistic and financial support . . . Jamali came in contact with Bappa and joined Indian Mujahiddin later . Rahman met Bappa about four months ago and become a member of Indian Mujahiddin . He provided hide out and logistic support , '' the statement said . . . Seventeen people were killed in the German Bakery blast and over 40 people have been arrested in this case . . . This is , however , the first arrest in the Jama Masjid terror strike case . . . 15 people were injured in the blast outside Bangalore 's Chinnaswamy stadium during an IPL match on April 17 , 2010 . . . Two Taiwanese tourists were injured in the firing at Jama Masjid on September 19 , 2010 ahead of Commonwealth Games here while no one was injured in the explosion in a car the same day .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "AK-47 rifles:182", 
+        "indian:284", 
+        "passports:311", 
+        "interrogation:347", 
+        "terrorist:356", 
+        "module:509", 
+        "IPL match:687", 
+        "Taiwanese:698", 
+        "Commonwealth Games:715"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/6-indian-mujahideen-terror-suspects-held-across-country/882337/0", 
+    "date": "19-09-2010", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "74", 
+            "Accused"
+        ], 
+        [
+            "National Cadet Corps", 
+            "318", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "354", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahiddin", 
+            "510", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahiddin", 
+            "532", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahiddin", 
+            "578", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahiddin", 
+            "599", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahiddin", 
+            "615", 
+            "Others"
+        ], 
+        [
+            "German Bakery", 
+            "639", 
+            "Victim"
+        ]
+    ]
+}

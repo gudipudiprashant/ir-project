@@ -1,0 +1,191 @@
+{
+    "LOC": [
+        [
+            "Bangladesh", 
+            "48", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "59", 
+            "Neutral"
+        ], 
+        [
+            "Kishtwar", 
+            "69", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "99", 
+            "Neutral"
+        ], 
+        [
+            "Kishtwar", 
+            "166", 
+            "Accused"
+        ], 
+        [
+            "gate no 5", 
+            "197", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Wasim", 
+            "30", 
+            "Accused"
+        ], 
+        [
+            "Wasim", 
+            "43", 
+            "Accused"
+        ], 
+        [
+            "Wasim", 
+            "86", 
+            "Accused"
+        ], 
+        [
+            "Wasim", 
+            "119", 
+            "Accused"
+        ], 
+        [
+            "Wasim", 
+            "138", 
+            "Accused"
+        ], 
+        [
+            "Aamir Abbas", 
+            "157", 
+            "Accused"
+        ], 
+        [
+            "Abid Hussain", 
+            "160", 
+            "Accused"
+        ], 
+        [
+            "Abid", 
+            "168", 
+            "Accused"
+        ], 
+        [
+            "Wasim", 
+            "186", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:9", 
+        "September:18", 
+        "September 13:192"
+    ], 
+    "death": "15", 
+    "title": "Delhi HC blast: NIA claims arrest of chief conspirator", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI"
+    ], 
+    "content": "The National Investigation Agency ( NIA ) on Friday claimed to have arrested the key conspirator of September 's blast at the Delhi High Court . The NIA arrested Wasim , an Indian medical student based in Bangladesh.Sources told Headlines Today that Wasim is studying medicine in Bangladesh . He and four others allegedly hatched the plot in Bangladesh and took the help of his local contacts in Kishtwar , Jammu and Kashmir to carry out the attack.The NIA is working on the theory that Wasim was lured by the Harkat-ul-Jehadi Islami in Bangladesh and his network in Jammu and Kashmir was used to send the e-mail claiming responsibility for the blast . NIA officials claimed that with Wasim 's arrest , they are on track to unearthing the conspiracy behind the blast and the plotters . Wasim 's arrest is the third in the Delhi High Court blast case . The NIA had earlier arrested Aamir Abbas and Abid Hussain , both residents of Kishtwar . Abid was arrested for sending the terror e-mail after the blast . The NIA was able to reach Wasim following the interrogation of Abbas.The September 13 bomb blast outside gate no 5 of the Delhi High Court left 15 people dead and over 70 injured . .", 
+    "injured": "70", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        "Delhi High Court"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/nia-arrests-chief-conspirator-of-delhi-hc-blast/1/153954.html", 
+    "date": "13-09-2011", 
+    "target": "", 
+    "hot_spot": "Delhi High Court", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "28", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jehadi Islami in Bangladesh", 
+            "91", 
+            "Accused"
+        ], 
+        [
+            "e-mail", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "146", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "153", 
+            "Others"
+        ], 
+        [
+            "e-mail", 
+            "175", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "181", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "202", 
+            "Others"
+        ]
+    ]
+}

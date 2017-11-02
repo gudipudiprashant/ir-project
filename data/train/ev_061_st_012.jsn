@@ -1,0 +1,214 @@
+{
+    "LOC": [
+        [
+            "BANGALORE", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "115", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "116", 
+            "Event"
+        ], 
+        [
+            "Mysore", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Hubli-Dharwad", 
+            "137", 
+            "Neutral"
+        ], 
+        [
+            "Belgaum", 
+            "139", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "163", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "Electronics City", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "306", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "N. Dharam Singh", 
+            "28", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "79", 
+            "Comment"
+        ], 
+        [
+            "Shivaraj Patil", 
+            "99", 
+            "Comment"
+        ], 
+        [
+            "Ajai Kumar Singh", 
+            "199", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "293", 
+            "Comment"
+        ], 
+        [
+            "B.K. Das", 
+            "328", 
+            "Others"
+        ], 
+        [
+            "Sudhakar Rao", 
+            "336", 
+            "Others"
+        ], 
+        [
+            "B.S. Sial", 
+            "344", 
+            "Others"
+        ], 
+        [
+            "Ajai Kumar Singh", 
+            "348", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:32", 
+        "Saturday:118"
+    ], 
+    "death": "", 
+    "title": "Government issues emergency alert", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Front Page Government issues emergency alert . . Staff Reporter . . BANGALORE : In the wake of the serial bomb blasts in Delhi , Chief Minister N. Dharam Singh on Sunday issued an emergency alert to officials in Bangalore and other major cities and towns in the State , and directed them to take suspected criminals into preventive custody . . . Briefing presspersons after a high-level meeting of senior Police and Home Department officials , Mr. Singh said the security in the State capital , in particular , had been beefed up after Union Home Minister Shivaraj Patil had instructed the State Government to be extra careful following the bomb blasts in New Delhi on Saturday . . . He said that the district and police officials in other cities such as Mysore , Hubli-Dharwad and Belgaum also had been instructed to keep a strict vigil in view of Deepavali and Ramzan festivals . The State and the fast developing Bangalore city had been in the hit list of extremists . Assistant Commissioners and Deputy Commissioners of Police were directed to keep a watch on the movements of certain organisations . . . Bangalore police commissioner Ajai Kumar Singh said his department had taken precautionary measures in the city . Particular focus was on thickly populated areas and on multi-storeyed buildings in different parts of the city . . . He said even the bomb detection squads have been asked to be ready to face any emergency . Although no preventive arrests have been made , trouble mongers will be taken into custody , he added . Asked if the city police would provide extra security to Electronics City where most of the Information Technology firms are located , Mr. Singh said that most of that area is under the jurisdiction of the Bangalore district police . The district police have ensured tight security in the area , he said . . . Chief Secretary B.K. Das ; Principal Secretary -LRB- Home -RRB- Sudhakar Rao ; and Director General of Police B.S. Sial and Mr. Ajai Kumar Singh were among those who attended the meeting .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        "Delhi"
+    ], 
+    "O": [
+        "emergency alert:5", 
+        "bomb blasts:21", 
+        "Chief Minister:26", 
+        "Union Home Minister:96", 
+        "bomb blasts:112", 
+        "Deepavali:152", 
+        "Ramzan:154", 
+        "State:158", 
+        "extremists:172", 
+        "Assistant Commissioners:174", 
+        "Deputy Commissioners:177", 
+        "commissioner:198", 
+        "Information Technology:286", 
+        "Principal Secretary:331", 
+        "Director General:340"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/10/31/stories/2005103118520100.htm", 
+    "date": "29-10-2005", 
+    "target": "", 
+    "hot_spot": "Delhi", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Government", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Staff Reporter", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "Home Department", 
+            "74", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "128", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "274", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "343", 
+            "Others"
+        ]
+    ]
+}

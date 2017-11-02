@@ -1,0 +1,182 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Aathgaon", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "45", 
+            "Assoc_Event"
+        ], 
+        [
+            "Aathgaon", 
+            "49", 
+            "Assoc_Event"
+        ], 
+        [
+            "S C Road", 
+            "69", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "153", 
+            "Victim"
+        ], 
+        [
+            "Fancy Bazar", 
+            "355", 
+            "Neutral"
+        ], 
+        [
+            "Aathgaon", 
+            "358", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Partha Saha", 
+            "133", 
+            "Victim"
+        ], 
+        [
+            "Nirmal Dey", 
+            "136", 
+            "Victim"
+        ], 
+        [
+            "M Ali Dhubri", 
+            "139", 
+            "Victim"
+        ], 
+        [
+            "Nareshwor Deka", 
+            "143", 
+            "Victim"
+        ], 
+        [
+            "Mohammad Anowar Hussain", 
+            "146", 
+            "Victim"
+        ], 
+        [
+            "D K Pathak", 
+            "162", 
+            "Comment"
+        ], 
+        [
+            "Shivendu Kumar Dey", 
+            "218", 
+            "Comment"
+        ], 
+        [
+            "Sarat Chandra Rana", 
+            "294", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "10.30 am : 66"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:37"
+    ], 
+    "death": "6", 
+    "title": "Ulfa blast kills six in Guwahati", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "GUWAHATI : Ulfa turned party-poopers for Assam 's Tarun Gogoi government , celebrating its one year in office , when a powerful explosion at Aathgaon area in Guwahati killed six persons and wounded over 30 on Saturday . This is the seventh blast in Guwahati and third at Aathgaon , inhabited mostly by non-Assamese , in this month . The explosion which took place around 10.30 am on S C Road killed three persons on the spot . Another three died on their way to hospital . The blast spot was a few metres away from Marwari Maternity Hospital and four popular schools . At least 25 injured were first admitted to Marwari Hospital but later shifted to Guwahati Medical College and Hospital . Five of the dead have been identified as Partha Saha , Nirmal Dey , M Ali Dhubri , Nareshwor Deka and Mohammad Anowar Hussain , who was from Bihar . Assam IGP -LRB- law and order -RRB- D K Pathak said a powerful improvised explosive device -LRB- IED -RRB- was planted on an autorickshaw . ` When the bomb went off , it triggered a chain reaction and an LPG cylinder in a rickshaw coming from the opposite direction exploded . This enhanced the intensity of the blast , ' he said . Shivendu Kumar Dey , a resident , said he heard a loud bang and immediately saw smoke billowing out from the spot . Three autorickshaws , two four-wheelers and three cycle-rickshaws were damaged . Splinters were found on walls of adjacent houses . ` It took place in front of our house . I saw a blood-stained body hit the front gate and a severed hand flew into our living room , ' he said . Sarat Chandra Rana , a survivor , said he and his son were in their car when they heard the explosion . ` We took the road to avoid traffic . I slammed the brakes as soon as it happened . ' Though his car was extensively damaged , they escaped with just a few bruises and cuts . Residents of Fancy Bazar and Aathgaon two commercial areas took to streets in protest against the Ulfa-orchestrated violence . They shouted slogans and warned the banned outfit . They sought adequate protection from the government , which has so long been unsuccessful in taming Ulfa bombers in the city .", 
+    "injured": "30", 
+    "org_unorg": "", 
+    "O": [
+        "party-poopers:5", 
+        "Assam 's Tarun Gogoi government:7", 
+        "killed six persons:29", 
+        "wounded over 30:33", 
+        "seventh blast:42", 
+        "third:47", 
+        "non-Assamese:54", 
+        "killed three persons:72", 
+        "on the spot:75", 
+        "three died:80", 
+        "way to hospital:84", 
+        "IGP:156", 
+        "improvised explosive device:168", 
+        "planted:175", 
+        "autorickshaw:178", 
+        "triggered a chain reaction:188", 
+        "LPG cylinder:194", 
+        "rickshaw:198", 
+        "opposite direction exploded:202", 
+        "Three autorickshaws:241", 
+        "two four-wheelers:244", 
+        "three cycle-rickshaws:247", 
+        "Splinters:252", 
+        "blood-stained body:274", 
+        "front gate:278", 
+        "severed hand:282", 
+        "flew:284", 
+        "living room:287", 
+        "survivor:299", 
+        "against:367", 
+        "Ulfa-orchestrated violence:369", 
+        "shouted slogans:373"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Ulfa-blast-kills-six-in-Guwahati/articleshow/2076804.cms?", 
+    "date": "26-05-2007", 
+    "target": "GOVERNMENT BUILDING", 
+    "hot_spot": "", 
+    "delivery_mod": "RICKSHAW", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Ulfa", 
+            "3", 
+            "Accused"
+        ], 
+        [
+            "Marwari Maternity Hospital", 
+            "97", 
+            "Others"
+        ], 
+        [
+            "Marwari Hospital", 
+            "113", 
+            "Others"
+        ], 
+        [
+            "Guwahati Medical College and Hospital", 
+            "119", 
+            "Others"
+        ]
+    ]
+}

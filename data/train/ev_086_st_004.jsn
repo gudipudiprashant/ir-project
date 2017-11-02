@@ -1,0 +1,133 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Dadar West", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Opera House", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "49", 
+            "Neutral"
+        ], 
+        [
+            "Dadar", 
+            "86", 
+            "Event"
+        ], 
+        [
+            "Kabutar Khana bus stop", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "99", 
+            "Event"
+        ], 
+        [
+            "jewelry shop", 
+            "110", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "153", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "158", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "169", 
+            "Neutral"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "183", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "7.30 pm : 15", 
+        "evening : 63"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday : 18"
+    ], 
+    "death": "10", 
+    "title": "Serial Blasts in Mumbai, at Least 10 Killed", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "Mumbai,Dadar West"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "India 's Western city of Mumbai was rocked by three serial blasts at around 7.30 pm on Wednesday . The explosions took place at Dadar West , Zaveri Bazaar and Opera House . . . At least 10 people were killed in the blasts , including four in Zaveri Bazaar . . . All three locations are busy market places and the evening rush hour added to the intensity of death toll which is feared to go up further . . . The blast at Dadar took place at Kabutar Khana bus stop in a car , while Zaveri Bazaar bomb was kept in a meter box at a jewelry shop . . . One unexploded bomb was also found in the city and the bomb squad has been rushed to the spot . . . Taking the toll of the situation National Investigative Agency ( NIA ) team has rushed to Mumbai from the national capital New Delhi and a high alert has also been declared in Mumbai . . . According to witnesses , at least 20 were injured in Zaveri Bazaar alone . . . Home Ministry has termed the blasts as terrorist attacks . . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Western city:3", 
+        "car:96", 
+        "Home Ministry:189"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibtimes.com/serial-blasts-mumbai-least-10-killed-298213", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "bomb squad", 
+            "126", 
+            "Others"
+        ], 
+        [
+            "National Investigative Agency", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "147", 
+            "Others"
+        ]
+    ]
+}

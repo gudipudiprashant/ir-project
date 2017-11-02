@@ -1,0 +1,146 @@
+{
+    "LOC": [
+        [
+            "HYDERABAD", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "204", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "212", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "M. Rajeev", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "P. Chandra Sekharan", 
+            "27", 
+            "Others"
+        ], 
+        [
+            "Chandra Sekharan", 
+            "61", 
+            "Comment", 
+            "Others"
+        ], 
+        [
+            "Chandra Sekharan", 
+            "145", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:68", 
+        "1993:206"
+    ], 
+    "death": "40", 
+    "title": "Set up national explosives control bureau", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "M. Rajeev . . HYDERABAD : In the light of the twin bomb blasts that claimed over 40 lives in the city , eminent forensic scientist P. Chandra Sekharan has urged the Centre to establish a National Explosives Control Bureau -LRB- NECB -RRB- on the lines of the Narcotics Control Bureau . . . Condemning the bomb blasts , Prof. Chandra Sekharan said in a statement on Sunday that the time had come for the Centre to tighten the web of manufacture , possession , transport and use of explosives in the country as a whole . . . Though there were rules and legislation to prevent unlawful and malicious use of explosives , terrorists and other anti-social elements were not only using explosives meant for civilian activities , but also those exclusively meant for military operations , he said . . . Prof. Chandra Sekharan , who submitted proposals to the Centre for setting up the NECB and permitting the States to enact stringent laws , acknowledged that the country could not ban the production of explosives because they had their rightful uses in both civilian and military operations . . . However , the serial bomb blasts starting from those in Mumbai in 1993 to the present ones in Hyderabad showed the inadequacy in the system to prevent blasts in crowded places . . . Citing stringent regulations on the use of explosives that were in force in several countries , he said there were no similar provisions in any State or city in the country .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "O": [
+        "light:9", 
+        "twin bomb blasts:12", 
+        "claimed:16", 
+        "city:22", 
+        "eminent forensic scientist:24", 
+        "urged:31", 
+        "Centre:33", 
+        "establish:35", 
+        "bomb blasts:57", 
+        "statement:66", 
+        "Centre:76", 
+        "tighten:78", 
+        "web of manufacture:80", 
+        "possession:84", 
+        "transport:86", 
+        "explosives:90", 
+        "country:93", 
+        "rules:103", 
+        "legislation:105", 
+        "prevent unlawful:107", 
+        "malicious:110", 
+        "explosives:113", 
+        "terrorists:115", 
+        "anti-social elements:118", 
+        "explosives:124", 
+        "civilian activities:127", 
+        "military operations:136", 
+        "proposals:150", 
+        "Centre:153", 
+        "permitting:160", 
+        "States:162", 
+        "enact:164", 
+        "stringent laws:165", 
+        "acknowledged:168", 
+        "country:171", 
+        "explosives:178", 
+        "rightful uses:183", 
+        "civilian and military operations:187", 
+        "serial bomb blasts:197", 
+        "inadequacy:215", 
+        "prevent blasts:220", 
+        "stringent regulations:229", 
+        "explosives:235", 
+        "in force:238", 
+        "provisions:250", 
+        "State:253"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/article1899988.ece", 
+    "date": "25-08-2007", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Explosives Control Bureau", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "NECB", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "Narcotics Control Bureau", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "NECB", 
+            "158", 
+            "Others"
+        ]
+    ]
+}

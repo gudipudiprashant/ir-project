@@ -1,0 +1,246 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "Chungajan railway station", 
+            "35", 
+            "Assoc_Event"
+        ], 
+        [
+            "Upper Assams Golaghat", 
+            "39", 
+            "Assoc_Event"
+        ], 
+        [
+            "Golaghat", 
+            "95", 
+            "Event"
+        ], 
+        [
+            "Karbi Anglong", 
+            "97", 
+            "Event"
+        ], 
+        [
+            "Khatikhati", 
+            "117", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bokajan railway", 
+            "119", 
+            "Assoc_Event"
+        ], 
+        [
+            "Karbi Anglong", 
+            "123", 
+            "Assoc_Event"
+        ], 
+        [
+            "Dibrugarh-bound", 
+            "132", 
+            "Victim"
+        ], 
+        [
+            "Kamrup", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Tangla", 
+            "153", 
+            "Assoc_Event"
+        ], 
+        [
+            "Harisinga railway stations", 
+            "155", 
+            "Assoc_Event"
+        ], 
+        [
+            "Udalguri", 
+            "159", 
+            "Assoc_Event"
+        ], 
+        [
+            "Beltola", 
+            "202", 
+            "Neutral"
+        ], 
+        [
+            "Golaghat", 
+            "211", 
+            "Event"
+        ], 
+        [
+            "Dimapur", 
+            "391", 
+            "Victim"
+        ], 
+        [
+            "Guwahati", 
+            "399", 
+            "Neutral"
+        ], 
+        [
+            "Chungajan", 
+            "401", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "421", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Khagen Sharma", 
+            "78", 
+            "Comment"
+        ], 
+        [
+            "Pradip Chandra Saloi", 
+            "216", 
+            "Comment"
+        ], 
+        [
+            "Trikalagya Rabha", 
+            "382", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "1 p.m.:239", 
+        "6 a.m.:403", 
+        "10 a.m.:416", 
+        "11.45 a.m.:423"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday night:45", 
+        "December 3:104", 
+        "December 7:162", 
+        "November 24:206"
+    ], 
+    "death": "5", 
+    "title": "Blast on Rajdhani Express kills five", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "ALL ADIVASI NATIONAL LIBERATION ARMY"
+    ], 
+    "content": "Sushanta Talukdar . . Police suspect hand of adivasi outfit . . Guwahati : Five passengers of the 2423A Dibrugarh-Guwahati-Delhi Rajdhani Express were killed and four injured seriously in a bomb blast near the Chungajan railway station in Upper Assams Golaghat district late on Wednesday night . Police suspect that the blast could be the handiwork of the All Adivasi National Liberation Army -LRB- AANLA -RRB- . . . Inspector General of Police -LRB- Special Branch -RRB- Khagen Sharma told TheHindu that the needle of suspicion pointed to AANLA , which was active in Golaghat and Karbi Anglong districts . . . On December 3 , the outfit triggered an explosion on the tracks between the Khatikhati and Bokajan railway stations in Karbi Anglong district , causing minor damage to the Dibrugarh-bound 5959 up Kamrup Express . . . Police also suspect its hand in a blast on the tracks between the Tangla and Harisinga railway stations in Udalguri district on December 7 . . . The group had threatened to target innocent civilians and the Tarun Gogoi-led governments men to avenge the brutalities on protesters during a procession taken out by the All Adivasi Students Association of Assam at the Beltola locality here on November 24 . . . Golaghat District Superintendent of Police Pradip Chandra Saloi said the blast , suspected to have been caused by an improvised explosive device -LRB- IED -RRB- , occurred around 1 p.m. . A luggage van , containing passengers , took the entire impact of the blast , resulting in the death of five people and multiple injuries to four . . . The blast created a crater on the tracks and damaged two sleepers . The bodies of three victims were found lying outside the train and those of the two inside the luggage van . Police have sought forensic experts help to ascertain if the blast occurred on the tracks or if the IED was planted in the luggage van . Passengers of the luggage van said the train stopped only after they pulled the chain . However , the driver told the police that he did not stop the train immediately after the blast as he feared more attacks . . . Chief Public Relations Officer of Northeast Frontier Railway Trikalagya Rabha said the injured were taken to the Dimapur Civil Hospital . The train left for Guwahati from Chungajan at 6 a.m. after the luggage van was detached . It arrived here at 10 a.m. and started for Delhi at 11.45 a.m. , he added .", 
+    "injured": "4", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Golaghat", 
+        "Guwahati", 
+        "near the Chungajan railway station"
+    ], 
+    "O": [
+        "Dibrugarh-Guwahati-Delhi Rajdhani Express:20", 
+        "Inspector General:70", 
+        "TheHindu:81", 
+        "Kamrup Express:135", 
+        "District Superintendent:212", 
+        "IED:234", 
+        "train:295", 
+        "luggage van:303", 
+        "IED:324", 
+        "luggage van:329", 
+        "train:339", 
+        "Chief Public Relations Officer:374", 
+        "Northeast Frontier Railway:379", 
+        "Dimapur Civil Hospital:391", 
+        "train:396"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/blast-on-rajdhani-express-kills-five/article1967381.ece", 
+    "date": "12-12-2007", 
+    "target": "", 
+    "hot_spot": "near the Chungajan railway station", 
+    "delivery_mod": "VAN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Police", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "adivasi", 
+            "9", 
+            "Accused"
+        ], 
+        [
+            "Police", 
+            "48", 
+            "Others"
+        ], 
+        [
+            "All Adivasi National Liberation Army", 
+            "59", 
+            "Accused"
+        ], 
+        [
+            "AANLA", 
+            "65", 
+            "Accused"
+        ], 
+        [
+            "Police", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "AANLA", 
+            "89", 
+            "Accused"
+        ], 
+        [
+            "Police", 
+            "140", 
+            "Others"
+        ], 
+        [
+            "All Adivasi Students Association of Assam", 
+            "194", 
+            "Accused"
+        ], 
+        [
+            "Police", 
+            "215", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "306", 
+            "Others"
+        ], 
+        [
+            "forensic experts", 
+            "309", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "354", 
+            "Others"
+        ]
+    ]
+}

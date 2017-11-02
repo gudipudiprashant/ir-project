@@ -1,0 +1,290 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Halikuchi village", 
+            "101", 
+            "Neutral"
+        ], 
+        [
+            "Kamrup", 
+            "104", 
+            "Neutral"
+        ], 
+        [
+            "Birubari", 
+            "143", 
+            "Event"
+        ], 
+        [
+            "Bhutnath", 
+            "176", 
+            "Event"
+        ], 
+        [
+            "Bhangagarh", 
+            "178", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "249", 
+            "Event"
+        ], 
+        [
+            "Rangiya", 
+            "277", 
+            "Accused"
+        ], 
+        [
+            "Bhutnath", 
+            "287", 
+            "Event"
+        ], 
+        [
+            "Bhutnath", 
+            "301", 
+            "Event"
+        ], 
+        [
+            "Birubari", 
+            "325", 
+            "Event"
+        ], 
+        [
+            "Bhangagar", 
+            "331", 
+            "Event"
+        ], 
+        [
+            "Rangiya", 
+            "358", 
+            "Source"
+        ], 
+        [
+            "Bhutnath", 
+            "362", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Pranjal Deka", 
+            "19", 
+            "Accused"
+        ], 
+        [
+            "Biju Sarania", 
+            "22", 
+            "Accused"
+        ], 
+        [
+            "G.M. Srivastav", 
+            "64", 
+            "Comment"
+        ], 
+        [
+            "Pranjal Deka", 
+            "70", 
+            "Accused"
+        ], 
+        [
+            "Pranjal", 
+            "118", 
+            "Accused"
+        ], 
+        [
+            "Pranjals", 
+            "193", 
+            "Accused"
+        ], 
+        [
+            "P. Chidamabaram", 
+            "208", 
+            "Comment"
+        ], 
+        [
+            "Pradip Chandra Saloi", 
+            "254", 
+            "Comment"
+        ], 
+        [
+            "Sanjib Talukdar", 
+            "274", 
+            "Accused"
+        ], 
+        [
+            "Sanjib", 
+            "291", 
+            "Accused"
+        ], 
+        [
+            "Pranjal", 
+            "309", 
+            "Accused"
+        ], 
+        [
+            "Bjiu Sarania", 
+            "311", 
+            "Accused"
+        ], 
+        [
+            "Sanjib", 
+            "346", 
+            "Accused"
+        ], 
+        [
+            "Saloi", 
+            "367", 
+            "Others"
+        ], 
+        [
+            "Khagen Kalita", 
+            "378", 
+            "Accused"
+        ], 
+        [
+            "Khagen", 
+            "397", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "January 1 : 12", 
+        "Thursday night : 47", 
+        "January 1 : 146"
+    ], 
+    "death": "5", 
+    "title": "Serial blast accused killed in encounter", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Sushanta Talukdar . . GUWAHATI : The prime accused in the January 1 serial blasts in Guwahati , Pranjal Deka alias Biju Sarania of the United Liberation Front of Asom , was killed in an encounter with a joint team of police and the Army on Thursday night . The blasts claimed five lives and injured 62 . . . Director-General of Police G.M. Srivastav told TheHindu that while Pranjal Deka was killed in the encounter another bomb-maker , who was with him at the time of encounter , managed to escape . . . The encounter took place at Halikuchi village in Kamrup district . . . The joint team launched a manhunt in search of Pranjal , a hardcore ULFA cadre after he escaped the security dragnet but not before dumping an improvised explosive device in a garbage bin at Birubari locality on January 1 . . . The IED was the first to go off and injured two persons . His two other accomplices triggered the second and the third blasts at Bhutnath and Bhangagarh . . . A day after the serial blasts , the police had released Pranjals photograph as the prime accused in the serial blasts shortly after Union Home Minister P. Chidamabaram told reporters here that Assam Police had nearly succeeded in apprehending the perpetrator of the serial blasts and they also knew him by his name , by face and his family members . . . 12 arrested . . Guwahati Senior Superintendent of Police Pradip Chandra Saloi said police have arrested 12 people in connection with the serial blasts , including an ULFA cadre Sanjib Talukdar of Rangiya who has confessed to have planted the bomb at Bhutnath . . . Sanjib has confessed that he had planted the bomb at Bhutnath while we have got the information that Pranjal alias Bjiu Sarania has assembled the other two IEDsone dumped in the garbage bin at Birubari and the other planted at Bhangagar in the city , the SSP added . . . He also said that Sanjib had confessed during interrogation that he had brought the bomb from Rangiya and planted at Bhutnath . . . Mr Saloi claimed a self styled sergeant major of ULFAs 709 Battalion Khagen Kalita had drawn the blueprint for the terror attack . . . Police are on the look-out for Khagen , he said . The city police have so far arrested 12 persons in connection with the serial blasts .", 
+    "injured": "62", 
+    "org_unorg": "", 
+    "O": [
+        "prime accused:8", 
+        "january 1 serial blasts:12", 
+        "killed:33", 
+        "encounter:36", 
+        "joint team of police:39", 
+        "army:45", 
+        "blasts:51", 
+        "killed:73", 
+        "encounter:76", 
+        "bomb-maker:78", 
+        "time of encounter:86", 
+        "managed to escape:90", 
+        "encounter:97", 
+        "joint team:110", 
+        "launched:112", 
+        "escaped:126", 
+        "security dragnet:128", 
+        "dumping:133", 
+        "improvised explosive device:135", 
+        "garbage bin:140", 
+        "IED:152", 
+        "injured:160", 
+        "accomplices:167", 
+        "triggered:168", 
+        "serial blasts:186", 
+        "released:192", 
+        "Pranjals photograph:193", 
+        "prime accused:197", 
+        "serial blasts:201", 
+        "reporters:211", 
+        "succeeded:218", 
+        "apprehending the perpetrator:220", 
+        "serial blasts:225", 
+        "12 arrested:245", 
+        "arrested 12 people:260", 
+        "connection:264", 
+        "serial blasts:267", 
+        "confessed:280", 
+        "planted:283", 
+        "bomb:285", 
+        "confessed:293", 
+        "planted:297", 
+        "bomb:299", 
+        "information:307", 
+        "assembled:314", 
+        "two IEDsone dumped:317", 
+        "garbage bin:322", 
+        "planted:329", 
+        "SSP:337", 
+        "confessed:348", 
+        "interrogation:350", 
+        "bomb:356", 
+        "planted:360", 
+        "self styled sergeant:370", 
+        "ULFAs 709 Battalion:375", 
+        "drawn:381", 
+        "blueprint:383", 
+        "terror attack:386", 
+        "arrested 12 persons:408", 
+        "serial blasts:415"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/serial-blast-accused-killed-in-encounter/article371079.ece", 
+    "date": "01-01-2009", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "DUSTBIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "TheHindu", 
+            "67", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "122", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "272", 
+            "Accused"
+        ], 
+        [
+            "ULFAs", 
+            "375", 
+            "Accused"
+        ]
+    ]
+}

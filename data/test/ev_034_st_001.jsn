@@ -1,0 +1,87 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Kokrajhar", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Srirampur", 
+            "45", 
+            "Victim"
+        ], 
+        [
+            "Kokrajhar", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "Bamunimaidan", 
+            "83", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "11:30 a.m.:72", 
+        "7:30 p.m.:87"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:33"
+    ], 
+    "death": "", 
+    "title": "8 injured in Assam blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "ALL ADIVASI NATIONAL LIBERATION ARMY"
+    ], 
+    "content": "Special Correspondent . . Guwahati : Eight people were injured , two seriously , in two bomb blasts suspected to have been triggered by suspected militants at Kokrajhar district and here on Tuesday . . . Official sources said the eight were injured near Srirampur Check Gate along the Assam-West Bengal border in Kokrajhar district when suspected militants of the All Adivasi National Liberation Army triggered an improvised explosive device around 11:30 a.m. Suspected ULFA militants triggered a grenade blast in the Bamunimaidan locality here around 7:30 p.m. . . The blast occurred amidst heightened security measures in view of the Republic Day boycott call by the ULFA and three other militant outfits .", 
+    "injured": "8", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kokrajhar", 
+        "Guwahati", 
+        "Kokrajhar"
+    ], 
+    "O": [
+        "grenade:79", 
+        "Republic Day:102"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/8-injured-in-assam-blasts/article1184118.ece", 
+    "date": "22-01-2008", 
+    "target": "", 
+    "hot_spot": "Kokrajhar", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "All Adivasi National Liberation Army", 
+            "61", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "75", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "108", 
+            "Accused"
+        ]
+    ]
+}

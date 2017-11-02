@@ -1,0 +1,378 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "10", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "66", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "77", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "81", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "83", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "93", 
+            "Neutral"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "104", 
+            "Event"
+        ], 
+        [
+            "South Mumbai", 
+            "107", 
+            "Neutral"
+        ], 
+        [
+            "Opera House", 
+            "135", 
+            "Event"
+        ], 
+        [
+            "South Mumbai", 
+            "140", 
+            "Neutral"
+        ], 
+        [
+            "Kabutarkhana", 
+            "151", 
+            "Event"
+        ], 
+        [
+            "Dadar West", 
+            "153", 
+            "Event"
+        ], 
+        [
+            "Central Mumbai", 
+            "156", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "157", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "182", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "185", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "202", 
+            "Neutral"
+        ], 
+        [
+            "Opera House", 
+            "208", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "226", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "229", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "234", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "262", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "267", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "283", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "331", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "352", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "376", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "398", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "402", 
+            "Neutral"
+        ], 
+        [
+            "South Mumbai", 
+            "450", 
+            "Neutral"
+        ], 
+        [
+            "South Mumbai", 
+            "474", 
+            "Neutral"
+        ], 
+        [
+            "Dadar", 
+            "495", 
+            "Event"
+        ], 
+        [
+            "Opera House", 
+            "498", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "526", 
+            "Event"
+        ], 
+        [
+            "Kahu Gali", 
+            "538", 
+            "Event"
+        ], 
+        [
+            "Dadar West", 
+            "559", 
+            "Event"
+        ], 
+        [
+            "Opera House", 
+            "578", 
+            "Event"
+        ], 
+        [
+            "Prasad Chamber building", 
+            "584", 
+            "Event"
+        ], 
+        [
+            "Dadar", 
+            "615", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "619", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "658", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "661", 
+            "Event"
+        ], 
+        [
+            "KEM", 
+            "685", 
+            "Neutral"
+        ], 
+        [
+            "Nair", 
+            "690", 
+            "Neutral"
+        ], 
+        [
+            "Harkishandas", 
+            "695", 
+            "Neutral"
+        ], 
+        [
+            "Saifee", 
+            "702", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "P Chidambaram", 
+            "28", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "50", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "61", 
+            "Comment"
+        ], 
+        [
+            "Prithviraj Chavan", 
+            "188", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 36", 
+        "6.56 pm:101", 
+        "7.06 pm : 148", 
+        "evening : 280", 
+        "evening : 454"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "26/11 : 240", 
+        "2008:242", 
+        "2008:307", 
+        "Wednesday:453", 
+        "2002:677"
+    ], 
+    "death": "18", 
+    "title": "Three bomb blasts in Mumbai, 18 dead, over 130 injured", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Mumbai", 
+        "Kahu Gali,Zaveri Bazaar"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Mumbai : Three bomb blasts within twelve minutes during Mumbai 's rush hour have left at least 18 people dead and over 130 injured . Home Minister P Chidambaram , who reached Mumbai late at night , described the blast as `` a coordinated terror attack '' . Mr Chidambaram inspected all the three blast sites . -LRB- Read : Chidambaram on Mumbai blasts -RRB- Mumbai has been sealed and is on high-alert ; so are Delhi , Chennai , Kolkata and Bangalore . -LRB- Read : High alert in cities across India -RRB- The first blast took place at 6.56 pm in Zaveri Bazaar in South Mumbai , a crowded market named for the many small jewelry stores that fill its narrow streets . A minute later , there was an explosion at Opera House , also in South Mumbai ; the final strike was at 7.06 pm near Kabutarkhana at Dadar West in Central Mumbai . The Home Minister said Improvised Explosive Devices -LRB- IED -RRB- were used in all three blasts . -LRB- Watch : YouTube videos on Mumbai blasts -RRB- Maharashtra Chief Minister Prithviraj Chavan who described the blasts as `` an attack on the heart of India '' said the blast at Opera House was the most powerful . -LRB- Watch : This is an attack on the heart of India , says Maharashtra CM -RRB- This is Mumbai 's first terror attack after 26/11 in 2008 - when 166 people were killed in 72 hours by ten young men who sailed into the city from Karachi and attacked some of Mumbai 's most famous landmarks . The city wore a steely clam this evening . The Mumbai Police sent an SMS to all cellphone users in the city minutes after the blast , asking them to stay indoors . In 2008 , the police had been criticised for failing to share basic information with the city . -LRB- Read : Police 's SMS after Mumbai blasts -RRB- The Home Minister said that the National Security Guard -LRB- NSG -RRB- , which has a hub in Mumbai , was on standby . The National Investigation Agency or NIA has reached the site of the blasts and is working with the Mumbai Police to collect and analyse forensic evidence . A seven-member team from the Central Forensic Science Laboratory -LRB- CFSL -RRB- from Delhi is also in Mumbai . Sources have told NDTV that preliminary inspections by the forensic teams and bomb disposal squads have hinted at the use of ammonium nitrate in the IEDs . Traces of ammonium nitrate have been found at the blast sites , sources added.Heavy rain was pouring down over South Mumbai on Wednesday evening triggering fears that crucial evidence may be washed away . -LRB- Read : Concerns about evidence as rain lashes South Mumbai -RRB- Police sources say close circuit TV -LRB- CCTV -RRB- footage from security cameras opposite the bus stop at Dadar and at Opera House could provide them with leads in the post-blast investigations . The blasts were designed to disrupt the city when it is at its busiest . The Zaveri Bazaar blast took place in an umbrella kept at the crowded Kahu Gali , a street of eateries where many commuters stop to snack before catching their local trains home . The Dadar West explosion took place in a meter box on an electric pole near a bus stop . The Opera House blast took place at Prasad Chamber building . `` I heard a loud explosion . And then I saw people with serious injuries lying in pools of blood , '' said an eyewitness to the Dadar explosion.Datatray Jadhav from Zaveri Bazaar said , `` A girl and another man were seriously injured . We put them both in a police van and sent them to the hospital . '' -LRB- Watch : Eyewitness accounts of the blast in Zaveri Bazaar -RRB- Zaveri Bazaar has been hit before - over 50 people were killed in twin blasts in 2002 . The injured are being treated at KEM -LRB- 022-24136051 -RRB- , Nair -LRB- 022-23085379 -RRB- , Harkishandas -LRB- 022-23855555 / 30095555 -RRB- , Saifee -LRB- 022-67570111 -RRB- . .", 
+    "injured": "130", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Three bomb blasts:3", 
+        "Home Minister:26", 
+        "a coordinated terror attack:43", 
+        "crowded market:111", 
+        "Home Minister:160", 
+        "Explosive Devices:164", 
+        "Chief Minister:186", 
+        "police:310", 
+        "Police:327", 
+        "Home Minister:335", 
+        "forensic evidence:382", 
+        "Central Forensic Science Laboratory:390", 
+        "forensic teams:413", 
+        "squads:418", 
+        "Police:477", 
+        "CCTV:484", 
+        "bus stop:492", 
+        "post-blast:507", 
+        "local trains:554", 
+        "meter box:566", 
+        "electric pole:570", 
+        "bus stop:574", 
+        "police:639", 
+        "hospital:646"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/three-bomb-blasts-in-mumbai-18-dead-over-130-injured-461430", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "Kahu Gali,Zaveri Bazaar", 
+    "delivery_mod": "UMBRELLA", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "AMMONIUM NITRATE", 
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Mumbai Police", 
+            "283", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "340", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "359", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "363", 
+            "Others"
+        ], 
+        [
+            "Mumbai Police", 
+            "376", 
+            "Others"
+        ], 
+        [
+            "CFSL", 
+            "395", 
+            "Others"
+        ]
+    ]
+}

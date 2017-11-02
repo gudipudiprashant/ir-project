@@ -1,0 +1,147 @@
+{
+    "LOC": [
+        [
+            "Rajnandgaon", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Darbha", 
+            "193", 
+            "Event"
+        ], 
+        [
+            "Bastar", 
+            "196", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Raman Singh", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Udai Mudliar", 
+            "19", 
+            "Comment"
+        ], 
+        [
+            "Allanoor", 
+            "25", 
+            "Victim"
+        ], 
+        [
+            "Udai", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "51", 
+            "Comment"
+        ], 
+        [
+            "Udai Mudliar", 
+            "58", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "61", 
+            "Comment"
+        ], 
+        [
+            "Allanoor", 
+            "97", 
+            "Victim"
+        ], 
+        [
+            "Rajesh Munat", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "Madhusudan Yadav", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "161", 
+            "Comment"
+        ], 
+        [
+            "Udai Mudliar", 
+            "170", 
+            "Victim"
+        ], 
+        [
+            "Allanoor", 
+            "173", 
+            "Victim"
+        ], 
+        [
+            "Raman Singh", 
+            "255", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "afternoon : 9"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 8", 
+        "May 25 : 199"
+    ], 
+    "death": "", 
+    "title": "State Editions", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Chief Minister Raman Singh reached Rajnandgaon on Tuesday afternoon and met the bereaved families of former MLA late Udai Mudliar and his assistant late Allanoor , expressing heartfelt condolences to them . . . Udai was my family friend . His sudden demise is a shocker for me said Dr Singh while consoling the family of late Udai Mudliar . Singh expressed his grief saying that this family has lost a son and he has lost his brother-like friend in the ferocious act of naxalites . Later , Chief Minister also visited the house of late Allanoor and expressed condolences to his family . Expressing sympathy to the grieve-stricken families , he said that State Government will always be there and stand as a support for them through this difficult moment , and also the time ahead . Meanwhile , Housing and Environment Minister Rajesh Munat and MP Madhusudan Yadav were also present with Chief Minister . . . Dr Singh said that senior leaders of Congress along with Udai Mudliar , Allanoor , several party-workers , police personnel and even the civilians were brutally killed in the audacious naxal attack in Darbha area of Bastar district on May 25 . It was an extremely condemnable and cowardly act of Naxalites . State Government will provide every possible aid to the families of the deceased and the martyrs in the incident , and those found guilty in the investigation of the case will be subjected to strict legal action , asserted Chief Minister Dr Raman Singh . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Chattisgarh", 
+        "DARBAR", 
+        "", 
+        " Darbha area,Bastar "
+    ], 
+    "O": [
+        "police:178"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.dailypioneer.com/state-editions/raipur/cm-sympathises-with-bereaved-families-of-late-uday-mudliar-allanoor.html", 
+    "date": "25-05-2013", 
+    "target": "", 
+    "hot_spot": "Darbha area,Bastar", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "MLA", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "115", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "213", 
+            "Others"
+        ]
+    ]
+}

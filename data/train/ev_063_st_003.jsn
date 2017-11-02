@@ -1,0 +1,145 @@
+{
+    "LOC": [
+        [
+            "Srinagar", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "HYDERABAD", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "42", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "68", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "152", 
+            "Neutral"
+        ], 
+        [
+            "Cyberabad", 
+            "154", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "184", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 48", 
+        "Friday : 128"
+    ], 
+    "death": "", 
+    "title": "Security beefed up at religious places", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . Sequel to serial explosions in Srinagar and at Jama Masjid in Delhi . . HYDERABAD : Security was beefed up at important religious places in and around the city as serial blasts rocked Jammu and Kashmir and Jama Masjid in New Delhi on Friday . Patrolling was intensified near prayer halls , temples and mosques . . . Sniffer dogs were brought to Mecca Masjid and other religious places in Old City to identify suspicious objects . Bomb detection squads were also pressed into service . While police higher-ups kept additional forces ready to meet any eventuality , the explosions in northern parts of the country absolutely had no effect in the State capital , especially in the communally sensitive old city . Friday being a holiday , all roads near Charminar bustled with shoppers unmindful of the blasts . . . Alert sounded . . The Hyderabad and Cyberabad police were put on high alert . ` Though persons behind the serial blasts are yet to be identified , we did n't want to take any chance since Hyderabad was targeted by some terrorist groups earlier , ' a police officer said . A watch was kept on all suspects connected with terrorist groups .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "Srinagar", 
+        ""
+    ], 
+    "O": [
+        "Sequel:5", 
+        "serial explosions:7", 
+        "Security:21", 
+        "beefed up:23", 
+        "religious places:27", 
+        "city:33", 
+        "serial blasts:35", 
+        "rocked:37", 
+        "Patrolling:50", 
+        "intensified:52", 
+        "prayer halls:54", 
+        "temples:57", 
+        "mosques:59", 
+        "Sniffer dogs:63", 
+        "religious places:72", 
+        "Old City:75", 
+        "suspicious objects:79", 
+        "Bomb detection squads:82", 
+        "service:89", 
+        "police higher-ups:92", 
+        "additional forces:95", 
+        "meet:99", 
+        "explosions:104", 
+        "northern parts:106", 
+        "country:110", 
+        "no effect:113", 
+        "State capital:117", 
+        "communally sensitive:123", 
+        "old city:125", 
+        "holiday:131", 
+        "roads:134", 
+        "Charminar:136", 
+        "bustled:137", 
+        "shoppers:139", 
+        "unmindful:140", 
+        "blasts:143", 
+        "sounded:148", 
+        "police:155", 
+        "high alert:159", 
+        "serial blasts:167", 
+        "identified:173", 
+        "chance:182", 
+        "targeted:186", 
+        "terrorist groups:189", 
+        "police officer:195", 
+        "watch:200", 
+        "suspects:205", 
+        "terrorist groups:208"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/security-beefed-up-at-religious-places/article3147856.ece", 
+    "date": "14-04-2006", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

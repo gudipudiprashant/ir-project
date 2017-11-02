@@ -1,0 +1,124 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "275", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mamata Banerjee", 
+            "32", 
+            "Comment"
+        ], 
+        [
+            "Banerjee", 
+            "126", 
+            "Comment"
+        ], 
+        [
+            "Banerjee", 
+            "160", 
+            "Comment"
+        ], 
+        [
+            "Banerjee", 
+            "204", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:36"
+    ], 
+    "death": "", 
+    "title": "Centre interfering in State affairs, alleges Mamata", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A day after the Union Home Ministry directed National Investigation Agency -LRB- NIA -RRB- to take over investigation in the accidental blast at Bardhaman district of West Bengal , Chief Minister Mamata Banerjee said on Friday that there is an increasing trend of interference by the Bharatiya Janata Party-led government at the Centre in the matters of the State . . . I feel like sharing with my Facebook friends that ever since the new government has come to power at the Centre , there is an increasing trend of interference by the Central Government in the State matters , the Chief Minister wrote on her Facebook page . . . Accusing the Central Government of frequently and unnecessarily interfering in State matters , Ms. Banerjee said such interference is not at all expected as per the Constitution . . . The beauty of federal structure is the jurisdiction of working between the Centre and the State , Ms. Banerjee said and added : Primarily , the role of the Central Government is to deal with matters concerning major policies/decision making issues . It is expected that Centre and the States do not encroach upon the areas of activities of others . Ms. Banerjee further said that the Central Government is acting like a political party rather than a national government . . . She also alleged that with the active support of the Central Government controversial matters are aired in electronic media like Doordarshan and private channels resulting in communal tension in different States . . . In the post , the Chief Minister made no reference to the NIA probe in the Bardhaman blast , but the remarks are being made at a time when her party colleagues were opposing the probe by the Central agency .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "O": [
+        "union home ministry:5"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/centre-interfering-in-state-affairs-alleges-mamata/article6490783.ece", 
+    "date": "11-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "Central Government", 
+            "94", 
+            "Others"
+        ], 
+        [
+            "Facebook", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "Central Government", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "Central Government", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "Central Government", 
+            "209", 
+            "Others"
+        ], 
+        [
+            "Central Government", 
+            "235", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "271", 
+            "Others"
+        ]
+    ]
+}

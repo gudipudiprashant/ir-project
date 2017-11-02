@@ -1,0 +1,162 @@
+{
+    "LOC": [
+        [
+            "Burdwan", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "36", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "56", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "76", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "273", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "289", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "307", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ajit Doval", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Ajit Doval", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "27", 
+            "Others"
+        ], 
+        [
+            "Mamata Banerjee", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "Doval", 
+            "74", 
+            "Others"
+        ], 
+        [
+            "Doval", 
+            "142", 
+            "Others"
+        ], 
+        [
+            "Banerjee", 
+            "146", 
+            "Others"
+        ], 
+        [
+            "Sharad Kumar", 
+            "245", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:58", 
+        "Saturday:239"
+    ], 
+    "death": "", 
+    "title": "PM Modi's Top Adviser Visits Burdwan Blast Site, Meets Mamata Banerjee", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "JAMIAT-UL-MUJAHIDEEN"
+    ], 
+    "content": "National Security Adviser Ajit Doval -LRB- second from left -RRB- inspects Burdwan blast siteNew Delhi/Kolkata : National Security Adviser Ajit Doval , one of Prime Minister Narendra Modi 's most trusted officers , today met West Bengal Chief Minister Mamata Banerjee , whose government has been accused of mishandling the investigation into the blast in Burdwan on October 2 and ignoring rising lawlessness near the border with Bangladesh.Earlier in the day , Mr Doval visited Burdwan where the blast has raised fears about a terror plot with international links . Two suspected Bangladeshi militants were killed in what appears to be an accidental blast in a rented house where bombs were being assembled . Four persons , including two women have been arrested ; one of them is the wife of a terror suspect who died in the blast.Sources say Mr Doval will urge Ms Banerjee to cooperate with central investigators . The state police have been accused of multiple lapses in the blast probe . The arrested persons allegedly told the police about another house where more bomb-makers were allegedly hiding , a kilometer away from the blast site . Eight days after the state police searched and sealed the house , the National Investigation Agency found 39 crude bombs in one of its toilets.The Chief Minister , however , defended her forces , saying , `` Our police have done a good job . `` On Saturday , National Investigation Agency chief Sharad Kumar inspected the house where the blast took place . The agency later said that all four arrested persons are members of the terror group , Jamaat-ul-Mujahideen Bangladesh . It also said that the accused were preparing crude bombs to transport them to Bangladesh for possible terror attacks.The Centre is worried about a larger plot to destabilize a friendly government in Bangladesh . A dossier being prepared by the government will be shared with Dhaka , which had sought details on the case . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Burdwan"
+    ], 
+    "O": [
+        "National Security:1", 
+        "Prime Minister:25", 
+        "Chief Minister:38", 
+        "Bangladeshi militants:93", 
+        "state police:154", 
+        "police:173", 
+        "police:197", 
+        "police:230"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/pm-modis-top-adviser-visits-burdwan-blast-site-meets-mamata-banerjee-684798", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "National Security", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "National Security", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "44", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "205", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "241", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen", 
+            "272", 
+            "Accused"
+        ], 
+        [
+            "government", 
+            "305", 
+            "Others"
+        ]
+    ]
+}

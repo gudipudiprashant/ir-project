@@ -1,0 +1,225 @@
+{
+    "LOC": [
+        [
+            "Burdwan", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Bangladesh", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "79", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "101", 
+            "Neutral"
+        ], 
+        [
+            "Bangladeshi", 
+            "124", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "133", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "139", 
+            "Neutral"
+        ], 
+        [
+            "Segunbagicha", 
+            "165", 
+            "Neutral"
+        ], 
+        [
+            "Dhaka", 
+            "168", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "185", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "195", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "204", 
+            "Neutral"
+        ], 
+        [
+            "Dhaka", 
+            "218", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "235", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "249", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sheikh Kausar", 
+            "111", 
+            "Accused"
+        ], 
+        [
+            "Yusuf", 
+            "114", 
+            "Accused"
+        ], 
+        [
+            "Asif Adnan", 
+            "149", 
+            "Accused"
+        ], 
+        [
+            "Fazle Elahi Tanjil", 
+            "155", 
+            "Accused"
+        ], 
+        [
+            "Ajit Doval", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "255", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:288"
+    ], 
+    "death": "", 
+    "title": "Burdwan Blast: National Investigation Agency Team Likely to Visit Bangladesh for Probe", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "", 
+        "Bardhaman", 
+        "Burdwan blast "
+    ], 
+    "terror_group": [
+        "JAMIAT-UL-MUJAHIDEEN"
+    ], 
+    "content": "Burdwan : A team of the National Investigation Agency is likely to visit Bangladesh soon , following leads which have come up during the probe into the Burdwan blast , which has been linked to members of the Jamaat-ul-Mujahideen Bangladesh , said sources.Official sources said that during the investigation , the NIA has come across information about the activities of JMB members across India and their links with the neighbouring country.After interrogation of the arrested persons involved in Burdwan blast , the NIA has come to the conclusion that at least 120 improvised explosive devices or IEDs were transported to Bangladesh in four batches , they said.The two main suspects Sheikh Kausar and Yusuf , who are on the run , are reportedly Bangladeshi nationals with wide contacts in that country . India has also sought details from Bangladesh about the interrogation report of two alleged JMB militants Asif Adnan , 26 , and Fazle Elahi Tanjil , 24 , who were arrested from Segunbagicha area of Dhaka city . `` Considering all these facts , it is necessary for the investigators to visit Bangladesh sooner than later , '' a source said . India will also hand over a dossier to the Bangladesh government for preventive steps and necessary action which has to be taken by Dhaka to counter the threat posed by JMB , sources added.National Security Advisor Ajit Doval had visited Burdwan for first-hand knowledge of the conspiracy being hatched by the JMB to target Bangladesh government from the Indian soil.The Narendra Modi government has made it clear that it will have friendly relations with all neighbouring countries and following that policy , the NIA has been asked to complete the investigation into the October 2 blast as soon as possible , sources said . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "explosive devices:94", 
+        "militants:148"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/burdwan-blast-national-investigation-agency-team-likely-to-visit-bangladesh-for-probe-686253", 
+    "date": "29-10-2014", 
+    "target": "", 
+    "hot_spot": "Burdwan blast ", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen", 
+            "39", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "JMB", 
+            "61", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "83", 
+            "Others"
+        ], 
+        [
+            "JMB", 
+            "147", 
+            "Accused"
+        ], 
+        [
+            "government", 
+            "205", 
+            "Others"
+        ], 
+        [
+            "JMB", 
+            "225", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "246", 
+            "Accused"
+        ], 
+        [
+            "government", 
+            "250", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "257", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "278", 
+            "Others"
+        ]
+    ]
+}

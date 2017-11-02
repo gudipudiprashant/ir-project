@@ -1,0 +1,135 @@
+{
+    "LOC": [
+        [
+            "Ahmedabad", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Kanpur", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "99", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "101", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "185", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sriprakash Jaiswal", 
+            "74", 
+            "Comment"
+        ], 
+        [
+            "Advani", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "Rajnath Singh", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "Veerappa Moily", 
+            "202", 
+            "Comment"
+        ], 
+        [
+            "Vadilal Sarabhai", 
+            "250", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "263", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 273"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:272"
+    ], 
+    "death": "", 
+    "title": "Bangalore, Ahmedabad blasts uncannily similar", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "Ahmedabad", 
+        "Ahmedabad"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi : The serial blasts in Ahmedabad came a day after the blasts in Bangalore . . . However , the similarities , many would say do not end there . In fact , the blasts in both the cities were of low-intensity and took place in crowded places . `` The blasts were of low intensity and similar to those which hit Bangalore , '' Union Minister of State for Home Sriprakash Jaiswal told reporters in Kanpur . . . And while the party top brass refused to comment on this similarity , both states - Karnataka and Gujarat - are ruled by the BJP . Advani refrained from commenting on whether BJP-ruled states were being targeted but demanded the Centre must have stringent anti-terror laws in place . . . BJP president Rajnath Singh blamed the UPA government for its `` soft approach '' because of which terrorists had grown bolder . . . He also took the government to task for repealing POTA and for `` sleeping over the anti-terror laws like GUJCOCA ( an anti-terror law adopted by the Gujarat Assembly ) '' . . . Reacting to his statement , Congress party 's chief spokesperson Veerappa Moily said , `` It is an irresponsible statement , not befitting the occasion . It does not befit a national leader to speak in that kind of tone . '' . . Police said at least 20 persons were killed and the deaths were reported from Vadilal Sarabhai , Civil and LG hospitals . . . Union Home Minister Shivraj Patil has convened a high level meeting on Sunday morning to review the security situation across the country . . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "low intensity:57", 
+        "Union Minister of State for Home:68", 
+        "POTA:167", 
+        "Police:236", 
+        "Union Home Minister:260"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/bangalore-ahmedabad-blasts-uncannily-similar-293488.html", 
+    "date": "27-07-2008", 
+    "target": "", 
+    "hot_spot": "Ahmedabad", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "BJP", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "134", 
+            "Others"
+        ], 
+        [
+            "UPA government", 
+            "140", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "197", 
+            "Others"
+        ]
+    ]
+}

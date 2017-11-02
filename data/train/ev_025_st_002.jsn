@@ -1,0 +1,90 @@
+{
+    "LOC": [
+        [
+            "Dispur", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Ganeshguri", 
+            "43", 
+            "Source"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "105", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "6.50 pm .:51"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:33"
+    ], 
+    "death": "1", 
+    "title": "One killed in Guwahati bomb blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "One person was killed and 10 others critically injured in a bomb attack by suspected United Liberation Front of Assam cadres in a market near the Dispur capital complex in Guwahati on Wednesday . Police said the bomb , kept in the Ganeshguri wholesale vegetable market , exploded at around 6.50 pm . The injuredhave beenrushed to a nearby hospital . The market is located near the Indian Airlines office adjacent to a high-security complex where the offices of the chief minister and his cabinet colleagues as well as the state secretariat are located . The blast took place a day after Prime Minister Manmohan Singh sent a tough message to the ULFA that there would be no compromise if it resorted to violence . .", 
+    "injured": "10", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup Metropolitan", 
+        "", 
+        "Dispur capital complex"
+    ], 
+    "O": [
+        "Dispur capital complex:27", 
+        "wholesale vegetable market:44", 
+        "near the Indian Airlines office:66", 
+        "high-security complex:74", 
+        "no compromise:118"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2007/jan/17assam.htm", 
+    "date": "17-01-2007", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Assam", 
+            "16", 
+            "Accused"
+        ], 
+        [
+            "Indian Airlines", 
+            "68", 
+            "Others"
+        ], 
+        [
+            "state secretariat", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "113", 
+            "Accused"
+        ]
+    ]
+}

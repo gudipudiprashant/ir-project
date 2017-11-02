@@ -1,0 +1,197 @@
+{
+    "LOC": [
+        [
+            "Gaya", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "31", 
+            "Assoc_Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "117", 
+            "Assoc_Event"
+        ], 
+        [
+            "Jagdalpur", 
+            "119", 
+            "Assoc_Event"
+        ], 
+        [
+            "Pakur", 
+            "153", 
+            "Assoc_Event"
+        ], 
+        [
+            "Jharkhand", 
+            "164", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bihar", 
+            "225", 
+            "Assoc_Event"
+        ], 
+        [
+            "Uttarakhand", 
+            "252", 
+            "Assoc_Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "274", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "277", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "279", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "281", 
+            "Neutral"
+        ], 
+        [
+            "Himachal Pradesh", 
+            "283", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "286", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "V C Shukla", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "Mahendra Karma", 
+            "44", 
+            "Others"
+        ], 
+        [
+            "Hamid Ansari", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "Karma", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "Shukla", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "Ansari", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "Amarjit Balihar", 
+            "156", 
+            "Others"
+        ], 
+        [
+            "Ansari", 
+            "227", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "today : 6"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 7 : 55", 
+        "May 26 : 102", 
+        "July 2 : 166"
+    ], 
+    "death": "27", 
+    "title": "Rajya Sabha condemns Mahabodhi temple blast, Chhattisgarh Naxal attack", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "MAOIST COMMUNIST CENTRE (MCC)"
+    ], 
+    "content": "NEW DELHI : Rajya Sabha today condemned the serial bomb blasts at Mahabodhi temple in Gaya district of Bihar and the Maoists attack on a convoy of Congress leaders in Chhattisgarh that led former Union minister V C Shukla and senior party leader Mahendra Karma dead . . . Chairman Hamid Ansari described the July 7 terrorist attack on Mahabodhi temple as `` senseless act of violence '' and said the attack on a world heritage site and holiest seat for Buddhists was `` a cause of anguish and deep concern to all . '' . . He mentioned of the May 26 Maoist ambush on a convoy of Congress leaders in a dense forest in Chhattisgarh 's Jagdalpur district that left 27 persons dead including senior party leader Karma and Shukla . . . Ansari also made a reference to the killing of six persons including the Superintendent of Police of Pakur district , Amarjit Balihar , in a Maoists attack in Jharkhand on July 2 . . . Loss of so many innocent lives was `` indeed tragic and unfortunate '' , he said , adding such `` dastardly attacks and acts of violence must be condemned in strongest term . '' . . Mentioning of death of 23 children due to food poisoning after consuming midday meal at a school in Bihar , Ansari said the loss was `` painful and sad '' . . . The Chairman also made a reference to flash floods and landslides in Uttarakhand killing 580 persons and injuring 4,473 persons while 5,526 persons were still missing . . . Floods in several parts of Andhra Pradesh , Assam , Bihar , Maharashtra , Himachal Pradesh and Uttar Pradesh damaged infrastructure , he noted , adding , `` loss of so many precious lives in these natural disasters is unfortunate and sad . '' . . The House also congratulated recent sporting feats including Indian cricket team winning the ICC Champions Trophy .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "rajya sabha:4", 
+        "serial bomb blasts:9", 
+        "mahabodhi temple:13", 
+        "congress leaders:28", 
+        "terrorist attack:57", 
+        "mahabodhi temple:60", 
+        "senseless act of violence:64", 
+        "attack:72", 
+        "heritage site:76", 
+        "buddhists:82", 
+        "ambush:105", 
+        "dense forest:114", 
+        "attacks:192", 
+        "violence:196", 
+        "food poisoning:215", 
+        "midday meal:219", 
+        "flash floods:247", 
+        "floods:269", 
+        "natural disasters:305", 
+        "icc champions trophy:328"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2013-08-05/news/41093187_1_mahabodhi-chhattisgarh-naxal-attack-mahendra-karma", 
+    "date": "07-07-2013", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maoists", 
+            "22", 
+            "Accused"
+        ], 
+        [
+            "Maoist", 
+            "104", 
+            "Accused"
+        ], 
+        [
+            "Maoists", 
+            "161", 
+            "Accused"
+        ]
+    ]
+}

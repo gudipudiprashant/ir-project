@@ -1,0 +1,106 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Nalbari", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "172", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Jitmol Doley", 
+            "56", 
+            "Comment"
+        ], 
+        [
+            "Keshab Das", 
+            "155", 
+            "Accused"
+        ], 
+        [
+            "Dipu Das", 
+            "158", 
+            "Accused"
+        ], 
+        [
+            "Ganesh Das", 
+            "161", 
+            "Accused"
+        ], 
+        [
+            "Pavan Thakur", 
+            "169", 
+            "Accused"
+        ], 
+        [
+            "Doley", 
+            "174", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "9:30 am:50"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:17"
+    ], 
+    "death": "6", 
+    "title": "Six killed, 50 injured in twin blasts in Assam", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM"
+    ], 
+    "content": "Guwahati : Suspected ULFA militants triggered two blasts close to a police station in Nalbari on Sunday , killing at least six persons and injuring 50 others . The first bomb , planted in a bicycle , went off at a spot adjacent to the police station at around 9:30 am , Superintendent of Police Jitmol Doley said.A similar blast occurred minutes after in front of a mobile phone shop , about 20 metres away from the police station , as people were trying to flee from the area , he said.Vehicles parked in the busy and crowded area were damaged due to the impact of the blasts.The areas where the blasts took place have been cordoned off by the police , which was carrying out a combing operation in the area.Prima facie the blasts seemed to be the handiwork of ULFA , according to police sources . The deceased have been identified as Keshab Das , Dipu Das and Ganesh Das , all local residents , and Pavan Thakur from Bihar , Doley said.A high alert has been sounded across the state in view of the blasts and people have been asked to remain indoors by the district administration . -LRB- With PTI inputs -RRB- .", 
+    "injured": "50", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "", 
+        "Nalbari"
+    ], 
+    "O": [
+        "police:12", 
+        "police:46", 
+        "Superintendent of Police:53", 
+        "police station:78", 
+        "cordoned:117", 
+        "police:121"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/six-killed-50-injured-in-twin-blasts-in-assam-405326", 
+    "date": "22-11-2009", 
+    "target": "", 
+    "hot_spot": "Nalbari", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "4", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "142", 
+            "Accused"
+        ]
+    ]
+}

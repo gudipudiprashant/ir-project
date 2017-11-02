@@ -1,0 +1,272 @@
+{
+    "LOC": [
+        [
+            "Varanasi", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "49", 
+            "Accused"
+        ], 
+        [
+            "Dubai", 
+            "127", 
+            "Accused"
+        ], 
+        [
+            "Pakistan", 
+            "129", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "161", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "163", 
+            "Assoc_Event"
+        ], 
+        [
+            "Jaipur", 
+            "165", 
+            "Assoc_Event"
+        ], 
+        [
+            "Azamgarh", 
+            "183", 
+            "Neutral"
+        ], 
+        [
+            "Sanjarpur-Saraimeer-Phulpur", 
+            "210", 
+            "Source"
+        ], 
+        [
+            "Azamgarh", 
+            "214", 
+            "Accused"
+        ], 
+        [
+            "Varanasi", 
+            "221", 
+            "Neutral"
+        ], 
+        [
+            "Nepal", 
+            "243", 
+            "Victim"
+        ], 
+        [
+            "Dubai", 
+            "261", 
+            "Accused"
+        ], 
+        [
+            "Pakistan", 
+            "263", 
+            "Accused"
+        ], 
+        [
+            "Varanasi", 
+            "294", 
+            "Event"
+        ], 
+        [
+            "suburb Vashi", 
+            "298", 
+            "Source"
+        ], 
+        [
+            "Navi Mumbai", 
+            "301", 
+            "Source"
+        ], 
+        [
+            "Navi Mumbai", 
+            "351", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Riyaz", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "Iqbal", 
+            "30", 
+            "Accused"
+        ], 
+        [
+            "Dr Shahnawaz", 
+            "68", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Saif", 
+            "77", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Atiq Amin", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "Saif", 
+            "115", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Dr Shahnawaz", 
+            "120", 
+            "Accused"
+        ], 
+        [
+            "Shahnawz", 
+            "140", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Dr Shahnawaz", 
+            "225", 
+            "Accused"
+        ], 
+        [
+            "Khalid", 
+            "230", 
+            "Accused"
+        ], 
+        [
+            "Abu Rashid", 
+            "232", 
+            "Accused"
+        ], 
+        [
+            "Bada Sajid", 
+            "235", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Sajid", 
+            "238", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday : 24", 
+        "September 19 : 88", 
+        "2008 : 91"
+    ], 
+    "death": "1", 
+    "title": "Varanasi blast: Dr Shahnawaz, Bhatkal brothers emerge as main suspects after mail traced to Vashi", 
+    "org_unorg": "", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "A day after the blast in Varanasi 's Sheetla ghat killed a toddler and injured 37 others , the Mumbai Police said on Wednesday that Bhatkal brothers Riyaz and Iqbal the chiefs of the Indian Mujahideen had masterminded the explosion . . . The Bhatkal brothers are in Pakistan . . . Preliminary investigations have shown the actual muscle to carry on the blasts was provided by Dr Shahnawaz , the brother of IM foot soldier Mohammed Saif who was arrested in the Batla House encounter in September 19 , 2008 . . . In that encounter , a week after the Delhi blasts , the then IM commander Atiq Amin was killed and Saif arrested . . . Dr Shahnawaz , who is both in Dubai and Pakistan now , took charge thereafter . A Pakistan-trained mujahideen , Shahnawz is in regular touch with the Bhatkal brothers , sources said . . . He is also involved in the Delhi , Ahmedabad and Jaipur blasts . . . It was widely expected that the IM terror modules that operated out of Azamgarh had been wiped out after the Batla encounter . But that is not so . . . Preliminary investigations point at IM members based in the Sanjarpur-Saraimeer-Phulpur area of the Azamgarh district , just 100 kilometres from Varanasi . . . Dr Shahnawaz along with aides Khalid , Abu Rashid and Bada Sajid or Mohammed Sajid had fled to Nepal after the Batla House encounter . This former physician in Lucknow Hospital is purportedly now in both Dubai and Pakistan . All four now hold Nepalese passports . . Meanwhile , the email in which the banned terrorist group , Indian Mujahideen , claimed responsibility for the bomb blast in Varanasi originated from the suburb Vashi in Navi Mumbai . . . The email which was shot to several media houses minutes after the blast was sent through an unsecured WiFi connection of the Airtel broadband , official sources have said . . . The Indian Mujahideen module had hacked into a broadband Internet connection of a Navi Mumbai resident . . . ... contd .", 
+    "injured": "37", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Sheetla ghat:9", 
+        "killed:11", 
+        "toddler:13", 
+        "injured 37:15", 
+        "Bhatkal brothers:26", 
+        "chiefs:32", 
+        "masterminded:38", 
+        "explosion:40", 
+        "Preliminary investigations:53", 
+        "foot soldier:75", 
+        "Batla House encounter:84", 
+        "Delhi blasts:103", 
+        "commander:109", 
+        "Pakistan-trained mujahideen:137", 
+        "regular touch:143", 
+        "blasts:166", 
+        "IM terror:176", 
+        "wiped out:186", 
+        "Batla encounter:190", 
+        "100 kilometres:218", 
+        "fled:241", 
+        "physician:252", 
+        "four:266", 
+        "Nepalese passports:269", 
+        "email:276", 
+        "claimed responsibility:287", 
+        "bomb blast:291", 
+        "unsecured WiFi connection:323", 
+        "Airtel broadband:328", 
+        "hacked:343", 
+        "broadband Internet connection:346"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/varanasi-blast-terror-mail-traced-to-vashi;-dr-shahnawaz-main-suspect/721924/", 
+    "date": "07-12-2010", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Mumbai Police", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "35", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "74", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "108", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "205", 
+            "Accused"
+        ], 
+        [
+            "Lucknow Hospital", 
+            "254", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "284", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "339", 
+            "Accused", 
+            "Others"
+        ]
+    ]
+}

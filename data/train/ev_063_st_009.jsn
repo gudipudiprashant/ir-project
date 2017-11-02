@@ -1,0 +1,119 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "Jama Masjid", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "Walled City", 
+            "88", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "225", 
+            "Event"
+        ], 
+        [
+            "Varanasi ,", 
+            "225", 
+            "Event"
+        ], 
+        [
+            "Walled City", 
+            "413", 
+            "Event"
+        ], 
+        [
+            "north-east Delhi", 
+            "417", 
+            "Neutral"
+        ], 
+        [
+            "south Delhi", 
+            "421", 
+            "Neutral"
+        ], 
+        [
+            "Walled City", 
+            "433", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "442", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Karim Tunda", 
+            "255", 
+            "Accused"
+        ], 
+        [
+            "Tunda", 
+            "279", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:43", 
+        "Saturday:61", 
+        "Friday:92", 
+        "Saturday:360", 
+        "Sunday:445"
+    ], 
+    "death": "", 
+    "title": "Role of Lashkar militants in Delhi blasts not ruled out", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "Staff Reporter . . No breakthrough yet ; local elements ' hand also being probed by the Special Cell of the Delhi police . . In many such cases , the motive is to create communal disturbance : police15 persons interrogated on Saturday In many such cases , the motive is to create communal disturbance : police15 persons interrogated on Saturday . . NEW DELHI : Though the Special Cell has been working round-the-clock on the twin blasts that took place at the Jama Masjid in the Walled City area on Friday , it has not achieved any major breakthrough . . . It is learnt that apart from the involvement of an extremist group , the angle of mischief by some local criminal elements is also being probed by the Special Cell . . . The use of a crude bomb , apparently assembled using materials easily available , indicates that someone who had no access to lethal explosives was behind the low-intensity blasts . . . Also , the culprits knew the bombs placed near the tank at the centre of the mosque would not cause much damage as it was an open area . ` In many such cases , it has been found that the motive is to create communal disturbance . As was seen in the recent blasts in Varanasi , ' said a senior police officer . . . Probe continues . . The police are also trying to find out if someone trained by Pakistan-based Lashkar-e-Taiba militant Abdul Karim Tunda was involved in manufacturing the improvised explosive devices . ` As we are probing all possible angles , the role of Tunda 's men , some of who are still at large , can not be ruled out , ' said the police officer . . . Experts are trying to find out the unique features of the bombs used . . . ` In several cases , the type of bomb used provides valuable clues regarding the outfit behind the incident . Cadre-based organisations carry out all their attacks in a similar fashion , ' he added . . . On Saturday , the Special Cell interrogated about 15 people . Though a majority of them have been let off , some are still being grilled . Two of the 14 injured are still in hospital . . . Meanwhile , tenant verification drives in the capital have been intensified and guesthouses in the Walled City area , north-east Delhi and in south Delhi are being checked . But normality has returned to the Walled City area with many foreigners visiting the historic Jama Masjid on Sunday . . . Sketches likely . . UNI adds : The police are contemplating drawing sketches of suspects based on eye-witness accounts and the questioning of those ` detained ' . . . Though senior officials refused to say anything , sources said getting the sketches drawn could enlarge the ` search ' ambit and lead to possible clues .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "OLD DELHI", 
+        "DELHI", 
+        "near the tank at the centre of the mosque"
+    ], 
+    "O": [
+        "14 injured:389", 
+        "police:457"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/role-of-lashkar-militants-in-delhi-blasts-not-ruled-out/article3148625.ece", 
+    "date": "14-04-2006", 
+    "target": "", 
+    "hot_spot": "near the tank at the centre of the mosque", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "Delhi police", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "253", 
+            "Accused"
+        ]
+    ]
+}

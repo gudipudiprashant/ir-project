@@ -1,0 +1,134 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Ayodhya", 
+            "40", 
+            "Event"
+        ], 
+        [
+            "Kashmir", 
+            "53", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "57", 
+            "Assoc_Event"
+        ], 
+        [
+            "Kashmir", 
+            "78", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "82", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai --", 
+            "131", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "131", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan-based", 
+            "135", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "145", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "B Raman", 
+            "74", 
+            "Comment"
+        ], 
+        [
+            "Raman", 
+            "95", 
+            "Comment"
+        ], 
+        [
+            "Dawood Ibrahim", 
+            "118", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:11", 
+        "March:125", 
+        "1993:128", 
+        "1993:155"
+    ], 
+    "death": "", 
+    "title": "Blasts aimed at disrupting communal harmony: Intelligence Bureau", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA", 
+        "AL-QAEDA"
+    ], 
+    "content": "Intelligence Bureau sources say the massive attack on Mumbai on Tuesday -- seven serial blasts on local trains when traffic was at its peak -- was to disturb communal harmony , just like last year 's attack at the Ayodhya shrine was . . . One top source said the blasts in Kashmir and those in Mumbai certainly seem corelated , though all possible angles were being probed . . . Terrorism expert B Raman said the Kashmir blasts and the Mumbai blasts seem orchestrated by the same command and control . . . Raman believes there is a strong possibility of Al Qaeda being behind the blasts and they could have been executed by fugitive gangster Dawood Ibrahim -- who was behind the March 12 , 1993 blasts in Mumbai -- or the Pakistan-based terrorist group Lashkar-e - Tayiba . . . A Mumbai special court is likely to deliver judgment on the 1993 blasts soon . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "communal harmony:29", 
+        "harmony:30", 
+        "shrine:41", 
+        "probed:68", 
+        "Terrorism:72", 
+        "orchestrated:85", 
+        "fugitive:116"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/11sheela.htm", 
+    "date": "11-07-2006", 
+    "target": "RAILWAY STATION", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Intelligence Bureau", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Al Qaeda", 
+            "103", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e - Tayiba", 
+            "138", 
+            "Accused"
+        ]
+    ]
+}

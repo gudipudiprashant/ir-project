@@ -1,0 +1,92 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "10", 
+            "Neutral"
+        ], 
+        [
+            "Karol Baghs Liberty hall", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "Patel Nagars Satyam", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "ground floor toilet", 
+            "91", 
+            "Event"
+        ], 
+        [
+            "Punjab", 
+            "161", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "R.C. Sharma", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "Jagir Kaur", 
+            "176", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 30"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 22:4", 
+        "Sunday:45"
+    ], 
+    "death": "1", 
+    "title": "Twin Delhi blasts target movie", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi , May 22 : Blasts rocked two Delhi theatres , both screening a film that has angered Sikh religious bodies , within minutes of each other this evening , killing one and injuring at least 40 people . . . The large Sunday audience was watching Jo Bole So Nihaal at Karol Baghs Liberty hall when a bomb kept under a seat ripped off the first 15 to 20 seats , injuring over 30 people . . . The explosion at Patel Nagars Satyam cinema occurred in the ground floor toilet . Chief fire officer R.C. Sharma would not confirm a bomb blast . . . Some people said there was an explosion in the air-conditioning and we are looking into it , he said . . . All other theatres in the city were evacuated within minutes . No group has claimed responsibility for the blasts . . . The film was withdrawn from all cinemas across Punjab last week following a protest by the Shiromani Gurdwara Prabandhak Committee . . . Jagir Kaur , the president of the committee , condemned the blasts , saying the Sikhs were not against the film but some objectionable scenes .", 
+    "injured": "40", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        "Delhi theatres"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1050523/asp/frontpage/story_4774453.asp", 
+    "date": "22-05-2005", 
+    "target": "CINEMA HALL", 
+    "hot_spot": "Delhi theatres", 
+    "delivery_mod": "CINEMA HALL SEAT", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Shiromani Gurdwara Prabandhak Committee", 
+            "169", 
+            "Others"
+        ]
+    ]
+}

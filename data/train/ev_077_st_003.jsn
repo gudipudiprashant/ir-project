@@ -1,0 +1,218 @@
+{
+    "LOC": [
+        [
+            "Varacha", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "Surat", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "Labeshwar", 
+            "161", 
+            "Event"
+        ], 
+        [
+            "Santoshinagar", 
+            "163", 
+            "Event"
+        ], 
+        [
+            "Matavadi", 
+            "165", 
+            "Event"
+        ], 
+        [
+            "Matavadi", 
+            "189", 
+            "Assoc_Event"
+        ], 
+        [
+            "Labeshwar", 
+            "201", 
+            "Event"
+        ], 
+        [
+            "Limbi", 
+            "241", 
+            "Accused"
+        ], 
+        [
+            "Surendranagar", 
+            "246", 
+            "Accused"
+        ], 
+        [
+            "Ahmedabad", 
+            "252", 
+            "Event"
+        ], 
+        [
+            "Surendranagar", 
+            "372", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "503", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "R M S Brar", 
+            "138", 
+            "Comment"
+        ], 
+        [
+            "Abdul Qadir", 
+            "229", 
+            "Accused"
+        ], 
+        [
+            "Hasil Mohammad", 
+            "232", 
+            "Accused"
+        ], 
+        [
+            "Hussain Ibrahim", 
+            "235", 
+            "Accused"
+        ], 
+        [
+            "Abdul Halim", 
+            "294", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Halim", 
+            "310", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Qadir", 
+            "329", 
+            "Accused"
+        ], 
+        [
+            "Hasil Mohammad", 
+            "331", 
+            "Accused"
+        ], 
+        [
+            "Ibrahim", 
+            "334", 
+            "Accused"
+        ], 
+        [
+            "Jaynarayan Vyas", 
+            "469", 
+            "Comment"
+        ], 
+        [
+            "Rakesh Maria", 
+            "551", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:316"
+    ], 
+    "death": "49", 
+    "title": "18 bombs defused in Surat, 3 detained", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Surat", 
+        "", 
+        "Varacha"
+    ], 
+    "terror_group": [
+        "STUDENTS ISLAMIC MOVEMENT OF INDIA", 
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": ". . The diamond city of Surat came under the terror radar with 18 bombs being recovered from residential areas even as the Gujarat police detained three men for questioning in connection with the serial blasts . All bombs had been defused . . . All the bombs were recovered from different parts of Varacha area , housing most of Surat 's diamond processing units , in a span of four hours , putting severe pressure on the city 's bomb disposal squad . . . Panic gripped the city as the explosive devices were found from residential localities and the diamond workshop areas which the terrorists apparently wanted to target . They were all defused by the bomb disposal squad . . . 'Till now , nine bombs have been found , ' Surat Police Commissioner R M S Brar said . . . Police said three bombs were deactivated in the Mini Diamond Market area , three in Labeshwar , Santoshinagar and Matavadi localities and three under the Varacha-Kapodra flyover . The contents of the neutralised explosive devices have been sent for forensic analysis . In Matavadi , a bomb was found handing from a tree while in Labeshwar it was left in an abandoned bag . . . In both these cases , the devices were planted near police outposts . The three suspected - Abdul Qadir , Hasil Mohammad and Hussain Ibrahim -- were detained near Limbi on Rajkot-Ahmedabad highway in Surendranagar district while they were leaving Ahmedabad soon after the blasts that took 49 lives and left over 145 injured . . . Their possible links with outlawed SIMI and ` Indian Mujahideen ' are being investigated , police said . Police said they were questioning SIMI activist Abdul Halim but declined to give any details on what he has revealed so far . Halim , who was arrested on Sunday , was remanded in police custody by a court . . . Qadir , Hasil Mohammad and Ibrahim have been handed over to the Crime Branch of Ahmedabad police , which is probing the blast cases . . . . . ` They were detained as they contradicted each other in their initial questioning by Surendranagar police . The city crime branch is exploring if they have any links with SIMI and Indian Mujahideen , ' a police officer said . He said the trio were allegedly found carrying British currency and a large quantity of cash which was hidden under their vehicle 's seat . . . . . The Ahmedabad police claimed that they got ` some leads ' in the serial blasts cases and were working on them . . . Maintaining that the probe was moving in the ` right direction ' , Health Minister and government spokesperson Jaynarayan Vyas said , ` We are not going to reveal name -LRB- of any terror group -RRB- at present as it will be affect the probe ' . . . . . In Mumbai , the police detained for questioning three Kashmiri youths who were staying in a lodge in a southern locality in the city . The antecedents of the youth , who had come looking for jobs , are being verified , Joint Commissioner of Police -LRB- Crime -RRB- Rakesh Maria said . . . . . . . . . .", 
+    "injured": "145", 
+    "org_unorg": "", 
+    "O": [
+        "diamond city:4", 
+        "surat came under the terror radar:7", 
+        "18 bombs being recovered:14", 
+        "detained three men:26", 
+        "serial blasts:35", 
+        "bombs had been defused:39", 
+        "bomb disposal squad:81", 
+        "bomb was found handing from a tree:192", 
+        "devices were planted near police outposts:218", 
+        "rajkot-ahmedabad highway:243", 
+        "crime branch of ahmedabad police:341", 
+        "british currency:406", 
+        "not going to reveal name:476", 
+        "questioning three kashmiri youths:509"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2008/jul/29ahd.htm", 
+    "date": "29-07-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Gujarat police", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "Surat Police", 
+            "135", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "274", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "277", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "292", 
+            "Accused"
+        ], 
+        [
+            "Ahmedabad police", 
+            "344", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "387", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "389", 
+            "Accused"
+        ], 
+        [
+            "Ahmedabad police", 
+            "428", 
+            "Others"
+        ]
+    ]
+}

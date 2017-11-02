@@ -1,0 +1,53 @@
+{
+    "LOC": [
+        [
+            "Lucknow", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Faizabad", 
+            "14", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:22"
+    ], 
+    "death": "", 
+    "title": "Ammonium nitrate used in UP serial blasts", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Faizabad", 
+        "", 
+        "Lucknow and Faizabad"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Ammonium nitrate was used to make the bombs used in the Lucknow and Faizabad blasts , said Home ministry sources on Friday . The bombs were triggered off by timer devices . . . . . Details are awaited . .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "bombs used in the Lucknow and Faizabad blasts:8", 
+        "triggered off by timer:27"
+    ], 
+    "unexpl": [
+        "MECHANICAL TIMERS"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2007/nov/23court7.htm", 
+    "date": "23-11-2007", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": []
+}

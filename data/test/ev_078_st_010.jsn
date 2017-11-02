@@ -1,0 +1,83 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "30", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Subhan", 
+            "23", 
+            "Accused"
+        ], 
+        [
+            "jehadi", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "Qayamuddin", 
+            "32", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday : 11"
+    ], 
+    "death": "", 
+    "title": "Mumbai techie wanted to prove bomb-making credentials", 
+    "org_unorg": "", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN", 
+        "STUDENTS ISLAMIC MOVEMENT OF INDIA"
+    ], 
+    "content": "NEW DELHI : Preliminary investigations into the Delhi blasts on Saturday point to the hand of an Indian Mujahideen-SIMI cell led by Abdul Subhan , the techie jehadi from Mumbai and Qayamuddin . -LRB- Watch -RRB- The modus operandi emails from Indian Mujahideen warning of or coinciding with blasts , use of ammonium nitrate and ball bearings pellets and other sharpnels in explosives , use of crowded markets so that higher casualties can be achieved even by low-intensity blasts carries the signature of IM-SIMI . -LRB- Watch -RRB- Besides , the email from Indian Mujahideen , like the two previous ones , was sent from Mumbai , Subhan 's base using an unsecured wi-fi connection of Ms Kamran Power Private Limited in Chembur , owned by one Mr Kamat . Although the mail came from Mumbai , references to newspaper coverage in Delhi editions in the past few weeks , suggests that the draftsman may have been in Delhi.The police has been able to recover the chasis number of the autorickshaw that was used for the blast in Ghaffar Market in Karol Bagh . Accroding to latest reports , eight people have been detained and are being questioned . ` We have some good clues , ' said a police spokesman.Although Gujarat chief minister Narendra Modi stated in Bangalore that he had earlier this month told Prime Minister Manmohan Singh and National Security Advisor that there were plans to strike the Capital , intelligence sources were taken aback by the Indian Mujahideen 's choice of Delhi . They were suspecting Subhan and Qayamuddin , computer-graphic designer from Vadodara to strike in either Maharashtra or MP.The probe is going to focus on the likely contacts of Subhan , Qayamuddin , and other absconding IM-SIMI activists Abdul Bashar , Razeek , Afridi -LRB- all from Gujarat -RRB- , Ikram , Inam and Musa -LRB- all from Madhya Pradesh -RRB- . Abdul Subhan who has evaded arrest after narrowly escaping a raid by Gujarat Police in Surat on SIMI hideout , has made no secret of his anger over the Ahmedabad crackdown . In the last email that he wrote , intelligence sources suggest , for Indian Mujahideen using the nom de guerre of Al arbi , Abdul Subhan tried to mislead the investigators by calling all the arrested innocent and Kenneth Haywood , the US national whose wi-fi he is suspected to have used to send the email warning of Ahmedabad blasts , an ally.The return of Haywood has exposed the ploy -LRB- significantly , the email on Saturday was conspicuously silent on this -RRB- . But Abdul Subhan who is regarded as an ace bomb maker also came off as someone smarting under the humiliation of the botched attack on Surat none of the bombs planted in the diamond city went off because of faulty integrated circuits used in the timers . His last mail had shown his anxiety to prove his credentials .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Delhi blasts:8", 
+        "ammonium nitrate:53", 
+        "ball bearings pellets:56", 
+        "sharpnels in explosives:61"
+    ], 
+    "unexpl": [
+        "BALL BEARING"
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/India/Mumbai_techie_chief_suspect_Agencies/rssarticleshow/3480636.cms", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen-SIMI", 
+            "18", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "42", 
+            "Accused"
+        ]
+    ]
+}

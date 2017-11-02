@@ -1,0 +1,250 @@
+{
+    "LOC": [
+        [
+            "HYDERABAD", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "40", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "113", 
+            "Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "371", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "384", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "388", 
+            "Event"
+        ], 
+        [
+            "Kashmir", 
+            "447", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "645", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Marri Ramu", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Y. S. Rajasekhara Reddy", 
+            "375", 
+            "Others"
+        ], 
+        [
+            "K. Jana Reddy", 
+            "481", 
+            "Others"
+        ], 
+        [
+            "Mohd . Ali Shabbir", 
+            "486", 
+            "Others"
+        ], 
+        [
+            "Mukesh Goud", 
+            "491", 
+            "Others"
+        ], 
+        [
+            "M.A. Basith", 
+            "511", 
+            "Others"
+        ], 
+        [
+            "Mohd . Ismail", 
+            "565", 
+            "Others"
+        ], 
+        [
+            "Ismail", 
+            "579", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 85", 
+        "1.15 p.m.:116", 
+        "1.15:116", 
+        "1.15 p.m.:544", 
+        "p.m.:545", 
+        "minutes : 548", 
+        "day : 643"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 7", 
+        "Friday : 45", 
+        "Friday : 93"
+    ], 
+    "death": "10", 
+    "title": "10 killed, 50 injured in Hyderabad mosque blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        "LASHKAR-E-QAHAB"
+    ], 
+    "content": "Marri Ramu . . Outrage during Friday prayers ; four die in police firing . . HYDERABAD : A wave of terror shook the State capital , when a powerful blast ripped through a heavy congregation at the historic Mecca Masjid near Charminar on Friday killing 10 people and leaving over 50 injured . . . Four others were killed in police firing as mobs clashed with the police . Sporadic incidents of arson and attacks continued in many areas till late in the night . . . It was just another Friday and people as well as the police were relaxed . Over 10,000 people were offering prayers at the 400-year-old Mecca Masjid at 1.15 p.m. when the bomb went off . . . The device , in which RDX was used , was triggered with a cellular phone and the blast sent shockwaves throughout the city . Providentially , two more Improvised Explosive Devices -LRB- IEDs -RRB- were found and defused by the police . Had these been detonated , destruction would have been colossal , as they were strategically placed near a spot where ablutions are performed . The police are pinning their hopes on the SIM card recovered from a mobile phone attached to an IED . . . The bomb went off underneath a thick marble platform -LRB- taqt -RRB- and the 400-year-old stone sheet took the full impact of the blast . It took some moments for those offering prayers to realise that the deafening noise they heard was a bomb blast . . . Soon ambulances began sorties ferrying the injured and the dead to hospitals . As angry youth rushed out of the mosque , sporadic violence erupted and mobs began pelting stones and damaging property . . . The police in riot gear were engaged in pitched battles in the labyrinthine lanes and bylanes of the old city . The police fired shots in the air , lobbed teargas shells to disperse the crowds . Within the mosque , a crowd initially prevented the police from entering . Police then used water cannon to pave the way for the bomb disposal squad , which defused the other bombs . . . Andhra Pradesh Chief Minister Y. S. Rajasekhara Reddy cut short his trip in Delhi and rushed to Hyderabad . As news of the blast spread , tension mounted all over the city and business establishments downed the shutters . With mobs targeting the city buses , the authorities suspended all services in the south of the city . . . The method of detonating the IED using a mobile phone is similar to many blasts in Kashmir engineered by the Lashkar and the Jaish-e-Mohammed , police sources said . . . Two MIM legislators and the City Congress president who rushed to the mosque were roughed up . Home Minister K. Jana Reddy and Ministers Mohd . Ali Shabbir and Mukesh Goud were gheraoed and not allowed into the mosque for quite some time . . . State police chief M.A. Basith , who visited the mosque , described the marble platform as a God-sent ` barrier ' as it saved many lives . . . ` There was this deafening sound at 1.15 p.m. and within minutes trouble erupted . A shop and a petrol bunk were targeted by rampaging mobs , ' Mohd . Ismail , who was in front of the mosque , recalled . Ismail said he ran towards the Charminar police station , hardly a stone 's throw away . . . As heavy contingents of para-miliatary and city police moved in , the priority was to ensure that the Dhana Laxmi temple abutting Charminar was not vandalised . Fortunately , the anger against the blast did not take a communal turn and that probably saved the day for Hyderabad .", 
+    "injured": "50", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "O": [
+        "police firing:13", 
+        "terror shook:22", 
+        "powerful blast:30", 
+        "ripped:32", 
+        "heavy congregation:35", 
+        "Charminar:43", 
+        "injured:53", 
+        "killed:60", 
+        "firing:63", 
+        "mobs:65", 
+        "clashed:66", 
+        "Sporadic incidents:71", 
+        "arson:74", 
+        "attacks:76", 
+        "relaxed:102", 
+        "10,000 people:105", 
+        "prayers:109", 
+        "400-year-old:112", 
+        "bomb:120", 
+        "RDX:131", 
+        "triggered:136", 
+        "cellular phone:139", 
+        "blast:143", 
+        "shockwaves:145", 
+        "city:148", 
+        "Improvised Explosive Devices:154", 
+        "IEDs:158", 
+        "defused:163", 
+        "detonated:171", 
+        "colossal:177", 
+        "strategically:182", 
+        "ablutions:188", 
+        "pinning:195", 
+        "SIM card:200", 
+        "mobile phone:205", 
+        "IED:210", 
+        "bomb:215", 
+        "thick marble platform:220", 
+        "400-year-old stone sheet:228", 
+        "full impact:233", 
+        "blast:237", 
+        "moments:242", 
+        "offering prayers:245", 
+        "realise:248", 
+        "deafening noise:251", 
+        "bomb blast:257", 
+        "ambulances:263", 
+        "sorties:265", 
+        "injured:268", 
+        "dead to hospitals:271", 
+        "angry youth:276", 
+        "mosque:282", 
+        "sporadic violence:284", 
+        "erupted:286", 
+        "mobs:288", 
+        "pelting stones:290", 
+        "damaging property:293", 
+        "riot:301", 
+        "pitched battles:306", 
+        "labyrinthine lanes:310", 
+        "fired shots:321", 
+        "teargas:328", 
+        "disperse:331", 
+        "crowds:333", 
+        "mosque:337", 
+        "prevented:342", 
+        "water cannon:351", 
+        "defused:364", 
+        "bombs:367", 
+        "trip:382", 
+        "blast spread:394", 
+        "tension mounted:397", 
+        "city:402", 
+        "business:404", 
+        "shutters:408", 
+        "mobs:411", 
+        "city buses:414", 
+        "authorities suspended:418", 
+        "IED:436", 
+        "mobile phone:439", 
+        "blasts:445", 
+        "mosque:474", 
+        "mosque:500", 
+        "mosque:517", 
+        "marble platform:521", 
+        "barrier:527", 
+        "deafening sound:541", 
+        "erupted:550", 
+        "shop:553", 
+        "petrol bunk:556", 
+        "targeted:559", 
+        "rampaging mobs:561", 
+        "mosque:575", 
+        "stone 's throw:591", 
+        "contingents:600", 
+        "para-miliatary:602", 
+        "city police:604", 
+        "Dhana Laxmi temple:616", 
+        "Charminar:620", 
+        "vandalised:623", 
+        "blast:631", 
+        "communal turn:636"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/10-killed-50-injured-in-hyderabad-mosque-blast/article1844318.ece", 
+    "date": "18-05-2007", 
+    "target": "MOSQUE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Lashkar", 
+            "451", 
+            "Others"
+        ], 
+        [
+            "Jaish-e-Mohammed", 
+            "454", 
+            "Others"
+        ], 
+        [
+            "MIM", 
+            "463", 
+            "Others"
+        ]
+    ]
+}

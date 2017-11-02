@@ -1,0 +1,144 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Baburbagh", 
+            "300", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "330", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dilip Adak", 
+            "72", 
+            "Comment"
+        ], 
+        [
+            "Abdul Hakim", 
+            "112", 
+            "Accused"
+        ], 
+        [
+            "Hashem Molla", 
+            "130", 
+            "Accused"
+        ], 
+        [
+            "Gulsana Bibi", 
+            "146", 
+            "Accused"
+        ], 
+        [
+            "Alima Bibi", 
+            "149", 
+            "Accused"
+        ], 
+        [
+            "Rajnath Singh", 
+            "230", 
+            "Comment"
+        ], 
+        [
+            "Kauser", 
+            "271", 
+            "Accused"
+        ], 
+        [
+            "Mukul Roy", 
+            "324", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2008:36", 
+        "Wednesday:50", 
+        "Tuesday:129", 
+        "Monday:139", 
+        "October 2:163", 
+        "Sunday:168", 
+        "Thursday:356"
+    ], 
+    "death": "", 
+    "title": "Blast accused slapped with cases under UAPA Act", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "", 
+        "Bardhaman"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Six days after the blast in West Bengals Bardhaman district , the four accused arrested in the case have been charged under sections of the Unlawful Activities Prevention Act -LRB- UAPA -RRB- , Amended , 2008 , officials of the Criminal Investigation Department -LRB- CID -RRB- said here on Wednesday . . . We have charged all the four accused including two women under several sections of the UAPA Act , Dilip Adak , Deputy Inspector General of CID , told The Hindu . . . The accused have also been charged under IPC sections 121A , 122 and 123 relating to waging war against the State . . . While Abdul Hakim , an accused present at the site when the blast occurred , was arrested on Tuesday Hashem Molla , another accused , was arrested on Monday . . . Two women -- Gulsana Bibi and Alima Bibi -- who were present in the building after the blast occurred on October 2 were arrested on Sunday . . . Earlier , the women were charged under several sections of the Indian Penal Code . During the day , the two were brought to the CID headquarters in the city for interrogation . The other accused were brought to the city earlier . . . Meanwhile , the Union Home Ministry has given a report to Home Minister Rajnath Singh about the blast . . . Other houses searched . . Meanwhile , the police conducted searches at two houses which are in the vicinity of the house where the blast took place . . . The police suspect Kauser , one of the accused who is at large and whose sketch police have released , used the houses . . . At one of the houses at Baburbagh , the police seized firearms and bullets along with other documents . . . The All India Trinamool Congress led by general secretary Mukul Roy held a rally in Burdwan town alleging that the BJP is spreading canards against the State government . . . The BJP State unit will take out a rally on Thursday .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Unlawful Activities Prevention:26", 
+        "IPC sections 121A , 122 and 123:94", 
+        "Indian Penal Code:183", 
+        "Home Minister:228", 
+        "police:246"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/blast-accused-slapped-with-cases-under-uapa-act/article6483252.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Criminal Investigation Department", 
+            "41", 
+            "Others"
+        ], 
+        [
+            "CID", 
+            "45", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "82", 
+            "Others"
+        ], 
+        [
+            "All India Trinamool Congress", 
+            "316", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "335", 
+            "Others"
+        ], 
+        [
+            "State government", 
+            "341", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "347", 
+            "Others"
+        ]
+    ]
+}

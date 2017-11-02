@@ -1,0 +1,93 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Kamrup", 
+            "62", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "223", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manik Chandra Sarma", 
+            "93", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "evening : 226"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "1", 
+    "title": "Security beefed up in Assam after blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Guwahati : Security has been tightened across Assam in the wake of bomb blast by suspected militants in Dibrugarh district , in which a teenage girl was killed and nine persons injured . . . All district authorities have been directed to step up security and intensify patrolling to prevent further outbreak of violence , official sources said . . . Kamrup district administration has imposed prohibitory orders across the district to prevent unlawful and disruptive activities by any insurgent outfits . . . The order , issued by Additional District Magistrate Manik Chandra Sarma , prohibits gathering of more than five persons and carrying of arms and ammunition in public places . . . The authorities have also prohibited taking out of processions , slogan shouting and use of loudspeakers in public places . . . Entry within an area of 100 metres of vital installations like refineries , oil pipelines , state electricity board offices , BSNL offices and LPG bottling plants was also prohibited . . . The order also prohibits pillion riding on two-wheelers , though patients on way to hospitals , security forces , people above the age of 65 years and children below 12 years have been exempted from the purview of the bandh . . . The crude bomb was exploded by suspected militants in Dibrugarh town last evening , killing a teenage girl and injuring nine persons , including a woman .", 
+    "injured": "9", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dibrugarh", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "bomb blast:13", 
+        "militants:17", 
+        "killed:28", 
+        "injured:32", 
+        "intensify patrolling:47", 
+        "violence:54", 
+        "insurgent outfits:80", 
+        "arms and ammunition:107", 
+        "slogan:126", 
+        "refineries:149", 
+        "oil pipelines:151", 
+        "lpg:162", 
+        "bandh:210", 
+        "crude bomb:215", 
+        "militants:221"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/assam/security-beefed-up-in-assam-after-blast_897765.html", 
+    "date": "18-12-2013", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "state electricity board", 
+            "154", 
+            "Others"
+        ], 
+        [
+            "BSNL", 
+            "159", 
+            "Others"
+        ]
+    ]
+}

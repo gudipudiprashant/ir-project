@@ -1,0 +1,131 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Bohori", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "58", 
+            "Neutral"
+        ], 
+        [
+            "Barpeta", 
+            "60", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "89", 
+            "Neutral"
+        ], 
+        [
+            "Bongaigaon", 
+            "103", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "291", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "5.45 pm:64", 
+        "11.30 am : 92"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:21", 
+        "Sunday:67", 
+        "Sunday:95", 
+        "January 5:154"
+    ], 
+    "death": "1", 
+    "title": "Assam: 1 killed, 17 injured in two blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "One person was killed and 17 others injured in two separate incidents of bomb blasts that rocked western Assam on Sunday . . . Police have said that one person died on the spot and 12 others were injured when a bomb planted by suspected ULFA militans went off in the fish market at Bohori in western Assam 's Barpeta district at around 5.45 pm on Sunday . . . In another incident five persons were injured in a powerful blast that rocked Bongaigaon railway station in western Assam at around 11.30 am on Sunday . . . A police official in Bongaigaon said that suspected United Liberation Front of Asom militants planted the bomb in a motorcycle in the parking area outside the railway station . All the injured persons were daily-wage workers . . . The blast is the latest in the series of attacks engineered by the banned ULFA since January 5 . . . The explosions and shootouts have so far claimed 78 lives , including those of about 60 Hindi-speaking persons in the state , sending the police and the Army engaged in counter-insurgency operations into a tizzy . . . A commander of the banned militant group called up local newspapers stating that it would train its guns on government officials if the government do not stop the latest Army crackdown on the outfit . . . The outfit had earlier threatened to kill members of ruling Congress party in the state . . . The militant group has been triggering blasts in different parts of the state almost regularly though the police and the Army have intensified operations against it . . . The group triggered two blasts in the high-security capital of Guwahati last week , killing four persons and injuring many . .", 
+    "injured": "17", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "militans:47", 
+        "powerful:80", 
+        "railway station:85", 
+        "militants:112", 
+        "railway station:125", 
+        "Hindi-speaking:175", 
+        "army:186", 
+        "counter-insurgency operations:189", 
+        "commander:198", 
+        "guns:214", 
+        "outfit:230", 
+        "outfit .:230", 
+        "threatened:238", 
+        "state:248", 
+        "militant:253", 
+        "Army:272", 
+        "have:273", 
+        "operations:275"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2007/jan/21assam.htm", 
+    "date": "21-01-2007", 
+    "target": "RAILWAY STATION", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "STORED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Assam on Sunday", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Asom militants", 
+            "107", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "152", 
+            "Accused"
+        ], 
+        [
+            "Congress", 
+            "244", 
+            "Others"
+        ]
+    ]
+}

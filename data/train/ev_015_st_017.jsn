@@ -1,0 +1,124 @@
+{
+    "LOC": [
+        [
+            "Dimapur", 
+            "226", 
+            "Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "North-East", 
+            "9", 
+            "Neutral"
+        ], 
+        [
+            "HYDERABAD", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Ramanthapur", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "60", 
+            "Event"
+        ], 
+        [
+            "Nagaland", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "Israel", 
+            "124", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "221", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "223", 
+            "Event"
+        ], 
+        [
+            "Nagaland", 
+            "228", 
+            "Event"
+        ], 
+        [
+            "North-East", 
+            "283", 
+            "Neutral"
+        ], 
+        [
+            "UK", 
+            "327", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Chandranath Bhattacharyya", 
+            "128", 
+            "Others"
+        ], 
+        [
+            "Bhattacharyya", 
+            "129", 
+            "Others"
+        ], 
+        [
+            "Bhattacharyya", 
+            "213", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "Guwahati", 
+    "DAT": [
+        "OCT. 18 : 21", 
+        "November 24:318"
+    ], 
+    "death": "", 
+    "title": "Forensic lab to compile data of North-East blasts", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        "Guwahati"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Andhra Pradesh Forensic lab to compile data of North-East blasts . . By Our Staff Reporter . . HYDERABAD , OCT. 18 . The Central Forensic Science Laboratory , Ramanthapur , the first and the only FSL in the country to get accreditation of the National Board of Laboratories , is to compile data of the recent blasts in Assam and Nagaland . This would enable it to identify those who may be involved in such nefarious activities . . . Compilation of the data is to be taken up as part of a major research project , ` Creation of national bomb data centre , ' under a ten-year plan . The centre will be on the lines of that evolved by Israel , according to Chandranath Bhattacharyya , director . . . Data collected . . The CFSL has already collected data from various explosions that occurred in some States , comprising the nature and mode of explosion , extent of damage , casualties , parts of bomb container , fragments and initiation devices . The data , when compiled and analysed , would help crime investigation agencies link the crime with the groups who carry out that particular kind of operation . . . Sampling kits . . Dr. Bhattacharyya visited the recent bomb blasts sites at Guwahati -LRB- Assam -RRB- and Dimapur -LRB- Nagaland -RRB- with senior officials of the lab and collected samples which are to be examined at CFSL . As part of its programmes to create awareness about forensic science , the laboratory is proposing to distribute gun shot residue -LRB- GSR -RRB- sampling kits to all crime investigating agencies , including those in the North-East . The kits help in the collection of GSR particles from the hands of suspected shooters . . . CFSL will conduct a national-level two-day workshop on application of SEM-EDXA on GSR analysis from November 24 , where experts in GSR from the UK will provide training to ballistic staff from all over the country .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "central forensic science laboratory:25"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2004/10/19/stories/2004101911820400.htm", 
+    "date": "19-10-2004", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

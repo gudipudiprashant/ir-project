@@ -1,0 +1,125 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "GUWAHATI", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "upper Assam", 
+            "82", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "83", 
+            "Event"
+        ], 
+        [
+            "Jorhat", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "124", 
+            "Source"
+        ], 
+        [
+            "Dhubri", 
+            "130", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "11", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "night : 33", 
+        "night : 74", 
+        "tonight : 87"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "APRIL 3 : 17", 
+        "Saturday:32"
+    ], 
+    "death": "", 
+    "title": "ULFA triggers two blasts  in Assam", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASOM "
+    ], 
+    "content": "National ULFA triggers two blasts in Assam . . By Sushanta Talukdar . . GUWAHATI , APRIL 3 . The United Liberation Front of Asom has triggered two more blasts since Saturday night , even as police today recovered five explosive devices from different parts of Assam . . . A panchayat office was badly damaged in a blast suspected to have been triggered by the militant outfit in Dhemaji district late last night . . . Another blast occurred in upper Assam 's Jorhat town tonight when militants lobbed a grenade . . . A major tragedy was averted when a device recovered near the blast site was defused by explosive experts . . . Police also recovered an explosive device in Tinsukia and three crude bombs in Dhubri district .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhemaji", 
+        "GUWAHATI", 
+        "Assam"
+    ], 
+    "O": [
+        "panchayat office:52", 
+        "militant:67", 
+        ".:75", 
+        "another blast:78", 
+        "when:88", 
+        "militants:89", 
+        "grenade:92"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/04/04/stories/2005040407011100.htm", 
+    "date": "02-04-2005", 
+    "target": "", 
+    "hot_spot": "Assam", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "National ULFA", 
+            "1", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "117", 
+            "Others"
+        ]
+    ]
+}

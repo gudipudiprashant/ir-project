@@ -1,0 +1,276 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "U.S.", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "61", 
+            "Event"
+        ], 
+        [
+            "U.S.", 
+            "94", 
+            "Neutral"
+        ], 
+        [
+            "U.S.", 
+            "109", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "113", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "167", 
+            "Event"
+        ], 
+        [
+            "UK", 
+            "198", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "205", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "303", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "415", 
+            "Neutral"
+        ], 
+        [
+            "Islamabad", 
+            "442", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "446", 
+            "Neutral"
+        ], 
+        [
+            "Dhaka", 
+            "504", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "528", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Peter Burleigh", 
+            "97", 
+            "Comment"
+        ], 
+        [
+            "William Hague", 
+            "150", 
+            "Comment"
+        ], 
+        [
+            "Israel", 
+            "351", 
+            "Others"
+        ], 
+        [
+            "Stas Misezhnikov", 
+            "361", 
+            "Others"
+        ], 
+        [
+            "Asif Ali Zardari", 
+            "386", 
+            "Comment"
+        ], 
+        [
+            "Yousuf Raza Gilani", 
+            "392", 
+            "Comment"
+        ], 
+        [
+            "Sheikh Hasina", 
+            "449", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "mornings : 57", 
+        "todays : 79", 
+        "today : 168"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday : 6"
+    ], 
+    "death": "", 
+    "title": "World condemns Delhi terror attack", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Nations across the world on Wednesday condemned the bomb blast outside the Delhi High Court , that caused heavy casualties , with the U.S. offering every possible assistance to India . . . On behalf of all Americans , I extend deep condolences to the Government of India and the families of those harmed in this mornings attack on the New Delhi High Court . . . Terrorism is a crime that affects us all . Bombings like todays demonstrate that our shared struggle continues against those who would commit such atrocities , U.S. Charge dAffaires Peter Burleigh said in a statement . . . He said the U.S. remains shoulder-to-shoulder with India in the fight against terror , and will provide whatever assistance possible to help bring the perpetrators of this heinous crime to justice . . . Calling the blast a cowardly attack , British Foreign Secretary William Hague said I was appalled to hear of the bomb blast outside the High Court in Delhi today . . . I condemn this cowardly attack and send my deepest condolences to those who have lost loved ones or who have been injured . . . The UK is committed to standing together with India in the fight against terrorism in all its forms and we will continue to work together to counter this threat . . . Unreservedly condemning the bombing , a statement from the Australian Prime Ministers office , issued by Australian High Commission here , said , This act of senseless violence , directed at one of the institutions of government , appears to have been planned to cause a high number of casualties among the general public . . . The Australian statement added , We extend our sympathy and concern to the government and people of India at this time . Our thoughts are with the families of the innocent people who have been killed , and with those injured by the blast . . . The Indian government and people have Australias full support as they continue to combat terrorism . . . Israel also condemned the blast with its visiting Tourism Minister Stas Misezhnikov expressing shock and dismay over the vicious terror attack and conveyed his countrys condolences to the bereaved families . . . Pakistan President Asif Ali Zardari and Prime Minister Yousuf Raza Gilani expressed their deepest sympathies to the families of the victims of the bombing , to the Government and people of India . . . They expressed the hope that the perpetrators of this heinous act will be brought to justice , a Foreign Ministry statement said in Islamabad . . . Bangladesh Prime Minister Sheikh Hasina expressed profound shock and outrage over the bomb blast , saying that any act of terrorism is unacceptable and unjustifiable . . . She condemned the heinous act and stated that any act of terrorism is unacceptable , criminal and unjustifiable , regardless of their motivation , a Foreign Office statement said in Dhaka . . . She also offered prayers for the eternal peace of those who have passed away , and for the people of India to bear this shock with fortitude , it said .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "New Derlhi", 
+        "High court"
+    ], 
+    "O": [
+        "Nations:1", 
+        "condemned:7", 
+        "bomb blast:9", 
+        "heavy casualties:19", 
+        "assistance:28", 
+        "Americans:38", 
+        "deep condolences:42", 
+        "harmed:54", 
+        "attack:58", 
+        "Terrorism:68", 
+        "crime:71", 
+        "affects:73", 
+        "Bombings:77", 
+        "struggle:84", 
+        "commit:90", 
+        "atrocities:92", 
+        "statement:102", 
+        "shoulder-to-shoulder:111", 
+        "fight against terror:116", 
+        "assistance:124", 
+        "perpetrators:130", 
+        "heinous crime:133", 
+        "justice:136", 
+        "blast:142", 
+        "cowardly attack:144", 
+        "British Foreign Secretary William Hague:147", 
+        "appalled:155", 
+        "bomb blast:160", 
+        "High Court:164", 
+        "condemn:173", 
+        "cowardly attack:175", 
+        "deepest condolences:180", 
+        "injured:193", 
+        "committed:200", 
+        "terrorism:210", 
+        "counter:223", 
+        "threat:225", 
+        "bombing:232", 
+        "Australian Prime Ministers office:238", 
+        "Australian High Commission:245", 
+        "senseless violence:255", 
+        "institutions of government:263", 
+        "planned:271", 
+        "high number:275", 
+        "casualties:278", 
+        "general public:281", 
+        "Australian statement:287", 
+        "extend:292", 
+        "sympathy:294", 
+        "concern:296", 
+        "government:299", 
+        "innocent people:316", 
+        "killed:321", 
+        "injured:326", 
+        "blast:329", 
+        "Australias full support:339", 
+        "combat terrorism:346", 
+        "condemned:353", 
+        "blast:355", 
+        "Tourism Minister Stas Misezhnikov:359", 
+        "expressing:363", 
+        "shock and dismay:364", 
+        "vicious terror attack:369", 
+        "conveyed:373", 
+        "condolences:376", 
+        "bereaved families:379", 
+        "deepest sympathies:397", 
+        "victims:404", 
+        "bombing:407", 
+        "Government:411", 
+        "expressed:420", 
+        "perpetrators:425", 
+        "heinous act:428", 
+        "justice:434", 
+        "expressed:451", 
+        "profound shock:452", 
+        "outrage:455", 
+        "bomb blast:458", 
+        "act of terrorism:464", 
+        "unacceptable:468", 
+        "unjustifiable:470", 
+        "condemned:475", 
+        "heinous act:477", 
+        "act of terrorism:483", 
+        "unacceptable:487", 
+        "criminal:489", 
+        "unjustifiable:491", 
+        "regardless:493", 
+        "motivation:496", 
+        "Foreign Office statement:499", 
+        "prayers:511", 
+        "eternal peace:514", 
+        "shock:532", 
+        "fortitude:534"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/article2432949.ece", 
+    "date": "07-09-2011", 
+    "target": "HIGH COURT", 
+    "hot_spot": "Delhi High Court", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi High Court", 
+            "13", 
+            "Victim"
+        ], 
+        [
+            "Government of India", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "New Delhi High Court", 
+            "61", 
+            "Victim"
+        ], 
+        [
+            "Indian government", 
+            "334", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "LOC": [
+        [
+            "Bangladesh", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Dhaka", 
+            "69", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "78", 
+            "Event"
+        ], 
+        [
+            "Dhaka", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "108", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "152", 
+            "Neutral"
+        ], 
+        [
+            "Dhaka", 
+            "180", 
+            "Neutral"
+        ], 
+        [
+            "Bangladeshs", 
+            "184", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "193", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "208", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "212", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "224", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "226", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sheikh Hasina", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "86", 
+            "Others"
+        ], 
+        [
+            "Hasina", 
+            "111", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "171", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "two-day : 95"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:7"
+    ], 
+    "death": "11", 
+    "title": "Sheikh Hasina expresses outrage over Delhi blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Bangladesh Prime Minister Sheikh Hasina on Wednesday expressed her profound shock and outrage over the bomb blast in Delhi that claimed at least 11 lives , saying that any act of terrorism is unacceptable and unjustifiable . . . She condemned the heinous act and stated that any act of terrorism is unacceptable , criminal and unjustifiable , regardless of their motivation , a Foreign Office statement in Dhaka said . . . The blast outside the Delhi High Court took place when Prime Minister Manmohan Singh was in Dhaka as part of his two-day visit . . . On behalf of the people and government of Bangladesh , Ms. Hasina conveyed heartfelt sympathies and profound condolences to the members of the bereaved families , the statement said . . . She also offered prayers for the eternal peace of those who have passed away , and for the people of India to bear this shock with fortitude , it said . . . Earlier in the day , Dr. Singh , addressing a gathering of intellectuals at the Dhaka University , praised Bangladeshs initiatives to fight terrorism and work together with India to crush the militant forces . I would like to acknowledge the immense cooperation India has received from Bangladesh in this area , which is in the interest of both India ad Bangladesh , he said .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "New Delhi", 
+        ""
+    ], 
+    "O": [
+        "Bangladesh Prime Minister Sheikh Hasina:1", 
+        "expressed:8", 
+        "profound shock:10", 
+        "outrage:13", 
+        "bomb blast:16", 
+        "claimed:21", 
+        "terrorism:32", 
+        "unacceptable:34", 
+        "unjustifiable:36", 
+        "condemned:41", 
+        "heinous act:43", 
+        "terrorism:51", 
+        "unacceptable:53", 
+        "criminal:55", 
+        "unjustifiable:57", 
+        "regardless:59", 
+        "motivation:62", 
+        "Foreign Office:65", 
+        "blast:75", 
+        "conveyed:112", 
+        "heartfelt sympathies:113", 
+        "profound condolences:116", 
+        "bereaved families:123", 
+        "prayers:135", 
+        "eternal peace:138", 
+        "fortitude:158", 
+        "addressing:173", 
+        "gathering of intellectuals:175", 
+        "initiatives:185", 
+        "fight terrorism:187", 
+        "crush:195", 
+        "militant forces:197", 
+        "acknowledge:204", 
+        "immense cooperation:206"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/international/article2432665.ece", 
+    "date": "07-09-2011", 
+    "target": "HIGH COURT", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi High Court", 
+            "78", 
+            "Victim"
+        ], 
+        [
+            "Dhaka University", 
+            "180", 
+            "Others"
+        ]
+    ]
+}

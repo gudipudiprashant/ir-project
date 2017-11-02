@@ -1,0 +1,189 @@
+{
+    "LOC": [
+        [
+            "Ajmer", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "25", 
+            "Neutral"
+        ], 
+        [
+            "Mecca masjid", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Samjhauta", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Rajasthan", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Ajmer Sharif", 
+            "87", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "90", 
+            "Event"
+        ], 
+        [
+            "Samjhauta", 
+            "95", 
+            "Event"
+        ], 
+        [
+            "Samjhauta Express", 
+            "137", 
+            "Event"
+        ], 
+        [
+            "Aseemanand", 
+            "245", 
+            "Accused"
+        ], 
+        [
+            "Aseemanand", 
+            "281", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bharat Rateshwar", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "Bharat Bhai", 
+            "12", 
+            "Accused"
+        ], 
+        [
+            "Bharat Bhai", 
+            "46", 
+            "Accused"
+        ], 
+        [
+            "Sunil Joshi", 
+            "72", 
+            "Accused"
+        ], 
+        [
+            "Joshi", 
+            "107", 
+            "Accused"
+        ], 
+        [
+            "Bharat Bhai", 
+            "122", 
+            "Accused"
+        ], 
+        [
+            "Bharat Bhai", 
+            "143", 
+            "Accused"
+        ], 
+        [
+            "Bharat Bhai", 
+            "188", 
+            "Accused"
+        ], 
+        [
+            "Joshi", 
+            "207", 
+            "Accused"
+        ], 
+        [
+            "Joshi", 
+            "233", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "15 minutes : 217"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Feb 4 : 43", 
+        "Saturday:276", 
+        "Feb 5:278"
+    ], 
+    "death": "", 
+    "title": "A link in Ajmer, Mecca masjid, Samjhauta blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "View PhotosNew Delhi/Jaipur , Feb 7 : Bharat Rateshwar , alias Bharat Bhai is believed to be a common link of Ajmer blast , Delhi Mecca masjid blast and Samjhauta blast . . . Rajasthan Anti Terrorist Squad ( ATS ) on Feb 4 arrested Bharat Bhai who has been accused of financing all blasts as sources reported that he allegedly handed over Rs 70,000 , Rs 50,000 and Rs 40,000 Sunil Joshi , the slained RSS worker for carrying out the blasts at Malegaon , Ajmer Sharif and Mecca Masjid . . . Samjhauta blast accused now officially detained . . The slained RSS worker Joshi is believed to have played a prime role in all blasts . . . Bharat Bhai has also been accused of conspiracy and participating in the execution of the Samjhauta Express blast . . . Bharat Bhai is likely to be named as the prime accused in all blast cases , ATS officials informed . . . He will be questioned over purchase mobile phones , SIM cards and material for improvised explosive devices , sources informed . . . Bharat Bhai , as sources claimed , came in the ATS ' net when the investigating agency found that Joshi made a call to him ( Bharat Bhai ) 15 minutes after the Ajmer blast to say the work had been executed . . . Joshi also asked him to watch the news on television and inform Aseemanand about it , since he was not able to reach him over the phone , sources informed . . . On the other side , A chief judicial magistrate on Saturday , Feb 5 extended Aseemanand 's custody along with that of Bharat Bhai . . . OneIndia News . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        "Mecca masjid "
+    ], 
+    "O": [
+        "RSS worker:105", 
+        "chief judicial magistrate:272"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/2011/02/06/a-link-in-ajmer-mecca-masjid-samjhauta-blast-aid0101.html", 
+    "date": "06-02-2011", 
+    "target": "MOSQUE", 
+    "hot_spot": "Mecca masjid ", 
+    "delivery_mod": "MOSQUE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti Terrorist Squad", 
+            "36", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "159", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "198", 
+            "Others"
+        ], 
+        [
+            "Bharat Bhai", 
+            "214", 
+            "Others"
+        ], 
+        [
+            "Bharat Bhai .", 
+            "288", 
+            "Others"
+        ]
+    ]
+}

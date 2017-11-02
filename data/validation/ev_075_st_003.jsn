@@ -1,0 +1,276 @@
+{
+    "LOC": [
+        [
+            "JAIPUR", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "48", 
+            "Event"
+        ], 
+        [
+            "Rajasthan", 
+            "95", 
+            "Event"
+        ], 
+        [
+            "Kotwali", 
+            "187", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "330", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "416", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "540", 
+            "Assoc_Event"
+        ], 
+        [
+            "Lucknow", 
+            "542", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sunny Sebastian", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Vasundhara Raje", 
+            "128", 
+            "Comment"
+        ], 
+        [
+            "Raje", 
+            "194", 
+            "Comment"
+        ], 
+        [
+            "Raghavendra Suhasa", 
+            "288", 
+            "Comment"
+        ], 
+        [
+            "Vinay Kumar", 
+            "412", 
+            "Others"
+        ], 
+        [
+            "M. K. Narayanan", 
+            "437", 
+            "Others"
+        ], 
+        [
+            "M. Chandrasekhar", 
+            "444", 
+            "Others"
+        ], 
+        [
+            "P. Chidambaram", 
+            "453", 
+            "Comment", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "481", 
+            "Others"
+        ], 
+        [
+            "Rajes", 
+            "553", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "Todays : 236"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:39", 
+        "Tuesday:51", 
+        "Thursday:62", 
+        "Wednesday:90", 
+        "on Thursday:446", 
+        "Thursday:447"
+    ], 
+    "death": "64", 
+    "title": "SIT to probe Jaipur blasts", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Sunny Sebastian . . Three more sketches released ; genuineness of e-mail doubted . . JAIPUR : Investigating agencies have expressed doubts about the genuineness of an e-mail and an attached video clip sent to the media on Wednesday by Indian Mujahideen , claiming responsibility for the Jaipur blasts on Tuesday in which 64 people have died . . . On Thursday , the police here released three more sketches of suspects involved in the blasts continuing their hunt for the terrorists . One such sketch was released on Wednesday . . . The Rajasthan government constituted a Special Investigation Team -LRB- SIT -RRB- to probe the blasts . It also announced the formation of a Special Task Force to fight terror . . . Chief Minister Vasundhara Raje said the video footage could be an attempt to mislead the probe . She said there were discrepancies in the way the bags containing bombs were placed on the cycles used in the blasts and the one shown on the video . The clip showed the frame number -LRB- 129489 -RRB- of a cycle parked near the Kotwali Police Station . . . Ms. Raje said : . . We are making further investigations into the matter . I fear I can not divulge much at this juncture of the probe . In fact , we are in the middle of a war . . . Todays terrorists are not thieves or burglars ; they are well connected and use most sophisticated communication systems . The whole operation was carried out with considerable skill , indicating that we are fighting a very formidable enemy . . . Superintendent of Police -LRB- North -RRB- and member of the SIT Raghavendra Suhasa told TheHindu that the new sketches were those of the persons belonging to the age group of 18 to 25 . They have different complexions . . . Though the blasts were similar to the ones that took place in Uttar Pradesh , it was too early to talk about the involvement of the Harkat-ul-Jihadi-e-Islam in the blasts , he said , adding that in all nine blasts took place and one bomb was defused . . . Denying any arrest , he said : Nobody has been arrested or detained so far . He also refuted reports that a woman was questioned . That is a rumour . No woman has been questioned . . . No breakthrough yet . . Vinay Kumar reports from New Delhi : . . The Union Cabinet was briefed on the blasts by the National Security Adviser -LRB- NSA -RRB- M. K. Narayanan and Cabinet Secretary K. M. Chandrasekhar on Thursday . . . Finance Minister P. Chidambaram told reporters after the Cabinet meeting that the NSA and the Cabinet Secretary briefed them about the investigations . The meeting was chaired by Prime Minister Manmohan Singh . . . Asked if any breakthrough was achieved , he said : I dont think we have reached a stage where we can say we have achieved a breakthrough . . . The Cabinet was also informed about the security and intelligence agencies efforts to see a definite pattern in the blasts with those that rocked Hyderabad and Lucknow in the recent past . . . Asked about Ms. Rajes observation that her State would not allow communal harmony to be jeopardised , he said the Centre and the State ad an equal responsibility to maintain law and order .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Three more sketches:5", 
+        "genuineness:10", 
+        "e-mail doubted:12", 
+        "Investigating agencies:18", 
+        "expressed doubts:21", 
+        "genuineness:25", 
+        "e-mail:28", 
+        "attached video clip:31", 
+        "responsibility:45", 
+        "blasts:49", 
+        "died:57", 
+        "released:67", 
+        "sketches:70", 
+        "suspects:72", 
+        "blasts:76", 
+        "hunt:79", 
+        "terrorists:82", 
+        "sketch:86", 
+        "released:88", 
+        "probe:106", 
+        "blasts:108", 
+        "announced:112", 
+        "Special Task Force:117", 
+        "fight terror:121", 
+        "video footage:132", 
+        "attempt:137", 
+        "mislead:139", 
+        "probe:141", 
+        "discrepancies:147", 
+        "bags containing bombs:152", 
+        "placed:156", 
+        "cycles:159", 
+        "blasts:163", 
+        "video:170", 
+        "clip:173", 
+        "frame number:176", 
+        "129489:179", 
+        "cycle parked:183", 
+        "Kotwali Police Station:187", 
+        "investigations:203", 
+        "divulge:213", 
+        "juncture:217", 
+        "probe:220", 
+        "war:232", 
+        "terrorists:237", 
+        "thieves:240", 
+        "burglars:242", 
+        "connected:247", 
+        "sophisticated:251", 
+        "communication systems:252", 
+        "operation:257", 
+        "skill:263", 
+        "formidable enemy:272", 
+        "sketches:295", 
+        "age group:304", 
+        "18 to 25:307", 
+        "complexions:314", 
+        "blasts:320", 
+        "involvement:341", 
+        "blasts:347", 
+        "nine blasts:356", 
+        "bomb:362", 
+        "defused:364", 
+        "Denying:368", 
+        "arrest:370", 
+        "arrested:378", 
+        "briefed:425", 
+        "blasts:428", 
+        "Cabinet meeting:459", 
+        "investigations:472", 
+        "meeting:475", 
+        "security and intelligence agencies:523", 
+        "pattern:532", 
+        "blasts:535", 
+        "rocked:539", 
+        "recent past:545", 
+        "observation:554", 
+        "State:557", 
+        "communal harmony:561", 
+        "jeopardised:565", 
+        "Centre:570", 
+        "State:573", 
+        "equal responsibility:576", 
+        "maintain:579", 
+        "law and order:580"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/sit-to-probe-jaipur-blasts/article1259265.ece", 
+    "date": "13-05-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "BAG", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "41", 
+            "Accused"
+        ], 
+        [
+            "Rajasthan government", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "Special Investigation Team", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "SIT", 
+            "103", 
+            "Others"
+        ], 
+        [
+            "SIT", 
+            "287", 
+            "Others"
+        ], 
+        [
+            "TheHindu", 
+            "291", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jihadi-e-Islam", 
+            "344", 
+            "Others"
+        ], 
+        [
+            "National Security Adviser", 
+            "431", 
+            "Others"
+        ], 
+        [
+            "NSA", 
+            "435", 
+            "Others"
+        ], 
+        [
+            "NSA", 
+            "463", 
+            "Others"
+        ]
+    ]
+}

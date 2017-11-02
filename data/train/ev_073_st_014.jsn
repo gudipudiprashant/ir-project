@@ -1,0 +1,98 @@
+{
+    "LOC": [
+        [
+            "Uttar Pradesh", 
+            "3", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "91", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "93", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "112", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "139", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:6", 
+        "1310:71", 
+        "1325:74"
+    ], 
+    "death": "15", 
+    "title": "Terror strikes UP courts: 15 killed", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Terror struck Uttar Pradesh on Friday when militants triggered near-simultaneous blasts in court premises in Varanasi , Faizabad and Lucknow killing 15 people , four of them lawyers , and injuring over 80 . . . Six bombs -- three in Varansi , two in Faizabad and one in Lucknow -- some planted on cycles , went off within a span of 15 minutes in the crowded court complexes between 1310 hours and 1325 hours . . . Ammonium Nitrate and timer devices were used in triggering the blasts in Lucknow and Varanasi , sources said . . . Image : Policemen and onlookers gather at the blast site inside the Varanasi civil court premises . . . Photographs : Getty Images . . . . . . . . Also read : The 23 terror modules in Uttar Pradesh . . . . . . . . . . . . Next .", 
+    "injured": "80", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        "court premises"
+    ], 
+    "O": [
+        "terror:1", 
+        "Uttar Pradesh:3", 
+        "near-simultaneous blasts:10", 
+        "Ammonium Nitrate:79", 
+        "civil court:113"
+    ], 
+    "unexpl": [
+        "ELECTRONIC TIMERS"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2007/nov/23slide1.htm", 
+    "date": "23-11-2007", 
+    "target": "COURT", 
+    "hot_spot": "", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": []
+}

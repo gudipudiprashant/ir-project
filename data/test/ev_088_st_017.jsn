@@ -1,0 +1,439 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Pul Prahladpur", 
+            "25", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "39", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "49", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "71", 
+            "Event"
+        ], 
+        [
+            "Aurangabad ,", 
+            "84", 
+            "Accused"
+        ], 
+        [
+            "Aurangabad", 
+            "84", 
+            "Accused"
+        ], 
+        [
+            "Nanded", 
+            "89", 
+            "Accused"
+        ], 
+        [
+            "Pune", 
+            "94", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "109", 
+            "Event"
+        ], 
+        [
+            "Budhwar Peth", 
+            "124", 
+            "Source"
+        ], 
+        [
+            "German Bakery", 
+            "227", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "231", 
+            "Event"
+        ], 
+        [
+            "Yerawada", 
+            "247", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "250", 
+            "Neutral"
+        ], 
+        [
+            "Dagdusheth", 
+            "268", 
+            "Event"
+        ], 
+        [
+            "Ganpati temple", 
+            "272", 
+            "Event"
+        ], 
+        [
+            "Pune",
+            "275", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "303", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "343", 
+            "Neutral"
+        ], 
+        [
+            "Chandu Nagar", 
+            "362", 
+            "Accused"
+        ], 
+        [
+            "Karawal Nagar", 
+            "365", 
+            "Neutral"
+        ], 
+        [
+            "Darbhanga", 
+            "373", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "375", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "393", 
+            "Neutral"
+        ], 
+        [
+            "Nangloi", 
+            "395", 
+            "Neutral"
+        ], 
+        [
+            "Chandu Nagar", 
+            "433", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "525", 
+            "Neutral"
+        ], 
+        [
+            "Meer Vihar", 
+            "533", 
+            "Neutral"
+        ], 
+        [
+            "Nangloi", 
+            "536", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Asad Khan", 
+            "81", 
+            "Accused"
+        ], 
+        [
+            "Imran Khan", 
+            "86", 
+            "Accused"
+        ], 
+        [
+            "Syed Feroz", 
+            "91", 
+            "Accused"
+        ], 
+        [
+            "Neeraj Kumar", 
+            "100", 
+            "Comment"
+        ], 
+        [
+            "Kumar", 
+            "112", 
+            "Comment"
+        ], 
+        [
+            "Neeraj Kumar", 
+            "139", 
+            "Others"
+        ], 
+        [
+            "Abu Jundal", 
+            "154", 
+            "Accused"
+        ], 
+        [
+            "Fayyaz Qagzi", 
+            "181", 
+            "Accused"
+        ], 
+        [
+            "Jundal", 
+            "186", 
+            "Others"
+        ], 
+        [
+            "Qateel Siddique", 
+            "221", 
+            "Accused"
+        ], 
+        [
+            "Sharad Mohan", 
+            "240", 
+            "Accused"
+        ], 
+        [
+            "Ashok Bhalerao", 
+            "243", 
+            "Accused"
+        ], 
+        [
+            "Siddique", 
+            "255", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "319", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "339", 
+            "Accused"
+        ], 
+        [
+            "Assadullah Rehman", 
+            "352", 
+            "Accused"
+        ], 
+        [
+            "Dilkash", 
+            "355", 
+            "Comment"
+        ], 
+        [
+            "Dilkash", 
+            "368", 
+            "Comment"
+        ], 
+        [
+            "Dilkash", 
+            "419", 
+            "Comment"
+        ], 
+        [
+            "Mohd Kafeel Ahmad", 
+            "462", 
+            "Accused"
+        ], 
+        [
+            "Ahmad", 
+            "483", 
+            "Accused"
+        ], 
+        [
+            "Ahmad", 
+            "493", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "497", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "521", 
+            "Accused"
+        ], 
+        [
+            "Mohd Irshad", 
+            "555", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "558", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "576", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "1 August : 10"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "8 June , 2012 : 217", 
+        "27 March : 326", 
+        "November 2011:381", 
+        "February 2011:490", 
+        "April 2011:511"
+    ], 
+    "death": "", 
+    "title": "Delhi Police arrest 3 IM operatives, crack Pune blast case", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA", 
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "The Delhi Police today claimed to have cracked the 1 August Pune blast case with the arrest of three alleged Indian Mujahideen operatives from Pul Prahladpur in Delhi . Police claimed all the three suspected terrorists are from Maharashtra and were planning to carry out terror strikes in Delhi and at Bodh Gaya in Bihar during the festive season . . . `` Delhi Police special cell has cracked the Pune blast case . We have arrested three people - Asad Khan of Aurangabad , Imran Khan of Nanded and Syed Feroz of Pune , '' Delhi Police Commissioner Neeraj Kumar said . . . Referring to the Pune blasts , Kumar said that the alleged terrorists had bought electronics and cycles from Budhwar Peth in the city for the terror strike . . . Delhi police commissioner Neeraj Kumar . . . The police also said that Lashkar-e-Toiba operative and 26/11 plotter Abu Jundal 's interrogation led to the arrest of the three IM operatives . . . The Commissioner added that the name of another key LeT terrorist Fayyaz Qagzi was revealed by Jundal during the interrogation . . . `` This shows a direct link between Indian Mujahideen and Lashkar-e-Toiba , '' he said . . . According to the police , on 8 June , 2012 Qateel Siddique , accused in the German Bakery blast and Jama Masjid attack , was killed by jail inmates Sharad Mohan and Ashok Bhalerao in the Yerawada jail in Pune . The duo killed Siddique as he boasted that his group would carry out a blast at Dagdusheth , a famous Ganpati temple in Pune . . . The investigation into his murder revealed that he was part of a bigger conspiracy and led to the arrest the three IM operatives in Delhi . . . The three arrested persons were reportedly close to fugitive Indian Mujahideen chief Yasin Bhatkal . The police had on 27 March arrested another suspected Indian Mujahideen terrorist , an alleged aide of Bhatkal , from north-east Delhi with one kg explosives and a detonator . Assadullah Rehman alias Dilkash ( 20 ) was apprehended from Chandu Nagar in Karawal Nagar . Dilkash , who hails from Darbhanga in Bihar , had allegedly escaped in November 2011 from the arms factory run by Indian Mujahideen in west Delhi 's Nangloi before the police crackdown during which a number of suspected terrorists were nabbed by police . . . A senior police official said Dilkash had told police that he had recently taken on rent a premises at Chandu Nagar from where investigators allegedly recovered one kg of explosive powder , a detonator , a timer and a mobile phone . `` He came in contact with Mohd Kafeel Ahmad , the motivator and ideologue of Indian Mujahideen , who was arrested earlier . He was motivated by Ahmad to join Indian Mujahideen . In February 2011 , Ahmad introduced him to Bhatkal who further motivated him , '' the official said . . . In April 2011 , the official said , on instructions from Bhatkal , he reached Delhi and was taken to the factory at Meer Vihar in Nangloi which was later busted by police . There he learnt to work on the lathe machine and assisted Mohd Irshad and Bhatkal in allegedly manufacturing pistols and other arms and ammunition . `` He became a trusted aide of Bhatkal , '' the official claimed . With inputs from PTI .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        "Pune"
+    ], 
+    "O": [
+        "police:323", 
+        "detonator:350", 
+        "explosive powder:443"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/india/delhi-police-arrest-3-im-operatives-crack-pune-blast-case-487477.html", 
+    "date": "01-08-2012", 
+    "target": "", 
+    "hot_spot": "Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi Police", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "64", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "97", 
+            "Others"
+        ], 
+        [
+            "Delhi police", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Toiba", 
+            "149", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "165", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "179", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "200", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Toiba", 
+            "203", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "300", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "316", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "331", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "389", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "471", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "486", 
+            "Accused"
+        ], 
+        [
+            "PTI", 
+            "586", 
+            "Others"
+        ]
+    ]
+}

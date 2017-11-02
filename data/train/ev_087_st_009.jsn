@@ -1,0 +1,124 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "162", 
+            "Assoc_Event"
+        ], 
+        [
+            "India", 
+            "207", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nanjappa", 
+            "23", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:29"
+    ], 
+    "death": "", 
+    "title": "Signature style attacks on the wane; affect probes", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Investigations into terror attacks have made little headway since terror groups prefer to keep their identity concealed after an attack , saysVicky Nanjappa . . . . . Wednesday 's high court blast in Delhi has left investigating agencies in a state of confusion . A mail that was sent out earlier in the day is the only lead that investigators have . However , there is still suspicion regarding the authenticity of the mail.A 20-member team of the National Investigating Agency has already begun its probe . The team now awaits the results from the Forensic Sciences Laboratory , which is examining the bomb composition . . . . . Although the composition will be known in a couple of days , it may not really help the agency zero down on any particular outfit . . . A couple of years back terror groups had a signature style of attack . The bombs assembled during the twin blasts in Hyderabad gave vital leads to the police since the bomb that was assembled bore a signature . Intelligence Bureau officials say that each terror group had a signature styled bomb , which made it easier to track the outfit . The Students Islamic Movement of India , Indian Mujahideen , Harkat-ul-Jihad-al-Islamiall had their own style of packaging and also planting a bomb . . . However , today , that has changed . Terror groups have become extremely careful not to reveal their identity when an attack has been carried out . Earlier , terror groups wanted their identity to be known since it was a matter of pride for them . However , the terror scenario has changed a great deal and terror groups prefer to keep their identity concealed . . . This change has basically made investigation a nightmare for the police . Blast cases will not be easy to investigate in the days to come . It has become a cat and mouse game between terror groups and the police and the latter are sure going to find it very difficult to crack these cases . . . . . A police officer pointed out that nowadays with each blast the investigations need to start from scratch unlike the past where they could rely heavily on information obtained from earlier blasts . . . . . The blasts earlier had a connection and all the police needed to do was to join the dots . Moreover , when the Indian Mujahideen carried out blasts , they also gave the police the privilege of a full-fledged mail that gave the first lead . Now , this too is missing and terror groups have become smarter and try their best to conceal their identity as much as possible . . . Police sources say that they will have to rely much more on human intelligence in the days to come . These blasts that are taking place may not be undertaken by full-fledged terror groups and could be the handiwork of one or two people . This would mean that the police will have go back and rely on age-old tactics to crack the case . This means they will have to activate their sources on the ground -LRB- anti-social elements -RRB- and seek information from them . . . . . They will also have to rely heavily on statements given by those people present before the blast to find out if they saw anything suspicious . . . . . Each of the latest incidents of terror would need to be treated as a fresh case and the investigations need to be independent in nature . There is no point in relying on signatures and also information from previous blasts . One thing is clear that none of these blasts in the past two years are inter-connected . .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "terror:3", 
+        "headway:8", 
+        "terror:10", 
+        "identity:16", 
+        "attack:20", 
+        "investigating:38", 
+        "the authenticity of:71", 
+        "forensic sciences laboratory:97", 
+        "signature style of attack:149", 
+        "intelligence bureau:179", 
+        "own style:215", 
+        "changed:233", 
+        "terror:256", 
+        "concealed:292", 
+        "cat and mouse game:326", 
+        "blasts earlier:393", 
+        "connection:397", 
+        "Indian Mujahideen:415", 
+        "full-fledged mail:430", 
+        "rely:473", 
+        "human intelligence:477", 
+        "age-old tactics:523", 
+        "sources on the ground:538", 
+        "statements:564", 
+        "fresh case:600", 
+        "independent in nature:608"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/report/signature-style-attacks-on-the-wane-affect-probes/20110908.htm", 
+    "date": "07-09-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigating Agency", 
+            "80", 
+            "Others"
+        ], 
+        [
+            "Forensic Sciences Laboratory", 
+            "97", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "The Students Islamic Movement of India", 
+            "202", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "209", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jihad-al-Islamiall", 
+            "212", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "415", 
+            "Others"
+        ]
+    ]
+}

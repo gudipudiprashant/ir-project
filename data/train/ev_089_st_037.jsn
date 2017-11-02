@@ -1,0 +1,179 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "280", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushilkumar Shindes", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Ravi Shankar Prasad", 
+            "90", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "183", 
+            "Others"
+        ], 
+        [
+            "Prasad", 
+            "194", 
+            "Comment"
+        ], 
+        [
+            "Shindes", 
+            "246", 
+            "Others"
+        ], 
+        [
+            "Prasad", 
+            "257", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:20"
+    ], 
+    "death": "", 
+    "title": "Govt. should stop playing politics with terrorism: BJP", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Refuting Home Minister Sushilkumar Shindes charge that opposition-ruled states were opposed to formation of NCTC , the BJP on Saturday said the government needs to strengthen intelligence gathering and coordination rather than playing politics on the issue of terrorism . . . Several innocent lives have been lost in the Hyderabad blasts . The government should stop playing politics on the issue of terrorism . We want the government to take appropriate action . There should be better coordination between the Centre and the state governments , BJP spokesperson Ravi Shankar Prasad said . . . The main opposition party maintained that the blame-game should stop and the system of intelligence gathering and sharing of information between the Centre and the states should be looked into . . . Pledging all support to the government in the fight against terrorism , the BJP said the country should unitedly deal with the menace . However , it alleged that the government is not taking appropriate measures . . . This government should rise above vote-bank politics ... On every passing day , Mr. Shinde is being seen as an unsuccessful Home Minister , Mr. Prasad said . . . In the past , BJP has opposed National Counter Terrorism Centre on the grounds that it will encroach upon the policing rights of states . But BJP-ruled states maintain they are ready to cooperate on some aspects like sharing of information . . . Asked about Mr. Shindes charge that some states are opposed to NCTC , Mr. Prasad said , We are not against coordination between the Centre and the states . But why was there no coordination between the Andhra Pradesh STF and the Centre . The Centre says it had given intelligence inputs , but the state says it had not received any information .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Refuting:1", 
+        "charge:6", 
+        "opposition-ruled states:8", 
+        "opposed:11", 
+        "formation:13", 
+        "government:23", 
+        "strengthen intelligence gathering:26", 
+        "coordination:30", 
+        "playing politics:33", 
+        "issue of terrorism:37", 
+        "innocent lives:44", 
+        "lost:48", 
+        "blasts:52", 
+        "government:55", 
+        "stop:57", 
+        "playing politics:58", 
+        "issue of terrorism:62", 
+        "government:69", 
+        "appropriate action:72", 
+        "better coordination:78", 
+        "Centre:82", 
+        "state governments:85", 
+        "opposition party:99", 
+        "blame-game:104", 
+        "stop:106", 
+        "system of intelligence gathering:109", 
+        "sharing of information:114", 
+        "Centre:119", 
+        "states:122", 
+        "Pledging:130", 
+        "support:132", 
+        "government:135", 
+        "fight against terrorism:138", 
+        "unitedly deal:148", 
+        "menace:152", 
+        "government:160", 
+        "appropriate measures:164", 
+        "government:170", 
+        "rise:172", 
+        "vote-bank politics:174", 
+        "every passing day:178", 
+        "cooperate:232", 
+        "aspects:235", 
+        "sharing of information:237", 
+        "charge:247", 
+        "states:250", 
+        "opposed:252", 
+        "coordination:264", 
+        "Centre:267", 
+        "states:270", 
+        "coordination:277", 
+        "Centre:285", 
+        "Centre:288", 
+        "intelligence inputs:293", 
+        "state:298", 
+        "information:305"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/govt-should-stop-playing-politics-with-terrorism-bjp/article4446213.ece?ref=sliderNews", 
+    "date": "23-02-2013", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "NCTC", 
+            "15", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "National Counter Terrorism Centre", 
+            "206", 
+            "Others"
+        ], 
+        [
+            "NCTC", 
+            "254", 
+            "Others"
+        ], 
+        [
+            "STF", 
+            "282", 
+            "Others"
+        ]
+    ]
+}

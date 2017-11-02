@@ -1,0 +1,215 @@
+{
+    "LOC": [
+        [
+            "MUMBAI", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "180", 
+            "Neutral"
+        ], 
+        [
+            "Surat", 
+            "186", 
+            "Neutral"
+        ], 
+        [
+            "Indore", 
+            "295", 
+            "Neutral"
+        ], 
+        [
+            "Bhiku chowk", 
+            "353", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "357", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "376", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rahi Gaikwad", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Rashtriya Jagran Manch", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Hemant Karkare", 
+            "55", 
+            "Comment"
+        ], 
+        [
+            "Pragnya Singh Chandrapal Singh", 
+            "71", 
+            "Accused"
+        ], 
+        [
+            "Shiv Narayan Gopal Singh Kalsanghra", 
+            "78", 
+            "Accused"
+        ], 
+        [
+            "Shyam Bhawarlal Sahu", 
+            "87", 
+            "Accused"
+        ], 
+        [
+            "Pragnya", 
+            "124", 
+            "Accused"
+        ], 
+        [
+            "Pragnya", 
+            "157", 
+            "Accused"
+        ], 
+        [
+            "Poorna Chetananandgiri", 
+            "175", 
+            "Others"
+        ], 
+        [
+            "Karkare", 
+            "241", 
+            "Comment"
+        ], 
+        [
+            "Karkare", 
+            "288", 
+            "Comment"
+        ], 
+        [
+            "Kalsanghra", 
+            "292", 
+            "Others"
+        ], 
+        [
+            "Karkare", 
+            "340", 
+            "Comment"
+        ], 
+        [
+            "PragnyaSingh Chandrapal Singh", 
+            "397", 
+            "Accused"
+        ], 
+        [
+            "Shiv Narayan Gopal Singh Kalsanghra", 
+            "403", 
+            "Accused"
+        ], 
+        [
+            "Pragnya Singh ChandrapalSingh Thakur", 
+            "423", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:42", 
+        "September 29:50", 
+        "Friday:61", 
+        "November 3:111", 
+        "2007:166", 
+        "2002:228", 
+        "September 29:359", 
+        "October 25 , 2008 : 384"
+    ], 
+    "death": "", 
+    "title": "Malegaon blast; three remanded to custody", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Rahi Gaikwad . . Booked under sections of the Explosives Act . . Accused reportedly started Rashtriya Jagran Manch . . The police recovered some mobile phones . . MUMBAI : The Anti-Terrorism Squad -LRB- ATS -RRB- arrested three persons on Thursday in connection with the Malegaon blast of September 29 , ATS chief Hemant Karkare told journalists here on Friday . . . The accused have been identified as Pragnya Singh Chandrapal Singh , 38 , Shiv Narayan Gopal Singh Kalsanghra , 36 , and Shyam Bhawarlal Sahu , 42 . They were produced before the Nashik Chief Judicial Magistrates court , which remanded them to police custody till November 3 . . . The motorcycle used in the blast belonged to Pragnya . All efforts were taken to hide the ownership of the vehicle . The registration number was bogus and they tried to efface the engine and the chassis numbers . . . Pragnya is a sadhvi , who took sanyas in 2007 , after which she took on the alias Poorna Chetananandgiri . Originally from Madhya Pradesh , she shifted to Surat with her family a few years ago . However , she had no fixed location . Since she had chosen the religious path , she toured various places doing bhraman . She founded the Jai Vande Mataram Jan Kalyan Samiti in 2002 . Investigators have recovered pamphlets of this organisation . . . Mr. Karkare said the accused reportedly started the Rashtriya Jagran Manch . The police are probing the links of the Samiti and the Manch to Hindu religious organisations . . . The police also recovered some mobile phones . Sahu was in the mobile business , said Mr. Karkare . He and Kalsanghra are from Indore . . . The accused have been booked under various sections of the Indian Explosives Act and the Unlawful Activities -LRB- Prevention -RRB- Act -LRB- UAPA -RRB- . The Forensic Sciences Laboratory -LRB- FSL -RRB- report had revealed traces of RDX , said Mr. Karkare . . . A bomb attached to a motorcycle ripped through the Bhiku chowk area of Malegaon on September 29 . . . Corrections and Clarifications . . The second paragraph of a report ` Malegaon blast ; three remanded tocustody ' -LRB- October 25 , 2008 -RRB- was ` The accused have been identified as PragnyaSingh Chandrapal Singh , 38 , Shiv Narayan Gopal Singh Kalsanghra , 36 , andShyam Bhawarlal Sahu , 42 . . ' It should have been Pragnya Singh ChandrapalSingh Thakur .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Nashik", 
+        "Malegaon", 
+        "Malegaon"
+    ], 
+    "O": [
+        "rashtriya jagran manch:248", 
+        "police:253", 
+        "samiti:260", 
+        "manch:263", 
+        "RDX:336"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/malegaon-blast-three-remanded-to-custody/article1363681.ece", 
+    "date": "29-09-2008", 
+    "target": "", 
+    "hot_spot": "Malegaon", 
+    "delivery_mod": "MOTORCYCLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorism Squad", 
+            "33", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "36", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "Nashik Chief Judicial Magistrates court", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "Jai Vande Mataram Jan Kalyan Samiti", 
+            "221", 
+            "Others"
+        ], 
+        [
+            "Hindu religious", 
+            "265", 
+            "Others"
+        ], 
+        [
+            "UAPA", 
+            "321", 
+            "Others"
+        ], 
+        [
+            "The Forensic Sciences Laboratory", 
+            "324", 
+            "Others"
+        ]
+    ]
+}

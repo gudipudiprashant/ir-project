@@ -1,0 +1,110 @@
+{
+    "LOC": [
+        [
+            "PUNE", 
+            "1", 
+            "Victim"
+        ], 
+        [
+            "Sangamner", 
+            "12", 
+            "Victim"
+        ], 
+        [
+            "Hyderabad", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Sangamner", 
+            "62", 
+            "Victim"
+        ], 
+        [
+            "Hyderabad", 
+            "80", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bhanudas Palve", 
+            "63", 
+            "Comment"
+        ], 
+        [
+            "Palve", 
+            "131", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday : 23", 
+        "Sunday : 32", 
+        "Saturday : 88"
+    ], 
+    "death": "7", 
+    "title": "Bodies of Hyderabad blast victims arrive in Pune", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "PUNE : Bodies of five students of Amrutvahini Engineering College , Sangamner , who were killed in the Hyderabad bomb blasts on Saturday evening , arrived at the Pune airport on Sunday afternoon.A large crowd and a fleet of ambulances were at the airport as the bodies were brought out of the cargo hold of the aircraft . Sub-divisional officer of Sangamner Bhanudas Palve told reporters that 45 students and four teachers of Amrutvahini Engineering College had gone to Hyderabad on an industrial study tour . On Saturday , the group was enjoying a laser show at Lumbini Park when the blast took place . ` Seven students were killed while 11 were injured in the explosion . Of the injured , two are in critical condition , ' said Palve .", 
+    "injured": "11", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "O": [
+        "Bodies:3", 
+        "five students:5", 
+        "killed:16", 
+        "Hyderabad bomb blasts:19", 
+        "evening:24", 
+        "arrived:26", 
+        "Pune airport:29", 
+        "large crowd:34", 
+        "fleet of ambulances:38", 
+        "Sub-divisional officer:59", 
+        "45 students:68", 
+        "four teachers:71", 
+        "industrial study tour:83", 
+        "laser show:95", 
+        "Lumbini Park:98", 
+        "Seven students:107", 
+        "killed:110", 
+        "11 were injured:112", 
+        "two:123", 
+        "critical condition:126"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Bodies-of-Hyderabad-blast-victims-arrive-in-Pune/articleshow/2313045.cms?referral=PM", 
+    "date": "25-08-2007", 
+    "target": "PARK AND RESTRAUNT", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Amrutvahini Engineering College", 
+            "8", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Amrutvahini Engineering College", 
+            "74", 
+            "Assoc_Victim"
+        ]
+    ]
+}

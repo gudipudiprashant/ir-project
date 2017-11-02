@@ -1,0 +1,204 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "39", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "88", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "121", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "136", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "176", 
+            "Assoc_Event"
+        ], 
+        [
+            "Maharashtra", 
+            "195", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "197", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "199", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "309", 
+            "Neutral"
+        ], 
+        [
+            "Philadelphia", 
+            "331", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "337", 
+            "Victim"
+        ]
+    ], 
+    "PER": [
+        [
+            "G K Pillai", 
+            "5", 
+            "Comment"
+        ], 
+        [
+            "David Coleman Headley", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Toiba", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "Headley", 
+            "69", 
+            "Accused"
+        ], 
+        [
+            "Daood Gilani", 
+            "83", 
+            "Others"
+        ], 
+        [
+            "Pillai", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "Headley", 
+            "118", 
+            "Accused"
+        ], 
+        [
+            "Headley", 
+            "150", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Headley", 
+            "183", 
+            "Accused"
+        ], 
+        [
+            "Headley", 
+            "226", 
+            "Accused"
+        ], 
+        [
+            "Tahawwur Hussain Rana", 
+            "230", 
+            "Accused"
+        ], 
+        [
+            "Daood Gilani", 
+            "295", 
+            "Accused"
+        ], 
+        [
+            "Headley", 
+            "313", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2006 : 95", 
+        "2009 : 97"
+    ], 
+    "death": "", 
+    "title": "Headley travelled to India nine times on business visa", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "As Union Home Secretary G K Pillai confirmed that David Coleman Headley , arrested by the FBI for plotting a major terror attack in India at the behest of the Lashkar-e-Toiba , had visited the country , including Mumbai , several times , official sources said the government has now decided on prior clearances for visas to American citizens of Pakistani origin . . . Sources said that Headley , a Pakistani national who acquired US citizenship after changing his name from Daood Gilani , travelled to India on business visas nine times between 2006 and 2009 . . . And Pillai , responding to queries from reporters today , said : `` We do know that Headley had visited India a number of times . That is being investigated ... He has been in Mumbai and some other places . '' . . Security agencies are looking into Headley 's visits to `` several cities '' and say it is too early to say whether these were linked to the 26/11 terror strike in Mumbai . . . Official sources said Headley was suspected to have set-up an extensive network , particularly in Maharashtra , Gujarat and Uttar Pradesh , using the cover of a businessman . . . Although the government is awaiting the return of Intelligence officials who had gone to interrogate Headley and his associate Tahawwur Hussain Rana , alarm bells are already ringing in the internal security establishment with immigration records being dug out to get hold of the full picture . . . As a first step , the government , sources said , will inform the Americans that visas to its nationals of Pakistani origin will only be given after prior clearances . The government believes that Daood Gilani deliberately acquired a Christian name and American passport to avoid detection in India . . . Headley was arrested last month at Chicago 's O'Hare airport as he prepared to board a flight to Philadelphia , intending to travel to Pakistan .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Union Home Secretary:2", 
+        "confirmed:8", 
+        "plotting:19", 
+        "major terror attack:21", 
+        "American citizens:58", 
+        "Pakistani origin:61", 
+        "Pakistani national:72", 
+        "US citizenship:76", 
+        "changing:79", 
+        "name:81", 
+        "business:90", 
+        "visas:91", 
+        "nine times:92", 
+        "linked:169", 
+        "26/11 terror strike:172", 
+        "extensive network:190", 
+        "Intelligence officials:219", 
+        "associate:229", 
+        "alarm bells:234", 
+        "immigration records:245", 
+        "Americans:274", 
+        "visas:276", 
+        "Pakistani origin:281", 
+        "prior clearances:288", 
+        "deliberately acquired:297", 
+        "Christian name:300", 
+        "American passport:303", 
+        "arrested:315", 
+        "Chicago 's O'Hare airport:319"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/headley-travelled-to-india-nine-times-on-business-visa/539044/", 
+    "date": "26-03-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "FBI", 
+            "17", 
+            "Others"
+        ]
+    ]
+}

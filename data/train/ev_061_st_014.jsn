@@ -1,0 +1,89 @@
+{
+    "LOC": [
+        [
+            "Sarojini Nagar", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Paharganj", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Sarojini Nagar", 
+            "60", 
+            "Event"
+        ], 
+        [
+            "Paharganj", 
+            "71", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "evening : 45"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Delhi serial blasts: toll rises to 61", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "While four of them , who were injured in the Sarojini Nagar blast , died in the Safdarjung hospital , two others were victims of the Paharganj explosion , police said . . . A total of 188 people had been injured in last evening 's explosions , they said . . . Most of the casualties were from Sarojini Nagar where 43 people died while 18 were killed in Paharganj . . . In Safdarjung hospital , 28 of the 41 bodies have been identified so far . Relatives could be seen in distraught condition trying to locate their kin who did not return home after the blasts last evening . Bodies of two more victims have been identified at the All India Institute of Medical Sciences ( AIIMS ) , where 16 people including seven women and five children were undergoing treatment and the condition of two was stated to be critical . I , Safdarjung , 38 victims , including 14 women and 9 children were under treatment . While nine of them were in the intensive care unit , the condition of others was serious , sources said . Twenty four people have been discharged from the two hospitals after treatment overnight . . . .", 
+    "injured": "4", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "South West", 
+        "Delhi", 
+        "Sarojini Nagar "
+    ], 
+    "O": [
+        "police:30", 
+        "overnight:206"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.outlookindia.com/newswire/story/delhi-serial-blasts-toll-rises-to-61/332163", 
+    "date": "30-10-2005", 
+    "target": "", 
+    "hot_spot": "Sarojini Nagar ", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Safdarjung hospital", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "Safdarjung hospital", 
+            "76", 
+            "Others"
+        ], 
+        [
+            "All India Institute of Medical Sciences", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "AIIMS", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "Safdarjung", 
+            "158", 
+            "Others"
+        ]
+    ]
+}

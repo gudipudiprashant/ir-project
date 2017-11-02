@@ -1,0 +1,159 @@
+{
+    "LOC": [
+        [
+            "MUMBAI", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Chhatrapati Shivaji", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Chhatrapati Shivaji Terminus", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "CST", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "CST", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "Tulsiwadi", 
+            "76", 
+            "Neutral"
+        ], 
+        [
+            "Tardeo", 
+            "78", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "122", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "149", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "152", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abbas Ansari", 
+            "86", 
+            "Victim"
+        ], 
+        [
+            "Rakhila Ansari", 
+            "92", 
+            "Victim"
+        ], 
+        [
+            "Mohammad Ansari", 
+            "98", 
+            "Victim"
+        ], 
+        [
+            "Sarfaraz Ansari", 
+            "104", 
+            "Victim"
+        ], 
+        [
+            "Michael Moss", 
+            "249", 
+            "Victim"
+        ], 
+        [
+            "Jurman Rudolf", 
+            "255", 
+            "Victim"
+        ], 
+        [
+            "Schmader Daffne", 
+            "261", 
+            "Victim"
+        ], 
+        [
+            "Brett Tailor", 
+            "276", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:46"
+    ], 
+    "death": "58", 
+    "title": "Of 58 killed at terminus, 22 were Muslims", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        "Chhatrapati Shivaji Terminus"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "MUMBAI : The death toll at Chhatrapati Shivaji Terminus -LRB- CST -RRB- in the recentterror attack should serve to be a lesson to a section of politicians trying to communalise the issue of terrorism . The two gunmen , who spread terror at CST last Wednesday , killed a total of 58 people at CST , 22 of them being Muslims.One Muslim family that took a body blow in the carnage was the Ansaris from Tulsiwadi in Tardeo . Four members of the family -- Abbas Ansari -LRB- 40 -RRB- , Rakhila Ansari -LRB- 40 -RRB- , Mohammad Ansari -LRB- 40 -RRB- and Sarfaraz Ansari -LRB- 17 -RRB- -- were killed in the firing.CR officials said the Muslims killed included both Mumbai residents as well as outsiders who might have come here for work or to meet relatives . Many of them were waiting for trains headed for Uttar Pradesh and West Bengal , said officials.A significant percentage of the 95 people seriously injured in the firing were also Muslims . Eighteen of these 95 , who have been given ex-gratia for treatment , are Muslims . ` The bullet does not care for the victim 's religion , '' a CR security official said.The list of victims prepared by Central Railway -LRB- CR -RRB- also shows the dead to include four foriegners and eight bodies are yet to be identified . CR officials said they were not able to ascertain the permanent addresses of three foreigners , Michael Moss -LRB- 73 -RRB- , Jurman Rudolf -LRB- 68 -RRB- and Schmader Daffne -LRB- 50 -RRB- . Officials have been able to get the address of Brett Tailor -LRB- 49 -RRB- , a resident of Australia.devraj.dasgupta@timesgroup.com .", 
+    "injured": "95", 
+    "org_unorg": "", 
+    "O": [
+        "politicians trying to communalise:27", 
+        "communalise the issue:30", 
+        "muslims killed:118", 
+        "Mumbai residents as well as outsiders:122", 
+        "ex-gratia for treatment:181", 
+        "bullet does not care for the victim 's religion:190"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/mumbai/Of-58-killed-at-terminus-22-were-Muslims/articleshow/3785932.cms?referral=PM", 
+    "date": "26-11-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CR", 
+            "202", 
+            "Others"
+        ], 
+        [
+            "Central Railway", 
+            "211", 
+            "Others"
+        ], 
+        [
+            "CR", 
+            "214", 
+            "Others"
+        ], 
+        [
+            "CR", 
+            "233", 
+            "Others"
+        ]
+    ]
+}

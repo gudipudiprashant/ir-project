@@ -1,0 +1,134 @@
+{
+    "LOC": [
+        [
+            "Dasaswamedh Ghat", 
+            "34", 
+            "Event"
+        ], 
+        [
+            "VARANASI", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Gujarat", 
+            "171", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "M S Dahiya", 
+            "176", 
+            "Others"
+        ], 
+        [
+            "M S", 
+            "176", 
+            "Others"
+        ], 
+        [
+            "Dahiya", 
+            "178", 
+            "Others"
+        ], 
+        [
+            "Dahiya", 
+            "187", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "December:28", 
+        "December 7:28", 
+        "December:134", 
+        "December 7:134"
+    ], 
+    "death": "", 
+    "title": "IM used Semtex in Varanasi blast: Report", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "VARANASI : Has the Indian Mujahideen added Semtex explosive to its armoury ? It appears so , going by the analysis of the samples collected from the December 7 blast site at the Dasaswamedh Ghat . Top police and Anti-Terror Squad -LRB- ATS -RRB- officials , on condition of anonymity , said : ` The use of this explosive is quite certain as initial tests with the Israeli kit have shown the use of multiple chemicals in the bomb . ' Semtex is a general-purpose plastic explosive containing RDX and pentaerythritol tetranitrate -LRB- PETN -RRB- . It is used in commercial blasting , demolition and in certain military applications . The explosive is notoriously popular with global terrorists as it is extremely difficult to detect . But if Semtex was used in the December 7 blast , which mechanism was adopted by the terrorists to detonate the bomb ? The police as well as the investigating agencies are still tight-lipped as the final report of the Forensic Science Institute -LRB- Gujarat -RRB- team led by M S Dahiya is yet to come . It is expected Dahiya 's report would not only reveal the name of the explosive , but also the mechanism used to detonate the bomb . ` If the test report confirms Semtex , it would be an alarming signal for the security agencies who are ill-equipped to detect this sophisticated explosive , ' said a senior police officer . The report is expected anytime in a day or two .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        ""
+    ], 
+    "O": [
+        "semtex explosive:8", 
+        "semtex:8", 
+        "explosive:9", 
+        "police:38", 
+        "anti-terror squad:40", 
+        "explosive:59", 
+        "kit:69", 
+        "use:73", 
+        "bomb:79", 
+        "semtex:82", 
+        "plastic explosive:86", 
+        "rdx:89", 
+        "pentaerythritol tetranitrate:91", 
+        "petn:94", 
+        "blasting:102", 
+        "demolition:104", 
+        "explosive:112", 
+        "semtex:129", 
+        "blast:136", 
+        "mechanism:139", 
+        "bomb:148", 
+        "police:151", 
+        "report:164", 
+        "team:173", 
+        "dahiya:187", 
+        "report:189", 
+        "name:195", 
+        "explosive:198", 
+        "mechanism:203", 
+        "bomb:208", 
+        "semtex:216", 
+        "explosive:235", 
+        "police officer:241"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/varanasi/IM-used-Semtex-in-Varanasi-blast-Report/articleshow/7085947.cms", 
+    "date": "07-12-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "SEMTEX EXPLOSIVE"
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "Anti-Terror Squad", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "Forensic Science Institute", 
+            "167", 
+            "Others"
+        ]
+    ]
+}

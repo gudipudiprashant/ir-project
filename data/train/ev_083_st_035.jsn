@@ -1,0 +1,158 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Thane", 
+            "71", 
+            "Assoc_Event"
+        ], 
+        [
+            "Vashi", 
+            "73", 
+            "Assoc_Event"
+        ], 
+        [
+            "Panvel", 
+            "75", 
+            "Assoc_Event"
+        ], 
+        [
+            "Malegaon", 
+            "92", 
+            "Assoc_Event"
+        ], 
+        [
+            "Malegaon", 
+            "110", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "199", 
+            "Neutral"
+        ], 
+        [
+            "Solapur", 
+            "218", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Hemant Karkare", 
+            "11", 
+            "Victim"
+        ], 
+        [
+            "Vijay Salaskar", 
+            "16", 
+            "Victim"
+        ], 
+        [
+            "Ashok Kamte", 
+            "21", 
+            "Victim"
+        ], 
+        [
+            "Karkare", 
+            "36", 
+            "Victim"
+        ], 
+        [
+            "Karkare", 
+            "98", 
+            "Victim"
+        ], 
+        [
+            "Karkare", 
+            "113", 
+            "Victim"
+        ], 
+        [
+            "Vijay Salaskar", 
+            "142", 
+            "Others"
+        ], 
+        [
+            "Kamte", 
+            "190", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday : 28", 
+        "January : 59", 
+        "September 29 : 88"
+    ], 
+    "death": "", 
+    "title": "Three top cops die on duty", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Mumbai : Three police officers , including chief of ATS Hemant Karkare , encounter specialist Vijay Salaskar and additional commissioner Ashok Kamte succumbed to their injuries in Wednesday 's terror attack . -LRB- Watch -RRB- Karkare , IPS officer of the 1982 batch , had served in RAW for nine years and was made the ATS chief in January this year . He had solved the serial bomb blasts in Thane , Vashi and Panvel . The credit for the stunning revelations in the investigation of the September 29 blast in Malegaon goes to his credit . Karkare is known for his discipline and fair investigation . During the Malegaon investigation , Karkare had told his officers not to create false evidence , saying , ` We have done our job and it is for the court to decide . ' Vijay Salaskar , officer of the 1983 batch , had till recently killed around 75 dreaded criminals in police encounters . After being out of the spotlight for quite sometime , the encounter specialist was given the plum posting of heading the anti-extortion wing of the crime branch.Ashok Kamte was the DCP , Zone 1 , in Mumbai and was also the key officer in state police . He had also served as the commissioner of Solapur and was always known to be in the thick of action . QnA | By putting their lives on the line , do you think the chief cops left their juniors without a leader , causing even more mayhem that could have otherwise been avoided ? .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "three police officers:3", 
+        "chief of ats:8", 
+        "encounter specialist:14", 
+        "additional commissioner:19", 
+        "succumbed:23", 
+        "injuries:26", 
+        "ips officer:38", 
+        "1982 batch:42", 
+        "nine years:50", 
+        "ats chief:56", 
+        "solved:65", 
+        "serial bomb blasts:67", 
+        "credit:78", 
+        "stunning revelations:81", 
+        "investigation:85", 
+        "Malegaon investigation:110", 
+        "officer of the 1983 batch:145", 
+        "recently killed:153", 
+        "75 dreaded criminals:156", 
+        "police encounters:160", 
+        "dcp:193", 
+        "zone 1:195", 
+        "commissioner:216"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/mumbai/Three-top-cops-die-on-duty/articleshow/3762023.cms?referral=PM", 
+    "date": "26-11-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ATS", 
+            "10", 
+            "Victim"
+        ], 
+        [
+            "RAW", 
+            "48", 
+            "Others"
+        ]
+    ]
+}

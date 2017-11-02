@@ -1,0 +1,150 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Disukhnagar", 
+            "33", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Majlis-e-Ittehadul Muslimeen", 
+            "4", 
+            "Comment"
+        ], 
+        [
+            "MIM", 
+            "7", 
+            "Comment"
+        ], 
+        [
+            "MP Asaduddin Owaisi", 
+            "12", 
+            "Comment"
+        ], 
+        [
+            "Sushma Swaraj", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "Akbaruddin Owaisi", 
+            "29", 
+            "Accused"
+        ], 
+        [
+            "Swaraj", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "Owaisi", 
+            "52", 
+            "Accused"
+        ], 
+        [
+            "Swaraj", 
+            "71", 
+            "Others"
+        ], 
+        [
+            "Asaduddin Owaisi", 
+            "85", 
+            "Accused"
+        ], 
+        [
+            "Akbaruddin Owaisi", 
+            "90", 
+            "Accused"
+        ], 
+        [
+            "Swaraj", 
+            "147", 
+            "Others"
+        ], 
+        [
+            "Owaisi", 
+            "195", 
+            "Accused"
+        ], 
+        [
+            "Swaraj", 
+            "202", 
+            "Others"
+        ], 
+        [
+            "Owaisi", 
+            "204", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 44"
+    ], 
+    "death": "16", 
+    "title": "Asaduddin Owaisi criticises Sushma Swaraj for linking him to Hyderabad blasts", 
+    "det_loc": [
+        "India", 
+        "TELANGANA", 
+        "", 
+        "Disukhnagar", 
+        "Disukhnagar"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi : Majlis-e-Ittehadul Muslimeen ( MIM ) chief and Hyderabad MP Asaduddin Owaisi has strongly condemned BJP leader Sushma Swaraj for linking him and his brother MLA Akbaruddin Owaisi to the Disukhnagar serial blasts case . in her speech in Parliament on Friday , Leader of Opposition Swaraj had linked Owaisi brothers with the twin blasts which claimed 16 lives . . . During her speech in Parliament , Swaraj had wondered if the twin blasts had to do with provocative speeches by Asaduddin Owaisi or his brother Akbaruddin Owaisi . `` Do these blasts have a connection with the provocative speeches made by an honourable member of this house ? '' she asked , initiating an impromptu discussion . . . Reacting to Swarajs remarks , the Hyderabad MP said the remarks were `` unfortunate '' and `` irresponsible '' . . . `` Swaraj can hate me , but she should have waited for the investigations to conclude before politically exploiting the issue . Most of those killed were from my constituency . Five of them were Muslims . Terror does not discriminate between religion , '' Hindustan Times has quoted Owaisi as saying . . . Slamming Swaraj , Owaisi said , `` One does n't accept such irresponsible statements from the Leader of the Opposition and one of the contenders for the PM 's post at a time when the last rites of the martyrs have not yet been performed . '' . . He described the bombings as an `` attack on the nation '' . He further said despite differences with the Congress government , his party was `` extending all cooperation '' to maintain calm and peace . . . googletag.display ( ` div-gpt-ad-1415181470682-6 ' ) ; . . googletag.display ( ` div-gpt-ad-1415181470682-6 ' ) ; . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Leader of the Opposition:217", 
+        "PM:228"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://daily.bhaskar.com/news/NAT-TOP-asaduddin-owaisi-criticises-sushma-swaraj-for-linking-him-to-hyderabad-blasts-4189378-NOR.html", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "Disukhnagar", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "BJP", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "MLA", 
+            "28", 
+            "Others"
+        ], 
+        [
+            "Leader of Opposition", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "Hyderabad MP", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "Hindustan Times", 
+            "191", 
+            "Others"
+        ]
+    ]
+}

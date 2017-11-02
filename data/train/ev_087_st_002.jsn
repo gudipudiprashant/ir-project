@@ -1,0 +1,155 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "328", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Wasim Akram Malik", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "Malik", 
+            "43", 
+            "Accused"
+        ], 
+        [
+            "Malik", 
+            "93", 
+            "Accused"
+        ], 
+        [
+            "H. S. Sharma", 
+            "141", 
+            "Comment"
+        ], 
+        [
+            "Afzal Guru", 
+            "195", 
+            "Others"
+        ], 
+        [
+            "Sharma", 
+            "261", 
+            "Comment"
+        ], 
+        [
+            "Amir Abbas Dev", 
+            "274", 
+            "Accused"
+        ], 
+        [
+            "Malik", 
+            "305", 
+            "Accused"
+        ], 
+        [
+            "Dev", 
+            "307", 
+            "Accused"
+        ], 
+        [
+            "Malik", 
+            "325", 
+            "Accused"
+        ], 
+        [
+            "Malik", 
+            "366", 
+            "Accused"
+        ], 
+        [
+            "Sharma", 
+            "442", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:6", 
+        "September 7:56", 
+        "June 29 : 330", 
+        "September 18:370"
+    ], 
+    "death": "15", 
+    "title": "Delhi High Court blast accused charged with terror, murder", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "", 
+        "Delhi", 
+        "outside the Delhi High Court"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A special NIA court on Tuesday ordered that terror and murder charges be framed against Delhi High Court blast accused Wasim Akram Malik . However , the court said that the offence of waging war against India was not made out against Malik by the NIA . The blast outside the Delhi High Court on September 7 last year killed 15 people and left scores of persons injured . . . The court ordered framing of criminal conspiracy , murder , attempt to murder , and voluntarily causing grievous hurt charges against Malik under the Indian Penal Code . Charges under various sections of the Explosive Substance Act and the Unlawful Activities -LRB- Prevention -RRB- Act were also ordered to be framed against the accused . . . On the charge of waging war against the country , Special Judge H. S. Sharma said : These offences -LRB- relating to waging war against country -RRB- require something more than the one which is available against the accused in this case . Merely because a bomb had exploded outside the Delhi High Court and in the e-mail , there was a reference of release of Afzal Guru , it does not mean that these three offences are made out . . . The three sections of the IPC 121-A , 122 , 123 of IPC relate to waging war against the country . The evidence , even at the stage of framing of charges under these sections has to be clear and commensurate with the requirement of these sections , Mr. Sharma said . . . One of the accused in the case , Amir Abbas Dev , had turned approver and was granted pardon by the judge . His statement recorded under Sector 164 of the Criminal Procedure Code has material that apparently indicts Malik . Dev is currently lodged in judicial custody . . . The statements of prosecution witnesses who said that Malik was in Delhi on June 29 to conduct reconnaissance in areas including the High Court was relied on by the court to state that there was prima facie evidence against the accused . . . Formal framing of charges against Malik is slated for September 18 . The court also said it was deliberately refraining from discussing the evidence in detail at this stage of proceedings . . . It is well settled that at the time of framing of charges , no rowing inquiry is to be made . The court is required to take into account the evidence collected during the investigation . The evidence is not required to be meticulously examined , Mr. Sharma said .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Indian Penal Code:96", 
+        "Explosive Substance Act:106", 
+        "Unlawful Activities:111", 
+        "Criminal Procedure Code:297"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/cities/Delhi/article3861769.ece", 
+    "date": "07-09-2011", 
+    "target": "", 
+    "hot_spot": "outside the Delhi High Court", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "NIA court", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "339", 
+            "Others"
+        ]
+    ]
+}

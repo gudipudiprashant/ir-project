@@ -1,0 +1,146 @@
+{
+    "LOC": [
+        [
+            "marketplace", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Alipurduar", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "38", 
+            "Neutral"
+        ], 
+        [
+            "super market complex", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Chowpathy", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "central", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Jalpaiguri", 
+            "62", 
+            "Neutral"
+        ], 
+        [
+            "north Bengal", 
+            "89", 
+            "Neutral"
+        ], 
+        [
+            "Barobisa", 
+            "130", 
+            "Event"
+        ], 
+        [
+            "Alipurduar", 
+            "133", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ananth Kumar", 
+            "65", 
+            "Comment"
+        ], 
+        [
+            "K L Tamta", 
+            "92", 
+            "Comment"
+        ], 
+        [
+            "Tamta", 
+            "138", 
+            "Comment"
+        ], 
+        [
+            "Sujit Das", 
+            "171", 
+            "Victim"
+        ], 
+        [
+            "Tamta", 
+            "175", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:28"
+    ], 
+    "death": "2", 
+    "title": "Two killed,17 injured in Bengal bombblast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "KAMTAPUR LIBERATION ORGANISATION", 
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Two persons were killed and 17 others injured when a powerful bomb strapped to a cycle exploded at a busy marketplace in north Bengals Alipurduar town on Wednesday . . . The cycle-bomb , more familiar in Assam , exploded with a deafening sound at a super market complex at busy Chowpathy in the central part of the town , the Jalpaiguri SP , Ananth Kumar , said . . . The bomb was a powerful one , though its exact nature was being ascertained , IG , north Bengal , K L Tamta said . . . Asked if it could be the handiwork of the ULFA , he said , Why should ULFA insurgents come here ? Two years ago there was a similar cycle-bomb explosion at Barobisa in the Alipurduar sub-division . . . Tamta said the whole area had been cordoned off and the injured had been admitted to a Alipurduar sub-divisional hospital . . . One of the two persons killed has been identified as Sujit Das ,27 , Tamta said . . . Extremists of Kamtapur Liberation Organisation and ULFA are active in the area . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "ALIPURDUAR", 
+        "", 
+        "north Bengals Alipurduar,marketplace"
+    ], 
+    "O": [
+        "SP:63", 
+        "IG:87"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indianexpress.com/article/india/regional/two-killed-17-injured-in-bengal-bomb-blast/", 
+    "date": "18-03-2009", 
+    "target": "MARKETPLACE", 
+    "hot_spot": "north Bengals Alipurduar,marketplace", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "108", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "115", 
+            "Accused"
+        ], 
+        [
+            "Alipurduar sub-divisional hospital", 
+            "155", 
+            "Others"
+        ], 
+        [
+            "Kamtapur Liberation Organisation", 
+            "182", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "186", 
+            "Accused"
+        ]
+    ]
+}

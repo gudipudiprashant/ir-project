@@ -1,0 +1,126 @@
+{
+    "LOC": [
+        [
+            "cinema hall", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Upper Assams Sivasagar", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "74", 
+            "Victim"
+        ], 
+        [
+            "Sivasagar", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "Central Market", 
+            "139", 
+            "Event"
+        ], 
+        [
+            "Lakshmi Talkies", 
+            "142", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Paresh Barua", 
+            "38", 
+            "Accused"
+        ], 
+        [
+            "G. D. Tripathi", 
+            "56", 
+            "Comment"
+        ], 
+        [
+            "Mr. Tripathi", 
+            "121", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 24", 
+        "evening : 106"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:23"
+    ], 
+    "death": "1", 
+    "title": "One killed as bomb goes off in Assam", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASOM "
+    ], 
+    "content": "One person was killed and seven injured when a bicycle-bomb went off outside a cinema hall in Upper Assams Sivasagar town on Monday night . . . Police suspect that the blast was the handiwork of the Paresh Barua faction of the United Liberation Front of Asom -LRB- ULFA -RRB- . . . Home Secretary G. D. Tripathi told The Hindu that one critically injured person was shifted to Assam Medical College in Dibrugarh , while the others were admitted to hospitals in Sivasagar town . . . It is suspected that an improvised explosive device was used . Had the blast occurred in the evening when the place is crowded , there would have been many more casualties , Mr. Tripathi said . . . PTI reports : . . Police said the blast was triggered between Central Market and Lakshmi Talkies in the heart of the town .", 
+    "injured": "7", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Sivasagar", 
+        "Upper Assams Sivasagar town", 
+        "Upper Assams Sivasagar town"
+    ], 
+    "O": [
+        "Home Secretary:54", 
+        "The Hindu:60", 
+        "Assam Medical College:70", 
+        "hospitals:82", 
+        "PTI:127"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/one-killed-as-bomb-goes-off-in-assam/article3934144.ece", 
+    "date": "24-09-2012", 
+    "target": "", 
+    "hot_spot": "Upper Assams Sivasagar town", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Police", 
+            "28", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "43", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "49", 
+            "Accused"
+        ], 
+        [
+            "Assam Medical College", 
+            "70", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "132", 
+            "Others"
+        ]
+    ]
+}

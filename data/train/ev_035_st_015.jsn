@@ -1,0 +1,146 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Assams", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Nalbari", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Fancybazar", 
+            "152", 
+            "Event"
+        ], 
+        [
+            "Panbazar", 
+            "154", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "160", 
+            "Neutral"
+        ], 
+        [
+            "Ganeshguri", 
+            "166", 
+            "Event"
+        ], 
+        [
+            "Itanagar", 
+            "170", 
+            "Neutral"
+        ], 
+        [
+            "Nagaon", 
+            "182", 
+            "Neutral"
+        ], 
+        [
+            "Ganeshguri", 
+            "196", 
+            "Event"
+        ], 
+        [
+            "Nagaon", 
+            "212", 
+            "Neutral"
+        ], 
+        [
+            "Lakhmipur", 
+            "221", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dabojit Deuri", 
+            "36", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:11", 
+        "October 30:25"
+    ], 
+    "death": "81", 
+    "title": "Assam blasts case: 7 more detained", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Nalbari", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . Guwahati : The City police on Thursday picked up seven persons from lower Assams Nalbari district in connection with the October 30 serial blasts . . . Additional Superintendent of Police Dabojit Deuri told TheHindu that they were being brought to the city for questioning . . . Police sources said they were picked up based on the leads thrown up by the Maurti cars that were used as car bombs to trigger the three blasts in the city . . . The serial blasts claimed 81 lives and injured 826 people . . . Initial investigations revealed that the number plate used on the cars were fake . The Special Investigation Team -LRB- SIT -RRB- is now using the engine and chassis numbers to trace its present owner and the past owners . . . Police sources said the car used to trigger the explosion at Fancybazar near Panbazar police station was sold in Delhi and the one used in Ganeshguri was sold in Itanagar . . . The police had picked up one person in Nagaon for questioning some time ago as the car used in connection in the Ganeshguri blast was once owned by him . Five persons were picked up earlier two in Nagaon , one in the city and two in Lakhmipur district . . . Protest rallies . . The All Assam Students Union took out rallies to protest the alleged failure of the Congress-led coalition government in the State to prevent the blasts .", 
+    "injured": "826", 
+    "org_unorg": "", 
+    "O": [
+        "City police:8", 
+        "seven persons:14", 
+        "serial blasts:27", 
+        "thrown up:64", 
+        "Maurti cars:68", 
+        "car bombs:74", 
+        "three blasts:79", 
+        "serial blasts:88", 
+        "investigations revealed:101", 
+        "engine and chassis numbers:125", 
+        "trace:130", 
+        "explosion:150", 
+        "Protest rallies:226", 
+        "rallies:237", 
+        "protest:239", 
+        "Congress-led coalition government:245", 
+        "blasts:254"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/assam-blasts-case-7-more-detained/article1371337.ece", 
+    "date": "30-10-2008", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "Fancybazar and Ganeshguri", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "THROWN", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "TheHindu", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "Special Investigation Team", 
+            "115", 
+            "Others"
+        ], 
+        [
+            "SIT", 
+            "119", 
+            "Others"
+        ], 
+        [
+            "All Assam Students Union", 
+            "231", 
+            "Others"
+        ]
+    ]
+}

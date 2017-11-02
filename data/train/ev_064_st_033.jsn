@@ -1,0 +1,168 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Kashmir", 
+            "57", 
+            "Accused"
+        ], 
+        [
+            "India", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "118", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "124", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "179", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "219", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "230", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "247", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "260", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "315", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "353", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "M Bennett", 
+            "4", 
+            "Comment"
+        ], 
+        [
+            "Ajit Doval", 
+            "131", 
+            "Comment"
+        ], 
+        [
+            "Doval", 
+            "142", 
+            "Comment"
+        ], 
+        [
+            "Doval", 
+            "202", 
+            "Others"
+        ], 
+        [
+            "Dawood Ibrahim", 
+            "209", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Doval", 
+            "268", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "March 12 , 1993 : 215", 
+        "12:216"
+    ], 
+    "death": "", 
+    "title": "'The masterminds are not in India'", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "British intelligence analystRichard M Bennett says the serial attacks in Mumbai were masterminded by outfits from abroad . . . According to him , ` The level of sophistication and organisation needed to carry out such a widespread and tightly coordinated attack is beyond the known capabilities of any of the Islamic groups operating in either Kashmir or elsewhere in India . ' . . In an e-mail to rediff.com immediately after the blasts , he said , ` This has all the hallmarks of a Special Forces/Intelligence operation ... it may have been carried out by expendable extremists , but those who were the promoters and brains have military training . ' . . ` The Mumbai blasts is an attack on India 's soft underbelly , ' said Ajit Doval , former director , Intelligence Bureau . . . Doval too agrees with the views of the British expert . ` From my experience I think that the blasts are not an indigenous effort . It is the exported variety of terrorism . The blasts of Mumbai have a foreign origin and it is obvious that a lot of effort has gone behind its execution . ' . . Doval , who extensively investigated fugitive gangster Dawood Ibrahim 's involvement in the March 12 , 1993 Mumbai bomb blasts , said , ` The saboteurs are telling India that they are alive , kicking and have the capacity to strike at any place in India , at a time of their choosing . ' . . ` India must give a counter message , ' Doval said . ` We must prove that we have the capacity to hound them wherever they are . Terrorists must get the message that the threshold level of patience of Indians is not infinite . If we do n't do something now then the enemies of India will keep surprising us . ' . . ` Today 's blasts must have involved more than 25 people who might have knowingly and unknowingly participated . It is very likely that the masterminds are not in India . The actual perpetrators may not be more than four or five but these guys must have got help from many people . The infrastructure for these blasts must have been quite big . Motor vehicles , local agents , people who provided cover to terrorists and people who planted the devices must have been involved . They should be and will be found out . ' .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "outfits:15", 
+        "sophistication:29", 
+        "e-mail:68", 
+        "director ,:135", 
+        "who:204", 
+        "gangster:208", 
+        "saboteurs:227", 
+        "kicking:236", 
+        "counter:264", 
+        "that:275", 
+        "terrorists:287", 
+        "masterminds:349", 
+        "guys:368", 
+        "been quite:384"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/12sheela.htm", 
+    "date": "13-07-2011", 
+    "target": "CITIZENS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "British intelligence", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Islamic groups", 
+            "52", 
+            "Accused"
+        ], 
+        [
+            "rediff.com", 
+            "70", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "137", 
+            "Others"
+        ]
+    ]
+}

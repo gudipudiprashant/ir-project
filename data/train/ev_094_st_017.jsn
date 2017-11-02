@@ -1,0 +1,944 @@
+{
+    "LOC": [
+        [
+            "Bihar", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "76", 
+            "Neutral"
+        ], 
+        [
+            "Kutch", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "Bharuch", 
+            "112", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "136", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "155", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "172", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "183", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "413", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "505", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "562", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "684", 
+            "Neutral"
+        ], 
+        [
+            "Lohia", 
+            "706", 
+            "Neutral"
+        ], 
+        [
+            "Lohia", 
+            "723", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "741", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "777", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "784", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "832", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "841", 
+            "Neutral"
+        ], 
+        [
+            "Chamaparan", 
+            "852", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "860", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "890", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "922", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "932", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "1122", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "1125", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1315", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "1330", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "1354", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1461", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1481", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "1519", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1534", 
+            "Event"
+        ], 
+        [
+            "Munger", 
+            "1591", 
+            "Neutral"
+        ], 
+        [
+            "railway station", 
+            "1622", 
+            "Event"
+        ], 
+        [
+            "Motihari", 
+            "1670", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1724", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1748", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "1761", 
+            "Neutral"
+        ], 
+        [
+            "Bhojpuri", 
+            "1808", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "1826", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1852", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "1891", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2012", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "2025", 
+            "Neutral"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "2049", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "2066", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2075", 
+            "Event"
+        ], 
+        [
+            "Patna railway station", 
+            "2090", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narendra Modi", 
+            "12", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "53", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "61", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "84", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "177", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "249", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "284", 
+            "Comment"
+        ], 
+        [
+            "Chanakya", 
+            "291", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "485", 
+            "Comment"
+        ], 
+        [
+            "Nitish", 
+            "487", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "601", 
+            "Comment"
+        ], 
+        [
+            "Lalu Prasad", 
+            "604", 
+            "Others"
+        ], 
+        [
+            "Lalu Prasad", 
+            "608", 
+            "Others"
+        ], 
+        [
+            "Lalu Prasad", 
+            "638", 
+            "Others"
+        ], 
+        [
+            "Lalu Prasad", 
+            "654", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "663", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "667", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "774", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "904", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "918", 
+            "Others"
+        ], 
+        [
+            "Nitish Kumar", 
+            "924", 
+            "Others"
+        ], 
+        [
+            "Rajnath Singh", 
+            "949", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "976", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "978", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "1021", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh .", 
+            "1025", 
+            "Comment"
+        ], 
+        [
+            "Rajnath", 
+            "1067", 
+            "Comment"
+        ], 
+        [
+            "Arun Jaitley", 
+            "1110", 
+            "Others"
+        ], 
+        [
+            "Jaitley", 
+            "1150", 
+            "Others"
+        ], 
+        [
+            "Loknayak Jayaprakash Narayan", 
+            "1168", 
+            "Others"
+        ], 
+        [
+            "Ram Manohar Lohia", 
+            "1172", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "1185", 
+            "Comment"
+        ], 
+        [
+            "Shatrughan Sinha", 
+            "1239", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "1260", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "1264", 
+            "Comment"
+        ], 
+        [
+            "Rajnath Singh", 
+            "1270", 
+            "Comment"
+        ], 
+        [
+            "Arun jaitley", 
+            "1280", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "1294", 
+            "Comment"
+        ], 
+        [
+            "Sushil Kumar Modi", 
+            "1334", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "1357", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "1361", 
+            "Others"
+        ], 
+        [
+            "Lalu", 
+            "1367", 
+            "Others"
+        ], 
+        [
+            "Nitish", 
+            "1369", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "1389", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "1415", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "1419", 
+            "Comment"
+        ], 
+        [
+            "Lalu", 
+            "1436", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "1451", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "1467", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "1477", 
+            "Comment"
+        ], 
+        [
+            "Ravi Shankar Prasad", 
+            "1489", 
+            "Others"
+        ], 
+        [
+            "Prasad", 
+            "1522", 
+            "Others"
+        ], 
+        [
+            "Giriraj Singh", 
+            "1569", 
+            "Comment"
+        ], 
+        [
+            "Giriraj Singh", 
+            "1575", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "1586", 
+            "Others"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "1602", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "1606", 
+            "Comment"
+        ], 
+        [
+            "Niraj Singh", 
+            "1739", 
+            "Comment"
+        ], 
+        [
+            "Azad", 
+            "1783", 
+            "Others"
+        ], 
+        [
+            "Kirti Azad", 
+            "1797", 
+            "Comment"
+        ], 
+        [
+            "Rudy", 
+            "1803", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "1818", 
+            "Others"
+        ], 
+        [
+            "Shahnawaz Hussain", 
+            "1847", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "1857", 
+            "Others"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "1872", 
+            "Others"
+        ], 
+        [
+            "Hussain", 
+            "1877", 
+            "Comment"
+        ], 
+        [
+            "Rajiv Pratap Rudy", 
+            "1884", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "1889", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "1914", 
+            "Comment"
+        ], 
+        [
+            "Hussain", 
+            "1919", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "1925", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi ?", 
+            "1933", 
+            "Comment"
+        ], 
+        [
+            "Sushil Kumar", 
+            "1936", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "1938", 
+            "Comment"
+        ], 
+        [
+            "Hussain", 
+            "1946", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "1961", 
+            "Others"
+        ], 
+        [
+            "Hussain", 
+            "1965", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "1988", 
+            "Comment"
+        ], 
+        [
+            "Hussain", 
+            "1993", 
+            "Comment"
+        ], 
+        [
+            "Hussain", 
+            "1998", 
+            "Comment"
+        ], 
+        [
+            "Rajiv Pratap Rudy", 
+            "2005", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "2010", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "2069", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "2.30 pm : 49", 
+        "night : 452", 
+        "1.35 pm:900", 
+        "1.30 pm:912", 
+        "1.20 pm:943", 
+        "1.10 pm:1106", 
+        "1.05 pm:1234", 
+        "1.00 pm:1290", 
+        "12.50 pm : 1301", 
+        "12.30 pm:1325", 
+        "12.10 pm : 1485", 
+        "12.10 pm : 1527", 
+        "11.45 am : 1563", 
+        "11.45 am : 1611", 
+        "11.40 am : 1716", 
+        "11.40 am : 1730", 
+        "11.35 am : 1792", 
+        "11.30 : 1812", 
+        "11.30 am : 1837", 
+        "night : 2029", 
+        "8 am:2038", 
+        "11 am : 2081"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:21", 
+        "2006:675", 
+        "1977:1159", 
+        "1989:1161", 
+        "September 13:1180", 
+        "1977 : 1212", 
+        "Sunday:1726", 
+        "Saturday:2028", 
+        "Sunday:2041", 
+        "Sunday:2077"
+    ], 
+    "death": "", 
+    "title": "Narendra Modi tears into Nitish Kumar at Hunkaar Rally", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "View PhotosPatna , Oct 27 : BJP 's prime ministerial candidate Narendra Modi addressed a mega BJP rally here on Sunday . The rally was preceded by a series of low-intensity blasts in the Bihar capital , which led to the death of one person . . . 2.30 pm . . Narendra Modi concludes his speech . . . Modi asks people to return home safely . `` You have won the heart of India . '' he said . . . Modi on Muslims and development . . `` Both Hindus and Muslims need to fight poverty together instead of fighting themselves . '' . . `` Kutch and Bharuch districts in Gujarat are highly developed and both have huge presence of Muslims . '' . . The Haj quota for Muslims in Bihar is 7,500 while the number of applications is much below that for the Muslims are poor . In Gujarat , 40,000 applications come for 4,500 seats . It is because the Muslims are happier in Gujarat . '' . . Modi speaks on special package for Bihar . . `` Bihar BJP has asked the government for 50 crore for development of the state . '' . . `` It 's just a matter of 200 days . We will pay back your affection . '' . . `` This is not only a historic rally but a rally that will set a new history , '' Mod said . . . Modi slams JD ( U ) minister for saying that one joins the army only to get killed . `` Will you tolerate such humiliation ? '' , he asks the audience . . . Modi takes on Congress . . `` Chanakya stressed unity of India . Now , we are upto dividing it internally . '' . . `` A person who used to sell tea in trains knows more problems about trains than even the rail minister and I have seen those problems more closely . '' . . `` The Congress promised to give employment to the youth . Has it done anything on this aspect ? '' . . `` The Congress had promised to curb price rise within 100 days of coming to power . Has it done anything in 10 years ? '' . . `` Dynasty is the biggest enemy of democracy . Other enemies are casteism , communal politics and opportunism . The politics in Bihar has been hit by all these evils . '' . . `` If the Congress gives up its dynastic politics , I will stop uttering the name Shahzada . '' . . `` I was seeing TV last night , our Congress friends seem very troubled that why I mention the word Shahzada . '' . . `` We must realise of the dream of Congress-free India . '' . . Modi targets Nitish again . . `` He betrayed not only with the BJP but with crores of people of Bihar . '' . . `` Our friend was told top join the Congress so that he could become the PM . '' . . `` BJP had double number of seats than JD ( U ) but still we agreed to make our friend the CM . '' . . `` Once I was with my Bihar friend on the same table during a CM 's meeting . He was apprehensive sitting with me . I assured him that there was no camera man around . Hypocrisy must have a limit . '' . . Narendra Modi on Lalu Prasad . . Lalu Prasad never spares me and says he will never allow me to become the PM . '' . . `` Three months ago he accident and I called Mr Lalu Prasad . '' . . `` I did not tell anything in the media but Lalu Prasad acknowledged my gesture . '' . . Narendra Modi tears into Nitish Kumar . . `` It was in 2006 when your CM & my friend came to Gujarat for a wedding , I was also there and we offered him full hospitality . '' . . `` JP and Lohia will never forgive their actions . '' . . `` Those who consider them disciples of Lohia , they have stabbed him in the back and are with Congress . '' . . `` Bihar CM has been my dear friend . When people ask me why he left you , I tell them he who leaves JP , can easily dump BJP . '' . . Modi speaks on Bihar 's glorious past . . `` Bihar has always guided the country . It gave the country personalities like Buddha , Mahavir , Guru Govind Singh & Jayaprakash Narayan . '' . . `` Who is giving the Hunkaar today ? It is the hunkaar of crores of Indians and it has emerged from Bihar . '' . . `` The history of India has two important events . One , the Satyagraha in Chamaparan and two , the Dandi March in Gujarat . '' . . `` This is not a mega rally . It is an occasion to show Bharat ki Mahashakti . '' . . `` The history of Bihar is the history of India . '' . . 1.35 pm . . Narendra Modi begins his address . . . 1.30 pm . . Prime Minister Manmohan Singh calls up Bihar CM Nitish Kumar and asks him to investigate the Patna blasts . He also condemns the blasts . . . 1.20 pm . . BJP president Rajnath Singh addresses . . . `` BJP does not play communal politics like Congress and JD ( U ) , '' he said . . . Singh mocked Rahul Gandhi . `` Do n't try to exploit the sentiments of the common people , '' he said . . . Singh asked if the PM does n't say anything , then how the CBI will make him speak ? . . Singh mocks Prime Minister Manmohan Singh . `` Our PM , whatever he puts his hands on that thing disappears like potatoes , onions , coal files , '' he said . . . `` Will look after the farmers ' interests . '' . . Rajnath tears in to the UPA government over price rise . `` You have seen a BJP government at the Centre . In 6 years , prices were not allowed to rise , '' he said . . . 1.10 pm . . Arun Jaitley speaks . . . `` There will be change in Delhi and also Patna . '' . . `` The Centre is the most corrupt government in history and its leadership has disappointed all . '' . . Jaitley rakes up the anti-Congress mood that prevailed in 1977 and 1989 . He speaks about leaders like Loknayak Jayaprakash Narayan and Ram Manohar Lohia . . . `` On September 13 , BJP declared Modi as the PM candidate and the political landscape of the nation has changed since then . '' . . `` I have seen the elections of 1977 but the excitement and winds of change . Those who do not understand will be swept away . '' . . 1.05 pm . . Actor-turned-politician Shatrughan Sinha , who is the local MP , also present at the venue . He welcomes the national leaders and Modi . . . Modi is accompanied by BJP president Rajnath Singh and Leader of the Opposition in Rajya Sabha Arun jaitley . Both have been fecilitated . . . 1.00 pm . . Narendra Modi reaches venue . . . 12.50 pm . . A seven-member team comprising NIA and NSG personnel sent to Patna in the wake of the blasts . . . 12.30 pm . . Former Bihar deputy chief minister Sushil Kumar Modi speaks . . . `` History will never forgive you . You have betrayed the people of Bihar , '' Modi said while attacking Nitish Kumar . . . `` Lalu and Nitish did their rallies in power . Today we are not in power but we did this rally '' , Modi said . . . `` More than half of the people attending the rally are youth . Youth are with us and youth are with Narendra Modi , '' Modi said . . . `` In my 40 years of public life , saw JP and Lalu rally and even JDU rallies but this rally has broken all records . '' Modi said . . . Seven low-intensity blasts reported from Patna in all , ahead of Modi 's address . . . 12.20 pm . . Narendra Modi has reached Patna . . . 12.10 pm . . Ravi Shankar Prasad , the Deputy Leader of Opposition in Rajya Sabha , speaks . . . `` This is not a BJP but the Shankhnad of the people of Bihar , '' Prasad said . . . 12.10 pm . . Another blast in Patna , this time near a cinema hall , close to the rally venue . One person died while six were injured in the twin blasts . . . 11.45 am . . BJP leader Giriraj Singh speaks . . . Giriraj Singh calls the opponents handicapped people . . . `` Nitish Kumar has fled to Munger . Let us pack him off to the house of Sonia Gandhi , '' Singh said . . . 11.45 am . . The person injured in blast in the railway station , succumbs to his injuries . . . The home ministry has sought report from Bihar government on the railway station blast . The police said they would question the injured person . . . A special train carrying people to the rally was attacked in Motihari . . . Over 8 lakh people are expected to turn up at the event.Eleven special trains , 6,000 buses , 126 river boats , 33 cranes , 20,000 SUVs and a giant hi-tech stage have been set up for the event . . . 11.40 am . . Weather is clear in Patna on Sunday . . . 11.40 am . . JD ( U ) spokesperson Niraj Singh said they are not responsible for the Patna blast . . . `` We had a great enjoyment in defeating Pakistan during our playing days . But the current prime minister does nothing even when Pakistanis are beheading our soldiers , '' Azad , an MP , said . . . 11.35 am . . Cricketer-turned-politician Kirti Azad speaks . Earlier , Rudy addressed the crowd in Bhojpuri . . . 11.30 am . . RJD blames Nitish Kumar government over the bomb explosion in Patna , says it 's a security failure . . . 11.30 am . . BJP leader and former Union minister Shahnawaz Hussain speaks at the Patna rally . He slams Nitish Kumar and JD ( U ) over terminating relation with the BJP and also Rahul Gandhi . . . Hussain concludes his speech . He and Rajiv Pratap Rudy will receive Modi at Patna airport . . . `` If the ambience is so electric now itself , just imagine what it will be like after Narendra Modi speaks , '' Hussain said . . . `` Nitish Kumar , what will you fight against Narendra Modi ? Sushil Kumar Modi alone is enough for you , '' Hussain said . . . `` Will not let division of the Muslim society like Rahul Gandhi , '' Hussain said . . . `` If the ambience is so electric now itself , just imagine what it will be like after Narendra Modi speaks , '' Hussain said . . . Hussain concludes his speech . He and Rajiv Pratap Rudy will receive Modi at Patna airport . . . 11.15 am . . People were camping in Gandhi Maidan since Saturday night and the venue was almost filled up by 8 am on Sunday . . . All roads leading to Gandhi Maidan , the venue of the Hunkaar Rally , have severe traffic jam . . . Bihar Chief Minister Nitish Kumar will not be in Patna on Sunday . . . 11 am . . A crude bomb explosion in Patna railway station . One person was injured and admitted to Patna Medical College . Two more crude bombs were found . . . OneIndia News . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "", 
+        "Bihar", 
+        "Bihar"
+    ], 
+    "O": [
+        "Hindus:93", 
+        "Muslims:95", 
+        "government:192", 
+        "Shahzada:466", 
+        "CM:551", 
+        "Buddha:797", 
+        "Mahavir:799", 
+        "Guru Govind Singh:801", 
+        "Jayaprakash Narayan:805", 
+        "Hunkaar:816", 
+        "Satyagraha:850", 
+        "Dandi March:857", 
+        "Bharat ki Mahashakti:879", 
+        "Prime Minister:916", 
+        "you:1346", 
+        "JDU rallies:1440", 
+        "Hunkaar Rally:2056", 
+        "crude bomb:2086", 
+        "crude bombs:2107"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/patna/narendra-modi-hunkaar-rally-patna-bihar-oct27-live-updates-1331324.html", 
+    "date": "27-10-2013", 
+    "target": "", 
+    "hot_spot": "Bihar", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "BJP", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Bihar BJP", 
+            "187", 
+            "Others"
+        ], 
+        [
+            "JD", 
+            "251", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "287", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "343", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "365", 
+            "Others"
+        ], 
+        [
+            "Dynasty", 
+            "392", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "428", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "455", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "498", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "518", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "531", 
+            "Others"
+        ], 
+        [
+            "JD", 
+            "538", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "735", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "769", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "947", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "956", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "963", 
+            "Others"
+        ], 
+        [
+            "JD", 
+            "965", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "1013", 
+            "Others"
+        ], 
+        [
+            "UPA government", 
+            "1072", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1083", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1183", 
+            "Others"
+        ], 
+        [
+            "MP", 
+            "1246", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1268", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "1309", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1511", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1567", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "1639", 
+            "Others"
+        ], 
+        [
+            "JD", 
+            "1734", 
+            "Others"
+        ], 
+        [
+            "MP", 
+            "1786", 
+            "Others"
+        ], 
+        [
+            "RJD", 
+            "1816", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1841", 
+            "Others"
+        ], 
+        [
+            "JD", 
+            "1860", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1869", 
+            "Others"
+        ], 
+        [
+            "Patna Medical College", 
+            "2101", 
+            "Others"
+        ]
+    ]
+}

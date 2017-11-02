@@ -1,0 +1,203 @@
+{
+    "LOC": [
+        [
+            "BARIDHANESH", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "GOPALGANJ", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "Baridhanesh", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "Hathua", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Gopalganj", 
+            "34", 
+            "Neutral"
+        ], 
+        [
+            "Patna Gandhi Maidan", 
+            "74", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "118", 
+            "Event"
+        ], 
+        [
+            "Surat", 
+            "340", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narendra Modi", 
+            "11", 
+            "Comment"
+        ], 
+        [
+            "Munna Srivastava", 
+            "59", 
+            "Victim"
+        ], 
+        [
+            "Modi", 
+            "98", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "115", 
+            "Comment"
+        ], 
+        [
+            "Ram Pravesh Rai", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "Subhash Singh", 
+            "128", 
+            "Others"
+        ], 
+        [
+            "Indradeo Manjhi", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "Janardan Singh Sigriwal", 
+            "138", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "151", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "162", 
+            "Comment"
+        ], 
+        [
+            "Soma Priya", 
+            "165", 
+            "Victim"
+        ], 
+        [
+            "Munna", 
+            "173", 
+            "Victim"
+        ], 
+        [
+            "Som Priya", 
+            "218", 
+            "Victim"
+        ], 
+        [
+            "Modi", 
+            "228", 
+            "Comment"
+        ], 
+        [
+            "Munna", 
+            "247", 
+            "Victim"
+        ], 
+        [
+            "Priya", 
+            "252", 
+            "Victim"
+        ], 
+        [
+            "Narendra Modi", 
+            "256", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "283", 
+            "Comment"
+        ], 
+        [
+            "Srivastava", 
+            "309", 
+            "Victim"
+        ], 
+        [
+            "Modi", 
+            "331", 
+            "Comment"
+        ], 
+        [
+            "Priya", 
+            "335", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "BJP 's Hoonkar Rally ", 
+    "DAT": [
+        "Saturday:37", 
+        "October 27 : 78"
+    ], 
+    "death": "", 
+    "title": "Patna blasts: Victims widow stumps Narendra Modi, speaks in Gujarati", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "BARIDHANESH -LRB- GOPALGANJ -RRB- : BJP 's prime ministerial candidate Narendra Modi 's helicopter could not land due to dense fog and bad weather at sleepy village Baridhanesh under Hathua police station in Gopalganj district on Saturday . Modi , on a day-long ` Santwana Yatra ' , had to come here to meet the family members of Munna Srivastava , who was killed in serial blasts at BJP 's Hoonkar Rally at Patna Gandhi Maidan on October 27 . Around 10,000 rural folks had assembled in the village right from morning to get a glimpse of Modi but they were disappointed when they were informed by officials and police that the helicopter of Modi returned to Patna due to poor visibility . Ram Pravesh Rai , Subhash Singh , Indradeo Manjhi , MLAs , former minister Janardan Singh Sigriwal , along with hundreds of supporters were waiting to meet Modi near the helipad but they had to return disappointed . Modi spoke to Soma Priya , the young widow of slain Munna , on telephone from helicopter . He told her that his party will take care of her , her daughter and her family . He also inquired from her whether her daughter goes to school . Initially , they talked in Hindi but soon Som Priya started speaking in fluent Gujarati . She told Modi that he was like her father and informed him that her daughter is just two-and-a-half year old . Munna owned a taxi . Priya told TOI that Narendra Modi offered his deepest condolences for the death of her husband in a bomb blast and assured all helps including the education of her child . Modi said a special messenger of his party would meet her within a day or two in this regard . All the family members of slain Srivastava were consoled by the crowd which had gathered at the village . They condemned the bomb blasts and shouted ... ` Modi zindabad ' . Priya 's father worked at Surat and she had studied there .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "Patna", 
+        "Patna Gandhi Maidan"
+    ], 
+    "O": [
+        "hoonkar rally:71", 
+        "bomb blast:270", 
+        "crowd:314", 
+        "surat:340"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "ELECTIONS", 
+    "link": "http://timesofindia.indiatimes.com/city/patna/Patna-blasts-Victims-widow-stumps-Narendra-Modi-speaks-in-Gujarati/articleshow/25149939.cms?referral=PM", 
+    "date": "27-10-2013", 
+    "target": "POLITICAL RALLY", 
+    "hot_spot": "BJP 's Hoonkar Rally ", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "BJP", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "69", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "LOC": [
+        [
+            "lower Assam", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Nalbari", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Nalbari", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "Nalbari", 
+            "145", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mintu Barman", 
+            "1", 
+            "Victim"
+        ], 
+        [
+            "Barman", 
+            "45", 
+            "Victim"
+        ], 
+        [
+            "Qader Ali", 
+            "81", 
+            "Victim"
+        ], 
+        [
+            "Ali", 
+            "93", 
+            "Victim"
+        ], 
+        [
+            "Aqid Zaman", 
+            "124", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "November 22 : 24", 
+        "Sunday : 34", 
+        "Saturday : 77"
+    ], 
+    "death": "", 
+    "title": "Another Nalbari victim succumbs,toll8", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Nalbari", 
+        "", 
+        "Nalbari"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Mintu Barman ,19 , who was seriously injured in the twin explosions that took place in the lower Assam town of Nalbari on November 22 , died in a private hospital here on Sunday , taking the death toll to eight . . . Barman , a biscuit vendor in Nalbari town , was seriously injured in the second blast when he tried to rescue some persons injured in the first blast . . . On Saturday , another injured Qader Ali had breathed his last at the GMC Hospital here . Ali ( 50 ) , a shopkeeper , was on his way to meet a doctor with his pregnant wife and 11-year-old son when the explosions took place . His son Aqid Zaman is still undergoing treatment at the hospital . . . While the police have attributed the twin explosions in Nalbari to the outlawed United Liberation Front of Assam ( ULFA ) , the militant group denied its involvement in a statement issued the next day of the blasts.The police have rounded up three ULFA militants in connection with the serial blasts . . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:174"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indianexpress.com/article/news-archive/web/another-nalbari-victim-succumbs-toll-8/", 
+    "date": "22-11-2009", 
+    "target": "", 
+    "hot_spot": "Nalbari", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "GMC Hospital", 
+            "89", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Assam", 
+            "149", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "155", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "179", 
+            "Accused"
+        ]
+    ]
+}

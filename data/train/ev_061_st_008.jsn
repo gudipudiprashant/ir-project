@@ -1,0 +1,103 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "81", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kalam", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Abdul Kalam", 
+            "15", 
+            "Comment"
+        ], 
+        [
+            "Kalam", 
+            "41", 
+            "Comment"
+        ], 
+        [
+            "S. M. Khan", 
+            "59", 
+            "Comment"
+        ], 
+        [
+            "Shivraj Patil", 
+            "78", 
+            "Comment"
+        ], 
+        [
+            "Sheila Dikshit", 
+            "84", 
+            "Comment"
+        ], 
+        [
+            "Bhairon Singh Shekhawat", 
+            "103", 
+            "Comment"
+        ], 
+        [
+            "Atal Bihari Vajpayee", 
+            "122", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "evening : 28"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:27"
+    ], 
+    "death": "", 
+    "title": "Kalam condemns blasts", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        " NEW DELHI", 
+        " NEW DELHI"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "National Kalam condemns blasts . . Special Correspondent . . NEW DELHI : President Abdul Kalam has condemned the serial blasts that rocked the capital on Saturday evening and condoled the loss of lives in the explosions . ` Dr Kalam has appealed to the people to maintain calm and help in relief and rescue operations , '' S. M. Khan , Press Adviser to the President said . . . The President spoke to Home Minister Shivraj Patil and Delhi Chief Minister Sheila Dikshit and took stock of the relief work being undertaken by the authorities . . . Vice President Bhairon Singh Shekhawat also expressed his grief and concern over the bomb blasts . . . Former Prime Minister Atal Bihari Vajpayee condemned the blast and appealed to the people to remain calm and united in this hour of crisis .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "President:14", 
+        "Adviser:64", 
+        "President:67", 
+        "President:73", 
+        "Home Minister:76", 
+        "Chief Minister:82", 
+        "Vice President:101", 
+        "bomb blasts:114", 
+        "Prime Minister:120"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/10/30/stories/2005103006481000.htm", 
+    "date": "29-10-2005", 
+    "target": "", 
+    "hot_spot": " NEW DELHI", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

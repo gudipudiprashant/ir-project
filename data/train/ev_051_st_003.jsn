@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Red Fort", 
+            "32", 
+            "Event"
+        ], 
+        [
+            "Red Fort", 
+            "130", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "194", 
+            "Neutral"
+        ], 
+        [
+            "Islamabad", 
+            "341", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "348", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "378", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vajpayee", 
+            "65", 
+            "Comment"
+        ], 
+        [
+            "Vajpayee", 
+            "90", 
+            "Comment"
+        ], 
+        [
+            "Vajpayee", 
+            "487", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "DEC. 26 : 8", 
+        "morning : 38"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "DEC. : 403"
+    ], 
+    "death": "", 
+    "title": "Home Ministry officials heave a sigh of relief", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "NEW DELHI", 
+        "NEW DELHI"
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "By Our Special Correspondent NEW DELHI , DEC. 26 . Senior Home Ministry officials as well as sources within the Intelligence Bureau declared themselves fully satisfied over the nabbing of the Red Fort `` attackers '' this morning . `` It was an excellent operation , '' a senior IB official said . This sense of satisfaction was shared by top officials of the Vajpayee administration , and the information about the `` success '' was conveyed to the Prime Minister before he left on a holiday . Mr. Vajpayee was reportedly unhappy that the attackers were allowed to escape ; today , it was a very satisfied security establishment that told him that the score had been settled . There were , obviously , red faces after the Red Fort incident . Defence Ministry officials were at the receiving end of a lot of snide remarks . But today 's `` success '' is being bandied about as the re-affirmation of the soundness of the basic security structure . It is believed that the Prime Minister was also briefed about latest developments in the car-bomb blast near the 15 Corps Headquarters in Srinagar . Security experts are still at a loss to figure out why such a large amount of explosives were placed in the car . According to available information , the culprits involved in the attack on Red Fort could have been apprehended within 24 hours of the attack , but a `` mechanical failure '' caused the loss of a crucial one hour , delaying the operation . The police were able to pin these characters down only after telephonic intercepts could be decoded . Senior intelligence officers were confident about the identity of the killed Lashkar-e-Taiba militant . Nor is there any doubt about the involvement of a Pakistani `` operative '' , who was running a cyber cafe in the area . Nonetheless , these incidents have not come as a surprise , and sources within the Vajpayee administration suggest that various outfits in Islamabad would be disappointed if they thought India could be so easily provoked into reconsidering the ceasefire strategy . The officials dismissed as `` a lot of hot air '' the threats issued by militant outfits in Srinagar that they could strike at the Prime Minister 's Office or residence . . . By Our Special Correspondent . . NEW DELHI , DEC. 26 . Senior Home Ministry officials as well as sources within the Intelligence Bureau declared themselves fully satisfied over the nabbing of the Red Fort `` attackers '' this morning . `` It was an excellent operation , '' a senior IB official said . . . This sense of satisfaction was shared by top officials of the Vajpayee administration , and the information about the `` success '' was conveyed to the Prime Minister before he left on a holiday . Mr. Vajpayee was reportedly unhappy that the attackers were allowed to escape ; today , it was a very satisfied security establishment that told him that the score had been settled . . . There were , obviously , red faces after the Red Fort incident . Defence Ministry officials were at the receiving end of a lot of snide remarks . But today 's `` success '' is being bandied about as the re-affirmation of the soundness of the basic security structure . . . It is believed that the Prime Minister was also briefed about latest developments in the car-bomb blast near the 15 Corps Headquarters in Srinagar . Security experts are still at a loss to figure out why such a large amount of explosives were placed in the car . . . According to available information , the culprits involved in the attack on Red Fort could have been apprehended within 24 hours of the attack , but a `` mechanical failure '' caused the loss of a crucial one hour , delaying the operation . The police were able to pin these characters down only after telephonic intercepts could be decoded . . . Senior intelligence officers were confident about the identity of the killed Lashkar-e-Taiba militant . Nor is there any doubt about the involvement of a Pakistani `` operative '' , who was running a cyber cafe in the area . . . Nonetheless , these incidents have not come as a surprise , and sources within the Vajpayee administration suggest that various outfits in Islamabad would be disappointed if they thought India could be so easily provoked into reconsidering the ceasefire strategy . . . The officials dismissed as `` a lot of hot air '' the threats issued by militant outfits in Srinagar that they could strike at the Prime Minister 's Office or residence .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Home Ministry:12", 
+        "Defence Ministry:134", 
+        "Pakistani:304", 
+        "car-bomb:587", 
+        "police:667"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2000/12/27/stories/02270003.htm", 
+    "date": "22-12-2000", 
+    "target": "", 
+    "hot_spot": "NEW DELHI", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Intelligence Bureau", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "50", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "291", 
+            "Accused"
+        ]
+    ]
+}

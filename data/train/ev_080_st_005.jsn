@@ -1,0 +1,78 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Faridabad", 
+            "11", 
+            "Victim"
+        ], 
+        [
+            "Fariadabad", 
+            "14", 
+            "Victim"
+        ], 
+        [
+            "Banke Bihari temple", 
+            "33", 
+            "Victim"
+        ], 
+        [
+            "Haryana", 
+            "94", 
+            "Accused"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0020", 
+    "DAT": [
+        "Monday morning:17", 
+        "Monday:17", 
+        "Monday morning:17"
+    ], 
+    "death": "", 
+    "title": "Bomb found in Faridabad, defused by civilian", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : A live bomb was found in the Faridabad district of Fariadabad early on Monday morning . -LRB- Watch -RRB- The bomb discovered by civilians was found outside the crowded Banke Bihari temple in the city.Even though the Bomb Disposal Squad was rushed to the spot , interestingly it was a civilian infact who actually defused the bomb . Police have not yet been able to ascertain as to who placed the bomb outside the temple and if it was part of a strategy to terror target the untouched state of Haryana .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "Central", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "live bomb:5", 
+        "bomb discovered by civilians:24", 
+        "defused:58"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Bomb-found-in-Faridabad-defused-by-civilian/articleshow/3540338.cms?referral=PM", 
+    "date": "29-09-2008", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Bomb Disposal Squad", 
+            "41", 
+            "Others"
+        ]
+    ]
+}

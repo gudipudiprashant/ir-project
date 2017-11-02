@@ -1,0 +1,177 @@
+{
+    "LOC": [
+        [
+            "Digboi", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Digboi", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "66", 
+            "Event"
+        ], 
+        [
+            "Jorhat", 
+            "119", 
+            "Accused"
+        ], 
+        [
+            "Upper Assam", 
+            "122", 
+            "Accused"
+        ], 
+        [
+            "Assam", 
+            "129", 
+            "Event"
+        ], 
+        [
+            "Indo-Bhutan", 
+            "148", 
+            "Neutral"
+        ], 
+        [
+            "Assam-Arunachal Pradesh", 
+            "151", 
+            "Neutral"
+        ], 
+        [
+            "Sonitpur", 
+            "168", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "170", 
+            "Event"
+        ], 
+        [
+            "Chirang", 
+            "172", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "A.P. Tiwari", 
+            "70", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "ahead of Republic Day ", 
+    "DAT": [
+        "Monday:15", 
+        "Monday:124", 
+        "Dec 23 : 174"
+    ], 
+    "death": "", 
+    "title": "Two blasts in Assam on R-Day", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Tinsukia", 
+        "Guwahati", 
+        " Digboi town "
+    ], 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM"
+    ], 
+    "content": "Suspected militants from the anti-talks faction of the United Liberation Front of Asom on Monday triggered two blasts near Digboi town in Tinsukia district . . . While one blast was triggered on the outskirts of Digboi town , another blast took place near a drain in the town . Both were low intensity crude bombs and there is no injury or any damage , Tinsukia Superintendent of Police A.P. Tiwari said . . . The police had tightened security across the state ahead of Republic Day , particularly after intelligence inputs that the anti-talks faction of the militant outfit might try to carry out subversive activities . . . Police also recovered an improvised explosive device from Jorhat town in Upper Assam Monday . . . The Assam police , Army and other security forces have intensified counter-insurgency operations across the state , particularly along the Indo-Bhutan border and Assam-Arunachal Pradesh border , after the attack by the anti-talks faction of NDFB militants on civilians in Sonitpur , Kokrajhar and Chirang districts Dec 23 last year that left over 80 people including women and children dead.IANS .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "militants:2", 
+        "two blasts:17", 
+        "outskirts:35", 
+        "drain:46", 
+        "Superintendent:67", 
+        "Republic Day:86", 
+        "militant:99", 
+        "subversive activities:106", 
+        "improvised explosive:115", 
+        "state:143", 
+        "anti-talks faction:160", 
+        "80 people:181"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/two-blasts-in-assam-on-rday/article6824495.ece", 
+    "date": "26-01-2015", 
+    "target": "", 
+    "hot_spot": " Digboi town ", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "anti-talks faction", 
+            "5", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "9", 
+            "Accused"
+        ], 
+        [
+            "Police", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "anti-talks faction", 
+            "95", 
+            "Accused"
+        ], 
+        [
+            "Police", 
+            "111", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "Army", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "security forces", 
+            "135", 
+            "Others"
+        ], 
+        [
+            "anti-talks faction", 
+            "160", 
+            "Accused"
+        ], 
+        [
+            "NDFB militants", 
+            "163", 
+            "Accused"
+        ]
+    ]
+}

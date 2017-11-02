@@ -1,0 +1,192 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "48", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "114", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "120", 
+            "Neutral"
+        ], 
+        [
+            "Chandigarh", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "Haryana", 
+            "124", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "169", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka ,", 
+            "200", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "226", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "238", 
+            "Neutral"
+        ], 
+        [
+            "Kerala", 
+            "303", 
+            "Neutral"
+        ], 
+        [
+            "Coimbatore", 
+            "335", 
+            "Neutral"
+        ], 
+        [
+            "Tamil Nadu", 
+            "338", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "361", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "388", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "450", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Deependra Pathak", 
+            "109", 
+            "Comment"
+        ], 
+        [
+            "A K Deb", 
+            "175", 
+            "Comment"
+        ], 
+        [
+            "H D Kumaraswamy", 
+            "204", 
+            "Others"
+        ], 
+        [
+            "B S Siyal", 
+            "246", 
+            "Others"
+        ], 
+        [
+            "B", 
+            "246", 
+            "Others"
+        ], 
+        [
+            "Home Minister M", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "M P Prakash", 
+            "274", 
+            "Others"
+        ], 
+        [
+            "Raman Srivastava", 
+            "310", 
+            "Comment"
+        ], 
+        [
+            "Santosh Kumar Raut", 
+            "399", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:21", 
+        "Wednesday:286"
+    ], 
+    "death": "", 
+    "title": "Mumbai blasts: States on alert", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A red alert has been sounded across the country in the wake of the serial blasts that rocked Mumbai on Tuesday evening with state governments stepping up vigil at important places like airports , railway stations and bus stands.Additional police personnel have been deployed across national capital Delhi . Check posts have been set up at all major points in the city , including railway and bus stations , cinema halls and busy market places . Barricades have also been put up at all entry and exit points of the capital to keep a vigil and checking of vehicles has been stepped up , Additional Commissioner of Police Deependra Pathak told PTI in New Delhi . . . In Punjab , Chandigarh and Haryana , security agencies have been asked to ensure proper watch at railway stations , bus stands and crowded market places.Security has also been tightened at railway stations , airport , seaport , bus terminuses , central and state government offices and vital installations in West Bengal . State Chief Secretary A K Deb said : ` We have sounded an alert all over the state and asked for tightening of security measures . ` In Karnataka , Chief Minister H D Kumaraswamy has directed the state police to step up vigil and security across the state , particularly in areas bordering Maharashtra . The chief minister , soon after being informed about the Mumbai tragedy , asked Director General of Police B S Siyal to deploy additional forces at important locations and sensitive areas as a precautionary measure , his secretariat sources said.Kumaraswamy has also directed the Home Minister M P Prakash to convene a meeting of top police officials on Wednesday to review the situation and discuss the measures to be taken.Security has also been tightened across Kerala . State Director General of Police Raman Srivastava said additional police force has been deployed at all sensitive places . . . Meanwhile , security measures have been taken in the Coimbatore district of Tamil Nadu to meet any eventualities and vehicle checks have also been intensified . . . A high alert was also declared across Madhya Pradesh . . . ` We have sounded a high alert across the state and stepped up security at all vital installations following bomb blasts in Mumbai , ' additional director general of Police -LRB- intelligence -RRB- Santosh Kumar Raut told PTI . . . Security was tightened at airports , railway stations , bus stands , industrial units , market places , shopping complexes and other public places , he said . . . Police officials have been asked to maintain vigil , especially in areas bordering Maharashtra , Raut said . . . Vehicles entering in the state are also being checked thoroughly . .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "alert:3", 
+        "country:9", 
+        "serial:15", 
+        "railway:35", 
+        "bus:38", 
+        "stations:151", 
+        "airport:153", 
+        "seaport:155", 
+        "vigil:215", 
+        "secretariat:265", 
+        "high alert:355", 
+        "police:395", 
+        "intelligence:397"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/11train2.htm", 
+    "date": "11-07-2006", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "112", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "403", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,338 @@
+{
+    "LOC": [
+        [
+            "mosque", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "75", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "85", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "189", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "Ayodhya", 
+            "247", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "252", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "267", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "282", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "306", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "321", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "347", 
+            "Neutral"
+        ], 
+        [
+            "suburban train commuters", 
+            "351", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "360", 
+            "Event"
+        ], 
+        [
+            "Ayodhya", 
+            "404", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "406", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "412", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "414", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai.The", 
+            "416", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "434", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "438", 
+            "Event"
+        ], 
+        [
+            "mosque", 
+            "451", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "453", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "465", 
+            "Event"
+        ], 
+        [
+            "Iraq", 
+            "504", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "506", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "511", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "513", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "563", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "635", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "678", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "751", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "792", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "853", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "898", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "978", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "1087", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Osama bin Laden", 
+            "707", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "October 2005 : 408"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 37", 
+        "July : 224", 
+        "July 2005 : 249", 
+        "March 2006 : 254", 
+        "April 2006 : 269", 
+        "September 8 , 2006 : 284", 
+        "October 2005 : 303", 
+        "July 2006 : 308", 
+        "December 2005 : 323", 
+        "October 2005 : 362", 
+        "April : 436", 
+        "April : 565", 
+        "May : 721", 
+        "July 11 , 2006 : 795", 
+        "July : 831"
+    ], 
+    "death": "", 
+    "title": "Terrorists make no distinction between Muslims and non-Muslims", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "MALEGAON", 
+        "Malegaon", 
+        "jihadi"
+    ], 
+    "terror_group": [
+        "JIHADI"
+    ], 
+    "content": "The improvised explosive devices -- reportedly of a primitive nature -- had been placed possibly in bicycles left parked near places where the local Muslims usually congregate as they come out of the local mosque after Friday prayers.No claim of responsibility has so far been made by any organisation . The police do not as yet have any indicators regarding the likely identity of the perpetrators.The Muslims -- many of them migrant weavers from Uttar Pradesh -- constitute the majority of the population in Malegaon . One estimate says they constitute as high as 75 per cent of the local population . . . Over the years , there has been a steady economic degradation in the area giving rise to poverty , unemployment and feelings of marginalisation of the Muslims.Malegaon is a wake-up call to the Indian political leadership as to what could happen on the national scale if the seething Hindu and Muslim anger against each other and against the administration continues to grow by feeding upon each other.There is anger among large sections of the Hindus -- particularly the youth -- over the Government of India 's perceived failure to act firmly against the continuing acts of jihadi terrorism and its state-sponsor , namely , Pakistan.Including Malegaon , there have been seven major acts of terrorism affecting Hindu-Muslim relations since July last year in Indian territory outside Jammu and Kashmir . Of these , two were directed against Hindu places of worship ( Ayodhya in July 2005 and Varanasi in March 2006 ) . One was in a Muslim place of worship ( Delhi , April 2006 ) , one at Muslims outside their place of worship ( Malegaon , September 8 , 2006 ) . Two were indiscriminate attacks against civilians belonging to all communities ( Delhi , October 2005 and Mumbai , July 2006 ) and one was directed at scientists attending a conference at Bangalore ( December 2005 ) . Nearly 300 innocent civilians were killed in all these incidents -- the largest number of 184 killed being in the Mumbai blasts directed at suburban train commuters . The second largest was in Delhi in October 2005 , when over 60 shoppers and other passers-by were killed . The third largest was in Malegaon.Investigations made so far indicate the likely involvement of Pakistani jihadi organisations -- mainly the Lashkar-e-Tayiba and the Harkat-ul-Jihad-al-Islami -- in the blasts at Ayodhya , Delhi ( October 2005 ) , Bangalore , Varanasi and Mumbai.The identities of the organisations and perpetrators involved in the two explosions directed specifically at the Muslims in Delhi in April and Malegaon are yet to be established . While the blast inside the main mosque in Delhi could have been caused by a Muslim , the blasts in Malegaon , which took place near the mosque after the prayers and not inside , do not necessarily permit such an inference.Over the years , there have been many instances of jihadi terrorists targeting Muslims too not only in Iraq and Afghanistan , but also in Pakistan and Jammu and Kashmir . There have been instances of blasts organised by jihadi terrorists Iside mosques during prayers as well as outside mosques , on religious as well as on other occasions . . . One of the most sensational instances of Muslims deliberately killing Muslims was the explosion in Karachi in April when the entire leadership of the Barelvi Sunni Tehrik was killed by suspected Deobandi elements . The terrorists planted the IEDs at a public meeting to observe the birthday of the Holy Prophet . . . When it comes to acts of terrorism , jihadi terrorists do not make a distinction between Muslims and non-Muslims , between civilians and the security forces.While one should not be surprised if the Malegaon blasts also turn out to be the work of jihadi terrorists , one should not rule out at this stage the possibility of the involvement of non-Muslims , keeping in view the long history of tensions between the Muslims and Hindus in Malegaon . . . These tensions are attributable to the activities of the Lashkar-e-Tayiba and the Students Islamic Movement of India in that area , the alleged sympathy for Osama bin Laden exhibited by some prominent members of the local Muslim community etc.In May last , a large quantity of explosives was reportedly recovered by the police from suspected jihadi extremists in the area indicating possible preparations for fresh acts of jihadi terrorism.The Malegaon blasts have come at a time when there is considerable anger among the Muslim and Hindu youth against the Government of India for different reasons . This anger is noticeable in different parts of the country , particularly since the Mumbai blasts of July 11 , 2006 . While the Muslims have been angered by what they look upon as the targeting of their community by the police in different places where acts of terrorism have taken place since July last year , the Hindu youth have been angered by what they view as the softness of the political leadership in New Delhi over the continuing acts of jihadi terrorism in different parts of the country.Since the present government came to power more than two years ago , there has been no successful investigation of major acts of terrorism in different parts of the country outside Jammu and Kashmir resulting in the identification , arrests and prosecution of the perpetrators by the police . . . Critics of the government feel that the unsatisfactory pace of the investigations is attributable to the fact that the police officers do not have the confidence that the political leadership would stand by them if leaders of the Muslim community accuse the investigating officers of being anti-secular , communal or prejudiced against the Muslim community.The reluctance of the government in New Delhi to make it clear to the complaining leaders of the Muslim community that while there is no question of blaming or suspecting the community as a whole because of the acts of a few terrorists , the law has to take its own course against those indulging in terrorism has contributed to the anger in large sections of the Hindu community against the government.There has been a deplorable attempt by some leaders of the Muslim community to create a divide between the community and the police by questioning the impartiality of the police and levelling other allegations against the investigating officers . Incidents like the blasts at Malegaon , if they turn out to be the handiwork of jihadi terrorists , would serve the nefarious purpose of furthering the mental divide between the Hindus and Muslims and between the Muslims and the police.Responsible leaders of the two communities should jointly counter this trend . It also needs to be underlined that any ill-advised actions by angry elements of the Hindu community to give vent to their anger over the continuing acts of terrorism , by indulging in reprisal attacks against innocent members of the Muslim community would be detrimental to our national interests and could contribute to an unbridgeable divide between the two communities.The government should act with equal firmness against whoever indulges in acts of terrorism , irrespective of the community -- Muslim or Hindu -- to which he or she belongs . There can not be one law for the Muslims and another for non-Muslims . . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:52", 
+        "IEDs:586", 
+        "Hindus and Muslims:1113", 
+        "reprisal attacks:1167"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://in.rediff.com/news/2006/sep/11raman.htm", 
+    "date": "08-09-2006", 
+    "target": "MOSQUE", 
+    "hot_spot": "jihadi", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian political", 
+            "138", 
+            "Others"
+        ], 
+        [
+            "jihadi", 
+            "201", 
+            "Accused"
+        ], 
+        [
+            "Malegaon", 
+            "210", 
+            "Others"
+        ], 
+        [
+            "Pakistani jihadi", 
+            "389", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Tayiba", 
+            "395", 
+            "Accused"
+        ], 
+        [
+            "Harkat-ul-Jihad-al-Islami", 
+            "398", 
+            "Accused"
+        ], 
+        [
+            "jihadi", 
+            "496", 
+            "Accused"
+        ], 
+        [
+            "jihadi", 
+            "525", 
+            "Accused"
+        ], 
+        [
+            "Barelvi Sunni Tehrik", 
+            "572", 
+            "Others"
+        ], 
+        [
+            "Deobandi", 
+            "579", 
+            "Others"
+        ], 
+        [
+            "jihadi", 
+            "610", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Tayiba", 
+            "691", 
+            "Accused"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "694", 
+            "Accused"
+        ], 
+        [
+            "jihadi", 
+            "737", 
+            "Accused"
+        ], 
+        [
+            "jihadi", 
+            "749", 
+            "Accused"
+        ], 
+        [
+            "Government of India", 
+            "771", 
+            "Others"
+        ], 
+        [
+            "jihadi", 
+            "860", 
+            "Accused"
+        ]
+    ]
+}

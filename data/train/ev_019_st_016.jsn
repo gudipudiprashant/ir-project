@@ -1,0 +1,115 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Barpeta", 
+            "102", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "104", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "130", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:12", 
+        "October 2:43", 
+        "Friday:226"
+    ], 
+    "death": "", 
+    "title": "NIA files case in Bardhaman blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "JAMAATUL MUJAHIDEEN BANGLADESH (JMB)"
+    ], 
+    "content": "The National Investigation Agency -LRB- NIA -RRB- registered a case on Friday in connection with the Bardhaman blast in West Bengal and sent a team for examining the crime scene . . . The NIA says the two persons killed in the October 2 explosion are believed to be Jamaat-ul-Mujahideen Bangladesh members . While the case will be investigated by the agencys Kolkata branch , two senior officials have been sent for supervision . . . Ten persons , two of them women , have been held in connection with the blast . Six of the suspects were tracked down to Barpeta in Assam . The NIA will take the suspects into custody for questioning . . . There is evidence to suggest that those involved had links in Bangladesh . If necessary , we will also contact Bangladeshi authorities seeking cooperation in the probe . The material evidence will be sent for forensic examination and analysis . The case papers are being handed over to us , an official said . . . The NIA team will examine the data in the mobile phones seized from the suspects . The call records will be retrieved to ascertain if they had links in other States . . . It is learnt that the West Bengal Police collected more physical evidence from the blast site on Friday .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/nia-files-case-in-bardhaman-blast/article6490865.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen Bangladesh", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "Bangladeshi authorities", 
+            "139", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "176", 
+            "Others"
+        ], 
+        [
+            "West Bengal Police", 
+            "214", 
+            "Others"
+        ]
+    ]
+}

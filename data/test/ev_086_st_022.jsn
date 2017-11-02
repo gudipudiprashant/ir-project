@@ -1,0 +1,229 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Darbhanga", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Madanpura", 
+            "136", 
+            "Accused"
+        ], 
+        [
+            "Antop Hill", 
+            "138", 
+            "Accused"
+        ], 
+        [
+            "Mumbra", 
+            "171", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "173", 
+            "Neutral"
+        ], 
+        [
+            "Habib", 
+            "298", 
+            "Accused"
+        ], 
+        [
+            "Byculla", 
+            "301", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "352", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Naqi Ahmed Wasi Ahmed Sheikh", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "Nadeem Akhtar Ashfaq Sheikh", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "79", 
+            "Accused"
+        ], 
+        [
+            "Naqi Ahmed Wasi Ahmed Sheikh", 
+            "83", 
+            "Accused"
+        ], 
+        [
+            "Nadeem Akhtar Ashfaq Sheikh", 
+            "92", 
+            "Accused"
+        ], 
+        [
+            "Rakesh Maria", 
+            "125", 
+            "Comment"
+        ], 
+        [
+            "Naqi", 
+            "130", 
+            "Accused"
+        ], 
+        [
+            "Nadeem", 
+            "132", 
+            "Accused"
+        ], 
+        [
+            "Haroon Rashid Naik", 
+            "167", 
+            "Accused"
+        ], 
+        [
+            "Maria", 
+            "202", 
+            "Comment"
+        ], 
+        [
+            "Haroon", 
+            "207", 
+            "Accused"
+        ], 
+        [
+            "Maria", 
+            "223", 
+            "Comment"
+        ], 
+        [
+            "Naqi", 
+            "275", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "279", 
+            "Accused"
+        ], 
+        [
+            "Maria", 
+            "281", 
+            "Comment"
+        ], 
+        [
+            "Habib", 
+            "312", 
+            "Others"
+        ], 
+        [
+            "Naqi", 
+            "316", 
+            "Accused"
+        ], 
+        [
+            "Maria", 
+            "324", 
+            "Comment"
+        ], 
+        [
+            "Naqi", 
+            "328", 
+            "Others"
+        ], 
+        [
+            "Bhatkal", 
+            "343", 
+            "Accused"
+        ], 
+        [
+            "Maria", 
+            "374", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 21", 
+        "August 2011 : 199", 
+        "2008 : 345"
+    ], 
+    "death": "27", 
+    "title": "Maharashtra ATS 'cracks' 13/7 Mumbai blasts", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "MUMBAI : Six months after Mumbai was rocked by three coordinated blasts leaving 27 people dead , Maharashtra ATS on Monday claimed to have made a breakthrough with the arrest of two alleged Indian Mujahideen operatives but the mastermind and planters of the bombs are still at large . Naqi Ahmed Wasi Ahmed Sheikh and Nadeem Akhtar Ashfaq Sheikh , originally from Bihar 's Darbhanga district , were arrested even as a manhunt continues for top IM leader Yasin Bhatkal . `` Naqi Ahmed Wasi Ahmed Sheikh ( 22 ) and Nadeem Akhtar Ashfaq Sheikh ( 23 ) , who are already in police custody in connection with a forgery case , have been arrested today in the blasts case , '' ATS chief Rakesh Maria told reporters . Naqi and Nadeem , residents of Madanpura and Antop Hill areas in the city , were earlier arrested in connection with a case relating to procurement of SIM cards using fake documents . Six others including one Haroon Rashid Naik from Mumbra near Mumbai , whose remand has been sought , had also been held in connection with fraudulent procurement of SIM cards over a period of time since August 2011 , Maria said . `` After Haroon 's remand in granted , he will be arrested in the blasts case , '' Maria said , adding help extended by the underworld in commission of the crime had also emerged . He said around Rs 10 lakh received through Hawala channels was used in the crime but did not disclose the source from where the money came lest it would hamper investigations . Maintaining that Naqi was indoctrinated by Bhatkal , Maria said it was he who helped the IM mastermind to rent the third floor apartment in Habib Building at Byculla last year . Two-three apartments were rejected before finalising the Habib building quarters and Naqi paid for it , he said . Maria rubbished claims by Naqi 's relatives that he was innocent , saying he had been in touch with Bhatkal since 2008 and even visited his place in Bihar and that he was fully aware of the latter 's antecedents . `` We have evidence to corroborate this , '' Maria said . . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Six months:3", 
+        "police:104", 
+        "SIM:157", 
+        "Hawala channels:249"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.timesofindia.indiatimes.com/2012-01-23/mumbai/30654752_1_mumbai-blasts-naqi-forgery-case", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maharashtra ATS", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "77", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "289", 
+            "Accused"
+        ]
+    ]
+}

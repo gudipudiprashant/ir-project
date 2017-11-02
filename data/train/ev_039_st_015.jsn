@@ -1,0 +1,120 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Nalbari", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "57", 
+            "Neutral"
+        ], 
+        [
+            "Nalbari", 
+            "59", 
+            "Event"
+        ], 
+        [
+            "Gopal Bazar", 
+            "75", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "98", 
+            "Neutral"
+        ], 
+        [
+            "police station", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "125", 
+            "Neutral"
+        ], 
+        [
+            "Nalbari", 
+            "127", 
+            "Event"
+        ], 
+        [
+            "Nalbari", 
+            "178", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "186", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "191", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "40 minutes : 42", 
+        "five minutes : 80", 
+        "12:11 PM : 88", 
+        "10 am : 152", 
+        "11:01 AM : 193"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:16", 
+        "Nov 22 : 18"
+    ], 
+    "death": "5", 
+    "title": "Serial blasts rock Assam; 5 killed, 30 injured", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "View PhotosGuwahati , Nov 22 : Three serial blast rocked Assam 's Nalbari district on Sunday , Nov 22 , killing five people and injuring 30 others , police said . . . The explosions went off in a span of 40 minutes . . . The first two bombs exploded outside a police station in Assam 's Nalbari district , police said . . . The third blast , which took place in Gopal Bazar area , came five minutes after the first two blasts . 12:11 PM . . Two killed , 25 injured in Assam twin blasts . . At least two people have been killed and 25 others injured in a twin blasts that exploded outside a police station in Assam 's Nalbari district , police said . . . According to an offcial , the bomb was kept on a parked bicycle and it exploded around 10 am . . . Police suspect that militants of the United Liberation Front of Asom ( ULFA ) carried out the explosion . . . Nalbari district is about 70 km west of Assam 's main city of Guwahati . 11:01 AM . . OneIndia News . . .", 
+    "injured": "30", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Nalbari", 
+        "guwahati", 
+        "Nalbari"
+    ], 
+    "O": [
+        "police:29"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/2009/11/22/twin-blasts-rock-assam.html", 
+    "date": "22-11-2009", 
+    "target": "", 
+    "hot_spot": "Nalbari", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "163", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "169", 
+            "Accused"
+        ]
+    ]
+}

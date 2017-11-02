@@ -1,0 +1,129 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Dadar", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "south Mumbai", 
+            "125", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazar", 
+            "128", 
+            "Event"
+        ], 
+        [
+            "Dadar", 
+            "131", 
+            "Event"
+        ], 
+        [
+            "Central Mumbai", 
+            "133", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "134", 
+            "Event"
+        ], 
+        [
+            "Opera House", 
+            "137", 
+            "Event"
+        ], 
+        [
+            "Charni", 
+            "140", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manohar Joshi", 
+            "46", 
+            "Comment"
+        ], 
+        [
+            "Joshi", 
+            "82", 
+            "Comment"
+        ], 
+        [
+            "Javed Akhtar", 
+            "84", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 11"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Govt should find out who all are behind the blasts: Shiv Sena", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Mumbai : The government should find out those behind this evening 's serial blasts in Mumbai , the Shiv Sena said . `` There is chaos everywhere . This must be a terrorist act as it happened in three places , '' senior Sena leader Manohar Joshi said after reaching Dadar , one of the three sites of the blasts . `` I want that the government take immediate steps and find out who are people behind the blasts , '' Joshi said.Lyricist Javed Akhtar said `` No words are strong enough to condemn the attacks . `` This menace called terrorism ... something has to be done . Something drastic . This is not acceptable , '' he said.Explosions have been reported in south Mumbai 's Zaveri Bazar , Dadar in Central Mumbai , and Opera House in Charni Road . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "terrorism:102"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/govt-should-find-out-who-all-are-behind-the-blasts-shiv-sena-461406", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "government", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Shiv Sena", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "Sena", 
+            "44", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "67", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Mehrauli flower market", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "Punjab", 
+            "292", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bindu Shajan Perappadan", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Santosh", 
+            "85", 
+            "Victim"
+        ], 
+        [
+            "M. C. Misra", 
+            "119", 
+            "Others"
+        ], 
+        [
+            "Misra", 
+            "212", 
+            "Comment"
+        ], 
+        [
+            "Anjali Rao", 
+            "272", 
+            "Comment"
+        ], 
+        [
+            "Raju", 
+            "283", 
+            "Others"
+        ], 
+        [
+            "Monty", 
+            "285", 
+            "Others"
+        ], 
+        [
+            "Raman Prasad", 
+            "418", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "September 13 : 25", 
+        "Saturdays : 40"
+    ], 
+    "death": "1", 
+    "title": "A replay of horror and pain", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Bindu Shajan Perappadan . . Anxious wait for relatives outside AIIMS Trauma Centre . . NEW DELHI : It was a replay of the September 13 horror and pain in the Capital . Anxious relatives of those injured in Saturdays bomb blast in the Mehrauli flower market gathered outside the Trauma Centre of the All-India Institute of Medical Sciences for information about their kin . . . The Trauma Centre admitted the bulk of the patients injured in the blast . . . Nine-year-old Santosh was brought dead to the hospital . We have 15 patients under our care , of whom 10 are critical . Five have already been operated upon , said Trauma Centre Medical Superintendent M. C. Misra . . . We have not been able to ascertain the identity of four persons and they have been listed as unknown for now . All the patients who have come to us have sharp splinter injuries in the abdomen , head , chest and spine . Their condition is being monitored closely . . . Two of the injured are being treated in a private hospital in the city , while another is undergoing treatment in the Safdarjung Hospital . . . No shortage of blood . . Dr. Misra said the hospital was not facing shortage of blood . We appeal to the general public not to come in large numbers to donate blood , but to leave their phone numbers with the hospital and be prepared to donate blood when called to do so . . . Among the several people waiting outside the Trauma Centre , Anjali Rao said : I am here looking for my nephews Raju and Monty who had recently come here from Punjab . They went to the market to buy flowers . I heard about the blast and when the two failed to show up even an hour after the blast we were worried . We are now looking for them in various city hospitals . . . Attendants of other patients admitted to the AIIMS were not allowed to meet their relatives owing to heavy security . . . It is the common man who suffers every time . We cant understand what danger we can pose to politicians who have come here to meet the blast victims . We have waited all day to see our relatives and because of the security needs of the political leaders we are not being allowed inside , complained Raman Prasad , whose wife is undergoing treatment at the Trauma Centre .", 
+    "injured": "15", 
+    "org_unorg": "", 
+    "O": [
+        "aiims trauma centre:11", 
+        "horror:27", 
+        "capital:32", 
+        "injured:38", 
+        "bomb blast:41", 
+        "trauma centre:51", 
+        "information:61", 
+        "trauma centre:69", 
+        "admitted:71", 
+        "bulk:73", 
+        "blast:80", 
+        "nine-year-old:84", 
+        "brought dead:87", 
+        "hospital:91", 
+        "care:99", 
+        "critical:105", 
+        "operated:111", 
+        "trauma centre medical superintendent:115", 
+        "sharp splinter injuries:156", 
+        "head:163", 
+        "injured:181", 
+        "treated:184", 
+        "private hospital:187", 
+        "city:191", 
+        "shortage of blood:206", 
+        "hospital:215", 
+        "facing shortage of blood:218", 
+        "appeal:224", 
+        "donate blood:236", 
+        "phone numbers:243", 
+        "hospital:247", 
+        "donate blood:252", 
+        "trauma centre:269", 
+        "market:298", 
+        "buy flowers:300", 
+        "blast:307", 
+        "two failed:311", 
+        "blast:321", 
+        "worried:324", 
+        "city hospitals:334", 
+        "attendants:339", 
+        "heavy security:356", 
+        "suffers:367", 
+        "danger:375", 
+        "politicians:380", 
+        "blast victims:388", 
+        "relatives:399", 
+        "security needs:404", 
+        "political leaders:408", 
+        "trauma centre:428"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/a-replay-of-horror-and-pain/article1347285.ece", 
+    "date": "27-09-2008", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AIIMS", 
+            "11", 
+            "Others"
+        ], 
+        [
+            "All-India Institute of Medical Sciences", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "Safdarjung Hospital", 
+            "200", 
+            "Others"
+        ], 
+        [
+            "AIIMS", 
+            "346", 
+            "Others"
+        ]
+    ]
+}

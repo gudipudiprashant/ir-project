@@ -1,0 +1,227 @@
+{
+    "LOC": [
+        [
+            "Kolkata", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Khagragarh", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "198", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "211", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "363", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mamata Banerjee", 
+            "177", 
+            "Comment"
+        ], 
+        [
+            "Siddharth Nath Singh", 
+            "206", 
+            "Comment"
+        ], 
+        [
+            "Sitaram Yechuri", 
+            "215", 
+            "Comment"
+        ], 
+        [
+            "Biman Bose", 
+            "289", 
+            "Comment"
+        ], 
+        [
+            "Mukul Roy", 
+            "329", 
+            "Comment"
+        ], 
+        [
+            "Basudeb Banerjee", 
+            "372", 
+            "Others"
+        ], 
+        [
+            "Al Qaeda", 
+            "379", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "24 hours : 158"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:29"
+    ], 
+    "death": "2", 
+    "title": "Burdwan Blast: 2 Women Arrested, Trinamool Denies Links", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Kolkata : The ruling Trinamool Congress in West Bengal has come under fire for alleged involvement in anti-national activities after an explosion killed two people in Burdwan on Thursday . The CPM and the BJP say the police destroyed evidence before the National Investigation Team -LRB- NIA -RRB- could reach the spot.The building where the blast took place - located in Khagragarh area - is owned by a former state government employee who is allegedly a Trinamool supporter . Some Trinamool flags were found stacked in one of the rooms on the ground floor . At one time , the Trinamool had also allegedly used a room in the house as an office . `` A bomb blast took place inside the home of a TMC leader . In that house people of Indian Mujahideen were living . Some substance exploded and after which it was told that NIA should be informed . But NIA was informed 24 hours later . The material which could have been used as the evidence was destroyed in river ... Mamata Banerjee should tell that if that home belongs to a TMC leader or not ? Why did your SP of Burdwan destroy the evidence ? '' BJP leader Siddharth Nath Singh asked in Delhi . CPM leader Sitaram Yechuri said , `` The track record of state police in recent years does not augur well . Central government should interfere and act against the guilty . `` The Trinamool , denying any links with the blast , claimed the BJP and CPM were conspiring to disturb peace in the state at a sensitive time - the end of the Durga Pujas and the eve of Eid . `` The comments by Biman Bose and the BJP are totally insensitive . The timing too is devious , especially at this juncture when Durga idols are still being immersed and the holy festival of Eid is to be held tomorrow , '' said Mukul Roy , Trinamool General Secretary.The owner of the house where the blast occurred has been detained for questioning . Two women who lived as tenants there have been arrested . Meanwhile , in Kolkata this evening , principal secretary , home , Basudeb Banerjee , denied any RDX or Al Qaeda posters had been found at the blast site . He also denied reports about lack of cooperation between the state police and central agencies investigating the incident . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "", 
+        "Bardhaman", 
+        "building,Khagragarh"
+    ], 
+    "O": [
+        "anti-national activities:18", 
+        "police:38", 
+        "Durga Pujas:277", 
+        "Eid:283", 
+        "Eid:320", 
+        "Secretary.The:334", 
+        "police:401"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/burdwan-blast-2-women-arrested-trinamool-denies-links-675179", 
+    "date": "23-10-2014", 
+    "target": "", 
+    "hot_spot": "building,Khagragarh", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "Trinamool Congress", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "CPM", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "National Investigation Team", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "71", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "81", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "101", 
+            "Others"
+        ], 
+        [
+            "TMC", 
+            "126", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "134", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "155", 
+            "Others"
+        ], 
+        [
+            "TMC", 
+            "188", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "204", 
+            "Others"
+        ], 
+        [
+            "CPM", 
+            "213", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "235", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "246", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "257", 
+            "Others"
+        ], 
+        [
+            "CPM", 
+            "259", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "293", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "332", 
+            "Others"
+        ]
+    ]
+}

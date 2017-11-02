@@ -1,0 +1,119 @@
+{
+    "LOC": [
+        [
+            "Chennai", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "32", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "49", 
+            "Neutral"
+        ], 
+        [
+            "Thummanayakkanpatti", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Madurai", 
+            "70", 
+            "Neutral"
+        ], 
+        [
+            "Madurai", 
+            "148", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "J Jayalalithaa", 
+            "57", 
+            "Comment"
+        ], 
+        [
+            "Perumal", 
+            "63", 
+            "Victim"
+        ], 
+        [
+            "Perumal", 
+            "116", 
+            "Victim"
+        ], 
+        [
+            "Sellur K Raju", 
+            "129", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "5", 
+    "title": "Srinagar CRPF deaths: TN to give Rs 5 lakh to jawan's family", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "", 
+        "Jammu and Kashmir"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Chennai : The Tamil Nadu government today announced a cash relief of Rs 5 lakh to the family of a CRPF jawan , who was killed in a suicide attack in Jammu and Kashmir . . . A CRPF jawan injured during the exchange with the terrorists in Srinagar . PTI . . . Chief Minister J Jayalalithaa condoled the death of Perumal , who hails from Thummanayakkanpatti in Madurai district . In a statement here , she expressed grief over the yesterday '' s incident and sympathised with the family members of the martyred soldier . . . `` I have directed that all government assistance be rendered in bringing back the body of Perumal , '' the Chief Minister said , adding , she had deputed Sellur K Raju , Minister for Cooperation , to console the family in person . She also instructed the Madurai District Collector to pay last respects to the deceased . . . Five CRPF jawans were killed after militants carried out a suicide attack on their post in the valley yesterday .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Chief Minister:55", 
+        "Minister for Cooperation:133", 
+        "District Collector:149"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/india/srinagar-crpf-deaths-tn-to-give-rs-5-lakh-to-jawans-family-661201.html", 
+    "date": "14-03-2013", 
+    "target": "", 
+    "hot_spot": "Jammu and Kashmir", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Tamil Nadu government", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "162", 
+            "Others"
+        ]
+    ]
+}

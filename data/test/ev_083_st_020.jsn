@@ -1,0 +1,74 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "30", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "WASHINGTON", 
+            "1", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:8"
+    ], 
+    "death": "", 
+    "title": "Ex-U.S. Official Cites Pakistani Training for India Attackers", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "WASHINGTON A former Defense Department official said Wednesday that American intelligence agencies had determined that former officers from Pakistans Army and its powerful Inter-Services Intelligence agency helped train the Mumbai attackers . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "train:28"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.nytimes.com/2008/12/04/world/asia/04india.html?_r=0", 
+    "date": "03-12-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Defense Department official", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "American intelligence agencies", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "Pakistans Army", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "Inter-Services Intelligence agency", 
+            "24", 
+            "Others"
+        ]
+    ]
+}

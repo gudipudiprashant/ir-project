@@ -33,6 +33,7 @@ def plot_multi_bar(results_list, params_list):
     ax.set_xticklabels(('PER-Precision', 'PER-Recall', 'PER-f_measure',
                         'ORG-Precision', 'ORG-Recall', 'ORG-f_measure',
                         'LOC-Precision', 'LOC-Recall', 'LOC-f_measure'))
+    ax.set_yticks(np.arange(0, 1.1, 0.1))
 
     ax.legend(tuple(rects[i][0] for i in range(len(rects))), tuple(params_list))
 

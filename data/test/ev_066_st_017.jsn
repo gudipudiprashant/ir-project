@@ -1,0 +1,228 @@
+{
+    "LOC": [
+        [
+            "United States", 
+            "2", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "US", 
+            "34", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "73", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "162", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "188", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "196", 
+            "Accused"
+        ], 
+        [
+            "Afghanistan", 
+            "250", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "272", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "320", 
+            "Event"
+        ], 
+        [
+            "Afghanistan", 
+            "359", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Arif Qasmani", 
+            "38", 
+            "Accused"
+        ], 
+        [
+            "Ameen Al-Peshawari", 
+            "52", 
+            "Accused"
+        ], 
+        [
+            "Yahya Mujahid", 
+            "55", 
+            "Accused"
+        ], 
+        [
+            "Nasir Javaid", 
+            "58", 
+            "Accused"
+        ], 
+        [
+            "Qasmani", 
+            "176", 
+            "Others"
+        ], 
+        [
+            "Dawood Ibrahim", 
+            "183", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Dawood", 
+            "208", 
+            "Others"
+        ], 
+        [
+            "Qasmani", 
+            "227", 
+            "Others"
+        ], 
+        [
+            "Qasmani", 
+            "266", 
+            "Others"
+        ], 
+        [
+            "Yahya Mujahid", 
+            "285", 
+            "Comment"
+        ], 
+        [
+            "Nasir Javaid", 
+            "324", 
+            "Others"
+        ], 
+        [
+            "Ameen Al-Peshawari", 
+            "338", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2007:18", 
+        "2006:22", 
+        "July 2006:157", 
+        "2001:312"
+    ], 
+    "death": "", 
+    "title": "US sanctions Pak Lashkar man, cites his Samjhauta blast link", 
+    "det_loc": [
+        "United States", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA", 
+        "AL-QAEDA", 
+        "LET"
+    ], 
+    "content": "The United States has imposed sanctions on four Pakistan-based terrorists including a Lashkar-e-Toiba operative accused in the 2007 Samjhauta blasts and 2006 Mumbai train bombings , freezing their assets and travel in the US . . . Arif Qasmani , chief coordinator and fundraiser for the Lashkar , and three others Ameen Al-Peshawari , Yahya Mujahid and Nasir Javaid ca n't enter into financial transactions in the US , or with a US national . . . The US action came two days after the four men were banned by the UN under Resolution 1267 , also known as the Al Qaeda and Taliban Sanctions Committee . The UN ban makes it obligatory for all member nations to freeze funds and assets of proscribed individuals and impose a ban on their travel . . . `` The designated individuals have provided direct support to Al Qaeda and LeT and ... facilitated terrorist attacks , including the July 2006 train bombing in Mumbai , '' said a statement from the US Treasury Department . . . Qasmani is known to have links with Dawood Ibrahim , one of India 's most wanted criminals now based in Pakistan . The statement said part of the money he received from Dawood was used to finance the train bombings in which close to 200 people were killed . . . Qasmani is also said to have provided financial and other support to Al Qaeda leaders , facilitated their movement in and out of Afghanistan , and provided them with weapons and supplies . In return , Al Qaeda provided Qasmani with operatives to support the Mumbai bombings and the Samjhauta attack , the statement said . . . Yahya Mujahid is Lashkar 's main spokesperson , and the group 's media contact . He issued statements on behalf of Lashkar after the Parliament attack in 2001 and last year 's terror strikes in Mumbai . . . Nasir Javaid is an LeT commander who also trains its cadres . . . Ameen Al-Peshawari has recruited fighters and suicide bombers for Al Qaeda , and raised funds and acquired equipment for militants in Afghanistan , the statement said . . . ... contd .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Pakistan-based:9", 
+        "lashkar-e-toiba operative:13", 
+        "samjhauta blasts:19", 
+        "train:24", 
+        "chief coordinator and fundraiser:41", 
+        "Lashkar:47", 
+        "Resolution 1267:94", 
+        "samjhauta:276"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/us-sanctions-pak-lashkar-man-cites-his-samjhauta-blast-link/484480/", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Lashkar-e-Toiba", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "UN", 
+            "92", 
+            "Others"
+        ], 
+        [
+            "Al Qaeda", 
+            "101", 
+            "Accused"
+        ], 
+        [
+            "Taliban Sanctions Committee", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "UN", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "148", 
+            "Assoc_Accused", 
+            "Others"
+        ], 
+        [
+            "US Treasury Department", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "328", 
+            "Others"
+        ], 
+        [
+            "Al Qaeda", 
+            "347", 
+            "Others"
+        ]
+    ]
+}

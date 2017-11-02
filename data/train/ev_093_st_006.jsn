@@ -1,0 +1,220 @@
+{
+    "LOC": [
+        [
+            "Bodh Gaya", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Ranchi", 
+            "30", 
+            "Source"
+        ], 
+        [
+            "Hindpidih", 
+            "64", 
+            "Source"
+        ], 
+        [
+            "Ranchi", 
+            "67", 
+            "Source"
+        ], 
+        [
+            "Bodh Gaya", 
+            "92", 
+            "Event"
+        ], 
+        [
+            "city railway station", 
+            "144", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "155", 
+            "Event"
+        ], 
+        [
+            "Thai Monastery", 
+            "180", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "183", 
+            "Event"
+        ], 
+        [
+            "Patna station", 
+            "199", 
+            "Event"
+        ], 
+        [
+            "Patna station", 
+            "199", 
+            "Event"
+        ], 
+        [
+            "Targhar Monastery", 
+            "210", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "235", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "270", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Tehsin Akhtar", 
+            "107", 
+            "Accused"
+        ], 
+        [
+            "Haidar Ali", 
+            "110", 
+            "Accused"
+        ], 
+        [
+            "Imtiaz Ansari", 
+            "131", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Ansari", 
+            "148", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Tehsin", 
+            "167", 
+            "Accused"
+        ], 
+        [
+            "Imtiaz", 
+            "174", 
+            "Accused"
+        ], 
+        [
+            "Ainul", 
+            "188", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Tarique", 
+            "190", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Mujib", 
+            "213", 
+            "Accused"
+        ], 
+        [
+            "Imtiaz", 
+            "251", 
+            "Accused"
+        ], 
+        [
+            "Ansari", 
+            "297", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 7:17", 
+        "Monday:69", 
+        "October 27 : 120", 
+        "Monday:226"
+    ], 
+    "death": "", 
+    "title": "Ranchi document helps NIA crack Bodh Gaya blast case", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "NEW DELHI : The National Investigation Agency -LRB- NIA -RRB- has claimed to have solved the July 7 Bodh Gaya blasts conspiracy with the recovery of a document from Ranchi that details the entire planning , including the placement of each of the 13 bombs and the planters associated with them . The NIA , which recovered 27 bombs from a lodge in Hindpidih area of Ranchi on Monday , also found a chart in the room that listed the men who allegedly planted 13 bombs in the temple complex of Bodh Gaya . The document shows that the blasts were planned by Indian Mujahideen 's Tehsin Akhtar and Haidar Ali and included the same planters as in the October 27 Patna blasts . It also includes the name of Imtiaz Ansari , arrested after one of the Patna bombs exploded at the city railway station . Ansari had denied any involvement in the Bodh Gaya blasts but had conceded that it had been planned by Tehsin . The chart 's matrix reveals Imtiaz had planted bombs near the Thai Monastery in Bodh Gaya . His accomplice Ainul alias Tarique , who was injured while planting bombs at Patna station and later died , had planted bombs at the Targhar Monastery . Mujib , who was staying in the hotel room which was raided on Monday , had planted bombs in four places in Bodh Gaya . A senior officer privy to investigation details said , ` This shows that Imtiaz is still hiding several things about IM 's activities . With the recovery of these documents , the Bodh Gaya puzzle has been solved . We are now in the process of evidence collection and looking for the absconding accused . We will further interrogate Ansari . ' .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "conspiracy:22", 
+        "recovery:25", 
+        "document:28", 
+        "planning:35", 
+        "placement:39", 
+        "13 bombs:44", 
+        "recovered 27 bombs:57", 
+        "area:65", 
+        "chart:74", 
+        "room:77", 
+        "13 bombs:85", 
+        "temple complex:89", 
+        "document:96", 
+        "patna blasts:122", 
+        "patna:122", 
+        "name:129", 
+        "patna:139", 
+        "patna bombs:139", 
+        "involvement:152", 
+        "chart:170", 
+        "matrix:172", 
+        "station:200", 
+        "hotel room:220", 
+        "officer privy:240", 
+        "investigation:243", 
+        "recovery:264", 
+        "puzzle:272", 
+        "process:282", 
+        "evidence collection:284"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Ranchi-document-helps-NIA-crack-Bodh-Gaya-blast-case/articleshow/25281931.cms?", 
+    "date": "07-07-2013", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "104", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "258", 
+            "Assoc_Accused"
+        ]
+    ]
+}

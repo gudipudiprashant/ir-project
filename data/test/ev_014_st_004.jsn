@@ -1,0 +1,71 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "29", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "AUG. 17 : 10"
+    ], 
+    "death": "13", 
+    "title": "ULFA owns responsibility", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASOM "
+    ], 
+    "content": "Front Page ULFA owns responsibility . . GUWAHATI , AUG. 17 . The banned ULFA has owned responsibility for the Independence Day bomb blast in Dhemaji district in Assam in which 13 persons were killed . PTI .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhemaji", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "responsibility:5", 
+        "owned:17", 
+        "responsibility:18", 
+        "Independence Day bomb blast:21"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2004/08/18/stories/2004081807130106.htm", 
+    "date": "17-08-2004", 
+    "target": "PARADE GROUND", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "3", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "15", 
+            "Accused"
+        ]
+    ]
+}

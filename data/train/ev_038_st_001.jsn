@@ -1,0 +1,133 @@
+{
+    "LOC": [
+        [
+            "KOLKATA", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Alipurduar", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "West Bengals", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Jalpaiguri", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Hasimhara", 
+            "117", 
+            "Neutral"
+        ], 
+        [
+            "Barobisha", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "142", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vandana Yadav", 
+            "162", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday : 40", 
+        "May 2008 : 144", 
+        "Wednesdays : 153"
+    ], 
+    "death": "", 
+    "title": "2 killed in Jalpaiguri blast", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Jalpaiguri", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . KOLKATA : A cyclist and a scooterist were killed and 14 others injured , two of them seriously , in a powerful blast outside a major market at Alipurduar in West Bengals Jalpaiguri district on Wednesday . The death toll could rise , it is feared . The hand of a militant group , Kamtapur Liberation Organisation , is suspected . . . The explosive was kept on a cycle outside the market . The cyclist was killed on the spot when he got on it . The scooterist , who was nearby , was severely injured and died later . A bomb disposal unit from the Indian Air Force base at Hasimhara defused other explosives found at the site . . . We had a similar incident at the Barobisha checkpost along the district border with Assam in May 2008 and the involvement of the KLO in Wednesdays blast is not ruled out , District Magistrate Vandana Yadav told TheHindu over telephone .", 
+    "injured": "14", 
+    "org_unorg": "", 
+    "O": [
+        "special correspondent:1", 
+        "cyclist:8", 
+        "scooterist:11", 
+        "killed:13", 
+        "injured:17", 
+        "powerful blast:26", 
+        "major market:30", 
+        "death toll:43", 
+        "feared:50", 
+        "militant group:56", 
+        "suspected:64", 
+        "explosive:69", 
+        "cycle:74", 
+        "market:77", 
+        "cyclist:80", 
+        "killed:82", 
+        "spot:85", 
+        "scooterist:93", 
+        "injured:101", 
+        "died:103", 
+        "bomb disposal unit:107", 
+        "explosives:120", 
+        "site:124", 
+        "incident:132", 
+        "checkpost:136", 
+        "district border:139", 
+        "blast:154", 
+        "telephone:167"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/2-killed-in-jalpaiguri-blast/article335497.ece", 
+    "date": "18-03-2009", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Kamtapur Liberation Organisation", 
+            "59", 
+            "Others"
+        ], 
+        [
+            "Indian Air Force", 
+            "112", 
+            "Others"
+        ], 
+        [
+            "KLO", 
+            "151", 
+            "Others"
+        ], 
+        [
+            "TheHindu", 
+            "165", 
+            "Others"
+        ]
+    ]
+}

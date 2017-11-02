@@ -1,0 +1,162 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "232", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "355", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "423", 
+            "Assoc_Event"
+        ], 
+        [
+            "Dhokuakana", 
+            "429", 
+            "Assoc_Event"
+        ], 
+        [
+            "Dhemaji", 
+            "432", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "454", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan", 
+            "213", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "235", 
+            "Comment"
+        ], 
+        [
+            "T Thangou", 
+            "243", 
+            "Others"
+        ], 
+        [
+            "Khagen Sarma", 
+            "275", 
+            "Comment"
+        ], 
+        [
+            "Ruckbul Hussain", 
+            "345", 
+            "Others"
+        ], 
+        [
+            "P V Sumant", 
+            "349", 
+            "Others"
+        ], 
+        [
+            "Gogoi", 
+            "363", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "9:00 am : 69"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:32", 
+        "Monday:369", 
+        "Sunday:405", 
+        "Saturday:446"
+    ], 
+    "death": "17", 
+    "title": "17 killed in Assam blast, Dhemaji SP suspended", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "At least 17 school children , including nine girls , were killed and 40 injured in a bomb explosion at an official Independence Day function in Assam 's Dhemaji town on Sunday . . . The United Liberation Front of Asom , whichhad given a boycott call for I-day celebrations , is suspected to be behind the attack . . . The powerful blast took place at around 9:00 am at the entrance of the Dhemaji College when the official I-Day celebration of the district was about to begin killing 16 children on the spot . . . The injured have been admitted to Dhemaji Civil Hospital , official sources said . One child succumbed to injuries at the Dhemaji Civil Hospital . . . Agitated , people started pelting stones on police vehicles after the blast and gheraoed them forcing them to launch a lathi charge and fire tear gas . When they failed to bring the situation under control , police fired some shots in the air . . . . . . . . . . . . . . . . . Also Read . . . . . . . . . . . . . . . . . . . . . . . . Manmohan 's dream of a prosperous Bharat . . . . Condemning the incident as ` most inhuman ' Assam Chief Minister Tarun Gogoi suspended the district Superintendent of Police T Thangou for ` serious dereliction of duty as the incident happened when militants had already called for a boycott and general strike today ' . . . Inspector General of Police Khagen Sarma said no ministers or VIPs were scheduled to address the I-day function in the college and the militants might have chosen it as a soft target . . . A probe would be ordered into the security lapse , if any , as vigil had been stepped up in the wake of the ULFA 's boycott and strike call . . . The Minister of State for Home Ruckbul Hussain and DGP P V Sumant have rushed to Dhemaji to take stock of the situation . Gogoi will visit the area on Monday . Policemen have been deployed in the entire town and additional security pickets have been posted in view of the panic and tension . . . Two more explosions were reported from the state on Sunday . ULFA militants had planted a bomb in the VIP gallery at an Independence Day function in Dhubri . Another bomb exploded in Dhokuakana area in Dhemaji district . There was no report of any casualty . . . On Saturday , ULFA had triggered an explosion in Dhubri district killing one person and injuring 22 others . .", 
+    "injured": "40", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhemaji", 
+        "", 
+        "Dhemaji Collage"
+    ], 
+    "O": [
+        "boycott call for I-day celebrations:46", 
+        "official I-Day celebration of the district:80", 
+        "lathi charge and fire tear gas:146", 
+        "police fired some shots in the air:163", 
+        "suspended the district Superintendent of Police:237", 
+        "chosen it as a soft target:297", 
+        "boycott and strike call:332", 
+        "Two more explosions were reported from the state:396", 
+        "planted a bomb in the VIP gallery:410"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "INDEPENDENCE DAY", 
+    "link": "http://www.rediff.com/news/2004/aug/15assam.htm", 
+    "date": "15-08-2004", 
+    "target": "PARADE GROUND", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "Dhemaji College", 
+            "76", 
+            "Victim"
+        ], 
+        [
+            "Dhemaji Civil Hospital", 
+            "105", 
+            "Others"
+        ], 
+        [
+            "Dhemaji Civil Hospital", 
+            "120", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "330", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "448", 
+            "Accused"
+        ]
+    ]
+}

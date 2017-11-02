@@ -1,0 +1,201 @@
+{
+    "LOC": [
+        [
+            "PATNA", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "59", 
+            "Neutral"
+        ], 
+        [
+            "Assam government", 
+            "59", 
+            "Neutral"
+        ], 
+        [
+            "Assam government", 
+            "59", 
+            "Neutral"
+        ], 
+        [
+            "Biharis", 
+            "101", 
+            "Neutral"
+        ], 
+        [
+            "Athgaon", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "138", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "192", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati three", 
+            "192", 
+            "Neutral"
+        ], 
+        [
+            "Dhaka", 
+            "214", 
+            "Neutral"
+        ], 
+        [
+            "Dhaka Jail", 
+            "214", 
+            "Neutral"
+        ], 
+        [
+            "Jail", 
+            "215", 
+            "Neutral"
+        ], 
+        [
+            "Assam government", 
+            "227", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "227", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "258", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nitish Kumar", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Sushil Kumar Modi", 
+            "142", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "163", 
+            "Others"
+        ], 
+        [
+            "Paresh Barua", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "230", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "7", 
+    "title": "CM condemns bomb blast in Assam", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup Metropolitan", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "PATNA : CM Nitish Kumar has condemned the bomb blast triggered by the Ulfa in Guwahati , in which seven Hindi speaking people were killed , and demanded a determined and strong action against the separatist outfit . ' I condemn the blast by the Ulfa which has led to the loss of seven precious lives . The Assam government should take determined and strong action against the separatist outfit which are regularly targetting Hindi-speaking people in the north eastern state , ' Nitish said in a statement . He also demanded adequate security for the Hindi-speaking people , including Biharis , who have significant presence in some pockets of the state and were contributing to its development . Seven persons were killed and 30 wounded when Ulfa militants set off a bomb in Athgaon area of Assam . Deputy CM Sushil Kumar Modi , while expressing his shock and profound grief over the killing , demanded immediate Central intervention there . Modi said such a gory incident took place as the state government failed to take preventive action promptly after ULFA issued a threat of a major bomb explosion in Guwahati three days before the incident . He said ULFA chief Paresh Barua had announced awards for killing Hindi speaking people from Dhaka Jail which , too , was not taken up seriously by the Assam government . Modi alleged that Congress had a soft corner for ULFA as the ultra outfit had supported the party during the last elections . He said Biharis living in Assam since long have assimilated themselves with the Assamese society hence they be provided adequate security .", 
+    "injured": "30", 
+    "org_unorg": "", 
+    "O": [
+        "cm:3", 
+        "hindi:21", 
+        "government:60", 
+        "hindi-speaking:75", 
+        "north eastern:79", 
+        "hindi-speaking people:97", 
+        "ulfa militants:128", 
+        "deputy:140", 
+        "intervention:160", 
+        "bomb explosion:189", 
+        "chief:202", 
+        "hindi:210", 
+        "government:228", 
+        "biharis:255", 
+        "assamese:266"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/patna/CM-condemns-bomb-blast-in-Assam/articleshow/2076968.cms?", 
+    "date": "25-08-2007", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Ulfa", 
+            "14", 
+            "Accused"
+        ], 
+        [
+            "Ulfa", 
+            "46", 
+            "Accused"
+        ], 
+        [
+            "Ulfa", 
+            "128", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "182", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "201", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "233", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "239", 
+            "Others"
+        ], 
+        [
+            "Biharis", 
+            "255", 
+            "Others"
+        ]
+    ]
+}

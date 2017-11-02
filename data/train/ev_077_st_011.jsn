@@ -1,0 +1,169 @@
+{
+    "LOC": [
+        [
+            "Ahmedabad", 
+            "22", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Navi Mumbai", 
+            "89", 
+            "Source", 
+            "Neutral"
+        ], 
+        [
+            "AHMEDABAD", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Ahmedabad", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Vadodara", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "46", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "Surat", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "Navi Mumbai", 
+            "89", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "109", 
+            "Neutral"
+        ], 
+        [
+            "Vadodara", 
+            "111", 
+            "Neutral"
+        ], 
+        [
+            "Vadodara", 
+            "125", 
+            "Neutral"
+        ], 
+        [
+            "Surat", 
+            "136", 
+            "Neutral"
+        ], 
+        [
+            "Vadodara", 
+            "160", 
+            "Neutral"
+        ], 
+        [
+            "Vadodara", 
+            "177", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "222", 
+            "Neutral"
+        ], 
+        [
+            "Vadodara", 
+            "266", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "268", 
+            "Victim"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "3 pm : 181"
+    ], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0021", 
+    "DAT": [
+        "Saturday:16", 
+        "July 3:30", 
+        "26 : 33", 
+        "Saturday:53", 
+        "July 3:92", 
+        "July 3:184", 
+        "July 7:202", 
+        "8 : 205", 
+        "9 : 207", 
+        "23 : 209", 
+        "24 : 211", 
+        "July 26:229", 
+        "July 7 : 269"
+    ], 
+    "death": "29", 
+    "title": "Car used in Ahmedabad Civil Hospital blast moved 6 times between cities", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "AHMEDABAD : The car bomb that killed 29 people in the Civil Hospital blast on Saturday travelled back and forth between Ahmedabad and Vadodara at least six times between July 3 and 26 , investigations have revealed.Of the four car bombs used by terrorists in Gujarat two that exploded in Ahmedabad on Saturday and the other two found abandoned in Surat police has been able to gather some information on the movement of only the WagonR that caused the maximum damage at the hospital.This car was stolen from Navi Mumbai on July 3 but the complaint was filed later . Terrorists used this vehicle extensively for travel between Ahmedabad and Vadodara , as per expressway records . It is possible that the bombers used Vadodara as the base for making bombs and also travelled to Surat in the vehicle during the period.The car used in the Civil Hospital blast had a fake registration number GJ 6D 9778 of a Vadodara two-wheeler . Inquiries revealed that the first record of the car 's movement was at the Vadodara toll plaza at 3 pm on July 3 , indicating that it was headed for Ahmedabad.Subsequently , movements of the car are recorded on July 7 , 8 , 9 , 23 and 24 . Police believe the bombs may have been brought to Ahmedabad just two days before the blasts.On July 26 , the car packed with IEDs and LPG gas cylinders became the spearhead of the terrorist operation , accounting for nearly two-third of the total casualties in Ahmedabad.Movement of the car bomb along ExpresswayJuly 3 Vadodara to Ahmedabad July 7 Ahmedabad-Vadodara-AhmedabadJuly 8 Ahmedabad-Vadodara-AhmedabadJuly 9 Ahmedabad-Vadodara-AhmedabadJuly 23 Ahmedabad-Vadodara-AhmedabadJuly 24 Ahmedabad-Vadodara-Ahmedabad .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "car bomb:4", 
+        "civil hospital blast:12", 
+        "car bombs:40", 
+        "hospital.this car:84", 
+        "vehicle:104", 
+        "expressway:115", 
+        "vadodara:125", 
+        "operation:247", 
+        "car bomb:261"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/India/Car_used_in_Ahmedabad_Civil_Hospital_blast_moved_6_times_between_cities/rssarticleshow/3307998.cms", 
+    "date": "26-07-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        "LPG CYLINDER", 
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Surat police", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "Civil Hospital", 
+            "147", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Tripura", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "Agartala", 
+            "31", 
+            "Neutral"
+        ], 
+        [
+            "Tripura", 
+            "68", 
+            "Event"
+        ], 
+        [
+            "Tripura", 
+            "101", 
+            "Event"
+        ], 
+        [
+            "Tripura", 
+            "161", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Prakash Karat", 
+            "62", 
+            "Comment"
+        ], 
+        [
+            "Manik Sarkar", 
+            "71", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "noon : 74"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:17", 
+        "Thursday:76"
+    ], 
+    "death": "", 
+    "title": "CPI(M) condemns Agartala blasts", 
+    "det_loc": [
+        "India", 
+        "Tripura", 
+        "", 
+        "Agartala", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . NEW DELHI : The Communist Party of India -LRB- Marxist -RRB- on Thursday strongly condemned the forces which carried out the bomb blasts in Tripura capital Agartala . The incident was an attempt to undermine the success of the Left Front government in tackling extremism , it said . . . CPI -LRB- M -RRB- general secretary Prakash Karat said he spoke to Tripura Chief Minister Manik Sarkar around noon on Thursday and the four blasts resulted in 73 people getting injured and some in a critical condition . . . The Left Front government of Tripura has registered significant success in tackling the extremist groups which resorted to terrorist violence . The explosions must be seen as an attempt to destabilise the situation , the Polit Bureau said in a statement . . . The Polit Bureau conveyed its heartfelt sympathy to the victims and their families . The Centre should extend all help to Tripura in tracking down the culprits , especially in view of the fact that the State had an international border on the three sides .", 
+    "injured": "73", 
+    "org_unorg": "", 
+    "O": [
+        "forces:21", 
+        "bomb blasts:26", 
+        "incident:34", 
+        "tackling extremism:48", 
+        "four blasts:79", 
+        "significant success:104", 
+        "tackling:107", 
+        "extremist groups:109", 
+        "terrorist violence:114", 
+        "explosions:118", 
+        "heartfelt sympathy:145", 
+        "victims:149", 
+        "culprits:166", 
+        "international border:179", 
+        "three sides:183"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/cpim-condemns-agartala-blasts/article1350379.ece", 
+    "date": "01-10-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Communist Party of India", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "Marxist", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "Left Front", 
+            "44", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "M", 
+            "58", 
+            "Others"
+        ], 
+        [
+            "Left Front", 
+            "97", 
+            "Others"
+        ], 
+        [
+            "Polit Bureau", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "Polit Bureau", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "155", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "LOC": [
+        [
+            "Bibinagar", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "240", 
+            "Neutral"
+        ], 
+        [
+            "Nagpur", 
+            "279", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "312", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "314", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "324", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "342", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "344", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "365", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "367", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "412", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohd Mustafa", 
+            "52", 
+            "Comment"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "112", 
+            "Comment"
+        ], 
+        [
+            "Gupta", 
+            "188", 
+            "Comment"
+        ], 
+        [
+            "Abdul Sahil Mohammed", 
+            "234", 
+            "Accused"
+        ], 
+        [
+            "Hamza", 
+            "265", 
+            "Comment"
+        ], 
+        [
+            "Shivraj", 
+            "302", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "302", 
+            "Others"
+        ], 
+        [
+            "Y S Rajasekhar Reddy", 
+            "328", 
+            "Others"
+        ], 
+        [
+            "Rajasekhar", 
+            "330", 
+            "Others"
+        ], 
+        [
+            "Gupta", 
+            "384", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 319"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:15", 
+        "Saturday:318"
+    ], 
+    "death": "", 
+    "title": "3 held for Hyd blasts; Centre points fingers at LeT, JeM", 
+    "det_loc": [
+        "India", 
+        "TELANGANA", 
+        "", 
+        "Hyderabad", 
+        "Hyderabad"
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA", 
+        "JAISH-E-MOHAMMED / TAHRIK-E-FURQAN", 
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI"
+    ], 
+    "content": "Hyderabad/New Delhi : Three people have been detained for questioning as the government on Monday hinted at the possible roles of pro-Pakistan militant groups like Lashker-e-Taiba or Jaish-e-Mohammed in the blasts with focus on a Karachi-based militant as the mastermind . . . Among the three picked up for grilling is Mohd Mustafa , a cycle shop owner , from Bibinagar , about 25km from here , as he was alleged to have supplied the ball bearings used along with the explosive material as high-velocity sharpnels . . . While Andhra Pradesh Police maintained a studied silence on the identity of the groups involved in the blasts , Union Home Secretary Madhukar Gupta said Delhi that security agencies and state police were suspecting the role of LeT or JeM . . . `` Investigations into this incident are in a very , very preliminary stage and based on some information so far some possibilities have been identified and expressed , '' he said . . . `` These elements or organisations are clearly outside the country and they resort to fuelling such kinds of activities , '' Gupta said . He , however , said `` what is more important is to nab those who planned it and those who executed it . '' . . Bangladesh-based Harkat-ul-Jehadi Islami ( HuJI ) has links with both LeT and JeM and security agencies claimed Abdul Sahil Mohammed , based in Karachi , was instrumental in organising the blasts through two of his men who had been trained in manufacturing bombs by a HuJI militant codenamed Hamza . . . The sources said investigations were being carried out at the Nagpur firm from where Neogel-90 explosives had been manufactured and sold . . . His comments came a day after Union Home Minister Shivraj Patil refused to specify whether terror groups based in Pakistan and Bangladesh were behind the Saturday night attacks . . . Andhra Pradesh Chief Minister Y S Rajasekhar Reddy has already blamed ` international terrorist organisations ' based in Pakistan and Bangladesh for the twin blasts . . . When his attention was drawn to the recent Home Secretary level talks between India and Bangladesh during which the two sides had assured each other of cooperation in security related matters , Gupta said : `` We have been raising our concerns at the multilateral and bilateral fora . . . `` We intend to set up a mechanism with Bangladesh where actionable intelligence could be shared with each other . '' . . Emphasising the need for strengthening the intelligence apparatus of state governments , the Home Secretary said five per cent of the funds allocated for police modernisation have been earmarked for the purpose . . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "government:13", 
+        "Union Home Minister:299"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/3-held-for-hyd-blasts-centre-points-fingers-at-let-jem-271677.html", 
+    "date": "27-08-2007", 
+    "target": "", 
+    "hot_spot": "Hyderabad", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Lashker-e-Taiba", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "Jaish-e-Mohammed", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "Andhra Pradesh Police", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "state police", 
+            "120", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "127", 
+            "Accused"
+        ], 
+        [
+            "JeM", 
+            "129", 
+            "Accused"
+        ], 
+        [
+            "Harkat-ul-Jehadi Islami", 
+            "218", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "221", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "227", 
+            "Accused"
+        ], 
+        [
+            "JeM", 
+            "229", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "262", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "Aligargh", 
+            "71", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ajay Chaturvedi", 
+            "57", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "60", 
+    "title": "Four RAF companies rushed to Jaipur", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : About 400 personnel of the Rapid action Force -LRB- RAF -RRB- have been rushed to Jaipur following the serial blasts in the pink city which claimed 60 lives and left 150 injured . ` We have rushed four companies of the RAF to the pink city after the blasts ' , CRPF spokesperson Ajay Chaturvedi said . Two of these companies are from Delhi and two from Aligargh , he said .", 
+    "injured": "150", 
+    "org_unorg": "", 
+    "O": [
+        "400 personnel:5", 
+        "rushed:17", 
+        "serial blasts:22", 
+        "pink city:26", 
+        "claimed 60 lives:29", 
+        "150 injured:34", 
+        "spokesperson:56"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Four-RAF-companies-rushed-to-Jaipur/articleshow/3037475.cms?", 
+    "date": "13-05-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Rapid action Force", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "RAF", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "RAF", 
+            "45", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "55", 
+            "Others"
+        ]
+    ]
+}

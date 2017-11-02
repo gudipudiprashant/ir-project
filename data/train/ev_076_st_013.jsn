@@ -1,0 +1,293 @@
+{
+    "LOC": [
+        [
+            "Bangalore", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "Karnataka", 
+            "20", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bangalore", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "94", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "130", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "154", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "275", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "278", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "283", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "285", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "287", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "292", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "384", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "405", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan-based", 
+            "530", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "548", 
+            "Accused"
+        ], 
+        [
+            "UP", 
+            "556", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "558", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "560", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "563", 
+            "Neutral"
+        ], 
+        [
+            "Kerala", 
+            "566", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shivraj Patil", 
+            "124", 
+            "Comment"
+        ], 
+        [
+            "Patil", 
+            "178", 
+            "Comment"
+        ], 
+        [
+            "M L Kumawat", 
+            "314", 
+            "Others"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "373", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:88", 
+        "Friday:134", 
+        "Thursday:266", 
+        "Friday:368", 
+        "December:500", 
+        "December , 2005 : 500", 
+        "2005:514"
+    ], 
+    "death": "", 
+    "title": "Centre warned Karnataka just a day before attack", 
+    "org_unorg": "", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA", 
+        "STUDENTS ISLAMIC MOVEMENT OF INDIA", 
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI", 
+        "LET", 
+        "LRB AND RRB"
+    ], 
+    "content": "NEW DELHI : Bangalore was attacked - possibly by local elements - only a day after the Centre warned Karnataka that it was high on the terror hitlist along with six other states and decided to amend a law to allow the CISF to provide security to private information technology and other sensitive industries in the country.Though there had not been any specific intelligence input for Bangalore which is home to over 1,500 private companies including IT majors like Infosys and Wipro , the home ministry on Thursday held a detailed discussion over Karnataka 's preparedness to deal with general threat in view of its vulnerability as per intelligence reports.A new security plan for IT and other industries was announced by home minister Shivraj Patil here immediately after the Bangalore serial blasts on Friday . ` We have decided to provide security to the private sector also - specifically the IT industry in Bangalore . IT sector has come up very well and we are ready to amend the law and provide security to them , ' Patil told reporters while condemning the blasts.He said the Centre was always ready to provide CISF personnel for the IT industry but the law only allowed public sector undertakings -LRB- PSUs -RRB- to have the benefit of this paramilitary force.Once the Centre amends the law pertaining to the charter of CISF , the paramilitary force will be able to provide security to other private sector units - particularly the sensitive ones - as well in other states.The modalities were discussed by home ministry officials in the meeting on Thursday when top cops of six other states - Andhra Pradesh , Rajasthan , Uttar Pradesh , Maharashtra , Punjab and Assam - and Union Territory Delhi held discussions over several other security related issues . ` The meeting , chaired by special secretary -LRB- internal security -RRB- M L Kumawat , also emphasised the need to have a coordinated and systematic approach towards terror incidents to ensure an understanding of the modus operandi of the elements involved and thereby reduce possibilities of such incidents in future , ' said a senior home ministry official.A security review meeting also took place on Friday in which home secretary Madhukar Gupta took stock of the situation in the wake of Bangalore serial blasts . The home ministry later asked forensic experts of National Security Guard -LRB- NSG -RRB- to rush to Bangalore to examine the nature of explosives used in the blasts . The Centre also asked states to remain on high alert.Though officials remained tight-lipped , they hinted that the blasts appeared to be the handiwork of local elements who used locally available explosives -LRB- possibly gelatine sticks -RRB- to create ` panic ' among the public as well as security personnel . They believed that the motive could be to send a message of their potential ` to strike at will ' anywhere in the city which had last witnessed a terror attack in December , 2005 . Although the IT city had not been attacked after the 2005 incident , it had always been in the list of jehadis - both from the Pakistan-based Lashkar-e-Toiba -LRB- LeT -RRB- and local Students Islamic Movement of India -LRB- SIMI -RRB- . Incidentally , Karnataka is one of the six states including UP , Maharashtra , Andhra Pradesh , Madhya Pradesh and Kerala where SIMI has a major presence.Footprints of SIMI were traced in a number of blasts in the past when it provided logistics to both LeT and Harkat-ul-Jehad-al-Islami -LRB- HuJI -RRB- . -LRB- vishwa.mohan@timesgroup.com -RRB- .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "new delhi:1", 
+        "centre:18", 
+        "security:46", 
+        "information technology:49", 
+        "intelligence input:64", 
+        "home ministry:85", 
+        "security plan:112", 
+        "home minister:122", 
+        "law:170", 
+        "security:173", 
+        "centre:187", 
+        "cisf:193", 
+        "cisf personnel:193", 
+        "it industry:197", 
+        "union territory:290", 
+        "security:298", 
+        "secretary:309", 
+        "modus operandi:338", 
+        "home secretary:371", 
+        "nsg:400", 
+        "gelatine:451", 
+        "security:465", 
+        "terror attack:497", 
+        "jehadis:525", 
+        "pakistan-based lashkar-e-toiba:530"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Centre-warned-Karnataka-just-a-day-before-attack/articleshow/3281373.cms?referral=PM", 
+    "date": "25-07-2008", 
+    "target": "INDUSTRIES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CISF", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "Infosys", 
+            "80", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Wipro", 
+            "82", 
+            "Assoc_Victim"
+        ], 
+        [
+            "PSUs", 
+            "208", 
+            "Assoc_Victim"
+        ], 
+        [
+            "CISF", 
+            "228", 
+            "Others"
+        ], 
+        [
+            "paramilitary force", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "396", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "400", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Toiba", 
+            "531", 
+            "Assoc_Accused"
+        ], 
+        [
+            "LeT", 
+            "533", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "537", 
+            "Assoc_Accused"
+        ], 
+        [
+            "SIMI", 
+            "543", 
+            "Assoc_Accused"
+        ], 
+        [
+            "SIMI", 
+            "568", 
+            "Assoc_Accused"
+        ], 
+        [
+            "SIMI", 
+            "574", 
+            "Assoc_Accused"
+        ], 
+        [
+            "LeT", 
+            "591", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Harkat-ul-Jehad-al-Islami", 
+            "593", 
+            "Assoc_Accused"
+        ], 
+        [
+            "HuJI", 
+            "595", 
+            "Assoc_Accused"
+        ]
+    ]
+}

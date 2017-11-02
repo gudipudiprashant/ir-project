@@ -1,0 +1,211 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Rashtrapati Bhawan", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "48", 
+            "Victim"
+        ], 
+        [
+            "Maharashtra", 
+            "138", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "211", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "238", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "275", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "405", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "418", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Pratibha Patil", 
+            "2", 
+            "Comment"
+        ], 
+        [
+            "Hamid Ansari", 
+            "7", 
+            "Comment"
+        ], 
+        [
+            "Ansari", 
+            "58", 
+            "Comment"
+        ], 
+        [
+            "Ansari", 
+            "114", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "134", 
+            "Comment"
+        ], 
+        [
+            "Prithviraj Chavan", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "P Chidambaram", 
+            "168", 
+            "Comment"
+        ], 
+        [
+            "L K Advani", 
+            "185", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "191", 
+            "Others"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "229", 
+            "Others"
+        ], 
+        [
+            "Nitin Gadkari", 
+            "285", 
+            "Comment"
+        ], 
+        [
+            "Gadkari", 
+            "330", 
+            "Comment"
+        ], 
+        [
+            "Gadkari", 
+            "374", 
+            "Others"
+        ], 
+        [
+            "Afzal Guru", 
+            "390", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:10"
+    ], 
+    "death": "13", 
+    "title": "President, political leaders condemn Mumbai blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "President Pratibha Patil and Vice President Hamid Ansari on Wednesday condemned the terror attacks in Mumbai . The President condoled the loss of lives in the blasts , a Rashtrapati Bhawan statement said . ` The President wishes speedy recovery to those injured in the incident in Mumbai , ' it added . . . . . Ansari expressed deep shock at the scale of the attacks targeted against innocent people causing numerous fatalities and casualties , a statement from the Vice President 's secretariat said . Such acts are aimed at destabilising the nation , he said and urged all citizens to unite in this critical hour . . . . . Ansari expressed deepest condolences to the families of those killed and injured in the attacks . Meanwhile , Prime Minister Manmohan Singh spoke with Maharashtra Chief Minister Prithviraj Chavan and asked him to keep the prime minister 's office posted on the developments . . . . . Singh also spoke with Home Minister P Chidambaram and asked him to do everything needful in the matter . Bharatiya Janata Party veteran L K Advani also spoke with Chidambaram to seek an update on the developments . . . . . The BJP strongly condemned the attack in Mumbai and asked the government to take a determined stand to deal with the menace . Congress President Sonia Gandhi condemned the dastardly act of terror in Mumbai and expressed sympathy to the affected families and appealed to people to remain vigilant and united against these elements , an All India Congress Committee statement said . . . . . . . Condemning the Mumbai blasts in the strongest possible terms , BJP President Nitin Gadkari asked the government to take a clear stand in setting up an effective anti-terror infrastructure . . . . . ` No word can ably express the anguish over these dastardly attacks . We condemn them in the strongest possible words , ' Gadkari said in a statement . . . . . ` We hope the government will move beyond reacting from one blast to another and take a clear stand on issues like effective deterrence infrastructure , ' he said . . . . . Gadkari said the blasts were a reminder of the fact that cases like Parliament attack convict Afzal Guru continue to wait for final action and government dithers from not talking to Pakistan . . . . . Three serial blasts rocked crowded areas of Mumbai this evening killing at least 13 people and injuring about a hundred . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "President:1", 
+        "Vice President:5", 
+        "president:19", 
+        "president:37", 
+        "Vice President:82", 
+        "Prime Minister:132", 
+        "Chief Minister:139", 
+        "prime minister:149", 
+        "minister:150", 
+        "Home Minister:166", 
+        "menace:225", 
+        "President:228", 
+        "dastardly:233", 
+        "vigilant:252", 
+        "anti-terror infrastructure:300", 
+        "blast:351", 
+        "take:355", 
+        "government:399"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/report/mumbai-bomb-blast-president-political-leaders-condemn-mumbai-blasts/20110713.htm", 
+    "date": "13-07-2011", 
+    "target": "CITIZENS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Bharatiya Janata Party", 
+            "181", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "205", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "227", 
+            "Others"
+        ], 
+        [
+            "All India Congress Committee", 
+            "260", 
+            "Others"
+        ], 
+        [
+            "Committee statement said .", 
+            "263", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "283", 
+            "Others"
+        ], 
+        [
+            "Parliament", 
+            "387", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,273 @@
+{
+    "LOC": [
+        [
+            "Bodh Gaya", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Myanmar", 
+            "36", 
+            "Victim"
+        ], 
+        [
+            "Bodh Gaya", 
+            "69", 
+            "Event"
+        ], 
+        [
+            "Tregar monastery premises", 
+            "174", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "258", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "264", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "369", 
+            "Event"
+        ], 
+        [
+            "Kolkata", 
+            "372", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "412", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "576", 
+            "Event"
+        ], 
+        [
+            "Gaya", 
+            "585", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "591", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "624", 
+            "Event"
+        ], 
+        [
+            "Sri Lankan", 
+            "627", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Anil Goswami", 
+            "64", 
+            "Others"
+        ], 
+        [
+            "Sujata", 
+            "211", 
+            "Others"
+        ], 
+        [
+            "Arvind Singh", 
+            "216", 
+            "Others"
+        ], 
+        [
+            "Sushil Khopade", 
+            "250", 
+            "Others"
+        ], 
+        [
+            "Nitish Kumar", 
+            "261", 
+            "Others"
+        ], 
+        [
+            "Prem Kumar", 
+            "298", 
+            "Others"
+        ], 
+        [
+            "Nitish Kumar", 
+            "301", 
+            "Others"
+        ], 
+        [
+            "Parasnath", 
+            "378", 
+            "Comment"
+        ], 
+        [
+            "Dorji", 
+            "415", 
+            "Comment"
+        ], 
+        [
+            "S K Bharadwaj", 
+            "518", 
+            "Comment"
+        ], 
+        [
+            "Dalai Lama", 
+            "618", 
+            "Others"
+        ], 
+        [
+            "Mahinda Rajapaksa", 
+            "630", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "5.30 am : 107", 
+        "6am : 110", 
+        "six-seven months : 546", 
+        "six months : 635"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday morning:24"
+    ], 
+    "death": "2", 
+    "title": "Terror strikes Bodh Gaya, serial blasts rock Mahabodhi Temple", 
+    "org_unorg": "", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "GAYA : Terror struck the temple town of Bodh Gaya in Bihar , as nine serial explosions rocked the Mahabodhi Temple complex on Sunday morning . . . Two tourists , including a monk from Myanmar , have been injured in the blasts . The injured are being treated at the Anugrah Narain Magadh Medical College hospital . . . Union home secretary Anil Goswami confirmed that the Bodh Gaya blasts were a terror attack . . . Bihar Police suspect the involvement of Indian Mujahideen in the temple blasts . . . According to Gaya Police , the blasts took place in quick succession between 5.30 am and 6am in the temple complex and near the Mahabodhi tree . One blast was reported from a bus stand . . . One of the blasts took place just under the enlightenment tree causing partial damage to the Buddha footprints in the shrine premises . . . Four blasts took place inside the shrine premises , while another three blasts took place in the Tregar monastery premises . The Tregar monastery belongs to the Karmapa , the second most important spiritual leader . . . One blast each took place at the great Buddha statue and a bus parked on the Sujata bypass . . . Arvind Singh , a member of Mahabodhi Temple Management Commitee said two other bombs , one near the 80 feet statue and one at bus stand have been defused . . . Zonal IG Sushil Khopade confirmed eight blasts . . . Bihar chief minister Nitish Kumar reached Bodh Gaya to take stock of the situation . He took a round of the Mahabodhi Temple complex and held a meeting with the officials . . . BJP activists led by former minister Prem Kumar greeted Nitish Kumar with ` go back ' slogans outside the temple main gate . . . JD ( U ) workers present there raised pro-Nitish slogans and countered the protesting BJP workers . . . Cops have sealed the entry routes to the shrine . A NIA team is expected to arrive shortly for the probe . . . `` A team of NIA officers is coming to Bodh Gaya from Kolkata , '' DIG special branch Parasnath said . . . The DIG said , `` The sanctum sanctorum of the Mahabodhi Temple is intact . The temple premises have been sanitised . '' . . The secretary of the Bodh Gaya committee Dorji said , `` There were four blasts inside the temple premises . Fortunately , there was no damage to the Bodhi Tree or the main temple structure . '' . . `` In the first blast which took place near the Bodhi tree , a table was blown up because of which two persons were injured . The second blast , I think , was inside the enclosure where books were kept . The furniture was damaged but there was no damage to the monuments or statues , '' he said . . . Asked about the nature of explosives used , S K Bharadwaj , ADG ( Law and Order ) said they were low intensity time bombs . . . He said , `` We got information about six-seven months back that there may be a terror attack on the Mahabodhi temple . After that we had beefed up secuirty and deployed extra forces '' . . . Bodh Gaya Buddhist temple , around 10 km from Gaya and 100 km from capital Patna , is world famous . Lord Buddha had attained enlightenment here under the Mahabodhi tree in the temple premises . . . Tibetan spiritual leader the Dalai Lama makes frequent trips to Bodh Gaya and Sri Lankan President Mahinda Rajapaksa had visited it six months back . A total of 52 countries have established their monasteries here .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "Bodh Gaya", 
+        "Mahabodhi Temple"
+    ], 
+    "O": [
+        "Terror struck:3", 
+        "nine serial explosions:15", 
+        "Mahabodhi Temple complex:20", 
+        "blasts:43", 
+        "blasts:71", 
+        "terror attack:74", 
+        "temple blasts:89", 
+        "blasts:100", 
+        "temple complex:113", 
+        "Mahabodhi tree:118", 
+        "blast:122", 
+        "blasts:135", 
+        "enlightenment tree:141", 
+        "Buddha footprints:148", 
+        "shrine premises:152", 
+        "Four blasts:157", 
+        "shrine premises:163", 
+        "blasts:169", 
+        "Tregar monastery:179", 
+        "Karmapa:184", 
+        "blast:196", 
+        "Buddha statue:203", 
+        "bombs:229", 
+        "eight blasts:253", 
+        "Mahabodhi Temple complex:279", 
+        "pro-Nitish slogans:325", 
+        "sanctum sanctorum:389", 
+        "Mahabodhi Temple:393", 
+        "four blasts:421", 
+        "temple premises:425", 
+        "Bodhi Tree:436", 
+        "first blast:450", 
+        "Bodhi tree:457", 
+        "second blast:474", 
+        "explosives:515", 
+        "low intensity time bombs:531", 
+        "terror attack:554", 
+        "Mahabodhi temple:558", 
+        "Buddhist temple:578", 
+        "Lord Buddha:597", 
+        "enlightenment:601", 
+        "Mahabodhi tree:605", 
+        "temple premises:609", 
+        "Tibetan:614", 
+        "52 countries:642"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2013-07-07/news/40421465_1_temple-premises-blasts-bodhi-tree", 
+    "date": "07-07-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anugrah Narain Magadh Medical College hospital", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "Bihar Police", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "85", 
+            "Accused"
+        ], 
+        [
+            "Gaya Police", 
+            "96", 
+            "Others"
+        ], 
+        [
+            "Mahabodhi Temple Management Commitee", 
+            "222", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "292", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "331", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "347", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "364", 
+            "Others"
+        ]
+    ]
+}

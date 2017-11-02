@@ -1,0 +1,98 @@
+{
+    "LOC": [
+        [
+            "Chhatrapati Shivaji Terminus", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Central Railways", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "railway stations on the Central Railway line", 
+            "117", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shashank Shinde", 
+            "47", 
+            "Victim"
+        ], 
+        [
+            "M L Chaudhary", 
+            "57", 
+            "Victim"
+        ], 
+        [
+            "S K Sharma", 
+            "79", 
+            "Victim"
+        ], 
+        [
+            "Shriniwas Mudgerikar", 
+            "109", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "0230 hours : 88"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 29"
+    ], 
+    "death": "100", 
+    "title": "Three rly men killed in CST encounter", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "Chhatrapati Shivaji Terminus"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A day after the terror attack on the historic Chhatrapati Shivaji Terminus which left over hundred killed , services on the Central Railways were restored to normal on Thursday , officials said.Three railway officials , including senior inspector of CST Government Railway Police ( GRP ) Shashank Shinde and head constable of the Railway Protection Force M L Chaudhary , were killed in the shootout.The other Central Railway employee killed in the attack was Assisting Chief Ticket Officer S K Sharma . `` We resumed services around 0230 hours after conducting combing operations to ensure it was safe , '' Chief Public Relations Officer ( Central Railways ) Shriniwas Mudgerikar said.High security was present at all railway stations on the Central Railway line , he said.The total number of persons killed in the attack has not yet been ascertained , officials said . . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Central Railway:67", 
+        "Assisting Chief Ticket Officer:75", 
+        "Chief Public Relations Officer:101"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.mid-day.com/news/2008/nov/271108-Terror-Attack-Chhatrapati-Shivaji-Terminus.htm", 
+    "date": "27-11-2008", 
+    "target": "", 
+    "hot_spot": "Chhatrapati Shivaji Terminus", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CST Government Railway Police", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "GRP", 
+            "45", 
+            "Others"
+        ], 
+        [
+            "Railway Protection Force", 
+            "54", 
+            "Others"
+        ]
+    ]
+}

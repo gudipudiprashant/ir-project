@@ -1,0 +1,132 @@
+{
+    "LOC": [
+        [
+            "AHMADABAD", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "market", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "western India", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Modasa", 
+            "54", 
+            "Neutral"
+        ], 
+        [
+            "western Gujarat", 
+            "56", 
+            "Event"
+        ], 
+        [
+            "market", 
+            "95", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "157", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "181", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "254", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "267", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "272", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "288", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "A. Naik", 
+            "160", 
+            "Comment"
+        ], 
+        [
+            "Naik", 
+            "169", 
+            "Comment"
+        ], 
+        [
+            "Naik", 
+            "228", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 22"
+    ], 
+    "death": "1", 
+    "title": "Explosion kills 1, wounds 15 in western India", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "AHMADABAD , India A low-intensity bomb exploded at a market packed with Muslims breaking their Ramadan fast in western India on Monday , killing one person and wounding 15 others , police said . . . Two of the wounded were in critical condition at a hospital in the predominantly Mulsim town of Modasa in western Gujarat state , a police officer said on condition of anonymity because he was not authorized to talk to reporters . . . Two people on a motorbike dropped a bag containing explosives on a road in the market and fled , the officer said . . . No one immediately claimed responsibility for the attack . . . A series of blasts have rocked Indian cities and killed more than 140 people since November . . . Separately , one person was killed and 15 injured in a blast in a crowded market in the western Indian town of Malegaon , said A. Naik , a police officer . . . Naik said it was a gas cylinder blast outside a restaurant in Malegaon , but Indian television news channels quoted unnamed police officers as saying it also was a bomb blast . . . Police fired warning shots in the air and used bamboo sticks to disperse an angry mob that converged on the scene of the blast , Naik said . . . Two years ago , 31 people were killed and more than 100 wounded in a deadly attack on a mosque in Malegaon , a town nearly 180 miles ( 300 kilometers ) northeast of Mumbai , the capital of Maharashtra state . . . Nearly 75 percent of Malegaon 's 500,000 residents are Muslims . Malegaon has long been the scene of violence between Hindus and Muslims . . . Breaking Ramadan fast", 
+    "injured": "15", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "ARAVALLI", 
+        "Modasa", 
+        "Modasa"
+    ], 
+    "O": [
+        "Ramadan fast:16", 
+        "police:32", 
+        "police:61", 
+        "gas cylinder:174"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.nbcnews.com/id/26946171/#.VxiCwRyli1E", 
+    "date": "08-09-2008", 
+    "target": "MARKETPLACE", 
+    "hot_spot": "Modasa", 
+    "delivery_mod": "MARKET", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "LOW INTENSITY BOMB"
+    ], 
+    "ORG": [
+        [
+            "Indian television news", 
+            "184", 
+            "Others"
+        ]
+    ]
+}

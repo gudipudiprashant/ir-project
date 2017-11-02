@@ -1,0 +1,172 @@
+{
+    "LOC": [
+        [
+            "Kokrajhar", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Kokrajhar", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Athgaon", 
+            "60", 
+            "Event"
+        ], 
+        [
+            "Sati Joymoti Road", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "Athgaon", 
+            "140", 
+            "Victim"
+        ], 
+        [
+            "Jyotinagar", 
+            "145", 
+            "Victim"
+        ], 
+        [
+            "Bihar", 
+            "154", 
+            "Victim"
+        ], 
+        [
+            "Dhubri", 
+            "159", 
+            "Victim"
+        ], 
+        [
+            "Assam", 
+            "207", 
+            "Neutral"
+        ], 
+        [
+            "Kokrajhar", 
+            "213", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Partha Saha", 
+            "134", 
+            "Victim"
+        ], 
+        [
+            "Nirmal Dey", 
+            "137", 
+            "Victim"
+        ], 
+        [
+            "Nareswar Deka", 
+            "142", 
+            "Victim"
+        ], 
+        [
+            "Md. . Anowar", 
+            "147", 
+            "Victim"
+        ], 
+        [
+            "M. Ali", 
+            "156", 
+            "Victim"
+        ], 
+        [
+            "D.K. Pathak", 
+            "237", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "10.45 a.m.:85", 
+        "one-year : 188"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday morning : 63"
+    ], 
+    "death": "6", 
+    "title": "6 killed, 25 injured in Guwahati blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Sushanta Talukdar . . At Kokrajhar , tragedy averted as police recover suitcase bomb from Brahmaputra Mail . . Guwahati : Even as the police averted a tragedy at the Kokrajhar railway station , six persons were killed and 25 injured in a blast , suspected to have been triggered by the United Liberation Front of Asom , at Athgaon here on Saturday morning . . . A time device planted in an autorickshaw parked on the busy Sati Joymoti Road went off around 10.45 a.m. . The police said an LPG cylinder being carried on a rickshaw also burst , adding to the impact of the explosion . . . Five persons died on the spot and another in hospital . The bodies of most of the victims were mutilated.Those identified were Partha Saha , Nirmal Dey of Athgaon , Nareswar Deka of Jyotinagar , Md. . Anowar , a rickshawman from Bihar and M. Ali from Dhubri . . . The blast came a day ahead of a public rally planned in the city by the Tarun Gogoi-led coalition Government to celebrate completion of its one-year rule . . . Acting swiftly , the Centre rushed additional paramilitary forces to beef up security in Assam . . . At the Kokrajhar station , Government Railway Police personnel recovered a suitcase bomb fitted with two improvised explosive devices from the Delhi-bound Brahmaputra Mail . ADGP D.K. Pathak said that a routine checking of the train threw up the IEDs , kept in a suitcase and concealed in a gunny bag planted in the vestibule between coaches S4 and S5 . A major tragedy would have occurred had the IEDs gone off on the running train , he said .", 
+    "injured": "25", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kokrajhar", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "tragedy:8", 
+        "suitcase bomb:13", 
+        "Brahmaputra Mail:16", 
+        "tragedy:28", 
+        "Kokrajhar railway station:31", 
+        "blast:44", 
+        "triggered:50", 
+        "time device planted:69", 
+        "autorickshaw parked:74", 
+        "LPG cylinder:92", 
+        "burst:100", 
+        "blast:164", 
+        "public rally:171", 
+        "Tarun Gogoi-led coalition Government:179", 
+        "paramilitary forces:200", 
+        "Government Railway Police personnel:216", 
+        "suitcase bomb:222", 
+        "improvised explosive devices:227", 
+        "Delhi-bound Brahmaputra Mail:232", 
+        "routine checking:242", 
+        "IEDs:250", 
+        "suitcase:255", 
+        "concealed:257", 
+        "gunny bag planted:260", 
+        "IEDs:280", 
+        "running train:285"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/6-killed-25-injured-in-guwahati-blast/article1848020.ece", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "RICKSHAW", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "53", 
+            "Accused"
+        ], 
+        [
+            "Centre", 
+            "197", 
+            "Others"
+        ]
+    ]
+}

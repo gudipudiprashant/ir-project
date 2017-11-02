@@ -1,0 +1,133 @@
+{
+    "LOC": [
+        [
+            "New Delhi-bound", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "25", 
+            "Neutral"
+        ], 
+        [
+            "Golaghat", 
+            "27", 
+            "Victim"
+        ], 
+        [
+            "Naojan", 
+            "53", 
+            "Neutral"
+        ], 
+        [
+            "Chongajan", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "100", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "114", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "123", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "164", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Madhukar Gupta", 
+            "118", 
+            "Others"
+        ], 
+        [
+            "Khagen Sharma", 
+            "161", 
+            "Others"
+        ], 
+        [
+            "Trikalagya Rabha", 
+            "188", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "1 am : 39"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "5 die in blast on Rajdhani, Assam Adivasi group claims we did it", 
+    "org_unorg": "", 
+    "terror_group": [
+        " THE ADIVASI NATIONAL LIBERATION ARMY -LRB- ANLA"
+    ], 
+    "content": "Five persons were killed and four others seriously injured when a bomb exploded on board the New Delhi-bound Rajdhani Express as it passed through Assam 's Golaghat district early today . . . The blast took place around 1 am in a coach next to the engine as the train moved from Naojan to Chongajan railway station . The Adivasi National Liberation Army -LRB- ANLA -RRB- owned up for the attack . Earlier , officials too had suspected the outfit which has of late been active in the region . . . A National Security Guards team will visit Assam tomorrow to assist in the investigation , a Home Ministry official said in Delhi . Home Secretary Madhukar Gupta spoke to the Assam Chief Secretary to take stock of the situation . . . `` Preliminary reports suggest it could be the handiwork of the ANLA which had announced recently it would indulge in acts of sabotage , '' said Khagen Sharma , Assam 's IGP -LRB- Special Branch -RRB- . The ANLA is believed to have a cadre strength of 70-80 . . . Railway PRO Trikalagya Rabha said the blast took place in a non-AC compartment behind the engine and it was so powerful that it left a crater 1.8 metres wide and 82 cms deep on the railway track . Two bodies were found inside the coach while three lay by the tracks . . . There were 40 people in the coach , known as an SLR van , half of which is used for luggage .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Golaghat", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "new delhi-bound rajdhani express:17", 
+        "Home Secretary:116", 
+        "Chief Secretary:124", 
+        "IGP:166", 
+        "Railway PRO:186"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/5-die-in-blast-on-rajdhani-assam-adivasi-group-claims-we-did-it/250185/", 
+    "date": "13-12-2007", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "The Adivasi National Liberation Army -LRB-", 
+            "59", 
+            "Accused"
+        ], 
+        [
+            "ANLA", 
+            "65", 
+            "Accused"
+        ], 
+        [
+            "National Security Guards", 
+            "94", 
+            "Others"
+        ], 
+        [
+            "ANLA", 
+            "146", 
+            "Accused"
+        ], 
+        [
+            "ANLA", 
+            "173", 
+            "Accused"
+        ]
+    ]
+}

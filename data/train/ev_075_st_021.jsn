@@ -1,0 +1,153 @@
+{
+    "LOC": [
+        [
+            "JAIPUR", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "32", 
+            "Source"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "74", 
+            "Assoc_Event"
+        ], 
+        [
+            "UP", 
+            "148", 
+            "Assoc_Event"
+        ], 
+        [
+            "Rajasthan", 
+            "222", 
+            "Source"
+        ], 
+        [
+            "Ajmer", 
+            "240", 
+            "Assoc_Event"
+        ], 
+        [
+            "Jaipur", 
+            "276", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "306", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "A K Jain", 
+            "176", 
+            "Comment"
+        ], 
+        [
+            "Raghvendra Suhasa", 
+            "278", 
+            "Comment"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "301", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:15", 
+        "Wednesday:23", 
+        "November:150"
+    ], 
+    "death": "", 
+    "title": "Jaipur blasts: RDX used, HuJI suspected", 
+    "org_unorg": "", 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI"
+    ], 
+    "content": "JAIPUR : Highly-explosive RDX was used in the serial blasts that rocked Jaipur on Tuesday , a senior police official said on Wednesday as tell-tale signs pointed towards the involvement of Bangladesh - based Harkat-ul-Jehadi Islami in the serial blasts . -LRB- Watch -RRB- The explosive devices were fitted with timers and planted on cycles , a modus operandi similar to the one used in last year 's blasts on court premises in Uttar Pradesh in which HuJI was involved , police said . -LRB- Watch -RRB- Eight persons including a man injured in the blasts and a rickshaw puller are being questioned , they said , noting that seven teams of Rajasthan police and intelligence branch have begun the probe into the blasts . -LRB- Watch -RRB- ` It was a cent per cent terrorist attack on the pattern of blasts on the court premises in UP in November last year . RDX was used in containers tagged to cycles along with timer devices , ' Additional Director General of Police -LRB- Crime -RRB- A K Jain said . An examination of the blast sites indicated that the bombs were filled with ball bearings and small iron pieces to act as splinters , sources close to the investigation said . HuJI may have been able to form sleeper cells in Rajasthan , they said , adding that a proper investigation into the blast at a sufi shrine in Ajmer last year could have been a pointer . ` We have collected sufficient evidence from the places of the blasts . They are being analysed by our technical experts , ' Superintendent of Police , Jaipur , Raghvendra Suhasa said , noting that one unexploded bomb , found from the blast site , has been defused . Union Home Secretary Madhukar Gupta told mediapersons in New Delhi that ` our priority now apart from vigilance and being on the alert will be to get hold of the people responsible ' for the blasts . Sources said the blasts triggered in areas close to two Hanuman temples in the old city could have been aimed at disturbing communal peace .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Highly-explosive RDX:3", 
+        "serial blasts:9", 
+        "senior police official:18", 
+        "timers:51", 
+        "planted on cycles:53", 
+        "court premises:71", 
+        "Eight persons:88", 
+        "a rickshaw puller:98", 
+        "being questioned:102", 
+        "seven teams:110", 
+        "intelligence branch:116", 
+        "terrorist attack:136", 
+        "RDX:154", 
+        "cycles:161", 
+        "timer devices:164", 
+        "Additional Director General of Police:168", 
+        "ball bearings:194", 
+        "small iron pieces:197", 
+        "splinters:203", 
+        "sleeper cells:219", 
+        "sufi shrine:237", 
+        "Superintendent of Police:272", 
+        "one unexploded bomb:284", 
+        "Union Home Secretary:298", 
+        "two Hanuman temples:344", 
+        "aimed at:354", 
+        "disturbing communal peace:356"
+    ], 
+    "unexpl": [
+        "SMALL IRON PIPES", 
+        "TIMER"
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Jaipur-blasts-RDX-used-HuJI-suspected/articleshow/3038962.cms?", 
+    "date": "13-05-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "Harkat-ul-Jehadi Islami", 
+            "35", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "78", 
+            "Accused"
+        ], 
+        [
+            "Rajasthan police", 
+            "113", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "212", 
+            "Accused"
+        ]
+    ]
+}

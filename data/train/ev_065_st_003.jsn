@@ -1,0 +1,173 @@
+{
+    "LOC": [
+        [
+            "MUMBAI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "9", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "158", 
+            "Event"
+        ], 
+        [
+            "Arthur Road", 
+            "190", 
+            "Neutral"
+        ], 
+        [
+            "Byculla", 
+            "201", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "322", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "360", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohammed Zahid", 
+            "173", 
+            "Accused"
+        ], 
+        [
+            "Raees Ali", 
+            "176", 
+            "Accused"
+        ], 
+        [
+            "Shabbir Masiullah", 
+            "179", 
+            "Accused"
+        ], 
+        [
+            "Noor-ul-Huda", 
+            "182", 
+            "Accused"
+        ], 
+        [
+            "Dr Farog Makhdoomiwere", 
+            "184", 
+            "Accused"
+        ], 
+        [
+            "Abrar Ahmed", 
+            "195", 
+            "Accused"
+        ], 
+        [
+            "Mohd Ali Shaikh", 
+            "206", 
+            "Accused"
+        ], 
+        [
+            "Asif Bashir Khan", 
+            "210", 
+            "Accused"
+        ], 
+        [
+            "Junai", 
+            "214", 
+            "Accused"
+        ], 
+        [
+            "Farsi", 
+            "272", 
+            "Accused"
+        ], 
+        [
+            "Raees Ali", 
+            "301", 
+            "Accused"
+        ], 
+        [
+            "Zahid", 
+            "304", 
+            "Accused"
+        ], 
+        [
+            "Masiullah", 
+            "342", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:12", 
+        "2006:79", 
+        "September 8 , 2006 : 147", 
+        "Wednesday:165", 
+        "2006:359"
+    ], 
+    "death": "31", 
+    "title": "7 accused in Malegaon case freed", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Nashik", 
+        "Malegaon", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "MUMBAI : Seven persons walked out of two Mumbai jails on Wednesday evening after having spent five years in the dark , dingy cells . Free for now , the seven were greeted with hugs , tears , smiles and sweets , as the wait finally ended for the them as well as the dozens of people who had lined up to meet them outside the prison gates . The seven , accused of planning and executing the 2006 Malegaon serial bomb blasts , were recently granted bail by a MCOCA court . ` We were framed in these cases . We want our dignity and five years back , ' a statement said . The anger at the Maharashtra Anti-Terrorism Squad -LRB- ATS -RRB- was also evident , with the seven men later alleging that the agency had been biased in its probe . On September 8 , 2006 , four RDX bombs went off in Malegaon , killing 31 people . On Wednesday , six of the accusedSalman Farsi , Mohammed Zahid , Raees Ali , Shabbir Masiullah , Noor-ul-Huda and Dr Farog Makhdoomiwere released from the Arthur Road prison , while Abrar Ahmed stepped out of the Byculla jail . Two others Mohd Ali Shaikh and Asif Bashir Khan alias Junai who were also granted bail would remain in jail as they are also accused in the 7/11 serial train blasts . All seven men released were keen to reach home . ' I am happy that we have been released . But I will find peace only when I am discharged from the case , ' said Farsi , tears in his eyes . ` We want our dignity back . We want an answer as to why the police wrongly framed us , ' maintained Raees Ali . Zahid said , ` The police showed me as a planter , but I was 500km away from Malegaon . The truth is coming out now . I will be relieved when we are acquitted , ' said Masiullah . Times View The NIA 's decision to not oppose bail to these accused in the 2006 Malegaon blasts case based on a review of the evidence suggests that it has prima facie reached the conclusion that they are innocent of this crime . If so , merely releasing them from prison five years after the event is clearly not enough . From a civil rights point of view , each of them must be paid a compensation of not less than Rs 5 lakh per year for wrongful confinement if the police ultimately admit that they were innocent . The investigating agencies also need to introspect on the damage done to their credibility and the fuel such incidents provide to fears that community profiling underlies their investigations .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "malegaon serial bomb blasts:80", 
+        "byculla jail:201", 
+        "7/11 serial train blasts:231", 
+        "seven men released:237", 
+        "must be paid a compensation:416", 
+        "wrongful confinement:431"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/7-accused-in-Malegaon-case-freed/articleshow/10762443.cms?referral=PM", 
+    "date": "08-09-2006", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "MCOCA", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "Maharashtra Anti-Terrorism Squad", 
+            "120", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "347", 
+            "Others"
+        ]
+    ]
+}

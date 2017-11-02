@@ -1,0 +1,117 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Digboi", 
+            "25", 
+            "Neutral"
+        ], 
+        [
+            "Tinsukia", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "Digboi", 
+            "43", 
+            "Neutral"
+        ], 
+        [
+            "Jorhat", 
+            "130", 
+            "Source"
+        ], 
+        [
+            "Upper Assam", 
+            "133", 
+            "Neutral"
+        ], 
+        [
+            "Sonitpur", 
+            "179", 
+            "Neutral"
+        ], 
+        [
+            "Kokrajhar", 
+            "181", 
+            "Neutral"
+        ], 
+        [
+            "Chirang", 
+            "183", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "A.P. Tiwari", 
+            "77", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:20", 
+        "Monday:135", 
+        "Dec 23 : 185"
+    ], 
+    "death": "", 
+    "title": "Two blasts in Assam on Republic Day, no injuries", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Tinsukia", 
+        "guwahati", 
+        "Tinsukia"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)", 
+        "NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)"
+    ], 
+    "content": "Guwahati , Jan 26 : Suspected militants from the anti-talks faction of the United Liberation Front of Asom on Monday triggered two blasts near Digboi town in Tinsukia district . . . `` While one blast was triggered on the outskirts of Digboi town , another blast took place near a drain in the town . Both were low intensity crude bombs and there is no injury or any damage , '' Tinsukia Superintendent of Police A.P. Tiwari said . . . View Photos . . The police had tightened security across the state ahead of Republic Day , particularly after intelligence inputs that the anti-talks faction of the militant outfit might try to carry out subversive activities . . . Police also recovered an improvised explosive device from Jorhat town in Upper Assam Monday . . . The Assam police , Army and other security forces have intensified counter-insurgency operations across the state , particularly along the Indo-Bhutan border and Assam-Arunachal Pradesh border , after the attack by the anti-talks faction of NDFB militants on civilians in Sonitpur , Kokrajhar and Chirang districts Dec 23 last year that left over 80 people including women and children dead . . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/india/two-blasts-in-assam-on-republic-day-no-injuries-1632536.html", 
+    "date": "26-01-2015", 
+    "target": "", 
+    "hot_spot": "Tinsukia", 
+    "delivery_mod": "DRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "14", 
+            "Accused"
+        ], 
+        [
+            "Tinsukia Superintendent of Police", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "Assam police", 
+            "140", 
+            "Others"
+        ], 
+        [
+            "NDFB", 
+            "174", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Gate No 5", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Bamunimaidan", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Gate No 5", 
+            "94", 
+            "Event"
+        ], 
+        [
+            "vegetable market", 
+            "104", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "GP Singh", 
+            "41", 
+            "Comment"
+        ], 
+        [
+            "Baba Khan", 
+            "142", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "1", 
+    "title": "Blast at Guwahati, 1 killed and 10 injured", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Guwahati : 1 kileld and 10 people were injured in a powerful blast at the Gate No 5 in Bamunimaidan area in the city around 11 . . . 45 am here today . . . DIG ( CWR ) GP Singh said : `` The bomb , an IED , was kept at an auto-van . . . Another cylinder also got burst creating the situation more tense . . . Ten persons were injured out of which the condition of one is stated to be critical . . . `` The Gate No 5 is usually packed with labourers at the vegetable market . . . The injured had been admitted at the GMC Hospital and MMC Hospital . . . Most of the deceased are petty labourers working in the market . . . ( With inputs from Baba Khan ) .", 
+    "injured": "10", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Guwahati", 
+        "Bamunimaidan,Gate No 5"
+    ], 
+    "O": [
+        "cylinder:61"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.assamtimes.org/node/413", 
+    "date": "01-09-2007", 
+    "target": "", 
+    "hot_spot": "Bamunimaidan,Gate No 5", 
+    "delivery_mod": "VAN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "GMC Hospital", 
+            "116", 
+            "Others"
+        ], 
+        [
+            "MMC Hospital", 
+            "119", 
+            "Others"
+        ]
+    ]
+}

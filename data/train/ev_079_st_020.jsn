@@ -1,0 +1,176 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "DELHI", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Mehrauli Sarai market", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "276", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "289", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "412", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "469", 
+            "Neutral"
+        ], 
+        [
+            "New York", 
+            "481", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vinod Kumar Khattar", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "Santosh", 
+            "36", 
+            "Victim"
+        ], 
+        [
+            "Santosh", 
+            "97", 
+            "Victim"
+        ], 
+        [
+            "Khattar", 
+            "143", 
+            "Comment"
+        ], 
+        [
+            "M. C. Misra", 
+            "234", 
+            "Others"
+        ], 
+        [
+            "Santosh", 
+            "238", 
+            "Victim"
+        ], 
+        [
+            "Santosh", 
+            "269", 
+            "Victim"
+        ], 
+        [
+            "Rekha", 
+            "345", 
+            "Others"
+        ], 
+        [
+            "Santosh", 
+            "408", 
+            "Victim"
+        ], 
+        [
+            "Sheila Dikshit", 
+            "472", 
+            "Others"
+        ], 
+        [
+            "Dikshit", 
+            "535", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "afternoon : 45"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:44", 
+        "Saturday:69", 
+        "Saturday:484"
+    ], 
+    "death": "", 
+    "title": "A horror well have to live with all our life.", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . NEW DELHI : A thoroughly shaken shopkeeper in the Capitals Mehrauli Sarai market , Vinod Kumar Khattar , who claims to be an eyewitness to the bomb blast that killed nine-year-old Santosh and left two-dozen injured , said on Saturday afternoon that it would be a long time before he is able to sleep well again . . . It began as just another Saturday for us and I was sitting in my shop when I noticed two young men slowing down their black-coloured motorcycle and dropping something on the road . Santosh , who worked at an egg-stall in the market , was standing right behind the vehicle . He called out to the men to tell them that they had dropped a packet . He then bent down to pick it up for them , said Khattar . . . Loud explosion . . Almost immediately we saw smoke coming out of the packet and then there was a loud explosion and thick smoke enveloped the area . There was panic all round . When the cloud of smoke cleared , I saw several persons lying injured on the road . We rushed them to the All-India Institute of Medical Sciences Trauma Centre . I am very lucky to be alive . he said . . . Meanwhile , according to AIIMS Trauma Centre Medical Superintendent Dr. M. C. Misra , Santosh was brought dead . . . Huddled together outside the Trauma Centre , Santoshs stunned relatives said they could not believe the little boy was no more . . . Santosh and his parents had come from Bihar . While his father works as a labourer at a godown in Delhi , his brother is a rickshaw puller . The little boy used to help out his uncle who is a small-time vendor selling omelettes and boiled eggs . We are very poor people trying to live a decent life and I dont understand why we have been subjected to such cruelty , rued Santoshs grandmother Rekha sitting outside the Trauma Centre . . . My grandson is an innocent victim of terrorism . While for the Government and the media he is just another figure on the list of the dead , for us his death is a horror that we will have to live with for the rest of our lives . Little did we know that Santosh was coming to Delhi only to die here in such a cruel manner . Politicians only make big promises while the common man is dying every day . We dont need more promises ; we want to feel safe . We dont want to see our children being killed in such a cruel manner , she added . . . Delhi Chief Minister Sheila Dikshit , who returned to the Capital from New York on Saturday afternoon , rushed straight from the airport to the AIIMS Trauma Centre to look up the blast victims . . . She announced an ex-gratia payment of Rs .5 lakh to the next of kin of the deceased boy and Rs .50,000 each to the injured . . . Ms. Dikshit expressed grief at the loss of life and condemned the perpetrators of terror . She said the medical personnel at AIIMS would provide the best possible treatment to the injured . . . Appealing for calm , the Chief Minister urged the citizens to remain vigilant . She also called upon all political parties to stay together in this hour of crisis .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "South West", 
+        "NEW DELHI", 
+        "Mehrauli Sarai market"
+    ], 
+    "O": [
+        "trauma centre medical superintendent:229", 
+        "trauma centre:249", 
+        "government:366", 
+        "chief minister:470"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/a-horror-well-have-to-live-with-all-our-life/article1347365.ece", 
+    "date": "27-09-2008", 
+    "target": "", 
+    "hot_spot": "Mehrauli Sarai market", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "All-India Institute of Medical Sciences Trauma Centre", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "AIIMS", 
+            "228", 
+            "Others"
+        ], 
+        [
+            "Trauma Centre", 
+            "349", 
+            "Others"
+        ], 
+        [
+            "AIIMS", 
+            "494", 
+            "Others"
+        ], 
+        [
+            "Trauma Centre", 
+            "495", 
+            "Others"
+        ], 
+        [
+            "AIIMS", 
+            "556", 
+            "Others"
+        ]
+    ]
+}

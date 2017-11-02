@@ -1,0 +1,113 @@
+{
+    "LOC": [
+        [
+            "Varanasi", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Sheetla Ghat", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Varanasi",
+            "186", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "201", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "226", 
+            "Event"
+        ], 
+        [
+            "holiest city", 
+            "229", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Brij Lal", 
+            "58", 
+            "Comment"
+        ], 
+        [
+            "Lal", 
+            "85", 
+            "Comment"
+        ], 
+        [
+            "Lal", 
+            "130", 
+            "Comment"
+        ], 
+        [
+            "Ramatama Srivastava", 
+            "175", 
+            "Comment"
+        ], 
+        [
+            "Srivastava", 
+            "180", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Lethal blast starts stampede in India", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        "Sheetla Ghat ,Varanasi"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Police said the blast in Varanasi appeared to be a terrorist attack , but they would not say whom they suspected . . . The bomb was stashed in a milk container on the Sheetla Ghat , one of many stone staircases leading to the Ganges river , the site of daily spiritual rituals , according to Brij Lal , a police official . . . The explosion set off a stampede , and 19 people , including four foreigners , were wounded , Lal said . It was not immediately clear how many were hurt in the blast and how many in the subsequent chaos . . . A 2-year-old who had been sitting on her mothers lap when the bomb went off died in a hospital , Lal said . Her mother and two others , including one of the foreigners , were in serious condition . . . The force of the explosion ripped away a metal railing and damaged stones up to 200 feet away , said a witness , Ramatama Srivastava . . . Srivastava who spoke by telephone from Varanasi , which is about 180 miles southeast of the Uttar Pradesh state capital of Lucknow said he noticed the foreigners were watching the Hindu prayer ceremony and taking photographs . . . The ceremony is a daily ritual in Varanasi , the holiest city in the Hindu religion , during which priests and others light oil lamps , ring bells , and chant prayers . . . The Press Trust of India reported a Muslim terror group allegedly claimed responsibility for the blast in an e-mail to several media outlets . . . .", 
+    "injured": "19", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Police:1", 
+        "daily ritual:223"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.boston.com/news/world/asia/articles/2010/12/08/lethal_blast_starts_stampede_in_india/", 
+    "date": "07-12-2010", 
+    "target": "", 
+    "hot_spot": "Sheetla Ghat ,Varanasi", 
+    "delivery_mod": "MILK CONTAINER", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Press Trust of India", 
+            "255", 
+            "Others"
+        ], 
+        [
+            "e-mail", 
+            "272", 
+            "Others"
+        ]
+    ]
+}

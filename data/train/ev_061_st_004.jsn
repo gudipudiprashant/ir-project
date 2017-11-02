@@ -1,0 +1,245 @@
+{
+    "LOC": [
+        [
+            "Srinagar", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "83", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "160", 
+            "Event"
+        ], 
+        [
+            "Kerala", 
+            "209", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "217", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "229", 
+            "Event"
+        ], 
+        [
+            "Srinagar", 
+            "259", 
+            "Event"
+        ], 
+        [
+            "Srirangam", 
+            "275", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "286", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "294", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir Valley", 
+            "314", 
+            "Neutral"
+        ], 
+        [
+            "Srivilliputtur", 
+            "325", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "367", 
+            "Neutral"
+        ], 
+        [
+            "Jangareddygudem", 
+            "389", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "436", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abhishek Mishra", 
+            "142", 
+            "Others"
+        ], 
+        [
+            "Nikil V. Davis", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "Irinjalakuda", 
+            "207", 
+            "Others"
+        ], 
+        [
+            "K. Sasidharan", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "P. Kannan", 
+            "322", 
+            "Others"
+        ], 
+        [
+            "Gangadhararao Reddy", 
+            "386", 
+            "Others"
+        ], 
+        [
+            "George Olivera", 
+            "433", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:23", 
+        "October 8:197", 
+        "Wednesday:261"
+    ], 
+    "death": "4", 
+    "title": "Srinagar bomb attack", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "Srinagar", 
+        ""
+    ], 
+    "terror_group": [
+        "HIZB-UL-MUJAHIDEEN / HIZB-UL-MUJAHIDEEN PIR PANJAL REGIMENT", 
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "Opinion - Letters to the Editor Srinagar bomb attack . . The recent spurt in killings in Jammu and Kashmir , including Wednesday 's gruesome car bomb attack that claimed four lives and injured 45 others , is disturbing . While there can be no disputing the need for the peace process not to be derailed on the basis of such incidents , their continuance will surely test the resolve of Indian policy-makers . Peace can not be a one-way street . Pakistan should dismantle the terrorist infrastructure on its soil and should stop supporting terrorist activities . At the same time , we need to improve our intelligence set-up . We also need to win the support of the local population and make them a party to the peace initiative . Only that can guarantee lasting peace . . . Abhishek Mishra , New Delhi . . * * * . . The fresh wave of violence in Jammu and Kashmir is indicative of the growing frustration among the terrorist outfits . It is their way of responding to the growing camaraderie among the people on both sides of the Line of Control following the October 8 earthquake . . . Nikil V. Davis , Irinjalakuda , Kerala . . * * * . . India has lent a helping hand to the earthquake-affected people of Pakistan-occupied Kashmir by opening five points along the LoC to facilitate the movement of relief material . In response , so-called ` freedom fighters ' triggered a car bomb blast in Srinagar on Wednesday , killing four and injuring 45 persons . . . K. Sasidharan , Srirangam , T.N. . . * * * . . The Srinagar bomb blasts as well as those in New Delhi earlier show that the militant outfits are slowly gaining the upper hand . The security forces in the Kashmir Valley should be reinforced . . . P. Kannan , Srivilliputtur , T.N. . . * * * . . A three-pronged strategy should be adopted in the fight against terrorism : create awareness among the people and isolate the terrorists ; allow the Army to attack terrorist training camps ; pressure Pakistan , diplomatically , to dismantle the infrastructure of terrorist groups such as Hizb-ul-Mujahideen and Lashkar-e-Taiba . . . Gangadhararao Reddy , Jangareddygudem , A.P. . . * * * . . Terrorism in any form is despicable . To patronise it in the name of god and in the name of religion is a sin against god , religion , and humanity . . . George Olivera , Bangalore .", 
+    "injured": "45", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Letters:3", 
+        "Editor Srinagar bomb attack:6", 
+        "spurt:14", 
+        "killings:16", 
+        "gruesome car bomb attack:25", 
+        "claimed:30", 
+        "disturbing:39", 
+        "peace process:51", 
+        "derailed:56", 
+        "incidents:62", 
+        "continuance:65", 
+        "test:68", 
+        "resolve:70", 
+        "Indian policy-makers:72", 
+        "Peace:75", 
+        "one-way street:80", 
+        "dismantle:85", 
+        "terrorist infrastructure:87", 
+        "soil:91", 
+        "supporting:95", 
+        "terrorist activities:96", 
+        "intelligence:109", 
+        "support:118", 
+        "local population:121", 
+        "peace initiative:130", 
+        "guarantee:136", 
+        "lasting peace:137", 
+        "fresh wave:155", 
+        "violence:158", 
+        "indicative:164", 
+        "growing frustration:167", 
+        "terrorist outfits:171", 
+        "responding:179", 
+        "growing camaraderie:182", 
+        "Line of Control:192", 
+        "earthquake:199", 
+        "helping hand:221", 
+        "earthquake-affected people:225", 
+        "Pakistan-occupied:228", 
+        "five points:232", 
+        "LoC:236", 
+        "facilitate:238", 
+        "movement:240", 
+        "relief material:242", 
+        "freedom fighters:250", 
+        "car bomb blast:255", 
+        "Srinagar bomb blasts:286", 
+        "militant outfits:300", 
+        "upper hand:306", 
+        "security forces:310", 
+        "reinforced:318", 
+        "three-pronged strategy:336", 
+        "adopted:340", 
+        "fight against terrorism:343", 
+        "awareness:348", 
+        "isolate:353", 
+        "terrorists:355", 
+        "Army:359", 
+        "attack terrorist training camps:361", 
+        "diplomatically:369", 
+        "dismantle:372", 
+        "infrastructure of terrorist groups:374", 
+        "Terrorism:399", 
+        "despicable:404", 
+        "patronise:407", 
+        "religion:419", 
+        "sin against god:422", 
+        "religion:426", 
+        "humanity:429"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/11/18/stories/2005111800131001.htm", 
+    "date": "16-11-2005", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Hizb-ul-Mujahideen", 
+            "380", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "382", 
+            "Accused"
+        ]
+    ]
+}

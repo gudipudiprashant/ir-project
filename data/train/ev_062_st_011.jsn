@@ -1,0 +1,289 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "99", 
+            "Neutral"
+        ], 
+        [
+            "temple", 
+            "113", 
+            "Event"
+        ], 
+        [
+            "railway station", 
+            "117", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "120", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "250", 
+            "Neutral"
+        ], 
+        [
+            "U.P.", 
+            "332", 
+            "Neutral"
+        ], 
+        [
+            "Gandhinagar", 
+            "409", 
+            "Neutral"
+        ], 
+        [
+            "Jammu", 
+            "413", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "540", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "554", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "581", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Marxist", 
+            "101", 
+            "Comment"
+        ], 
+        [
+            "Rajiv Shukla", 
+            "434", 
+            "Others"
+        ], 
+        [
+            "Mulayam Singh", 
+            "513", 
+            "Others"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "573", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "578", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:61", 
+        "Wednesday:583"
+    ], 
+    "death": "", 
+    "title": "Congress, Left condemn blasts", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . ` BJP seeking to draw political mileage ' . . Political parties must refrain from politicising the incident : CPI -LRB- M -RRB- CPI -LRB- ML -RRB- condemns U.P. Government for not taking pre-emptive steps Vested interests could use blasts to trigger communal polarisation . . NEW DELHI : The Congress and the Left parties on Wednesday condemned the bomb blasts in Varanasi and regretted that the Bharatiya Janata Party was seeking to draw political mileage from the incident . . . Expressing its deep shock and strong condemnation , the Communist Party of India -LRB- Marxist -RRB- said the fact that the blasts took place at a temple and in the railway station in Varanasi shows the ` diabolical motive ' behind this terrorist attack , which is to create communal tensions and a backlash . . . ` Recognising the nature of this provocation , all sections of the people must rebuff this heinous attempt , ' the party Polit Bureau said in a statement . The party said while it is time for people to be united and determined to counter such terrorist violence , it was unfortunate that the BJP was resorting to mean politics by attributing the terrorist outrage to so-called minority appeasement by the Government and the secular parties . . . ` This is an exhibition of the type of communal politics which vitiates the atmosphere in the country , ' the party said and called upon the Uttar Pradesh Government and the Centre to track down the culprits and identify and proceed against the groups and networks responsible for such terrorist acts . . . Demanding that the perpetrators of such a crime should not go scot-free , the CPI said the Union and the State Governments should make all efforts to pin down the culprits . . . ` The political parties must refrain from politicising the incident which may lead to communal polarisation of the people in U.P. and elsewhere . The timing of the terror act and its execution appear to have -LSB- been -RSB- aimed at deflecting the discourse on vital issues concerning the people and the country and disrupting the united actions of the people , ' the party Central Secretariat said in its statement . . . The Congress said that when it was in the Opposition it did not disrupt proceedings during terrorist attacks on temples like Akshardham in Gandhinagar and Raghunath in Jammu , the Red Fort and Parliament . . . Did the BJP not celebrate Holi then , asked party spokesperson Rajiv Shukla , reacting to the BJP suggestion that the party would not participate in the Holi festival next week . The party flayed the BJP decision to take out twin yatras and dubbed them as ` riot yatras ' . . . Speedy probe . . The CPI -LRB- ML -RRB- Liberation too strongly condemned the blasts and called for speedy and credible probe to identify the guilty and ensure swift punishment . The party also condemned the Mulayam Singh Government for not taking pre-emptive steps to stop any recurrence of such incidents , especially in the backdrop of the Mau riots and tension in Lucknow following recent anti-Bush protests . The party cautioned that vested political interests in Uttar Pradesh could use the blasts to trigger communal polarisation . . . PTI reports : The Congress president Sonia Gandhi and Home Minister Shivraj Patil visited Varanasi on Wednesday to take stock of the situation .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "mileage:11", 
+        "political parties:15", 
+        "pre-emptive steps:38", 
+        "blasts:44", 
+        "communal polarisation:47", 
+        "left parties:58", 
+        "bomb blasts:64", 
+        "political mileage:79", 
+        "deep shock and strong condemnation:89", 
+        "blasts:108", 
+        "diabolical motive:124", 
+        "terrorist attack:129", 
+        "communal tensions:136", 
+        "backlash:140", 
+        "rebuff:158", 
+        "heinous attempt:160", 
+        "terrorist violence:190", 
+        "terrorist outrage:207", 
+        "minority appeasement:211", 
+        "secular parties:218", 
+        "communal politics:232", 
+        "culprits:260", 
+        "terrorist acts:273", 
+        "perpetrators:281", 
+        "crime:285", 
+        "culprits:308", 
+        "communal polarisation:326", 
+        "terror act:340", 
+        "opposition:395", 
+        "terrorist attacks:402", 
+        "akshardham:407", 
+        "raghunath:411", 
+        "red fort and parliament:416", 
+        "holi:428", 
+        "holi festival:450", 
+        "twin yatras:464", 
+        "riot yatras:471", 
+        "Speedy probe:477", 
+        "speedy and credible probe:495", 
+        "guilty:502", 
+        "swift punishment:505", 
+        "pre-emptive steps:519", 
+        "mau riots:535", 
+        "anti-bush protests:543", 
+        "communal polarisation:562"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/congress-left-condemn-blasts/article3161739.ece", 
+    "date": "08-03-2006", 
+    "target": "TEMPLE AND RAILWAY STATION", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "BJP", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "28", 
+            "Others"
+        ], 
+        [
+            "U.P. Government", 
+            "33", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "Communist Party", 
+            "96", 
+            "Others"
+        ], 
+        [
+            "Polit Bureau", 
+            "166", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "198", 
+            "Others"
+        ], 
+        [
+            "Government", 
+            "215", 
+            "Others"
+        ], 
+        [
+            "Uttar Pradesh Government", 
+            "250", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "255", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "292", 
+            "Others"
+        ], 
+        [
+            "Union and the State Governments", 
+            "295", 
+            "Others"
+        ], 
+        [
+            "Central Secretariat", 
+            "377", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "387", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "425", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "440", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "459", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "482", 
+            "Others"
+        ], 
+        [
+            "Government", 
+            "515", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "571", 
+            "Others"
+        ]
+    ]
+}

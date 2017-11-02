@@ -1,0 +1,186 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "NEW DELHI", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "West Delhi", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Satyam", 
+            "142", 
+            "Event"
+        ], 
+        [
+            "Patel Nagar", 
+            "144", 
+            "Neutral"
+        ], 
+        [
+            "Liberty", 
+            "147", 
+            "Event"
+        ], 
+        [
+            "Karol Bagh", 
+            "149", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "Ranthambore", 
+            "332", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "K K Paul", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "266", 
+            "Others"
+        ], 
+        [
+            "Sanjaya Baru", 
+            "303", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "310", 
+            "Others"
+        ], 
+        [
+            "Baru", 
+            "337", 
+            "Comment"
+        ], 
+        [
+            "Sonia", 
+            "342", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "360", 
+            "Comment"
+        ], 
+        [
+            "Sheila Dikshit", 
+            "367", 
+            "Others"
+        ], 
+        [
+            "Dikshit", 
+            "368", 
+            "Others"
+        ], 
+        [
+            "B L Joshi", 
+            "374", 
+            "Others"
+        ], 
+        [
+            "Tom Vaddakkan", 
+            "412", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "morning : 328"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:270"
+    ], 
+    "death": "1", 
+    "title": "Inquiry handed over to Special Branch", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi Inquiry handed over to Special Branch . . NEW DELHI : A high-level inquiry has been ordered into the two powerful blasts that rocked two cinema halls in West Delhi , killing one person and injuring over 50 people . . . The investigation of the case has been handed over to the Special Cell of the Delhi police . . . After the blasts , Delhi Police Commissioner , K K Paul , who visited the sites , held a meeting at the Police Headquarters , where it was decided to hand over the case to the Special Cell , trained to deal with terrorist activities . Meanwhile , a bomb disposal squad , the elite National Security Guards and forensic teams reached both the cinema halls to collect clues . . . Both the cinema halls - Satyam in Patel Nagar and Liberty in Karol Bagh - were screening ` Jo Bole So Nihal , ' a film that provoked protests from a section of Sikhs . . . However , the police , not immediately relating the blasts to the film , said they were the `` handiwork of an organised group . '' It has not identified any definite group as responsible for the incident . . . According to eyewitnesses , the blasts were of a very high intensity but the explosive devices had no splinter elements . They caused considerable damage to the two cinema halls , which are situated quite close to each other . . . PM condemns blasts . . The Prime Minister , Manmohan Singh , on Sunday night condemned the blasts and asked the people of Delhi to remain calm . He has assured all steps to ensure peace and security in the national Capital , his media advisor Sanjaya Baru said . . . Dr. Singh will be visiting the hospitals , where those injured in the explosions were admitted , early tomorrow morning before travelling to Ranthambore tiger reserve , Mr. Baru said . . . Sonia expresses concern . . Expressing concern over the explosion in cinema theatres , the Congress president , Sonia Gandhi asked the Chief Minister , Sheila Dikshit , and Lt. Governor , B L Joshi , to take all measures to maintain law and order and provide relief to the injured . She said immediate steps should be taken to provide the injured relief , AICC Secretary , Media , Tom Vaddakkan said . - UNI & PTI .", 
+    "injured": "50", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        "cinema halls"
+    ], 
+    "O": [
+        "police headquarters:87", 
+        "jo bole so nihal:155", 
+        "police:177", 
+        "pm:257", 
+        "chief minister:364", 
+        "lt. governor:371"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/05/23/stories/2005052314940300.htm", 
+    "date": "23-05-2005", 
+    "target": "CINEMA HALL", 
+    "hot_spot": "cinema halls", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi police", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "National Security Guards", 
+            "120", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "357", 
+            "Others"
+        ], 
+        [
+            "AICC", 
+            "407", 
+            "Others"
+        ], 
+        [
+            "UNI", 
+            "417", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "419", 
+            "Others"
+        ]
+    ]
+}

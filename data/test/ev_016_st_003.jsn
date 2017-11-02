@@ -1,0 +1,156 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "118", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Tarun Gogoi", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "Brindabon Goswami", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "Goswami", 
+            "162", 
+            "Comment"
+        ], 
+        [
+            "Gogoi", 
+            "168", 
+            "Others"
+        ], 
+        [
+            "Gogoi", 
+            "236", 
+            "Others"
+        ], 
+        [
+            "V Satish", 
+            "266", 
+            "Others"
+        ], 
+        [
+            "Gogoi", 
+            "283", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "today : 27", 
+        "Today : 92", 
+        "last year : 110", 
+        "today : 280"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Bomb explosions, Oppn demands Gogoi's resignation", 
+    "org_unorg": "", 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM"
+    ], 
+    "content": "Guwahati , Jan 26 : In the backdrop of the bomb explosions at the Republic Day function here , the opposition AGP and BJP in Assam today separately demanded immediate resignation of Chief Minister Tarun Gogoi for his alleged failure to control the law and order situation in the state . . . The Asom Gana Parishad ( AGP ) lambasted the Gogoi-led Congress government for its alleged failure to protect the lives of common people in the aftermath of the ULFA-sponsored bomb blasts in the state . . . ` Today 's incident in the main Republic Day function where the Governor and Chief Minister were present and last year 's blast on Independence Day at Dhemaji reflected total failure of the government and their machinery ' , alleged AGP president Brindabon Goswami . . . Speaking to journalists at the R-Day parade ground where the ULFA blasted two bombs injuring three , including a police personnel , an agitated Goswami said , ` to demand Gogoi 's resignation is an understatement as it is for the people to decide whether he is really fit to head the government ' . . . The ULFA have proved that the hollow claims of the government about tightened security was just a publicity stunt as the ULFA engages in violence at will , he asserted . . . ` It is high time that he ( Gogoi ) should accept the moral responsibility himself instead of blaming the police officials and resign ' , he added . . . Meanwhile , BJP N-E zonal organising Secretary V Satish in a press release here condemned the serial blasts in the city today and demanded Gogoi 's resignation ` for his utter failure in controlling the ever deteriorating law and order situation ' . . . Bureau Report .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhemaji", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "bomb explosions:11", 
+        "republic day:15", 
+        "ulfa-sponsored bomb blasts:82", 
+        "republic day function:98", 
+        "blast:113", 
+        "independence day:115", 
+        "r-day parade ground:143", 
+        "bombs:151", 
+        "resignation:170", 
+        "hollow claims:201", 
+        "tightened security:207", 
+        "publicity stunt:212", 
+        "violence:219", 
+        "serial blasts:275", 
+        "resignation:285"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/home/bomb-explosions-oppn-demands-gogois-resignation_198142.html", 
+    "date": "26-01-2005", 
+    "target": "PARADE GROUND", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AGP", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "Asom Gana Parishad", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "AGP", 
+            "59", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "64", 
+            "Others"
+        ], 
+        [
+            "AGP", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "148", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "196", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "216", 
+            "Accused"
+        ], 
+        [
+            "BJP", 
+            "261", 
+            "Others"
+        ]
+    ]
+}

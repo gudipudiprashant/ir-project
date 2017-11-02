@@ -1,0 +1,174 @@
+{
+    "LOC": [
+        [
+            "Varanasi",
+            "6", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "206", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "239", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "241", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "243", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "295", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "12", 
+            "Comment", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "P. Chidambaram", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "G.K. Pillai", 
+            "255", 
+            "Comment"
+        ], 
+        [
+            "Pillai", 
+            "343", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "6.20 p.m.:306"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 8"
+    ], 
+    "death": "", 
+    "title": "Blast, an attempt to weaken our resolve to fight terror: Manmohan", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Condemning the bomb blast in Varanasi on Tuesday , Prime Minister Manmohan Singh said it was an attempt to weaken India 's resolve to fight the evil forces of terrorism . . . Dr. Singh appealed to people to maintain calm and peace . It is the most unfortunate incident . It was an attempt to weaken our resolve to fight the evil forces of terrorism and the terrorists will not succeed , he said soon after the incident . . . My heart goes out to those suffering families and we will provide succour to them , the Prime Minister said . . . Earlier , he asked the Home Ministry for a detailed report . . . Terming the blast an attempt to disturb peace and harmony , Home Minister P. Chidambaram appealed to the people to remain calm . He said security had been tightened all over the country . . . He said the Indian Mujahideen had claimed responsibility . The authenticity of the claim was being verified . . . He said various media houses received an e-mail purported to be from the outfit . It is a five-page document that refers to the demolition of the Babri Masjid , Jammu and Kashmir and other issues . PTI . . Nationwide alert . . Special Correspondent reports : . . In the wake of the blast , a nationwide alert , particularly in Delhi , Hyderabad , Bangalore and Mumbai , had been sounded , said Union Home Secretary G.K. Pillai . . . A general alert has been sent to all State governments and they were asked to stay on high alert . . . The Home Ministry planned to send a team of National Investigation Agency to Varanasi . It was a low intensity blast that occurred at 6.20 p.m. and three to four people were injured . Subsequently , we understand there could have been a stampede . As a result 15-20 people were injured . So about 20-25 people were injured , Mr. Pillai said .", 
+    "injured": "25", 
+    "org_unorg": "", 
+    "O": [
+        "Condemning:1", 
+        "bomb blast:3", 
+        "attempt:18", 
+        "weaken:20", 
+        "India 's resolve:21", 
+        "fight:25", 
+        "evil forces of terrorism:27", 
+        "appealed:36", 
+        "maintain:40", 
+        "calm and peace:41", 
+        "unfortunate incident:49", 
+        "attempt:55", 
+        "weaken:57", 
+        "resolve:59", 
+        "fight:61", 
+        "evil forces of terrorism:63", 
+        "terrorists:69", 
+        "not succeed:71", 
+        "incident:79", 
+        "suffering families:89", 
+        "succour:95", 
+        "detailed report:115", 
+        "Terming:120", 
+        "blast:122", 
+        "attempt:124", 
+        "disturb:126", 
+        "peace and harmony:127", 
+        "appealed:135", 
+        "remain calm:140", 
+        "security:145", 
+        "tightened:148", 
+        "claimed responsibility:162", 
+        "authenticity:166", 
+        "claim:169", 
+        "verified:172", 
+        "e-mail purported:183", 
+        "outfit:189", 
+        "five-page document:194", 
+        "demolition:200", 
+        "Babri Masjid:203", 
+        "issues:211", 
+        "Nationwide alert:216", 
+        "blast:231", 
+        "nationwide alert:234", 
+        "Mumbai:245", 
+        "sounded:249", 
+        "general alert:261", 
+        "State governments:268", 
+        "high alert:277", 
+        "planned:285", 
+        "low intensity blast:300", 
+        "three to four people:309", 
+        "injured:314", 
+        "stampede:325", 
+        "15-20 people:330", 
+        "injured:333", 
+        "20-25 people:337", 
+        "injured:340"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/blast-an-attempt-to-weaken-our-resolve-to-fight-terror-manmohan/article938515.ece", 
+    "date": "07-12-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "159", 
+            "Accused"
+        ], 
+        [
+            "National Investigation Agency", 
+            "291", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,253 @@
+{
+    "LOC": [
+        [
+            "Varanasi", 
+            "5", 
+            "Event"
+        ], 
+        [
+            "Varanasi 's Shitla Ghat", 
+            "5", 
+            "Event"
+        ], 
+        [
+            "Shitla Ghat", 
+            "74", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "99", 
+            "Event"
+        ], 
+        [
+            "Rampur", 
+            "114", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "145", 
+            "Event"
+        ], 
+        [
+            "Sankat Mochan temple", 
+            "165", 
+            "Assoc_Event"
+        ], 
+        [
+            "railway station", 
+            "170", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ayodhya", 
+            "192", 
+            "Neutral"
+        ], 
+        [
+            "Mathura", 
+            "194", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "201", 
+            "Neutral"
+        ], 
+        [
+            "Kanpur", 
+            "203", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "244", 
+            "Neutral"
+        ], 
+        [
+            "Shitla Ghat", 
+            "254", 
+            "Event"
+        ], 
+        [
+            "Shitla Ghat", 
+            "291", 
+            "Event"
+        ], 
+        [
+            "Dasashwamedh Ghat", 
+            "296", 
+            "Neutral"
+        ], 
+        [
+            "ghat", 
+            "315", 
+            "Event"
+        ], 
+        [
+            "banks of the river", 
+            "318", 
+            "Event"
+        ], 
+        [
+            "ghats", 
+            "349", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "381", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "416", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Brij Lal", 
+            "239", 
+            "Comment"
+        ], 
+        [
+            "Lal", 
+            "324", 
+            "Comment"
+        ], 
+        [
+            "Mayawati", 
+            "387", 
+            "Comment"
+        ], 
+        [
+            "Swamy Prasad Maurya", 
+            "391", 
+            "Others"
+        ], 
+        [
+            "Karamveer Singh", 
+            "398", 
+            "Others"
+        ], 
+        [
+            "Atul Kumar Gupta", 
+            "403", 
+            "Others"
+        ], 
+        [
+            "Kunwar Fateh Bahadur", 
+            "412", 
+            "Others"
+        ], 
+        [
+            "B.L. Joshi", 
+            "421", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 18", 
+        "night : 121", 
+        "7 p.m.:280"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:17", 
+        "December 31 , 2007 : 123", 
+        "January 1 , 2008 : 128", 
+        "2005:158"
+    ], 
+    "death": "2", 
+    "title": "1 killed as blast rocks Varanasi", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "", 
+        "Varanasi", 
+        " Varanasi 's Shitla Ghat "
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "A powerful blast shook Varanasi 's Shitla Ghat when Ganga aarti ' was under way on Tuesday evening , killing a two-year-old girl and injuring over 21 people . Among the injured are some foreigners . . . The blast , occurring a day after the 18 -LCB- + t -RCB- -LCB- + h -RCB- anniversary of the demolition of the Babri Masjid , was so powerful that the stairs leading to the Shitla Ghat were ripped apart . With the Indian Mujahideen reportedly claiming responsibility for the explosion , the incident marked the return of terrorism in Uttar Pradesh , which had not witnessed a militant strike since the attack on the Rampur CRPF group centre in the intervening night of December 31 , 2007 and January 1 , 2008 . . . This is the second time in around six years that Varanasi has been targeted by terror outfits . The last attack was in 2005 , when militants struck at the Sankat Mochan temple and the railway station . . . A state of high alert has been sounded in the State , with very heavy security in Ayodhya , Mathura and other sensitive places , including Lucknow and Kanpur . . . Initial reports said it was a low intensity blast . A stampede that followed is said to have caused most of the injuries . . . ADG -LRB- Law and Order -RRB- Brij Lal told reporters in Lucknow that anti-terrorist and bomb disposal squads had reached the Shitla Ghat . The exact nature of the explosion would be confirmed only after experts examined the site . The ADG said the blast occured around 7 p.m. when Ganga aarti ' was being performed at the Shitla Ghat and the adjacent Dasashwamedh Ghat . . . He said the explosive device was purportedly placed under the stairs leading to the ghat on the banks of the river . Mr. Lal , however , denied that security was lax , considering that hundreds of tourists , both domestic and foreign , gathered daily on the ghats to witness and participate in the religious ritual . He denied that the State government had ignored the advisory sent by the Centre about the possibility of a terror strike in Varanasi . . . Chief Minister Mayawati despatched senior Minister Swamy Prasad Maurya , Director-General of Police Karamveer Singh , Chief Secretary Atul Kumar Gupta and Principal Secretary -LRB- Home -RRB- Kunwar Fateh Bahadur to Varanasi . . . Governor B.L. Joshi condemned the incident and described the explosion as a dastardly act aimed at disturbing the peace and harmony in the State . He wished the injured , who have been admitted to hospitals , speedy recovery .", 
+    "injured": "21", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Ganga aarti:10", 
+        "State:185", 
+        "anti-terrorist:246", 
+        "Ganga aarti:283", 
+        "religious ritual:356", 
+        "Chief Minister:385", 
+        "senior Minister:389", 
+        "Director-General:395", 
+        "Chief Secretary:401", 
+        "Principal Secretary:407", 
+        "Governor:420", 
+        "State:443", 
+        "hospitals:455"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "RELIGIOUS FESTIVAL", 
+    "link": "http://www.thehindu.com/todays-paper/1-killed-as-blast-rocks-varanasi/article938409.ece", 
+    "date": "07-12-2010", 
+    "target": "", 
+    "hot_spot": " Varanasi 's Shitla Ghat ", 
+    "delivery_mod": "STAIR(GHAT)", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Babri Masjid", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "82", 
+            "Accused"
+        ], 
+        [
+            "militant", 
+            "107", 
+            "Accused"
+        ], 
+        [
+            "CRPF", 
+            "115", 
+            "Others"
+        ], 
+        [
+            "ADG -LRB- Law", 
+            "233", 
+            "Others"
+        ], 
+        [
+            "ADG", 
+            "274", 
+            "Others"
+        ], 
+        [
+            "tourists", 
+            "338", 
+            "Accused"
+        ], 
+        [
+            "State government", 
+            "363", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "397", 
+            "Others"
+        ]
+    ]
+}

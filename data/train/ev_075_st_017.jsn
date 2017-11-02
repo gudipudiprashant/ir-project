@@ -1,0 +1,216 @@
+{
+    "LOC": [
+        [
+            "Jaipur", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Goa", 
+            "53", 
+            "Neutral"
+        ], 
+        [
+            "Panaji", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Goan beaches", 
+            "107", 
+            "Neutral"
+        ], 
+        [
+            "railway stations", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "Dabolim", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "bus stands", 
+            "117", 
+            "Neutral"
+        ], 
+        [
+            "market areas", 
+            "120", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "168", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "177", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "185", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "251", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "259", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "263", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "300", 
+            "Neutral"
+        ], 
+        [
+            "UP", 
+            "325", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "330", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "333", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "358", 
+            "Neutral"
+        ], 
+        [
+            "Uttar pradesh", 
+            "437", 
+            "Neutral"
+        ], 
+        [
+            "Tamil Nadu", 
+            "499", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "508", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "515", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kishan Kumar", 
+            "85", 
+            "Comment"
+        ], 
+        [
+            "Kumar", 
+            "163", 
+            "Comment"
+        ], 
+        [
+            "Anil Sinha", 
+            "218", 
+            "Comment"
+        ], 
+        [
+            "S N Sabat", 
+            "372", 
+            "Comment"
+        ], 
+        [
+            "Mahesh Kumar Gupta", 
+            "467", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 19", 
+        "Night : 55", 
+        "night : 137"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:18", 
+        "Saturday:306"
+    ], 
+    "death": "63", 
+    "title": "India on alert, security stepped up", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Jaipur", 
+        "Jaipur"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi : The serial blasts in Jaipur that killed 63 people and injured over 150 on Tuesday night sent shockwaves across the country . Alert was sounded across various states and security was stepped up in all major metros and tourist hotspots . Given below is a wrap-up : . . Goa : Night vigil on . . Panaji : The Goa police declared alert in the tourist state and stepped-up security in the crowded areas . . . Inspector General of Police Kishan Kumar said all police stations in Goa have been asked to conduct strict patrolling , especially at crowded places such as Goan beaches , railway stations , airport at Dabolim , bus stands , market areas and others . . . In order to avoid risk , the alert declared last night will continue for few days in the state . '' I have also directed all police stations to get hold of suspicious persons , '' Kumar added . . . Bihar : Security up at vital installations . . Patna : A high alert was sounded in Bihar and all police stations have been put on maximum alert with specific instructions to officials to tighten vigil around places of religious importance , Additional Director General ( Law and Order ) Anil Sinha told PTI . . . The government railway police too has been alerted and security stepped up around vital installations , including properties of railway , he said . . . Karnataka : Poll-bound and on alert . . Bangalore : Police in Karnataka have stepped up security throughout the state as a precautionary measure . . . Police said a vigil is being maintained at busy areas , railway stations , bus stations , markets , malls and also Bangalore airport . . . Last Saturday , a bomb exploded in a Hubli court . None were injured in the incident . . . UP : Terror flashback for Varanasi . . Varanasi : A red alert has been sounded in the temple city with increased deployment . . . A red alert has been declared in Varanasi and deployment at sensitive places has been enhanced , DIG , Police , S N Sabat , told PTI . . . He said checking of vehicles at sensitive places has been intensified and extra forces have been deployed in and around the important temples and vital installations . . . `` Though there is no specific threat of any terror attack in the city we are leaving nothing to chance '' , he said . . . Uttar pradesh Home department has directed all District Magistrates to keep a close watch in their respective areas and gear up all intelligence machinery . . . State Home secretary Mahesh Kumar Gupta asked the DMs to put in place a drill for security checkup . . . Directive to this effect have been sent to all District Magistrates . . . Tamil Nadu : All entry points blocked . . Chennai : Security has been tightened in Chennai and police said that vehicles entering the city would be thoroughly checked . Places where people converge in large numbers like railway stations and bus stands have been brought under security cover . . . People moving around in a suspicious manner would be questioned , they added . . . .", 
+    "injured": "150", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Inspector General of Police:81", 
+        "Police:278", 
+        "DIG:368"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/india-on-alert-security-stepped-up-289194.html", 
+    "date": "13-05-2008", 
+    "target": "", 
+    "hot_spot": "Jaipur", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Goa police", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "221", 
+            "Others"
+        ], 
+        [
+            "government railway police", 
+            "226", 
+            "Others"
+        ], 
+        [
+            "Hubli court", 
+            "313", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "377", 
+            "Others"
+        ]
+    ]
+}

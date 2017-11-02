@@ -1,0 +1,59 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Hindu holy city", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "25", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "evening : 14"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 13"
+    ], 
+    "death": "", 
+    "title": "India on Alert as Bomb Hits Hindu Holy City", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "New Delhi", 
+        "Hindu holy city"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI Indian authorities issued security alerts in several major cities on Tuesday evening after a bomb detonated in the Hindu holy city of Varanasi . The police said the explosion and ensuing panic of pilgrims left a toddler dead and at least 20 other people injured . .", 
+    "injured": "20", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:28"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.nytimes.com/2010/12/08/world/asia/08bomb.html?_r=0", 
+    "date": "07-12-2010", 
+    "target": "", 
+    "hot_spot": "Hindu holy city", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

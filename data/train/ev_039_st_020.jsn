@@ -1,0 +1,127 @@
+{
+    "LOC": [
+        [
+            "Nalbari", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "167", 
+            "Neutral"
+        ], 
+        [
+            "Nikashi", 
+            "201", 
+            "Accused"
+        ], 
+        [
+            "Baska", 
+            "204", 
+            "Accused"
+        ], 
+        [
+            "Nalbari", 
+            "207", 
+            "Event"
+        ], 
+        [
+            "Bhutan", 
+            "214", 
+            "Neutral"
+        ], 
+        [
+            "Nalbari", 
+            "220", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Arabinda Rajkhowa", 
+            "51", 
+            "Comment"
+        ], 
+        [
+            "Rajkhowa", 
+            "138", 
+            "Comment"
+        ], 
+        [
+            "Kumud Thakuria", 
+            "196", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:47", 
+        "Monday ,:47"
+    ], 
+    "death": "6", 
+    "title": "Nalbari blasts a conspiracy:ULFA", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "The ULFA has claimed it was not involved in Sundays twin blasts in Nalbari district that claimed six lives and said it was carried out by the forces that want to derail the peace process . . . In a statement e-mailed to the media on Monday , ULFA chief Arabinda Rajkhowa said , We condemn Sundays blast in which innocent indigenous Assamese people were killed and such an act can be carried out only by enemies of Assam . The blast is part of a greater conspiracy and it was definitely carried out by forces who want to derail the peace process initiated by the ULFA . . . We believe that killing of indigenous Assamese people can not ensure the development of the state and we warn that such inhuman acts are stopped immediately , Rajkhowa said further . He appealed to the people to foil such attempts by forces , who are not interested in the well-being of the people and development of Assam . . . The denial comes even one person , suspected to be a ULFA militant , was picked up in connection with the blasts . . . Kumud Thakuria , arrested from Nikashi village in Baska district adjoining Nalbari district and sharing international boundary with Bhutan , was later shifted to Nalbari for interrogation . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Nalbari", 
+        "guwahati", 
+        "Nalbari"
+    ], 
+    "O": [
+        "twin blasts:11", 
+        "Assamese people:63", 
+        "Assamese people:117"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indianexpress.com/article/news-archive/web/nalbari-blasts-a-conspiracy-ulfa/", 
+    "date": "22-11-2009", 
+    "target": "", 
+    "hot_spot": "Nalbari", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "2", 
+            "Accused"
+        ], 
+        [
+            "e-mailed", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "49", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "107", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "182", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "LOC": [
+        [
+            "Jaipur", 
+            "10", 
+            "Neutral"
+        ], 
+        [
+            "markets", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "jewellery bazaar", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Hindu temple", 
+            "42", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "57", 
+            "Event"
+        ], 
+        [
+            "Rajasthan", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "72", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "150", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "162", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "168", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "180", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "182", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "210", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "220", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "249", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "262", 
+            "Neutral"
+        ], 
+        [
+            "Johari Bazaar jewellery market", 
+            "419", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sriprakash Jaiswal", 
+            "202", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "228", 
+            "Others"
+        ], 
+        [
+            "AK Jain", 
+            "323", 
+            "Comment", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "March : 435"
+    ], 
+    "death": "", 
+    "title": "Jaipur curfew imposed as bombings toll passes 80", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "HUJI"
+    ], 
+    "content": "The death toll from the serial bomb blasts in Jaipur rose to more than 80 people today , as police imposed a day-long curfew across the heritage city . The seven explosions saw busy markets , a jewellery bazaar and a Hindu temple covered in blood and left more than 200 people were seriously injured . Jaipur is the capital of the western desert state of Rajasthan and is one of India 's premier tourist spots , known for its pink sandstone palaces . The bombs , although crude , were packed with pieces or iron pipe and ball bearings designed to splinter upon the blast and then maim and kill victims . No one has claimed responsibility for the explosions . Although the attacks hit Muslim businesses , suspicion has fallen on the banned Harkat-ul-Jehadi Islamia ( HuJI ) , a Islamist group said to be operating from Bangladesh . HuJI has been blamed for a string of attacks in India in recent years . Earlier India 's junior home minister had appeared to point the finger at Pakistan , India 's traditional rival . `` One ca n't rule out the involvement of a foreign power , '' said Sriprakash Jaiswal , a euphemism often used for Pakistan . Security is fast becoming a political issue in India and the country 's prime minister , Manmohan Singh , called an emergency cabinet meeting today . The nationalist Bharatiya Janata Party , which runs the state of Rajasthan , called a strike in protest at the bombings . Police in Jaipur imposed a day-long curfew in the city , an apparent attempt to avert clashes between Hindus and Muslims . Most shops remained shut and there was an increased police presence on the streets . In the hospitals it was clear that both communities lost lives , as television pictures showed family members searching for loved ones in the morgues . AK Jain , a senior state police officer , told the Associated Press his force had questioned nearly a dozen people but had not yet found any clues as to who was involved . `` There have been no arrests so far , '' he said . . . Newspapers pointed out that the first blast was near a temple dedicated to the Hindu monkey god Hanuman , whose divinity was celebrated yesterday . The temple was crowded with people offering prayers on their way home from work . Another bomb exploded near the city 's Johari Bazaar jewellery market , a popular tourist attraction . As the tourist season ended in March , however , it appeared that no foreigners were caught in the bombings . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Jaipur", 
+        "Jaipur"
+    ], 
+    "O": [
+        "Police:260", 
+        "Hindus:278", 
+        "Muslims:280"
+    ], 
+    "unexpl": [
+        "IRON PIPE ", 
+        "BALL BEARING"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.theguardian.com/world/2008/may/14/india1", 
+    "date": "14-05-2008", 
+    "target": "", 
+    "hot_spot": "Jaipur", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "Harkat-ul-Jehadi Islamia", 
+            "136", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "139", 
+            "Accused"
+        ], 
+        [
+            "Islamist group", 
+            "143", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "152", 
+            "Accused"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "240", 
+            "Others"
+        ], 
+        [
+            "Associated Press", 
+            "334", 
+            "Others"
+        ], 
+        [
+            "Hindu monkey god Hanuman", 
+            "386", 
+            "Others"
+        ]
+    ]
+}

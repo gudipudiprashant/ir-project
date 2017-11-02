@@ -1,0 +1,102 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "cinema", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "116", 
+            "Event"
+        ], 
+        [
+            "Ajmer Sharif Dargah", 
+            "127", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:17"
+    ], 
+    "death": "6", 
+    "title": "CPI(M) condemns Ludhiana blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . NEW DELHI : The Communist Party of India -LRB- Marxist -RRB- on Monday condemned the bomb blast in a cinema in Ludhiana that killed six people and injured 25 . . . It is not sufficient to try and track down the culprits after such attacks . It is more important to identify and uncover the terrorist groups and networks operating within the country and their links abroad . . . The intelligence and security agencies will have to be geared up for this task , the CPI -LRB- M -RRB- Polit Bureau said in a statement . . . Terror network . . The Polit Bureau said the attack in Ludhiana came within a few days of the blast in the Ajmer Sharif Dargah , indicating that there was a concerted bid by the terrorist network to wreak violence around the country . . . The party also conveyed its sympathy to the families of those affected by the blast .", 
+    "injured": "25", 
+    "det_loc": [
+        "India", 
+        "Punjab", 
+        "Ludhiana", 
+        "Ludhiana", 
+        "cinema "
+    ], 
+    "O": [
+        "culprits:47", 
+        "country:68", 
+        "CPI:92", 
+        "wreak violence:143", 
+        "country:147"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/cpim-condemns-ludhiana-blast/article1931126.ece", 
+    "date": "15-10-2007", 
+    "target": "", 
+    "hot_spot": "cinema", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Communist Party of India", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "terrorist", 
+            "61", 
+            "Accused"
+        ], 
+        [
+            "Polit Bureau", 
+            "96", 
+            "Others"
+        ], 
+        [
+            "Polit Bureau", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "terrorist", 
+            "140", 
+            "Accused"
+        ]
+    ]
+}

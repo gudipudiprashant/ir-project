@@ -1,0 +1,67 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Goalpara", 
+            "32", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "6", 
+    "title": "Six killed in Assam blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Six persons , including a CRPF jawan , were killed and 50 injured in a bomb blast triggered by the banned ULFA targeting a truck carrying security personnel in Assam 's Goalpara district today . . . Police said the IED planted by ULFA militants on National Highway 36 went off when the truck carrying the CRPF jawans and a passenger bus were crossing the area . . . PTI .", 
+    "injured": "50", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Goalpara", 
+        "GUWAHATI", 
+        "Goalpara"
+    ], 
+    "O": [
+        "CRPF jawan:6", 
+        "Police:38"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2003/03/17/stories/2003031704620100.htm", 
+    "date": "13-03-2003", 
+    "target": "", 
+    "hot_spot": "Goalpara", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "22", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "44", 
+            "Accused"
+        ], 
+        [
+            "PTI", 
+            "70", 
+            "Others"
+        ]
+    ]
+}

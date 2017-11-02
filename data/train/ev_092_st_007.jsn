@@ -1,0 +1,216 @@
+{
+    "LOC": [
+        [
+            "Chhattisgarh", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "Jagdalpur", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Darba Gati Valley", 
+            "73", 
+            "Event"
+        ], 
+        [
+            "Bastar", 
+            "103", 
+            "Victim"
+        ], 
+        [
+            "Chattisgarh", 
+            "279", 
+            "Neutral"
+        ], 
+        [
+            "Bhadrachalam", 
+            "282", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "286", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "363", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mahendra Karma", 
+            "15", 
+            "Victim"
+        ], 
+        [
+            "V C Shukla", 
+            "22", 
+            "Victim"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "58", 
+            "Victim"
+        ], 
+        [
+            "Dinesh", 
+            "64", 
+            "Victim"
+        ], 
+        [
+            "Rajnandgaon Udya Mudaliyar", 
+            "87", 
+            "Victim"
+        ], 
+        [
+            "Phulo Devi Netam", 
+            "99", 
+            "Victim"
+        ], 
+        [
+            "Karma", 
+            "152", 
+            "Victim"
+        ], 
+        [
+            "Manmohan Singh", 
+            "293", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "299", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "345", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "1730 : 116"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "2", 
+    "title": "Maoists attack Congress' 'yatra', kill Mahendra Karma, injure V C Shukla", 
+    "det_loc": [
+        "India", 
+        "Chattisgarh", 
+        "JAGDALPUR", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "COMMUNIST PARTY OF INDIA (MAOIST)"
+    ], 
+    "content": "Striking in a big way , heavily-armed Maoists today shot dead senior Congress leader Mahendra Karma and injured former Union minister V C Shukla who is said to be critical having having been shot three times in an ambush in a dense forest in Chhattisgarh 's Jagdalpur district . . . The Maoists also kidnapped PCC chief Nand Kumar Patel and his son Dinesh after attacking a convoy of Congress leaders in Darba Gati Valley , police said . . . A former Congress MLA from Rajnandgaon Udya Mudaliyar was also shot dead and prominent woman tribal leader Phulo Devi Netam from Bastar , was wounded by the Maoists who attacked the convoy at around 1730 hours when they were returning from the party 's ` Parivartan ' rally . . . There were unconfirmed reports of some policemen and other Congress activists being killed in the attack . . . Karma , a former Home Minister who was a guiding force behind ` Salwa Judum ' -LRB- anti-Naxal operation by vigilante groups -RRB- , was surrounded by about 100 to 150 Maoists who peppered his body with bullets . . . The Maoists had put up road blocks by felling trees before triggering a landmine blast that hit one of the vehicles in the convoy and thereafter opening fire indiscriminately , police sources said . . . After carrying out the attack , the ultras set nearby trees on fire . . . The Personal Security Officers of the Congress leaders returned the fire but soon ran out of bullets . . . The Maoist attack took place in a dense forest near National Highway 202 connecting Chattisgarh with Naxal-hit Bhadrachalam district in adjacent Andhra Pradesh . . . Prime Minister Manmohan Singh has called Chief Minister Raman Singh and asked him about what help he needs to deal with the situation . . . PM has also tasked the NSA to ascertain what kind of assistance the state needs to deal with the attack and its aftermath . . . Prime Minister Manmohan Singh appeals to attackers to release at the earliest all those who may have been abducted in Chhattisgarh . . . ... contd .", 
+    "injured": "2", 
+    "org_unorg": "", 
+    "O": [
+        "shot dead:10", 
+        "senior Congress leader:12", 
+        "injured:18", 
+        "former Union minister:19", 
+        "shot three times:34", 
+        "ambush:39", 
+        "dense forest:42", 
+        "kidnapped:55", 
+        "chief:57", 
+        "son:63", 
+        "attacking:66", 
+        "Congress leaders:70", 
+        "former Congress MLA:83", 
+        "shot dead:92", 
+        "woman tribal leader:96", 
+        "party 's ` Parivartan ' rally:124", 
+        "former Home Minister:155", 
+        "Salwa Judum ':165", 
+        "anti-Naxal operation by vigilante groups:169", 
+        "surrounded:177", 
+        "100 to 150 Maoists:180", 
+        "peppered:185", 
+        "bullets:189", 
+        "road blocks:198", 
+        "landmine blast:206", 
+        "hit one:209", 
+        "vehicles:213", 
+        "convoy:216", 
+        "opening fire indiscriminately:219", 
+        "Personal Security Officers:246", 
+        "returned:253", 
+        "fire:255", 
+        "ran out of bullets:258", 
+        "Maoist attack:266", 
+        "National Highway 202:275", 
+        "Naxal-hit:281", 
+        "district:283", 
+        "Prime Minister:291", 
+        "Chief Minister:297", 
+        "appeals:347", 
+        "attackers:349", 
+        "release:351", 
+        "abducted:361"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/maoists-attack-congress-yatra-kill-mahendra-karma-injure-v-c-shukla/1120607/", 
+    "date": "25-05-2013", 
+    "target": "POLITICIANS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maoists", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "Congress", 
+            "13", 
+            "Victim"
+        ], 
+        [
+            "Maoists", 
+            "53", 
+            "Accused"
+        ], 
+        [
+            "PCC", 
+            "56", 
+            "Victim"
+        ], 
+        [
+            "Congress", 
+            "70", 
+            "Victim"
+        ], 
+        [
+            "Maoists", 
+            "109", 
+            "Accused"
+        ], 
+        [
+            "Maoists", 
+            "194", 
+            "Accused"
+        ], 
+        [
+            "NSA", 
+            "322", 
+            "Others"
+        ]
+    ]
+}

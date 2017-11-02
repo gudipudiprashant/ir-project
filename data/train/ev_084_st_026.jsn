@@ -1,0 +1,193 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "32", 
+            "Event"
+        ], 
+        [
+            "Islamabad", 
+            "45", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "59", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "PoK", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "140", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "182", 
+            "Event"
+        ], 
+        [
+            "PoK", 
+            "255", 
+            "Neutral"
+        ], 
+        [
+            "PoK", 
+            "283", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "291", 
+            "Neutral"
+        ], 
+        [
+            "German Bakery", 
+            "309", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "336", 
+            "Event"
+        ], 
+        [
+            "German Bakery", 
+            "372", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "387", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Arun Jaitley", 
+            "97", 
+            "Comment"
+        ], 
+        [
+            "Nitin Gadkari", 
+            "136", 
+            "Comment"
+        ], 
+        [
+            "Gadkari", 
+            "165", 
+            "Comment"
+        ], 
+        [
+            "Sushma Swaraj", 
+            "177", 
+            "Others"
+        ], 
+        [
+            "Swaraj", 
+            "191", 
+            "Others"
+        ], 
+        [
+            "Jaitley", 
+            "234", 
+            "Comment"
+        ], 
+        [
+            "Jewish Chabad", 
+            "319", 
+            "Others"
+        ], 
+        [
+            "Jaitley", 
+            "333", 
+            "Comment"
+        ], 
+        [
+            "David Headley", 
+            "378", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:22", 
+        "January 2004:70", 
+        "Sunday:81", 
+        "February 25:114"
+    ], 
+    "death": "", 
+    "title": "Terror and talks cannot coexist, says BJP", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        "German Bakery,Pune"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Continued terrorist attacks against India sponsored by Pakistan can not coexist with bilateral talks , the Bhartiya Janata Party said on Sunday . . . Even before the Saturdays blast in Pune , the party had opposed the resumption of talks , arguing that Islamabad had failed to keep its promise of dismantling the terrorist infrastructure in the Pakistan occupied Kashmir -LRB- PoK -RRB- in the joint statement of January 2004 . . . The partys core group met on Sunday to review the situation . Immediately afterwards , Leader of Opposition in the Rajya Sabha Arun Jaitley said the government must reconsider resuming the Foreign Secretary-level dialogue , scheduled to start on February 25 . Not holding talks was a legitimate diplomatic option , he said . . . Unfortunate . . BJP president Nitin Gadkari described the Pune blast as an unfortunate incident . . . At a function where he came straight after presiding over the core committee meeting , Mr. Gadkari said he and Leader of the Opposition in the Lok Sabha Sushma Swaraj would go to Pune and meet the victims . . . Ms. Swaraj was to be felicitated by the BJP womens wing for her election as the Leader of the Opposition , but she did not attend the function , as it would not be proper to celebrate after the attack . . . Mr. Jaitley warned the government of falling into a trap and contemplating adventurist steps such as allowing Kashmiri youth to return from PoK where they attended terrorist camps . In a statement , he said : The BJP urges the government to reconsider both these steps : allowing persons from PoK to return and resuming the dialogue with Pakistan . Terror and talks can not coexist . . . The core committee felt that targeting the German Bakery in the neighbourhood of a synagogue and a Jewish Chabad House was aimed at creating an international impact . . . Mr. Jaitley said the Pune blast was a grim reminder of the fragility of the countrys security . The government must introspect whether our intelligence gathering and our response to it were adequate . He wondered how and why the German Bakery , visited by American David Headley , who is known to have visited Mumbai several times before 26/11 to work out details for Pakistani terror outfits , was not better protected .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "government:351", 
+        "pakistani terror:397"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/article106425.ece", 
+    "date": "14-02-2010", 
+    "target": "", 
+    "hot_spot": "German Bakery,Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bhartiya Janata Party", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "134", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "198", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "270", 
+            "Others"
+        ]
+    ]
+}

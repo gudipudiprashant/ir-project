@@ -1,0 +1,103 @@
+{
+    "LOC": [
+        [
+            "Gorakhpur", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Gorakhpur", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Gorakhpur",
+            "47", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Golghar Crossing", 
+            "78", 
+            "Event"
+        ], 
+        [
+            "Jalkal Building", 
+            "84", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Baldev Plaza", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "P K Agarwal", 
+            "122", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "7.15 p.m.:18", 
+        "p.m.:19", 
+        "7.15 p.m.:53", 
+        "p.m.:54"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:21", 
+        "May 22:33", 
+        "Tuesday:56"
+    ], 
+    "death": "", 
+    "title": "Six injured in Gorakhpur serial blasts", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Gorakpur", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least three bomb blasts were triggered in the heart of Gorakhpur District of Uttar Pradesh around 7.15 p.m. on Tuesday , injuring at least six persons . . . Gorakhpur , May 22 : At least three bomb blasts were triggered in the heart of Gorakhpur District of Uttar Pradesh around 7.15 p.m. on Tuesday , injuring at least six persons . . . The first blast took place near Baldev Plaza , the second near Golghar Crossing and the third at Jalkal Building . . . According to reports , the bombs were kept inside lunch boxes in scooter and bicycle . . . The injured have been admitted in a nearby hospital . . . Additional District Magistrate P K Agarwal , however , denied any serious injuries . . . Security has been beefed up along the Indo-Nepal border . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .", 
+    "injured": "6", 
+    "org_unorg": "", 
+    "O": [
+        "three bomb blasts:3", 
+        "three bomb blasts:38", 
+        "first blast:67", 
+        "bombs:94", 
+        "lunch boxes:98", 
+        "scooter:101", 
+        "bicycle:103", 
+        "injured:108", 
+        "Indo-Nepal border:142"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.andhranews.net/India/2007/May/22-injured-Gorakhpur-serial-blasts-2158.asp", 
+    "date": "21-05-2007", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "TIFFIN BOX", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

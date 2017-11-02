@@ -1,0 +1,465 @@
+{
+    "LOC": [
+        [
+            "Pakistan", 
+            "773", 
+            "Accused", 
+            "Neutral"
+        ], 
+        [
+            "NEW DELHI", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "Saudi Arabia", 
+            "83", 
+            "Accused"
+        ], 
+        [
+            "Saudi", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "NCR", 
+            "168", 
+            "Accused"
+        ], 
+        [
+            "Kishtwar", 
+            "196", 
+            "Accused"
+        ], 
+        [
+            "Jammu", 
+            "198", 
+            "Accused"
+        ], 
+        [
+            "Pune", 
+            "578", 
+            "Accused"
+        ], 
+        [
+            "Pakistan", 
+            "691", 
+            "Accused"
+        ], 
+        [
+            "India", 
+            "701", 
+            "Event"
+        ], 
+        [
+            "Batla House", 
+            "713", 
+            "Neutral"
+        ], 
+        [
+            "Batla House", 
+            "750", 
+            "Assoc_Event"
+        ], 
+        [
+            "Pakistan", 
+            "773", 
+            "Neutral"
+        ], 
+        [
+            "Canada", 
+            "884", 
+            "Accused"
+        ], 
+        [
+            "UK", 
+            "903", 
+            "Accused"
+        ], 
+        [
+            "Rajasthan", 
+            "910", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Chhotu", 
+            "54", 
+            "Accused"
+        ], 
+        [
+            "Afzal Guru", 
+            "251", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Guru", 
+            "288", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Guru", 
+            "338", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Chotoo", 
+            "430", 
+            "Accused"
+        ], 
+        [
+            "Chhotu", 
+            "489", 
+            "Accused"
+        ], 
+        [
+            "U K Bansal", 
+            "519", 
+            "Comment"
+        ], 
+        [
+            "Asghar Ali Peerbhoy", 
+            "571", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Chhotu", 
+            "609", 
+            "Accused"
+        ], 
+        [
+            "Chhotu", 
+            "615", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "625", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Riyaz", 
+            "682", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Iqbal", 
+            "684", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Shahnawaz", 
+            "707", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Junaid", 
+            "709", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Salman", 
+            "739", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Shehzad", 
+            "741", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Shahnawaz", 
+            "767", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Junaid", 
+            "769", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Devinder Pal Singh Bhullar", 
+            "872", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "1.04 pm : 308", 
+        "12.37 pm : 352"
+    ], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0008", 
+    "DAT": [
+        "Wednesday:10", 
+        "Tuesday:47", 
+        "Thursday:86", 
+        "Thursday:172", 
+        "Wednesday:183", 
+        "tuesday : 395", 
+        "2008:455", 
+        "Thursday:611", 
+        "2008:673", 
+        "September:717", 
+        "September 19:717", 
+        "September 19 , 2008 : 717", 
+        "2008:720", 
+        "Wednesday:781", 
+        "May 25:818", 
+        "July 29:852", 
+        "July:852", 
+        "Wednesday:937"
+    ], 
+    "death": "", 
+    "title": "Indian Mujahideen claims Delhi blast, says it will hit market next Tuesday", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI", 
+        "INDIAN MUJAHIDEEN", 
+        "KHALISTAN COMMANDO FORCE"
+    ], 
+    "content": "NEW DELHI : Investigators were groping for leads on Wednesday 's blast at Delhi High Court even as an email was sent to a TV channel claiming that the attack was carried out by Indian Mujahidin and not HuJI and threatening attacks on shopping complexes on Tuesday . The email sent by one Chhotu , an alleged IM operative , was traced to Ahmedabad . Although Delhi Police detained five persons including one who had booked himself on a flight leaving for Saudi Arabia on Thursday , sources in NIA and Delhi Police acknowledged that they had no clue yet to the perpetrator of the attack that shattered the respite that the Capital has had from big terror strikes . The Saudi Arabia-bound suspect was taken to Ram Manohar Lohia hospital for verification by the injured undergoing treatment . Investigating agencies were working on the assumption that the attack was the handiwork of a local module . All the five who have been detained are from the NCR region . On Thursday , investigators traced the ` HuJI ' mail received on Wednesday ` owning up ' to the blast to Global Internet Cafe in Kishtwar in Jammu . The cafe owner and two others have been detained for questioning but the youth who has been identified as the likely email author , a frequent visitor to the establishment , is yet to be traced . The HuJI email threatened more strikes unless the death sentence of Parliament attack convict Afzal Guru was commuted . Although a manhunt was on for him , sources were not sure whether he was actually linked to the perpetrators of the attack , or was just one of the sympathizers of Guru seeking to cash in on the attack . The email ID used for sending the email was created at 1.04 pm -- more than two hours after the briefcase bomb went off -- something that raises the suspicion that the email may have been a clumsy effort to highlight Guru 's plea . The new email , allegedly sent by the IM at 12.37 pm from the id , said the terror group 's next target would be a shopping area . ` Hamara agla target jald hi rang layega jo ek shopping complex ke bahar hoga . Use koi nahi rok sakta aur yeh agle tuesday ko hoga . rok sako toh rok lo . -LRB- Our next target is a shopping complex . If you can stop it , stop it -RRB- , ' the sender identifying himself as Chotoo said . Like the HuJI email , the language was hurried and did not match the elaborate IM emails that followed serial blasts in 2008 . The messages were sent without much preparation . Also , unlike the previous IM emails which were timed to coincide with blasts carried out by the group , the one sent by Chhotu arrived a day later and that too in response to the alleged email by HuJI . Home ministry officials are , however , not dismissing the email , with U K Bansal , secretary , internal security , saying , ` We are examining the email received by media houses for its authenticity and veracity and we are taking it seriously . ' The ` rok sako to rok lo ' tagline matches previous IM emails . Investigators also emphasized that Asghar Ali Peerbhoy , a techie from Pune who was responsible for drafting and dispatching the earlier emails , was behind bars and that this could be the reason for the crude draft of the one sent by Chhotu on Thursday . Incidentally , Chhotu is also the alias of a jailed IM terrorist Salman . The IM email is crudely written in Hindi using Roman script and spells Mujahideen as Muzahiddin . Although investigators are looking at all possibilities , including the threat posed by Khalistani groups , the IM remains the key suspect . The IM network was busted in 2008 but some key elements like the Shanbandri brothers Riyaz and Iqbal are believed to be located in Pakistan from where they help plan and execute attacks in India . Absconding IM members like Shahnawaz and Junaid who escaped the Batla House encounter on September 19 , 2008 are high on the list of suspects . Police and NIA personnel are questioning jailed IM members like Salman and Shehzad who were arrested a few months after the Batla House encounter . Police officers are drawing attention to an Intelligence Bureau report last year about Shahnawaz and Junaid having escaped to Pakistan for advanced bomb making training . ` Wednesday 's bomb , which was made with some sophistication , could have been made by IM members with the help of Pakistan-based outfits like Lashkar-e-Taiba , ' said an officer . Delhi Police believes the previous May 25 Delhi High Court blast was also carried out by the IM but the bomb did not explode properly as detonators failed . The suspicion of Khalistani angle has to do with a July 29 intelligence alert that secessionist Sikhs could retaliate against the confirmation of death sentence of Khalistan Commando Force 's Devinder Pal Singh Bhullar . The Khalistani inputs came in mid-July from Canada based sources . Khalistanis resurfaced as a threat a couple of years ago after inputs were received from UK . Investigations led to arrests in Rajasthan . The mail from chotoomanini5@gmail.com rubbished HuJI 's alleged claims and said ` the blast was carried out by them -LRB- Indian Mujahideen -RRB- ' . Wednesday had been chosen of the preferred day as it a busy day at the high court .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "threatening attacks on shopping complexes:41", 
+        "handiwork:152", 
+        "parliament attack:248", 
+        "email id:298", 
+        "rok sako toh rok lo:399", 
+        "shopping complex:411", 
+        "shanbandri brothers:680", 
+        "advanced bomb making training:775", 
+        "pakistan-based outfits:803", 
+        "death sentence:865", 
+        "threat:892"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Indian-Mujahideen-claims-Delhi-blast-says-it-will-hit-market-next-Tuesday/articleshow/9916282.cms?referral=PM", 
+    "date": "07-09-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Ram Manohar Lohia hospital", 
+            "128", 
+            "Others"
+        ], 
+        [
+            "Khalistanis", 
+            "888", 
+            "Assoc_Accused", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "14", 
+            "Victim"
+        ], 
+        [
+            "Indian Mujahidin", 
+            "35", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "39", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "58", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "67", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "92", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "178", 
+            "Accused"
+        ], 
+        [
+            "Global Internet Cafe", 
+            "192", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "238", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "350", 
+            "Assoc_Accused"
+        ], 
+        [
+            "HuJI", 
+            "435", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "448", 
+            "Assoc_Accused"
+        ], 
+        [
+            "IM", 
+            "470", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "504", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "564", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "623", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "628", 
+            "Accused"
+        ], 
+        [
+            "Mujahideen", 
+            "640", 
+            "Accused"
+        ], 
+        [
+            "Muzahiddin", 
+            "642", 
+            "Accused"
+        ], 
+        [
+            "Khalistani", 
+            "657", 
+            "Assoc_Accused"
+        ], 
+        [
+            "IM", 
+            "661", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "668", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "704", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "731", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "736", 
+            "Accused"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "761", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "797", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "806", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "813", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "820", 
+            "Victim"
+        ], 
+        [
+            "IM", 
+            "830", 
+            "Accused"
+        ], 
+        [
+            "Khalistani", 
+            "845", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Khalistan Commando Force", 
+            "868", 
+            "Assoc_Accused"
+        ], 
+        [
+            "HuJI", 
+            "917", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "932", 
+            "Accused"
+        ], 
+        [
+            "Mujahideen", 
+            "933", 
+            "Accused"
+        ], 
+        [
+            "high court", 
+            "952", 
+            "Victim"
+        ]
+    ]
+}

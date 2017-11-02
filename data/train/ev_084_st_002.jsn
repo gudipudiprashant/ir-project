@@ -1,0 +1,187 @@
+{
+    "LOC": [
+        [
+            "Hampi", 
+            "12", 
+            "Source"
+        ], 
+        [
+            "Pune", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Virupapura Gaddi", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "Hampi", 
+            "59", 
+            "Accused"
+        ], 
+        [
+            "Bangalore", 
+            "90", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "92", 
+            "Accused"
+        ], 
+        [
+            "Pune", 
+            "94", 
+            "Accused"
+        ], 
+        [
+            "North Main Road", 
+            "121", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "186", 
+            "Neutral"
+        ], 
+        [
+            "Hampi", 
+            "194", 
+            "Neutral"
+        ], 
+        [
+            "Hampi", 
+            "241", 
+            "Neutral"
+        ], 
+        [
+            "Hampi", 
+            "254", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "267", 
+            "Accused"
+        ], 
+        [
+            "Bangalore", 
+            "272", 
+            "Accused"
+        ], 
+        [
+            "Bengaluru International Airport", 
+            "284", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Seemanth Kumar Singh", 
+            "138", 
+            "Others"
+        ], 
+        [
+            "Ishwarchandra Vidyasagar", 
+            "156", 
+            "Others"
+        ], 
+        [
+            "Bilal", 
+            "264", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "February 13:17"
+    ], 
+    "death": "11", 
+    "title": "4 Kashmiris among 40 detained in Pune probe", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Pune", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "BELLARY/BANGALORE : Four Kashmiri youths have been taken into custody in Hampi in connection with the February 13 explosion in Pune that left 11 persons dead . The detention was made by a team of the Maharashtra police near Virupapura Gaddi locality . The Pune blast site was littered with handicrafts items , leading the Mumbai police to Hampi . The four Kashmiris are sellers of handicrafts . The police are looking for three other persons , according to sources . Dozens of other detentions have been made in Bangalore , Mumbai and Pune on the basis of intelligence , call records and whatever ` little information ' sleuths could glean from the CCTV footage containing images of activities on North Main Road , where the German Bakery 's entrance is located . But superintendent of police Seemanth Kumar Singh denied the arrest of anybody in connection with the Pune blast . Another SP , Ishwarchandra Vidyasagar , told TOI no arrest or detentions had been made . ` Neither we nor any other state police force has arrested or detained anyone . '' The Maharashtra police team inspected various cyber cafes in Hampi , a popular haunt for foreign tourists . They questioned some foreigners , and enquired with the local police and hotel owners about people who had booked rooms for a week and left in a hurry . The police have visited some of the villages surrounding Hampi . More than 40 hotels catering to foreign tourists are located in Hampi . Three years ago , a suspected terrorist , Bilal , from Kashmir , was arrested in Bangalore . An LeT operative , he had planned to attack the Bengaluru International Airport and Wipro and Infosys offices .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "kashmiri youths:4", 
+        "custody:10", 
+        "connection:14", 
+        "explosion:19", 
+        "mumbai police:56", 
+        "entrance:130", 
+        "superintendent of police:135", 
+        "arrest:143", 
+        "anybody:145", 
+        "connection:147", 
+        "pune blast:150", 
+        "state police force:175", 
+        "police team:187", 
+        "cyber:191", 
+        "police:213", 
+        "hotel:215", 
+        "week:225", 
+        "three years ago:256", 
+        "terrorist:262"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/4-Kashmiris-among-40-detained-in-Pune-probe/articleshow/5586069.cms?referral=PM", 
+    "date": "13-02-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maharashtra police", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "German Bakery", 
+            "127", 
+            "Others"
+        ], 
+        [
+            "TOI", 
+            "160", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "275", 
+            "Accused"
+        ], 
+        [
+            "Wipro", 
+            "288", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Infosys offices", 
+            "290", 
+            "Assoc_Victim"
+        ]
+    ]
+}

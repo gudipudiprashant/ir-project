@@ -1,0 +1,74 @@
+{
+    "LOC": [
+        [
+            "Jiram", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Bastar", 
+            "36", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nand Kumar Patel", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "Dinesh", 
+            "14", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday : 24"
+    ], 
+    "death": "", 
+    "title": "Chhattisgarh Maoist attack: Senior Congress leaders among 27 killed", 
+    "det_loc": [
+        "India", 
+        "Chattisgarh", 
+        "Bastar", 
+        "Chhattisgarh", 
+        "Chhattisgarh"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The bullet-riddled bodies of Chhattisgarh Congress chief Nand Kumar Patel and his son Dinesh , who were kidnapped by Maoists , were on Sunday found along with those of eight others in Jiram valley in Bastar .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "kidnapped:18"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.saharasamay.com/regional-news/chhattisgarh-news/676530406/chhattisgarh-maoist-attack-maoist-attack-in-chhattisgarh-congres.html", 
+    "date": "26-05-2013", 
+    "target": "", 
+    "hot_spot": "Chhattisgarh", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Chhattisgarh Congress", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "20", 
+            "Others"
+        ]
+    ]
+}

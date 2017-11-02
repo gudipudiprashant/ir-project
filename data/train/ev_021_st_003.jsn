@@ -1,0 +1,159 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Kathalguri", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Upper Assam", 
+            "120", 
+            "Neutral"
+        ], 
+        [
+            "Beganakhowa", 
+            "270", 
+            "Event"
+        ], 
+        [
+            "Golaghat", 
+            "272", 
+            "Neutral"
+        ], 
+        [
+            "Jorhat", 
+            "294", 
+            "Neutral"
+        ], 
+        [
+            "Tibetan market", 
+            "304", 
+            "Event"
+        ], 
+        [
+            "Balaji Temple", 
+            "351", 
+            "Accused"
+        ], 
+        [
+            "Lokhra", 
+            "354", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "357", 
+            "Neutral"
+        ], 
+        [
+            "Zoo Road Tinali", 
+            "373", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bokuloni", 
+            "183", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "8.30 pm:152", 
+        "11.45 pm .:177", 
+        "6.45 : 275", 
+        "night : 283", 
+        "8.10 pm:332", 
+        "night : 360"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Jan. 23:1", 
+        "Saturday:282"
+    ], 
+    "death": "", 
+    "title": "Blackout after blast", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Golaghat", 
+        "guwahati", 
+        "Assam"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Jan. 23 : Blasting pipelines and other vital installations at will , the banned Ulfa has left Assam powerless in more ways than one . . . Neepcos gas-based power plant at Kathalguri went out of business ' experts say it could remain shut for upto seven days ' when militants blew up a pipeline yesterday as part of their pre-Republic Day terror campaign . . . The Assam Gas Company Ltd pipeline carries gas from the oil-collecting station of Oil India Ltd to Neepcos 291-MW power plant , just eight km away , under Duliajan police station . Production at the Neepco plant came to a halt immediately , resulting in a shortfall of 120 MW . The Upper Assam districts have since been experiencing long powercuts . The peak-hour demand is 550 MW . . . Sources said Ulfa militants had first tried to blow up the pipeline at 8.30 pm , but could not cause any damage . They made a second attempt at a different spot , 3 km away , around 11.45 pm . A villager from Bokuloni said the blast was deafening and its impact could be felt within a 10-km radius of the site . . . A senior Neepco official said repairs would take time . An Assam State Electricity Board official echoed him . Dark days lie ahead . . . The blast caused an estimated loss of Rs 2 crore per day to Neepco and Rs 2 lakh a day to Assam Gas company Ltd. . . Ulfa militants triggered another explosion in front of a rice mill at Beganakhowa in Golaghat district at 6.45 pm today , the 15th since Saturday night . Nobody was killed or injured . . . In Jorhat , the police defused a bomb planted near the Tibetan market in the heart of the city . They found 300 grams of RDX connected to a timer . The bomb was set to go off at 8.10 pm , when the market is usually crowded . . . Seven new Ulfa recruits were arrested near Balaji Temple at Lokhra , in Guwahati , last night . The rebels were suspected to be behind the grenade explosion near Zoo Road Tinali .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Blasting pipelines:4", 
+        "Neepcos gas-based power plant:28", 
+        "pre-Republic Day:61"
+    ], 
+    "unexpl": [
+        "PIPELINES"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1060124/asp/guwahati/story_5759112.asp", 
+    "date": "23-01-2006", 
+    "target": "", 
+    "hot_spot": "Assam", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "Ulfa", 
+            "15", 
+            "Accused"
+        ], 
+        [
+            "Assam Gas Company Ltd", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "Oil India Ltd", 
+            "81", 
+            "Others"
+        ], 
+        [
+            "Duliajan police", 
+            "96", 
+            "Others"
+        ], 
+        [
+            "Ulfa", 
+            "141", 
+            "Accused"
+        ], 
+        [
+            "Assam State Electricity Board", 
+            "216", 
+            "Others"
+        ], 
+        [
+            "Assam Gas company Ltd.", 
+            "252", 
+            "Others"
+        ], 
+        [
+            "Ulfa", 
+            "258", 
+            "Accused"
+        ], 
+        [
+            "Ulfa", 
+            "346", 
+            "Accused"
+        ]
+    ]
+}

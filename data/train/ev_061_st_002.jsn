@@ -1,0 +1,84 @@
+{
+    "LOC": [
+        [
+            "Tangmarg", 
+            "52", 
+            "Neutral"
+        ], 
+        [
+            "Baramulla", 
+            "54", 
+            "Neutral"
+        ], 
+        [
+            "north Kashmir", 
+            "57", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ghulam Hassan Mir", 
+            "48", 
+            "Others"
+        ], 
+        [
+            "Hashim Qureshi", 
+            "81", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:60"
+    ], 
+    "death": "6", 
+    "title": "Hizb condemns Srinagar car bomb blast", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "Sri nagar", 
+        "Sri nagar"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "`` We condemn the incident . We are against such incidents in which civilians are killed , '' a spokesman of the outfit told a local news agency . . . The outfit also condemned the grenade attack on the rally of PDP leader and former minister Ghulam Hassan Mir at Tangmarg in Baramulla district of north Kashmir on Tuesday in which six persons were killed and dozens injured . . . Meanwhnile , Jammu Kashmir Democratic Liberation party chairman Hashim Qureshi condemned the act saying `` the killers of humanity are baying for the blood of innocent Kashmiris and killing them every day to sabotage their greater interest and peace process . . . .", 
+    "injured": "12", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.outlookindia.com/newswire/story/hizb-condemns-srinagar-car-bomb-blast/335602", 
+    "date": "29-10-2005", 
+    "target": "", 
+    "hot_spot": "Sri nagar", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "local news agency", 
+            "26", 
+            "Others"
+        ], 
+        [
+            "PDP", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "Jammu Kashmir Democratic Liberation party", 
+            "75", 
+            "Others"
+        ]
+    ]
+}

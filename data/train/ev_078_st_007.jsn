@@ -1,0 +1,224 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "218", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "233", 
+            "Neutral"
+        ], 
+        [
+            "Orissa", 
+            "288", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "299", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "320", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "322", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "324", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "326", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "329", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "332", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "335", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "338", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "340", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "342", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "393", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "395", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "425", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "427", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Amarnath", 
+            "280", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "5 minutes : 9"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 26 : 236", 
+        "2002 : 298"
+    ], 
+    "death": "", 
+    "title": "There will be more bomb attacks, warns Indian Mujahideen", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "New Delhi", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "doweshowbellyad = 0 ; . . `` Within 5 minutes from now ... this time with the Message of Death , dreadfully terrorising you for your sins , '' the email said . `` And thus our promise will be fulfilled . Inshallah , '' it read . The outfit further challenged the police and security agencies to stop the serial blasts . `` Do whatever you want and stop us if you can , '' the mail said . The mail , which was sent from ` Arbi Hindi ' , from the e-mail ID of al_arbi_delhi@yahoo.com, also contained a video clip and an attached document , which the group claimed was evidence of its hand in the serial blasts . The clip showed a series of photographs of victims from previous blasts along with the caption `` our jihad '' . . . The Indian Mujahideen , in an attached document running into 13 pages , said that it is solely responsible for the serial blasts . `` The Indian Mujahideen the homegrown jehadi militia of Islam have once again attacked to make you face the disastrous consequences of the injustice and oppression inflicted upon the Muslims all over the country , '' the attached document said . . . The group claimed that the Delhi blasts were the direct result of the raids carried out before and after the Ahmedabad blasts on July 26 . `` This accurately planned deadly strike is just another reaction to all those pre-and post-26 July harassments imposed by your ATS and police on the innocent Muslims , '' the Indian Mujahideen said . . . The email refers to the Amarnath land issue and violence against Christians in Orissa . . . The Babri Masjid demolition and the 2002 Gujarat riots are also cited in the attached document . The document attacks the Central government and the state governments of Gujarat , Rajasthan , Maharashtra , Madhya Pradesh , Uttar Pradesh , Andhra Pradesh and Karnataka . The Rajasthan , Gujarat and Mumbai ATS , which are investigating blasts cases , also come under attack from the terror outfit . . . The document ends with a taunt to security agencies , saying that the security agencies till now had been unable to trace the earlier two emails it had sent before the Jaipur and Ahmedabad blasts . The terror outfit further warned of more attacks . . . In a similar fashion , the Indian Mujahideen had claimed responsibility for the serial blasts in Jaipur and Ahmedabad by sending emails to media houses . The emails were posted from fictitious accounts .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Message of Death:18", 
+        "dreadfully terrorising:22", 
+        "email:31", 
+        "outfit:50", 
+        "police and security agencies:54", 
+        "serial blasts:61", 
+        "Arbi Hindi:89", 
+        "e-mail ID:95", 
+        "al_arbi_delhi@yahoo.com:98", 
+        "video clip:102", 
+        "document:107", 
+        "evidence:114", 
+        "serial blasts:120", 
+        "photographs of victims:129", 
+        "our jihad:140", 
+        "document:153", 
+        "serial blasts:167", 
+        "jehadi militia of Islam:176", 
+        "injustice:193", 
+        "inflicted:196", 
+        "Muslims:199", 
+        "blasts:219", 
+        "blasts:234", 
+        "harassments:255", 
+        "Muslims:265", 
+        "email:276", 
+        "Amarnath land issue:280", 
+        "violence:284", 
+        "Christians:286", 
+        "Babri Masjid:293", 
+        "Gujarat riots:299", 
+        "blasts:348", 
+        "terror outfit:357", 
+        "security agencies:369", 
+        "security agencies:375", 
+        "emails:387", 
+        "blasts:396", 
+        "terror outfit:399", 
+        "attacks:405", 
+        "serial blasts:422", 
+        "emails:430", 
+        "emails:436", 
+        "fictitious accounts:440"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2008-09-14/news/28459521_1_serial-blasts-ahmedabad-blasts-delhi-blasts", 
+    "date": "13-09-2008", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "147", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "172", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "259", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "269", 
+            "Accused"
+        ], 
+        [
+            "Central government", 
+            "313", 
+            "Others"
+        ], 
+        [
+            "state governments", 
+            "317", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "343", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "415", 
+            "Accused"
+        ]
+    ]
+}

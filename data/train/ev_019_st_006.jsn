@@ -1,0 +1,118 @@
+{
+    "LOC": [
+        [
+            "West Bengal", 
+            "2", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Purbasthali", 
+            "60", 
+            "Accused"
+        ], 
+        [
+            "Bardhaman", 
+            "63", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Gulsana Bibi", 
+            "43", 
+            "Accused"
+        ], 
+        [
+            "Alima Bibi", 
+            "46", 
+            "Accused"
+        ], 
+        [
+            "Hashem Molla", 
+            "54", 
+            "Accused"
+        ], 
+        [
+            "Molla", 
+            "73", 
+            "Accused"
+        ], 
+        [
+            "Dilip Adak", 
+            "93", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "12-day : 82"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:11", 
+        "Sunday ,:52", 
+        "Monday:69"
+    ], 
+    "death": "", 
+    "title": "One more held in Bardhaman case", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The West Bengal Criminal Investigation Department -LRB- CID -RRB- on Monday held one more person for the blast at Bardhaman , taking the number of arrests to three . . . While the spouses of the two accused in the blast , Gulsana Bibi and Alima Bibi , were arrested on Sunday , Hashem Molla , a resident of Purbasthali town in Bardhaman district , was nabbed on Monday . . . Molla was produced in court and was remanded in 12-day police custody , Deputy Inspector of General -LRB- CID -RRB- Dilip Adak said .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "blast:18", 
+        "arrests:26", 
+        "spouses:34", 
+        "accused:38", 
+        "blast:41", 
+        "arrested:50", 
+        "resident:58", 
+        "nabbed:67", 
+        "court:77", 
+        "remanded:80", 
+        "police custody:83"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/one-more-held-in-bardhaman-case/article6476881.ece", 
+    "date": "06-10-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Criminal Investigation Department", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "CID", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "CID", 
+            "91", 
+            "Others"
+        ]
+    ]
+}

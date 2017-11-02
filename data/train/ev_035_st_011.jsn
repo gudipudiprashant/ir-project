@@ -1,0 +1,209 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Ganeshguri", 
+            "116", 
+            "Event"
+        ], 
+        [
+            "Dhing", 
+            "222", 
+            "Neutral"
+        ], 
+        [
+            "Nagaon", 
+            "224", 
+            "Neutral"
+        ], 
+        [
+            "Nagaon", 
+            "248", 
+            "Neutral"
+        ], 
+        [
+            "Chief Judicial Magistrate Court", 
+            "265", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "292", 
+            "Event"
+        ], 
+        [
+            "Nagaon", 
+            "298", 
+            "Neutral"
+        ], 
+        [
+            "Dispur", 
+            "336", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "455", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "497", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Bhaskarjyoti Mahanta", 
+            "134", 
+            "Comment"
+        ], 
+        [
+            "Nazir Ahmed", 
+            "186", 
+            "Accused"
+        ], 
+        [
+            "Nazir", 
+            "227", 
+            "Accused"
+        ], 
+        [
+            "Pradip Konwar", 
+            "368", 
+            "Others"
+        ], 
+        [
+            "Konwar", 
+            "408", 
+            "Comment"
+        ], 
+        [
+            "R. Chandranathan", 
+            "440", 
+            "Others"
+        ], 
+        [
+            "Chandranathan", 
+            "441", 
+            "Others"
+        ], 
+        [
+            "Bajrang Dal", 
+            "478", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:139", 
+        "Saturday:236", 
+        "2006:320", 
+        "October 22:345", 
+        "Monday:574"
+    ], 
+    "death": "", 
+    "title": "Police verifying identity of Islamic Security Force", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "guwahati", 
+        "guwahati"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Sushanta Talukdar . . Unconfirmed reports of formation of an outfit by this name in 2000-2001 . . Guwahati : Police investigating the serial blasts in Guwahati have found that the SIM card used in the mobile phone to send an SMS in the name of the Islamic Security Force -LRB- Indian Mujahideen -RRB- , owning responsibility for the blasts , was used in two other hand sets . They are now on the look out for the owners of these . . . The police have established that car bombs were used in the blasts in the city . A forensic team has found remnants of a Programme Time Delay device switch from the Ganeshguri blast site . . . Assam police spokesman and Inspector-General of Police -LRB- Law and Order -RRB- Bhaskarjyoti Mahanta told reporters on Saturday that there were unconfirmed reports of some people claiming formation of an outfit in the name and style of the Islamic Security Force in 2000-2001 . It needed to be ascertained whether it was the same group that triggered the serial blasts . He alleged that Nazir Ahmed , from whose cell phone the SMS was sent , had used false identity proof documents to obtain a SIM card . At the time of sending the SMS the cell phone was at Dhing in Nagaon district . Nazir was among three persons taken into custody on Saturday . . . The second person taken into custody resides in Nagaon and owned the Maruti car that was used as bomb to trigger the blast on the Chief Judicial Magistrate Court premises . The third person , who resides in the city , owned the motorbike that was used to trigger the blast at Bongaigaon . The man apprehended in Nagaon is reported to have told the police that he sold the car to a used car dealer in the city in 2006 . The IGP said the owner of the motorbike had lodged an FIR at the Dispur police station that his bike was stolen on October 22 . The police have formed a special team to look into the theft case . . . A city lawyer , Pradip Konwar , claims to have seen two persons loitering near his car kept parked on the premises of the CJM Court minutes before the blast . Police said sketches would be prepared of the suspects . . . Mr. Konwar said that his car was next to the car that was used as bomb . . . The police have formed a Special Investigation Team headed by IGP -LRB- STF -RRB- R. Chandranathan to probe into all aspects of the blasts . . . Bandh in Assam . . A 12-hour Assam Bandh called by the Bhariatya Janata Party , the Viswa Hindu Parishad -LRB- VHP -RRB- and the Bajrang Dal to protest against the alleged failure of the Central and State governments to prevent terror attacks in Assam and protests by the All-Assam Students Union -LRB- AASU -RRB- in different parts of the State were observed during Dr. Singhs visit to the State . . . Normal life came to a halt in the State during the bandh ; a large number of bandh supporters was arrested . Sporadic incidents of violence , torching of rickshaws and damaging of buses were reported from different parts . The AASU has called a 24-hour bandh on Monday to protest against the governments failure .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Programme Time Delay device:109", 
+        "Police:128"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/police-verifying-identity-of-islamic-security-force/article1368145.ece", 
+    "date": "02-11-2008", 
+    "target": "", 
+    "hot_spot": "guwahati", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Islamic Security Force", 
+            "48", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "forensic", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "Assam police", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "Islamic Security Force", 
+            "160", 
+            "Others"
+        ], 
+        [
+            "CJM Court", 
+            "388", 
+            "Others"
+        ], 
+        [
+            "Special Investigation Team", 
+            "431", 
+            "Others"
+        ], 
+        [
+            "Bhariatya Janata Party", 
+            "465", 
+            "Others"
+        ], 
+        [
+            "Viswa Hindu Parishad", 
+            "470", 
+            "Others"
+        ], 
+        [
+            "AASU", 
+            "506", 
+            "Others"
+        ], 
+        [
+            "AASU", 
+            "567", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "66", 
+            "Event"
+        ], 
+        [
+            "Mumbai",
+            "121", 
+            "Event"
+        ], 
+        [
+            "Maharshtra", 
+            "415", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "422", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "446", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "450", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "461", 
+            "Event"
+        ], 
+        [
+            "UP", 
+            "467", 
+            "Neutral"
+        ], 
+        [
+            "Azamgarh", 
+            "478", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "485", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "493", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "506", 
+            "Event"
+        ], 
+        [
+            "Kolkata", 
+            "508", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "532", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "544", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "546", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rakesh Maria", 
+            "112", 
+            "Comment"
+        ], 
+        [
+            "Maria", 
+            "253", 
+            "Comment"
+        ], 
+        [
+            "Danish Khan", 
+            "431", 
+            "Accused"
+        ], 
+        [
+            "Riaz", 
+            "524", 
+            "Accused"
+        ], 
+        [
+            "Iqbal Bhatkal", 
+            "526", 
+            "Accused", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "evening : 13"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "2008:402", 
+        "2005:540", 
+        "2007:542"
+    ], 
+    "death": "19", 
+    "title": "Mumbai blasts: Possibility of suicide bomber can be ruled out, says police", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "Mumbai : Three days after triple blasts ripped through Mumbai during the evening rush hour , security agencies are still groping for clues with nothing significant emerging from the investigations so far.The Maharashtra Anti-Terrorism Squad -LRB- ATS -RRB- today ruled out the involvement of a suicide bomber in the serial explosions that killed 19 people and injured 131 . -LRB- In Pics : Terror revisits Mumbai -RRB- It further added that a probable suspect 's sketch was being prepared based on eyewitness accounts . `` Investigations done so far and visit to the sites by forensic experts and investigators suggest that there was no suicide bomber , '' said ATS chief Rakesh Maria in a joint press conference alongwith the Mumbai Police . -LRB- Watch : Blast suspect 's sketch soon , say cops -RRB- The announcement puts to rest speculation over the involvement of a suicide bomber after a corpse , found from one of the blast sites , had an embedded electrical circuit . The body was found by doctors at JJ Hospital where victims of the blasts were being rushed in.At the core of the ongoing investigations now is the CCTV footage from the blast sites - 11 CDs to be precise - that the security agencies are heavily relying upon to zero in on the people who could have planted the bombs . -LRB- Read : Cops scouring 46 CCTV cameras for clues -RRB- Admitting that the footage was `` voluminous '' and `` grainy '' , Mr Maria said that investigators were seeking technical help to get better images.The videos recovered from the CCTV cameras are currently being matched with those installed at various entry and exit points at the city.But despite the investigations , there is no clear word yet on who was responsible for the blasts . The police refused to speculate on the involvement of any terror group , adding that members of various modules arrested in the past were being questioned . Sources , though , have told NDTV that the Indian Mujahideen -LRB- IM -RRB- , a proxy for the Lashkar-e-Taiba -LRB- LeT -RRB- , is slowly emerging as the top suspect . -LRB- Read : Focus on key Indian Mujahideen operatives , say sources -RRB- According to sources , splinter groups of the IM , which suffered a huge blow after the arrest of 21 of its key operatives in 2008 , may have regrouped and could have executed the attacks on Wednesday.The Maharshtra ATS is collecting information from the Gujarat Police on the recent arrest of IM operative Danish Khan who is suspected to have regrouped this new module . Teams of the Gujarat Crime Branch and Uttar Pradesh 's Special Task Force -LRB- STF -RRB- are in Mumbai in connection with the probe.The UP STF is gathering leads on members of the IM 's Azamgarh module who escaped recently . The Maharashtra ATS has also sought assistance from the Kolkata Police asking them to verify if any IM suspects had travelled to Mumbai from Kolkata and subsequently went underground after the blasts.Also under the scanner are IM 's Karnataka-based operatives Riaz and Iqbal Bhatkal , who fled to Pakistan after masterminding a series of blasts between 2005 and 2007 in Jaipur and Ahmedabad . .", 
+    "injured": "131", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "security agencies:17", 
+        "forensic experts:96", 
+        "suicide bomber:147", 
+        "JJ Hospital:174", 
+        "CCTV:194", 
+        "CCTV:234", 
+        "CCTV:269", 
+        "police:306"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/mumbai-blasts-possibility-of-suicide-bomber-can-be-ruled-out-says-police-461727", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "SUICIDE BOMBER", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorism Squad", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "Mumbai Police", 
+            "121", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "341", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "351", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "353", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "370", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "416", 
+            "Others"
+        ], 
+        [
+            "Gujarat Police", 
+            "422", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "429", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "476", 
+            "Accused"
+        ], 
+        [
+            "Kolkata Police", 
+            "493", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "501", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "520", 
+            "Accused"
+        ]
+    ]
+}

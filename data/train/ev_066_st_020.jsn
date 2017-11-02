@@ -1,0 +1,103 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Old Delhi", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "Old Delhi railway station", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "Panipat", 
+            "63", 
+            "Assoc_Event"
+        ], 
+        [
+            "Old Delhi", 
+            "85", 
+            "Neutral"
+        ], 
+        [
+            "Sadar Bazar", 
+            "336", 
+            "Neutral"
+        ], 
+        [
+            "Sadar", 
+            "336", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Devesh K. Pandey", 
+            "1", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 66", 
+        "3-4 seconds : 221"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:65", 
+        "Wednesday:277"
+    ], 
+    "death": "", 
+    "title": "Camera footage from Old Delhi station offers no clues", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "North", 
+        "Panipat", 
+        " Samjhauta Express"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Devesh K. Pandey . . The entire recordings are in black and white ; faces of the passengers not in focus . . NEW DELHI : The footage obtained by security agencies from the closed-circuit television cameras installed at Old Delhi railway station has so far not been of much help in investigations into the blasts on board the Samjhauta Express near Panipat on Sunday night . . . As circumstantial evidence indicated that the bombs could have been planted on the train at Old Delhi station , intelligence and police officers have been screening the CCTV footage hoping to get some clues on the perpetrators . But the investigations have been hampered by the fact that the footage does not focus on the faces of passengers . Also , the entire recording is in black and white . . . 20 CCTVs . . There are over 20 CCTVs connected to seven television terminals in the monitoring room . It is learnt that the cameras do have zoom-in facility but the images are not of high-resolution . Hence the cameras at the entrance and the ticket-windows have captured just moving figures . . . The cameras installed inside have also not captured close-up shots of the passengers . The time gap between image-flips of the CCTVs is not beyond 3-4 seconds . . . There is the possibility that the perpetrators could have sneaked into the railway station through other access routes , keeping themselves out of the camera frame . There was no camera on platform No. 18 from where the Samjhauta Express departs . . . A survey of the railway station on Wednesday revealed that anyone could easily access this platform , avoiding all security checks and designated points of access control . A dilapidated gate links the platform to an adjoining car parking lot . Anyone can cross over to the platform as the gate is not manned by anyone . Besides , there is another possible unauthorised entry through Sadar Bazar along the railway tracks that leads to the platform .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "closed-circuit television cameras:35", 
+        "samjhauta express:60", 
+        "train:83", 
+        "cctv footage:97", 
+        "monitoring room:158", 
+        "railway station:238", 
+        "platform No. 18:258", 
+        "samjhauta express:264", 
+        "railway station:274", 
+        "car:307", 
+        "railway tracks:340"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/camera-footage-from-old-delhi-station-offers-no-clues/article1800849.ece", 
+    "date": "21-02-2007", 
+    "target": "PUBLIC TRANSPORT", 
+    "hot_spot": " Samjhauta Express", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "police", 
+            "91", 
+            "Others"
+        ]
+    ]
+}

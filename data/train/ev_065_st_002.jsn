@@ -1,0 +1,138 @@
+{
+    "LOC": [
+        [
+            "Malegaon", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "87", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Raja Thakre", 
+            "225", 
+            "Comment"
+        ], 
+        [
+            "Farooq Anwar Iqbal Maqdumi", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "Shaikh Mohammed Ali Alam Shaikh", 
+            "55", 
+            "Accused"
+        ], 
+        [
+            "Asif Khan Bashir Khan", 
+            "61", 
+            "Accused"
+        ], 
+        [
+            "Junaid", 
+            "66", 
+            "Accused"
+        ], 
+        [
+            "Shaikh Mohammed Ali", 
+            "98", 
+            "Accused"
+        ], 
+        [
+            "Asif Khan", 
+            "102", 
+            "Accused"
+        ], 
+        [
+            "Junaid", 
+            "105", 
+            "Accused"
+        ], 
+        [
+            "Mridula Bhatkar", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "Salman Farsi", 
+            "188", 
+            "Accused"
+        ], 
+        [
+            "Farooq Anwar", 
+            "191", 
+            "Accused"
+        ], 
+        [
+            "Shaikh Mohammed", 
+            "194", 
+            "Accused"
+        ], 
+        [
+            "Asif Khan", 
+            "197", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Zahid Abdul Majid", 
+            "206", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:14", 
+        "December 15:203", 
+        "December 16:214"
+    ], 
+    "death": "", 
+    "title": "3 accused confess in Malegaon blast case, 2 retract later", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "In a new twist to Malegaon bomb blasts probe , three accused on Wednesday made a confession before a competent authority about their involvement in the conspiracy but soon thereafter two of them retracted before a magistrate , saying they had not made a voluntary disclosure . . . Farooq Anwar Iqbal Maqdumi , Shaikh Mohammed Ali Alam Shaikh and Asif Khan Bashir Khan alias Junaid purportedly made a confession this morning before a Deputy Commissioner of Police , a competent authority to record confession under Maharashtra Control of Organised Crime Act . . . Later , Shaikh Mohammed Ali and Asif Khan alias Junaid retracted their confession before the Chief Metropolitan Magistrate , saying it was not given voluntarily . . . This was revealed to a special court by the accused themselves when they were produced before it for remand . . . The development assumes significance as under MCOCA , a confession does not have evidential value if it is not a voluntary and true disclosure . . . Altogether five accused were produced before judge Mridula Bhatkar who remanded four of them -- Salman Farsi , Farooq Anwar , Shaikh Mohammed and Asif Khan to judicial custody till December 15 and Mohammed Zahid Abdul Majid to police custody till December 16 . . . Seeking their remand , public prosecutor Raja Thakre said the accused had played a vital role in the conspiracy and investigations conducted by Anti-Terrorist Squad so far had revealed involvement of more persons who are yet to be arrested . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Nashik", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "malegaon bomb blasts:6", 
+        "involvement in the conspiracy:24", 
+        "retracted before a magistrate:34", 
+        "deputy commissioner of police:75", 
+        "maharashtra control of organised crime act:87", 
+        "chief metropolitan magistrate:111", 
+        "mcoca:152", 
+        "more persons who are yet to be arrested:250"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/dec/06malegaon.htm", 
+    "date": "08-09-2006", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorist Squad", 
+            "242", 
+            "Others"
+        ]
+    ]
+}

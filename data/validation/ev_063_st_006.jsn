@@ -1,0 +1,66 @@
+{
+    "LOC": [
+        [
+            "Jama Masjid", 
+            "8", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "5:20 pm : 11", 
+        "5:40 pm:14", 
+        "pm:15"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Twin blasts in Jama Masjid", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "New Delhi", 
+        "Jama Masjid"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : Twin blasts occured in Jama Masjid at 5:20 pm and 5:40 pm , according to a private news channel . Three injured people have been rushed to the hospital . Delhi police had some prior warning but were unsure of the exact location . The area has been cordoned off . . . The Mumbai police have also declared high alert in the state .", 
+    "injured": "3", 
+    "org_unorg": "", 
+    "O": [
+        "twin blasts:4", 
+        "news channel:21", 
+        "injured:25", 
+        "rushed:29", 
+        "hospital:32", 
+        "warning:39", 
+        "high alert:63"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2006-04-14/news/27439308_1_twin-blasts-jama-masjid-delhi-police", 
+    "date": "14-04-2006", 
+    "target": "MOSQUE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi police", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "Mumbai police", 
+            "58", 
+            "Others"
+        ]
+    ]
+}

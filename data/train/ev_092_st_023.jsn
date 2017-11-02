@@ -1,0 +1,252 @@
+{
+    "LOC": [
+        [
+            "Salaikota reserve forest", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Padia", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Malkangiri", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "South Odisha", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Malkangiri", 
+            "82", 
+            "Neutral"
+        ], 
+        [
+            "Odisha", 
+            "195", 
+            "Event"
+        ], 
+        [
+            "Bhubaneswar", 
+            "202", 
+            "Neutral"
+        ], 
+        [
+            "Malkangiri", 
+            "206", 
+            "Neutral"
+        ], 
+        [
+            "Malkangiri", 
+            "213", 
+            "Neutral"
+        ], 
+        [
+            "Odisha", 
+            "234", 
+            "Event"
+        ], 
+        [
+            "Darbha", 
+            "270", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "272", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh ,", 
+            "272", 
+            "Neutral"
+        ], 
+        [
+            "Padia", 
+            "321", 
+            "Neutral"
+        ], 
+        [
+            "Dandakaranya", 
+            "345", 
+            "Neutral"
+        ], 
+        [
+            "Odisha", 
+            "348", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "350", 
+            "Neutral"
+        ], 
+        [
+            "Dandakaranya", 
+            "358", 
+            "Neutral"
+        ], 
+        [
+            "North Telangana", 
+            "366", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "369", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Prakash Mishra", 
+            "197", 
+            "Comment"
+        ], 
+        [
+            "Akhileswar Singh", 
+            "215", 
+            "Others"
+        ], 
+        [
+            "Mishra", 
+            "225", 
+            "Comment"
+        ], 
+        [
+            "Salwa Judum", 
+            "278", 
+            "Victim"
+        ], 
+        [
+            "Mahendra Karma", 
+            "284", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "night : 155", 
+        "morning : 163"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:41", 
+        "Friday:157", 
+        "Saturday:162", 
+        "May 25:301"
+    ], 
+    "death": "13", 
+    "title": "13 Maoists killed in encounter in Odisha", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least 13 Maoists , including a woman , were killed in an exchange of fire with the police in the Salaikota reserve forest , about 11 km from Padia and 35 km from Malkangiri , in South Odisha on Saturday . . . According to the police , a huge cache of ammunition was recovered from the site where 30 to 40 Maoists were conducting a camp . . . Thirteen bodies were shifted to the district headquarters town of Malkangiri . Search operations for the dead and injured , if any , are continuing . An inquest is being conducted , a senior IPS officer in charge of the operations told The Hindu . . . A gunfight took place in the early hours after the Maoists fired at a group of the District Voluntary Force , mostly comprising ex-servicemen and personnel of the Special Operation Group of the Odisha police late night on Friday . . . On Saturday morning , we found 13 bodies along with two big claymore mines , several improvised explosive devices , AK 47s , country-made pistols and magazines , the officer said . . . Odisha DGP Prakash Mishra told journalists in Bhubaneswar before flying to Malkangiri that the operation , led by Malkangiri SP Akhileswar Singh , was well planned and executed . Mr. Mishra set an ultimatum for the militants to leave Odisha or face severe consequences . This is the first major operation the Odisha police conducted without involving the Central Armed Police Forces and the Andhra Pradesh police . . . The site is close to Darbha in Chhattisgarh , where Maoists had killed Salwa Judum founder and tribal leader Mahendra Karma and 18 others in a deadly attack on the convoy of Chhattisgarh Congress leaders on May 25 . The police suspect that the dead belonged to the Local Operational Squad -LRB- LOS -RRB- of the Padia area and the Dandakaranya Special Zonal Committee . The two groups were part of the Kalimela squad , which is active in the Dandakaranya region of Odisha and Chhattisgarh . Maoists increased their activity in the Dandakaranya region after they were flushed out of North Telangana of Andhra Pradesh .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Orissa", 
+        "", 
+        "", 
+        "South Odisha"
+    ], 
+    "O": [
+        "police:19", 
+        "IPS officer:106", 
+        "DGP:196"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/other-states/13-maoists-killed-in-encounter-in-odisha/article5127718.ece", 
+    "date": "14-09-2013", 
+    "target": "", 
+    "hot_spot": "South Odisha", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maoists", 
+            "4", 
+            "Accused"
+        ], 
+        [
+            "Maoists", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "129", 
+            "Others"
+        ], 
+        [
+            "District Voluntary Force", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "Odisha police", 
+            "152", 
+            "Others"
+        ], 
+        [
+            "Odisha police", 
+            "247", 
+            "Others"
+        ], 
+        [
+            "Central Armed Police Forces", 
+            "253", 
+            "Others"
+        ], 
+        [
+            "Andhra Pradesh police", 
+            "259", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "275", 
+            "Accused"
+        ], 
+        [
+            "Chhattisgarh Congress", 
+            "297", 
+            "Others"
+        ], 
+        [
+            "Local Operational Squad", 
+            "313", 
+            "Victim"
+        ], 
+        [
+            "Dandakaranya Special Zonal Committee", 
+            "325", 
+            "Others"
+        ], 
+        [
+            "Kalimela squad", 
+            "337", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "352", 
+            "Accused"
+        ]
+    ]
+}

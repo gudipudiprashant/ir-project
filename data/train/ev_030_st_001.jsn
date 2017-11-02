@@ -1,0 +1,173 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "central Assams Karbi Anglong", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Karbi Anglong", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Diphu", 
+            "81", 
+            "Event"
+        ], 
+        [
+            "Sukanjan", 
+            "111", 
+            "Neutral"
+        ], 
+        [
+            "fish market", 
+            "203", 
+            "Event"
+        ], 
+        [
+            "Diphu", 
+            "206", 
+            "Event"
+        ], 
+        [
+            "Karbi Anglong", 
+            "212", 
+            "Neutral"
+        ], 
+        [
+            "market place", 
+            "287", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Anurag Tangkha", 
+            "73", 
+            "Comment"
+        ], 
+        [
+            "Kamesh Mesh", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "Tangkha", 
+            "157", 
+            "Comment"
+        ], 
+        [
+            "L.R. Bisnoi", 
+            "229", 
+            "Comment"
+        ], 
+        [
+            "Bisnoi", 
+            "252", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "8 : 35 p.m. : 125", 
+        "District around 6:21 p.m.:215", 
+        "6:21 p.m.:217", 
+        "p.m.:218"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:30", 
+        "Friday night:30"
+    ], 
+    "death": "2", 
+    "title": "Child killed, 23 injured in Karbi Anglong blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM", 
+        "KUKI REVOLUTIONARY ARMY"
+    ], 
+    "content": "GUWAHATI : A two-year-old child was killed and at least 23 people were injured in two separate incidents of blasts which occurred in central Assams Karbi Anglong district on Friday night . . . The injured included two suspected militants of Manipur-based militant Kuki Revolutionary Army -LRB- KRA -RRB- and five security personnel . Police suspected that the other blast was triggered by ULFA . . . Karbi Anglong Superintendent of Police Anurag Tangkha told The Hindu over phone from Diphu that a two-year old child died on the spot and about nine other were injured when a grenade went off when being carried by two suspected KRA militants at Sukanjan under Bokajan police station of the hill district . The incident occurred around 8 : 35 p.m. when when the suspected KRA militants were enquiring about a watch shop . The deceased child has been identified as Kamesh Mesh , the SP added . Mr Tangkha said that one of the two couriers of the grenade who were injured in the blast injured confessed that he was an activist of KRA . . . Earlier , 14 persons including five security personnel were injured when a bomb went off near a fish market in Diphu town , the headquarters of Karbi Anglong Hill District around 6:21 p.m. . . Deputy Inspector-General of Police -LRB- Central Range -RRB- L.R. Bisnoi said that the five security personnel , who had received injury included two CPRF men and three Assam Police personnel.Mr . Bisnoi , however , said that a major tragedy could be avoided because of the quick action of the CPRF and police personnel in cordoning off the area after located the bomb in the busy market place .", 
+    "injured": "23", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Karbi Anglong", 
+        "GUWAHATI", 
+        "central Assams Karbi Anglong"
+    ], 
+    "O": [
+        "deputy inspector-general of police:221", 
+        "CPRF:244", 
+        "cprf:271"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/child-killed-23-injured-in-karbi-anglong-blasts/article1889896.ece", 
+    "date": "10-08-2007", 
+    "target": "", 
+    "hot_spot": "central Assams Karbi Anglong", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "Kuki Revolutionary Army", 
+            "44", 
+            "Accused"
+        ], 
+        [
+            "KRA", 
+            "48", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "Police Anurag Tangkha", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "76", 
+            "Others"
+        ], 
+        [
+            "KRA", 
+            "108", 
+            "Accused"
+        ], 
+        [
+            "Bokajan police", 
+            "113", 
+            "Others"
+        ], 
+        [
+            "KRA", 
+            "133", 
+            "Accused"
+        ], 
+        [
+            "KRA", 
+            "182", 
+            "Accused"
+        ], 
+        [
+            "Assam Police", 
+            "248", 
+            "Others"
+        ]
+    ]
+}

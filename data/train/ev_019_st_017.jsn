@@ -1,0 +1,206 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "58", 
+            "Neutral"
+        ], 
+        [
+            "Khargragarh", 
+            "149", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "152", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "183", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "207", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "242", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Partha Chatterjee", 
+            "78", 
+            "Others"
+        ], 
+        [
+            "SHM Mirza", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "Chatterjee", 
+            "264", 
+            "Others"
+        ], 
+        [
+            "Chatterjee", 
+            "341", 
+            "Others"
+        ], 
+        [
+            "Shamik Bhattacharya", 
+            "363", 
+            "Comment"
+        ], 
+        [
+            "Bhattacharya", 
+            "436", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:35", 
+        "October 2:71", 
+        "Friday:125"
+    ], 
+    "death": "2", 
+    "title": "Trinamool Congress sees political motive in Bardhaman probe", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "terror_group": [
+        "JAMAAT-UL-MUJAHIDEEN BANGLADESH "
+    ], 
+    "content": ": Even as officials of the National Investigation Agency -LRB- NIA -RRB- started their probe into the accidental blast in Bardhaman district of West Bengal , political slugfest over the investigation continued here on Saturday with the All India Trinamool Congress -LRB- AITC -RRB- attributing a political motive to the probe . . . Stating that the West Bengal government had sent its report a day after the blast -LRB- October 2 -RRB- , AITC secretary general Partha Chatterjee said that the probe was ordered only a few days ago . . . The States ruling party has opposed the probe by the NIA , but the Union Home Ministry directed the investigating agency to investigate the matter , which lodged an FIR on Friday . . . Meanwhile , a team of officials from the National Investigation Agency -LRB- NIA -RRB- visited the accidental blast site at Khargragarh in the Bardhaman district and collected evidence and photographs from the site . The officials later met the district superintendent of police , SHM Mirza . . . The NIA also approached a West Bengal court seeking the custody of the accused arrested in the case as well as transfer of the case to a court in Kolkata , an official said . . . Four persons have been arrested in the blast , including two women . Two persons , who died in the blasts , have links to Jamaat-ul-Mujahideen of Bangladesh , those investigating the blasts have said . . . Accusing the Centre of failing to check cross border infiltration Mr. Chatterjee , who is also a Minister in the AITC government , said that the Centre was entrusted the responsibility with deploying BSF at the border . . . People are randomly crossing the border , making bombs here and selling them . Who are these people ? ... Why is the State government being blamed for security lapses in the border ? It is the Centres responsibility to deploy BSF personnel at the border , Mr. Chatterjee told media persons and sought answers from the Centre regarding this . . . Bharatiya Janata Party -LRB- BJP -RRB- leader Shamik Bhattacharya said that instead of blaming the Centre the ruling party should take a closer look of who are those creating problems along the border . . . The AITC needs to check some of the checkpoints at the border and know who are operating from there . The AITC leaders are surely aware of this and the party needs to check the involvement of its own members regarding this , Mr. Bhattacharya said .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "union home ministry:108"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/trinamool-congress-sees-political-motive-in-bardhaman-probe/article6492806.ece", 
+    "date": "11-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "11", 
+            "Others"
+        ], 
+        [
+            "All India Trinamool Congress", 
+            "38", 
+            "Others"
+        ], 
+        [
+            "AITC", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "AITC", 
+            "75", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "137", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen", 
+            "240", 
+            "Accused"
+        ], 
+        [
+            "AITC", 
+            "273", 
+            "Others"
+        ], 
+        [
+            "BSF", 
+            "286", 
+            "Others"
+        ], 
+        [
+            "State government", 
+            "316", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "356", 
+            "Others"
+        ], 
+        [
+            "Party", 
+            "358", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "360", 
+            "Others"
+        ], 
+        [
+            "AITC", 
+            "393", 
+            "Others"
+        ], 
+        [
+            "AITC", 
+            "413", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "LOC": [
+        [
+            "Chhattisgarh", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Jagdalpur", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Bastar", 
+            "137", 
+            "Event"
+        ], 
+        [
+            "Dharba forests", 
+            "214", 
+            "Event"
+        ], 
+        [
+            "Bastar", 
+            "247", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mahendra Karma", 
+            "73", 
+            "Victim"
+        ], 
+        [
+            "Salwa Judam", 
+            "78", 
+            "Victim"
+        ], 
+        [
+            "Karma", 
+            "94", 
+            "Victim"
+        ], 
+        [
+            "Karma", 
+            "128", 
+            "Victim"
+        ], 
+        [
+            "P Chidambaram", 
+            "235", 
+            "Others"
+        ], 
+        [
+            "Digvijay Singh", 
+            "263", 
+            "Others"
+        ], 
+        [
+            "Pandu", 
+            "279", 
+            "Accused"
+        ], 
+        [
+            "Ganesh Uike", 
+            "295", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "338", 
+            "Victim"
+        ], 
+        [
+            "Dinesh", 
+            "345", 
+            "Victim"
+        ], 
+        [
+            "V C Shukla", 
+            "362", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "April:202", 
+        "July:210"
+    ], 
+    "death": "27", 
+    "title": "250 naxals carried out the killings", 
+    "det_loc": [
+        "India", 
+        "Chattisgarh", 
+        "Bastar", 
+        "", 
+        "Dharba forests"
+    ], 
+    "terror_group": [
+        "COMMUNIST PARTY OF INDIA (MAOIST)"
+    ], 
+    "content": "Around 250 naxalites are believed to have carried out the killings of 27 people including Congress leaders in Chhattisgarh 's Jagdalpur district . . . The naxalites , suspected to be members of the Dhand Karineya Special Zonal Committee -LRB- DKSZC -RRB- , after triggering a blast , stopped the convoy and started shouting the names of people on their hit list which included former Home Minister . . of the state Mahendra Karma , architect of Salwa Judam , a people 's movement against naxalism , official sources said . . . Karma presented himself before the Naxalites with a plea to leave others but he was hit hard with the butt of the gun and later shot dead , the sources said . . . Karma was an ethnic adivasi leader from the undivided Bastar region . Over a period of time , his brother and 20 other close relatives have been gunned down by Maoists . . . The Congress leaders were warned about the possibility of an attack as this is the period of ` Tactical Counter Offensive Campaign ' -LRB- TCOC -RRB- of the Maoists , the sources said . . . The TCOC begins from April and carries on till early monsoon in July and the thick Dharba forests provide a good cover for the Maoists to hit and scoot . . . The then Union Home Minister P Chidambaram had proposed to carry out counter offensive in the entire Bastar region but had to call off because of opposition from his own party leaders including Digvijay Singh and some members of the Sonia Gandhi-led National Advisory Council . . . ` Pandu ' , who has taken over as the ` Divisional Commander ' of DKSZC after Ganesh Uike was removed is believed to be behind the attack , the sources said . . . The initial firing on the convoy was through country-made weapons and later the Maoists used automatic weapons . . . The Pradesh Congress Committee Chief Nand Kumar Patel and his son -- Dinesh -- were dragged to the dense bushes and shot in their head while senior Congress leader V C Shukla remained unattended for quite sometime before he was taken to hospital . . ... contd .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Congress leaders:16", 
+        "former home minister:65", 
+        "people 's movement against naxalism:82", 
+        "gunned down by maoists:155", 
+        "possibility of an attack:169", 
+        "tactical counter offensive campaign:180", 
+        "tcoc:186", 
+        "provide a good cover:216", 
+        "union home minister:232", 
+        "proposed to carry out counter offensive:238", 
+        "divisional commander:289", 
+        "country-made weapons:321", 
+        "automatic weapons:328", 
+        "unattended for quite sometime:366"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/250-naxals-carried-out-the-killings/1120944/", 
+    "date": "25-05-2013", 
+    "target": "POLITICIANS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "naxalites", 
+            "3", 
+            "Accused"
+        ], 
+        [
+            "naxalites", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "Dhand Karineya Special Zonal Committee", 
+            "35", 
+            "Accused"
+        ], 
+        [
+            "DKSZC", 
+            "41", 
+            "Accused"
+        ], 
+        [
+            "Naxalites", 
+            "99", 
+            "Accused"
+        ], 
+        [
+            "Maoists", 
+            "158", 
+            "Accused"
+        ], 
+        [
+            "Maoists", 
+            "190", 
+            "Accused"
+        ], 
+        [
+            "Maoists", 
+            "222", 
+            "Accused"
+        ], 
+        [
+            "National Advisory Council", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "DKSZC", 
+            "293", 
+            "Accused"
+        ], 
+        [
+            "Maoists", 
+            "326", 
+            "Accused"
+        ], 
+        [
+            "Pradesh Congress Committee", 
+            "334", 
+            "Others"
+        ]
+    ]
+}

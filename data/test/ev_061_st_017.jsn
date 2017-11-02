@@ -1,0 +1,109 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "NEW DELHI", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "Srinagar", 
+            "169", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "175", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ghulam Mohammad Khan", 
+            "91", 
+            "Accused"
+        ], 
+        [
+            "Ghulam", 
+            "104", 
+            "Accused"
+        ], 
+        [
+            "Tariq Ahmed Dar", 
+            "159", 
+            "Accused"
+        ], 
+        [
+            "Ghulam", 
+            "178", 
+            "Accused"
+        ], 
+        [
+            "Tariq", 
+            "191", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "5 p.m.:79"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 29:34", 
+        "Thursday:61", 
+        "Thursday:82", 
+        "Friday:198"
+    ], 
+    "death": "", 
+    "title": "Blast accused brought to Delhi", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "NEW DELHI", 
+        "NEW DELHI"
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "National Blast accused brought to Delhi . . Staff Reporter . . NEW DELHI : Two persons , whom the the Delhi police picked up from Jammu and Kashmir in connection with the October 29 bomb blasts here , have been brought to the Capital . . . While one of them has been remanded to 14-day police custody on Thursday , the police remained tight-lipped about the other detainee . . . It is learnt that around 5 p.m. on Thursday , one of the accused , identified as Ghulam Mohammad Khan , was produced in court . The police claimed that Ghulam was one of the peripheral links of the Lashkar-e-Taiba , which is suspected to be behind the blasts . A probe into his bank account reportedly idicated that in the past three months , he had sent about Rs . 66 lakhs , apparently through a Middle-East country . The police suspect that like Tariq Ahmed Dar , the alleged conduit arrested earlier in Srinagar for his involvement in the Delhi blasts , Ghulam was also used to disburse money among the militants . . . Tariq will be produced in court on Friday .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/11/25/stories/2005112515301600.htm", 
+    "date": "29-10-2005", 
+    "target": "", 
+    "hot_spot": "NEW DELHI", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi police", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "113", 
+            "Accused"
+        ]
+    ]
+}

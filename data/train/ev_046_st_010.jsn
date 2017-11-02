@@ -1,0 +1,226 @@
+{
+    "LOC": [
+        [
+            "Chennai", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Guntur", 
+            "34", 
+            "Victim"
+        ], 
+        [
+            "Chennai", 
+            "59", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "146", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "271", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "313", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "380", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "383", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "392", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "445", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "466", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "477", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "509", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "522", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "533", 
+            "Neutral"
+        ], 
+        [
+            "Colombo", 
+            "593", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "606", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Swati", 
+            "32", 
+            "Victim"
+        ], 
+        [
+            "Jayalalithaa", 
+            "398", 
+            "Comment"
+        ], 
+        [
+            "Jayalalithaa", 
+            "536", 
+            "Comment"
+        ], 
+        [
+            "Zaheer Hussain", 
+            "570", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [
+        "7.05 am : 69", 
+        "5.30 am : 273"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:12"
+    ], 
+    "death": "1", 
+    "title": "Twin blasts in Kaziranga express at Chennai railway station", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Chennai", 
+        "Chennai", 
+        "Chennai central railway station"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Twin blasts were reported at the Chennai central railway station on Thursday morning.One person has been reported killed and 12 others are injured , two critically.The deceased was identified as 22-year-old Swati from Guntur . . . Eyewitnesses said they heard two explosions on coaches S4 and S4 of the Bangalore-Guwahati Kaziranga express as it arrived at the Chennai railway station . . . The train arrived at 7.05 am and the explosions took place at 7.15 am.The train was on its way to Guwahati.One suspect who had been detained following the twin blasts may be released . . . The Railways has announced a solatium of Rs 1 lakh for the deceased and Rs 25,000 for seriously injured and Rs 5,000 for those who have sustained minor injuries . . The entire area is being sanitised.Intelligence Bureau officials have confirmed that the blasts at Chennai were an act of terror.Without naming any group , IB sources informed that going by the bomb composition and the manner in which they had been placed it was clear that the attack was aimed at killing more than one person and hence classifies as a terror act.The forensics team , meanwhile , has been able to ascertain some facts regarding the bomb . . . It is suspected that the bomb was triggered off by a mobile device.The nature of the injury sustained would indicate the presence of metal bombs packed into the bomb . . . The bomb was planted under the seat and hence the impact was borne by the seat . . . The train was originally supposed to reach Chennai at 5.30 am , but was delayed . . . The police say that if the intent was to cause an explosion then the accused could have done it anywhere . However , they waited for the train to arrive in Chennai to plant the bomb . . . No terror group has claimed responsibility for the attack so far , but several groups -- both political and religious -- are under the investigators ' scanner . No need for NIA here ; our cops will handle this : JayalalithaaThe Centre was forced to put on hold dispatch of teams of NIA , NSG and forensic experts to Chennai after the Tamil Nadu government spurned its help . . . Tamil Nadu , whose Chief Minister Jayalalithaa is strongly opposed to any interefernece from Central agencies on the subject of law and order , refused to take any help from the Centre , saying its police was well equipped to handle the blast probe . . . Following the stand taken by the Tamil Nadu government , the Home Ministry immediately put on hold sending teams of NIA , NSG and forensic experts to Chennai to help in the probe into the two blasts at Chennai railway station . . . Official sources said the Home Ministry had earlier directed the National Investigation Agency , National Security Guard and forensic experts to get ready to go to Chennai . . . While the NIA team was supposed to go from Hyderabad , the NSG and forensic experts were being readied in New Delhi . Jayalalithaa has meanwhile ordered a CB-CID probe and the state government conveyed to the Home Ministry that it was equipped to handle the investigation.Coincidence?Interestingly , the blasts come a day after the arrest of Zaheer Hussain , an agent of Pakistans Inter Services Intelligence who is a Sri Lankan national reporting to the Pakistan High Commission in Colombo.During interrogation , Hussain said he worked as a shoe exporter and visited Chennai several times to recruit and also plan blasts in Tamil Nadu.The police are expected to revisit his interrogation on Thursday.Image : A member of the bomb disposal squad examines the area next to the Bangalore-Guwahati Kaziranga express in which two explosions occurred.Photograph : Reuters .", 
+    "injured": "12", 
+    "org_unorg": "", 
+    "O": [
+        "Twin blasts:1", 
+        "railway station:9", 
+        "Bangalore-Guwahati Kaziranga express:51", 
+        "solatium:106", 
+        "terror:193", 
+        "forensics team:195", 
+        "metal bombs:236", 
+        "political:338", 
+        "religious:340", 
+        "NIA:373", 
+        "NSG:375", 
+        "forensic experts:377", 
+        "interefernece:404", 
+        "Central agencies:406", 
+        "Home Ministry:450", 
+        "put on hold:453", 
+        "CB-CID:541", 
+        "Pakistans Inter Services Intelligence:576", 
+        "recruit:610", 
+        "plan blasts:613"
+    ], 
+    "unexpl": [
+        "MOBILE DEVICE"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/report/blast-at-chennai-central-railway-station-1-dead-8-hurt/20140501.htm", 
+    "date": "01-05-2014", 
+    "target": "RAILWAY", 
+    "hot_spot": "Bangalore-Guwahati Kaziranga express", 
+    "delivery_mod": "", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        "METAL BOMB"
+    ], 
+    "ORG": [
+        [
+            "IB", 
+            "156", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "352", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "373", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "375", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "459", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "461", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "493", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "497", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "515", 
+            "Others"
+        ], 
+        [
+            "Pakistans Inter Services Intelligence", 
+            "576", 
+            "Others"
+        ], 
+        [
+            "Pakistan High Commission", 
+            "589", 
+            "Others"
+        ]
+    ]
+}

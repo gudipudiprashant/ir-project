@@ -1,0 +1,92 @@
+{
+    "LOC": [
+        [
+            "Bengal", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "114", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:38", 
+        "October 2 .:93"
+    ], 
+    "death": "", 
+    "title": "NIA to probe Bengal blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The National Investigation Agency -LRB- NIA -RRB- will now probe the Bengal blast case . The Union Home Ministry has ordered to register a case under NIA Act , a senior Home Ministry official has confirmed on Thursday . . . The West Bengal Government will now be legally bound to hand over evidences and documents related to last weeks Bardhaman blast to the NIA officials , who are expected to arrive in the city shortly . . . The blast had killed two persons in a colony in Bardhaman district on October 2 . According to the police , the blast has brought to light a terror network , hitherto unknown in West Bengal .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "O": [
+        "Union Home Ministry:17", 
+        "home ministry:32", 
+        "police:99", 
+        "terror network:108"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/nia-to-probe-bengal-blast/article6486932.ece", 
+    "date": "09-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "27", 
+            "Others"
+        ], 
+        [
+            "West Bengal Government", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "65", 
+            "Others"
+        ]
+    ]
+}

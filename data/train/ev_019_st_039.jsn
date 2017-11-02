@@ -1,0 +1,172 @@
+{
+    "LOC": [
+        [
+            "West Bengal", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Bengal", 
+            "46", 
+            "Neutral"
+        ], 
+        [
+            "Badshahi", 
+            "54", 
+            "Neutral"
+        ], 
+        [
+            "Khagragarh", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "196", 
+            "Event"
+        ], 
+        [
+            "Jhargram", 
+            "221", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "230", 
+            "Event"
+        ], 
+        [
+            "madrasa", 
+            "268", 
+            "Neutral"
+        ], 
+        [
+            "Simulia", 
+            "270", 
+            "Neutral"
+        ], 
+        [
+            "madrasa", 
+            "300", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "314", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rezaul", 
+            "107", 
+            "Accused"
+        ], 
+        [
+            "Siddharth Nath Singh", 
+            "164", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "210", 
+            "Others"
+        ], 
+        [
+            "Banerjee", 
+            "218", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:8", 
+        "October 8:58", 
+        "Sunday:291"
+    ], 
+    "death": "", 
+    "title": "Burdwan Blast Case: 30 Grenades Found From House Sealed by Bengal Police", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "", 
+        "Burdwan", 
+        "Burdwan"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Burdwan : The Central investigators probing the October 2 blast in West Bengal 's Burdwan , found at least 30 hand grenades in the toilet of a house near the site - one that was searched and sealed by the state police eight days ago.The Bengal police had raided the house - on Badshahi Road - on October 8 after questioning the two women arrested from the house in Khagragarh , where the blast took place . The house was vacant at the time of the raid - half-a-dozen men living there who claimed to be masons , had decamped . Among those absconding is one Rezaul , suspected to be a key Jihadi element . But today , the sniffer dogs of the National Investigation Agency -LRB- NIA -RRB- and the National Security Guards -LRB- NSG -RRB- found the bombs - bolstering the Opposition claims that the state police are hiding evidence at the behest of the ruling Trinamool Congress.The BJP 's Siddharth Nath Singh , in fact , had 10 questions for the Mamata Banerjee government , including one regarding the `` conspiracy '' that `` forced her government to allow evidence at Burdwan to be destroyed . `` The Trinamool snapped back , asking what Mr Singh 's locus standi was anyway . Ms Banerjee was in Jhargram , where she did not refer to the Burdwan blast except to call for communal harmony . `` We should all live in peace but there are some mischievous people who do n't want that , '' she said.Earlier today , the NIA-NSG teams combed a madrasa at Simulia with bomb detectors . They also detained two relatives of the absconding principal Yusuf Sheikh.During its probe that began on Sunday , the NIA had found material suggesting the madrasa may have been used as a hub by jihadi elements linked to the Burdwan blast . Air gun pellets , sharp-edged weapons , money receipts and jihadi literature - including a Bengali book titled , `` How To Die A Good Death '' - were found , said sources . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "state police:41", 
+        "masons:97", 
+        "state police:149", 
+        "Air gun pellets:317", 
+        "sharp-edged weapons:321", 
+        "money receipts:324", 
+        "jihadi literature:327"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/burdwan-blast-case-30-grenades-found-from-house-sealed-by-bengal-police-680365", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "Central investigators", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Bengal police", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "129", 
+            "Others"
+        ], 
+        [
+            "National Security Guards", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "162", 
+            "Others"
+        ], 
+        [
+            "Mamata Banerjee", 
+            "176", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "294", 
+            "Others"
+        ]
+    ]
+}

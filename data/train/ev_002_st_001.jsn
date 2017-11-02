@@ -1,0 +1,68 @@
+{
+    "LOC": [
+        [
+            "Dhubri", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Sibsagar", 
+            "29", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Two injured in ULFA blasts", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhubri", 
+        "", 
+        "Dhubri"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Guwahati : Two persons were injured when ULFA militants exploded four bombs during Independence Day celebrations in Dhubri and Bongaigaon districts . Police foiled a blast attempt in Sibsagar district . PTI .", 
+    "injured": "2", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "independence day:14", 
+        "police:23", 
+        "blast attempt:26"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "INDEPENDENCE DAY", 
+    "link": "http://www.thehindu.com/todays-paper/two-injured-in-ulfa-blasts/article1892892.ece", 
+    "date": "15-08-2007", 
+    "target": "", 
+    "hot_spot": "Dhubri", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "PTI", 
+            "32", 
+            "Others"
+        ]
+    ]
+}

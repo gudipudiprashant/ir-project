@@ -1,0 +1,76 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Athgaon", 
+            "77", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "11", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "44", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "morning : 80"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 26:4"
+    ], 
+    "death": "7", 
+    "title": "PM condemns Guwahati bomb blast", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        "Athgaon,Guwahati"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "New Delhi , May 26 ( UNI ) Prime Minister Manmohan Singh today strongly condemned the Guwahati bomb blast that left at least seven people dead . . . '' Such violent acts only harm the lives of ordinary people , '' Dr Singh said in a statement here . . . He sent his condolences to the families of those who lost their lives in the blast , triggered by ULFA militants in the busy Athgaon area this morning . . . Police said a bomb was placed in an auto-rickshaw hired by militants . . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Police:84"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/2007/05/26/pm-condemns-guwahati-bomb-blast-1180179611.html", 
+    "date": "26-05-2007", 
+    "target": "", 
+    "hot_spot": "Athgaon,Guwahati", 
+    "delivery_mod": "AUTO-RICKSHAW", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "72", 
+            "Accused"
+        ]
+    ]
+}

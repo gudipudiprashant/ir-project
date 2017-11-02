@@ -1,0 +1,126 @@
+{
+    "LOC": [
+        [
+            "MUMBAI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Nashik", 
+            "190", 
+            "Event"
+        ], 
+        [
+            "Nashik", 
+            "282", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Pragya Singh Thakur", 
+            "11", 
+            "Accused"
+        ], 
+        [
+            "Pragya Singh", 
+            "105", 
+            "Accused"
+        ], 
+        [
+            "Majid Memon", 
+            "246", 
+            "Comment"
+        ], 
+        [
+            "Pragya Singh", 
+            "270", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:7", 
+        "September 29:20", 
+        "September:20", 
+        "1993:250"
+    ], 
+    "death": "", 
+    "title": "Real masterminds still at large, sadhvi Pragya a victim: Sena", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Nashik", 
+        "Malegaon", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "MUMBAI : The Shiv Sena on Tuesday alleged that Sadhvi Pragya Singh Thakur , arrested in connection with the September 29 Malegaon blasts , was a victim of the ` race to claim credit -LRB- for cracking the case -RRB- among the police force . ' ` Police never get their hands on the real masterminds of blasts ... They just pick up people at random and parade them before the media and congratulate themselves . This leads to a race to grab credit -LRB- for cracking cases -RRB- , ' the party alleged in an editorial in its mouthpiece , Saamana . ` Pragya Singh is a victim of this race to claim credit , ' the editorial charged . It further said that in today 's atmosphere of insecurity , Muslim fundamentalists are to blame if at all a Hindu takes to terrorism . ` If a Hindu organisation is taking on useless secularism , the Anti-Terrorist Squad must not brand it as a terrorist outfit , ' it said . The editorial also condemned the attack by NCP workers on the Vishwa Hindu Parishad office in Nashik in the wake of of the sadhvi 's arrest . ` Just because NCP controls the home ministry -LRB- in the state -RRB- , we hope they have not got a license to do what they want , ' it said . ` Why did they ever not attack SIMI offices ? NCP member advocate Majid Memon defended the 1993 blasts ' accused . Has anybody ever touched him ? ' it asked . ` Those who put Sadhvi Pragya Singh behind bars and those who attacked the VHP office in Nashik belong to the same club , ' the editorial accused .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "shiv sena:4", 
+        "malegaon blasts:22", 
+        "hindu organisation:150", 
+        "secularism:156"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/Sadhvi_Pragya_victim_of_race_within_cops_Shiv_Sena/rssarticleshow/3649064.cms", 
+    "date": "08-09-2006", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Shiv Sena", 
+            "4", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "NCP", 
+            "181", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Vishwa Hindu Parishad", 
+            "185", 
+            "Assoc_Victim"
+        ], 
+        [
+            "NCP", 
+            "204", 
+            "Assoc_Accused"
+        ], 
+        [
+            "SIMI", 
+            "240", 
+            "Others"
+        ], 
+        [
+            "NCP", 
+            "243", 
+            "Assoc_Accused"
+        ], 
+        [
+            "VHP", 
+            "279", 
+            "Assoc_Victim"
+        ]
+    ]
+}

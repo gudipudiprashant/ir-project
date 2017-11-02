@@ -1,0 +1,183 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "143", 
+            "Neutral"
+        ], 
+        [
+            "Bengal", 
+            "170", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "178", 
+            "Event"
+        ], 
+        [
+            "Bengal", 
+            "195", 
+            "Event"
+        ], 
+        [
+            "Bengal", 
+            "217", 
+            "Event"
+        ], 
+        [
+            "Bengal", 
+            "242", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mamata Banerjee", 
+            "3", 
+            "Comment"
+        ], 
+        [
+            "Banerjee", 
+            "95", 
+            "Comment"
+        ], 
+        [
+            "Banerjee", 
+            "146", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:7"
+    ], 
+    "death": "", 
+    "title": "Will cooperate with NIA, says Mamata", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "KOLKATA", 
+        "Bardhaman"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Chief Minister Mamata Banerjee said on Friday the Trinamool Congress government would extend full cooperation to the National Investigation Agency -LRB- NIA -RRB- probing the Bardhaman case . Addressing a press conference here , she lashed out at the Bharartiya Janata Party -LRB- BJP -RRB- - led government at the Centre for not consulting the State Government before initiating the NIA probe . . . She said : If something has happened , it should be looked into seriously . A crime is crime . All criminals are the same . . . Ms. Banerjee also said that crime should not be linked to any religion . Their -LRB- criminals -RRB- only religion is extremism . We never support it and never will , she said . . . Refuting BJPs allegation that the AITC government is going soft on infiltration from Bangladesh , Ms. Banerjee said infiltration is a Central subject and pointed out that the State police do not guard the borders . . . Praising the Bengal police for its performance in probing the Bardhaman blast case , she said : Even before they -LRB- Centre -RRB- said anything , the Bengal police slapped the accused with UAPA -LRB- Unlawful Activities Prevention Act -RRB- . . . Rubbishing the Oppositions allegation that the Bengal police were not cooperating with the NIA , she claimed that even the Central investigative agency has acknowledged total cooperation on part of the Bengal police . She accused the media of distorting her post on a social networking site soon after the Centre initiated the NIA probe into the case .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Chief Minister:1", 
+        "religion:113", 
+        "UAPA:201", 
+        "Unlawful Activities Prevention Act:203", 
+        "social networking:255"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/will-cooperate-with-nia-says-mamata/article6513446.ece", 
+    "date": "17-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Trinamool Congress government", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "Bharartiya Janata Party", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "44", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "48", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "AITC government", 
+            "135", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "159", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "196", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "218", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "224", 
+            "Others"
+        ], 
+        [
+            "Central investigative agency", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "243", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "264", 
+            "Others"
+        ]
+    ]
+}

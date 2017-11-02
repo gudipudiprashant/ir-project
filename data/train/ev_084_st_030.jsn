@@ -1,0 +1,338 @@
+{
+    "LOC": [
+        [
+            "Bajpe airport", 
+            "15", 
+            "Accused"
+        ], 
+        [
+            "Dubai", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "143", 
+            "Neutral"
+        ], 
+        [
+            "Bajpe Airport", 
+            "166", 
+            "Accused"
+        ], 
+        [
+            "Mangalore", 
+            "192", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "207", 
+            "Neutral"
+        ], 
+        [
+            "Bhatkal", 
+            "213", 
+            "Neutral"
+        ], 
+        [
+            "Mangalore", 
+            "215", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "262", 
+            "Neutral"
+        ], 
+        [
+            "Bhatkal", 
+            "272", 
+            "Neutral"
+        ], 
+        [
+            "Mangalore", 
+            "277", 
+            "Neutral"
+        ], 
+        [
+            "Uttara Kannada", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "307", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "387", 
+            "Neutral"
+        ], 
+        [
+            "Mangalore", 
+            "415", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "426", 
+            "Neutral"
+        ], 
+        [
+            "Dubai", 
+            "444", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "471", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Samad", 
+            "6", 
+            "Accused"
+        ], 
+        [
+            "Samad", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "Samad", 
+            "123", 
+            "Accused"
+        ], 
+        [
+            "Samad", 
+            "156", 
+            "Accused"
+        ], 
+        [
+            "Samad", 
+            "249", 
+            "Accused"
+        ], 
+        [
+            "Abdul Samad Bhatkal", 
+            "294", 
+            "Accused"
+        ], 
+        [
+            "Abdul", 
+            "403", 
+            "Accused"
+        ], 
+        [
+            "Abdul", 
+            "410", 
+            "Accused"
+        ], 
+        [
+            "Chidambaram", 
+            "455", 
+            "Comment"
+        ], 
+        [
+            "Abdul Bhatkal", 
+            "459", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "490", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Riyaz Bhatkal", 
+            "496", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [
+        "8.40 a.m.:42", 
+        "month : 196", 
+        "month : 219"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 12", 
+        "May 22 : 178", 
+        "Tuesday : 311", 
+        "June 1 : 317", 
+        "2009 : 327", 
+        "August 2009 : 378", 
+        "2008 : 408", 
+        "July 2008 : 422", 
+        "Tuesday : 457", 
+        "February : 473"
+    ], 
+    "death": "17", 
+    "title": "Abdul Samad arrested at Bajpe airport", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The arrest of terror suspect Abdul Samad -LRB- 23 -RRB- on Monday from the Bajpe airport was a meticulously planned operation according to highly placed sources of the district police . . . Samad was arrested inside the airport at around 8.40 a.m. as he was attempting to get past the immigration check point after landing in an Air India Express plane IX 812 coming from Dubai . The team Maharashtra Anti-Terrorism Squad , which had prior information about his arrival , coordinated with the local police manning the immigration centre and swooped down on the suspect the moment he tried to clear the check post , sources said . Caught inside the airport , which has several layers of security , Samad had very little room to escape . He was arrested using a Lookout Notice that was issued by the Mumbai police to almost every major airport in the country . . . Samad was trying to slip into the country through the Bajpe Airport by taking advantage of the situation that prevailed following the May 22 crash of the Air India Express flight . . . ATS in Mangalore for over a month . . Local police sources said the personnel of the Maharashtra Anti-Terrorism Squad were camping at Bhatkal and Mangalore for over a month leading up to the eventual arrest of the suspect . Their primary pursuit during this period was gathering as much information about the man as possible . . . Samad , who police say is registered as a Hotel Management student at Bangalore , is a native of the seaside town of Bhatkal 120 km north of Mangalore in the Uttara Kannada district of the State . . . PTI adds : . . Abdul Samad Bhatkal , a prime suspect in the German Bakery blast in Pune , was on Tuesday remanded in police custody till June 1 by a local court in connection with a 2009 illegal arms seizure case . . . He was produced before the Mazgaon metropolitan magistrate . Asked by the court if he wanted a stateappointed lawyer to defend him , he said , No . I would appoint a lawyer for myself at a later stage . . . In August 2009 , three persons were arrested from south Mumbai for possession of illegal firearms which , according to the ATS , were supplied by Abdul . . . In 2008 , Abdul was picked up by Mangalore police for his alleged role in July 2008 blasts in Bangalore . However , he was let off due to lack of evidence after which he went to Dubai , ATS officials said . . . Home Minister P. Chidambaram on Tuesday said Abdul Bhatkal is the prime suspect in the German Bakery blast in Pune in February which left 17 people dead . . . The ATS is also on the lookout for Yasin Bhatkal , a relative of Riyaz Bhatkal , founder of terror outfit Indian Mujahideen -LRB- IM -RRB- .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "", 
+        "Mangalore", 
+        ""
+    ], 
+    "O": [
+        "arrest:2", 
+        "terror suspect:4", 
+        "meticulously planned operation:19", 
+        "highly placed sources:24", 
+        "district police:29", 
+        "arrested:36", 
+        "airport:39", 
+        "attempting:47", 
+        "immigration check point:52", 
+        "landing:56", 
+        "Air India Express plane:59", 
+        "IX 812:63", 
+        "prior information:77", 
+        "arrival:81", 
+        "local police:86", 
+        "manning:88", 
+        "immigration centre:90", 
+        "swooped down:93", 
+        "suspect:97", 
+        "moment:99", 
+        "check post:105", 
+        "airport:114", 
+        "several layers of security:118", 
+        "little room:126", 
+        "escape:129", 
+        "arrested:133", 
+        "Lookout Notice:136", 
+        "issued:140", 
+        "airport:149", 
+        "country:152", 
+        "trying:158", 
+        "slip:160", 
+        "country:163", 
+        "advantage:170", 
+        "situation:173", 
+        "prevailed:175", 
+        "crash:180", 
+        "Air India Express flight:183", 
+        "Local police:199", 
+        "personnel:204", 
+        "camping:211", 
+        "eventual arrest:224", 
+        "suspect:228", 
+        "primary pursuit:231", 
+        "gathering:237", 
+        "information:240", 
+        "registered:255", 
+        "Hotel Management student:258", 
+        "seaside town:269", 
+        "120 km:273", 
+        "State:285", 
+        "prime suspect:299", 
+        "German Bakery blast:303", 
+        "remanded:312", 
+        "police custody:314", 
+        "local court:321", 
+        "connection:324", 
+        "illegal arms seizure case:328", 
+        "Mazgaon metropolitan magistrate:340", 
+        "court:347", 
+        "stateappointed lawyer:352", 
+        "defend:355", 
+        "lawyer:367", 
+        "arrested:384", 
+        "illegal firearms:391", 
+        "alleged role:419", 
+        "blasts:424", 
+        "lack of evidence:436", 
+        "prime suspect:463", 
+        "German Bakery blast:467", 
+        "dead:478", 
+        "terror outfit:501"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/article437892.ece", 
+    "date": "24-05-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorism Squad", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "Mumbai police", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "190", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "208", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "289", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "398", 
+            "Others"
+        ], 
+        [
+            "Mangalore police", 
+            "415", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "446", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "483", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "503", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "506", 
+            "Accused"
+        ]
+    ]
+}

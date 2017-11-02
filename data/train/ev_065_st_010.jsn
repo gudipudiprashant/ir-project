@@ -1,0 +1,581 @@
+{
+    "LOC": [
+        [
+            "Malegaon", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "189", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "340", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "425", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "442", 
+            "Event"
+        ], 
+        [
+            "Hamidiya mosque", 
+            "480", 
+            "Event"
+        ], 
+        [
+            "Bada Qabristan", 
+            "483", 
+            "Event"
+        ], 
+        [
+            "Indore", 
+            "497", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "639", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "698", 
+            "Source"
+        ], 
+        [
+            "Malegaon", 
+            "709", 
+            "Accused"
+        ], 
+        [
+            "Yavatmal", 
+            "732", 
+            "Accused"
+        ], 
+        [
+            "India", 
+            "806", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "886", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dhan Singh", 
+            "135", 
+            "Accused"
+        ], 
+        [
+            "Lokesh Sharma", 
+            "138", 
+            "Accused"
+        ], 
+        [
+            "Manohar Singh", 
+            "141", 
+            "Accused"
+        ], 
+        [
+            "Rajendra Chaudhary", 
+            "144", 
+            "Accused"
+        ], 
+        [
+            "Sandeep Dange", 
+            "153", 
+            "Accused"
+        ], 
+        [
+            "Ramji Kalsangra", 
+            "156", 
+            "Accused"
+        ], 
+        [
+            "Raj Mehul", 
+            "159", 
+            "Accused"
+        ], 
+        [
+            "Chaudhary", 
+            "171", 
+            "Accused"
+        ], 
+        [
+            "Dhan Singh", 
+            "173", 
+            "Accused"
+        ], 
+        [
+            "Manohar Singh", 
+            "176", 
+            "Accused"
+        ], 
+        [
+            "Kalsangra", 
+            "179", 
+            "Accused"
+        ], 
+        [
+            "Sharma", 
+            "202", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Chaudhary", 
+            "218", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Atif", 
+            "297", 
+            "Others"
+        ], 
+        [
+            "Atif", 
+            "311", 
+            "Others"
+        ], 
+        [
+            "Atif", 
+            "331", 
+            "Others"
+        ], 
+        [
+            "Sunil Joshi", 
+            "376", 
+            "Others"
+        ], 
+        [
+            "Kalsangra", 
+            "389", 
+            "Others"
+        ], 
+        [
+            "Dange", 
+            "392", 
+            "Others"
+        ], 
+        [
+            "Kalsangra", 
+            "394", 
+            "Others"
+        ], 
+        [
+            "Sharma", 
+            "396", 
+            "Others"
+        ], 
+        [
+            "Chaudhary", 
+            "406", 
+            "Accused"
+        ], 
+        [
+            "Dhan", 
+            "408", 
+            "Accused"
+        ], 
+        [
+            "Dhan Singh", 
+            "408", 
+            "Accused"
+        ], 
+        [
+            "Manohar Singh", 
+            "411", 
+            "Others"
+        ], 
+        [
+            "Sharma", 
+            "437", 
+            "Accused"
+        ], 
+        [
+            "Kalsangra", 
+            "445", 
+            "Accused"
+        ], 
+        [
+            "Kalsangra", 
+            "461", 
+            "Accused"
+        ], 
+        [
+            "Dhan Singh", 
+            "463", 
+            "Accused"
+        ], 
+        [
+            "Manohar Singh", 
+            "466", 
+            "Accused"
+        ], 
+        [
+            "Chaudhary", 
+            "469", 
+            "Accused"
+        ], 
+        [
+            "Sharma", 
+            "491", 
+            "Accused"
+        ], 
+        [
+            "P Raghuvanshi", 
+            "507", 
+            "Others"
+        ], 
+        [
+            "Subodh Jaiswal", 
+            "511", 
+            "Others"
+        ], 
+        [
+            "Swami Aseemanand", 
+            "605", 
+            "Others"
+        ], 
+        [
+            "Kalsangra", 
+            "635", 
+            "Accused"
+        ], 
+        [
+            "Dange", 
+            "637", 
+            "Accused"
+        ], 
+        [
+            "Sadhvi Pragya Singh", 
+            "652", 
+            "Accused"
+        ], 
+        [
+            "Srikant Purohit", 
+            "659", 
+            "Accused"
+        ], 
+        [
+            "Muzammil", 
+            "704", 
+            "Accused"
+        ], 
+        [
+            "Noor-ul-Huda", 
+            "718", 
+            "Accused"
+        ], 
+        [
+            "Raees Ali", 
+            "720", 
+            "Accused"
+        ], 
+        [
+            "Abrar Ahmed * Zahid Majeed", 
+            "723", 
+            "Accused"
+        ], 
+        [
+            "Majeed", 
+            "752", 
+            "Accused"
+        ], 
+        [
+            "Shabbir Masiullah", 
+            "762", 
+            "Accused"
+        ], 
+        [
+            "Dhan Singh", 
+            "814", 
+            "Accused"
+        ], 
+        [
+            "Rajender Chaudhary", 
+            "817", 
+            "Accused"
+        ], 
+        [
+            "Ramji Kalsangra", 
+            "820", 
+            "Accused"
+        ], 
+        [
+            "Manohar Singh", 
+            "823", 
+            "Accused"
+        ], 
+        [
+            "Dhan Singh", 
+            "826", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Lokesh Sharma", 
+            "844", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Sunil Joshi", 
+            "859", 
+            "Accused"
+        ], 
+        [
+            "Kalsangra", 
+            "862", 
+            "Accused"
+        ], 
+        [
+            "Sandeep Dange", 
+            "864", 
+            "Accused"
+        ], 
+        [
+            "Kalsangra", 
+            "870", 
+            "Accused"
+        ], 
+        [
+            "Sharma", 
+            "872", 
+            "Accused"
+        ], 
+        [
+            "Chaudhary", 
+            "878", 
+            "Accused"
+        ], 
+        [
+            "Dhan Singh", 
+            "880", 
+            "Accused"
+        ], 
+        [
+            "Manohar Singh", 
+            "883", 
+            "Accused"
+        ], 
+        [
+            "Majeed Memon", 
+            "896", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2006 : 24", 
+        "September 8  : 89", 
+        "2006 : 92", 
+        "April 2011 : 119", 
+        "2007 : 215", 
+        "November 2011 : 285", 
+        "Friday : 289", 
+        "December 21 : 520", 
+        "2009 : 572", 
+        "November : 624", 
+        "2008 : 645", 
+        "2008 : 835", 
+        "1993 : 902"
+    ], 
+    "death": "37", 
+    "title": "NIA to nail Hindu radicals in Malegaon chargesheet", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "MUMBAI : The country 's premier anti-terror agency is set to file a chargesheet against four ultra-right Hindu activists for carrying out the 2006 Malegaon blasts . The National Investigation Agency 's -LRB- NIA -RRB- probe has knocked the bottom off the Maharashtra anti-terrorism squad 's -LRB- ATS -RRB- case that members of the banned Students Islamic Movement of India -LRB- SIMI -RRB- had carried out the attack . The chargesheet is expected to be filed any time this week . The blasts in the textile town on September 8 , 2006 , when people had gathered to observe the Shab-e-Baraat , had killed 37 people and injured 297 . The NIA , which started the probe in April 2011 on the Union home ministry 's orders , has so far arrested four people Dhan Singh , Lokesh Sharma , Manohar Singh and Rajendra Chaudhary for the blasts . Three others , Sandeep Dange , Ramji Kalsangra and Raj Mehul , are wanted in the case . The agency says Chaudhary , Dhan Singh , Manohar Singh and Kalsangra planted the bombs . A senior NIA official in Delhi refused to give more details citing the sensitivity of the case . Sharma , who is also an accused in the Samjhauta Express blast in 2007 , and Chaudhary were members of the Bajrang Dal . ` There can not be two sets of accused in one crime , ' said an NIA officer , adding the agency was examining if there was a larger conspiracy involved . Another officer said the agency might ask the court to dismiss the charges against the nine people arrested by the ATS . All were granted bail in November 2011 . On Friday , the NIA recorded the statement of Mohammed Atif , a prime witness in the case . The ATS had said Atif had witnessed the attackers making the bomb and later hid in the godown of one of the accused . Atif later told a court in his hometown in Uttar Pradesh that he was forced to give the statement . The NIA says the decision to bomb the textile town was taken by senior members of the right-wing Hindu module , including former RSS pracharak Sunil Joshi , who was later murdered allegedly by his own accomplices ; Kalsangra ; and Dange . Kalsangra and Sharma were tasked with the execution , and they asked Chaudhary , Dhan Singh and Manohar Singh to plant the bombs . The agency says the team first recced Malegaon to identify targets . On the day of the blasts , Sharma drove the team to Malegaon , where Kalsangra gave them the RDX explosive and also clothes to disguise themselves as pious Muslims . Kalsangra accompanied Dhan Singh , Manohar Singh and Chaudhary to place the bombs on bicycles at spots near the Hamidiya mosque at Bada Qabristan where many people had gathered . Sharma then drove them back to Indore . The ATS led by then joint commissioner K P Raghuvanshi and DIG Subodh Jaiswal filed a chargesheet in the case on December 21 the same year . It had taken just 54 days to file the chargesheet ; usually it can take up to 180 days in such cases . The Central Bureau of Investigation , after its own probe , had endorsed the ATS findings . The NIA , set up in 2009 , post the 26/11 Mumbai terror attacks , can deal with terror-related crimes without any special permission from state governments . The agency focused on Hindu right-wing groups after a confession by Swami Aseemanand , arrested in the 2007 Hyderabad Mecca Masjid bomb blast case , it told the court last November . The agency has a Rs 10 lakh reward for Kalsangra and Dange . Malegaon had seen another attack in 2008 allegedly by right-wing Hindu groups . Sadhvi Pragya Singh and former Lt Col Srikant Purohit were later arrested in connection with that attack . ATS 's claims in 2006 * Blasts were carried out by Muslim youths in an attempt to spark communal riots * The RDX for the bombs came from Pakistan and a Pakistani national , Muzammil , assembled them in Malegaon * A bomb each was planted by accused Noor-ul-Huda , Raees Ali and Abrar Ahmed * Zahid Majeed , an imam from Yavatmal , planted a bomb and returned the same day . -LRB- About 250 Yavatmal residents filed affidavits , saying Majeed was in the town at the time -RRB- * Shabbir Masiullah , a battery shop owner , was part of the conspiracy . -LRB- At the time of the blasts , he was in the custody of the Mumbai crime branch in another case -RRB- NIA claims * The RDX was procured in India . The explosives were allegedly planted by Dhan Singh , Rajender Chaudhary , Ramji Kalsangra and Manohar Singh . Dhan Singh also connected with the Samjhauta Express and 2008 Malegaon blasts * Another Samjhauta blast accused , Lokesh Sharma , provided logistical support * The blasts were plotted by former RSS pracharak Sunil Joshi , Kalsangra , Sandeep Dange , and others . Kalsangra and Sharma tasked with the execution * Chaudhary , Dhan Singh and Manohar Singh recced Malegaon to identify the targets Legal Angle Prominent criminal lawyer Majeed Memon , who represented several 1993 bomb blast accused in court , said two ideologically diagonally opposite groups can not be responsible for a particular terror attack . Truth can not have two faces . ` The NIA has to necessarily discharge the earlier set of boys in this case , who were wrongly believed to be involved . ' .", 
+    "injured": "297", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "anti-terror agency:7", 
+        "chargesheet:14", 
+        "four ultra-right hindu activists:16", 
+        "malegaon blasts:25", 
+        "carried out:65", 
+        "attack:68", 
+        "shab-e-baraat:101", 
+        "killed 37:104", 
+        "injured 297:108", 
+        "union home ministry 's orders:123", 
+        "arrested four people:132", 
+        "three others:150", 
+        "planted the bombs:180", 
+        "senior nia official:185", 
+        "samjhauta express blast:211", 
+        "granted bail:282", 
+        "prime witness:301", 
+        "bomb the textile town:357", 
+        "senior members:364", 
+        "right-wing hindu module:368", 
+        "rss pracharak:374", 
+        "murdered:382", 
+        "accomplices:387", 
+        "rdx:449", 
+        "clothes:453", 
+        "disguise:455", 
+        "pious muslims:458", 
+        "bombs on bicycles:473", 
+        "hamidiya mosque:480", 
+        "joint commissioner:504", 
+        "dig:510", 
+        "54 days:530", 
+        "chargesheet:535", 
+        "26/11 mumbai terror attacks:576", 
+        "2007 hyderabad mecca masjid bomb blast:611", 
+        "rs 10 lakh reward:630", 
+        "another attack:642", 
+        "right-wing hindu groups:648", 
+        "former lt col:656", 
+        "arrested:663", 
+        "2006 * blasts:674", 
+        "carried out:678", 
+        "muslim youths:681", 
+        "spark communal riots:687", 
+        "rdx:692", 
+        "pakistani national:701", 
+        "imam:730", 
+        "250 yavatmal residents:745", 
+        "filed affidavits:748", 
+        "battery shop owner:766", 
+        "rdx:802", 
+        "samjhauta express:832", 
+        "malegaon blasts:836", 
+        "samjhauta blast accused:840", 
+        "criminal lawyer:894", 
+        "1993 bomb blast:902"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/NIA-to-nail-Hindu-radicals-in-Malegaon-chargesheet/articleshow/20020578.cms?referral=PM", 
+    "date": "08-09-2006", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "29", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "Maharashtra anti-terrorism squad", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "48", 
+            "Others"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "62", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "112", 
+            "Others"
+        ], 
+        [
+            "Bajrang Dal", 
+            "223", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "242", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "278", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "292", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "308", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "352", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "500", 
+            "Others"
+        ], 
+        [
+            "Central Bureau of Investigation", 
+            "550", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "563", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "567", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "670", 
+            "Others"
+        ], 
+        [
+            "Mumbai crime branch", 
+            "791", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "934", 
+            "Others"
+        ]
+    ]
+}

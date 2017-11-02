@@ -1,0 +1,175 @@
+{
+    "LOC": [
+        [
+            "Congress", 
+            "45", 
+            "Neutral"
+        ], 
+        [
+            "Jiram Valley", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Darbha", 
+            "53", 
+            "Neutral"
+        ], 
+        [
+            "Sukma", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Jagdalpur", 
+            "62", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "Dantewada", 
+            "171", 
+            "Neutral"
+        ], 
+        [
+            "Keshlur", 
+            "202", 
+            "Neutral"
+        ], 
+        [
+            "Darbha", 
+            "204", 
+            "Neutral"
+        ], 
+        [
+            "Tongpal", 
+            "207", 
+            "Neutral"
+        ], 
+        [
+            "Darbha", 
+            "245", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nand Kumar Patel", 
+            "70", 
+            "Victim"
+        ], 
+        [
+            "Mahendra Karma", 
+            "76", 
+            "Victim"
+        ], 
+        [
+            "VC Shukla", 
+            "87", 
+            "Victim"
+        ], 
+        [
+            "Ajit Jogi", 
+            "111", 
+            "Comment"
+        ], 
+        [
+            "TS Singhdeo", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "Jogi", 
+            "166", 
+            "Comment"
+        ], 
+        [
+            "Kwawasi Lakhma", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "Patel", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "Nand Kumar Patel", 
+            "212", 
+            "Others"
+        ], 
+        [
+            "Dinesh", 
+            "218", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:6", 
+        "Saturday:26"
+    ], 
+    "death": "27", 
+    "title": "Naxal attack: Convoy route was pre-decided, says Ajit Jogi", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Raipur : Congress leaders on Monday denied reports that the route of the ill-fated ` Parivartan Yatra ` , which came under Naxal attack on Saturday in south Bastar region , had been changed at the last moment . . . The convoy of Congress leaders was attacked at Jiram Valley in Darbha region when it was returning from Sukma to Jagdalpur . Twenty-seven people including Chhattisgarh Congress chief Nand Kumar Patel and veteran leader Mahendra Karma were killed and 37 others including former union minster VC Shukla were injured . . . Reacting to reports in local media about last-moment route change , former Chief Minister and Congress veteran Ajit Jogi said , ` Rally ` s route was not changed . MLA TS Singhdeo was in-charge of the route schedule and he had submitted the same route chart thrice for security approval . . . ` Convoy was proceeding according to its pre-decided schedule . This was a sheer security lapse , ' Jogi said . . . Dantewada MLA Kwawasi Lakhma , who was with Patel during the attack , too said there was no change of route . ` According to the plan we were moving to Keshlur in Darbha region via Tongpal . I was with Nand Kumar Patel and his son Dinesh in the SUV . We were talking about the security arrangements . I told him that I had written to police for providing security on the Darbha route but there was no security , ' he added .", 
+    "injured": "37", 
+    "det_loc": [
+        "India", 
+        "Chattisgarh", 
+        "Bastar", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "parivartan yatra:16", 
+        "naxal attack:23", 
+        "attacked:48", 
+        "killed:79", 
+        "injured:90", 
+        "rally:116", 
+        "security approval:143", 
+        "convoy:149", 
+        "attack:182", 
+        "suv:221", 
+        "security arrangements:228"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/chhattisgarh/naxal-attack-convoy-route-was-pre-decided-says-ajit-jogi_851233.html", 
+    "date": "25-05-2013", 
+    "target": "TOWNS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Congress", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "68", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "109", 
+            "Others"
+        ]
+    ]
+}

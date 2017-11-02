@@ -1,0 +1,426 @@
+{
+    "LOC": [
+        [
+            "AHMEDABAD/LUCKNOW", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Gujarat", 
+            "398", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "492", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "42", 
+            "Accused"
+        ], 
+        [
+            "Sarai Meer", 
+            "70", 
+            "Accused"
+        ], 
+        [
+            "Azamgarh", 
+            "74", 
+            "Accused"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "77", 
+            "Accused"
+        ], 
+        [
+            "UP", 
+            "91", 
+            "Accused"
+        ], 
+        [
+            "Ahmedabad", 
+            "148", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "164", 
+            "Assoc_Event"
+        ], 
+        [
+            "Hyderabad", 
+            "166", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bangalore", 
+            "168", 
+            "Assoc_Event"
+        ], 
+        [
+            "Indore", 
+            "175", 
+            "Assoc_Event"
+        ], 
+        [
+            "Delhi", 
+            "301", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "303", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "305", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "307", 
+            "Neutral"
+        ], 
+        [
+            "MP", 
+            "387", 
+            "Source"
+        ], 
+        [
+            "Gujarat", 
+            "413", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "416", 
+            "Assoc_Event"
+        ], 
+        [
+            "Surat", 
+            "418", 
+            "Assoc_Event"
+        ], 
+        [
+            "Pavagadh", 
+            "434", 
+            "Assoc_Event"
+        ], 
+        [
+            "Vadodara", 
+            "439", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bapunagar", 
+            "452", 
+            "Source"
+        ], 
+        [
+            "Ahmedabad", 
+            "455", 
+            "Source"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "483", 
+            "Neutral"
+        ], 
+        [
+            "Vatva", 
+            "489", 
+            "Source"
+        ], 
+        [
+            "Yunus", 
+            "509", 
+            "Neutral"
+        ], 
+        [
+            "Vadodara", 
+            "518", 
+            "Source"
+        ], 
+        [
+            "Surat", 
+            "522", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "551", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "555", 
+            "Source"
+        ], 
+        [
+            "Vapi", 
+            "572", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "575", 
+            "Neutral"
+        ], 
+        [
+            "Bharuch", 
+            "581", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "606", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mufti Abdul Bashar Kasmi", 
+            "61", 
+            "Accused"
+        ], 
+        [
+            "Bashar", 
+            "94", 
+            "Accused"
+        ], 
+        [
+            "Bashar", 
+            "119", 
+            "Accused"
+        ], 
+        [
+            "Rekha Dixit", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "Safdar Nagori", 
+            "157", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Nagori", 
+            "171", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Mufti Bashar", 
+            "181", 
+            "Others"
+        ], 
+        [
+            "P C Pande", 
+            "290", 
+            "Comment"
+        ], 
+        [
+            "Nagori", 
+            "321", 
+            "Others"
+        ], 
+        [
+            "Pande", 
+            "376", 
+            "Comment"
+        ], 
+        [
+            "Mufti Abdul Bashar Kasmi", 
+            "393", 
+            "Accused"
+        ], 
+        [
+            "P C Pande", 
+            "401", 
+            "Comment"
+        ], 
+        [
+            "Mufti", 
+            "407", 
+            "Accused"
+        ], 
+        [
+            "Bashar", 
+            "441", 
+            "Accused"
+        ], 
+        [
+            "Yunus Mansuri", 
+            "449", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Ashish Bhatia", 
+            "466", 
+            "Comment"
+        ], 
+        [
+            "Bhatia", 
+            "526", 
+            "Comment"
+        ], 
+        [
+            "Sajid Mansuri", 
+            "587", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0021", 
+    "content": "AHMEDABAD/LUCKNOW : Three weeks after serial blasts rocked Ahmedabad , killing 57 people , Gujarat police claimed a major breakthrough with the arrest of 10 activists of the banned Students Islamic Movement of India -LRB- SIMI -RRB- , including nine from Gujarat . -LRB- Watch -RRB- The formal announcement of these arrests was made only after the alleged mastermind , Mufti Abdul Bashar Kasmi , was picked up from Sarai Meer locality in Azamgarh district of Uttar Pradesh on Saturday . A Gujarat police team struggled to convince their reluctant UP counterparts about Bashar 's involvement and it took some phone calls between higher-ups in the two states to sort things out . -LRB- See Ninans Cartoon -RRB- Bashar was arrested in a joint operation and produced before the special CBI judge -LRB- Lucknow -RRB- Rekha Dixit who allowed 3 day transit-remand to Gujarat police.Police officials in Ahmedabad claimed that the group headed by SIMI leader Safdar Nagori had executed similar blasts in Jaipur , Hyderabad and Bangalore . After Nagori 's arrest in Indore in March ' 08 , Mufti Bashar had wrested control of SIMI 's terror module.The breakthrough is bound to boost the sagging morale of Indian agencies in the forefront of the war on terror . It 's the first time that police have moved with this kind of speed and thoroughness after a terror attack . It also marks a new level of coordination between state police forces and with central intelligence agencies , a factor cited as a negative after each terror attack . ` We say this with pleasure and pride that our investigations would lead to the cracking of other serial blasts in the country , ' said Gujarat DGP , P C Pande , acknowledging the contribution of police forces from Delhi , Rajasthan , Karnataka and Maharashtra in the investigations , apart from central agencies.Bashar re-grouped the SIMI network after Nagori 's arrest and plotted the Ahmedabad blasts with the help of a Mumbai-based techie , an employee of Wipro who is still at large . ` SIMI operatives were working under the guise of Indian Mujahideen . Remove the first and last letters of SIMI , and you have the IM , ' said Pande . . . ` Raw material for bombs came from MP ' Announcing the arrest of Mufti Abdul Bashar Kasmi , Gujarat DGP , P C Pande said : ` Mufti had paid frequent visits to Gujarat and the Ahmedabad and Surat terror strikes were planned during a camp held in January 2008 in the forests of Pavagadh , 50 km from Vadodara . Bashar planned the attacks in the house of Yunus Mansuri in Bapunagar area of Ahmedabad , ' said joint commissioner of police -LRB- crime -RRB- Ashish Bhatia , who led the investigations . ` Raw material for making the bombs arrived from Madhya Pradesh and a house in Vatva area of Ahmedabad was rented by the group to make the bombs . While some bombs were made at Yunus ' residence , the rest were manufactured in Vadodara and sent to Surat , ' said Bhatia . Crime branch officials said the two cars that were turned into deadly bombs in the Civil Hospital and L G Hospital blasts in Ahmedabad were stolen from Mumbai by SIMI activists from MP . The cars were handed over to the terror group in Vapi town of Gujarat and the car-lifters stayed in Bharuch with key SIMI operative , Sajid Mansuri , whose arrest earlier this week unravelled the whole plot . The cars were later brought to Ahmedabad and fitted with the bombs . Police have also identified the people and places from where second-hand bicycles were procured for use in the blasts .", 
+    "death": "57", 
+    "title": "Ahmedabad blasts brains: SIMI man, techie", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "", 
+        "Ahmedabad", 
+        ""
+    ], 
+    "terror_group": [
+        "STUDENTS ISLAMIC MOVEMENT OF INDIA"
+    ], 
+    "DAT": [
+        "Saturday:80", 
+        "March ' 08 : 177", 
+        "January 2008:428"
+    ], 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "serial:6", 
+        "ahmedabad:9", 
+        "breakthrough:20", 
+        "arrest:23", 
+        "announcement:49", 
+        "mastermind:59", 
+        "involvement:96", 
+        "ninans cartoon:116", 
+        "cbi judge:131", 
+        "3 day transit-remand:140", 
+        "control:185", 
+        "morale:198", 
+        "terror attack:229", 
+        "coordination:239", 
+        "state police:241", 
+        "intelligence:247", 
+        "factor:251", 
+        "terror attack:258", 
+        "pleasure:266", 
+        "pride:268", 
+        "gujarat dgp:287", 
+        "contribution:296", 
+        "ahmedabad blasts:327", 
+        "mumbai-based techie:334", 
+        "guise:354", 
+        "joint commissioner of police:459", 
+        "two cars:533", 
+        "deadly bombs:539", 
+        "activists:558", 
+        "second-hand bicycles:623"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Ahmedabad-blasts-brains-SIMI-man-techie/articleshow/3370648.cms?referral=PM", 
+    "date": "26-07-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "FOUR WHEELER", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Gujarat police", 
+            "15", 
+            "Others"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "30", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "Gujarat police", 
+            "83", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "155", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "187", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "318", 
+            "Accused"
+        ], 
+        [
+            "Wipro", 
+            "340", 
+            "Victim"
+        ], 
+        [
+            "SIMI", 
+            "348", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "356", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "366", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "372", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Civil Hospital", 
+            "543", 
+            "Victim"
+        ], 
+        [
+            "L G Hospital", 
+            "546", 
+            "Victim"
+        ], 
+        [
+            "SIMI", 
+            "557", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "584", 
+            "Accused"
+        ]
+    ]
+}

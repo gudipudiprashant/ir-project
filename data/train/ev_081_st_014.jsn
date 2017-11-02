@@ -1,0 +1,215 @@
+{
+    "LOC": [
+        [
+            "LUCKNOW", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "59", 
+            "Neutral"
+        ], 
+        [
+            "Jammu", 
+            "113", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "123", 
+            "Neutral"
+        ], 
+        [
+            "Rawatpur", 
+            "136", 
+            "Neutral"
+        ], 
+        [
+            "Kanpur", 
+            "139", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "149", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "160", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "198", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "214", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Atiq Khan", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Sudhakar Dwivedi", 
+            "23", 
+            "Accused"
+        ], 
+        [
+            "Amritanand", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "Mukesh Kumar", 
+            "50", 
+            "Others"
+        ], 
+        [
+            "Dayanand Pandey", 
+            "70", 
+            "Others"
+        ], 
+        [
+            "Sudhakar Dwivedi", 
+            "89", 
+            "Accused"
+        ], 
+        [
+            "Dwivedi", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "Dayanand Dwivedi", 
+            "94", 
+            "Others"
+        ], 
+        [
+            "Amritanand", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "Dwivedi", 
+            "117", 
+            "Others"
+        ], 
+        [
+            "Pushkar Dwivedi", 
+            "132", 
+            "Accused"
+        ], 
+        [
+            "Dwivedi", 
+            "156", 
+            "Others"
+        ], 
+        [
+            "Sadhvi Pragnya Singh", 
+            "232", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "night : 83", 
+        "night : 163"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:17", 
+        "September , 2008 : 38", 
+        "November 16:45", 
+        "Wednesday:82", 
+        "Wednesday:141", 
+        "Wednesday:162"
+    ], 
+    "death": "", 
+    "title": "Dwivedi in ATS custody", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Nashik", 
+        "Malegaon", 
+        "Malegaon"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Atiq Khan . . LUCKNOW : The Anti-Terrorism Squad -LRB- ATS -RRB- , Mumbai , on Thursday secured the transit remand for Sudhakar Dwivedi , alias Amritanand , a suspect in the Malegaon bomb blast case of September , 2008 . The remand till November 16 was granted by Mukesh Kumar , Civil Judge , Junior Division , Lucknow . . . His name had earlier been disclosed as Dayanand Pandey but , following calls from the DGPs office late on Wednesday night , it was given as Sudhakar Dwivedi , son of Dayanand Dwivedi . He had taken the name Amritanand and become the Peethadheeshwar of the Sharda Sarvagya Peeth in Jammu . . . Dwivedi was picked up by the Mumbai ATS from the residence of his brother , Pushkar Dwivedi , at Rawatpur village in Kanpur on Wednesday . He is to be taken to Mumbai for further interrogation . . . Dwivedi was brought to Lucknow on Wednesday night and was subjected to a detailed interrogation . Details of the closed-door interrogation were not known , but sources said the ATS was looking into his contacts with some Hindu organisation leaders of Central Uttar Pradesh . His name surfaced after the ATS team , conducting the investigation into the Malegaon blasts and the alleged involvement of a retired Lieutenant-Colonel , found that he was in touch with Sadhvi Pragnya Singh , another accused in the case , the sources said .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Civil Judge:53", 
+        "Junior Division:56", 
+        "Peethadheeshwar:106", 
+        "retired Lieutenant-Colonel:222"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/dwivedi-in-ats-custody/article1375888.ece", 
+    "date": "29-09-2008", 
+    "target": "", 
+    "hot_spot": "Malegaon", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "The Anti-Terrorism Squad", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "11", 
+            "Others"
+        ], 
+        [
+            "Sharda Sarvagya Peeth", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "185", 
+            "Others"
+        ], 
+        [
+            "Hindu organisation", 
+            "193", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "206", 
+            "Others"
+        ]
+    ]
+}

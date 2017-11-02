@@ -1,0 +1,132 @@
+{
+    "LOC": [
+        [
+            "Manipur", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Imphal", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Manipur Raj Bhavan", 
+            "32", 
+            "Event"
+        ], 
+        [
+            "Army post", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Bishenpur", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "M sector", 
+            "69", 
+            "Event"
+        ], 
+        [
+            "Bishenpur", 
+            "89", 
+            "Event"
+        ], 
+        [
+            "Gorkha Rifles post", 
+            "135", 
+            "Event"
+        ], 
+        [
+            "Khwairakpam", 
+            "139", 
+            "Event"
+        ], 
+        [
+            "Bishenpur", 
+            "141", 
+            "Neutral"
+        ], 
+        [
+            "Moidangpok", 
+            "172", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "5.30 am : 66"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sep 25 : 14", 
+        "Tuesday : 55"
+    ], 
+    "death": "", 
+    "title": "Powerful bomb explodes in Army office inImphal", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "2 powerful bombs explode in Manipur , another defused . . Imphal , Sep 25 ( PTI ) . . Two powerful bombs exploded at the heavily guarded Army office adjoining Manipur Raj Bhavan and at an Army post in Bishenpur district , while another was unearthed on the outskirts of this town on Tuesday . . . One of the bombs went off at 5.30 am in M sector in the heart of the town where the Army office was located , while the other exploded in Bishenpur around the same time , official sources said . . . No one was injured in either explosion , the sources said . . . It was not known whether insurgents had hurled the bomb at the Army office and near the gate of the Gorkha Rifles post at Khwairakpam in Bishenpur district from the road , the sources said . . . A third bomb , weighing three kg allegedly planted by insurgents , was unearthed by a security patrol at Moidangpok area on the outskirts of this town , the sources said . . . The bomb was later defused . . . Sources refused to divulge details when asked how the explosions could take place in heavily-guarded areas , but said intensified security measures were in place in view of the 34th Raising Day of the banned Peoples Liberation Army . . . The sources said PLA insurgents were planting and exploding bombs at different places this month in an attempt to target security personnel . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Bishnupur", 
+        "", 
+        " Manipur Raj Bhavan "
+    ], 
+    "O": [
+        "insurgents:163", 
+        "34th Raising Day:224"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indianexpress.com/article/india/regional/powerful-bomb-explodes-in-army-office-in-imphal/", 
+    "date": "25-09-2012", 
+    "target": "", 
+    "hot_spot": " Manipur Raj Bhavan ", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Army office", 
+            "29", 
+            "Others"
+        ], 
+        [
+            "Army office", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "Army office", 
+            "127", 
+            "Others"
+        ], 
+        [
+            "Peoples Liberation Army", 
+            "230", 
+            "Accused"
+        ], 
+        [
+            "PLA", 
+            "239", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,430 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "57", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "114", 
+            "Event"
+        ], 
+        [
+            "Punes Yerwada Jail", 
+            "139", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "176", 
+            "Event"
+        ], 
+        [
+            "Saudi Arabia", 
+            "181", 
+            "Accused"
+        ], 
+        [
+            "Maharashtra", 
+            "213", 
+            "Accused"
+        ], 
+        [
+            "Pakistan", 
+            "237", 
+            "Accused"
+        ], 
+        [
+            "Pul Prahladpur", 
+            "261", 
+            "Accused"
+        ], 
+        [
+            "South Delhi", 
+            "264", 
+            "Neutral"
+        ], 
+        [
+            "Aurangabad", 
+            "277", 
+            "Accused"
+        ], 
+        [
+            "Nanded", 
+            "289", 
+            "Accused"
+        ], 
+        [
+            "Maharashtra", 
+            "291", 
+            "Accused"
+        ], 
+        [
+            "Nehru Place", 
+            "337", 
+            "Accused"
+        ], 
+        [
+            "South Delhi", 
+            "340", 
+            "Neutral"
+        ], 
+        [
+            "Pul Prahladpur", 
+            "353", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "383", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "398", 
+            "Event"
+        ], 
+        [
+            "Nizamuddin railway station", 
+            "405", 
+            "Accused"
+        ], 
+        [
+            "Yerwada Jail", 
+            "433", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "487", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "489", 
+            "Event"
+        ], 
+        [
+            "Asads", 
+            "500", 
+            "Accused"
+        ], 
+        [
+            "Aurangabad", 
+            "506", 
+            "Neutral"
+        ], 
+        [
+            "Kasarwadi", 
+            "520", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "522", 
+            "Event"
+        ], 
+        [
+            "Budhwarpeth", 
+            "547", 
+            "Neutral"
+        ], 
+        [
+            ", Pune .", 
+            "548", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "549", 
+            "Event"
+        ], 
+        [
+            "Nanded", 
+            "568", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "578", 
+            "Neutral"
+        ], 
+        [
+            "Junglee Maharaj Road", 
+            "599", 
+            "Neutral"
+        ], 
+        [
+            "Mominpura", 
+            "654", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "657", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "808", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "819", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Neeraj Kumar", 
+            "101", 
+            "Comment"
+        ], 
+        [
+            "Riyaz", 
+            "124", 
+            "Accused"
+        ], 
+        [
+            "Iqbal Bhatkal", 
+            "126", 
+            "Accused"
+        ], 
+        [
+            "Qateel Siddique", 
+            "136", 
+            "Accused"
+        ], 
+        [
+            "Zabiuddin Ansari", 
+            "162", 
+            "Accused"
+        ], 
+        [
+            "Abu Jundal", 
+            "165", 
+            "Accused"
+        ], 
+        [
+            "Jundal", 
+            "188", 
+            "Accused"
+        ], 
+        [
+            "Fayyaz Qagzi", 
+            "208", 
+            "Accused"
+        ], 
+        [
+            "Qagzi", 
+            "224", 
+            "Accused"
+        ], 
+        [
+            "Riyaz", 
+            "228", 
+            "Accused"
+        ], 
+        [
+            "Iqbal", 
+            "230", 
+            "Accused"
+        ], 
+        [
+            "Kumar", 
+            "247", 
+            "Comment"
+        ], 
+        [
+            "Asad Khan", 
+            "268", 
+            "Accused"
+        ], 
+        [
+            "Imran Khan", 
+            "280", 
+            "Accused"
+        ], 
+        [
+            "Qagzi", 
+            "314", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "317", 
+            "Accused"
+        ], 
+        [
+            "Raju Bhai", 
+            "346", 
+            "Accused"
+        ], 
+        [
+            "Sayed Feroz", 
+            "392", 
+            "Accused"
+        ], 
+        [
+            "Kumar", 
+            "414", 
+            "Comment"
+        ], 
+        [
+            "Siddique", 
+            "453", 
+            "Victim"
+        ], 
+        [
+            "Feroz", 
+            "513", 
+            "Accused"
+        ], 
+        [
+            "Imran", 
+            "566", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "582", 
+            "Accused"
+        ], 
+        [
+            "Feroz", 
+            "644", 
+            "Accused"
+        ], 
+        [
+            "Mohsin", 
+            "695", 
+            "Comment"
+        ], 
+        [
+            "Feroz", 
+            "698", 
+            "Accused"
+        ], 
+        [
+            "Mohsin", 
+            "726", 
+            "Comment"
+        ], 
+        [
+            "Feroz", 
+            "732", 
+            "Accused"
+        ], 
+        [
+            "Feroz", 
+            "786", 
+            "Accused"
+        ], 
+        [
+            "Amruta Byatnal", 
+            "816", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "evening : 627"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:5", 
+        "August 1:11", 
+        "June 8:148", 
+        "June:184", 
+        "September 26:296", 
+        "October 1:409", 
+        "July:508"
+    ], 
+    "death": "", 
+    "title": "Pune serial blasts case cracked, three held", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "The Delhi Police on Thursday claimed to have cracked the August 1 serial blasts in Pune by arresting three suspected militants of the Indian Mujahideen -LRB- IM -RRB- . The police said they were planning to carry out a similar operation in the Capital during the coming festival season and another at a famous temple in Bihar . While raw materials for configuring improvised explosive devices -LRB- IED -RRB- were purportedly seized from them , the police are now on the lookout for some more members of the module . . . At a press conference , Delhi Police Commissioner Neeraj Kumar said the Special Cell had smashed the IM module behind the Pune blasts , which were masterminded by alleged outfit founder-brothers Riyaz and Iqbal Bhatkal to avenge the killing of suspected IM member Qateel Siddique in Punes Yerwada Jail by two other jail inmates on June 8 . . . The police chief said the vital lead came from Zabiuddin Ansari alias Abu Jundal , one of the alleged handlers of the 26/11 Mumbai attack terrorists deported from Saudi Arabia in June . . . Jundal disclosed that plans were afoot to target major Indian cities . He was in touch with the Lashkar-e-Taiba militant Fayyaz Qagzi from Beed in Maharashtra who is now in a west Asian country . Mr. Qagzi was coordinating with Riyaz and Iqbal of Indian Mujahideen , now in Pakistan , to carry out the strikes , said Mr. Kumar . . . The police claim they identified the IM module hideout at Pul Prahladpur in South Delhi from where Asad Khan -LRB- 33 -RRB- , a resident of Aurangabad , and Imran Khan -LRB- 31 -RRB- , a resident of Nanded in Maharashtra , were arrested on September 26 . . . The accused disclosed that they had come here at the instance of Mr. Qagzi and the Bhatkal brothers , with the objective of triggering blasts at crowded places . The suspects were first received at the Nehru Place in South Delhi by a conduit codenamed Raju Bhai , who had taken the Pul Prahladpur house on rent and made arrangements for their long stay . . . The accused disclosed that they , along with other members , were involved in the Pune blasts . One of them , identified as Sayed Feroz -LRB- 38 -RRB- from Pune , was then arrested at the Nizamuddin railway station on October 1 , said Mr. Kumar . . . The trio purportedly disclosed that the module first planned to plant a bomb at the Yerwada Jail or the city court premises or target relatives of the two jail inmates who had allegedly killed Mr. Siddique . Heavy police presence at the jail and court premises , coupled with their failure to identify the inmates relatives , led them to weigh the possibility of carrying out a strike in Mumbai or Pune . . . As instructed , the suspects met at Asads tour and travel office in Aurangabad in July , following which Mr. Feroz took a flat on rent at Kasarwadi in Pune . Two other suspects joined them later . . . They brought explosives and electronic items for assembling IEDs from an electrical/electronic market in Budhwarpeth , Pune . They also bought digital watches and circuit boards , while ball bearings were brought by Imran from Nanded . The accused conducted reconnaissance of certain places in Mumbai , but the Bhatkal brothers later fixed it for Pun . . . The module finally identified the citys busy Junglee Maharaj Road , and on the fateful day , the accused bought three bicycles , parked them at a stand close to a bus-stand and in the evening , planted half-a-dozen IEDs along the road before vanishing from the scene . . . Mr. Feroz owns a garment shop named Options in the busy Mominpura area of Pune , where he also stays with his family . While his house was found locked , neighbours refused to speak but confirmed that he stayed with his wife and four children . . . His business partner Mohsin said Mr. Feroz was in the city till September-end . We met him about 10-12 days ago . After that he has not been in town , he said . Mohsin said he had known Mr. Feroz for the last three years , and had not suspected anything about him till date . It is a shock for all of us to see that he has been arrested . Maybe , his wife and kids have left the house as journalists started coming in , he said adding that Mr. Feroz usually travelled to source the material from other cities but this time he did not know why he went out of Pune . . . -LRB- With inputs from Amruta Byatnal from Pune -RRB- .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "pune", 
+        "Pune"
+    ], 
+    "O": [
+        "IED:68", 
+        "police:77", 
+        "Asian country:220", 
+        "half-a-dozen IEDs:630"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/three-suspected-indian-mujahideen-terrorists-held-in-delhi/article3987241.ece?homepage=true", 
+    "date": "01-08-2012", 
+    "target": "", 
+    "hot_spot": "Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi Police", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "24", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "110", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "134", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "206", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "232", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "257", 
+            "Accused"
+        ]
+    ]
+}

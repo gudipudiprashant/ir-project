@@ -1,0 +1,123 @@
+{
+    "LOC": [
+        [
+            "DIPHU", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "ASSAM", 
+            "3", 
+            "Event"
+        ], 
+        [
+            "Karbi Anglong", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Diphu", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Bokajan", 
+            "56", 
+            "Neutral"
+        ], 
+        [
+            "Karbi Anglong", 
+            "58", 
+            "Event"
+        ], 
+        [
+            "Diphu", 
+            "103", 
+            "Event"
+        ], 
+        [
+            "Chirabazaar", 
+            "119", 
+            "Event"
+        ], 
+        [
+            "Diphu", 
+            "157", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 33"
+    ], 
+    "death": "1", 
+    "title": "One killed, 19 injured in militant attacks in Assam", 
+    "org_unorg": "", 
+    "terror_group": [
+        "KARBI LONGRI N.C. HILLS LIBERATION FRONT", 
+        "KUKI REVOLUTIONARY ARMY"
+    ], 
+    "content": "DIPHU -LRB- ASSAM -RRB- : One person was killed and 19 others were injured in two separate incidents of violence by militants in Assam 's Karbi Anglong district and Diphu town on Friday . One person was killed and 10 others injured when cadres of the Kuki Revolutionary Army opened fire at a village near Bokajan in Karbi Anglong district in the evening , police said . The militants escaped after the incident . In another attack , nine persons including two policemen were injured in a bomb blast triggered by the Karbi Longri NC Hills Liberation Front -LRB- KLNLF -RRB- in Diphu town . Police said the militants had hidden the bomb inside a polythene bag at Chirabazaar in the heart of the town . Some persons noticed the bag and informed police who sealed the area but the bomb exploded , injuring nine persons . The injured were taken to the Civil Hospital in Diphu .", 
+    "injured": "19", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Karbi Anglong", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "One person:6", 
+        "killed:9", 
+        "19 others were injured:11", 
+        "two separate incidents:16", 
+        "militants:22", 
+        "One person was killed:35", 
+        "10 others injured:40", 
+        "opened fire:50", 
+        "village:54", 
+        "militants escaped:69", 
+        "another attack:76", 
+        "nine persons:79", 
+        "including two policemen:81", 
+        "injured:85", 
+        "bomb blast triggered:88", 
+        "polythene bag:116", 
+        "informed police:133", 
+        "sealed the area:136", 
+        "bomb exploded:141", 
+        "injuring nine persons:144"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/One-killed-19-injured-in-militant-attacks-in-Assam/articleshow/2272828.cms", 
+    "date": "08-08-2007", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Kuki Revolutionary Army", 
+            "47", 
+            "Accused"
+        ], 
+        [
+            "Karbi Longri NC Hills Liberation Front", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "Civil Hospital", 
+            "154", 
+            "Others"
+        ]
+    ]
+}

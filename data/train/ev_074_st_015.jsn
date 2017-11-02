@@ -1,0 +1,93 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Golaghat", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Naujan", 
+            "52", 
+            "Neutral"
+        ], 
+        [
+            "Sugajan", 
+            "54", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Trikal Rabha", 
+            "64", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "1 am : 57", 
+        "6am : 109"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday morning : 27"
+    ], 
+    "death": "5", 
+    "title": "Blast in Rajdhani Express in Assam, 5 killed", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "GUWAHATI : Five people were killed and four others injured in a bomb blast in a Delhi-bound Rajdhani Express in Assam 's Golaghat district early on Thursday morning . . . The explosion , carried out by suspected militants , happened in the luggage van of the 2423A Dibrugarh-Guwahati-Delhi Rajdhani between Naujan and Sugajan at around 1 am , North Eastern railway CPRO Trikal Rabha said . . . Five people died on the spot while the four injured were rushed to Golaghat Civil hospital . The luggage van was damaged as well as small portion of track . . . The train resumed its journey at around 6am after passengers in the affected van were shifted to a 3 tier AC boggie . Top railway officials have rushed to the site .", 
+    "injured": "4", 
+    "org_unorg": "", 
+    "O": [
+        "bomb blast:13", 
+        "rajdhani express:18", 
+        "explosion:33", 
+        "militants:39", 
+        "luggage van:44", 
+        "dibrugarh-guwahati-delhi rajdhani:49", 
+        "died:72", 
+        "injured:79", 
+        "luggage van:88", 
+        "train:103", 
+        "ac boggie:122", 
+        "railway:126"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2007-12-13/news/28464884_1_bomb-blast-luggage-van-rajdhani-express", 
+    "date": "13-12-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "North Eastern railway", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "Golaghat Civil hospital", 
+            "83", 
+            "Others"
+        ]
+    ]
+}

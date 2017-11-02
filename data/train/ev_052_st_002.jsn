@@ -1,0 +1,70 @@
+{
+    "LOC": [
+        [
+            "Rishikesh", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Dehradun", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Dehradun", 
+            "23", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "S Bhagel", 
+            "50", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "2 am:43", 
+        "am:44"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:17", 
+        "Friday morning:17"
+    ], 
+    "death": "2", 
+    "title": "Two killed in bomb explosion in Dehradun: Police", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two persons were killed when a bomb exploded in a bus at Rishikesh in Dehradun on Friday morning , police said in Dehradun . . . The bus driver and conductor were blown to pieces in the blast which occurred at around 2 am , superintendent of police S S Bhagel said . . . The explosion occurred after the passengers had alighted , he said.Bureau Report .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "killed:4", 
+        "bomb:7", 
+        "blast:38", 
+        "explosion:57"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/home/two-killed-in-bomb-explosion-in-dehradun-police_7440.html", 
+    "date": "26-01-2001", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

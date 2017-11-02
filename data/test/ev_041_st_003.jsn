@@ -1,0 +1,146 @@
+{
+    "LOC": [
+        [
+            "GNB Road", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "49", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh .", 
+            "49", 
+            "Neutral"
+        ], 
+        [
+            "Shankar Glass House", 
+            "75", 
+            "Event"
+        ], 
+        [
+            "Chabua", 
+            "221", 
+            "Source"
+        ], 
+        [
+            "Dibrugarh", 
+            "223", 
+            "Source"
+        ], 
+        [
+            "Tinsukia", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "233", 
+            "Source"
+        ], 
+        [
+            "Lekhapni", 
+            "270", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "272", 
+            "Source"
+        ], 
+        [
+            "Upper Assam", 
+            "291", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kishan Minda", 
+            "81", 
+            "Others"
+        ], 
+        [
+            "Hemkanta Changmai", 
+            "266", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "evening : 32"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Three hurt in Tinsukia bomb blast", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Tinsukia", 
+        "guwahati", 
+        "Tinsukia,GNB Road"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASOM "
+    ], 
+    "content": "Jorhat , Jan. 2 : Three persons were injured , one of them critically , in a grenade explosion on the busy GNB Road in the heart of Tinsukia town this evening . . . One of the injured was shifted to Assam Medical College and Hospital , Dibrugarh . . . Police sources said suspected Ulfa militants , who came in a blue Maruti van , threw the grenade at a shop , Shankar Glass House , owned by Kishan Minda . But the grenade missed the target and exploded outside the shop , damaging glass panes . A car parked near the shop was also damaged . . . An eyewitness said , A car stopped in front of Shankar Glass House and one person got down to buy potatoes from a roadside vendor . As soon as he got back into the car , they threw the grenade and fled . . . The police have tightened security in and around the town and are trying to locate the vehicle in which the militants were suspected to have come . . . Earlier in the day , troops of the armys 18 Jat regiment recovered an improvised explosive device ( IED ) , wrapped in a white polythene bag , from a Tata Winger passenger vehicle at Chabua in Dibrugarh district . The vehicle was going from Tinsukia to Dibrugarh . . . The police have detained eight persons , including a woman , for questioning . . . In another incident , army troops apprehended an Ulfa militant , identified as Hemkanta Changmai , at Lekhapni in Dibrugarh district today . An AK-81 was recovered from him . . . Security forces have intensified vigil in Upper Assam given the recent spurt in Ulfa activity . The forces are also on the alert in the area for Maoists .", 
+    "injured": "3", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Police:53", 
+        "IED:204", 
+        "white polythene bag:210"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1120103/jsp/northeast/story_14954408.jsp#.VtfaDYSli1E", 
+    "date": "02-01-2012", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "Tinsukia,GNB Road", 
+    "delivery_mod": "SHOP", 
+    "delivery_met": "THROWN", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "Assam Medical College and Hospital", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "Ulfa", 
+            "57", 
+            "Accused"
+        ], 
+        [
+            "Shankar Glass House", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "armys 18 Jat regiment", 
+            "194", 
+            "Others"
+        ], 
+        [
+            "Ulfa", 
+            "261", 
+            "Accused"
+        ], 
+        [
+            "Ulfa", 
+            "298", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "LOC": [
+        [
+            "hotel", 
+            "192", 
+            "Event"
+        ], 
+        [
+            "Jewish center", 
+            "233", 
+            "Neutral"
+        ], 
+        [
+            "British", 
+            "293", 
+            "Neutral"
+        ], 
+        [
+            "British", 
+            "302", 
+            "Neutral"
+        ], 
+        [
+            "Taj", 
+            "325", 
+            "Neutral"
+        ], 
+        [
+            "Oberoi-Trident", 
+            "328", 
+            "Neutral"
+        ], 
+        [
+            "Jewish center", 
+            "336", 
+            "Neutral"
+        ], 
+        [
+            "southern Mumbai", 
+            "339", 
+            "Neutral"
+        ], 
+        [
+            "Oberoi-Trident hotel", 
+            "360", 
+            "Neutral"
+        ], 
+        [
+            "Jewish center", 
+            "364", 
+            "Neutral"
+        ], 
+        [
+            "Jewish center", 
+            "421", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "429", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "431", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "452", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "494", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "500", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "525", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "JK Dutt", 
+            "10", 
+            "Comment"
+        ], 
+        [
+            "Dutt", 
+            "44", 
+            "Comment"
+        ], 
+        [
+            "Dutt", 
+            "98", 
+            "Comment"
+        ], 
+        [
+            "Pranab Mukherjee", 
+            "510", 
+            "Comment"
+        ], 
+        [
+            "Shah Mehmood Qureshi", 
+            "516", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 35", 
+        "five hours : 39", 
+        "night : 89", 
+        "night : 248", 
+        "evening : 380"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday , Nov. 29 : 22", 
+        "Friday : 88", 
+        "Wednesday : 247", 
+        "Friday : 352", 
+        "Wednesday : 379", 
+        "2006 : 466", 
+        "Friday : 492"
+    ], 
+    "death": "1", 
+    "title": "India Blames Pakistan as Mumbai Siege Ends", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "`` The hotel is under our control , '' JK Dutt , chief of the National Security Guard commandos , said Saturday , Nov. 29 , after fierce combat that began early in the morning and lasted nearly five hours . . . Dutt added that the commandoes had killed three terrorists after an intense gun battle inside the hotel . One commando was killed during the assault in the 565-room hotel . Some 200 national security guards were involved in the operation . . . Through Friday night , the terrorists engaged in intermittent battles . Dutt said terrorists had set fires at different places in the hotel as diversionary tactics whenever they found the forces closing in on them . . . Security forces still had to complete their final searches of the hotels . . `` There was a lot of shooting . Grenades were lobbed and explosives were used by terrorists , '' he said . . . The security chief said operations would be declared over only after the conclusion of room-to-room searches to ensure that there were no remaining terrorists or live explosives inside the hotel . . . `` We are also looking for surviving guests who could have locked themselves in rooms and have not been coming out for fear of terrorists , '' he said . . . Rescue operations at hotels , Jewish center . . In all , nearly 200 people have been killed since Wednesday night when a group of militants carried out a series of coordinated attacks in India 's commercial capital . At least 22 of the dead were non-Indian national . Several hundred more people have been injured . . . The terrorists reportedly targeted individuals carrying British and American passports . Five Americans and one British citizen have been reported among the foreign victims . . . In addition to other sites , the gunmen had seized the Taj and the Oberoi-Trident , both five-star hotels , and a Jewish center in southern Mumbai . . . The National Security Guard and military commandoes on Friday managed to end the siege at the Oberoi-Trident hotel and the Jewish center by killing two militants in each operation . . . The horror began Wednesday evening with coordinated attacks at multiple locations . . At least 30 bodies were found at the hotel , 20 of whom were massacred in one of the restaurants , officials said . Five hostages were murdered by militants at the Jewish center . . . Tension rises between India , Pakistan . . A previously unknown group calling itself the Decca Mujahedeen claimed responsibility for the attacks -- the worst in Mumbai since more than 180 people were killed in a series of bombings in 2006 . . . Indian security agencies have said they suspect that Pakistan-based militant groups like the Lashkar-e-Toiba had a hand in the carnage . On Friday , Delhi blamed `` elements '' in Pakistan for the attacks . . . Indian Foreign Minister Pranab Mukherjee told visiting Pakistani counterpart Shah Mehmood Qureshi that `` outrages '' like the Mumbai attack would make progress in the bilateral peace process `` impossible . '' .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        "southern Mumbai"
+    ], 
+    "O": [
+        "gun battle:56", 
+        "Grenades:147", 
+        "American passports:295", 
+        "Indian Foreign Minister:507"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.dw.com/en/india-blames-pakistan-as-mumbai-siege-ends/a-3835517", 
+    "date": "26-11-2008", 
+    "target": "HOTEL", 
+    "hot_spot": "southern Mumbai", 
+    "delivery_mod": "HOTEL", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Security Guard commandos", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "Security forces", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "345", 
+            "Others"
+        ], 
+        [
+            "Decca Mujahedeen", 
+            "441", 
+            "Accused"
+        ], 
+        [
+            "Indian security agencies", 
+            "470", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Toiba", 
+            "483", 
+            "Accused"
+        ]
+    ]
+}

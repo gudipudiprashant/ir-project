@@ -1,0 +1,160 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "104", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "223", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "248", 
+            "Neutral"
+        ], 
+        [
+            "Kanpur", 
+            "250", 
+            "Neutral"
+        ], 
+        [
+            "Indore", 
+            "252", 
+            "Neutral"
+        ], 
+        [
+            "Indore", 
+            "292", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "307", 
+            "Neutral"
+        ], 
+        [
+            "Kanpur", 
+            "309", 
+            "Neutral"
+        ], 
+        [
+            "Indore", 
+            "311", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "396", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "21", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "P. Chidambaram", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "Chidambaram", 
+            "201", 
+            "Others"
+        ], 
+        [
+            "Shiv Shanker Menon", 
+            "416", 
+            "Others"
+        ], 
+        [
+            "G.K. Pillai", 
+            "422", 
+            "Others"
+        ], 
+        [
+            "K.C. Verma", 
+            "427", 
+            "Others"
+        ], 
+        [
+            "Rajiv Mathur", 
+            "432", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:24", 
+        "Saturday:112", 
+        "February 17:294"
+    ], 
+    "death": "", 
+    "title": "Manmohan reviews situation", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "After a detailed review of the internal security situation in the wake of bomb blast in Pune , Prime Minister Manmohan Singh on Sunday directed the Union and Maharashtra governments to take coordinated and effective action to speedily investigate the terror attack . . . Dr. Singh who discussed the situation with Home Minister P. Chidambaram , directed speedy investigation so that the culprits responsible for this heinous act are identified and brought to justice at the earliest , a spokesman of the Prime Ministers Office said . The Prime Minister was briefed by the Home Minister about investigations being carried out in Pune in the aftermath of the blast on Saturday . . . The Prime Minister expressed his deepest condolences and sympathies to the families of all those killed and injured in the incident and announced relief from the Prime Ministers National Relief Fund of Rs . 2 lakh to the next of kin of those killed , and Rs . 1 lakh to those injured . He said that the government would extend whatever help was required by the families of those killed and injured in the incident . . . Earlier in the day , Mr. Chidambaram presided over a high-level meeting in the Home Ministry which reviewed the security situation across the country in the wake of Pune bomb blast in which nine persons were killed and 32 injured . . . The Home Ministry sounded an alert in three cities - Delhi , Kanpur and Indore - following inputs from intelligence agencies that public places in these cities may be on the radar screen of terrorists . The opposition Bharatiya Janata Party -LRB- BJP -RRB- is scheduled to hold its three-day national executive meeting in Indore from February 17 . . . We have intelligence inputs that terrorists may target Delhi , Kanpur and Indore . We have shared the information with all concerned and asked the state governments to take necessary action , a Home Ministry official said . . . A general advisory has already been sent to all states asking them to take necessary security steps in crowded localities , railway stations , bus terminals , vital installations , airports and other places . . . Preliminary probe has revealed that RDX and ammonium nitrate were used in the explosion that ripped through German bakery in Pune . . . The high-level security review meeting at the Home Ministry was attended by the National Security Adviser Shiv Shanker Menon , Home Secretary G.K. Pillai , RAW chief K.C. Verma , IB Director Rajiv Mathur and other senior officials of the Ministry .", 
+    "injured": "32", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        "Pune"
+    ], 
+    "O": [
+        "Prime Minister:19", 
+        "Home Minister:53", 
+        "government:174", 
+        "RDX:381", 
+        "ammonium nitrate:383"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/article106482.ece", 
+    "date": "13-02-2010", 
+    "target": "", 
+    "hot_spot": "Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maharashtra governments", 
+            "29", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "276", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "280", 
+            "Others"
+        ]
+    ]
+}

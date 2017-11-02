@@ -1,0 +1,291 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "NEW DELHI", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Karol Bagh", 
+            "56", 
+            "Event"
+        ], 
+        [
+            "Connaught Place", 
+            "67", 
+            "Event"
+        ], 
+        [
+            "Greater Kailash", 
+            "79", 
+            "Event"
+        ], 
+        [
+            "Connaught Place",
+            "118", 
+            "Event"
+        ], 
+        [
+            "Connaught Place", 
+            "146", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "238", 
+            "Event"
+        ], 
+        [
+            "Karol Bagh", 
+            "296", 
+            "Event"
+        ], 
+        [
+            "Barakhamba Road", 
+            "465", 
+            "Event"
+        ], 
+        [
+            "Central Park", 
+            "477", 
+            "Event"
+        ], 
+        [
+            "Connaught Place", 
+            "506", 
+            "Event"
+        ], 
+        [
+            "Greater Kailash", 
+            "549", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sonia Gandhi", 
+            "235", 
+            "Others"
+        ], 
+        [
+            "Sheila Dikshit", 
+            "241", 
+            "Others"
+        ], 
+        [
+            "Puran Kumar", 
+            "351", 
+            "Others"
+        ], 
+        [
+            "Puran", 
+            "417", 
+            "Others"
+        ], 
+        [
+            "Nanak", 
+            "424", 
+            "Comment"
+        ], 
+        [
+            "Deepak", 
+            "498", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "6.10 p.m.:59", 
+        "6.10 : 109", 
+        "6.40 p.m.:111", 
+        "6.35 p.m.:472", 
+        "five minutes : 487", 
+        "6.30 p.m.:554", 
+        "6.40 p.m.:557"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:46"
+    ], 
+    "death": "20", 
+    "title": "20 killed as 5 bomb explosions rock Delhi", 
+    "org_unorg": "", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Delhi Bureau . . 100 injured in marketplace blasts ; Indian Mujahideen claims responsibility for terror attacks . . NEW DELHI : Twenty people were killed and about 100 injured in a series of five bomb explosions that rocked busy marketplaces in the Capital on Saturday . . . The first explosion took place at Karol Bagh at 6.10 p.m. ; two bombs were triggered at Connaught Place ; and two more in the bustling M-Block market of Greater Kailash . . . Initial investigations revealed that the improvised explosive devices were configured using ammonium nitrate . Timer devices were used for synchronising the explosions that occurred between 6.10 and 6.40 p.m. Eight persons were killed at Connaught Place and a live bomb was defused outside the Regal cinema in the heart of the Capital . Two more bombs were found at Central Park at Connaught Place and at India Gate . . . In an e-mail to the media , the terror outfit , Indian Mujahideen , claimed responsibility for the explosions . . . A red alert was sounded in the Capital . . . While the Centre announced an ex gratia of Rs . 3 lakh each for the next of kin of the deceased , the State government announced Rs . 5 lakh for each of the dead , besides Rs .50,000 for those injured . . . Congress president Sonia Gandhi and Delhi Chief Minister Sheila Dikshit visited the injured at the Ram Manohar Lohia Hospital . . . The injured were rushed to the Ram Manohar Lohia , Sir Ganga Ram , Jessa Ram , Lady Hardinge and Lok Nayak Jaya Prakash Narayan hospitals . Some were taken to the All-India Institute of Medical Sciences . . . At Karol Bagh , the bomb was kept in or near a three-wheeler . The blast ripped the vehicle apart . An autorickshaw parked nearby was tossed in the air and it fell on the other side of the road . A woman sitting in the vehicle and several bystanders were seriously injured . . . Puran Kumar , whose relatives were injured in the blast , said he was in his house when he heard a loud explosion . I rushed out and saw badly injured people lying on the road writhing in pain and screaming for help . Among them were some of my relatives . Initially , we thought that it was a cylinder blast , said a shocked Puran . . . Another resident , Nanak , said : A woman lay near the autorickshaw with her face smashed . All that was left on her face were her two eyes . . . A bomb kept in a dustbin near Gate No. 1 of the Barakhamba Road metro station went off around 6.35 p.m. . . In Central Park , a bomb kept in a bin exploded five minutes later , causing injuries to over 40 people . Deepak , who runs a garment shop in Connaught Place , said he himself rushed over a dozen injured people to hospital . Most of the injured were women and children . . . Two low-intensity bombs planted in a dustbin and on a cycle in the busy M-Block Market of Greater Kailash went off at 6.30 p.m. and 6.40 p.m. . A woman was injured .", 
+    "injured": "100", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        ""
+    ], 
+    "O": [
+        "marketplace blasts:8", 
+        "claims:13", 
+        "responsibility:14", 
+        "terror attacks:16", 
+        "killed:26", 
+        "injured:30", 
+        "series of five bomb explosions:33", 
+        "rocked:39", 
+        "busy marketplaces:40", 
+        "Capital:44", 
+        "first explosion:51", 
+        "two bombs:62", 
+        "triggered:65", 
+        "bustling M-Block market:75", 
+        "investigations:85", 
+        "improvised explosive devices:89", 
+        "ammonium nitrate:95", 
+        "Timer devices:98", 
+        "synchronising:103", 
+        "explosions:105", 
+        "Eight persons:113", 
+        "killed:116", 
+        "bomb:123", 
+        "defused:125", 
+        "Regal cinema:128", 
+        "Capital:135", 
+        "bombs:139", 
+        "Central Park:143", 
+        "India Gate:150", 
+        "e-mail:157", 
+        "media:160", 
+        "terror outfit:163", 
+        "claimed responsibility:169", 
+        "explosions:173", 
+        "red alert:178", 
+        "sounded:181", 
+        "Capital:184", 
+        "Centre announced:190", 
+        "ex gratia of Rs . 3 lakh:193", 
+        "kin:205", 
+        "deceased:208", 
+        "announced:213", 
+        "Rs . 5 lakh:214", 
+        "dead:222", 
+        "Rs .50,000:225", 
+        "injured:229", 
+        "injured:245", 
+        "Ram Manohar Lohia Hospital:248", 
+        "injured:256", 
+        "rushed:258", 
+        "bomb:300", 
+        "three-wheeler:307", 
+        "blast:310", 
+        "vehicle:313", 
+        "autorickshaw:317", 
+        "tossed:321", 
+        "woman:337", 
+        "vehicle:341", 
+        "bystanders:344", 
+        "seriously injured:346", 
+        "relatives:355", 
+        "injured:357", 
+        "blast:360", 
+        "loud explosion:372", 
+        "rushed:376", 
+        "badly injured:380", 
+        "road writhing:386", 
+        "pain:389", 
+        "screaming:391", 
+        "relatives:401", 
+        "cylinder blast:411", 
+        "autorickshaw:433", 
+        "face smashed:436", 
+        "bomb:454", 
+        "dustbin:458", 
+        "Gate No. 1:460", 
+        "Barakhamba Road metro station:465", 
+        "bomb:481", 
+        "bin exploded:485", 
+        "injuries:492", 
+        "garment shop:503", 
+        "rushed:512", 
+        "injured:516", 
+        "hospital:519", 
+        "injured:524", 
+        "Two low-intensity bombs:532", 
+        "dustbin:538", 
+        "cycle:542", 
+        "busy M-Block Market:545", 
+        "injured:563"
+    ], 
+    "unexpl": [
+        "TIMER"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/20-killed-as-5-bomb-explosions-rock-delhi/article1337975.ece", 
+    "date": "13-09-2008", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Delhi Bureau", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "11", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "166", 
+            "Accused"
+        ], 
+        [
+            "State government", 
+            "211", 
+            "Others"
+        ], 
+        [
+            "Ram Manohar Lohia Hospital", 
+            "248", 
+            "Others"
+        ], 
+        [
+            "Ram Manohar Lohia", 
+            "261", 
+            "Others"
+        ], 
+        [
+            "Sir Ganga Ram", 
+            "265", 
+            "Others"
+        ], 
+        [
+            "Jessa Ram", 
+            "269", 
+            "Others"
+        ], 
+        [
+            "Lady Hardinge", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "Lok Nayak Jaya Prakash Narayan hospitals", 
+            "275", 
+            "Others"
+        ], 
+        [
+            "All-India Institute of Medical Sciences", 
+            "287", 
+            "Others"
+        ]
+    ]
+}

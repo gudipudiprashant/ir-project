@@ -1,0 +1,204 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "43", 
+            "Neutral"
+        ], 
+        [
+            "Nalbari", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "Nalbari", 
+            "69", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "270", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "301", 
+            "Neutral"
+        ], 
+        [
+            "Dhaka", 
+            "449", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Hira Sarania", 
+            "223", 
+            "Comment"
+        ], 
+        [
+            "Sashadhar Choudhury", 
+            "441", 
+            "Others"
+        ], 
+        [
+            "Chitraban Hazarika", 
+            "446", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 73", 
+        "10 a.m.:94"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:72"
+    ], 
+    "death": "7", 
+    "title": "7 killed, 55 injured in two Assam bomb blasts", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Nalbari", 
+        "Guwahati", 
+        "Nalbar"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Sushanta Talukdar . . Police suspect that it is the handiwork of ULFA . . ULFA desperate to show its strength after arrests , say police . . Caller tells TV channels that ULFA is not involved in the blasts . . Guwahati : Seven people were killed and 55 , including minor children , injured in two bicycle-bomb blasts in Nalbari , headquarters town of lower Assams Nalbari district on Sunday morning . . . The first blast occurred just near the Nalbari Police Station in the heart of the town around 10 a.m. , injuring several people . As a huge crowd of market-goers gathered to help the injured and to witness the blast after-effects , another powerful blast occurred soon a few feet away from the first blast site . . . Five people died on the spot in the second blast and over 50 were injured , several critically . Two people died later in hospitals here . . . About 30 seriously injured were admitted to the Gauhati Medical College and Hospital -LRB- GMCH -RRB- and other hospitals . . . Police suspect that the blasts were the handiwork of the United Liberation Front of Asom -LRB- ULFA -RRB- . . . However , a caller , identifying himself as self-styled commander of the ULFAs 709 Battalion Hira Sarania , told three local television news channels that the outfit was not involved in the blasts . . . The caller alleged that the blasts could be the handiwork of vested interests to sabotage a fresh move by the Peoples Committee for Peace Initiative in Assam -LRB- PCPIA -RRB- , a conglomerate of civil society groups for brokering peace dialogue between the ULFA and the government . . . A PCPIA delegation is now camping in New Delhi to impress upon the Union government to initiate the stalled peace process with the ULFA . . . A senior police officer , who declined to be quoted on the ground that investigations were still on , told The Hindu that whether the ULFA denied it or not , the police suspected the twin blasts to be the handiwork of the militant outfit . . . Two improvised bicycle-bombs were triggered by the ULFA . In the past too , we had recovered similar bicycle-bombs of the ULFA . After triggering the blasts in a public place , the ULFA is in a denial mode , fearing public outcry against it , he said . . . The police also suspect that the ULFA was desperate to show its strength following the arrest of its self-styled foreign secretary Sashadhar Choudhury and finance secretary Chitraban Hazarika in Dhaka , now in custody of the Assam police .", 
+    "injured": "55", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "government:290", 
+        "police:421", 
+        "Assam police:456"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/7-killed-55-injured-in-two-assam-bomb-blasts/article146341.ece", 
+    "date": "22-11-2009", 
+    "target": "", 
+    "hot_spot": "Nalbar,market", 
+    "delivery_mod": "BICYCLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "16", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "Nalbari Police", 
+            "84", 
+            "Others"
+        ], 
+        [
+            "Gauhati Medical College and Hospital", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "Gauhati", 
+            "173", 
+            "Accused"
+        ], 
+        [
+            "GMCH", 
+            "179",
+	    "Others"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "197", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "203", 
+            "Accused"
+        ], 
+        [
+            "Peoples Committee for Peace Initiative", 
+            "264", 
+            "Others"
+        ], 
+        [
+            "PCPIA", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "287", 
+            "Accused"
+        ], 
+        [
+            "PCPIA", 
+            "295", 
+            "Others"
+        ], 
+        [
+            "Union government", 
+            "307", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "317", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "341", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "346", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "376", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "390", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "402", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "426", 
+            "Accused"
+        ]
+    ]
+}

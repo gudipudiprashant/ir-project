@@ -1,0 +1,182 @@
+{
+    "LOC": [
+        [
+            "Godhra", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Godhra", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "130", 
+            "Event"
+        ], 
+        [
+            "Dani Limda", 
+            "153", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "213", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "Chamanpura", 
+            "247", 
+            "Assoc_Event"
+        ], 
+        [
+            "Godhra", 
+            "330", 
+            "Event"
+        ], 
+        [
+            "Naroda-Patiya", 
+            "411", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "433", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "437", 
+            "Assoc_Event"
+        ], 
+        [
+            "Godhra", 
+            "451", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ehsan Jafri", 
+            "270", 
+            "Accused"
+        ], 
+        [
+            "B. N. Jani", 
+            "305", 
+            "Others"
+        ], 
+        [
+            "Prabhudas Mochi", 
+            "372", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "evening : 15", 
+        "evening : 41", 
+        "30 minutes : 102"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "February 28:250"
+    ], 
+    "death": "", 
+    "title": "Bomb blasts in Godhra, Ahmedabad", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least six persons were injured in bomb blasts in Godhra and Ahmedabad this evening . Police said four persons were severely injured when a powerful bomb went off in a State road transport bus at the Godhra terminus this evening . The bomb exploded soon after the bus , coming from a nearby village , was parked at the terminus . Four persons standing nearby were hit by splinters . The condition of three of the injured is stated to be critical . . . Police said the blast could have caused more casualties if the bomb had gone off 30 minutes later , when thousands of people were expected to assemble in the adjacent ground for the ` Ravan-dahan '' celebrations on Dussehra . . . In Ahmedabad , two persons were injured in a blast while scraps were being loaded in a truck at a scrap market in the Dani Limda locality . The bomb apparently came with the scrap materials , but police could not say if it was planted intentionally . Both the injured have been declared out of danger . . . Incidentally , the bomb blasts took place a day after a section of the minorities observed a ` bandh '' in various parts of Gujarat , protesting against the remarks by an American preacher against Islam . . . Meanwhile , the Ahmedabad City Sessions Court has filed chargesheets against 23 accused in the Gulmarg Society incident of Chamanpura locality on February 28 , in which more than 30 persons , including the former Congress member of the Lok Sabha , Ehsan Jafri , were burnt alive . . . The charges against the accused include unlawful assembly , looting , rape , arson and murder . Framing the chargesheets , the Additional Sessions Judge , B. N. Jani , observed that the accused had gathered outside the Society with the intention of murdering Muslims , in the aftermath of the Godhra train carnage . The accused were also charged with raising provocative slogans and instigating a mob of about 20,000 people to attack the residential colony and set people afire . A specific charge of rape was framed against a person , Prabhudas Mochi . The court held that at least two women were raped in Gulmarg Society . . . It was the first chargesheet filed in the Gulmarg Society case . The chargesheets in the other heinous crime in Naroda-Patiya locality on the same day was filed earlier . More than 120 people were burnt alive in the two incidents in Ahmedabad on the ` Gujarat bandh '' day called by the Vishwa Hindu Parishad to protest against the Godhra carnage .", 
+    "injured": "6", 
+    "org_unorg": "", 
+    "O": [
+        "bomb blasts:8", 
+        "severely injured:22", 
+        "powerful bomb:26", 
+        "State road transport bus:32", 
+        "Godhra terminus:38", 
+        "bomb exploded:44", 
+        "splinters:70", 
+        "Police:87", 
+        "Ravan-dahan:121", 
+        "Dussehra:125", 
+        "blast:138", 
+        "scraps:140", 
+        "truck:146", 
+        "scrap market:149", 
+        "scrap materials:163", 
+        "bomb blasts:192", 
+        "bandh:207", 
+        "American preacher:221", 
+        "Islam:224", 
+        "chargesheets:237", 
+        "23 accused:239", 
+        "Gulmarg Society:243", 
+        "Lok Sabha:267", 
+        "burnt alive:274", 
+        "looting:288", 
+        "rape:290", 
+        "arson:292", 
+        "murder:294", 
+        "Society:317", 
+        "Muslims:323", 
+        "Godhra train carnage:330", 
+        "accused:335", 
+        "raising provocative slogans:340", 
+        "instigating a mob:344", 
+        "residential colony:354", 
+        "Gulmarg Society:386", 
+        "Gulmarg Society:399", 
+        "heinous crime:408", 
+        "Gujarat bandh:437", 
+        "Godhra carnage:451"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2002/10/16/stories/2002101606670100.htm", 
+    "date": "15-10-2002", 
+    "target": "TRANSPORT BUS", 
+    "hot_spot": "", 
+    "delivery_mod": "SCRAP MATERIALS", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Ahmedabad City Sessions Court", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "263", 
+            "Others"
+        ], 
+        [
+            "Vishwa Hindu Parishad", 
+            "444", 
+            "Others"
+        ]
+    ]
+}

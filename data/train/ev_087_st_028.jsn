@@ -1,0 +1,162 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Delhi", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Delhi high court", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Bangladesh-based", 
+            "116", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "218", 
+            "Neutral"
+        ], 
+        [
+            "Delhi high court", 
+            "218", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "237", 
+            "Neutral"
+        ], 
+        [
+            "Parliament House", 
+            "262", 
+            "Victim"
+        ], 
+        [
+            "Delhi", 
+            "397", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "RK Singh", 
+            "41", 
+            "Others"
+        ], 
+        [
+            "Afzal Guru", 
+            "148", 
+            "Accused"
+        ], 
+        [
+            "UK Bansal", 
+            "271", 
+            "Others"
+        ], 
+        [
+            "S C Sinha", 
+            "326", 
+            "Others"
+        ], 
+        [
+            "P Chidambaram", 
+            "343", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "10.15 am:36"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:27", 
+        "May:234", 
+        "May 25:234", 
+        "September:373", 
+        "September 13:373", 
+        "2008:376"
+    ], 
+    "death": "11", 
+    "title": "Black Wednesday: Blast at Delhi high court kills 11, injures 76", 
+    "org_unorg": "", 
+    "terror_group": [
+        "HUJI"
+    ], 
+    "content": "NEW DELHI : Eleven people were killed and at least 76 others were injured in a powerful blast outside Delhi high court gate number 5 on Wednesday morning . The blast took place at around 10.15 am . Home secretary RK Singh told reporters the explosives were placed in a briefcase at the high court reception where hundreds of people come through every day to attend court cases . At the time of explosion around 200 people , mostly litigants were present at the gate in a quee to get their passes made to enter the court . There were several lawyers also present at the site . Later , a mail purportedly written by Bangladesh-based terror outfit Harkat-ul-Jehadi Islami -LRB- HuJI -RRB- was sent to some media houses claiming responsibility . The mail claimed the explosion was carried out to demand repeal of death sentence of Afzal Guru , a condemned prisoner in Parliament attack . The government is investigating the email . Severed limbs and pieces of flesh lay strewn on the ground where there were pools of blood after the deafening explosion that dug a small crater outside the reception area . CCTVs to monitor visitors were not reportedly installed . This is for the second time in less than four months that the Delhi high court has been targeted . No one was injured in the previous explosion on May 25 . Delhi Police have released sketches of two people suspected of planting the bomb in a suitcase outside the court , just two km away from Parliament House . Special secretary -LRB- Internal Security -RRB- UK Bansal said preliminary probe indicated possible use of nitrate-based explosives laced with PETN . PETN , short for pentaerythritol trinitrate , is a chemical explosive that has a long history of terrorist use . The probe into the blast was handed over by Government to the National Investigation Agency -LRB- NIA -RRB- whose Chief S C Sinha said a 20-member team headed by a DIG has been formed . Home minister P Chidambaram said the blast was of ` high intensity ' and called it a ` terrorist attack ' . The previous major terror attack in the Capital was on September 13 , 2008 when a series of five synchronised bomb blasts took place within a span of few minutes at various locations in Delhi . 30 people were killed and over 100 injured in this strike . -LRB- With inputs from PTI -RRB- .", 
+    "injured": "76", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "high court:21", 
+        "home secretary:39", 
+        "high court:54", 
+        "parliament:155", 
+        "Parliament:155", 
+        "government:159", 
+        "email:163", 
+        "CCTVs:196", 
+        "high court:219", 
+        "explosion:232", 
+        "Parliament:262", 
+        "secretary:266", 
+        "security:269", 
+        "petn:284", 
+        "petn:286", 
+        "pentaerythritol trinitrate:290", 
+        "chemical explosive:295", 
+        "government:315", 
+        "Home minister:341", 
+        "pti:415"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Black-Wednesday-Blast-at-Delhi-high-court-kills-11-injures-76/articleshow/9899248.cms?referral=PM", 
+    "date": "07-09-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "PETN"
+    ], 
+    "ORG": [
+        [
+            "Harkat-ul-Jehadi Islami", 
+            "119", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "122", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "318", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "322", 
+            "Others"
+        ]
+    ]
+}

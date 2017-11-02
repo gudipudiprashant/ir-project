@@ -1,0 +1,232 @@
+{
+    "LOC": [
+        [
+            "Burdwan", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "58", 
+            "Neutral"
+        ], 
+        [
+            "Bengal", 
+            "87", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "101", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "121", 
+            "Event"
+        ], 
+        [
+            "Murshidabad", 
+            "128", 
+            "Accused"
+        ], 
+        [
+            "Beldanga", 
+            "131", 
+            "Accused"
+        ], 
+        [
+            "Bengal", 
+            "182", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "215", 
+            "Neutral"
+        ], 
+        [
+            "Bengal", 
+            "324", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "328", 
+            "Neutral"
+        ], 
+        [
+            "Dhaka", 
+            "330", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "345", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "363", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shakil Ahmed aka Shakil Gazi", 
+            "89", 
+            "Victim"
+        ], 
+        [
+            "Subir Bhaumik", 
+            "205", 
+            "Comment"
+        ], 
+        [
+            "Manash Ghosh", 
+            "243", 
+            "Others"
+        ], 
+        [
+            "Shiekh Hasina", 
+            "334", 
+            "Comment"
+        ], 
+        [
+            "Ghosh", 
+            "368", 
+            "Comment"
+        ], 
+        [
+            "Sheikh Hasina", 
+            "388", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:104", 
+        "2005:350", 
+        "October:405", 
+        "October 2:405"
+    ], 
+    "death": "1", 
+    "title": "Experts Suggest Joint Venture Between Indian and Bangladeshi Terror Outfits in Burdwan Blast", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Burdwan"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN", 
+        "AL-UMAR-MUJAHIDEEN", 
+        "AL JIHAD", 
+        "JAMAAT-E-MUJAHIDEEN"
+    ], 
+    "content": "The building in Burdwan where an explosion occurred on October 2Kolkata : The blast in West Bengal 's Burdwan district has raised a question in intelligence circles . Is there a joint venture between Bangladeshi and Indian terror outfits ? Most experts say the answer is a resounding yes . If the external outfit is the Jamaat-e-Mujahideen Bangladesh -LRB- JMB -RRB- , what are some of the Indian groups linked to it , groups which have helped JMB set up its network and bomb-making units in Bengal ? Shakil Ahmed aka Shakil Gazi , the man who died in the Burdwan blast on October 2 , is believed to be a Bangladeshi . Before setting up the bomb-making unit in Burdwan , he used to live in Murshidabad district 's Beldanga with his wife and child , where he ran a burqa-making factory.Interrogation of his widow , who was arrested from the blast site , and intelligence inputs suggest he was a member of the JMB which entered into a joint venture with Indian terror groups to set up shop in Bengal . `` This was definitely a joint venture between at least two groups of terrorists , if not three , '' says Subir Bhaumik , a journalist who has been a long-time Bangladesh watcher . `` The JMB was definitely involved , from all evidence , This was actually something that was happening over a period of time . `` Manash Ghosh of the Statesman newspaper agreed as well . `` No doubt about it . It is absolutely sure . I hope our investigating agencies are able to unearth the nexus . On the ground , we can see it happening , '' said Mr Ghosh.Names of many Indian terror groups have surfaced in connection with the blasts , including the Indian Mujahideen , Al Jihad , Al Ummah and even SIMI.But why would JMB want to make bombs in Bengal for export to Bangladesh ? Dhaka watchers suggest that Shiekh Hasina made it impossible for the JMB to function in Bangladesh after is ban in 2005 . `` It was getting too hot for Jamaat to operate in Bangladesh , '' said Mr Ghosh . `` Many of their cadres were getting killed in crossfire , in encounters with rapid action battalions of Sheikh Hasina government . `` A probe by the National Investigation Agency is currently underway into the October 2 blast . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Bangladeshi and Indian:35", 
+        "Indian:68", 
+        "Bangladeshi:112", 
+        "bomb-making:118", 
+        "Indian terror:174", 
+        "terrorists:197", 
+        "journalist:209"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/experts-suggest-joint-venture-between-indian-and-bangladeshi-terror-outfits-in-burdwan-blast-683391", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Jamaat-e-Mujahideen", 
+            "57", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "60", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "78", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "166", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "220", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "305", 
+            "Accused"
+        ], 
+        [
+            "Al Jihad", 
+            "308", 
+            "Accused"
+        ], 
+        [
+            "Al Ummah", 
+            "311", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "JMB", 
+            "318", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "341", 
+            "Accused"
+        ], 
+        [
+            "Jamaat", 
+            "359", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "390", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "397", 
+            "Others"
+        ]
+    ]
+}

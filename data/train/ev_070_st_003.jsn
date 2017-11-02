@@ -1,0 +1,146 @@
+{
+    "LOC": [
+        [
+            "HYDERABAD", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "Nagpur", 
+            "23", 
+            "Source"
+        ], 
+        [
+            "Maharashtra", 
+            "25", 
+            "Neutral"
+        ], 
+        [
+            "Bibinagar", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Nalgonda", 
+            "32", 
+            "Neutral"
+        ], 
+        [
+            "Nagpur", 
+            "68", 
+            "Source"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "79", 
+            "Source"
+        ], 
+        [
+            "Nagpur", 
+            "85", 
+            "Source"
+        ], 
+        [
+            "Bibinagar", 
+            "130", 
+            "Neutral"
+        ], 
+        [
+            "Sai Baba temple", 
+            "193", 
+            "Event"
+        ], 
+        [
+            "Saifabad", 
+            "257", 
+            "Neutral"
+        ], 
+        [
+            "Sultanbazar", 
+            "259", 
+            "Neutral"
+        ], 
+        [
+            "Lumbini Park", 
+            "296", 
+            "Event"
+        ], 
+        [
+            "Gokul Chat", 
+            "299", 
+            "Event"
+        ], 
+        [
+            "Mecca masjid", 
+            "320", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "N. Indrasena Reddy", 
+            "211", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:35", 
+        "2002 : 200"
+    ], 
+    "death": "", 
+    "title": "Special teams for Nagpur", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "Hyderabad", 
+        "Dilsukhnagar"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . One person reportedly held in city . . HYDERABAD : Special teams of the city police left for Nagpur in Maharashtra and made inquiries in Bibinagar of Nalgonda district on Sunday for leads about the accused involved in the twin terror attacks . . . After forensic experts confirmed that Ammonium Nitrate-based emulsifier explosive substance , which was manufactured by Amin Explosives in Nagpur , was used to make a live bomb found at Dilsukhnagar , a team rushed to Nagpur to ascertain facts . . . While sources maintained that a person was taken into custody there for questioning , the city police officials here refused to divulge details about it . . . Speculation rife . . Another police team conducted inquiries at Bibinagar on a tip-off that the small iron balls used in the live bomb were purchased from a shop there . . . Several persons earlier accused of moving around with the accused persons involved in cases of terrorist activities were being grilled . . . Speculation was rife that some accused , who came out from jail on bail , connected to Sai Baba temple blast case reported in 2002 and arrested on charge of plotting to assassinate BJP leader N. Indrasena Reddy were behind the twin blasts . . . The police officials , however , remained tight lipped except saying that they would crack the mystery behind the explosions soon . . . Cases registered . . Two separate cases by the police of Saifabad and Sultanbazar were registered under sections 302 -LRB- murder -RRB- , 307 -LRB- attempt to murder -RRB- , 120-B -LRB- criminal conspiracy -RRB- and sections 3 and 5 of Explosive Substances Act in connection with the blasts at Lumbini Park and Gokul Chat . . . Both the cases were being transferred to Special Investigation Cell -LRB- SIC -RRB- investigating into the Mecca masjid blast case . . . Forensic experts from National Security Guards of Delhi and other agencies visited the blast site and collected samples for analysis .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "amin explosives:65", 
+        "small iron balls:136"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/special-teams-for-nagpur/article1899783.ece", 
+    "date": "21-11-2002", 
+    "target": "TEMPLE", 
+    "hot_spot": "Dilsukhnagar", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "city police", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "209", 
+            "Others"
+        ], 
+        [
+            "SIC", 
+            "315", 
+            "Others"
+        ], 
+        [
+            "National Security Guards of Delhi", 
+            "330", 
+            "Others"
+        ]
+    ]
+}

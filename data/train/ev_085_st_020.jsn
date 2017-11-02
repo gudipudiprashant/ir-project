@@ -1,0 +1,169 @@
+{
+    "LOC": [
+        [
+            "VARANASI", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Dashashwamedh Ghat", 
+            "21", 
+            "Victim"
+        ], 
+        [
+            "Sir Sunder Lal -LRB- SSL -RRB- Hospital", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Phoolwati", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Damoh district", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Damoh district", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Damoh", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "SSL Hospital", 
+            "98", 
+            "Neutral"
+        ], 
+        [
+            "Dasashwamedh Ghat", 
+            "185", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Phoolwati", 
+            "8", 
+            "Victim"
+        ], 
+        [
+            "Sir Sunder", 
+            "30", 
+            "Others"
+        ], 
+        [
+            "officer Dr Kundan Kumar", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "officer Dr", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "Dr Kundan Kumar", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "one-year-old Swastika Sharma", 
+            "150", 
+            "Others"
+        ], 
+        [
+            "Swastika Sharma", 
+            "151", 
+            "Others"
+        ], 
+        [
+            "Phoolwati", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "son Somnath", 
+            "172", 
+            "Others"
+        ], 
+        [
+            "son Somnath Tiwari", 
+            "172", 
+            "Others"
+        ], 
+        [
+            "Somnath Tiwari", 
+            "173", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "December 7:17", 
+        "December:17", 
+        "Saturday:47", 
+        "Tuesday:56", 
+        "Saturday morning:128", 
+        "Saturday:128", 
+        "Saturday morning:128"
+    ], 
+    "death": "", 
+    "title": "Varanasi blast victim succumbs", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "VARANASI : One more victim identified as Phoolwati -LRB- 50 -RRB- , seriously injured in the December 7 blast at Dashashwamedh Ghat and was admitted to the ICU of Sir Sunder Lal -LRB- SSL -RRB- Hospital , Banaras Hindu University , succumbed to her injuries on Saturday . With this , the death toll in Tuesday 's blast has gone up to two . Phoolwati , from Damoh district of Madhya Pradesh , had gone to the Ghat to attend the Ganga Aarti . She suffered serious head injuries in the blast and was rushed to the SSL Hospital . According to SSL chief medical officer Dr Kundan Kumar , she could not regain consciousness even after surgery and her condition deteriorated . ` She died on Saturday morning and her body was sent for postmortem , ' he said . The blast had also claimed the life of one-year-old Swastika Sharma . At least 37 people , including four foreigners , were injured . Talking to reporters , Phoolwati 's son Somnath Tiwari said his mother wanted to watch the Ganga Aarti on Dasashwamedh Ghat and had come to the city for the purpose . ` Hopefully , the ghats of the city would now witness strict security arrangements to check recurrence of such incidents , ' he said .", 
+    "injured": "41", 
+    "org_unorg": "", 
+    "O": [
+        "dashashwamedh ghat:21", 
+        "icu:28", 
+        "ssl:34", 
+        "ghat:78", 
+        "ganga aarti:82", 
+        "ssl hospital:98", 
+        "ssl:103", 
+        "postmortem:136", 
+        "ganga aarti:182", 
+        "dasashwamedh ghat:185"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/varanasi/Varanasi-blast-victim-succumbs/articleshow/7085941.cms", 
+    "date": "07-12-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Banaras Hindu University", 
+            "38", 
+            "Others"
+        ]
+    ]
+}

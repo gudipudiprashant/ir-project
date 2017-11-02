@@ -1,0 +1,115 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Vijayawada", 
+            "49", 
+            "Neutral"
+        ], 
+        [
+            "Lumbini Park", 
+            "109", 
+            "Event"
+        ], 
+        [
+            "Gokul Chat", 
+            "121", 
+            "Event"
+        ], 
+        [
+            "Kothi", 
+            "124", 
+            "Event"
+        ], 
+        [
+            "Lumbini Park", 
+            "167", 
+            "Event"
+        ], 
+        [
+            "Gokul Chat", 
+            "170", 
+            "Event"
+        ], 
+        [
+            "Anand Tiffin Centre", 
+            "177", 
+            "Accused"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "6.50 p.m.:38", 
+        "five years : 152"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday evening : 19", 
+        "August 25 , 2007 : 102", 
+        "Thursdays : 136"
+    ], 
+    "death": "13", 
+    "title": "The Hindu Archive: 13 killed, 83 injured as twin blasts rock Hyderabad", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two powerful explosions ripped through crowded areas at Dilsukhnagar in the eastern part of the State capital on Thursday evening , killing 13 persons and injuring more than 83 . . . The first blast occurred at 6.50 p.m. on the citys busiest road that links it with Vijayawada ; as terrified people were scampering to safety , the second blast went off . . . Authorities say the explosions were caused by improvised explosive devices that could have been kept on bicycles or packed inside frames of bicycles . . . The twin blasts brought back painful memories of the August 25 , 2007 IED attacks in Lumbini Park , in front of the State secretariat , and at Gokul Chat in Kothi that killed 44 people . . . Incidentally , one of Thursdays blasts took place near a crowded foot over-bridge , where security forces defused an IED five years ago . The device was to go off along with the blasts in Lumbini Park and Gokul Chat . . . Eyewitnesses at Anand Tiffin Centre , near the spot where the first blast took place , said someone began shouting about a bomb going off . Even as confused people watched , the IED detonated .", 
+    "injured": "83", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hydrabad", 
+        "Lumbini Park and Gokul Chat at Kothi"
+    ], 
+    "O": [
+        "Two powerful explosions:1", 
+        "crowded areas:6", 
+        "first blast:34", 
+        "citys busiest road:42", 
+        "terrified people:52", 
+        "scampering:55", 
+        "safety:57", 
+        "second blast:60", 
+        "Authorities:67", 
+        "explosions:70", 
+        "improvised explosive devices:74", 
+        "bicycles:83", 
+        "frames of bicycles:87", 
+        "twin blasts:94", 
+        "painful memories:98", 
+        "IED attacks:106", 
+        "blasts:137", 
+        "crowded foot over-bridge:142", 
+        "security forces:147", 
+        "defused:149", 
+        "IED:151", 
+        "device:157", 
+        "blasts:165", 
+        "Eyewitnesses:175", 
+        "first blast:186", 
+        "shouting:194", 
+        "bomb:197", 
+        "confused:203", 
+        "IED detonated:208"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/cities/Hyderabad/twin-blasts-rattle-hyderabad/article4439367.ece?homepage=true", 
+    "date": "21-02-2013", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "BICYCLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": []
+}

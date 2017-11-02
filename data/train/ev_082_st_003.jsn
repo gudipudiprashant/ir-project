@@ -1,0 +1,192 @@
+{
+    "LOC": [
+        [
+            "Agartala", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Bhati-Avoynagar", 
+            "95", 
+            "Accused"
+        ], 
+        [
+            "Agartala", 
+            "97", 
+            "Event"
+        ], 
+        [
+            "Khowai", 
+            "127", 
+            "Accused"
+        ], 
+        [
+            "West Tripura", 
+            "129", 
+            "Accused"
+        ], 
+        [
+            "Bangladesh", 
+            "162", 
+            "Source"
+        ], 
+        [
+            "Munshighat", 
+            "166", 
+            "Accused"
+        ], 
+        [
+            "Chittagong", 
+            "169", 
+            "Accused"
+        ], 
+        [
+            "Sylhet", 
+            "190", 
+            "Source"
+        ], 
+        [
+            "Sidhai", 
+            "203", 
+            "Source"
+        ], 
+        [
+            "Sylhet", 
+            "207", 
+            "Source"
+        ], 
+        [
+            "Agartala", 
+            "212", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shanti Debbarma", 
+            "47", 
+            "Accused"
+        ], 
+        [
+            "Angad Santhal", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "Bikash Debbarma", 
+            "60", 
+            "Accused"
+        ], 
+        [
+            "Bikash", 
+            "115", 
+            "Accused"
+        ], 
+        [
+            "Bikash", 
+            "142", 
+            "Accused"
+        ], 
+        [
+            "Bikash", 
+            "221", 
+            "Accused"
+        ], 
+        [
+            "Bikash", 
+            "230", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 1:5", 
+        "October:5", 
+        "Wednesday:38", 
+        "October 11:92", 
+        "October 13:133"
+    ], 
+    "death": "", 
+    "title": "ATTF behind Agartala serial blasts: CID", 
+    "det_loc": [
+        "India", 
+        "Tripura", 
+        "Dhalai District", 
+        "Agartala", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The mystery behind the October 1 serial blasts in Agartala that left 100 injured has been solved with the police zeroing in on the outlawed All Tripura Tiger Forceand arresting the mastermind , the CID said on Wednesday . . . Two arrested overground ATTF activists Shanti Debbarma and Angad Santhal first provided the lead during interrogation that 25-year-old Bikash Debbarma belonging to the outfit masterminded the blasts , CID sources said . . . Based on the information provided by the duo , the police raided a rented house on October 11 at Bhati-Avoynagar in Agartala and seized bomb-making material and the cover of the SIM cards used in the blasts , but Bikash had already escaped . . . He was subsequently arrested from Khowai in West Tripura district on October 13 , the sources said . . . Bikash and another insurgent of the ATTF were trained by the Bangladesh Riflesand DGFIi , the intelligence wing of the Bangladesh Army , at Munshighat , near Chittagong two months ago , the sources said . . . The explosives used were supplied from ATTF base camps in Sylhet district . They were transported by a collaborator of the ATTF from Sidhai area , bordering Sylhet , 40 km from Agartala , and taken to the house rented by Bikash , according to the sources . . . Bikash used a mobile phone to trigger the blasts himself , the sources added . .", 
+    "injured": "100", 
+    "org_unorg": "", 
+    "O": [
+        "serial blasts in Agartala:7", 
+        "arresting the mastermind:30", 
+        "interrogation:57", 
+        "outfit masterminded the blasts:65", 
+        "raided a rented:87", 
+        "seized bomb-making material:99", 
+        "SIM cards used in the blasts:107", 
+        "Bangladesh Riflesand DGFIi:153", 
+        "intelligence wing of the Bangladesh Army:158", 
+        "mobile phone to trigger the blasts:233"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2008/oct/15agar.htm", 
+    "date": "01-10-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "MOBILE PHONE", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "All Tripura Tiger Forceand", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "CID", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "ATTF", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "CID", 
+            "70", 
+            "Others"
+        ], 
+        [
+            "ATTF", 
+            "148", 
+            "Accused"
+        ], 
+        [
+            "DGFIi", 
+            "155", 
+            "Others"
+        ], 
+        [
+            "ATTF", 
+            "186", 
+            "Accused"
+        ], 
+        [
+            "ATTF", 
+            "201", 
+            "Accused"
+        ]
+    ]
+}

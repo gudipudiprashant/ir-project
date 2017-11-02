@@ -1,0 +1,93 @@
+{
+    "LOC": [
+        [
+            "Samjhauta Express", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Diwana railway station", 
+            "104", 
+            "Neutral"
+        ], 
+        [
+            "Panipat", 
+            "108", 
+            "Neutral"
+        ], 
+        [
+            "Haryana", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "UP", 
+            "173", 
+            "Neutral"
+        ], 
+        [
+            "Delhi junction railway station", 
+            "175", 
+            "Event"
+        ], 
+        [
+            "Attari", 
+            "183", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "190", 
+            "Neutral"
+        ], 
+        [
+            "Attari", 
+            "194", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 91"
+    ], 
+    "death": "", 
+    "title": "Samjhauta Express fire caused by bombs: Railway probe", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The explosion of bombs in two compartments of the Samjhauta Express had caused the fire on the train and the death of 68 passengers , a probe by the commissioner of Railway Safety has found . . . A statutory inquiry by the commissioner of Railway Safety , Northern Circle , said the fire was caused by the explosion of bombs kept on the upper racks near the door in two coaches -- GS 03431 and GS 14857 -- of 4001 UP Attari Special , an official release said on Monday . . . The fire had started when the train was at Diwana railway station near Panipat in Haryana , it said . . . The commissioner also suggested several measures to be adopted to tighten security , including indentification of baggage in all trains and review of design of coaches to provide for quick emergency exits in case of fire . . . It also recommended that there should be strict baggage check of the train passengers travelling by 4001 UP at Delhi junction railway station as is done at Attari since the train after starting from Delhi stops only at Attari . . . It also wanted vestibuling of all coaches , as it would be of great help to passengers if they wanted to move to safety in case of fire .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        "Attari,Samjhauta Express"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://ushome.rediff.com/news/2007/mar/26samblast.htm", 
+    "date": "26-03-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "Attari,Samjhauta Express", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "UP Attari Special", 
+            "82", 
+            "Others"
+        ]
+    ]
+}

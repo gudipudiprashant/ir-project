@@ -1,0 +1,83 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "19", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Madhukar Gupta", 
+            "71", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "121", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "24", 
+    "title": "Home Ministry sounds nation-wide alert", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : The Union Home Ministry tonight sounded a nation-wide alert following the serial bomb blasts in Jaipur killing over two dozen and injuring scores . ` The Home Ministry is keeping a close watch on the situation in the Pink City , ' a senior MHA official said , adding that an alert has been sounded in all states . Senior Home Ministry officials , including Home Secretary Madhukar Gupta , immediately got in touch with the state government and asked them to beef up security arrangements . Terrorists set off six bomb blasts at crowded markets in the Walled City within a span of ten minutes killing and wounding several people . MHA spokesman said Home Minister Shivraj Patil , who was on a two-day visit to Northeast , condemned the blasts . He was also in touch with his ministry officials . Bomb data squad of the elite National Security Guards has been rushed to the Pink City .", 
+    "injured": "20", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Union Home Ministry:5", 
+        "nation-wide alert:11", 
+        "serial bomb blasts:15", 
+        "killing over two dozen:20", 
+        "injuring scores:25", 
+        "Home Ministry:30", 
+        "Pink City:42", 
+        "senior MHA official:47", 
+        "Senior Home Ministry officials:63", 
+        "Home Secretary:69", 
+        "Terrorists:91", 
+        "six bomb blasts:94", 
+        "crowded markets:98", 
+        "Walled City:102", 
+        "ten minutes:108", 
+        "MHA spokesman:116", 
+        "Home Minister:119"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Home-Ministry-sounds-nation-wide-alert/articleshow/3037212.cms?", 
+    "date": "13-05-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Security Guards", 
+            "153", 
+            "Others"
+        ]
+    ]
+}

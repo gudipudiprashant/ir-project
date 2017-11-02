@@ -1,0 +1,68 @@
+{
+    "LOC": [
+        [
+            "Bareilly", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Moradabad", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Chandausi", 
+            "57", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "8.05 p.m.:40"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Bomb blast in train", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least 10 persons were injured tonight when a bomb exploded in a New Delhi-bound train from Bareilly in Moradabad district of Uttar Pradesh , a Northern Railway spokesman said . . . The blast took place at around 8.05 p.m. in a sleeper class compartment of the Bareilly-New Delhi passenger train which was at the Chandausi station . The condition of one of the injured was serious , the spokesman added . . . The coach in which the explosion took place was detached from the train before it resumed its onward journey . Senior railway officials rushed to the site with relief and rescue teams . PTI .", 
+    "injured": "10", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "", 
+        "Moradabad", 
+        "Moradabad"
+    ], 
+    "O": [
+        "northern railway:27"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2002/07/04/stories/2002070407320100.htm", 
+    "date": "03-07-2002", 
+    "target": "RAILWAY STATION", 
+    "hot_spot": "Moradabad", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "PTI .", 
+            "109", 
+            "Others"
+        ]
+    ]
+}

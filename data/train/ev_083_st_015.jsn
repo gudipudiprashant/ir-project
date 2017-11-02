@@ -1,0 +1,226 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "2", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "32", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "34", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "99", 
+            "Neutral"
+        ], 
+        [
+            "Moscow", 
+            "124", 
+            "Neutral"
+        ], 
+        [
+            "UN", 
+            "167", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "274", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "279", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "326", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "340", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "354", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "358", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "370", 
+            "Neutral"
+        ], 
+        [
+            "Kashmiri", 
+            "403", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "426", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "438", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "497", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "499", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "George Bush", 
+            "38", 
+            "Others"
+        ], 
+        [
+            "Barack Obama", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "Condoleezza Rice", 
+            "73", 
+            "Comment"
+        ], 
+        [
+            "Dmitry Medvedev", 
+            "126", 
+            "Comment"
+        ], 
+        [
+            "Ban Ki-moon", 
+            "169", 
+            "Others"
+        ], 
+        [
+            "Gordon Brown", 
+            "178", 
+            "Comment"
+        ], 
+        [
+            "Manhoman", 
+            "215", 
+            "Others"
+        ], 
+        [
+            "David Miliband", 
+            "234", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "297", 
+            "Others"
+        ], 
+        [
+            "Shah Mehmood Qureshi", 
+            "431", 
+            "Others"
+        ], 
+        [
+            "Miliband", 
+            "460", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "464", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "479", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "1971 : 361", 
+        "December 2001 : 374", 
+        "Wednesday : 440"
+    ], 
+    "death": "", 
+    "title": "Attacks draw worldwide condemnation", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Mumbai attacks drew widespread international condemnation as cowardly acts of terrorism . But beneath the stock responses was an undercurrent of anxiety that the atrocity could aggravate latent tensions between India and Pakistan . . . George Bush offered his condolences to the Indian people as the White House convened a meeting of top intelligence and counter-terrorism officials . President-elect Barack Obama was briefed by the US secretary of state , Condoleezza Rice , and said in a statement : `` These coordinated attacks on innocent civilians demonstrate the grave and urgent threat of terrorism . The US must continue to strengthen partnerships with India and nations around the world to root out and destroy terrorist networks . '' . . In Moscow President Dmitry Medvedev said : `` We are concerned about the loss of life and consider acts of terrorism of this type are harmful to the whole international order and a challenge to humanity . '' . . The Pope and the UN secretary-general Ban Ki-moon both deplored the violence . . . Gordon Brown said : `` I think I speak for the whole world - shocked and outraged at the tragic destruction of innocent lives . I have already sent my sympathy and support to prime minister [ Manhoman ) Singh . We will do everything we can to help the Indian government . '' . . David Miliband , the foreign secretary , condemned `` a callous inhuman and indiscriminate attack on people of all races and all religions '' . He said : `` This is an attack on all of us because democracy in India is vibrant and because Mumbai is one of the world 's most diverse cities . '' . . Comments by prime minister Singh blaming the attacks on a terrorist group with `` external linkages '' rang alarm bells that echoed the dark days of India-Pakistan relations when India routinely saw a Pakistan hand in militant attacks , blaming groups it claimed were set up by Pakistan 's spy agency , the Inter-Services Intelligence , or ISI , to avenge Pakistan 's defeat by India in the 1971 war . . . A terrorist attack on India 's parliament in December 2001 triggered a mass mobilisation along the two countries ' borders and brought them close to a fourth war . That incident was blamed by India on Pakistan-based Kashmiri militant groups . . . Pakistan 's government strongly condemned the violence and expressed deep sorrow over the loss of life . Pakistan 's foreign minister , Shah Mehmood Qureshi , who arrived in India on Wednesday , condemned the attacks but warned against jumping to any conclusions about the background to them . . . Miliband paid tribute to Singh , saying : `` I believe that the comments and leadership of prime minister Singh show that he is a man also of great statesmanship and great determination to build links between India and Pakistan . '' . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "White House:49"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.theguardian.com/world/2008/nov/28/mumbai-terror-attacks-international-response", 
+    "date": "26-11-2008", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian government", 
+            "228", 
+            "Others"
+        ], 
+        [
+            "Inter-Services Intelligence", 
+            "346", 
+            "Others"
+        ], 
+        [
+            "ISI", 
+            "350", 
+            "Others"
+        ], 
+        [
+            "Pakistan 's government", 
+            "409", 
+            "Others"
+        ]
+    ]
+}

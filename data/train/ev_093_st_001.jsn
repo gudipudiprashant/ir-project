@@ -1,0 +1,115 @@
+{
+    "LOC": [
+        [
+            "GAYA", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "78", 
+            "Neutral"
+        ], 
+        [
+            "Gaya", 
+            "96", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Buddha", 
+            "186", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "5.30 am : 42", 
+        "6 am : 45", 
+        "Forensic experts : 75"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday : 26", 
+        "2002 : 143"
+    ], 
+    "death": "", 
+    "title": "5 injured in multiple blasts at Mahabodhi temple in Bodh Gaya", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "GAYA : Five people including two tourists were injured in a serial blast near Mahabodhi temple complex at Bodh Gaya 110 km from Patna on Sunday morning . According to Gaya police , the blasts took place in quick succession between 5.30 am and 6 am in the temple complex and near Mahabodhi tree . Senior police officers , including DIG of Magadh range , have reached the world heritage site Mahabodhi temple . Forensic experts from Patna too have rushed . Two Tibetan pilgrims who have been injured are admitted in AM College at Gaya , police said . CRPF personnel and fire tenders have been rushed to the spot . Mahabodhi temple had been on the hit list of the terrorists and IB had sent an alert last week . The temple was named a Unesco world heritage site in 2002 . It houses the holy bodhi tree as well as the giant Mahabodhi statue of Buddha , and multiple shrines marking the places where he is believed to have spent time after his enlightenment . After his meditations beneath the tree , Buddha is said to have devoted the rest of his life to teaching and he founded an order of monks before dying aged 80 .", 
+    "injured": "5", 
+    "org_unorg": "", 
+    "O": [
+        "Five people:3", 
+        "two tourists:6", 
+        "serial blast:12", 
+        "Mahabodhi temple complex:15", 
+        "110 km:21", 
+        "morning:27", 
+        "Gaya police:31", 
+        "blasts:35", 
+        "quick succession:39", 
+        "temple complex:49", 
+        "near Mahabodhi tree:52", 
+        "Senior police officers:56", 
+        "DIG:61", 
+        "Magadh range:63", 
+        "Two Tibetan pilgrims:83", 
+        "fire tenders:104", 
+        "Mahabodhi temple:113", 
+        "hit list of the terrorists:119", 
+        "alert last week:129", 
+        "Unesco world heritage site:138", 
+        "holy bodhi tree:148", 
+        "giant Mahabodhi statue of Buddha:155"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/patna/5-injured-in-multiple-blasts-at-Mahabodhi-temple-in-Bodh-Gaya/articleshow/20951736.cms?", 
+    "date": "07-07-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AM College", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "101", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "125", 
+            "Others"
+        ]
+    ]
+}

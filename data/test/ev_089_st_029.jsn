@@ -1,0 +1,104 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "81", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "89", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "167", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "179", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "186", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "197", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "R R Patil", 
+            "95", 
+            "Comment"
+        ], 
+        [
+            "Patil", 
+            "118", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 10", 
+        "evening : 91", 
+        "evening : 134"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Security stepped up in Delhi, Mumbai following Hyderabad blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Security was stepped up in the national capital today evening in the wake of the serial blasts in Hyderabad . . . A senior Delhi Police official said the personnel of the force have been alerted and they were keeping a tight vigil on the city . . . We are always on alert . There is nothing to panic , the official said . . . High alert in Mumbai . . A high alert has been sounded across Maharashtra in the wake of the blasts in Hyderabad this evening , Home Minister R R Patil said . . . I have spoken to senior police officials and directed them to beef up security , Mr. Patil said . . . The Home Minister reviewed the security situation in the State this evening , official sources said . . . Police have been asked to keep a vigil on suspicious activity and persons in view of the blasts . . . Security stepped up in Bangalore . . Police today sounded a high alert in parts of Karnataka , including IT hub of the Bangalore City in the wake of serial bomb blasts that rocked Hyderabad . . . Security has been stepped up in sensitive areas , Railway and Bus stations , police said .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "TELANGANA", 
+        "", 
+        "", 
+        "Hyderabad"
+    ], 
+    "O": [
+        "Home Minister:93", 
+        "Railway:210", 
+        "Bus stations:212", 
+        "police:215"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/other-states/security-stepped-up-in-delhi-mumbai-following-hyderabad-blasts/article4439460.ece", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "Hyderabad", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi Police", 
+            "25", 
+            "Others"
+        ]
+    ]
+}

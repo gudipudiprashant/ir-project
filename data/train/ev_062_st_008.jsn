@@ -1,0 +1,303 @@
+{
+    "LOC": [
+        [
+            "Hindu temple", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "railway station", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "75", 
+            "Neutral"
+        ], 
+        [
+            "Sankat Mochan temple", 
+            "124", 
+            "Event"
+        ], 
+        [
+            "monkey god Hanuman", 
+            "140", 
+            "Neutral"
+        ], 
+        [
+            "railway station", 
+            "196", 
+            "Event"
+        ], 
+        [
+            "Ganges River", 
+            "235", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "257", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "371", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "378", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "388", 
+            "Neutral"
+        ], 
+        [
+            "Ganges River", 
+            "435", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "452", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "496", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "571", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "632", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "661", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "688", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "706", 
+            "Neutral"
+        ], 
+        [
+            "U.S.", 
+            "726", 
+            "Neutral"
+        ], 
+        [
+            "British", 
+            "728", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "734", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "736", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "761", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "788", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "799", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "843", 
+            "Event"
+        ], 
+        [
+            "Goa", 
+            "871", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bush", 
+            "82", 
+            "Others"
+        ], 
+        [
+            "Navneet Sikera", 
+            "249", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "533", 
+            "Comment"
+        ], 
+        [
+            "Sanjay Baru", 
+            "549", 
+            "Comment"
+        ], 
+        [
+            "Shivraj Patil", 
+            "565", 
+            "Others"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "577", 
+            "Comment"
+        ], 
+        [
+            "Pervez Musharraf", 
+            "758", 
+            "Comment"
+        ], 
+        [
+            "Musharraf", 
+            "809", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 26", 
+        "6 p.m. : 129", 
+        "evening : 176", 
+        "night : 573", 
+        "night : 644"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 25", 
+        "Tuesday : 120", 
+        "Tuesday : 175", 
+        "2002 : 479", 
+        "Tuesday : 572", 
+        "Wednesday : 635", 
+        "Tuesday : 643", 
+        "2001 : 694", 
+        "Oct. 29 : 806", 
+        "Friday : 845"
+    ], 
+    "death": "15", 
+    "title": "Temple, Station Attacked in India", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI , March 7 -- Bombs exploded in a crowded Hindu temple and a railway station in the holy city of Varanasi on Tuesday evening , killing at least 15 people and raising fears of retaliatory violence against India 's minority Muslim population . Authorities appealed for calm and police officers in major cities were placed on high alert . . . Even before the blasts , communal tensions had been rising in India . Angry Muslim protests against President Bush , who visited India last week , as well as against cartoons of the prophet Muhammad , first published in a Danish newspaper , have erupted into violence in several cities . . . The first blast Tuesday ripped through the Sankat Mochan temple shortly after 6 p.m. as Hindu devotees gathered to make offerings to the monkey god Hanuman , Indian news agencies reported . Among the dead was a bridegroom who had come to seek the deity 's blessings , according to the Press Trust of India news service . Tuesday evening is the traditional time for visiting the temple . . . The second explosion came minutes later at the railway station . The blast left a foot-deep crater , shattered windows and splattered the station with blood and body parts , the Press Trust reported . Four more unexploded bombs were found at another site next to the Ganges River . . . In an interview with the Reuters news agency , Navneet Sikera , senior superintendent of police in Varanasi , put the death toll at 15 , with 60 injured . The Press Trust said 20 people had died , including 14 at the train station . [ Five people died overnight of injuries , according to a police official cited by the Associated Press . ) . . Indian television footage of the bombed temple showed pools of blood and chunks of flesh amid scattered shoes and other debris . Injured survivors were carried to private vehicles and ambulances , and crowds of angry men waved their fists in the air . Many of the injured were said to be in critical condition . . . Situated in the state of Uttar Pradesh about 400 miles east of New Delhi , the historic , densely packed city of Varanasi is sometimes called the `` Hindu Jerusalem '' to underscore its significance to the followers of India 's dominant faith , who make up about 81 percent of the population . The city is a magnet for pilgrims who travel there for ritual baths in the Ganges River . And the most religious Hindus believe there is no better place to die than Varanasi , whose waterfront is lined with cremation grounds . . . Authorities feared the bombings of such a sensitive site could trigger communal bloodletting . In 2002 , reports of a Muslim attack on a train carrying Hindu nationalists in the state of Gujarat triggered rioting that left more than 1,000 people dead . Most of the dead in that episode were Muslims , who make up about 13 percent of India 's billion-plus people . . . Prime Minister Manmohan Singh `` has appealed for peace and calm , '' said his media adviser , Sanjay Baru . `` He is constantly monitoring the situation . '' . . Interior minister Shivraj Patil was en route to Varanasi Tuesday night , as was Sonia Gandhi , leader of the Congress party , which heads the country 's governing coalition . . . Spokesmen for the Hindu nationalist Bharatiya Janata Party , which leads the opposition , blamed the bombings on what they said was the government 's lax attitude toward terrorism , and called for a strike in Uttar Pradesh on Wednesday . . . One key unanswered question Tuesday night was whether the bombings were the work of homegrown Islamic extremists or militant groups based in Pakistan . In the past , the Pakistani government has used such groups as a weapon in its conflict with India over the divided Himalayan province of Kashmir . . . In late 2001 , an attack on India 's Parliament that India blamed on Pakistan triggered a military standoff that raised fears of a nuclear exchange . The crisis was defused only under heavy U.S. and British diplomatic pressure . . . India and Pakistan embarked on peace negotiations that have lowered tensions , but Indian officials have continued to express skepticism over claims by Gen. Pervez Musharraf , Pakistan 's president , that he has ended state support for militant groups . Indian authorities have identified the militant group Lashkar-e-Taiba , which is based in Pakistan , as a primary suspect in the bombings of two New Delhi markets that killed 60 people Oct. 29 . Musharraf has banned the group , although it continues to operate under a different name . . . Some analysts saw a possible connection between the bombings and Hindu-Muslim clashes in the city of Lucknow on Friday that left four people dead . The clashes grew out of Muslim protests against Bush . Communal clashes also erupted in the coastal state of Goa . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        "Varanasi"
+    ], 
+    "O": [
+        "police:51", 
+        "prophet Muhammad:97", 
+        "Hindu:132", 
+        "Indian television footage:308", 
+        "Hindu Jerusalem:394"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.washingtonpost.com/wp-dyn/content/article/2006/03/07/AR2006030700961.html", 
+    "date": "07-03-2006", 
+    "target": "TEMPLE", 
+    "hot_spot": "Varanasi", 
+    "delivery_mod": "TEMPLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Danish newspaper", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "Indian news agencies", 
+            "144", 
+            "Others"
+        ], 
+        [
+            "Press Trust of India", 
+            "168", 
+            "Others"
+        ], 
+        [
+            "Press Trust", 
+            "219", 
+            "Others"
+        ], 
+        [
+            "Reuters news agency", 
+            "245", 
+            "Others"
+        ], 
+        [
+            "Press Trust", 
+            "271", 
+            "Others"
+        ], 
+        [
+            "Associated Press", 
+            "302", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "601", 
+            "Others"
+        ], 
+        [
+            "Pakistani government", 
+            "668", 
+            "Others"
+        ], 
+        [
+            "India 's Parliament", 
+            "699", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "782", 
+            "Accused"
+        ]
+    ]
+}

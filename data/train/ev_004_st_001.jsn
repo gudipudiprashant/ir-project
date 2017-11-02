@@ -1,0 +1,137 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Bijni", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Chirang", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "Bijni", 
+            "123", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "166", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bhaskarjyoti Mahanta", 
+            "66", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "11.05:126", 
+        "11.05 a.m.:126", 
+        "three days : 153"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:38"
+    ], 
+    "death": "", 
+    "title": "22 injured in Assam bomb blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Special Correspondent . . Bomb was planted on a cycle . . GUWAHATI : Twenty-two persons were injured when a bomb planted on a cycle went off at a crowded place at Bijni in Chirang district on Thursday . The injured have been admitted to the Lower Assam Hospital at Bongaigaon . . . Suspicion . . Inspector-General of Police -LRB- Law and Order -RRB- Bhaskarjyoti Mahanta told The Hindu that the bomb was suspected to have been planted by the United Liberation Front of Asom -LRB- ULFA -RRB- . The recent arrests and surrender of its cadres might have been forced the ULFA to trigger the blast , he claimed . . . The blast occurred near the circle office at Bijni town around 11.05 a.m. when the place was crowded with office and market-goers . . . Alert . . A general alert was sounded throughout the State for past three days against possible strikes by the militant outfits in different places following Delhi blasts .", 
+    "injured": "21", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Chirang", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "Special Correspondent:1", 
+        "Bomb:5", 
+        "planted:7", 
+        "cycle:10", 
+        "injured:18", 
+        "bomb:21", 
+        "planted:22", 
+        "cycle:25", 
+        "crowded place:30", 
+        "injured:41", 
+        "admitted:44", 
+        "Lower Assam Hospital:47", 
+        "Suspicion:55", 
+        "Law and Order:62", 
+        "bomb:73", 
+        "suspected:75", 
+        "planted:79", 
+        "arrests:93", 
+        "surrender:95", 
+        "cadres:98", 
+        "forced:102", 
+        "trigger:106", 
+        "blast:108", 
+        "claimed:111", 
+        "blast:116", 
+        "circle office:120", 
+        "crowded:132", 
+        "market-goers:136", 
+        "Alert:140", 
+        "alert:145", 
+        "sounded:147", 
+        "State:150", 
+        "strikes:157", 
+        "militant outfits:160", 
+        "blasts:167"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/22-injured-in-assam-bomb-blast/article1341313.ece", 
+    "date": "18-09-2008", 
+    "target": "CROWDED PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "The Hindu", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "82", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "88", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "104", 
+            "Accused"
+        ]
+    ]
+}

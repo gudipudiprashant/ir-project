@@ -1,0 +1,104 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Srirampur checkgate", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Srirampur checkgate", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Halfong", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "NC Hills", 
+            "112", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ashwini Kumar", 
+            "119", 
+            "Others"
+        ], 
+        [
+            "P Duwara", 
+            "122", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "0730 hours : 131"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Eight injured in powerful blast in Assam", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "guwahati", 
+        "Srirampur checkgate"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Guwahati , Jan 22 : A powerful blast rocked Srirampur checkgate at the entrance to Assam injuring eight people , three of them seriously , while suspected Dimasa militants kidnapped two Railway officials today . . . Police said a powerful bomb blast shook the Srirampur checkgate adjacent to West Bengal at around 1130 hours . The bomb was kept in a bicycle which was placed in front of the transport checkgate . . . Eight persons were injured in the explosion , three of them seriously . The injured had been hospitalised . . . In the other incident suspected Dimasa militants barged into a railway complex in Halfong of NC Hills district and kidnapped section engineer Ashwini Kumar and P Duwara . The incident took place at around 0730 hours . . . Meanwhile , security forces have stepped up patrolling all over the state following intelligence report that the ULFA was trying to create trouble before the Republic Day celebration . . . .", 
+    "injured": "8", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Police:38"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/2008/01/22/blast-kidnapping-rock-assam-1200994757.html", 
+    "date": "22-01-2008", 
+    "target": "", 
+    "hot_spot": "Srirampur checkgate", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Dimasa", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "Dimasa", 
+            "102", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "153", 
+            "Accused"
+        ]
+    ]
+}

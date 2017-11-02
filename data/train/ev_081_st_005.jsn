@@ -1,0 +1,206 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "142", 
+            "Neutral"
+        ], 
+        [
+            "Nashik", 
+            "317", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "399", 
+            "Event"
+        ], 
+        [
+            "Upadhyay", 
+            "412", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kulkarni", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "Upadhyay", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "Sameer Kulkarni", 
+            "35", 
+            "Accused"
+        ], 
+        [
+            "Ramesh Upadhyay", 
+            "38", 
+            "Accused"
+        ], 
+        [
+            "Sukhwinder Singh", 
+            "65", 
+            "Comment"
+        ], 
+        [
+            "Kulkarni", 
+            "105", 
+            "Accused"
+        ], 
+        [
+            "Upadhyay", 
+            "110", 
+            "Accused"
+        ], 
+        [
+            "Upadhyay", 
+            "144", 
+            "Accused"
+        ], 
+        [
+            "Singh", 
+            "162", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "196", 
+            "Comment"
+        ], 
+        [
+            "P.G. Patil", 
+            "328", 
+            "Comment"
+        ], 
+        [
+            "Upadhyay", 
+            "339", 
+            "Accused"
+        ], 
+        [
+            "Kulkarni", 
+            "341", 
+            "Accused"
+        ], 
+        [
+            "Sadhvi Pragya Singh Thakur", 
+            "353", 
+            "Others"
+        ], 
+        [
+            "Ajay Misar", 
+            "368", 
+            "Comment"
+        ], 
+        [
+            "Misar", 
+            "410", 
+            "Comment"
+        ], 
+        [
+            "Sadhvi Pragya", 
+            "414", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:73", 
+        "Wednesday:125", 
+        "November 10:132", 
+        "1998:152", 
+        "September 29:397"
+    ], 
+    "death": "", 
+    "title": "ATS: Malegaon blast suspects part of larger conspiracy", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . Police custody for Kulkarni , Upadhyay . . Duo to undergo narco analysis , polygraph tests . . ATS denies torture charge . . Mumbai : The two suspects , Sameer Kulkarni and Ramesh Upadhyay , arrested by the Maharashtra Anti-Terrorism Squad in connection with the Malegaon blast were part of a larger conspiracy , Additional Commissioner -LRB- ATS -RRB- Sukhwinder Singh told a press conference here on Wednesday . . . However , he did not reveal what the larger conspiracy was , stating it was still being investigated . . . The ATS briefing comes a day after Kulkarni , 34 , and Upadhyay , 57 , were arrested . They were produced in a Nashik court on Wednesday and remanded to police custody till November 10 . . . Both suspects are residents of Pune . Upadhyay is an ex-Army officer who retired in 1998 . . . Despite prodding by journalists , Mr. Singh said , We will not share operational details and leads -LSB- with the media -RSB- at the moment . The specific roles of the suspects will be shared later . . . Mr. Singh denied that the suspects were tortured . When journalists pointed out that Upadhyay had mentioned in the court about the use of third degree methods , he categorically refuted the charge . . . The suspects have been charged under Sections 302 -LRB- murder -RRB- , 307 -LRB- attempt to murder -RRB- , 326 -LRB- causing grievous injury with dangerous weapons -RRB- , 120B -LRB- criminal conspiracy -RRB- , 123 -LRB- concealing with intent to facilitate design to wage war -RRB- and 130 -LRB- aiding in escape of , rescuing or harbouring state prisoner -RRB- of the Indian Penal Code , and under Sections of the Unlawful Activities Prevention Act and the Explosives Act . . . PTI reports from Nashik : . . Upholding the ATS plea , civil judge P.G. Patil ordered brain-mapping , narco analysis and polygraph tests on Upadhyay and Kulkarni after the police said one of them was in touch with Sadhvi Pragya Singh Thakur , already held in the case . . . Public prosecutor Ajay Misar said it was necessary to keep the accused in 14-day police custody for investigation as a forensic report revealed the use of explosives like RDX in the September 29 Malegaon blast , which claimed six lives . . . Mr. Misar said Upadhyay and Sadhvi Pragya -LRB- a former office-bearer of the BJP student wing , Akhil Bharatiya Vidyarthi Parishad -RRB- had remained in communication . . . Upadhyay denied meeting her and his involvement in the blast . I shared the dais with the Sadhvi only once and did not have any communication with her for a long time since then . He said : I was in the Army and a patriot and would never involve in any anti-national activities . . . He said : I am a heart patient and if remanded I will need a daily medical check-up .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Nashik", 
+        "Malegaon", 
+        "Malegaon"
+    ], 
+    "O": [
+        "additional commissioner:60", 
+        "police:129", 
+        "indian penal code:294", 
+        "rdx:394"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/article1366080.ece", 
+    "date": "29-10-2008", 
+    "target": "", 
+    "hot_spot": "Malegaon", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ATS", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "Maharashtra Anti-Terrorism Squad", 
+            "44", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "Nashik court", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "314", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "323", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "422", 
+            "Others"
+        ], 
+        [
+            "Akhil Bharatiya Vidyarthi Parishad", 
+            "426", 
+            "Others"
+        ]
+    ]
+}

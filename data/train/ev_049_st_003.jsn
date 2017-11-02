@@ -1,0 +1,67 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Old Delhi", 
+            "39", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "P.K. Srivastava", 
+            "123", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:15", 
+        "Thursday:44", 
+        "Thursday:300"
+    ], 
+    "death": "", 
+    "title": "Hunt on for rly. station blast suspect", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "OLD DELHI", 
+        "Delhi", 
+        "Old Delhi railway station"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "By Our Staff Reporter NEW DELHI , JAN. 7 . The Delhi police on Friday released a sketch of one of the men suspected to be involved in the bomb blast on the Saharanpur-bound Shamli Express at the Old Delhi railway station on Thursday . Police said the accused - who was wearing a grey Pathani suit with a white `` jalidari topi '' -LRB- sieved cap -RRB- was seen in the compartment shortly before the explosion . The suspect is said to be between 20 and 22 years of age , five feet six inches tall , thin built with a fair complexion and sporting a small beard . The Deputy Commissioner of Police -LRB- Crime and Railways -RRB- , Mr. P.K. Srivastava , said the sketch had been prepared with the help of inputs provided by three eyewitnesses . They told police that the suspect , along with two or three of his accomplices , had boarded the train with a cloth bag but alighted soon after . While alighting , he apparently did not have the cloth bag - in which he is said to have carried the explosive - in his hand . The police officer said that in all there were perhaps four young men of similar appearance present in the compartment a little before the explosions took place . `` Since they are not among the injured , nor among the eyewitnesses , we gather that they could have been responsible for the incident . '' . . By Our Staff Reporter . . NEW DELHI , JAN. 7 . The Delhi police on Friday released a sketch of one of the men suspected to be involved in the bomb blast on the Saharanpur-bound Shamli Express at the Old Delhi railway station on Thursday . . . Police said the accused - who was wearing a grey Pathani suit with a white `` jalidari topi '' -LRB- sieved cap -RRB- was seen in the compartment shortly before the explosion . The suspect is said to be between 20 and 22 years of age , five feet six inches tall , thin built with a fair complexion and sporting a small beard . . . The Deputy Commissioner of Police -LRB- Crime and Railways -RRB- , Mr. P.K. Srivastava , said the sketch had been prepared with the help of inputs provided by three eyewitnesses . They told police that the suspect , along with two or three of his accomplices , had boarded the train with a cloth bag but alighted soon after . While alighting , he apparently did not have the cloth bag - in which he is said to have carried the explosive - in his hand . . . The police officer said that in all there were perhaps four young men of similar appearance present in the compartment a little before the explosions took place . `` Since they are not among the injured , nor among the eyewitnesses , we gather that they could have been responsible for the incident . '' .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Shamli Express:35", 
+        "Deputy Commissioner of Police:112"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2000/01/08/stories/0108000b.htm", 
+    "date": "06-01-2000", 
+    "target": "RAILWAY", 
+    "hot_spot": "Old Delhi railway station", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi police", 
+            "12", 
+            "Others"
+        ]
+    ]
+}

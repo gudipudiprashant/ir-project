@@ -1,17 +1,21 @@
-base_dir = "E:\College\IR\Entity"
+base_dir = "/home/prashant/Desktop/semester 7/ir/"
 
-test_dataset_folder = "tagged_dataset"
+test_dataset_folder = "ir-project/data/test/"
+train_dataset_folder = "ir-project/data/train/"
 
-default_module_to_import = "position_ranker"
-default_function_for_default_module = "custom_pos_func"
-default_param_list = [2,3,4,5]
 
-default_module_list = [ "position_ranker", "freq_ranker"]
+#Common custom function name for all modules
+custom_func_name = "custom_entity_detect_func"
 
-module_func_map = {
-                    "position_ranker": "custom_pos_func",
-                    "freq_ranker": "custom_freq_func",
-                    "freq_pos_ranker": "custom_freq_func",
-                    "keyword_ranker": "keyword_ranker"
-                  }
+run_multi_param_dict = {
+                         "module": "freq_pos_ranker",
+                         "param_list": [2,3,4,5,6]
+                        }
 
+run_one_module_dict = {
+                        "module": "keyword_ranker"
+                      }
+
+run_multi_module_dict = {
+                            "module_list": ["freq_ranker", "position_ranker"]
+                        }

@@ -1,0 +1,152 @@
+{
+    "LOC": [
+        [
+            "Mahabodhi temple", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Bihars Gaya", 
+            "25", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "57", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "141", 
+            "Event"
+        ], 
+        [
+            "Bodhi tree", 
+            "203", 
+            "Event"
+        ], 
+        [
+            "candle house", 
+            "218", 
+            "Event"
+        ], 
+        [
+            "Animesh Lochan Chaitya", 
+            "237", 
+            "Event"
+        ], 
+        [
+            "Bodhi tree", 
+            "266", 
+            "Event"
+        ], 
+        [
+            "Nirmal Temple", 
+            "354", 
+            "Victim"
+        ], 
+        [
+            "Karma Temple", 
+            "388", 
+            "Assoc_Event"
+        ], 
+        [
+            "Japanese Buddha statue", 
+            "398", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Pragya Deep", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "Pragya Deep", 
+            "120", 
+            "Comment"
+        ], 
+        [
+            "Pragya Deep", 
+            "269", 
+            "Comment"
+        ], 
+        [
+            "Vishwavidya", 
+            "319", 
+            "Victim"
+        ], 
+        [
+            "Pragya Deep", 
+            "371", 
+            "Comment"
+        ], 
+        [
+            "Pragya Deep", 
+            "437", 
+            "Comment"
+        ], 
+        [
+            "Pragya Deep", 
+            "495", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "5.15 a.m.:178", 
+        "a.m.:179"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Administration to be blamed for shameful act", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Despite multiple meetings by the police and the administration and intelligence inputs it was regrettable that nearly eight blasts rocked the Mahabodhi temple in Bihars Gaya district . The explosions injured two persons , including a Burmese monk , Pragya Deep , Treasurer of the All India Bhiku Sangha told The Hindu on the phone from Bodh Gaya . . . The administration had prior information . There was a report of the Intelligence Bureau . A series of security review meetings have been conducted . There have been at least five to six meetings . Its shameful that despite this , the blasts have taken place . This is a mistake on the part of the administration , Pragya Deep said . . . He was conducting a meeting in the Sanghas office , about 10 minutes from the Mahabodhi temple , when he heard sounds of the blast . . . We immediately left for the temple , where we were informed by the monks there of the serial explosions . The explosions began around 5.15 a.m. and lasted for half an hour , he said . . . The first blast took place on the left of the sacred Bodhi tree where the Buddhas footprints are located . The second blast site was the candle house where the bomb was kept in an ambulance located outside . The third explosion was outside the Animesh Lochan Chaitya , one of the places associated with enlightenment of Lord Buddha . The Buddha is believed to have stood here for seven days looking at the Bodhi tree , Pragya Deep said . . . The next blast was near a wall railing that is the entry point for the monks . This could have been intended to cause loss of life , but thankfully not many people were there around that time . . . One Burmese monk Vishwavidya was injured in this blast . He sustained injuries in the leg , hand , head and chest . He is being treated at the local government hospital . A staff member of the Nirmal Temple was also injured in the explosion . Both of them are out of danger , Pragya Deep said . . . The next three bombs went off in a car outside the Karma Temple . A final blast was near the famous Japanese Buddha statue . Two bombs were kept near the statue . One went off while one which was placed near the feet did not explode . Had it gone off , the damage would have been great , Pragya Deep said . . . There is a sense of fear among the monks at the temple . Its natural to feel fear . I dont know why the temple was made the target . We were never involved in any kind of violence . Neither is there any ongoing religious conflict involving the Buddhist community , Pragya Deep said .", 
+    "injured": "2", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        " Bodh Gaya", 
+        "Mahabodhi temple"
+    ], 
+    "O": [
+        "eight blasts:18", 
+        "Lord Buddha:249", 
+        "local government hospital:345"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/administration-to-be-blamed-for-shameful-act/article4891276.ece?ref=relatedNews", 
+    "date": "07-07-2013", 
+    "target": "TEMPLE", 
+    "hot_spot": "Mahabodhi temple", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "All India Bhiku Sangha", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "74", 
+            "Others"
+        ]
+    ]
+}

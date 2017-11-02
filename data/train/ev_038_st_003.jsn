@@ -1,0 +1,55 @@
+{
+    "LOC": [
+        [
+            "Alipurduar", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Bengal", 
+            "24", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "today : 25"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "1", 
+    "title": "Update: Alipurduar bomb blast kills one, injures 12", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least one person was killed and 12 others injured when a bomb rigged to a cycle exploded at Alipurduar town in north Bengal today .", 
+    "injured": "12", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "", 
+        "Bengal", 
+        ""
+    ], 
+    "O": [
+        "killed:6", 
+        "injured:10", 
+        "bomb:13", 
+        "cycle exploded:17"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.business-standard.com/article/economy-policy/update-alipurduar-bomb-blast-kills-one-injures-12-109031800136_1.html", 
+    "date": "", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

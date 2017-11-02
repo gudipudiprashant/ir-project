@@ -1,0 +1,106 @@
+{
+    "LOC": [
+        [
+            "Godhra", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Lunawada", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "49", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Godhra", 
+            "52", 
+            "Neutral"
+        ], 
+        [
+            "Godhra", 
+            "161", 
+            "Neutral"
+        ], 
+        [
+            "Lunawada", 
+            "191", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narsimha Kumar", 
+            "81", 
+            "Comment"
+        ], 
+        [
+            "Kumar", 
+            "120", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:54", 
+        "October 15:163"
+    ], 
+    "death": "", 
+    "title": "NSG team inspects Gujarat blast sites", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Panchmahals", 
+        "Godhra", 
+        "Godhra"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A three-member team of explosive experts of the National Security Guards -LRB- NSG -RRB- is investigating the nature and mechanism used in recent bomb explosions at Godhra and Lunawada which left 12 persons injured , police said today . . . The NSG team , which arrived from New Delhi at Godhra on Saturday , is investigating the nature of the explosives used , how the devices were assembled and their mechanism , the Panchmahal Deputy Superintendent of Police , Narsimha Kumar has said . . . The team examined material gathered from the ` spots ' of two bomb explosions while the Forensic Science laboratory and the local bomb squads are also looking into the explosions , Mr. Kumar said . . . There is no breakthrough in the case despite interrogation of more than 60 persons rounded up since the two blasts , he added . . . A crude bomb explosion in a State transport bus at Godhra on October 15 , had left at least four persons , including the conductor injured , while in another explosion the next day , inside a bus terminus at Lunawada , at least eight persons were injured , two of them seriously .", 
+    "injured": "12", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Forensic Science laboratory:104", 
+        "crude bomb explosion:152"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2002/10/20/stories/2002102004291000.htm", 
+    "date": "15-10-2002", 
+    "target": "", 
+    "hot_spot": "Godhra", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Security Guards", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "Panchmahal Deputy Superintendent of Police", 
+            "75", 
+            "Others"
+        ]
+    ]
+}

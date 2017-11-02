@@ -1,0 +1,490 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Assam", 
+            "27", 
+            "Victim"
+        ], 
+        [
+            "Dispur", 
+            "73", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "202", 
+            "Neutral"
+        ], 
+        [
+            "Maligaon", 
+            "222", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "227", 
+            "Neutral"
+        ], 
+        [
+            "Maligaon", 
+            "250", 
+            "Neutral"
+        ], 
+        [
+            "Maligaon police station", 
+            "250", 
+            "Neutral"
+        ], 
+        [
+            "Dhekiajuli in Sonitpur", 
+            "377", 
+            "Neutral"
+        ], 
+        [
+            "Dhekiajuli", 
+            "377", 
+            "Neutral"
+        ], 
+        [
+            "Sonitpur district", 
+            "379", 
+            "Neutral"
+        ], 
+        [
+            "Sonitpur", 
+            "379", 
+            "Neutral"
+        ], 
+        [
+            "Sonitpur district", 
+            "379", 
+            "Neutral"
+        ], 
+        [
+            "Mancachar police station", 
+            "432", 
+            "Victim"
+        ], 
+        [
+            "Mancachar", 
+            "432", 
+            "Victim"
+        ], 
+        [
+            "Mancachar police station", 
+            "432", 
+            "Victim"
+        ], 
+        [
+            "Dhubri", 
+            "436", 
+            "Victim"
+        ], 
+        [
+            "Dhubri district", 
+            "436", 
+            "Victim"
+        ], 
+        [
+            "Dhubri district", 
+            "436", 
+            "Victim"
+        ], 
+        [
+            "Garo Basti area", 
+            "448", 
+            "Victim"
+        ], 
+        [
+            "Udalguri district", 
+            "452", 
+            "Victim"
+        ], 
+        [
+            "Udalguri", 
+            "452", 
+            "Neutral"
+        ], 
+        [
+            "Udalguri district", 
+            "452", 
+            "Neutral"
+        ], 
+        [
+            "Karbi Anglong", 
+            "463", 
+            "Victim"
+        ], 
+        [
+            "Maligaon", 
+            "556", 
+            "Neutral"
+        ], 
+        [
+            "Maligaon blast", 
+            "556", 
+            "Neutral"
+        ], 
+        [
+            "Maligaon blast", 
+            "556", 
+            "Event"
+        ], 
+        [
+            "Sonitpur district", 
+            "606", 
+            "Victim"
+        ], 
+        [
+            "Sonitpur", 
+            "606", 
+            "Victim"
+        ], 
+        [
+            "Sonitpur district", 
+            "606", 
+            "Victim"
+        ], 
+        [
+            "Maligaon", 
+            "622", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Prime Minister Manmohan Singh", 
+            "15", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Union home minister P", 
+            "83", 
+            "Others"
+        ], 
+        [
+            "Union home minister P", 
+            "83", 
+            "Others"
+        ], 
+        [
+            "home minister P Chidambaram", 
+            "84", 
+            "Others"
+        ], 
+        [
+            "P Chidambaram", 
+            "86", 
+            "Others"
+        ], 
+        [
+            "Chidambaram", 
+            "87", 
+            "Others"
+        ], 
+        [
+            "minister Tarun", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "minister Tarun Gogoi", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "Chidamabaram", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "Gogoi", 
+            "471", 
+            "Others"
+        ], 
+        [
+            "G P Singh", 
+            "498", 
+            "Others"
+        ], 
+        [
+            "G P", 
+            "498", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "500", 
+            "Others"
+        ], 
+        [
+            "Ulfa", 
+            "502", 
+            "Others"
+        ], 
+        [
+            "Deepak", 
+            "590", 
+            "Accused"
+        ], 
+        [
+            "Sagar Topno", 
+            "598", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [
+        "1.40 pm:229", 
+        "pm:230"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:35", 
+        "Tuesday:75", 
+        "Tuesday:115", 
+        "Tuesday:158", 
+        "January : 192", 
+        "Monday:210", 
+        "April:528", 
+        "April 7:528", 
+        "Tuesday:659"
+    ], 
+    "death": "9", 
+    "title": "Terror blasts ahead of PM's visit rock Assam, kill 9", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "GUWAHATI : Ten days before it goes to the polls and 24 hours before Prime Minister Manmohan Singh was to land in his home state , Assam was rocked by four deadly explosions on Monday that left at least nine people dead and more than 60 people injured . -LRB- Watch -RRB- Undeterred by the terror attacks , the prime minister will go ahead with his visit and address a rally at Dispur on Tuesday , officials in New Delhi said . Union home minister P Chidambaram called chief minister Tarun Gogoi minutes after the blasts . Official sources said the Union cabinet secretary , defence secretary and home secretary would arrive here on Tuesday to take stock of the situation . The finger of suspicion pointed to the northeast 's most active terrorist outfit , the United Liberation Front Of Asom -LRB- Ulfa -RRB- , which is to mark its 30th ` Raising Day ' on Tuesday . In the past , Ulfa terrorists have triggered blasts in the state to observe the day and also planted bombs just ahead of VVIP visits , the deadliest being serial blasts in January , just ahead of Chidamabaram 's first visit to Guwahati as home minister . -LRB- Watch -RRB- Monday 's deadliest blast was triggered at a busy bus stop at Maligaon on the outskirts of Guwahati around 1.40 pm and killed eight people , including a 10-year-old boy . More than 50 people were injured there . The Maligaon police station and the headquarters of the Northeast Frontier Railway are a stone 's throw from the site . According to a police officer scanning the site minutes after the blast , the explosion at Maligaon was caused by an improvised explosive device -LRB- IED -RRB- planted either on a bicycle or a motorcycle . People waiting at the bus stop were the first to be hit . The blast was so powerful that several cars and motorcycles parked nearby caught fire . The flames soon spread to neighbouring houses . Many people jumped out of their windows in panic to escape the fire and smoke and injured themselves . Less than two hours later , another explosion , this time at a busy marketplace in Dhekiajuli in Sonitpur district , injured three Railway Protection Force personnel on election duty . Here , too , the bomb was strapped to a parked bicycle , a vehicle of terror that has been used effectively by Ulfa terrorists . In the third blast in the evening , terrorists threw a grenade at the Mancachar police station in Dhubri district , killing a constable . Another grenade lobbed in the Garo Basti area in Udalguri district did not explode . A fourth bomb explosion rocked Karbi Anglong district , injuring two people . Gogoi condemned the blasts and said his government would crush the terrorist elements operating in the state . Deputy inspector general of police -LRB- central range -RRB- G P Singh said Ulfa was behind the blasts . ` We had information about the outfit 's plans to carry out terror activities ahead of its foundation day on April 7 , ' he said . Sources said intercepted messages of Ulfa militants suggest the outfit will now target security forces and non-Assamese people . ` The Maligaon blast may have been carried out by one of Ulfa 's 109th battalion members who have recently sneaked into the city . We came to know about a 27th battalion Ulfa cadre named Deepak who had supposedly hired a man called Sagar Topno to carry out the blast in Sonitpur district , ' a source said . Forensic experts who visited the blast site at Maligaon said bicycle ball-bearings were packed into the bomb as shrapnel . Experts said chemical tests would be required to confirm the type of explosives used . An NSG bomb squad is also expected to arrive on Tuesday .", 
+    "injured": "60", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup Metropolitan", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "home state:24", 
+        "terror:56", 
+        "minister:61", 
+        "visit:67", 
+        "rally:71", 
+        "union:83", 
+        "minister:90", 
+        "official:98", 
+        "official sources:98", 
+        "union cabinet secretary:102", 
+        "union:102", 
+        "cabinet secretary:103", 
+        "defence secretary:106", 
+        "home secretary:109", 
+        "stock:118", 
+        "situation:121", 
+        "finger:124", 
+        "suspicion:126", 
+        "northeast:130", 
+        "outfit:135", 
+        "united liberation:138", 
+        "front:140", 
+        "asom:142", 
+        "ulfa:144", 
+        "raising day:154", 
+        "past:162", 
+        "ulfa terrorists:164", 
+        "ulfa:164", 
+        "state:171", 
+        "day:175", 
+        "vvip visits:183", 
+        "vvip:183", 
+        "blasts in January:190", 
+        "visit:200", 
+        "home minister:204", 
+        "blast:213", 
+        "bus:219", 
+        "boy:239", 
+        "headquarters:255", 
+        "northeast frontier railway:258", 
+        "stone:263", 
+        "site:268", 
+        "police officer scanning:273", 
+        "site:277", 
+        "blast:281", 
+        "explosion:284", 
+        "explosion at Maligaon:284", 
+        "maligaon:286", 
+        "device:293", 
+        "ied:295", 
+        "bicycle:301", 
+        "motorcycle:304", 
+        "bus stop:310", 
+        "blast:320", 
+        "fire:332", 
+        "panic:350", 
+        "fire:354", 
+        "smoke:356", 
+        "explosion:368", 
+        "time:371", 
+        "marketplace:375", 
+        "district:380", 
+        "railway protection force:384", 
+        "force personnel:386", 
+        "election duty:389", 
+        "bomb:397", 
+        "bicycle:403", 
+        "vehicle:406", 
+        "terror:408", 
+        "ulfa terrorists:415", 
+        "ulfa:415", 
+        "blast:421", 
+        "evening:424", 
+        "grenade:429", 
+        "police station:433", 
+        "district:437", 
+        "constable:441", 
+        "grenade:444", 
+        "garo basti:448", 
+        "area:450", 
+        "district:453", 
+        "bomb explosion:460", 
+        "district:465", 
+        "gogoi:471", 
+        "government:478", 
+        "state:487", 
+        "deputy:489", 
+        "deputy inspector general:489", 
+        "inspector general:490", 
+        "police:493", 
+        "range:496", 
+        "information:511", 
+        "outfit:514", 
+        "terror:520", 
+        "foundation day:525", 
+        "ulfa:540", 
+        "ulfa militants:540", 
+        "outfit:544", 
+        "security:548", 
+        "Maligaon blast:556", 
+        "blast:557", 
+        "ulfa:566", 
+        "battalion:569", 
+        "city:577", 
+        "battalion ulfa:586", 
+        "battalion:586", 
+        "ulfa cadre:587", 
+        "ulfa:587", 
+        "cadre:588", 
+        "deepak:590", 
+        "man:596", 
+        "blast:604", 
+        "district:607", 
+        "source:611", 
+        "Forensic:614", 
+        "blast site:619", 
+        "bicycle:624", 
+        "bomb:630", 
+        "shrapnel:632", 
+        "chemical:636", 
+        "type:644", 
+        "nsg bomb squad:650", 
+        "nsg:650", 
+        "bomb squad:651"
+    ], 
+    "unexpl": [
+        "BALL BEARING"
+    ], 
+    "ocassion": "ELECTIONS", 
+    "link": "http://timesofindia.indiatimes.com/india/Terror-blasts-ahead-of-PMs-visit-rock-Assam-kill-9/articleshow/4365349.cms?", 
+    "date": "01-01-2009", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "TWO WHEELER", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        "GRENADE", 
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "the United Liberation Front Of Asom", 
+            "137", 
+            "Assoc_Accused"
+        ], 
+        [
+            "-LRB-", 
+            "143", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Ulfa", 
+            "144", 
+            "Assoc_Accused"
+        ], 
+        [
+            "-RRB-", 
+            "145", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Ulfa", 
+            "164", 
+            "Accused"
+        ], 
+        [
+            "Northeast Frontier Railway", 
+            "258", 
+            "Others"
+        ], 
+        [
+            "Railway Protection Force", 
+            "384", 
+            "Victim"
+        ], 
+        [
+            "Ulfa", 
+            "415", 
+            "Accused"
+        ], 
+        [
+            "Garo", 
+            "448", 
+            "Victim", 
+            "Others"
+        ], 
+        [
+            "Ulfa", 
+            "502", 
+            "Victim"
+        ], 
+        [
+            "of Ulfa", 
+            "565", 
+            "Accused"
+        ], 
+        [
+            "Ulfa", 
+            "587", 
+            "Accused"
+        ]
+    ]
+}

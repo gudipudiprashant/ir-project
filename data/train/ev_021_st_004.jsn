@@ -1,0 +1,112 @@
+{
+    "LOC": [
+        [
+            "south Manipur", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Manipur", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Mizoram", 
+            "28", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Hmar", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "Paite", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "Ksh . Yoiheiba", 
+            "70", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "UNLF denies role in exodus", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Imphal , Jan. 23 : The militant United National Liberation Front ( UNLF ) today denied that Hmar and Paite villagers from south Manipur fled to neighbouring Mizoram to escape persecution at the hands of its members . . . The outlawed group instead charged militants of the Hmar Peoples Convention ( Democratic ) with harassing the villagers , forcing the exodus . . . In a statement , Ksh . Yoiheiba , senior publicity officer of the UNLF , claimed that the villagers fled after the HPC ( D ) warned village chiefs against providing food and shelter to his organisations members . The UNLF also accused its rival of conniving with the army . . . The statement dismissed allegations about the UNLF using the villagers as human shields as false propaganda of Indian intelligence agencies to strain the outfits relationship with the villagers . . . The UNLF still has a good relationship with the villagers . Such propaganda will not bear fruit , it said .", 
+    "injured": "", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1060124/asp/guwahati/story_5759110.asp", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United National Liberation Front", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "UNLF", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "Hmar Peoples Convention", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "UNLF", 
+            "79", 
+            "Accused"
+        ], 
+        [
+            "HPC", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "UNLF", 
+            "106", 
+            "Accused"
+        ], 
+        [
+            "UNLF", 
+            "125", 
+            "Accused"
+        ], 
+        [
+            "UNLF", 
+            "151", 
+            "Accused"
+        ]
+    ]
+}

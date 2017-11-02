@@ -1,0 +1,208 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Rajya Sabha", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Rajya Sabha", 
+            "98", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "192", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sunil Bansal", 
+            "118", 
+            "Others"
+        ], 
+        [
+            "Bansal", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "Pragya Singh", 
+            "199", 
+            "Accused"
+        ], 
+        [
+            "Bansal", 
+            "228", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "September:57", 
+        "1997:208", 
+        "Friday:248"
+    ], 
+    "death": "", 
+    "title": "Link to Malegaon blast conspiracy to defame us: ABVP", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : After the issue of involvement of Hindu outfits in the Malegaon blasts came up in Rajya Sabha , ABVP leaders organized a press meet to clear its name from the controversy . The members of BJP 's student outfit insisted that the party had nothing to do with the blasts in Malegaon in September this year and it was just a political conspiracy to defame ABVP and Hindu outfits . ` First ATS mentioned the possibility of Vidyarthi Parishad and VHP being involved in the blasts and then the matter was also raised in Rajya Sabha by a Congress MP . But ABVP is in no way involved in the blasts , '' said Sunil Bansal , regional organizing secretary , ABVP . He added , ` ABVP has even demanded that there should be a proper inquiry and ATS should come out with an evidence and not talk without any basis . They do n't have any proof against any ABVP activist . '' According to Bansal , the name of ABVP came up during the investigations after a bike was found near the blasts site in Malegaon . ` The bike belonged to Pragya Singh , who was an ABVP activist in 1997 and is now a sadhvi . She had sold off the bike before she took to spirituality , '' Bansal said.NSUI , meanwhile , is holding a protest march against ABVP 's alleged role in the Malegaon blasts on Friday .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Nashik", 
+        "Malegaon", 
+        ""
+    ], 
+    "O": [
+        "hindu:10", 
+        "hindu outfits:10", 
+        "malegaon blasts:14", 
+        "rajya sabha:19", 
+        "controversy:34", 
+        "matter:93", 
+        "rajya sabha:98", 
+        "mp:103", 
+        "way:110", 
+        "secretary:123", 
+        "abvp:131", 
+        "ats:143", 
+        "proof:162", 
+        "abvp activist:165", 
+        "abvp:176", 
+        "abvp activist:205", 
+        "sadhvi:213", 
+        "malegaon blasts:245"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/delhi/Link-to-Malegaon-blast-conspiracy-to-defame-us-ABVP/articleshow/3634270.cms?referral=PM", 
+    "date": "29-09-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ABVP", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "ABVP", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "Hindu", 
+            "71", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "76", 
+            "Others"
+        ], 
+        [
+            "Vidyarthi Parishad", 
+            "81", 
+            "Accused"
+        ], 
+        [
+            "VHP", 
+            "84", 
+            "Accused"
+        ], 
+        [
+            "Congress MP", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "Congress MP", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "ABVP", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "ABVP", 
+            "125", 
+            "Accused"
+        ], 
+        [
+            "ABVP", 
+            "131", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "ABVP", 
+            "165", 
+            "Accused"
+        ], 
+        [
+            "ABVP", 
+            "176", 
+            "Accused"
+        ], 
+        [
+            "ABVP", 
+            "205", 
+            "Accused"
+        ], 
+        [
+            "ABVP", 
+            "239", 
+            "Others"
+        ], 
+        [
+            "Malegaon", 
+            "245", 
+            "Others"
+        ]
+    ]
+}

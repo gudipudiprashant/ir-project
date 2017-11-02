@@ -1,0 +1,425 @@
+{
+    "LOC": [
+        [
+            "Chennai", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "Bangalore Junction", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Chennai Junction", 
+            "72", 
+            "Neutral"
+        ], 
+        [
+            "Central station", 
+            "82", 
+            "Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "Nellore", 
+            "164", 
+            "Neutral"
+        ], 
+        [
+            "Central station", 
+            "205", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "277", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "Vijayawada", 
+            "291", 
+            "Neutral"
+        ], 
+        [
+            "Central station", 
+            "448", 
+            "Event"
+        ], 
+        [
+            "Chennai Central", 
+            "709", 
+            "Event"
+        ], 
+        [
+            "Central", 
+            "714", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "784", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "863", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "865", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "946", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "957", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "966", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narendra Modi", 
+            "155", 
+            "Others"
+        ], 
+        [
+            "Swati", 
+            "270", 
+            "Victim"
+        ], 
+        [
+            "Sumantho Devnath", 
+            "308", 
+            "Victim"
+        ], 
+        [
+            "Shaiful Haque", 
+            "323", 
+            "Victim"
+        ], 
+        [
+            "Anjanedu", 
+            "329", 
+            "Victim"
+        ], 
+        [
+            "Vimal Kumar Das", 
+            "334", 
+            "Victim"
+        ], 
+        [
+            "Shagun Kumar Rai", 
+            "341", 
+            "Victim"
+        ], 
+        [
+            "Altaf Khan", 
+            "348", 
+            "Victim"
+        ], 
+        [
+            "Uma", 
+            "354", 
+            "Victim"
+        ], 
+        [
+            "Jitendra Mohanto Deka", 
+            "359", 
+            "Victim"
+        ], 
+        [
+            "Sari", 
+            "366", 
+            "Victim"
+        ], 
+        [
+            "Murali", 
+            "371", 
+            "Victim"
+        ], 
+        [
+            "Bijoy Kumar", 
+            "376", 
+            "Victim"
+        ], 
+        [
+            "Sudanchand Debnath", 
+            "382", 
+            "Victim"
+        ], 
+        [
+            "Surendra Varma", 
+            "388", 
+            "Victim"
+        ], 
+        [
+            "Bagal Singh", 
+            "584", 
+            "Comment"
+        ], 
+        [
+            "K. Ramanujam", 
+            "637", 
+            "Others"
+        ], 
+        [
+            "Anoop Jaiswal", 
+            "644", 
+            "Others"
+        ], 
+        [
+            "T.K. Rajendran", 
+            "656", 
+            "Others"
+        ], 
+        [
+            "J.K. Tripathy", 
+            "663", 
+            "Others"
+        ], 
+        [
+            "Seema Agarwal", 
+            "672", 
+            "Others"
+        ], 
+        [
+            "V.K. Dhaka", 
+            "682", 
+            "Others"
+        ], 
+        [
+            "Rakesh Misra", 
+            "798", 
+            "Comment"
+        ], 
+        [
+            "S. Vijayakumaran", 
+            "808", 
+            "Others"
+        ], 
+        [
+            "S. Vijay Kumar", 
+            "993", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "22-year : 2", 
+        "minutes : 34", 
+        "7.15 a.m.:48", 
+        "10.30 pm : 63", 
+        "5.40 a.m. : 75", 
+        "7.10 a.m. : 85", 
+        "few minutes : 88", 
+        "22-year : 268", 
+        "four hours : 421", 
+        "11.30 a.m.:454", 
+        "one hour : 760"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:28", 
+        "Thursday:51", 
+        "Wednesday:66", 
+        "Thursday evening : 166"
+    ], 
+    "death": "1", 
+    "title": "Woman killed in twin blasts at Chennai Central station", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A 22-year old woman was killed and 14 others injured , two of them grievously , when two bombs exploded in the BangaloreGuwahati tri-weekly express here on Thursday . The explosions took place minutes after the train reached Platform No. 9 at the Chennai Central Station at 7.15 a.m. on Thursday . . . Train No 12509 that left Bangalore Junction at 10.30 pm on Wednesday was scheduled to arrive at Chennai Junction at 5.40 a.m. However , the train reached Central station around 7.10 a.m. Within few minutes , bombs exploded one after the other in reserved second sleeper coaches , S 4 and S 5 . . . Explosives were kept under the seat number 28 in Coach S 4 and under seat number 69 in coach S 5 . If the train had been on time , it would have entered Andhra Pradesh , where the BJP 's prime ministerial candidate Narendra Modi is scheduled to address a rally near Nellore on Thursday evening . . . A multi-agency probe has been launched to investigate the source and nature of the bombs . . . As soon as the news of blast started spreading , there was commotion in the busy Central station , the main gateway to the city , and traffic congestion on all roads leading to it . . . Police and railway officials on emerging out of both the coaches in which the blast took place said that it was a low intensity explosion caused by suspected objects kept beneath the seats . . . The deceased was identified as 22-year old Swati , a post-graduate in M.Tech from Hyderabad working in Bangalore who was on her way to meet her parents at Vijayawada . . . Injured list . . Grievously injured persons included ; one unidentified male and Sumantho Devnath -LRB- 37 -RRB- . Names of those who sustained minor injuries include ; Shaiful Haque -LRB- 27-M -RRB- , Anjanedu -LRB- 29-M -RRB- , Vimal Kumar Das -LRB- 43-M -RRB- , Shagun Kumar Rai -LRB- 23-M -RRB- , Altaf Khan -LRB- 17-M -RRB- , Uma -LRB- 35-F -RRB- , Jitendra Mohanto Deka -LRB- 58-M -RRB- , Sari -LRB- 21-M -RRB- , Murali -LRB- 27-M -RRB- , Bijoy Kumar -LRB- 14-M -RRB- , Sudanchand Debnath -LRB- 64-M -RRB- , Surendra Varma -LRB- 31-M -RRB- . In the panic that followed the explosion , passengers who ran for safety resulting in a stampede-like situation . . . The train was detained for nearly four hours . After detaching both the coaches -LRB- S 4 and S 5 -RRB- , the rest of the composition of the train was dispatched from Central station for onward journey around 11.30 a.m. . In the impact of the collision , there were minor damages to the three adjacent coaches - S 3 , S 4 and S 5 . . . Sniffer dogs were pressed into service and Anti-Sabotage Teams -LRB- AST -RRB- of the Bomb Detection and Disposal Squad of the City Police carried out searches . The three damaged coaches were detached for detailed forensic analysis . . . Passengers from these coaches were accommodated in other coaches . Railway Protection Force , Government Railway Police and Chennai City Police cordoned off the Platform No 9 . Passengers in other coaches who disembarked for enabling the police to search the coaches complained that miscreants had looted their belongings , making use of their temporary absence . . . Bagal Singh -LRB- 55 -RRB- who was travelling along with his family on the train said there was a noise and soon the train came to a halt and it took a few minutes for those in the nearby coaches to realise that it was an explosion . . . Director-General of Police K. Ramanujam , DGP -LRB- elections -RRB- Anoop Jaiswal , Additional Director-General of Police -LRB- Law and Order -RRB- T.K. Rajendran , Chennai City Police Commissioner J.K. Tripathy , Inspector-General of Police Railway Police , Seema Agarwal , Chief Security Commissioner of RPF Southern Railway V.K. Dhaka and other officials visited the scene of crime . . . Main lines unaffected . . As a result of the explosion , trains towards Chennai Central were detained outside Central and were accommodated in other platforms after a brief delay . However , Southern Railway said there was no cancellation or rescheduling of trains as the main lines were unaffected , . . . Southern Railway has asked the passengers to report at the station one hour in advance to go through security checks such as frisking and scanning of baggage before boarding the train . Many trains approaching Chennai were detained at various stations . . . General Manager of Southern Railway Rakesh Misra , who was accompanied by Additional General Manager S. Vijayakumaran , said that a compensation of Rs 50,000 would be paid to the family of the deceased as an immediate measure , Rs 25,000 would be paid to those who sustained serious injuries and Rs 5,000 to those who sustained minor injuries . . . The investigators were perusing the CCTV footage in Chennai and Bangalore to look for clues . Meanwhile police sources said that a Special Investigation Team of the CB-CID will be formed and the case will be transferred to them for further investigations . Police sources also said that the Ministry of Home Affairs had asked the State Police for a report on the blast . Meanwhile , unconfirmed reports said that a team from National Investigation Agency -LRB- NIA -RRB- and National Security Guards -LRB- NSG -RRB- are likely to visit Chennai . . . The Railways has opened two helplines in Chennai 044 25357398 and 044 64502416 and one in Bangalore 080 22876288 . . . PTI adds that one person has been detained in connection with the blast . . . -LRB- With additional reporting by S. Vijay Kumar -RRB- .", 
+    "injured": "14", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Chennai", 
+        "", 
+        "Chennai Central Station"
+    ], 
+    "O": [
+        "two bombs exploded:18", 
+        "BangaloreGuwahati tri-weekly express:23", 
+        "explosions:31", 
+        "Platform No. 9:39", 
+        "Chennai Central Station:44", 
+        "Train No 12509:55", 
+        "bombs exploded:91", 
+        "second sleeper coaches:99", 
+        "4 and S:104", 
+        "Explosives:111", 
+        "seat number 28:116", 
+        "Coach S 4:120", 
+        "seat number 69:125", 
+        "coach S 5:129", 
+        "rally:162", 
+        "multi-agency probe:172", 
+        "launched:176", 
+        "investigate:178", 
+        "source and nature of the bombs:180", 
+        "blast:195", 
+        "commotion:201", 
+        "traffic congestion:216", 
+        "Police and railway officials:227", 
+        "blast:241", 
+        "low intensity explosion:249", 
+        "deceased:264", 
+        "M.Tech:275", 
+        "minor injuries:319", 
+        "panic:396", 
+        "explosion:400", 
+        "passengers:402", 
+        "stampede-like situation:410", 
+        "S 4 and S 5:430", 
+        "collision:462", 
+        "minor damages:466", 
+        "three adjacent coaches:470", 
+        "S 3 , S 4 and S:474", 
+        "Sniffer dogs:485", 
+        "Bomb Detection and Disposal Squad:499", 
+        "searches:510", 
+        "three damaged coaches:513", 
+        "forensic analysis:520", 
+        "Passengers:525", 
+        "coaches:528", 
+        "accommodated:530", 
+        "Platform No 9:549", 
+        "disembarked:558", 
+        "coaches complained:566", 
+        "miscreants:569", 
+        "temporary absence:579", 
+        "explosion:630", 
+        "Law and Order:652", 
+        "crime:691", 
+        "Main lines unaffected:695", 
+        "explosion:705", 
+        "accommodated:717", 
+        "no cancellation or rescheduling of trains:733", 
+        "unaffected:744", 
+        "frisking and scanning of baggage:771", 
+        "compensation of Rs 50,000:814", 
+        "deceased:826", 
+        "immediate measure:829", 
+        "Rs 25,000:832", 
+        "sustained serious injuries:840", 
+        "Rs 5,000:844", 
+        "sustained minor injuries:849", 
+        "investigators:856", 
+        "CCTV footage:860", 
+        "clues:869", 
+        "investigations:896", 
+        "blast:918", 
+        "unconfirmed reports:922", 
+        "The Railways:950", 
+        "two helplines:954", 
+        "044 25357398:958", 
+        "044 64502416:961", 
+        "080 22876288:967"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/cities/chennai/woman-killed-in-twin-blasts-at-chennai-central-station/article5965170.ece", 
+    "date": "01-05-2014", 
+    "target": "RAILWAY", 
+    "hot_spot": "", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "BJP", 
+            "150", 
+            "Others"
+        ], 
+        [
+            "Anti-Sabotage Teams", 
+            "492", 
+            "Others"
+        ], 
+        [
+            "AST", 
+            "495", 
+            "Others"
+        ], 
+        [
+            "Railway Protection Force", 
+            "535", 
+            "Others"
+        ], 
+        [
+            "Government Railway Police", 
+            "539", 
+            "Others"
+        ], 
+        [
+            "Chennai City Police", 
+            "543", 
+            "Others"
+        ], 
+        [
+            "Special Investigation Team", 
+            "877", 
+            "Others"
+        ], 
+        [
+            "CB-CID", 
+            "882", 
+            "Others"
+        ], 
+        [
+            "Ministry of Home Affairs", 
+            "904", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "929", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "933", 
+            "Others"
+        ], 
+        [
+            "National Security Guards", 
+            "936", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "940", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "972", 
+            "Others"
+        ]
+    ]
+}

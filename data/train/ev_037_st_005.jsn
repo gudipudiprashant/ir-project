@@ -1,0 +1,156 @@
+{
+    "LOC": [
+        [
+            "Bhangagarh", 
+            "78", 
+            "Event"
+        ], 
+        [
+            "Bhootnath", 
+            "147", 
+            "Event"
+        ], 
+        [
+            "Baralumukh", 
+            "165", 
+            "Neutral"
+        ], 
+        [
+            "Birubari Tiniali", 
+            "215", 
+            "Event"
+        ], 
+        [
+            "Shillong", 
+            "237", 
+            "Neutral"
+        ], 
+        [
+            "Lokopriyo Gopinath Bordoloi international airport", 
+            "255", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "269", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "P Chidambaram", 
+            "25", 
+            "Others"
+        ], 
+        [
+            "Srivastava", 
+            "115", 
+            "Comment"
+        ], 
+        [
+            "Amal Das", 
+            "127", 
+            "Victim"
+        ], 
+        [
+            "Kahil Sheikh", 
+            "130", 
+            "Victim"
+        ], 
+        [
+            "Chidambaram", 
+            "153", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "230", 
+            "Others"
+        ], 
+        [
+            "Chidmabaram", 
+            "251", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "287", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "today : 19", 
+        "hours : 20", 
+        "two months : 46", 
+        "5:45 pm .:87", 
+        "5.30 pm : 169", 
+        "3.30 pm : 209", 
+        "tomorrow : 235", 
+        "two-day : 262"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "January:246"
+    ], 
+    "death": "5", 
+    "title": "Five killed, 50 injured in Guwahati serial blasts", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Five people were killed and over 50 injured in three blasts set off by insurgent outfit ULFA here today hours before Union Home Minister P Chidambaram 's visit to review law and order situation in the state rocked by deadly blasts that left 88 dead two months ago . . . Three people were killed and 35 injured , including four women , when a bomb planted in front of a closed sweet shop exploded near upmarket Bhangagarh flyover on the busy Guwahati-Shillong road at around 5:45 pm . . . Two persons died on way to hospital while another succumbed to his injuries at the Guwahati Medical College Hospital , DGP G M Srivastava said . . . Two of the dead were identified as Amal Das and Kahil Sheikh . . . A bomb kept in a bicycle exploded at a market in the Bhootnath area , the route which Chidambaram was to take on his way from the airport , under Baralumukh police station around 5.30 pm in which two persons were killed and 12 others injured , official sources said . . . An Improvised Explosive Devise ( IED ) kept in a Gauhati Municipal Corporation ( GMC ) dustbin went off at around 3.30 pm injuring three persons in Birubari Tiniali area . . . The blasts came a day ahead of Prime Minister Manmohan Singh 's arrival here tomorrow enroute Shillong to inaugurate the Indian Science Congress there on January three . . . Chidmabaram arrived at the Lokopriyo Gopinath Bordoloi international airport on a two-day visit to the state to review Assam 's law and order situation and attend a meeting of the Unified Command headed by Chief Minister Tarun Gogoi . . . .", 
+    "injured": "50", 
+    "org_unorg": "", 
+    "O": [
+        "three blasts:10", 
+        "insurgent outfit:15", 
+        "law and order situation:31", 
+        "blasts:41", 
+        "killed:55", 
+        "injured:58", 
+        "bomb planted:66", 
+        "sweet shop:73", 
+        "Guwahati-Shillong road:83", 
+        "bicycle:140", 
+        "killed:176", 
+        "injured:180", 
+        "blasts:222", 
+        "Unified Command:281"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.business-standard.com/article/economy-policy/five-killed-50-injured-in-guwahati-serial-blasts-109010100042_1.html", 
+    "date": "01-01-2009", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Guwahati Medical College Hospital", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "Indian Science Congress", 
+            "241", 
+            "Others"
+        ]
+    ]
+}

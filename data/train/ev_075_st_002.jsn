@@ -1,0 +1,108 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Sahibabad", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Ghaziabad", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "74", 
+            "Neutral"
+        ], 
+        [
+            "Kotwali Police Station", 
+            "171", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Devesh K. Pandey", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Madhukar Mishra", 
+            "86", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 79"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:16", 
+        "Wednesday:78"
+    ], 
+    "death": "", 
+    "title": "E-mail sent from Ghaziabad", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Devesh K. Pandey . . NEW DELHI : An e-mail sent to the media on Wednesday , claiming responsibility for the Jaipur blasts , has been traced to a cyber cafe at Sahibabad in Ghaziabad . The mail sender has threatened to carry out more such strikes in different parts of the country . . . The cafe owner and an employee were picked up for questioning by the Anti-Terrorist Squad of the Uttar Pradesh police on Wednesday night . During questioning , cafe owner Madhukar Mishra said the e-mail sender brought a compact disc along with him . He , however , could not give details about that persons identity . . . The police seized the computers hard disk . . . The mail , sent through the ID guru_alhindi_jaipur . . @yahoo . co.uk by an outfit identifying itself as Indian Mujahideen , had a video attachment . It showed a bag , purportedly containing a bomb , kept on the carrier of a cycle near the Kotwali Police Station .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Jaipur", 
+        "Jaipur"
+    ], 
+    "O": [
+        "police:116", 
+        "ID guru_alhindi_jaipur . . @yahoo . co.uk:131"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/email-sent-from-ghaziabad/article1259264.ece", 
+    "date": "14-05-2008", 
+    "target": "", 
+    "hot_spot": "Jaipur", 
+    "delivery_mod": "BICYCLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "e-mail", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorist Squad", 
+            "70", 
+            "Others"
+        ], 
+        [
+            "e-mail", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "144", 
+            "Others"
+        ]
+    ]
+}

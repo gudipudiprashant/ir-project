@@ -1,0 +1,203 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "9", 
+            "Neutral"
+        ], 
+        [
+            "NEW DELHI", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "marketplaces", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "Chheh Tuti Chowk", 
+            "97", 
+            "Event"
+        ], 
+        [
+            "Paharganj", 
+            "101", 
+            "Neutral"
+        ], 
+        [
+            "Paharganj ,", 
+            "101", 
+            "Neutral"
+        ], 
+        [
+            "central Delhi", 
+            "103", 
+            "Event"
+        ], 
+        [
+            "Govindpuri", 
+            "113", 
+            "Event"
+        ], 
+        [
+            "South Delhi", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "Sarojini Nagar", 
+            "129", 
+            "Event"
+        ], 
+        [
+            "South-West Delhi", 
+            "133", 
+            "Neutral"
+        ], 
+        [
+            "State Bank of Bikaner", 
+            "143", 
+            "Event"
+        ], 
+        [
+            "Chandni Chowk", 
+            "148", 
+            "Event"
+        ], 
+        [
+            "Walled City", 
+            "152", 
+            "Neutral"
+        ], 
+        [
+            "Sarojini Nagar", 
+            "166", 
+            "Neutral"
+        ], 
+        [
+            "Paharganj", 
+            "287", 
+            "Neutral"
+        ], 
+        [
+            "Kalawati Saran hospitals", 
+            "376", 
+            "Neutral"
+        ], 
+        [
+            "Kalkaji Depot", 
+            "428", 
+            "Event"
+        ], 
+        [
+            "Anandmai Marg", 
+            "466", 
+            "Neutral"
+        ], 
+        [
+            "Anandmai", 
+            "466", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "519", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "579", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "612", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "617", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ram Manohar Lohia", 
+            "369", 
+            "Others"
+        ], 
+        [
+            "Lady Hardinge", 
+            "373", 
+            "Others"
+        ], 
+        [
+            "Sheila Dikshit", 
+            "522", 
+            "Comment"
+        ], 
+        [
+            "K.K. Paul", 
+            "559", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 36", 
+        "5.25 p.m.:94", 
+        "5.40 p.m. : 110", 
+        "5.45 p.m.:125"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:35"
+    ], 
+    "death": "70", 
+    "title": "Serial blasts kill 70 persons in Delhi", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Front Page Serial blasts kill 70 persons in Delhi . . Staff Reporter . . NEW DELHI : At least 70 persons were killed and several injured in three powerful serial explosions here on Saturday evening . While two bombs went off at busy marketplaces , one exploded inside a Delhi Transport Corporation bus . Following the explosions , suspected to have been caused by Improvised Explosive Devices , a countrywide red alert was sounded . No terrorist outfit has so far claimed responsibility . . . The first explosion took place around 5.25 p.m. at Chheh Tuti Chowk in Paharganj , central Delhi , the bus blast at 5.40 p.m. at Govindpuri in South Delhi and the third and most powerful one at 5.45 p.m. at the Sarojini Nagar market in South-West Delhi . An explosive device was defused outside the State Bank of Bikaner at Chandni Chowk in the Walled City area . . . Shops go up in flames . . At Sarojini Nagar , it is suspected that the bomb was planted inside a Maruti van parked near shops . Within seconds , half a dozen cloth shops went up in flames . Subsequently , a couple of gas cylinders exploded inside a juice and chaat shop . The festival buzz at the bustling market place gave way to chaos as people fled fearing more explosions . Such was the impact of the blast that some shops just crumbled . The police did not rule out the possibility of people lying buried under the debris . At least 40 persons died in the blast here . Scores were injured , some of them critically . . . The bomb that rocked the Paharganj main bazaar is suspected to have been planted in a motorcycle or a rickshaw parked near a jewellery shop . People scattered in panic as smoke swirled from the blast site . . . Eyewitnesses said the jewellery outlet and adjoining shops took the impact . There were pools of blood on the road with body parts strewn around . Bags , shoes and chappals lay scattered . Local traders with the help of the police rushed the injured to the Ram Manohar Lohia , Lady Hardinge and Kalawati Saran hospitals . . . According to police sources , at least 25 persons were killed and over 45 injured in this blast . Four bodies , including that of a child , were burnt beyond recognition . . . The explosion in the DTC bus -LRB- DL-1PB-2719 -RRB- near the Kalkaji Depot injured six persons , including the driver and the conductor . Eyewitnesses said the passengers sounded an alert after they spotted an unclaimed bag under a seat . After stopping the bus at the roundabout near Anandmai Marg , the driver picked up the bag , triggering the explosion , it is said . All the injured were rushed to the All-India Institute of Medical Sciences . . . Soon after the blasts , the Union Home Ministry convened an emergency meeting to review security in the capital . Delhi Chief Minister Sheila Dikshit announced an ex gratia payment of Rs . 3 lakhs to the families of each of the deceased and Rs . 50,000 to those seriously injured . . . RDX suspected . . Police Commissioner K.K. Paul , visiting the site of blasts , said investigations were handed over to the Special Cell of the Delhi police . RDX is suspected to have been used in the bombs . . . Even as raids were under way at hotels and guesthouses , unconfirmed reports said two persons from Kashmir were detained at the New Delhi railway station . An agency report said 10 persons were taken into custody .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "Central", 
+        "", 
+        "Chheh Tuti Chowk"
+    ], 
+    "O": [
+        "motorcycle:298", 
+        "rickshaw:301", 
+        "Union Home Ministry:505", 
+        "Chief Minister:520", 
+        "RDX:582"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/10/30/stories/2005103007750100.htm", 
+    "date": "29-10-2005", 
+    "target": "", 
+    "hot_spot": "Chheh Tuti Chowk", 
+    "delivery_mod": "MAURTI CARS", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi Transport Corporation", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "All-India Institute of Medical Sciences", 
+            "491", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "LOC": [
+        [
+            "Malegaon",
+            "29", 
+            "Event"
+        ], 
+        [
+            "Malegaon",
+            "69", 
+            "Event"
+        ], 
+        [
+            "Vadodara",
+            "115", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Vadodara", 
+            "45", 
+            "Neutral"
+        ], 
+        [
+            "Vadodara", 
+            "72", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October:18", 
+        "October 29:18", 
+        "September 29:27", 
+        "September:27"
+    ], 
+    "death": "", 
+    "title": "Malegaon blast: Mumbai ATS team looks for Vadodara link", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A team of the Anti-Terrorist Squad -LRB- ATS -RRB- of the Mumbai police visited the city on October 29 as part of their investigations into the September 29 Malegaon blast . . . Officials of the Special Operation Group -LRB- SOG -RRB- of the Vadodara police , who were part of the investigation , told Newsline that the visiting team had some specific information about links between the Malegaon blast and Vadodara . . . `` We were just asked to furnish details about some locations in the city which we did . We have not been given any information about who they were searching for and what information they had gathered about the Vadodara link with the blast , '' said an SOG official .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "anti-terrorist squad:5", 
+        "malegaon blast:29", 
+        "newsline:56", 
+        "malegaon blast:69"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/malegaon-blast--mumbai-ats-team-looks-for-vadodara-link/380032", 
+    "date": "29-09-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorist Squad", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "Special Operation Group", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "SOG", 
+            "41", 
+            "Others"
+        ], 
+        [
+            "SOG", 
+            "124", 
+            "Others"
+        ]
+    ]
+}

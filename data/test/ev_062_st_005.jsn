@@ -1,0 +1,101 @@
+{
+    "LOC": [
+        [
+            "Varanasi", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Jammu and Kashmir.A", 
+            "74", 
+            "Assoc_Event"
+        ], 
+        [
+            "Srinagar", 
+            "126", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abu Feroz", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "Feroz", 
+            "84", 
+            "Comment"
+        ], 
+        [
+            "Muneer Ahmed Khan", 
+            "127", 
+            "Comment"
+        ], 
+        [
+            "Khan", 
+            "163", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:10", 
+        "Tuesday:14"
+    ], 
+    "death": "20", 
+    "title": "Aftermath: Lashkar-e-Qahab owns up for Varanasi blasts", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "LASHKAR-E-QAHAB"
+    ], 
+    "content": "SRINAGAR : A hitherto unknown militant outfit Lashkar-e-Qahab on Thursday claimed responsibility for Tuesday 's twin blasts in Varanasi in which 20 people were killed and over 50 injured.A caller introducing himself as Abu Feroz , a spokesman of the outfit , contacted a private TV channel here claiming responsibility for the twin blasts and threatened similar attacks in other cities unless the government stopped its ` catch and kill ' campaign in Jammu and Kashmir.A staff of the TV channel said that Feroz spoke in Urdu with a heavy Punjabi accent.Police said they had heard the name of the militant outfit for the first time and that it could be an offshoot of some militant outfits active in the state . . . SSP Srinagar Muneer Ahmed Khan said they could not say with authority that the outfit was an offshoot of the Lashkar-e-Taiba . ` We will sift through the records to see if there is any link , ' Khan said .", 
+    "injured": "50", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "srinagar:1", 
+        "hitherto:4", 
+        "outfit:7", 
+        "outfit:41", 
+        "private TV channel:45", 
+        "catch and kill:68", 
+        "campaign:72", 
+        "urdu:87", 
+        "heavy Punjabi accent.Police:90", 
+        "militant:101", 
+        "offshoot:113", 
+        "SSP Srinagar:125"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Aftermath-Lashkar-e-Qahab-owns-up-for-Varanasi-blasts/articleshow/1444021.cms?referral=PM", 
+    "date": "07-03-2006", 
+    "target": "CITIZENS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Lashkar-e-Qahab", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "145", 
+            "Assoc_Accused"
+        ]
+    ]
+}

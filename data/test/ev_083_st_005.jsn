@@ -1,0 +1,127 @@
+{
+    "LOC": [
+        [
+            "Imphal", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Imphal", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Ragailong", 
+            "108", 
+            "Neutral"
+        ], 
+        [
+            "Manipur", 
+            "434", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Baidyanath Prasad", 
+            "159", 
+            "Others"
+        ], 
+        [
+            "Raju", 
+            "210", 
+            "Victim"
+        ], 
+        [
+            "K. Mangle Singh", 
+            "217", 
+            "Comment"
+        ], 
+        [
+            "Rajen Singh", 
+            "234", 
+            "Victim"
+        ], 
+        [
+            "Yumnam Joykumar Singh", 
+            "387", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 23"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Oct.:3", 
+        "Oct. 21:3"
+    ], 
+    "death": "17", 
+    "title": "Imphal blast near police hub kills 17", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Imphal West", 
+        "imphal", 
+        "near a hub of security forces"
+    ], 
+    "terror_group": [
+        " PEOPLES REVOLUTIONARY PARTY OF KANGLEIPAK"
+    ], 
+    "content": "Imphal , Oct. 21 : A blast near a hub of security forces in Imphal killed 17 people and injured 20 this evening , two days after a grenade explosion near the chief ministers office . . . The bomb was fitted to a two-wheeler popularly called a moped . . . Police suspect that the headquarters of 20 Assam Rifles , and the Manipur police commando complex 200 metres away , where personnel live with their families , were the targets . It is not yet known if any security personnel died . . . The bomb went off close to a cluster of people at Ragailong village playing a game of dice called lagao . . . The police said 11 people died on the spot and six in hospital . The victims were taken to the Regional Institute of Medical Sciences ( RIMS ) , Jawaharlal Nehru Hospital and a private hospital . . . Baidyanath Prasad , whose paan shop is close to the blast site , wept at the RIMS when he saw the headless torso of his 20-year-old son . . . My son went near the lagao venue to relieve himself . He was innocent . Why should anyone kill innocents like Raju ? Prasad said . . . K. Mangle Singh of Minuthong , which is close to Ragailong , looked worried . My son Rajen Singh has not returned home . I could not get him on his mobile phone ; he did not take the call . So I came here to see if he is wounded . . . The site was strewn with mangled and torn limbs . Body parts had been flung 20 feet away . . . No group has claimed responsibility yet . The Peoples Revolutionary Party of Kangleipak , which claimed to be behind Sundays grenade explosion near chief minister Okram Ibobi Singhs office complex , denied any role in todays blast . . . A resident of Ragailong said many people had gathered at the site for gambling , which picks up ahead of Diwali . He said people from other parts of the state too came to the place to gamble . . . The police suspect the bomb was fitted to a timer . Director-general of police Yumnam Joykumar Singh said the bomb could have been planted on the two-wheeler , which was smashed to pieces . . . I was in my room when I heard a loud bang . I thought the explosion had happ - ened inside our complex , a Manipur police commando said . . . A doctor at the RIMS , while cleaning a blast victims wounds , said : This is the second time after the Iskcon blast that so many injured people have been brought to the hospital . We are struggling to attend to all these patients . . . The Iskcon blast , which happened two years ago , had killed four devotees and wounded more than 50 on Janmashtami . . . Ibobi Singh and several ministers came to see the injured and console relatives .", 
+    "injured": "20", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "grenade explosion:29"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1081022/jsp/nation/story_10002920.jsp", 
+    "date": "21-10-2002", 
+    "target": "", 
+    "hot_spot": "near a hub of security forces", 
+    "delivery_mod": "MOPED", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "20 Assam Rifles", 
+            "59", 
+            "Others"
+        ], 
+        [
+            "Manipur police commando", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "Regional Institute of Medical Sciences", 
+            "140", 
+            "Others"
+        ], 
+        [
+            "RIMS", 
+            "146", 
+            "Others"
+        ], 
+        [
+            "Jawaharlal Nehru Hospital", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "RIMS", 
+            "175", 
+            "Others"
+        ], 
+        [
+            "Peoples Revolutionary Party of Kangleipak", 
+            "300", 
+            "Accused"
+        ]
+    ]
+}

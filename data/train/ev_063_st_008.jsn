@@ -1,0 +1,94 @@
+{
+    "LOC": [
+        [
+            "Jama Masjid", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "116", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rambabu Sharma", 
+            "33", 
+            "Others"
+        ], 
+        [
+            "Sharma", 
+            "74", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 122"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "DPCC chief Rambabu Sharma for CBI inquiry into Jama Masjid blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi , Apr 15 ( UNI ) Condemning last evening 's bomb blasts at the historic Jama Masjid , in which 14 persons were injured , Delhi Pradesh Congress committee President Rambabu Sharma today called for an inquiry by the CBI into the incident . . . Describing the blasts as the handiwork of anti-national elements , who were out to disturb the peace and communal amity of the country , Mr Sharma said , '' a CBI inquiry will nail the culprits and the forces behind them so that acts of wanton destruction could be prevented . '' Fourteen people were injured , three of them seriously , in bomb blasts in the Jama Masjid which occurred when the evening prayers were on . . . The case has been handed over to the Special Cell of the Delhi Police . . . UNI AR SB VC2005 . . .", 
+    "injured": "14", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "OLD DELHI", 
+        "Delhi", 
+        "Jama Masjid"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/2006/04/15/dpcc-chief-rambabu-sharma-for-cbi-inquiry-into-jama-masjid-blasts-1145119039.html", 
+    "date": "14-04-2006", 
+    "target": "MOSQUE", 
+    "hot_spot": "Jama Masjid", 
+    "delivery_mod": "MOSQUE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "UNI", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "Delhi Pradesh Congress committee", 
+            "28", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "Special Cell", 
+            "137", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "141", 
+            "Others"
+        ]
+    ]
+}

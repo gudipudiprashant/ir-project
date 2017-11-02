@@ -1,0 +1,133 @@
+{
+    "LOC": [
+        [
+            "JAIPUR", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Udaipur", 
+            "7", 
+            "Accused"
+        ], 
+        [
+            "Ajmer", 
+            "51", 
+            "Accused"
+        ], 
+        [
+            "Udaipur", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "200", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kamal Joshi", 
+            "67", 
+            "Comment"
+        ], 
+        [
+            "Joshi", 
+            "140", 
+            "Comment"
+        ], 
+        [
+            "Himmat Singh", 
+            "166", 
+            "Others"
+        ], 
+        [
+            "Anand Srivastava", 
+            "225", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "4 pm : 115"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday  : 38", 
+        "Friday : 73", 
+        "Sunday : 91", 
+        "Sunday : 118"
+    ], 
+    "death": "", 
+    "title": "Jaipur blasts: Man claims to have seen suspect", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "JAIPUR : A restaurant owner from Udaipur is being questioned by police after he claimed to have seen one of the suspected terrorists , whose sketch was released , along with a woman two days ahead of Tuesday 's serial blasts here . Meanwhile , eight Bangladeshis were detained in Ajmer in connection with the blasts . The owner of Samor Bagh restaurant in Udaipur , Kamal Joshi told the police on Friday that a person resembling the sketch , released last night , was seen in his restaurant on Sunday evening . He said that the man was accompanied by a young woman and both of them came to the restaurant at about 4 pm on Sunday . The woman entered the restaurant wearing a saree but changed into a salwar kameez before leaving with the man , Joshi said , according to the police . They did not take anything in the restaurant , he said . The in-charge of Surajpole police station Himmat Singh said investigations were on to check the movement of the duo in the town . Rajasthan Police has also detained eight Bangladeshis near the famous Sufi shrine of Khwaja Moinuddin Chisti in Ajmer after they were found to be moving under suspicious circumstances . All the eight are being questioned , Superintendent of Police -LRB- Ajmer -RRB- Anand Srivastava said .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "restaurant owner:4", 
+        "questioned:10", 
+        "police:12", 
+        "claimed:15", 
+        "seen:18", 
+        "one of the suspected terrorists:19", 
+        "sketch:26", 
+        "released:28", 
+        "woman:33", 
+        "two days ahead:34", 
+        "tuesday 's serial blasts:38", 
+        "eight bangladeshis:46", 
+        "detained:49", 
+        "evening:92", 
+        "saree:127", 
+        "changed:129", 
+        "salwar kameez:132", 
+        "investigations:169", 
+        "on:171", 
+        "check:173", 
+        "movement of the duo:175", 
+        "detained eight Bangladeshis:187", 
+        "sufi shrine:193", 
+        "khwaja moinuddin chisti:196", 
+        "superintendent of police:219"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Jaipur-blasts-Man-claims-to-have-seen-suspect/articleshow/3045645.cms?", 
+    "date": "13-05-2008", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Samor Bagh restaurant", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "Surajpole police station", 
+            "163", 
+            "Others"
+        ], 
+        [
+            "Rajasthan Police", 
+            "183", 
+            "Others"
+        ]
+    ]
+}

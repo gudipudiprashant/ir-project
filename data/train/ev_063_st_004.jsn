@@ -1,0 +1,206 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Walled City", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "58", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "133", 
+            "Event"
+        ], 
+        [
+            "Walled City", 
+            "145", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "415", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "87", 
+            "Others"
+        ], 
+        [
+            "E. Ahmed", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "Shahi Imam", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "K. K. Paul", 
+            "137", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "hours : 38"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday : 36", 
+        "Friday : 51", 
+        "Saturday evening : 104", 
+        "Saturday : 455", 
+        "Saturday : 480"
+    ], 
+    "death": "", 
+    "title": "Over a dozen picked up for Jama Masjid blasts", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "", 
+        "Delhi", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . Security stepped up in and around the mosque as life returns to normal . . NEW DELHI : Even as normality returned to the Walled City area of the Capital on Saturday within hours of the two bomb explosions inside the historic Jama Masjid complex on Friday , the Special Cell of the Delhi police picked up over a dozen people for questioning . However , no arrests have been made so far . . . Amid tight security , Prime Minister Manmohan Singh along with Union Minister of State for External Affairs E. Ahmed visited the mosque on Saturday evening and met the Shahi Imam of Jama Masjid . He also visited the hospital where the injured are admitted . . . Earlier in the day , Delhi 's Police Commissioner K. K. Paul took a round of the Walled City area to review the security arrangements . ` We are piecing together all the evidence gathered from the blast site . About 15 people have been interrogated in coordination with intelligence agencies in connection with the blast , ' he disclosed . . Along with those picked up for interrogation , the antecedents of at least two suspects are being probed by Special Cell officers as they have given contradictory statements about their movement at the time of the blasts . With the help of eyewitnesses the police are trying to reconstruct the sequence of events leading to the explosions near the water-tank right at the centre of the historic mosque . . . The police have also recorded the statements of some of the victims injured in the twin blasts . . . The police have recovered portions of a battery from the scene of explosions but have not come across any timer device or wire . Though senior police officers are sure that the bombs used in the explosions were crude , they are probing how exactly they were configured . . . According to the police , the nature of blasts indicates that some local group was involved . ` As investigations are in an initial stage , we can not say for sure which outfit is behind the explosions , ' said a senior police officer , emphasising that the motive of the blasts by all indications was not to kill but to whip up communal passions . . . Following the explosions , metal detectors have been installed at all entrances to the Jama Masjid and more police personnel have been deployed in the area . All visitors to the mosque are being frisked and their belongings checked . However , all the shops in the area around the mosque remained open on Saturday . . . Meanwhile , barring three of the victims , all the other injured were discharged from Lok Nayak Jayaprakash Narayan Hospital on Saturday .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Security:5", 
+        "stepped up:6", 
+        "mosque:12", 
+        "returns:15", 
+        "normal:17", 
+        "normality returned:25", 
+        "Capital:34", 
+        "two bomb explosions:41", 
+        "dozen people:64", 
+        "questioning:67", 
+        "no arrests:71", 
+        "tight security:82", 
+        "visited:100", 
+        "mosque:102", 
+        "Jama Masjid:112", 
+        "visited:117", 
+        "hospital:119", 
+        "injured:122", 
+        "admitted:124", 
+        "review:149", 
+        "security arrangements:151", 
+        "piecing:157", 
+        "evidence gathered:161", 
+        "blast site:165", 
+        "15 people:169", 
+        "interrogated:173", 
+        "intelligence agencies:177", 
+        "connection:180", 
+        "blast:183", 
+        "interrogation:196", 
+        "antecedents:199", 
+        "two suspects:203", 
+        "probed:207", 
+        "Special Cell officers:209", 
+        "contradictory statements:216", 
+        "movement:220", 
+        "blasts:226", 
+        "eyewitnesses:232", 
+        "reconstruct:238", 
+        "sequence of events:240", 
+        "explosions:246", 
+        "water-tank:249", 
+        "historic mosque:256", 
+        "recorded:265", 
+        "statements:267", 
+        "victims injured:272", 
+        "twin blasts:276", 
+        "recovered:284", 
+        "battery:288", 
+        "scene of explosions:291", 
+        "timer device:300", 
+        "wire:303", 
+        "senior police officers:306", 
+        "bombs:313", 
+        "explosions:317", 
+        "crude:319", 
+        "configured:328", 
+        "blasts:340", 
+        "local group:344", 
+        "involved:347", 
+        "investigations:351", 
+        "initial stage:355", 
+        "outfit:365", 
+        "explosions:369", 
+        "emphasising:378", 
+        "motive:381", 
+        "blasts:384", 
+        "indications:387", 
+        "kill:391", 
+        "communal passions:396", 
+        "explosions:403", 
+        "detectors:406", 
+        "installed:409", 
+        "entrances:412", 
+        "police personnel:419", 
+        "deployed:423", 
+        "visitors:429", 
+        "mosque:432", 
+        "frisked:435", 
+        "mosque:451", 
+        "victims:465", 
+        "injured:470"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/over-a-dozen-picked-up-for-jama-masjid-blasts/article3148206.ece", 
+    "date": "15-04-2006", 
+    "target": "MOSQUE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Special Cell", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "Delhi police", 
+            "58", 
+            "Others"
+        ], 
+        [
+            "Special Cell", 
+            "209", 
+            "Others"
+        ], 
+        [
+            "Lok Nayak Jayaprakash Narayan Hospital", 
+            "474", 
+            "Others"
+        ]
+    ]
+}

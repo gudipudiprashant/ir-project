@@ -1,0 +1,69 @@
+{
+    "LOC": [
+        [
+            "Keisampat", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Imphal", 
+            "25", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "morning : 28", 
+        "9 AM : 48"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "2 Assam Rifles personnel injured in Imphal blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Imphal : Two Assam Rifles personnel were injured , one of them seriously , in a bomb blast at Keisampat in the heart of Imphal town this morning . . . Representational image . PTI . . The bomb , planted in a two-wheeler , exploded at 9 AM at a crowded bus terminal , barely one km away from the police headquarters , official sources said . . . The Assam Rifles personnel were patrolling the area . . . The injured have been shifted to a nearby hospital where the condition of one of them was stated to be serious , sources said . . . Top police officials rushed to the area . Preliminary reports said the blast could have been triggered by an IED and investigations were on .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Imphal West", 
+        "imphal", 
+        "Keisampat"
+    ], 
+    "O": [
+        "police:62"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/india/2-assam-rifles-personnel-injured-in-imphal-blast-444099.html", 
+    "date": "05-09-2012", 
+    "target": "", 
+    "hot_spot": "Keisampat", 
+    "delivery_mod": " TWO-WHEELER", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Assam Rifles", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "Assam Rifles", 
+            "72", 
+            "Others"
+        ]
+    ]
+}

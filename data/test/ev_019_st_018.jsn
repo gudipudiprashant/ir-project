@@ -1,0 +1,87 @@
+{
+    "LOC": [
+        [
+            "West Bengals Bardhaman", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Raghunathpur", 
+            "27", 
+            "Source"
+        ], 
+        [
+            "Purulia", 
+            "30", 
+            "Source"
+        ], 
+        [
+            "Purulia", 
+            "63", 
+            "Source"
+        ]
+    ], 
+    "PER": [
+        [
+            "S. K. Neelakantam", 
+            "67", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:33"
+    ], 
+    "death": "2", 
+    "title": "Huge haul of gelatin sticks", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Days after the blast in West Bengals Bardhaman district where two persons died , the police seized a large quantity of gelatine sticks and detonators from Raghunathpur area in Purulia district on Saturday . . . Two persons have been detained . . . Acting on a tip off we intercepted a vehicle and seized 2,700 gelatine sticks and 11,000 detonators , Purulia Superintendent of Police S. K. Neelakantam told The Hindu .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Kolkata", 
+        "West Bengals Bardhaman district "
+    ], 
+    "O": [
+        "quantity:20", 
+        "detonators:25", 
+        "district:31", 
+        "detained:41", 
+        "gelatine sticks:57", 
+        "and 11,000:59", 
+        "detonators:61", 
+        "superintendent:64", 
+        "the hindu:71"
+    ], 
+    "unexpl": [
+        "DETONATORS"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/huge-haul-of-gelatin-sticks/article6492814.ece", 
+    "date": "11-10-2014", 
+    "target": "", 
+    "hot_spot": "West Bengals Bardhaman district ", 
+    "delivery_mod": "VEHICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "GELATINE STICKS"
+    ], 
+    "ORG": [
+        [
+            "police", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "66", 
+            "Others"
+        ]
+    ]
+}

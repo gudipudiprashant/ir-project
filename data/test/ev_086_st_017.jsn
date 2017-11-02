@@ -1,0 +1,185 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "102", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "128", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "201", 
+            "Neutral"
+        ], 
+        [
+            "Dadar", 
+            "209", 
+            "Event"
+        ], 
+        [
+            "Zaveri", 
+            "211", 
+            "Event"
+        ], 
+        [
+            "Opera House", 
+            "235", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "256", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "297", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "323", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "354", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "RK Singh", 
+            "89", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "117", 
+            "Comment"
+        ], 
+        [
+            "UK Bansal", 
+            "182", 
+            "Comment"
+        ], 
+        [
+            "P Chidambaram", 
+            "317", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "318", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "408", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:94"
+    ], 
+    "death": "17", 
+    "title": "Mumbai blasts: Sophisticated IEDs controlled by cellphones used", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Mumbai : A hazy picture is gradually emerging of how the blasts took place - sophisticated Improvised Explosive Devices -LRB- IEDs -RRB- were used ; they were triggered by alarms set on cellphones . No sim cards have been found at the locations of the blasts . Two of the bombs used over a kilo of explosives . `` Preliminary investigations indicate the use of IEDs with ammonium nitrate-based explosives . The IEDs are not crude . They indicate some level of sophistication , '' Union Home Secretary RK Singh told reporters on Thursday , a day after triple blasts in Mumbai left 17 people dead , 131 injured and a severed head to be identified.Mr Singh also confirmed that a dead body at JJ Hospital in Mumbai had been found with an electrical circuit on it . When asked if the gadget could have been a timer used to trigger one of the explosions , he said that it was safest for now to assume that the person who died was standing close to where an explosion took place . UK Bansal , Special Secretary for Internal Security said there were no leads yet against any terror group.Meanwhile , Mumbai Police now say the CCTV footage from Dadar and Zaveri Bazaar blasts sites has yielded little . They now hope to find some vital clues in the footage from a building near the Opera House , the third blast site.Investigations are being carried out by the Maharashtra Anti-Terrorist Squad -LRB- ATS -RRB- and the Mumbai Police -LRB- Crime Branch -RRB- , assisted by teams from the National Investigating Agency -LRB- NIA -RRB- , the National Security Guard -LRB- NSG -RRB- and Central Forensic Science Laboratory -LRB- CFSL -RRB- . The NIA Director General is in Mumbai to oversee the probe.The union Home Ministry has been updating the media regularly about post-blast investigations . Home Minister P Chidambaram , who is in Mumbai , refused to speculate on who is responsible for the attacks . He said no group has so far claimed responsibility . He added that all groups `` hostile to India '' were being probed . `` We have asked the police and investigators not to proceed on presupposition . All those who have the capacity to carry out terror attacks are suspected . All angles will be investigated , all premises will be examined , all leads will be followed , '' Mr Chidambaram said . -LRB- Watch : Live video of our complete coverage -RRB- .", 
+    "injured": "131", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "O": [
+        "Explosive Devices:18", 
+        "Union Home Secretary:86", 
+        "JJ Hospital:125", 
+        "Director General:293", 
+        "union Home Ministry:302", 
+        "Home Minister:315"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/mumbai-blasts-sophisticated-ieds-controlled-by-cellphones-used-461464", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "AMMONIUM NITRATE", 
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Mumbai Police", 
+            "201", 
+            "Others"
+        ], 
+        [
+            "Maharashtra Anti-Terrorist Squad", 
+            "248", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "252", 
+            "Others"
+        ], 
+        [
+            "Mumbai Police", 
+            "256", 
+            "Others"
+        ], 
+        [
+            "National Investigating Agency", 
+            "268", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "276", 
+            "Others"
+        ], 
+        [
+            "Central Forensic Science Laboratory", 
+            "283", 
+            "Others"
+        ], 
+        [
+            "CFSL", 
+            "288", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "292", 
+            "Others"
+        ]
+    ]
+}

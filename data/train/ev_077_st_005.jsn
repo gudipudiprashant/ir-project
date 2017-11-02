@@ -1,0 +1,203 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI",
+            "1", 
+            "Source"
+        ], 
+        [
+            "Bangalore", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad",
+            "15", 
+            "Event"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "69", 
+            "Victim"
+        ], 
+        [
+            "Indore", 
+            "82", 
+            "Victim"
+        ], 
+        [
+            "Ujjain", 
+            "84", 
+            "Victim"
+        ], 
+        [
+            "Rajasthan", 
+            "99", 
+            "Event"
+        ], 
+        [
+            "Karnataka", 
+            "101", 
+            "Event"
+        ], 
+        [
+            "Mumbai",
+            "168", 
+            "Event"
+        ], 
+        [
+            "Kashmir", 
+            "190", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore",
+            "266", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad",
+            "268", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "343", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "407", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "409", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "NEW", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "B Raman", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "Ajai Sahni", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "Sahni", 
+            "282", 
+            "Others"
+        ], 
+        [
+            "Sahni", 
+            "391", 
+            "Others"
+        ], 
+        [
+            "Prakash Singh", 
+            "396", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:110", 
+        "2001:246"
+    ], 
+    "death": "", 
+    "title": "BJP-ruled states incur wrath of terrorists", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : The deadly serial bomb blasts on consecutive days in Bangalore and Ahmedabad have shown that the terrorists are confident of striking at will . But what 's the message they are trying to send ? Strategic analysis expert B Raman says that the blasts seem to be directed against the BJP-ruled states . ` The next series of blasts could possibly be carried out in Madhya Pradesh . It is no coincidence that SIMI cadres were arrested in Indore and Ujjain recently , ' he says . Earlier blasts this year were carried out in Rajasthan and Karnataka , both BJP-ruled states . Five minutes before Saturday 's blasts , a television channel received an email from a terror group claiming to be Indian Mujahideen . In the past one year , this group has owned responsibility for several other strikes . They seem to nurse a grudge against the country 's criminal justice system . ` The innocent Muslims arrested in the -LRB- Mumbai -RRB- bomb blast case are being tried for years and years , ' it says . There is no reference to Kashmir in the email . According to Ajai Sahni , executive director , Institute for Conflict Management , the blasts do not reflect any dramatic augmentation in the strike capacity of the terrorists . ` We must not forget that the terrorists have only been able to hit at soft targets since the Parliament attack in 2001 . And every soft target can not be secured . ' However , he adds : ` If the Bangalore and Ahmedabad blasts are co-related , then it reflects a greater central coordination . ' Sahni is of the view that the material damage wrecked by terrorism is limited . ` But the psychological impact is much more . And this is what needs to be controlled , ' he says . He feels there is an urgent need to shore up the national security apparatus also points out the roadblocks in the way . ` India 's police to population ratio is one of the lowest in the world , barring the poorer African countries . There is a high deficit of personnel in intelligence gathering . The IB has barely 3,500 field officers . We need to address these shortcomings , ' Sahni says . Security expert Prakash Singh , however , feels that the successive blasts in Bangalore and Ahmedabad show the overconfidence of the terrorists . ` They have no fear of being detected , arrested or prosecuted , ' he says . Affirms PR Chari , research professor , Institute for Peace and Conflict Studies , ` The blasts were a demonstration of their capabilities and a terse reminder of the state 's helplessness . ' .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "serial bomb:6", 
+        "Strategic analysis:39", 
+        "series:60", 
+        "simi cadres:77", 
+        "email:119", 
+        "Mumbai -RRB- bomb blast case:168", 
+        "email:193", 
+        "director:201", 
+        "strike capacity:218", 
+        "parliament attack:243", 
+        "Bangalore and Ahmedabad blasts:266", 
+        "material damage:289", 
+        "security apparatus:331", 
+        "African countries:361", 
+        "intelligence gathering:372", 
+        "ib:376", 
+        "research professor:438"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/BJP-ruled-states-incur-wrath-of-terrorists/articleshow/3286115.cms?", 
+    "date": "25-07-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "BJP-ruled", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "77", 
+            "Victim", 
+            "Others"
+        ], 
+        [
+            "BJP-ruled", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "127", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Institute for Conflict Management", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "Conflict Management", 
+            "205", 
+            "Others"
+        ], 
+        [
+            "Institute for Peace and Conflict Studies", 
+            "441", 
+            "Others"
+        ]
+    ]
+}

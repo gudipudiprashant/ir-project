@@ -1,0 +1,93 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Opera House", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Bombay", 
+            "74", 
+            "Neutral"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "80", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazar", 
+            "107", 
+            "Event"
+        ], 
+        [
+            "Opera House", 
+            "110", 
+            "Event"
+        ], 
+        [
+            "Dadar", 
+            "113", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Babulal Das", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "Avinash Tamka", 
+            "61", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "3 am : 55"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 13:12"
+    ], 
+    "death": "", 
+    "title": "Death toll in Mumbai terror blasts rises to 19", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "", 
+        "Opera House"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Mumbai : A man , who sustained serious injuries in the July 13 triple blasts here , today died in a city hospital , taking the death toll in the bombings to 19 . Babulal Das , 42 , who was admitted to Saifee Hospital after the blast at Opera House , died around 3 am , they said.Yesterday , Avinash Tamka -LRB- 23 -RRB- , who was admitted to the ICU in Bombay Hospital following the blast in Zaveri Bazaar , had died.Twenty people , who were seriously injured in the bombings , are being treated at various hospitals in the city.The triple blasts at Zaveri Bazar , Opera House and Dadar had left more than 130 people injured . .", 
+    "injured": "20", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "city hospital:22", 
+        "saifee hospital:44", 
+        "ICU:72", 
+        "hospitals:100"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/death-toll-in-mumbai-terror-blasts-rises-to-19-461704", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "Opera House", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

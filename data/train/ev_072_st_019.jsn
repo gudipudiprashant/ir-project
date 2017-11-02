@@ -1,0 +1,132 @@
+{
+    "LOC": [
+        [
+            "Pakistan", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Ajmer", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "44", 
+            "Neutral"
+        ], 
+        [
+            "Islamabad", 
+            "52", 
+            "Neutral"
+        ], 
+        [
+            "Samjhauta Express", 
+            "67", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "Hyderabad ,", 
+            "141", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer Mosque", 
+            "143", 
+            "Event"
+        ], 
+        [
+            "Ludhiana cinema hall", 
+            "146", 
+            "Event"
+        ], 
+        [
+            "UN", 
+            "243", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "MK Narayanan", 
+            "171", 
+            "Comment"
+        ], 
+        [
+            "KC Singh", 
+            "214", 
+            "Others"
+        ], 
+        [
+            "Khalid Aziz Babar", 
+            "236", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:40"
+    ], 
+    "death": "", 
+    "title": "Delhi to Pak: We gave you proof, give us terrorists", 
+    "det_loc": [
+        "India", 
+        "TELANGANA", 
+        "", 
+        "Hyderabad", 
+        "Hyderabad"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi : India sought Pakistan 's cooperation in tracking down the suspects in the bomb blasts in Hyderabad , Ajmer and Ludhiana as it provided evidence of cross-border linkages of these incidents at the Joint Anti-Terror Meeting on Monday . . . New Delhi also sought to know what action Islamabad had taken on the information provided about persons believed to be behind the cross-border Samjhauta Express blasts and other terror attacks in India over the last two years . . . `` Both sides shared new information on the terrorist incidents , including those which have occurred since the last meeting , '' a joint statement issued after the second JATM said . . . At the meeting , the Indian side provided evidence about involvement of Pakistan-based elements in the bomb blasts at the Mecca Masjid in Hyderabad , Ajmer Mosque and Ludhiana cinema hall over the last few months . . . Security agencies have blamed some Pakistan-based terrorists for these attacks . National Security Adviser MK Narayanan recently said Pakistani linkages were common to all these terror incidents . `` The Pakistani side assured that it will look into the evidence , '' a source said after the meeting . . . The Indian delegation was led by KC Singh , Additional Secretary ( International Organisations ) in the External Affairs Ministry , while the Pakistani side was headed by Khalid Aziz Babar , Additional Secretary ( UN ) in the Foreign Ministry . . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Additional Secretary:217", 
+        "External Affairs Ministry:225", 
+        "Additional Secretary:240", 
+        "Foreign Ministry:247"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/delhi-to-pak-we-gave-you-proof-give-us-terrorists-275057.html", 
+    "date": "22-10-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "Hyderabad", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "JATM", 
+            "113", 
+            "Others"
+        ], 
+        [
+            "National Security Adviser", 
+            "168", 
+            "Others"
+        ]
+    ]
+}

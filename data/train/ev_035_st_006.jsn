@@ -1,0 +1,126 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "112", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vinay Kumar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "96", 
+            "Comment"
+        ], 
+        [
+            "Shivraj Patil", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "Patil", 
+            "132", 
+            "Comment"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "137", 
+            "Others"
+        ], 
+        [
+            "Gupta", 
+            "147", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "journalists : 99", 
+        "50-minute : 128"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:34"
+    ], 
+    "death": "", 
+    "title": "Central team to visit Assam", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Vinay Kumar . . NEW DELHI : A Union Home Ministry team , consisting of experts from the security and intelligence wings , will visit Assam , where serial bomb blasts occured on Thursday . . . An expert team of the National Security Guards has already left for Guwahati to analyse the explosives used in the blasts and to look for clues . . . There could be links among various terrorist groups which are active in the northeast . But it is very difficult to say anything at this stage , Home Secretary Madhukar Gupta told journalists after a high-level meeting held here to review the security situation in Assam . . . It was presided over by Home Minister Shivraj Patil . During the 50-minute meeting , Mr. Patil spoke to Chief Minister Tarun Gogoi on the phone twice . . . Mr. Gupta said the State government was directed to strengthen security in the affected and vulnerable areas , and to make its own inquiries .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Union Home Ministry team:9", 
+        "experts:16", 
+        "security and intelligence wings:19", 
+        "serial bomb blasts:29", 
+        "expert team:39", 
+        "analyse:52", 
+        "explosives:54", 
+        "blasts:58", 
+        "clues:63", 
+        "terrorist groups:73", 
+        "northeast:80", 
+        "high-level meeting:102", 
+        "review:107", 
+        "security situation:109", 
+        "presided:118", 
+        "50-minute meeting:128", 
+        "phone twice:141", 
+        "strengthen security:155", 
+        "affected and vulnerable areas:159", 
+        "inquiries:169"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/central-team-to-visit-assam/article1366822.ece", 
+    "date": "30-10-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Security Guards", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "State government", 
+            "150", 
+            "Others"
+        ]
+    ]
+}

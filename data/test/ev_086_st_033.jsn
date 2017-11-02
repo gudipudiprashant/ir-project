@@ -1,0 +1,243 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Bhubaneswar", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "168", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "188", 
+            "Event"
+        ], 
+        [
+            "Orissa", 
+            "204", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "311", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "334", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "338", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "391", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "408", 
+            "Event"
+        ], 
+        [
+            "Iran", 
+            "413", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "415", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "417", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "460", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "483", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rahul Gandhi", 
+            "11", 
+            "Comment"
+        ], 
+        [
+            "Gandhi", 
+            "134", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "235", 
+            "Comment"
+        ], 
+        [
+            "Rudy", 
+            "288", 
+            "Comment"
+        ], 
+        [
+            "L.K. Advani", 
+            "292", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "301", 
+            "Comment"
+        ], 
+        [
+            "Anurag Thakur", 
+            "347", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "362", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "387", 
+            "Comment"
+        ], 
+        [
+            "Sanjay Raut", 
+            "432", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "444", 
+            "Comment"
+        ], 
+        [
+            "Raut", 
+            "485", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:15", 
+        "Wednesday:130", 
+        "Wednesday:170", 
+        "Wednesday:206"
+    ], 
+    "death": "", 
+    "title": "Difficult to stop terror attacks all the time, says Rahul Gandhi", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Aday after serial blasts rocked Mumbai , Congress general secretary Rahul Gandhi said on Thursday it was impossible to stop all terror attacks.Addressing a press conference at Bhubaneswar , the Congress MP called for efforts to stop terrorist attacks in the country.Rahul said that 99 per cent of the terror attacks had been stopped in the country , thanks to various measures , including improved intelligence.Over the last couple of years we have taken profound steps . We have improved in leaps and bounds . But terrorism is impossible to stop all the time , the Congress leader said.He further said , We work towards defeating it , but it is very difficult to stop all the attacks . Even in US they are being attacked in Afghanistan.Referring to Wednesday 's attack , Gandhi said the response of the government was prompt . We are responding to it in a quite organised fashion.Two days after the fifth anniversary of the 7/11 serial bombings , three explosions shook Mumbai on Wednesday , killing at least 18 people and injuring more than hundred . All the blasts occurred at Mumbai 's crowded market places in the peak rush hour.Rahul is on a two-day visit to Orissa beginning Wednesday to strengthen the grassroots base of the party . Oppn slams RahulThe BJP said the statement was unfortunate , adding , it would embolden the terror groups . Rahul Gandhi 's statement is unfortunate . Such statements are unacceptable . This will embolden all the terror outfits , said party spokesperson Rajiv Pratap Rudy.This will demoralise people . Instead , the government should have admitted it was a lapse and shown firm commitment . But we are getting such statements , Rudy added.Senior party leader L.K. Advani said , I will not comment on Rahul Gandhi . My party will . But in the US , after 9/11 , nothing of that sort has happened . They are seen as bigger enemy ( of terrorists ) than India - attacks in India can be stopped.BJP MP and Yuva Morcha leader Anurag Thakur said , This is an unfortunate statement coming from a young leader like Rahul Gandhi . This proves that the Congress does n't want to fight terror with iron hand.Shiv Sena said it was wrong for Congress leader Rahul Gandhi to equate Mumbai terror attacks with those in Afghanistan.We elect you to protect us . When you compare the Mumbai attacks to those in Iran , Iraq and Afghanistan , it is an insult to those killed in these attacks , Sena MP Sanjay Raut said on Thursday.A case of treason should be filed against Rahul Gandhi over these remarks , he said.Rahul does not leave a single chance to insult Mumbai . When he says the terror attacks will continue to happen , it shows that he is not fit to live in India , Raut said . - With PTI inputs .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        "Mumbai"
+    ], 
+    "O": [
+        "serial blasts:3", 
+        "terror attacks:466"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/mumbai-serial-blasts-difficult-to-stop-terror-attacks-all-the-time-says-rahul-gandhi/1/144774.html", 
+    "date": "14-07-2011", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Congress", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "MP", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "97", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "219", 
+            "Others"
+        ], 
+        [
+            "MP", 
+            "342", 
+            "Others"
+        ], 
+        [
+            "Yuva Morcha", 
+            "344", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "369", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "385", 
+            "Others"
+        ], 
+        [
+            "MP", 
+            "431", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "490", 
+            "Others"
+        ]
+    ]
+}

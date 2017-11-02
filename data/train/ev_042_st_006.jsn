@@ -1,0 +1,103 @@
+{
+    "LOC": [
+        [
+            "Umrangsho", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Dima Hasao", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Sivsagar", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Umrangsho", 
+            "60", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "69", 
+            "Neutral"
+        ], 
+        [
+            "Sivsagar", 
+            "154", 
+            "Event"
+        ], 
+        [
+            "Upper Assam", 
+            "157", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Paresh Baruah", 
+            "146", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "1.30 : 54", 
+        "night : 132"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:131"
+    ], 
+    "death": "1", 
+    "title": "Midnight blast in Assam, one killed", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Guwahati : One person was killed as a bomb went off at Umrangsho in Assam 's Dima Hasao district early today , hours after an explosion in Sivsagar town , police said . . . A powerful bomb , suspected to be an improvised explosive device ( IED ) , went off around 1.30 am near the market in Umrangsho , a hill station about 220 km from Guwahati . . . Stepping up vigil . PTI . . `` The blast ripped apart the body of the person and this indicates that he was carrying the bomb , '' said a senior police official . The man is yet to be identified and investigations are on to find out which militant outfit he worked for . . . On Monday night , suspected militants belonging to the anti-talk faction of the Ulfa led by Paresh Baruah had triggered another powerful blast at Sivsagar town in Upper Assam , killing one and injuring eight others .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "guwahati", 
+        "Umrangsho"
+    ], 
+    "O": [
+        "police:31", 
+        "explosive device:45"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/fwire/midnight-blast-in-assam-one-killed-467610.html", 
+    "date": "25-09-2012", 
+    "target": "", 
+    "hot_spot": "Umrangsho", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "Ulfa", 
+            "143", 
+            "Accused"
+        ]
+    ]
+}

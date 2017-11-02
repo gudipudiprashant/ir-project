@@ -1,0 +1,76 @@
+{
+    "LOC": [
+        [
+            "Jaipur", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Tier-I cities", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "38", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "Pink City", 
+            "70", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "75", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Terrorism: Indian government caught napping", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "IN A tragic yet surprising development , serial bomb blasts occurred at half-a-dozen places in Jaipur , Rajasthan . The serial blasts were well planned by the terrorists . They are not interested in Tier-I cities of India , instead they are targeting Tier-II and Tier-III cities across the country . Jaipur is one of the foremost symbol of Indias cultural heritage . Lakhs of tourists come to the Pink City every year and Rajasthan is the face of Indian tourism worldwide . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Jaipur", 
+        "Jaipur"
+    ], 
+    "O": [
+        "half-a-dozen:13", 
+        "Indian tourism worldwide:80"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.merinews.com/article/terrorism-indian-government-caught-napping/134004.shtml", 
+    "date": "14-05-2008", 
+    "target": "", 
+    "hot_spot": "Jaipur", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

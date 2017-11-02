@@ -1,0 +1,112 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "U.S.", 
+            "34", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Islamabad", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "77", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "David Mulford", 
+            "38", 
+            "Comment"
+        ], 
+        [
+            "Yousuf Raza Gilani", 
+            "68", 
+            "Comment"
+        ], 
+        [
+            "Shah Mahmood Qureshi", 
+            "108", 
+            "Comment"
+        ], 
+        [
+            "Muttahida Qaumi", 
+            "125", 
+            "Comment"
+        ], 
+        [
+            "Altaf Hussain", 
+            "129", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 47"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:46"
+    ], 
+    "death": "", 
+    "title": "Vicious act of terrorism: U.S.", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi : The United States has strongly condemned the vicious act of terrorism in Jaipur . . . There can be no possible justification for the murderous attack on innocent people , U.S. Ambassador to India David Mulford said in a statement here on Tuesday night . He extended deepest sympathies to the families of the victims . . . In Islamabad , Pakistan Prime Minister Yousuf Raza Gilani strongly condemned the bomb blasts . Pakistan condemns all acts of terrorism and reaffirms its firm commitment to fight this scourge together with the international community , he said in a message . . . Foreign Minister Shah Mahmood Qureshi expressed his condolences and sympathies to the families of the victims . . . Muttahida Qaumi Movement chief Altaf Hussain said those involved in such attacks were not human . Through such activities , terrorists were trying to disturb the peace of the region , said an MQM statement . PTI .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Jaipur", 
+        "Jaipur"
+    ], 
+    "O": [
+        "Prime Minister:66", 
+        "Foreign Minister:106"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/vicious-act-of-terrorism-us/article1258115.ece", 
+    "date": "13-05-2008", 
+    "target": "", 
+    "hot_spot": "Jaipur", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "161", 
+            "Others"
+        ]
+    ]
+}

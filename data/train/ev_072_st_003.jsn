@@ -1,0 +1,129 @@
+{
+    "LOC": [
+        [
+            "Ajmer Sharif dargah", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Shringaar Cinema", 
+            "99", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "255",
+            "Event"
+        ], 
+        [
+            "Punjab", 
+            "274", 
+            "Neutral"
+        ], 
+        [
+            "Ludhiana", 
+            "284", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "321", 
+            "Accused"
+        ], 
+        [
+            "Punjab", 
+            "332", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ishwar Singh", 
+            "138", 
+            "Comment"
+        ], 
+        [
+            "K P S Gill", 
+            "337", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "8.30 pm:66"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday night:23", 
+        "Sunday:23"
+    ], 
+    "death": "7", 
+    "title": "Blast rips through Ludhiana movie hall: 7 killed, 40 injured", 
+    "det_loc": [
+        "India", 
+        "Punjab", 
+        "Ludhiana", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "BABBAR KHALSA INTERNATIONAL"
+    ], 
+    "content": "Barely three days after a blast at the Ajmer Sharif dargah , a powerful explosion rocked a cinema hall in Ludhiana on Sunday night - after peaceful Id festivities throughout the country - killing at least seven persons and injuring about 40 . A 10-year-old child was among those killed . . . Eyewitnesses however claimed there were two blasts in close succession , around 8.30 pm , just after the interval . . . The victims were mainly migrants from other states who were watching a 7 pm show of Bhojpuri film Janam Janam Ka Saath at Shringaar Cinema . There are two more cinema halls in the building . . . The condition of 23 of those injured , admitted to CMC Hospital , was stated to be serious . . . Ludhiana Range DIG Ishwar Singh said the bomb appeared to have been placed in the first three rows of seats . `` At the moment it can not be said if it was RDX or something else , '' he added . The blast site was splattered with blood and body parts and a huge crater marked the spot . . . The Union Home Ministry reacted with caution , saying it needed more information before concluding if this was a terror strike . `` We are monitoring the situation and waiting for more details , '' a spokesperson said . . . What is worrying the security and intelligence machinery is not just that the blast closely follows the Ajmer explosion but that if it were a terror attack , it would be the first such strike in Punjab in a long time and the very first for Ludhiana , the industrial city that also houses a large number of migrant workers . . . Investigators will also have to determine whether the blast is the handiwork of Islamist terror groups or if a dormant Punjab militant organisation has become active again . . . Former Punjab Director General of Police K P S Gill maintained that planting of explosive devices in a cinema hall meant that it was most likely a terror strike and his suspicions would go to the Babbar Khalsa International or the Khalistan Zindabad Force . . . ... contd .", 
+    "injured": "40", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "cinema hall:18", 
+        "bhojpuri film:92", 
+        "Janam Janam Ka Saath:94", 
+        "DIG:137", 
+        "RDX:168", 
+        "Union Home Ministry:198", 
+        "militant organisation:322", 
+        "director general:333"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/blast-rips-through-ludhiana-movie-hall-7-killed-40-injured/228501/", 
+    "date": "14-10-2007", 
+    "target": "CINEMA HALL", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "CMC Hospital", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "Islamist terror groups", 
+            "314", 
+            "Accused"
+        ], 
+        [
+            "Babbar Khalsa International", 
+            "367", 
+            "Accused"
+        ], 
+        [
+            "Khalistan Zindabad Force", 
+            "372", 
+            "Accused"
+        ]
+    ]
+}

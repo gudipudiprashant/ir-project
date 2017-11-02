@@ -1,0 +1,150 @@
+{
+    "LOC": [
+        [
+            "Chandigarh", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Ludhiana", 
+            "40", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "188", 
+            "Event"
+        ], 
+        [
+            "Jallandhar", 
+            "217", 
+            "Neutral"
+        ], 
+        [
+            "Ludhiana", 
+            "228", 
+            "Event"
+        ], 
+        [
+            "Ajmer", 
+            "262", 
+            "Assoc_Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "264", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Badal", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "Chandershekhar", 
+            "91", 
+            "Comment"
+        ], 
+        [
+            "Badal", 
+            "211", 
+            "Others"
+        ], 
+        [
+            "Parkash Singh Badal", 
+            "222", 
+            "Comment"
+        ], 
+        [
+            "Prakash Jaiswals", 
+            "252", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:57"
+    ], 
+    "death": "", 
+    "title": "RDX used in Ludhiana cinema blast: Police", 
+    "det_loc": [
+        "India", 
+        "Punjab", 
+        "Ludhiana", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Blast not due to intelligence failure , asserts Badal . . Blast intensity not very high . . So far 60 persons interrogated . . Chandigarh : Deadly RDX explosive was used in the Shringaar cinema hall blast in Ludhiana recently that left six persons dead and 30 wounded , the Punjab police said here on Friday . Traces of RDX have been found . The quantity of RDX and other explosives used in the blast is half-a-kg or less , Additional Director-General of Police -LRB- Law and Order -RRB- Chandershekhar told PTI . . . Forensic , National Security Guard and Army experts had confirmed the use of the lethal explosive in the blast , he said . However , the intensity of the blast was not very high , he added . The confirmation of RDX had established involvement of cross-border anti-national forces in the blast , the cop said . Claiming that the police were zeroing in on the suspects , he said investigations were in full swing and it was not desirable to give further details at this stage . A report from Ludhiana said investigators probing the blast had so far questioned 60 people , including former terrorists and their family members . . . Badal clarifies . . Meanwhile in Jallandhar , State Chief Minister Parkash Singh Badal said that the Ludhiana cinema hall blast was not due to intelligence failure on part of the State , reacting to Union Minister of State for Home Prakash Jaiswals remarks . . . Blasts had occurred in Ajmer and Andhra Pradesh also but the Minister did not term these as intelligence failures , he told reporters here . - PTI .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Blast:1", 
+        "intelligence failure:5", 
+        "Blast intensity:12", 
+        "60 persons interrogated:21", 
+        "Deadly RDX explosive:28", 
+        "Shringaar cinema hall blast:35", 
+        "Traces of RDX:59", 
+        "RDX:69", 
+        "explosives:72", 
+        "blast:76", 
+        "half-a-kg or less:78", 
+        "Law and Order:87", 
+        "Forensic:97", 
+        "confirmed:106", 
+        "lethal explosive:111", 
+        "blast:115", 
+        "intensity:123", 
+        "blast:126", 
+        "RDX:138", 
+        "established involvement:140", 
+        "cross-border anti-national forces:143", 
+        "blast:148", 
+        "Claiming:154", 
+        "zeroing:159", 
+        "suspects:163", 
+        "investigations:167", 
+        "full swing:170", 
+        "investigators:190", 
+        "blast:193", 
+        "questioned 60 people:197", 
+        "terrorists:203", 
+        "clarifies:212", 
+        "Ludhiana cinema hall blast:228", 
+        "intelligence failure:236", 
+        "remarks:254", 
+        "Blasts:258", 
+        "intelligence failures:275"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/rdx-used-in-ludhiana-cinema-blast-police/article1933437.ece", 
+    "date": "19-10-2007", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "National Security Guard", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "Army", 
+            "103", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Moghapura", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "Babri Masjid", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "219", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "265", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "294", 
+            "Event"
+        ], 
+        [
+            "Madina Education Centre", 
+            "328", 
+            "Event"
+        ], 
+        [
+            "Secunderabad railway reservation centre", 
+            "341", 
+            "Event"
+        ], 
+        [
+            "Saibaba temple", 
+            "357", 
+            "Event"
+        ], 
+        [
+            "Begumpet", 
+            "395", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "439", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "473", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "482", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "500", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "507", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Balwinder Singh", 
+            "103", 
+            "Others"
+        ], 
+        [
+            "K.G. Kannabiran", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "Junaid", 
+            "237", 
+            "Others"
+        ], 
+        [
+            "Azam Ghori", 
+            "240", 
+            "Accused"
+        ], 
+        [
+            "Y.S. Rajasekhar Reddys", 
+            "402", 
+            "Others"
+        ], 
+        [
+            "Dawood Ibrahim", 
+            "424", 
+            "Others"
+        ], 
+        [
+            "Chhota Rajan", 
+            "427", 
+            "Others"
+        ], 
+        [
+            "H.J. Dora", 
+            "445", 
+            "Others"
+        ], 
+        [
+            "Haren Pandyas", 
+            "476", 
+            "Others"
+        ], 
+        [
+            "Moulana", 
+            "484", 
+            "Others"
+        ], 
+        [
+            "Moulana Naseeruddin", 
+            "484", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "afternoon : 32", 
+        "evening : 34"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 18:3", 
+        "2000:253", 
+        "2002:255", 
+        "2001:332", 
+        "2003:360", 
+        "October 2005:385", 
+        "2002:453", 
+        "2003:515"
+    ], 
+    "death": "13", 
+    "title": "HAIR-TRIGGER HYDERABAD                 - A wound and a hunting ground", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "Hyderabad , May 18 : Four of the 13 deaths in Hyderabad today were the result of police firing at rampaging mobs . . . Six rounds were fired in the afternoon and evening to prevent shops and public property from being damaged , including petrol pumps and ATMs . . . One person was killed in the firing in the Moghapura area , while two fell to the police bullets elsewhere . Another lost his life when the police had to pull the trigger to control a mob trying to break into an ATM . . . According to police commissioner Balwinder Singh , his men resorted to firing after water cannons , tear gas and baton-charge failed to bring the mob fury under control . . . But in a city where wounds of the Babri Masjid demolition still fester , the police are forever on their toes . . . Around 35 Muslim youths were put behind bars under Tada and its successor Pota after protests and mob fury in the aftermath of the razing of the mosque . . . The youths were in jail for five years , until the Supreme Court let them off , said K.G. Kannabiran , a civil rights activist and advocate . . . Over the years , Hyderabad has become a recruiting ground for extremists with links to ISI operatives . Suspected ISI agents like Junaid and Lashkar-e-Toibas Azam Ghori were among those felled in encounters here . . . Between 2000 and 2002 , the city , along with the rest of Andhra Pradesh , woke up to a new threat : militants using improvised explosive devices ( IEDs ) . These are crude bombs of the sort used in the Mecca Masjid blasts today . . . IEDs are made of gelatine sticks , dynamite or plastic explosives , stuffed into tiffin boxes . . . One such blast killed three people in the Madina Education Centre in 2001 . The same year , a blast at Secunderabad railway reservation centre killed six persons . A bomb strapped to a scooter outside the Saibaba temple in 2003 claimed six lives . Churches have also been under the shadow of such threats . . . A human bomb exploded on Dussehra in October 2005 outside the office of a police unit in Begumpet a stones throw from chief minister Y.S. Rajasekhar Reddys residence . . . As the terror network spread , so did white-collar crime . Hawala operators of the Dawood Ibrahim and Chhota Rajan gangs sprang up . Seven ISI modules were busted in Andhra Pradesh during the tenure of H.J. Dora , the director-general of police in 2002 . . . This was the period when the Hyderabad-Gujarat terror nexus began to take root . . . Gujarat home minister Haren Pandyas alleged killers were from Hyderabad . Moulana Naseeruddin , who heads a religious sect , is still languishing in a jail in Gujarat , along with 20 youths from Hyderabad , for his alleged role in Pandyas 2003 murder . . . A person was killed when Naseeruddins supporters tried to prevent a Gujarat police team from taking the cleric away .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "TELANGANA", 
+        "", 
+        "Hyderabad", 
+        "Hyderabad"
+    ], 
+    "O": [
+        "police commissioner:101", 
+        "water cannons:112", 
+        "tear gas:115", 
+        "mob fury:123", 
+        "gelatine sticks:305", 
+        "dynamite:308", 
+        "plastic explosives:310", 
+        "tiffin boxes:315"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1070519/asp/nation/story_7799987.asp", 
+    "date": "18-05-2007", 
+    "target": "", 
+    "hot_spot": "Hyderabad", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Supreme Court", 
+            "196", 
+            "Others"
+        ], 
+        [
+            "Gujarat police", 
+            "531", 
+            "Others"
+        ]
+    ]
+}

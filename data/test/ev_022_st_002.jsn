@@ -1,0 +1,258 @@
+{
+    "LOC": [
+        [
+            "Tinsukia", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "32", 
+            "Neutral"
+        ], 
+        [
+            "Sivasagar", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "59", 
+            "Event"
+        ], 
+        [
+            "Borhat", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "Sapekhati", 
+            "92", 
+            "Neutral"
+        ], 
+        [
+            "Sivasagar", 
+            "94", 
+            "Event"
+        ], 
+        [
+            "upper Assam", 
+            "111", 
+            "Neutral"
+        ], 
+        [
+            "Makum", 
+            "127", 
+            "Neutral"
+        ], 
+        [
+            "Tinsukia", 
+            "129", 
+            "Event"
+        ], 
+        [
+            "Kamrup", 
+            "191", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "300", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "341", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "491", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "546", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Khagen Sharma", 
+            "153", 
+            "Others"
+        ], 
+        [
+            "Trikalagya Rabha", 
+            "167", 
+            "Comment"
+        ], 
+        [
+            "S. Kabilan", 
+            "303", 
+            "Comment"
+        ], 
+        [
+            "Kabilan", 
+            "356", 
+            "Comment"
+        ], 
+        [
+            "Paresh Barua", 
+            "520", 
+            "Others"
+        ], 
+        [
+            "D.N.Bezboruah", 
+            "547", 
+            "Others"
+        ], 
+        [
+            "Prasanta Rajguru", 
+            "554", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 99", 
+        "7.30 p.m.:132", 
+        "5.40 a.m.:179", 
+        "15 minutes : 199", 
+        "afternoon : 216", 
+        "1 . 30 p.m. : 223"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:62", 
+        "Sunday:98", 
+        "Sunday:252", 
+        "Sunday:496", 
+        "Saturday:526", 
+        "June:588"
+    ], 
+    "death": "", 
+    "title": "Militants blow up railway tracks in Assam", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Tinsukia", 
+        "Guwahati", 
+        "Tinsukia"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Sushanta Talukdar . . Strategy Group of the Unified Command to intensify counter insurgency operations . . ULFA mount attacks for third consecutive dayPolice party attacked in Tinsukia district . . Guwahati : Suspected militants of the United Liberation Front of Asom -LRB- ULFA -RRB- blew up railway tracks in Sivasagar district and attacked a police party in Tinsukia district on Sunday , injuring two policemen and a civilian , and continuing its attacks for the third consecutive day . . . Militants blew up a railway track between Borhat and Sapekhati in Sivasagar district early on Sunday morning by triggering a remote controlled bomb , disrupting train services in upper Assam . . . Suspected ULFA militants lobbed a grenade at a police party at Makum in Tinsukia district around 7.30 p.m. , in which two policemen and a civilian were injured , said Inspector-General of Police -LRB- Special Branch -RRB- Khagen Sharma . . . Chief Public Relations Officer , Northeast Frontier Railway , Trikalagya Rabha , said the blast on the railway track occurred around 5.40 a.m. damaging about one metre of railway tracks . The Tinsukia-bound Kamrup Express had passed the targeted portion about 15 minutes before the blast occurred . The train services along this section were restored in the afternoon after the tracks were repaired around 1 . 30 p.m. , he added . . . More forces to be sought . . The Strategy Group of the Unified Command , which met here on Sunday evening , decided to intensify counter insurgency operations . . . It also decided to seek additional forces from the Centre for increasing area domination by security forces in the State in view of the increased activities of the ULFA . . . After the meeting , Assam Chief Secretary S. Kabilan told The Hindu that the Strategy Group decided to intensify security measures after a review of the prevailing situation . The Chief Secretary heads the Strategy Group of the three-tier command structure of the Army , Assam Police and Central paramilitary forces engaged in synergised counter-insurgency operations . . . Mr. Kabilan said additional forces would be sought as reinforcements , as some forces were withdrawn and redeployed elsewhere during the recent Assembly elections . . . ` It is not possible to guard every inch or cover every person . Hence for preventing the militants from carrying out further attacks the presence of security forces would be enlarged for area domination , ' he added . . . Asked if there was any rethinking on the recommendation by the Assam Government for releasing arrested ULFA leaders to facilitate dialogue , the Chief Secretary said : ` We have already given our recommendation to the Centre . It is now up to the Centre to take a decision in this regard . ' . . Threat to scribes condemned . . The Journalists ' Union of Assam -LRB- JUA -RRB- on Sunday condemned the United Liberation Front of Asom -LRB- ULFA -RRB- for its recent threat to four Guwahati-based journalists . . . ULFA chief Paresh Barua in a statement on Saturday threatened the four journalists , including former editor of The Sentinel and former chairman , Editors ' Guild of India D.N.Bezboruah and Executive Editor of Amar Asom Prasanta Rajguru for trying to expose the eroding support for the outfit . . . The JUA , affiliated to the Indian Journalists Union -LRB- IJU -RRB- has called for a protest meeting on June 14 to discuss the issue .", 
+    "injured": "2", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Inspector-General of Police:146", 
+        "Northeast Frontier Railway:163", 
+        "Chief Secretary:301"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/militants-blow-up-railway-tracks-in-assam/article3118155.ece", 
+    "date": "11-06-2006", 
+    "target": "RAILWAY", 
+    "hot_spot": "Tinsukia", 
+    "delivery_mod": "RAILWAY TRACKS", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "18", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "38", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "44", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "117", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "292", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "306", 
+            "Others"
+        ], 
+        [
+            "Hindu", 
+            "307", 
+            "Others"
+        ], 
+        [
+            "Assam Police", 
+            "341", 
+            "Others"
+        ], 
+        [
+            "Assam Government", 
+            "435", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "440", 
+            "Accused"
+        ], 
+        [
+            "JUA", 
+            "493", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "499", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "505", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "518", 
+            "Accused"
+        ], 
+        [
+            "JUA", 
+            "570", 
+            "Others"
+        ], 
+        [
+            "Indian Journalists Union", 
+            "575", 
+            "Others"
+        ], 
+        [
+            "IJU", 
+            "579", 
+            "Others"
+        ]
+    ]
+}

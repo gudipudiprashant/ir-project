@@ -1,0 +1,167 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "46", 
+            "Neutral"
+        ], 
+        [
+            "Bengal", 
+            "164", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "200", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "208", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "251", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:18"
+    ], 
+    "death": "", 
+    "title": "NIA confident of cracking Bardhaman blast case soon", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "JAMAATUL MUJAHIDEEN BANGLADESH (JMB)"
+    ], 
+    "content": "The National Investigation Agency -LRB- NIA -RRB- has gathered abundant evidence in its ongoing probe into the October 2 blast in Bardhaman district in West Bengal , despite the initial lack of cooperation from the State police . . . Union Home Ministry sources in New Delhi told The Hindu that the attitude of the State police led to the destruction of some significant evidence , but the abundance of evidence it managed to gather on its own has raised the investigators hopes of cracking the case soon . . . -LSB- A lot of -RSB- evidence , witnesses and material have been collected by the NIA investigators , even while the State police tried to block the central officials initially , a senior official said . . . The NIA allegedly faced similar hostility from the local police in other States too . However , once the NIA roped in the State police , better cooperation was forthcoming . Here -LSB- in Bengal -RSB- also , the State police and NIA officials are working together . . . Political links . . While the investigators and the Home Ministry are reasonably sure that banned militant outfit Jamaatul Mujahideen Bangladesh -LRB- JMB -RRB- was involved in the Bardhaman blast , the agencies are exploring possible links between the JMB and All-India Trinamool Congress -LRB- AITC -RRB- leaders . However , the NIA is not in a hurry to summon them before putting together a watertight case , senior officials in Delhi said .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "abundant evidence:10", 
+        "initial lack of cooperation:30", 
+        "State police:36", 
+        "Union Home Ministry sources:41", 
+        "State police:56", 
+        "destruction:61", 
+        "significant evidence:64", 
+        "abundance of evidence:69", 
+        "gather:75", 
+        "raised:80", 
+        "investigators hopes:82", 
+        "cracking the case:85", 
+        "evidence:97", 
+        "witnesses:99", 
+        "material:101", 
+        "hostility:135", 
+        "States:142", 
+        "State police:153", 
+        "better cooperation:156", 
+        "State police:169", 
+        "Political links:180", 
+        "investigators:186", 
+        "Home Ministry:189", 
+        "exploring possible links:214", 
+        "watertight case:245"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/nia-confident-of-cracking-bardhaman-blast-case-soon/article6501912.ece", 
+    "date": "02-10-2014", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "172", 
+            "Others"
+        ], 
+        [
+            "Jamaatul Mujahideen Bangladesh", 
+            "198", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "202", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "219", 
+            "Accused"
+        ], 
+        [
+            "All-India Trinamool Congress", 
+            "221", 
+            "Others"
+        ], 
+        [
+            "AITC", 
+            "225", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "232", 
+            "Others"
+        ]
+    ]
+}

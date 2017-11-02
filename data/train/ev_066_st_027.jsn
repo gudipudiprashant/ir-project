@@ -1,0 +1,142 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Haryana", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Haryana", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Old Delhi", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "227", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "236", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "246", 
+            "Neutral"
+        ], 
+        [
+            "Lajpat Rai Market", 
+            "277", 
+            "Neutral"
+        ], 
+        [
+            "Walled City", 
+            "283", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Devesh K. Pandey", 
+            "1", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday : 41", 
+        "October-December 2006 : 266"
+    ], 
+    "death": "", 
+    "title": "Train attack: reward amount hiked", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Devesh K. Pandey . . NEW DELHI : While clues have started emerging in the Samjhauta Express blasts , the reward money on the suspects who planted the bombs on the train was increased to Rs . 5 lakh on Sunday . . . The Haryana police released modified sketches of the suspects a couple of days ago . . . Investigations by the Haryana police indicated that the bombs were configured at a place close to the Old Delhi railway station , before they were planted in the train . Raw materials used in the bomb and suitcases were brought by different people from different ` directions . ' The police believe that about six identical suitcases were brought for the purpose . . . Though the bombs used appear to be of low-intensity , they are ` highly sophisticated ' in terms of the circuitry used . Their triggering mechanism had stand-by arrangements at three levels to make sure that they exploded in any case . On the basis of these facts , the investigating team believes that at least one of those involved at the execution stage had undergone training in bomb configuration . . . Also , the police have found that the ` GEHI PET-1000 ' bottles used to keep a mixture of inflammable liquid in the suitcases are manufactured in Mumbai . Though such bottles are also found in Andhra Pradesh , the police are at present probing the Mumbai angle . . . The electronic watch found from one of the unexploded bombs , which was manufactured in October-December 2006 , is suspected to have been bought from the Lajpat Rai Market here in the Walled City .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Haryana", 
+        "Panipat", 
+        "Pnipat", 
+        ""
+    ], 
+    "O": [
+        "clues:10", 
+        "emerging:13", 
+        "Samjhauta Express blasts:16", 
+        "reward money:21", 
+        "suspects:25", 
+        "planted:27", 
+        "bombs:29", 
+        "train:32", 
+        "increased:34", 
+        "Rs . 5 lakh:36", 
+        "Haryana police:46", 
+        "released:48", 
+        "modified sketches:49", 
+        "suspects:53", 
+        "couple of days ago:55", 
+        "Investigations:62", 
+        "Haryana police:65", 
+        "bombs:70", 
+        "configured:72", 
+        "Old Delhi railway station:79", 
+        "planted:87", 
+        "train:90", 
+        "Raw materials:92", 
+        "bomb:97", 
+        "suitcases:99", 
+        "directions:108", 
+        "six identical suitcases:116", 
+        "purpose:123", 
+        "bombs:129", 
+        "low-intensity:135", 
+        "highly sophisticated:140", 
+        "circuitry:147", 
+        "triggering mechanism:151", 
+        "arrangements:155", 
+        "exploded:164", 
+        "investigating team:177", 
+        "execution stage:189", 
+        "undergone training:192", 
+        "bomb configuration:195", 
+        "GEHI PET-1000:209", 
+        "mixture of inflammable liquid:217", 
+        "suitcases:223", 
+        "bottles:231", 
+        "probing:244", 
+        "Mumbai angle:246", 
+        "electronic watch:252", 
+        "unexploded bombs:259", 
+        "manufactured:264", 
+        "suspected:270"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/train-attack-reward-amount-hiked/article1802516.ece", 
+    "date": "18-02-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

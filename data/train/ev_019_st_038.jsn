@@ -1,0 +1,199 @@
+{
+    "LOC": [
+        [
+            "Burdwan", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Madrasa", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "39", 
+            "Event"
+        ], 
+        [
+            "Khagragarh", 
+            "79", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "93", 
+            "Neutral"
+        ], 
+        [
+            "madrasa", 
+            "118", 
+            "Neutral"
+        ], 
+        [
+            "Simulia", 
+            "120", 
+            "Neutral"
+        ], 
+        [
+            "madrasa", 
+            "162", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "172", 
+            "Event"
+        ], 
+        [
+            "madrasa", 
+            "188", 
+            "Neutral"
+        ], 
+        [
+            "Nadia", 
+            "247", 
+            "Neutral"
+        ], 
+        [
+            "Birbhum", 
+            "249", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "256", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Alima Bibi", 
+            "127", 
+            "Accused"
+        ], 
+        [
+            "Rajira", 
+            "130", 
+            "Accused"
+        ], 
+        [
+            "Razia Bibi", 
+            "132", 
+            "Accused"
+        ], 
+        [
+            "Sanjeev Kumar Singh", 
+            "150", 
+            "Others"
+        ], 
+        [
+            "Vikram Kharate", 
+            "157", 
+            "Others"
+        ], 
+        [
+            "SMH Meerza", 
+            "176", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:23", 
+        "Sunday:34"
+    ], 
+    "death": "", 
+    "title": "Burdwan Blast: National Investigation Agency Team Visits Madrasa", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "", 
+        "Burdwan", 
+        "building in Burdwan"
+    ], 
+    "terror_group": [
+        "JAMIAT-UL-MUJAHIDEEN"
+    ], 
+    "content": "The building in Burdwan where an explosion occurred on October 2Kolkatta : Probing the explosion in West Bengal which took place on October 2 , a National Investigation Agency or NIA team on Sunday visited a Madrasa in Burdwan district , where people suspected to be involved in the incident were reported to have got militant training.Six people , including two women , have been arrested in connection with the explosion at a house in the district 's Khagragarh area . The blast killed two suspected Jamaat-ul-Mujahideen militants , and injured one.The West Bengal CID , which was probing the incident before the National Investigation Agency -LRB- NIA -RRB- took over , came to know about the madrasa in Simulia area from the two women - Alima Bibi and Rajira alias Razia Bibi - arrested in connection with the case.The NIA team , led by Inspector General of Police Sanjeev Kumar Singh and Superintendent of Police Vikram Kharate , visited the madrasa and inspected things . The team was accompanied by Burdwan Superintendent of Police SMH Meerza . `` The team spent nearly an hour at the madrasa , where the two arrested women had received militant training , including how to fire a gun , '' said a police officer.Following an order by a special NIA court , the central agency has taken over documents , case records and material seized by the state police and the CID.The NIA has also deputed additional teams to Nadia and Birbhum districts and a few places in Assam to track , locate and apprehend people involved in the case.Besides , the NIA has sought the public 's cooperation in providing information relating to whereabouts of the accused people . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Inspector General of Police:146", 
+        "Police:156", 
+        "Superintendent of Police:173", 
+        "police:210", 
+        "police:236"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/burdwan-blast-national-investigation-agency-team-visits-madrasa-678446", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "building in Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "27", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen", 
+            "87", 
+            "Accused"
+        ], 
+        [
+            "CID", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "217", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "240", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "270", 
+            "Others"
+        ]
+    ]
+}

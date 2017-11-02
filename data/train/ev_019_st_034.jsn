@@ -1,0 +1,191 @@
+{
+    "LOC": [
+        [
+            "Khagragarh", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "92", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "153", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "319", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mamata Banerjee", 
+            "240", 
+            "Others"
+        ], 
+        [
+            "Shakil Ahmed", 
+            "289", 
+            "Accused"
+        ], 
+        [
+            "Sovan Mandal", 
+            "292", 
+            "Accused"
+        ], 
+        [
+            "Hasan Saheb", 
+            "300", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:40", 
+        "Friday:119", 
+        "October 2:280"
+    ], 
+    "death": "2", 
+    "title": "National Investigation Agency Files Complaint in Burdwan Blast Case", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The building where the blast took place is located in Khagragarh area.New Delhi/Kolkata : The National Investigation Agency has registered a First Information Report in the bomb blast case in Burdwan in West Bengal , after the Centre on Thursday decided to hand over the probe to the agency , a decision which sources in the Trinamool Congress government said was taken suo motu.The decision to hand over the case to the NIA was taken by the Centre in view of international ramifications of the case where some nationals from neighbouring Bangladesh were also allegedly involved , official sources said in Delhi.A notification was issued under the NIA Act and the agency will be registering an FIR on Friday , sources said . `` We have informed the Centre about the incident and no opinion has been given from the state government side , '' a highly-placed state government source said in Kolkata . `` The Centre has the powers to initiate a suo motu probe in this regard and this is what the Ministry of Home Affairs has done , '' the source said . `` The state government has the copy of the MHA order dated today which clearly says that NIA has taken up the matter to probe suo motu , '' the source added.The BJP and CPI -LRB- M -RRB- while demanding that the Centre hand over the case to NIA has alleged that the Mamata Banerjee government was trying to hush up the matter . The BJP also accused the state government of `` resisting '' a NIA probe.The Union Home Ministry had received reports from central agencies and the state government about the October 2 blast in which two suspected militants - Shakil Ahmed and Sovan Mandal - were killed and another man Hasan Saheb was injured.The state government , which appeared to be initially reluctant to accept that the incident in Burdwan had suspected terror links , handed over the case to the state CID after material collected from the blast site showed that a group was assembling bombs in the house and planning to carry out a strike.A large number of watch dials , SIM cards and other tools required to make improvised explosive devices were seized from the house where the blast occurred.Four persons , including two women , have been arrested so far in the case . .", 
+    "injured": "1", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "building,Khagragarh"
+    ], 
+    "O": [
+        "First Information Report:22", 
+        "FIR:117", 
+        "Union Home Ministry:265", 
+        "militants:287", 
+        "CID:332", 
+        "explosive devices:372"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/national-investigation-agency-files-complaint-in-burdwan-blast-case-677342", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "building,Khagragarh", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "Trinamool Congress government", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "148", 
+            "Others"
+        ], 
+        [
+            "Ministry of Home Affairs", 
+            "175", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "189", 
+            "Others"
+        ], 
+        [
+            "MHA", 
+            "196", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "204", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "219", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "221", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "235", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "252", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "263", 
+            "Others"
+        ], 
+        [
+            "central agencies", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "276", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "304", 
+            "Others"
+        ]
+    ]
+}

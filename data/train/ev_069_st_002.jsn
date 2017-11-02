@@ -1,0 +1,154 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Athgaon", 
+            "36", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "82", 
+            "Event"
+        ], 
+        [
+            "Athgaon", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "140", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "246", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "273", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shivraj Patil", 
+            "92", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "10.45 a.m.:153", 
+        "a.m.:154"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "yesterday : 38", 
+        "May 27 : 45", 
+        "yesterday : 86", 
+        "May 21 : 219", 
+        "May 18 : 235", 
+        "May 14 : 252"
+    ], 
+    "death": "7", 
+    "title": "Additional paramilitary forces sent to Assam", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Additional para-military forces were rushed to Assam after seven people were killed and 20 others injured in a powerful bomb explosion set off by the United Liberation Front of Asom ( ULFA ) in Guwahatis Athgaon area yesterday . . . New Delhi/Guwahati , May 27 : Additional para-military forces were rushed to Assam after seven people were killed and 20 others injured in a powerful bomb explosion set off by the United Liberation Front of Asom ( ULFA ) in Guwahati 's Athgaon area yesterday . . . Home Minister Shivraj Patil has strongly condemned the blast , and has directed the state government to remain vigilant and ensure that peace is maintained . . . He said that such incidents would not succeed in weakening the resolve of the government to deal strongly with divisive forces in Assam and other north eastern states . . . The explosion occurred around 10.45 a.m. . The bomb was hidden in a autorickshaw parked near the Marwari Maternity Hospital . . . The intensity of the blast was so high that vehicles parked nearby were destroyed and the windowpanes of a three-storyed building located nearby were broken . . . Meanwhile , at least two suspected ULFA militants were shot dead by the security forces . . . On May 21 , at least 13 people were injured in a blast . . . On May 18 , five persons were injured in a blast in Guwahati . . . Earlier on May 14 , two persons were killed and eight others injured by a bomb blast that followed ethnic clashes in eastern Assam the day before . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .", 
+    "injured": "20", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "para-military forces:2", 
+        "killed:12", 
+        "injured:16", 
+        "powerful bomb explosion:19", 
+        "Guwahatis Athgaon:35", 
+        "para-military forces:49", 
+        "killed:59", 
+        "injured:63", 
+        "powerful bomb explosion:66", 
+        "blast:98", 
+        "north eastern states:143", 
+        "explosion:150", 
+        "bomb:157", 
+        "autorickshaw:162", 
+        "blast:176", 
+        "injured:227", 
+        "blast:230", 
+        "injured:241", 
+        "blast:244", 
+        "killed:258", 
+        "injured:262", 
+        "bomb blast:265", 
+        "ethnic clashes:269"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.andhranews.net/India/2007/May/27-Additional-paramilitary-forces-2570.asp", 
+    "date": "26-05-2007", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "AUTO-RICKSHAW", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "32", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "Marwari Maternity Hospital", 
+            "166", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "206", 
+            "Accused"
+        ]
+    ]
+}

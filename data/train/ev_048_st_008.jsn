@@ -1,0 +1,71 @@
+{
+    "LOC": [
+        [
+            "Digboi", 
+            "10", 
+            "Neutral"
+        ], 
+        [
+            "upper Assam", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "railway track", 
+            "59", 
+            "Source"
+        ]
+    ], 
+    "PER": [
+        [
+            "A P Tiwari", 
+            "45", 
+            "Comment"
+        ], 
+        [
+            "Tiwari", 
+            "86", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Two bombs explode in Assam's Digboi on Republic Day", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two low-intensity bombs exploded at the oil town of Digboi in upper Assam 's Tinsukia district today as the state celebrated the 66th Republic Day.No damage or casualty has been reported so far from the very low intensity blasts , Senior Superintendent of Police A P Tiwari said.One of the explosions took place under dumped garbage near a railway track and another in a drain under the garbage there , he said.It seems from the impact that the bombs were handmade with no impact , Tiwari said.Investigations are on , he said . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Tinsukia", 
+        " Guwahati", 
+        "upper Assam"
+    ], 
+    "O": [
+        "Senior Superintendent of Police:41"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/two-bombs-explode-on-republic-day-in-assam/1/415384.html", 
+    "date": "26-01-2015", 
+    "target": "", 
+    "hot_spot": "upper Assam", 
+    "delivery_mod": "GARBAGE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

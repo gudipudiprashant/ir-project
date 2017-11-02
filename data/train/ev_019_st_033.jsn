@@ -1,0 +1,237 @@
+{
+    "LOC": [
+        [
+            "Khagragarh", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "116", 
+            "Event"
+        ], 
+        [
+            "Khagragarh", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "146", 
+            "Event"
+        ], 
+        [
+            "Burqa Factory Front", 
+            "149", 
+            "Source"
+        ], 
+        [
+            "Baburbag", 
+            "265", 
+            "Neutral"
+        ], 
+        [
+            "Badshahi", 
+            "270", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "282", 
+            "Event"
+        ], 
+        [
+            "Bengal", 
+            "289", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "415", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "432", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shakil Ahmed", 
+            "221", 
+            "Victim"
+        ], 
+        [
+            "Abdul Hasan", 
+            "236", 
+            "Victim"
+        ], 
+        [
+            "Kausar", 
+            "306", 
+            "Others"
+        ], 
+        [
+            "Kauser", 
+            "314", 
+            "Others"
+        ], 
+        [
+            "Shakil Ahmed", 
+            "326", 
+            "Others"
+        ], 
+        [
+            "Shakil", 
+            "335", 
+            "Victim"
+        ], 
+        [
+            "Rahul Sinha", 
+            "457", 
+            "Comment"
+        ], 
+        [
+            "SK Mishra", 
+            "463", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:59", 
+        "October 2:131", 
+        "October 5:202"
+    ], 
+    "death": "", 
+    "title": "New Charges Filed by Bengal Police Indicate Burdwan Blast Could be a Terror Case", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN", 
+        "AL-QAEDA"
+    ], 
+    "content": "The building where the blast took place is located in Khagragarh area.Kolkata : After three arrests and two raids over last week 's blast in Burdwan , the West Bengal police feel it could involve a terror network - giving teeth to opposition demands to involve the National Investigation agency or the Central Bureau of Investigation . On Wednesday , the case , which had been filed under the Explosives Act , was also brought under Unlawful Activities -LRB- Prevention -RRB- Act - a law that 's applied in cases where the integrity and sovereignty of the country is threatened . The new charge was brought in hours after the police raided two houses in Burdwan , making official the suspicion that the two men , who died in the October 2 blast at the house in Khagragarh , could have been terrorists . -LRB- Burdwan Blast : Burqa Factory Front for Bomb-Making Plant ? -RRB- There had been other evidence - improvised explosive devices and material to make them , watch dials and detonators recovered from the house . Some printed material was also found , which had references to Al Qaeda , Indian Mujahideen and even the Chechen rebels.On October 5 , two women residents of the house were arrested . One of them was the wife of Shakil Ahmed , a man who died in the blast . Another 's husband , Abdul Hasan , had been injured . A third - a man - was arrested later . Their questioning led to the raids in two houses -- one at Baburbag , the other at Badshahi Road - barely a kilometer from the blast site . -LRB- Burdwan Blasts : Two Women Arrested , Bengal Becoming Terror Haven , says BJP -RRB- The police were looking for a man called called Kausar , but he had had fled . Kauser , who was probably a Bangladeshi national , used to visit Shakil Ahmed . Police suspect he collected bombs from Shakil for delivery to unknown recipients . At the house , police found a driving license , four pistols and 63 bullets.The six residents of the other house have gone missing as well . Following the raids , the police added the UAPA to the case . The opposition , which had accused the ruling Trinamool Congress of involvement and alleged that the police destroyed evidence , has now stepped up its demands to call in the NIA . -LRB- Burdwan Blast : 2 Women Arrested , Trinamool Denies Links -RRB- `` The incident is linked to Bangladesh and who knows which other countries . That 's why it should be probed by the CBI or NIA , '' said BJP leader Rahul Sinha . The CPM 's SK Mishra echoed it , saying , `` If they -LRB- state police and CID -RRB- are not afraid they will be caught red-handed for hiding something , they should hand it over to NIA . '' .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "building,Khagragarh"
+    ], 
+    "O": [
+        "Explosives Act:70", 
+        "Unlawful Activities:77", 
+        "police:111", 
+        "Bomb-Making Plant:153", 
+        "Terror Haven:291", 
+        "police:298", 
+        "Bangladeshi national:320", 
+        "Police:329", 
+        "police:346", 
+        "police:374", 
+        "police:398"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/new-charges-filed-by-bengal-police-indicate-burdwan-blast-could-be-a-terror-case-676773", 
+    "date": "05-10-2014", 
+    "target": "", 
+    "hot_spot": "building,Khagragarh", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "DETONATORS"
+    ], 
+    "ORG": [
+        [
+            "West Bengal police", 
+            "29", 
+            "Others"
+        ], 
+        [
+            "National Investigation agency", 
+            "48", 
+            "Others"
+        ], 
+        [
+            "Central Bureau of Investigation", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "Al Qaeda", 
+            "192", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "195", 
+            "Accused"
+        ], 
+        [
+            "BJP", 
+            "295", 
+            "Others"
+        ], 
+        [
+            "Trinamool Congress", 
+            "390", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "412", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "422", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "449", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "451", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "455", 
+            "Others"
+        ], 
+        [
+            "state police", 
+            "474", 
+            "Others"
+        ], 
+        [
+            "CID", 
+            "477", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "497", 
+            "Others"
+        ]
+    ]
+}

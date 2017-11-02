@@ -1,0 +1,174 @@
+{
+    "LOC": [
+        [
+            "Karnataka", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "542", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Lalrokhuma Pachau", 
+            "128", 
+            "Comment"
+        ], 
+        [
+            "Raghavendra Auradkar", 
+            "226", 
+            "Others"
+        ], 
+        [
+            "Shivamurthy", 
+            "348", 
+            "Comment"
+        ], 
+        [
+            "Raghavendra Auradkar", 
+            "495", 
+            "Others"
+        ], 
+        [
+            "Shivamurthy", 
+            "649", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "10.30 AM : 196", 
+        "Today : 211", 
+        "last day : 214", 
+        "weeks : 452", 
+        "weeks : 466", 
+        "Today : 475"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May five : 37", 
+        "May five : 433"
+    ], 
+    "death": "", 
+    "title": "Bomb blast near BJP office in Bangalore, several injured", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "BANGALORE : At least 16 people , including eight policemen , were injured when an `` incendiary bomb '' placed in a motorbike exploded near the Karnataka BJP city office buzzing with activity ahead of the May five Assembly polls . . . The policemen were on security duty as part of the bandobast arrangements for the BJP office in view of the polls when the explosion ripped through the crowded area damaging two vans , a Karnataka State Reserve Police vehicle and a motorbike , top police officials said . . . `` Due to the blast , 16 people are injured -- eight policemen on duty and eight civilians . Nobody is critically injured . All are being treated at hospital , '' State DGP Lalrokhuma Pachau told reporters at the spot . . . A National Investigative Agency team has arrived here , he said , adding , forensic experts would also be joining them . . . `` As of now , we do not know what is the material of the bomb blast . We will know after examination , '' he said . . . The blast occurred around 10.30 AM when the BJP office is normally brimming with party workers and candidates . Today is the last day for filing of nominations . . . City Police Commissioner Raghavendra Auradkar , citing preliminary investigation , said , `` It is an explosion '' , adding a motorbike with an `` incendiary bomb '' was used . The bike was planted in the midst of cars , he said . . . `` At this stage , I ca n't say what kind of explosion it was '' , the police chief . Police said `` explosive and incendiary materials '' were used . . . According to them , Police personnel were injured as they rushed out of their vehicle parked nearby the party office on seeing the vehicles going up in flames . . . Two of the injured were college students who were returning home after tution , Shivamurthy , an eye witness , said , adding BJP workers shifted some of the injured to hospital . . . Initial reports had said the explosion could have been caused by an LPG cylinder fitted to a car . . . According to eye witnesses , a loud noise was heard and some vehicles went up in flames , sending the people to flee in panic . Police have cordoned off the area . . . With the state going to Assembly polls on May five , the BJP office located in a residential locality is abuzz with activity for the past few weeks . The BJP office is overflowing with party workers since the past few weeks with state and national leaders frequenting it . Today is the last date for filing of nominations and more rush was expected . . . City Police Commissioner Raghavendra Auradkar , citing preliminary investigation , said , `` It is an explosion '' , adding a motorbike with an `` incendiary bomb '' was used . . . The state BJP said the police had confirmed that the bomb was placed in the bike bearing Tamil Nadu registration number . It said it had happened when party state president , Chief Minister and national leaders could have been present considering the Assembly polls . . . Describing the dastardly blast as an attempt to weaken the party 's morale , BJP said that its workers need not fear or be cowed down by it . . . According to them , police personnel were injured as they rushed out of their vehicle parked nearby the party office on seeing the vehicles going up in flames . . . Two of the injured were college students who were returning home after tuition , Shivamurthy , an eye witness , said , adding BJP workers shifted some injured to hospital .", 
+    "injured": "16", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "Bangalore", 
+        ""
+    ], 
+    "O": [
+        "incendiary bomb:17", 
+        "motorbike exploded:23", 
+        "Assembly polls:39", 
+        "explosion:67", 
+        "motorbike:85", 
+        "blast:98", 
+        "injured:103", 
+        "injured:116", 
+        "forensic experts:152", 
+        "bomb blast:177", 
+        "blast:193", 
+        "party workers:206", 
+        "candidates:209", 
+        "nominations:219", 
+        "preliminary investigation:230", 
+        "explosion:239", 
+        "bomb:249", 
+        "explosion:281", 
+        "injured:310", 
+        "injured:337", 
+        "injured:363", 
+        "explosion:374", 
+        "LPG cylinder:381", 
+        "Assembly polls:430", 
+        "party workers:460", 
+        "investigation:500", 
+        "explosion:508", 
+        "incendiary bomb:517", 
+        "bomb:535", 
+        "Assembly polls:568", 
+        "blast:576", 
+        "injured:611", 
+        "injured:638"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2013-04-17/news/38616361_1_karnataka-bjp-bjp-office-state-bjp", 
+    "date": "17-04-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "MOTORCYCLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "BJP", 
+            "28", 
+            "Victim"
+        ], 
+        [
+            "BJP", 
+            "58", 
+            "Victim"
+        ], 
+        [
+            "Karnataka State Reserve Police", 
+            "78", 
+            "Others"
+        ], 
+        [
+            "National Investigative Agency", 
+            "139", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "200", 
+            "Victim"
+        ], 
+        [
+            "BJP", 
+            "357", 
+            "Victim"
+        ], 
+        [
+            "BJP", 
+            "437", 
+            "Victim"
+        ], 
+        [
+            "BJP", 
+            "455", 
+            "Victim"
+        ], 
+        [
+            "BJP", 
+            "527", 
+            "Victim"
+        ], 
+        [
+            "BJP", 
+            "587", 
+            "Victim"
+        ], 
+        [
+            "BJP", 
+            "658", 
+            "Victim"
+        ]
+    ]
+}

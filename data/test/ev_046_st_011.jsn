@@ -1,0 +1,113 @@
+{
+    "LOC": [
+        [
+            "Chennai", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Bengaluru-Guwahati express train", 
+            "36", 
+            "Event"
+        ], 
+        [
+            "Bengaluru", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Bengaluru", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "Guntur", 
+            "98", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "100", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "182", 
+            "Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "185", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Swati", 
+            "80", 
+            "Others"
+        ], 
+        [
+            "J Jayalalithaa", 
+            "302", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 40", 
+        "7.14 : 47", 
+        "five minutes : 55"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 39"
+    ], 
+    "death": "1", 
+    "title": "Twin train blasts rock Chennai central", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Chennai : A young woman techie was killed and 14 other passengers sustained bleeding injuries when two bombs , suspected to be IEDs with timers , went off in quick succession in adjacent compartments of Bengaluru-Guwahati express train Thursday morning . The blasts happened at about 7.14 in S4 and S5 coaches , within five minutes of the train arriving here from Bengaluru . The impact caused some damage to S3 as well . . . The deceased , Swati , 24 , worked for software major TCS at Bengaluru and was on her way home at Guntur in Andhra Pradesh . Her grieving parents rushed here and took the body to the native place by a government ambulance . She was to be married in two months . The injured , including a woman , were admitted in the Rajiv Gandhi memorial government general hospital across the road . All of them are stable , according to the doctors . They said most of the injured had pellet wounds and two suffered multiple fractures on legs . ( Read : Chennai blast kills Andhra Pradesh techie ; 14 hurt ) . . Investigators recovered ball bearings and pellets , besides traces of ammonium nitrate , nitro toluene and sulphur from the blast sites . Preliminary investigation indicated that four men carrying two cloth bags had boarded S4 and S5 as soon as the train arrived . Surveillance cameras have captured the visuals of them coming out empty-handed . We strongly believe they had left those bags under the seats in the two coaches and triggered the blasts from outside . We are examining what their motives could have been , a senior police officer said , adding that three men have been detained for questioning . . . Chief minister J Jayalalithaa in a statement assured the people there was no need to panic as security measures had been tightened . She ordered state crime branch CID police to probe the incident .", 
+    "injured": "14", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Chennai", 
+        "Chennai", 
+        "Chennai"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.deccanchronicle.com/140502/sports-cricket/article/twin-train-blasts-rock-chennai-central", 
+    "date": "01-05-2014", 
+    "target": "", 
+    "hot_spot": "Chennai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "TCS", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "Rajiv Gandhi memorial government general hospital", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "CID police", 
+            "328", 
+            "Others"
+        ]
+    ]
+}

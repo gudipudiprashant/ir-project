@@ -1,0 +1,75 @@
+{
+    "LOC": [
+        [
+            "Mumbai airport", 
+            "1", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mumbai", 
+            "1", 
+            "Assoc_Event"
+        ], 
+        [
+            "airport", 
+            "2", 
+            "Neutral"
+        ], 
+        [
+            "airport", 
+            "26", 
+            "Assoc_Event"
+        ], 
+        [
+            "airport", 
+            "55", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:5"
+    ], 
+    "death": "", 
+    "title": "Mumbai aiport on high alert", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Mumbai airport was on Tuesday put on high alert following a series of bomb blasts insuburban trains killingand injuring many . . . ` The airport has been put under high alert ... We have deployed additional companies of quick reaction team commandos to tackle any situation in case of an eventuality , ' airport security sources said . . . Flight operations were not affected , but the security was enhanced , sources added . .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "airport:2", 
+        "alert:9", 
+        "bomb:14", 
+        "quick reaction team:40", 
+        "commandos:43", 
+        "tackle:45", 
+        "situation:47", 
+        "Flight:62", 
+        "affected:66"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/11mumbai.htm", 
+    "date": "11-07-2006", 
+    "target": "RAILWAY STATION", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": []
+}

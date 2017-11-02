@@ -1,0 +1,221 @@
+{
+    "LOC": [
+        [
+            "Mumbai",
+            "93", 
+            "Assoc_Event"
+        ], 
+        [
+            "Koti", 
+            "174", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "210", 
+            "Event"
+        ], 
+        [
+            "Lumbini Park", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "HYDERABAD", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "60", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazar", 
+            "97", 
+            "Event"
+        ], 
+        [
+            "Lumbini Park", 
+            "110", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "113", 
+            "Event"
+        ], 
+        [
+            "Hussainsagar lake", 
+            "131", 
+            "Neutral"
+        ], 
+        [
+            "Hussainsagar lake", 
+            "131", 
+            "Neutral"
+        ], 
+        [
+            "Gokul Chat", 
+            "143", 
+            "Event"
+        ], 
+        [
+            "Sultan Bazar", 
+            "146", 
+            "Event"
+        ], 
+        [
+            "Koti", 
+            "149", 
+            "Event"
+        ], 
+        [
+            "Narayanaguda", 
+            "194", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "197", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "206", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "234", 
+            "Assoc_Event"
+        ], 
+        [
+            "Lumbini Park", 
+            "263", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "342", 
+            "Assoc_Event"
+        ], 
+        [
+            "Hyderabad", 
+            "407", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "409", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "429", 
+            "Event"
+        ], 
+        [
+            "Iraq", 
+            "448", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shahid Ilyas Bilal", 
+            "332", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "7.40 pm : 107"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:84", 
+        "May:216", 
+        "Saturday:260"
+    ], 
+    "death": "40", 
+    "title": "40 killed in Hyderabad blasts", 
+    "org_unorg": "", 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI"
+    ], 
+    "content": "doweshowbellyad = 0 ; . . People mill around at the site of a blast at Lumbini Park in Hyderabad . Forty people are feared dead in the twin blasts -LRB- AFP Photo -RRB- . . HYDERABAD : The killing just does n't stop . At least 40 people were killed and scores injured in two powerful blasts in Hyderabad , one at an amusement park packed with weekend holidayers and another at a landmark eatery in the heart of the city on Saturday evening exactly four years after twin blasts at Mumbai 's Gateway and Zaveri Bazar killed 53 . The first blast happened at 7.40 pm in Lumbini Park , India 's biggest laser show arena , a stone 's throw from the Andhra Pradesh Secretariat and flanking Hussainsagar lake . The second took place some 30 minutes later in Gokul Chat at Sultan Bazar in Koti neighbourhood in the communally sensitive old city . Police said bombs at both places seemed to have timer devices but some sources said the Koti blast could have been executed by a suicide bomber.Reports of unexploded bombs being discovered in a movie theatre in Narayanaguda and in Dilsukhnagar suggested that the attacks - similar to the Mecca Masjid blasts in Hyderabad that killed 16 people this May - were well-planned serial attacks aimed at causing maximum casualties among citizens chilling out over the weekend.The Mecca Masjid attacks were planned and executed by Bangladesh-based terror group Harkat-ul Jihad Islami -LRB- Huji -RRB- . Early indications suggest similar explosives were used on Saturday . The Lumbini Park blast ripped out four rows of seats from its moorings and blew out parts of the concrete base to smithereens , leaving mangled bodies everywhere . There were some tell-tale marks of RDX being used and the bombs had been packed in plastic containers with steel balls used in bicycle wheel hubs , which acted as shrapnel.Intelligence agency sources said the attacks could be the handiwork of Shahid Ilyas Bilal , who 's also linked to the Mecca Masjid attacks . He 's a high-ranking Lashkar-e-Taiba operative who has lately been working with HuJi . Intelligence agencies monitoring his activities have recently observed him flitting in and out of jehadi chat rooms . There is a new pattern of militant groups pooling resources for bigger strikes , so a combined operation is not being ruled out.Such vicious attacks prove that cities like Hyderabad and Bangalore , emerging icons of a vibrant nation , are firmly in the cross-hairs of terror groups which have made India a country with perhaps the highest number of civilian victims of terror -LRB- leaving aside war-torn countries like Iraq -RRB- .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hydrerabad", 
+        ""
+    ], 
+    "O": [
+        "twin blasts:29", 
+        "two powerful blasts in hyderabad:56", 
+        "four years after twin blasts at mumbai 's gateway:87", 
+        "communally sensitive old city:153", 
+        "suicide bomber.reports:182", 
+        "unexploded bombs:185", 
+        "mecca masjid blasts:206", 
+        "serial attacks aimed at causing maximum casualties:220", 
+        "RDX:297", 
+        "bicycle wheel hubs:314", 
+        "new pattern of militant groups:381", 
+        "combined operation is not being ruled out.such:394", 
+        "cross-hairs of terror groups:422"
+    ], 
+    "unexpl": [
+        "BALL BEARING", 
+        "MECHANICAL TIMERS"
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/40-killed-in-Hyderabad-blasts/articleshow/2310955.cms?", 
+    "date": "25-08-2007", 
+    "target": "PARK AND RESTRAUNT", 
+    "hot_spot": "", 
+    "delivery_mod": "PLASTIC CONTAINERS", 
+    "delivery_met": "", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "Andhra Pradesh Secretariat", 
+            "126", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul Jihad Islami", 
+            "245", 
+            "Accused"
+        ], 
+        [
+            "Huji", 
+            "249", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "350", 
+            "Assoc_Accused"
+        ], 
+        [
+            "HuJi", 
+            "358", 
+            "Accused"
+        ], 
+        [
+            "Intelligence agencies", 
+            "360", 
+            "Others"
+        ]
+    ]
+}

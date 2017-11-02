@@ -1,0 +1,95 @@
+{
+    "LOC": [
+        [
+            "Dibrugarh", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "157", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Joy Asom", 
+            "79", 
+            "Comment"
+        ], 
+        [
+            "S.N.Singh", 
+            "184", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:7", 
+        "Wednesday:159"
+    ], 
+    "death": "1", 
+    "title": "ULFA denies hand in Dibrugarh bomb blast", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dibrugarh", 
+        "GUWAHATI", 
+        "Dibrugarh"
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASOM "
+    ], 
+    "content": "The ULFA -LRB- Independent -RRB- on Wednesday denied its involvement in the bomb blast in Dibrugarh town in which a girl was killed and nine others injured . . . The ULFA -LRB- I -RRB- in a release e-mailed to PTI here said that the outfit was in no way associated with the blast and expressed its deep condolences to the family members of the teenage girl killed in the incident . . . The outfits spokesman , Joy Asom , alleged that such incidents were usually the handiwork of security forces who carry out the blasts with the help of some agents who are kept in their custody . . . The acts of violence are carried out by these agents to malign the outfit and they are later made to surrender with the security forces claiming success in weakening the outfit , the release added . . . A high alert was sounded across Assam on Wednesday following the blast . Those injured in the blast are being treated at the Assam Medical College and Hospital . Inspector General of Police S.N.Singh said that an anti-talk faction of the United Liberation Front of Asom may be involved in the blast . PTI , ANI .", 
+    "injured": "9", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "inspector general of police:180"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/ulfa-denies-hand-in-dibrugarh-bomb-blast/article5476782.ece", 
+    "date": "18-12-2013", 
+    "target": "", 
+    "hot_spot": "Dibrugarh", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "2", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "32", 
+            "Accused"
+        ], 
+        [
+            "PTI", 
+            "41", 
+            "Others"
+        ], 
+        [
+            "Assam Medical College and Hospital", 
+            "174", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "192", 
+            "Accused"
+        ], 
+        [
+            "PTI", 
+            "204", 
+            "Others"
+        ]
+    ]
+}

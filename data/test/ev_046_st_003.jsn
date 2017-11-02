@@ -1,0 +1,230 @@
+{
+    "LOC": [
+        [
+            "Chennai Central railway station", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "Jalpaiguri", 
+            "124", 
+            "Victim"
+        ], 
+        [
+            "West Bengal", 
+            "126", 
+            "Victim"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "141", 
+            "Victim"
+        ], 
+        [
+            "Bangalore", 
+            "157", 
+            "Victim"
+        ], 
+        [
+            "Karnataka", 
+            "159", 
+            "Victim"
+        ], 
+        [
+            "Tripura", 
+            "175", 
+            "Victim"
+        ], 
+        [
+            "Manipur", 
+            "190", 
+            "Victim"
+        ], 
+        [
+            "Assam", 
+            "198", 
+            "Victim"
+        ], 
+        [
+            "West Bengal", 
+            "213", 
+            "Victim"
+        ], 
+        [
+            "Arakkonam", 
+            "284", 
+            "Assoc_Event"
+        ], 
+        [
+            "Vellore", 
+            "286", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shariful Haque", 
+            "105", 
+            "Victim"
+        ], 
+        [
+            "Saren Barman", 
+            "111", 
+            "Victim"
+        ], 
+        [
+            "Bimal Kumar Das", 
+            "117", 
+            "Victim"
+        ], 
+        [
+            "G. Anjaneyalu", 
+            "129", 
+            "Victim"
+        ], 
+        [
+            "Murali Loknath", 
+            "135", 
+            "Victim"
+        ], 
+        [
+            "G. Hari", 
+            "144", 
+            "Victim"
+        ], 
+        [
+            "Jitendra Mohanta Deka", 
+            "150", 
+            "Victim"
+        ], 
+        [
+            "Sadan Chandra Debnath", 
+            "161", 
+            "Victim"
+        ], 
+        [
+            "Sumant Debnath", 
+            "168", 
+            "Victim"
+        ], 
+        [
+            "Bijan Kumar", 
+            "177", 
+            "Victim"
+        ], 
+        [
+            "Altaf Khan", 
+            "183", 
+            "Victim"
+        ], 
+        [
+            "Umari Hani", 
+            "192", 
+            "Victim"
+        ], 
+        [
+            "Sagun Kumar Rai", 
+            "201", 
+            "Victim"
+        ], 
+        [
+            "Krishna", 
+            "208", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "7.30 a.m.:55", 
+        "five years : 276"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 1:1", 
+        "2011:289", 
+        "2013:291"
+    ], 
+    "death": "", 
+    "title": "May 1 no lean day at hospital", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Chennai", 
+        "Chennai", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "May 1 was meant to be a lean day for Rajiv Gandhi Government General Hospital -LRB- GH -RRB- but , just as these things sometime go , doctors had to get into the act , as persons injured in the bomb blasts at Chennai Central railway station were wheeled into the casualty wards from 7.30 a.m. . . Fourteen persons , including a woman and two teenagers , had sustained various degrees of injuries in the blast and were rushed to the hospital . Most of them had injuries on their lower limbs . . . Officials at GH said the injured were : Shariful Haque -LRB- 27 -RRB- , Saren Barman -LRB- 31 -RRB- and Bimal Kumar Das -LRB- 43 -RRB- of Jalpaiguri , West Bengal ; G. Anjaneyalu -LRB- 29 -RRB- and Murali Loknath -LRB- 21 -RRB- of Andhra Pradesh ; G. Hari -LRB- 21 -RRB- and Jitendra Mohanta Deka -LRB- 51 -RRB- of Bangalore , Karnataka ; Sadan Chandra Debnath -LRB- 64 -RRB- and Sumant Debnath -LRB- 37 -RRB- of north Tripura ; Bijan Kumar -LRB- 14 -RRB- and Altaf Khan -LRB- 17 -RRB- of Manipurof Manipur ; Umari Hani -LRB- 45 -RRB- of Assam ; and Sagun Kumar Rai -LRB- 23 -RRB- and Krishna -LRB- 28 -RRB- of West Bengal . . . As the trauma and emergency surgical ward swelled with people , particularly mediapersons , security guards and police personnel struggled to manage the crowd . Soon , the ward was cordoned off , including for the media . . . The hospital authorities said this was one of the biggest cases handled by the hospital in the last five years , after two train accidents at Arakkonam in Vellore district in 2011 and 2013 . . . But we were able to manage the emergency situation . Doctors from various specialties were brought together to treat the injured immediately , said an official .", 
+    "injured": "14", 
+    "org_unorg": "", 
+    "O": [
+        "lean day:8", 
+        "doctors:28", 
+        "act:34", 
+        "injured:38", 
+        "bomb blasts:41", 
+        "wheeled:49", 
+        "casualty wards:52", 
+        "Fourteen persons:59", 
+        "woman:64", 
+        "two teenagers:66", 
+        "degrees of injuries:72", 
+        "blast:77", 
+        "rushed:80", 
+        "hospital:83", 
+        "injuries:89", 
+        "lower limbs:92", 
+        "injured:102", 
+        "trauma:220", 
+        "emergency surgical ward:222", 
+        "swelled:225", 
+        "mediapersons:230", 
+        "security guards:232", 
+        "police personnel:235", 
+        "struggled:237", 
+        "crowd:241", 
+        "ward:246", 
+        "cordoned off:248", 
+        "hospital authorities:259", 
+        "biggest cases:267", 
+        "handled:269", 
+        "hospital:272", 
+        "train accidents:281", 
+        "manage:300", 
+        "emergency situation:302", 
+        "Doctors:305", 
+        "treat:313", 
+        "injured:315"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/may-1-no-lean-day-at-hospital/article5968184.ece", 
+    "date": "01-05-2014", 
+    "target": "RAILWAY STATION", 
+    "hot_spot": "", 
+    "delivery_mod": "RAILWAY STATION", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Rajiv Gandhi Government General Hospital", 
+            "11", 
+            "Others"
+        ], 
+        [
+            "GH", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "GH", 
+            "99", 
+            "Others"
+        ]
+    ]
+}

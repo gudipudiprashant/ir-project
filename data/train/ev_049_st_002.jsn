@@ -1,0 +1,104 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Old Delhi", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Saharanpur", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi Railway Station", 
+            "126", 
+            "Event"
+        ], 
+        [
+            "Pakistans", 
+            "143", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "today : 27", 
+        "last year : 56", 
+        "4.15 pm : 67", 
+        "5 pm : 100"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Jan 6 : 4"
+    ], 
+    "death": "", 
+    "title": "22  ", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "New Delhi", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI , Jan 6 At least 12 persons were injured when a crude bomb exploded in a passenger train at Old Delhi railway station here today . . . Interestingly , the blast occurred on the eve of the annual conference of the Delhi police when the force normally highlights its achievements during the last year . . . The blast took place at around 4.15 pm in the Saharanpur bound Shamli passenger train at platform number nine at the station , the police said . . . The , train was scheduled to leave the station at 5 pm . . . Immediately after the blast , the police control room received a call saying that a bomb have been planted at the New Delhi Railway Station . . . Senior police officials have not ruled out the handiwork of Pakistans ISI in the blast . . . The police carried out thorough checks in and around the station and did not find any explosive material.The call seems to be hoax , the police said . . . The injured have been admitted to Lok Nayak Jai Prakash and Hindu Rao Hospitals and they are said to be out of danger . . . The blast took place in unreserved coach moments after the train arrived at the platform from the railway yard .", 
+    "injured": "12", 
+    "org_unorg": "", 
+    "O": [
+        "injured:11", 
+        "crude bomb exploded:14", 
+        "blast:34", 
+        "annual conference:41", 
+        "blast:62", 
+        "Shamli passenger train:73", 
+        "platform number nine:77", 
+        "blast:108", 
+        "police control room:111", 
+        "bomb:120", 
+        "ISI:144", 
+        "blast:147", 
+        "explosive:167", 
+        "injured:182", 
+        "danger:203", 
+        "blast:208", 
+        "railway yard:224"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.tribuneindia.com/2000/20000107/main4.htm", 
+    "date": "06-01-2000", 
+    "target": "RAILWAY STATION", 
+    "hot_spot": "", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "Delhi police", 
+            "45", 
+            "Others"
+        ], 
+        [
+            "Lok Nayak Jai Prakash", 
+            "187", 
+            "Others"
+        ], 
+        [
+            "Hindu Rao Hospitals", 
+            "192", 
+            "Others"
+        ]
+    ]
+}

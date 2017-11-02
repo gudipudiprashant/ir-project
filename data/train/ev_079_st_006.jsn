@@ -1,0 +1,173 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Mehrauli", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "218", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rajiv Pratap Rudy", 
+            "54", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "Mr. Rudy", 
+            "113", 
+            "Comment"
+        ], 
+        [
+            "Hamid Ansari", 
+            "137", 
+            "Comment"
+        ], 
+        [
+            "Shivraj Patil", 
+            "173", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "233", 
+            "Comment"
+        ], 
+        [
+            "Manish Tewari", 
+            "262", 
+            "Comment"
+        ], 
+        [
+            "D. Raja", 
+            "322", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "month : 111", 
+        "three-day : 355"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday : 29", 
+        "Saturdays : 209", 
+        "Sunday : 359"
+    ], 
+    "death": "", 
+    "title": "Manmohan soft on terror: BJP", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . NEW DELHI : Within hours of the blast in the Mehrauli area of the capital , the Bharatiya Janata Party -LRB- BJP -RRB- on Saturday accused the Prime Minister of being soft on terror for the sake of vote-bank politics . . . Condemning the blast , BJP spokesman Rajiv Pratap Rudy sought to draw attention to the irony that the blast took place even as Prime Minister Manmohan Singh was calling for a campaign against terrorism , at the United Nations General Assembly . . . Expressing concern over the fact that the capital had come under terror attack for the second time in a month , Mr. Rudy said it was high time the government stopped debating and discussing terrorism , and began acting against it . . . Vice-President Hamid Ansari said such mindless and reprehensible acts of violence were intended to disturb the peace and impede national progress . He appealed to all sections of society to maintain calm . . . Home Minister Shivraj Patil said the government had taken a series of measures recently to beef up security in the capital . Whatever more is required to be done will be done expeditiously . I condemn todays -LSB- Saturdays -RSB- blast and appeal to the people of Delhi to remain calm , he said in a statement . . . Congress president Sonia Gandhi expressed deep shock and concern and said the blast should be condemned in the strongest terms . . . Responding to the BJP demand , party spokesperson Manish Tewari said this was the time for the nation to be seen as one in the fight against terror . The principal party in the Opposition should stand up and send a strong signal that political parties were one in meeting this challenge rather than play this game of oneupmanship . . . Communist Party of India national secretary D. Raja said the intelligence agencies should understand and counter the new methods being employed by the terrorists . . . Campaign . . The All-India Forward Bloc said it would organise a three-day nationwide campaign from Sunday against increasing terrorist activities across the country .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Within hours:8", 
+        "blast:12", 
+        "vote-bank politics:43", 
+        "blast:50", 
+        "attention:60", 
+        "blast:66", 
+        "Prime Minister Manmohan Singh:71", 
+        "campaign against terrorism:79", 
+        "United Nations General Assembly:85", 
+        "terror attack:103", 
+        "second time:107", 
+        "debating and discussing terrorism:123", 
+        "mindless:141", 
+        "reprehensible acts of violence:143", 
+        "peace and impede national progress:152", 
+        "Home Minister Shivraj Patil:171", 
+        "series of measures:181", 
+        "blast:211", 
+        "appeal:213", 
+        "remain calm:220", 
+        "deep shock and concern:236", 
+        "blast:243", 
+        "fight against terror:279", 
+        "Opposition:288", 
+        "stand up:290", 
+        "strong signal:295", 
+        "political parties:298", 
+        "challenge:305", 
+        "oneupmanship:312", 
+        "intelligence agencies:326", 
+        "new methods:333", 
+        "terrorists:339", 
+        "Campaign:343", 
+        "nationwide campaign:356", 
+        "increasing terrorist activities:361"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/article1347291.ece", 
+    "date": "27-09-2008", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bharatiya Janata Party", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "26", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "257", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "316", 
+            "Others"
+        ], 
+        [
+            "All-India Forward Bloc", 
+            "347", 
+            "Others"
+        ]
+    ]
+}

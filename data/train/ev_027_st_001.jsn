@@ -1,0 +1,120 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "upper Assam", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "39", 
+            "Neutral"
+        ], 
+        [
+            "Tinsukia", 
+            "41", 
+            "Event"
+        ], 
+        [
+            "Chambers Road", 
+            "57", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "60", 
+            "Event"
+        ], 
+        [
+            "lower Assam", 
+            "110", 
+            "Event"
+        ], 
+        [
+            "Nalbari", 
+            "113", 
+            "Neutral"
+        ], 
+        [
+            "Barkhanajan", 
+            "121", 
+            "Event"
+        ], 
+        [
+            "Nalbari", 
+            "127", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "7 . 20 a.m. : 73", 
+        "night : 96"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:44", 
+        "Thursday:95"
+    ], 
+    "death": "", 
+    "title": "Seven injured in Assam car bomb blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Sushanta Talukdar . . Guwahati : Seven persons were injured , two of them critically , in a car bomb explosion suspected to have been triggered by the United Liberation Front of Asom -LRB- ULFA -RRB- in upper Assam 's Tinsukia town on Friday . . . Police said that the blast occurred on the busy Chambers Road in Tinsukia when a bomb hidden in a Maruti gypsy vehicle went off around 7 . 20 a.m. . . The police arrested five persons in this connection with the blast . . . Earlier on Thursday night three suspected ULFA militants were killed in an encounter with the Army in lower Assam 's Nalbari district . The encounter took place at Barkhanajan , about 3 km of Nalbari town .", 
+    "injured": "7", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Tinsukia", 
+        "guwahati", 
+        "upper Assam 's Tinsukia town"
+    ], 
+    "O": [
+        "Maruti gypsy vehicle:67", 
+        "police:80"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/seven-injured-in-assam-car-bomb-blast/article1838317.ece", 
+    "date": "04-05-2007", 
+    "target": "", 
+    "hot_spot": "upper Assam 's Tinsukia town", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "29", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "35", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "99", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "38", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "53", 
+            "Neutral"
+        ], 
+        [
+            "Dispur", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "Gogoi", 
+            "114", 
+            "Neutral"
+        ], 
+        [
+            "Ganeshguri", 
+            "149", 
+            "Neutral"
+        ], 
+        [
+            "Secretariat",
+            "158", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "219", 
+            "Neutral"
+        ], 
+        [
+            "Kamrup", 
+            "257", 
+            "Neutral"
+        ], 
+        [
+            "Kamrup District Deputy Commissioner", 
+            "257", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Tarun Gogoi", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Tarun", 
+            "89", 
+            "Others"
+        ], 
+        [
+            "Gogoi", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "J Chameleswar", 
+            "269", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:19"
+    ], 
+    "death": "", 
+    "title": "Angry mob tries to storm state secretariat in Assam", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "GUWAHATI : Angered by the Tarun Gogoi government 's alleged failure to protect the citizens , people on Thursday attempted to storm into the state secretariat with two of the charred bodies of serial blast victims in Guwahati even as hundreds took to the streets in protest . -LRB- Watch -RRB- As Assam bled , a mob carrying two charred bodies on a push cart tried to storm its way in through the gates of the secretariat in Dispur . The mob , shouting slogans such as ` Tarun Gogoi murdabad ' , was stopped at the gates of the seat of government by the security staff . The people demanded that ` Gogoi come out and see what your failure to protect the people has caused . It has killed innocent people ' . Street fights also erupted with people angered by the repeated bomb blasts in Ganeshguri , which is adjacent to the high security Secretariat and Assembly . The area was targeted by ULFA earlier several times killing many in the vegetable market . Angered by the alleged police delay in responding to the bomb blast , an irate mob set ablaze a fire-tender . To control the angry protestors , police resorted to blank firing , official sources said . Meanwhile , lawyers in Guwahati also have decided not to take up cases of militants in the courts following the serial blasts across the state . The lawyers took the decision as soon as the blast took place in front of the Kamrup District Deputy Commissioner 's office . Guwahati High Court Chief Justice J Chameleswar has also condemned the explosions as an ` attack on society ' .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup Metropolitan", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "government:8", 
+        "failure:11", 
+        "state secretariat:25", 
+        "serial blast:34", 
+        "protest:47", 
+        "mob:57", 
+        "push cart:64", 
+        "way:70", 
+        "secretariat:77", 
+        "mob:82", 
+        "tarun gogoi:89", 
+        "murdabad:91", 
+        "seat:101", 
+        "government:103", 
+        "security staff:106", 
+        "failure:121", 
+        "street fights:136", 
+        "street:136", 
+        "bomb:146", 
+        "security:157", 
+        "security secretariat:157", 
+        "secretariat and assembly:158", 
+        "secretariat:158", 
+        "assembly:160", 
+        "area:163", 
+        "ulfa:167", 
+        "vegetable market:175", 
+        "police delay:182", 
+        "bomb blast:188", 
+        "mob:193", 
+        "fire-tender:197", 
+        "firing:209", 
+        "serial:235", 
+        "state:239", 
+        "decision:245", 
+        "blast:250", 
+        "place:252", 
+        "front:254", 
+        "office:262", 
+        "guwahati high court chief justice j chameleswar:264", 
+        "attack:279", 
+        "society:281"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Angry-mob-tries-to-storm-state-secretariat-in-Assam/articleshow/3655869.cms?referral=PM", 
+    "date": "30-10-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "167", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Guwahati High Court", 
+            "264", 
+            "Others"
+        ]
+    ]
+}

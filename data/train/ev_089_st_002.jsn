@@ -1,0 +1,284 @@
+{
+    "LOC": [
+        [
+            "HYDERABAD",
+            "1", 
+            "Source"
+        ], 
+        [
+            "Dilsukhnagar",
+            "8", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "46", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "Nanded", 
+            "97", 
+            "Accused"
+        ], 
+        [
+            "Maharashtra", 
+            "99", 
+            "Accused"
+        ], 
+        [
+            "Hyderabad", 
+            "105", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar",
+            "117", 
+            "Victim"
+        ], 
+        [
+            "Begum Bazar",
+            "119", 
+            "Victim"
+        ], 
+        [
+            "Abids",
+            "122", 
+            "Victim"
+        ], 
+        [
+            "Hyderabad", 
+            "133", 
+            "Neutral"
+        ], 
+        [
+            "Warangal", 
+            "174", 
+            "Accused"
+        ], 
+        [
+            "Hyderabad", 
+            "183", 
+            "Neutral"
+        ], 
+        [
+            "Old City", 
+            "200", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "203", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "237", 
+            "Neutral"
+        ], 
+        [
+            "Pune jail", 
+            "237", 
+            "Neutral"
+        ], 
+        [
+            "Amritsar", 
+            "338", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "340", 
+            "Event"
+        ], 
+        [
+            "Karnataka", 
+            "350", 
+            "Event"
+        ], 
+        [
+            "Vaishno Devi", 
+            "352", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "371", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "378", 
+            "Neutral"
+        ], 
+        [
+            "Yerwada Jail", 
+            "380", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Maqbool", 
+            "92", 
+            "Accused"
+        ], 
+        [
+            "Maqbool", 
+            "160", 
+            "Accused"
+        ], 
+        [
+            "Azam Gauri", 
+            "171", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Ajmal Kasab", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "Anurag Sharma", 
+            "273", 
+            "Others"
+        ], 
+        [
+            "Kasab", 
+            "343", 
+            "Others"
+        ], 
+        [
+            "Kasab", 
+            "360", 
+            "Others"
+        ], 
+        [
+            "Afzal Guru", 
+            "390", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:10", 
+        "Thursday evening:10", 
+        "August:41", 
+        "Last December:220", 
+        "December:221", 
+        "November:254", 
+        "November 30:254", 
+        "Nov:383", 
+        "Nov 21:383"
+    ], 
+    "death": "", 
+    "title": "Hyderabad blasts: Hyderabad police ignored Delhi report", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "HYDERABAD : The twin blasts that rocked Dilsukhnagar on Thursday evening was waiting to happen as the city police were repeatedly ignoring alerts by the Centre about impending strikes at the very place where scores lost their lives . In August last year , the Delhi Police , after busting a module of Indian Mujahideen -LRB- IM -RRB- , had warned Hyderabad of possible terror strikes by IM , but the police did not act on it , said senior home ministry sources . One of the arrested militant , called Maqbool , a resident of Nanded in Maharashtra , knew the topography of Hyderabad and had helped IM members in carrying out a recce of Dilsukhnagar , Begum Bazar and Abids in on a motorcycle . The information was passed to Hyderabad 's cops and they were told to beef up security , but the local cops brushed the information aside saying these were ` routine ' . Maqbool , who began his career along with a criminal called Azam Gauri of Warangal , told police about plans to strike in Hyderabad as it was a soft spot . ` We had information of militants staying at the Old City and Hyderabad was definitely on their minds , ' said a senior official on condition of anonymity . Last December , following reports of possible Taliban attacks to avenge Ajmal Kasab 's execution in a Pune jail , the centre again warned the city police . However , police told reporters on November 30 that they had not received any intelligence inputs of a suspected terror attack in the city . Anurag Sharma , the Police Commissioner said that police were prepared to shield the city and said patrolling has been intensified as a part of precautionary measure . ` We have not got any such report from any intelligence agency . However , we remain alert to any such threat , ' he had said . A Pakistani Taliban group had warned of attacks in Amritsar and Hyderabad to avenge Kasab 's death within a month . Karnataka and Vaishno Devi were also on their target . Kasab , who was the lone surviving gunman of the 26/11 Mumbai terror attacks , was hanged at Pune 's Yerwada Jail on Nov 21 . His execution along with Afzal Guru , is believed to have angered several terror groups who vowed to avenge their deaths .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "RANGA REDDY", 
+        "Hyderabad", 
+        ""
+    ], 
+    "O": [
+        "home ministry:81", 
+        "topography:103", 
+        "recce:115", 
+        "abids:122", 
+        "motorcycle:126", 
+        "information:129", 
+        "security:143", 
+        "information:151", 
+        "maqbool:160", 
+        "career:165", 
+        "spot:189", 
+        "information:194", 
+        "old city:200", 
+        "official:214", 
+        "condition:216", 
+        "anonymity:218", 
+        "possible taliban:226", 
+        "taliban attacks:227", 
+        "execution:234", 
+        "jail:238", 
+        "centre:241", 
+        "city police:245", 
+        "intelligence:262", 
+        "terror attack:267", 
+        "city:271", 
+        "police commissioner:277", 
+        "city:287", 
+        "patrolling:290", 
+        "part:296", 
+        "measure:299", 
+        "report:308", 
+        "intelligence agency:311", 
+        "threat:322", 
+        "Pakistani:330", 
+        "Taliban group:331", 
+        "group:332", 
+        "death:345", 
+        "month:348", 
+        "target:358", 
+        "kasab:360", 
+        "gunman:367", 
+        "26/11 Mumbai terror attacks:370", 
+        "terror:372", 
+        "yerwada:380", 
+        "yerwada jail:380", 
+        "jail:381", 
+        "execution:387", 
+        "terror:399"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/hyderabad/Hyderabad-blasts-Hyderabad-police-ignored-Delhi-report/articleshow/18620485.cms?referral=PM", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "TWO WHEELER", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "54", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "57", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "68", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "109", 
+            "Accused"
+        ], 
+        [
+            "Pakistani Taliban group", 
+            "330", 
+            "Others"
+        ]
+    ]
+}

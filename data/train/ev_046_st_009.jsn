@@ -1,0 +1,449 @@
+{
+    "LOC": [
+        [
+            "Bangalore", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Guwahati Express train", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "181", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "231", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "268", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "352", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "460", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "480", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "550", 
+            "Neutral"
+        ], 
+        [
+            "Red Fort", 
+            "707", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "710", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "730", 
+            "Neutral"
+        ], 
+        [
+            "Pushkar", 
+            "732", 
+            "Neutral"
+        ], 
+        [
+            "Puri", 
+            "745", 
+            "Neutral"
+        ], 
+        [
+            "Red Fort", 
+            "947", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "1054", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "1069", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "1071", 
+            "Event"
+        ], 
+        [
+            "Rajasthan", 
+            "1114", 
+            "Neutral"
+        ], 
+        [
+            "Odisha", 
+            "1116", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "1355", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "RK Raghavan", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Animesh Roul", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "VS Subrahmanian", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "358", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "614", 
+            "Others"
+        ], 
+        [
+            "Nawaz Sharif", 
+            "621", 
+            "Others"
+        ], 
+        [
+            "SM Srivastava", 
+            "751", 
+            "Others"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "1048", 
+            "Accused"
+        ], 
+        [
+            "Tehseen Akhtar", 
+            "1057", 
+            "Accused"
+        ], 
+        [
+            "Waqas", 
+            "1063", 
+            "Accused"
+        ], 
+        [
+            "Aaron Mannes", 
+            "1329", 
+            "Others"
+        ], 
+        [
+            "VS Subrahmanian", 
+            "1332", 
+            "Others"
+        ], 
+        [
+            "Animesh Roul", 
+            "1341", 
+            "Others"
+        ], 
+        [
+            "RK Raghavan", 
+            "1359", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "morning : 34"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "September 2013:311", 
+        "2013 : 336", 
+        "January 2014:369", 
+        "2013 : 432", 
+        "November:450", 
+        "December 2013:492", 
+        "November 2013:531", 
+        "September 2013:624", 
+        "November 2013:1386"
+    ], 
+    "death": "1", 
+    "title": "Chennai train blasts: Why Indian Mujahideen can't be ruled out", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "BANGLORE", 
+        "Bangalore", 
+        "Bangalore"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "byAaron Mannes , RK Raghavan , Animesh Roul , VS Subrahmanian . . As we file this column we have the news of twin blasts on the Bangalore - Guwahati Express train this morning , within minutes of its arrival at Chennai Central railway station . One woman passenger - a TCS employee - was killed and several others injured . One person has been detained by the Tamil Nadu Police for questioning . . . Significantly , this incident comes just a few days after the arrest by the State Police of a suspected ISI operative . Interrogation of the two individuals in police custody could throw up some sensational facts on terrorist plans . We will have to await them rather than indulge in speculations , which may be wide of the mark . These developments are unfortunate if one considers the fact that , almost three weeks into the worlds biggest election , Indian security agencies have done an excellent job ensuring public safety , particularly countering terrorist threats . . . Spot of the blast on Chennai railway station . PTI . . The fact that there has been no major terrorist action in the country at a time when security forces are extremely stretched is undoubtedly a tribute to the administrations state of preparedness . There is however no room for complacence , as the Chennai train explosion reveals . This is the ideal time to reflect on the strategy and strength of the one most potent terrorist groups in the country that has often derived support from external foes , especially Pakistan . Our reference is to the Indian Mujahideen ( IM ) which has displayed some resilience despite setbacks in the form of arrests of a few of its leadership and reported differences within the hierarchy on future strategy . . . In September 2013 , the authors of this piece ( based on a computational model ) published predictions of IM attacks in the last quarter of 2013 . These predictions were proved accurate by the devastating attacks on an election rally in Patna featuring BJP Prime Minister candidate Narendra Modi . But a subsequent prediction by the authors in January 2014 forecasting attacks by IM during the January-May 2014 time frame has thus far been proven wrong although not for a lack of effort by IM to carry out attacks that disrupt the elections . Indians can be grateful for the extraordinary work by Indian security organizations in preventing IMs plots from being successful . . . In the last quarter of 2013 , Indian security officials were able to make several key arrests of IM operatives . In early November , following the attack on Modis election rally in Patna , several IM operatives were arrested . Additional operatives of IMs predecessor organization , the Students Islamic Movement of India as well as a few IM men were also arrested in December 2013 . A predictive behavioral model of IM attacks suggested that IM often carries out attacks on public sites ( usually markets ) a few months after arrests of some IM members . . . Moreover , in November 2013 , IM released video clips and imagery of the Babri Masjid demolition and the post-Godhra riots in Gujarat the goal of these releases may have been to inflame Indian Muslim sentiment or to encourage IM operatives . The behavioral model of IM found that , when IM engages in a publicity campaign , attacks follow a few months later . Attacks by IM also follow about half a year after any signs of improvements in Indo-Pak diplomatic relations . Prime Minister Manmohan Singh met with Pakistani Prime Minister Nawaz Sharif in September 2013 . These data-points led our behavioral model to predict impending attacks in the January-May 2014 time frame . . . It is now clear that IM had carefully laid plans and took operational steps to carry out several such attacks during this time frame , proving the behavioral model correct . Indias security agencies carried out a series of arrests in March-April 2014 , breaking up several plots to attack a diverse set of targets . IM has reportedly targeted the Red Fort in Delhi , sending operatives to carry out physical surveillance . IM also had plans to carry out serial bombings in Jaipur and Pushkar targeting tourists , as well as the famous Rath Yatra festival in Puri . The Delhi Police Commission SM Srivastava is on record having described what was to come by way of planned IM attacks in the next few months . . . Opposition to Indias democracy has long been a fundamental tenet of IMs ideology . IM argues that Indias secular democracy can not protect Indias Muslims from the Hindu majority . An attack during the current election period has the potential to not only disrupt the free and fair conduct of the elections , but also to trigger an avalanche of communal violence . For IM , this would be a self-fulfilling prophecy , giving them further impetus to spread their radical message and expanding their appeal . While IM radicalism has had only miniscule appeal to Indias Muslim population , a well-organized and sponsored terrorist group requires only a relatively small cadre to spread enormous havoc . . . Thus , disrupting all potential terrorist plots has been a top priority for the Indian security establishment one that they have carried out spectacularly well . In just the past two months , at least five IM plots have reportedly been disrupted by Indian police , including highly symbolic operations against the Red Fort , specific operations against tourism-related targets , and specific operations against religious events . All of these had the potential to both exacerbate communal tensions as well as energize IMs cadres . . . The law enforcement success to date must not lead to complacency not only between now and the announcement of the election results but beyond . Weakened terrorist groups can be very dangerous , as they seek to rally their supporters ( and in the case of IM show their continued value to their sponsors ) with further attacks . With arrests of top leaders like Yasin Bhatkal ( IMs leader in India ) , Tehseen Akhtar , and Pakistani bomb-maker Waqas , who reportedly planned the Patna and Bodh Gaya attacks , their allies such as Lashkar-e-Taiba , and their Pakistani sponsors may strive to show that IM remains capable of executing deadly terror strikes . . . Reports of IMs intended targets are particularly worrisome . In the past , Rajasthan and Odisha have been ` hibernating grounds ' for IM militants , where IM has focused on building sleeper cells and engaged in recruitment and fund-raising activities , while generally carrying out relatively few attacks . If , as it appears , IM has chosen to activate their sleeper cells in these States , potentially jeopardizing their safe heavens , it is a sign that greater intelligence gathering and security sweeps are called for . . . Considering IMs powerful sponsors , it would be premature to assume that the organization has been de-fanged . Beyond maintaining their vigilance , Indian security forces should also continue to pursue the organizational reforms needed for effective counter-terrorism . Expanding intelligence capabilities to better collect , analyze , and disseminate intelligence is crucial . Improved intelligence cooperation between agencies at the federal and provincial levels is particularly important in connecting the dots to identify terrorist plots , and ensuring that local law enforcement officials have the information needed to prevent attacks . Indias security forces have had remarkable successes recently , but an enduring lesson of counter-terrorism is that effective terrorist organizations are learning organizations that adapt quickly . To continue keeping Indian citizens safe , the nations security services must do the same . . . Aaron Mannes and VS Subrahmanian are at the University of Maryland , Animesh Roul is with the Society for the Study of Peace and Conflict ( Delhi ) , and RK Raghavan is a former director of the CBI . All four are the authors of Indian Mujahideen : Computational Analysis & Public Policy ( Springer , November 2013 an Indian edition is also available ) .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Pakistani Prime Minister:618"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/india/chennai-train-blasts-why-indian-mujahideen-cant-be-ruled-out-1504749.html", 
+    "date": "01-05-2014", 
+    "target": "TRAIN", 
+    "hot_spot": "Bangalore", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Chennai Central", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu Police", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "State Police", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "ISI", 
+            "96", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "185", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "275", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "278", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "329", 
+            "Accused"
+        ], 
+        [
+            "BJP", 
+            "354", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "374", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "395", 
+            "Accused"
+        ], 
+        [
+            "Indian security organizations", 
+            "414", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "445", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "463", 
+            "Accused"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "476", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "486", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "500", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "504", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "523", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "534", 
+            "Accused"
+        ], 
+        [
+            "Babri Masjid", 
+            "542", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "567", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "574", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "579", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "595", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "651", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "702", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "720", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police Commission", 
+            "748", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "766", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "790", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "840", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "864", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "931", 
+            "Accused"
+        ], 
+        [
+            "Indian police", 
+            "938", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "1029", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "1079", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "1090", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "1124", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "1128", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "1157", 
+            "Accused"
+        ], 
+        [
+            "University of Maryland", 
+            "1337", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "1367", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "1375", 
+            "Accused"
+        ]
+    ]
+}

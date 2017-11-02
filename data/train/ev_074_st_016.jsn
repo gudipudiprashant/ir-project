@@ -1,0 +1,137 @@
+{
+    "LOC": [
+        [
+            "Rajdhani Express in Assam", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Golaghat", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Naujan", 
+            "48", 
+            "Neutral"
+        ], 
+        [
+            "Sugajan", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "AHMEDABAD", 
+            "126", 
+            "Neutral"
+        ], 
+        [
+            "Rajdhani Express in Assam", 
+            "153", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "168", 
+            "Neutral"
+        ], 
+        [
+            "Sirohi", 
+            "171", 
+            "Neutral"
+        ], 
+        [
+            "Banas", 
+            "173", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "179", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "277", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "279", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "281", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "315", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Trikal Rabha", 
+            "60", 
+            "Comment"
+        ], 
+        [
+            "Sirohi", 
+            "216", 
+            "Comment"
+        ], 
+        [
+            "Rani Mittal", 
+            "218", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "morning : 26", 
+        "1 am : 53", 
+        "6am : 101", 
+        "morning : 130", 
+        "morning : 183", 
+        "5:55 am : 208"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:25", 
+        "Thursday:182"
+    ], 
+    "death": "5", 
+    "title": "Blast in Rajdhani Express in Assam, 5 killed", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Five people were killed and four others injured in a bomb blast in a Delhi-bound Rajdhani Express in Assam 's Golaghat district early on Thursday morning . The explosion , carried out by suspected militants , happened in the luggage van of the 2423A Dibrugarh-Guwahati-Delhi Rajdhani between Naujan and Sugajan at around 1 am , North Eastern railway CPRO Trikal Rabha said . Five people died on the spot while the four injured were rushed to Golaghat Civil hospital . The luggage van was damaged as well as small portion of track . The train resumed its journey at around 6am after passengers in the affected van were shifted to a 3 tier AC boggie . Top railway officials have rushed to the site . AHMEDABAD RAJDHANI EXPRESS DERAILEDThursday morning has turned out to be a day of tragedies for Rajdhani Express trains . On one hand there was a blast in Rajdhani Express in Assam . In another tragic incident a Rajdhani Express train bound for Ahmedabad derailed between Sirohi and Banas station near the border with Gujarat early on Thursday morning , police said.Eleven bogies ofthe Rajdhani Express got derailed . Five passengers of the Delhi-Ahmedabad Rajdhani were slightly injured when the accident happened around 5:55 am ( IST ) , SP , Sirohi , Rani Mittal said . The derailment may have occurred due to a snapped ( broken ) track , officials said . The train was going at top speed when the driver felt two heavy jerks , after which he applied the brakes , they said . Only the engine and guard coaches did not derail . Emergency services from Ahmedabad , Ajmer and Jaipur have been rushed to the spot . Railway officials have also reached the site . Passengers will be ferried by buses to Abu Road station , from where they will be taken to Ahmedabad . .", 
+    "injured": "4", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "guwahati", 
+        "Assam"
+    ], 
+    "O": [
+        "Golaghat Civil hospital:77", 
+        "police:185"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/Blast+in+Rajdhani+Express+in+Assam,+5+killed/1/2426.html", 
+    "date": "13-12-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "Assam", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

@@ -4,7 +4,7 @@ import time
 from collections import Counter
 from Entity_test import Tester, get_all_entities
 
-def custom_freq_func(sent_ent_list, sentence_list, content,
+def custom_entity_detect_func(sent_ent_list, sentence_list, content,
   custom_param):
   # t1 = time.time()
   relev_entitites = get_all_entities(sent_ent_list)

@@ -1,0 +1,91 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Old Delhi railway station", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "42", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "P.K. Srivastav", 
+            "462", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 33", 
+        "night : 149", 
+        "evening : 279"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "JAN. 6 : 8", 
+        "Thursday:32"
+    ], 
+    "death": "", 
+    "title": "23 injured in Delhi railway station blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "By Our Staff Reporter NEW DELHI , JAN. 6 . At least 23 people were injured in a blast aboard a stationary passenger train at the Old Delhi railway station on Thursday evening . The explosion took place minutes after the Delhi - Shamli-Saharanpur passenger train arrived at platform No. 5 from the maintenance yard . The bomb , which was kept in a general compartment , fourth from the engine , was in all probability planted under seat No. 22 . According to unconfirmed eyewitness accounts , the police picked up at least three persons for questioning from the station soon after the blast . All were passengers waiting near the blast site . While none of them was believed to be directly involved , they were being questioned about events preceding the explosion . No terrorist group has claimed responsibility for the blast until late at night . Most of the victims were standing on the platform , waiting to board the train which was scheduled to leave an hour later . Some had already entered the ill-fated compartment . The medium-intensity explosion ripped apart the compartment , mangling and softening its inside and maiming the passengers . A crater , two feet wide , was formed where the device had been placed . The Railway Protection Force personnel were the first to react . At least nine of the injured were given first-aid on the platform itself . The rest were taken to Bara Hindu Rao Hospital and Shushruta Trauma Centre . No one had been injured seriously , the police said , adding that most of them were discharged from hospital later in the evening . Only one was kept under observation at Bara Hindu Rao Hospital . An explosive expert - part of the specialised Bomb Disposal Squad which had rushed to the spot - ruled out use of RDX in the explosion . `` RDX has the effect of shattering , shearing and cutting . There was no such sign in the compartment . The effect inside the train compartment was that of pushing and bending - as if pressure had been applied . So it does not look like a very sophisticated device . It seems a crude explosive had been used . '' The expert team also did not find any remnant of the bomb at the site . `` Nothing has been found so far . No remnant of a bomb , no remains of a timer device . '' The experts lifted evidence from inside the compartment and also from the railway track . The nature of the explosive would become clear only after forensic tests are conducted . The Deputy Commissioner of Police -LRB- Crime and Railways -RRB- , Mr. P.K. Srivastav , said it was impossible for the police to keep a check on passengers at railway stations . `` Extra men had been deployed but even then it is an uphill task , '' he added . . . By Our Staff Reporter . . NEW DELHI , JAN. 6 . At least 23 people were injured in a blast aboard a stationary passenger train at the Old Delhi railway station on Thursday evening . . . The explosion took place minutes after the Delhi - Shamli-Saharanpur passenger train arrived at platform No. 5 from the maintenance yard . The bomb , which was kept in a general compartment , fourth from the engine , was in all probability planted under seat No. 22 . . . According to unconfirmed eyewitness accounts , the police picked up at least three persons for questioning from the station soon after the blast . All were passengers waiting near the blast site . While none of them was believed to be directly involved , they were being questioned about events preceding the explosion . No terrorist group has claimed responsibility for the blast until late at night . . . Most of the victims were standing on the platform , waiting to board the train which was scheduled to leave an hour later . Some had already entered the ill-fated compartment . The medium-intensity explosion ripped apart the compartment , mangling and softening its inside and maiming the passengers . A crater , two feet wide , was formed where the device had been placed . . . The Railway Protection Force personnel were the first to react . At least nine of the injured were given first-aid on the platform itself . The rest were taken to Bara Hindu Rao Hospital and Shushruta Trauma Centre . . . No one had been injured seriously , the police said , adding that most of them were discharged from hospital later in the evening . Only one was kept under observation at Bara Hindu Rao Hospital . . . An explosive expert - part of the specialised Bomb Disposal Squad which had rushed to the spot - ruled out use of RDX in the explosion . . . `` RDX has the effect of shattering , shearing and cutting . There was no such sign in the compartment . The effect inside the train compartment was that of pushing and bending - as if pressure had been applied . So it does not look like a very sophisticated device . It seems a crude explosive had been used . '' . . The expert team also did not find any remnant of the bomb at the site . `` Nothing has been found so far . No remnant of a bomb , no remains of a timer device . '' The experts lifted evidence from inside the compartment and also from the railway track . The nature of the explosive would become clear only after forensic tests are conducted . . . The Deputy Commissioner of Police -LRB- Crime and Railways -RRB- , Mr. P.K. Srivastav , said it was impossible for the police to keep a check on passengers at railway stations . `` Extra men had been deployed but even then it is an uphill task , '' he added .", 
+    "injured": "23", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "OLD DELHI", 
+        "", 
+        "railway station"
+    ], 
+    "O": [
+        "police:90", 
+        "medium-intensity:184"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2000/01/07/stories/01070003.htm", 
+    "date": "04-01-2007", 
+    "target": "RAILWAY", 
+    "hot_spot": "railway station", 
+    "delivery_mod": "RAILWAY STATION", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB", 
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "Railway Protection Force", 
+            "218", 
+            "Others"
+        ], 
+        [
+            "Bara Hindu Rao Hospital", 
+            "247", 
+            "Others"
+        ], 
+        [
+            "Shushruta Trauma Centre", 
+            "252", 
+            "Others"
+        ], 
+        [
+            "Bara Hindu Rao Hospital", 
+            "288", 
+            "Others"
+        ]
+    ]
+}

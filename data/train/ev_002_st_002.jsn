@@ -1,0 +1,150 @@
+{
+    "LOC": [
+        [
+            "Assams", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "53", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "76", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "79", 
+            "Event"
+        ], 
+        [
+            "Gauripur", 
+            "135", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "151", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "8.23 a.m.:82", 
+        "8.38 a.m.:157", 
+        "9.5:181", 
+        "9.5 a.m.:181"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday morning:24", 
+        "Aug 15 : 31", 
+        "Wednesday morning : 58"
+    ], 
+    "death": "", 
+    "title": "Two injured in Assam blasts on Independence Day", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Two persons were injured in suspected United Liberation Front of Asom ( ULFA ) bomb blasts in Assams Dhubri and Bongaigaon Districts on Wednesday morning . . . Guwahati , Aug 15 : Two persons were injured in suspected United Liberation Front of Asom ( ULFA ) bomb blasts in Assam 's Dhubri and Bongaigaon Districts on Wednesday morning . . . According to officials , two Improvised Explosive Devices ( IEDs ) exploded near Gandhi Maidan in Bongaigaon town at 8.23 a.m. , injuring two persons . . . The parade ground is adjacent to a police reserve and about 150 metres away from the Independence Day celebration venue . . . In another incident , two bombs exploded near a parade ground adjacent to the Mahamaya Sanskrit Tol ( school ) at Gauripur town in Dhubri . No one was injured in this blast . . . In Dhubri , first blast occurred at 8.38 a.m. when first Programmable Time Devise ( PTD ) kept near an electric transformer went off . Second blast took place at around 9.5 a.m. when a flag hosting ceremony was on . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .", 
+    "injured": "2", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhubri", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "injured:4", 
+        "bomb blasts:15", 
+        "injured:37", 
+        "bomb blasts:48", 
+        "improvised explosive devices:68", 
+        "ieds:72", 
+        "independence day celebration:107", 
+        "two bombs exploded:118", 
+        "parade ground:123", 
+        "injured:143", 
+        "blast:146", 
+        "blast:154", 
+        "programmable time devise:161", 
+        "ptd:165", 
+        "blast:176", 
+        "flag hosting ceremony:185"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "INDEPENDENCE DAY", 
+    "link": "http://www.andhranews.net/India/2007/August/15-injured-Assam-blasts-11892.asp", 
+    "date": "15-08-2007", 
+    "target": "PARADE GROUND", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "7", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "40", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "46", 
+            "Accused"
+        ], 
+        [
+            "Mahamaya Sanskrit Tol", 
+            "128", 
+            "Others"
+        ]
+    ]
+}

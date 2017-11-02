@@ -1,0 +1,137 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "Amolapatty", 
+            "56", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "210", 
+            "Neutral"
+        ], 
+        [
+            "Molandubi", 
+            "278", 
+            "Neutral"
+        ], 
+        [
+            "Kokrajhar", 
+            "281", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rana Bhuyan", 
+            "67", 
+            "Comment"
+        ], 
+        [
+            "Purnima Rojok", 
+            "74", 
+            "Victim"
+        ], 
+        [
+            "Bhuyan", 
+            "152", 
+            "Comment"
+        ], 
+        [
+            "Songbijit", 
+            "275", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "5 pm : 46"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 30", 
+        "December 15 : 263"
+    ], 
+    "death": "1", 
+    "title": "One dead, 17 injured in bomb blast in Assam`s Dibrugarh", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dibrugarh", 
+        "Dibrugarh", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Dibrugarh : Suspected militants detonated a bomb killing a teenage girl and injuring 17 people , including a woman , in upper Assam ` s tea town Dibrugarh on Tuesday . . . The explosive , probably a crude bomb , went off at around 5 pm behind the old railway station in the busy Amolapatty area below an electric pole , district superintendent of police Rana Bhuyan said . . . 14-year-old Purnima Rojok , who had been injured in the blast , succumbed to her wounds at the Assam Medical College Hospital . Seventeen others injured , some of them critically , have also been admitted to the hospital . . . Preliminary investigations pointed to a crude bomb and not a grenade as no splinters were found at the site of the blast and also there was no trace of an improvised explosive device ( IED ) , Bhuyan said . . . The explosion created a two-feet wide crater on the road , the sources said . . . The identity of the insurgent outfit responsible for the blast was not immediately known , the SP said . . . Both ULFA ( Independent ) and Maoist elements are known to be active in upper Assam . . . Local people had reported to the police that two extremists had come on a motorcycle and hurled a grenade before fleeing . . . Senior police officials went to the site , cordoned off the area , and tightened security arrangements in the town . . . Earlier on December 15 , a grenade was exploded by suspected anti-talk NDFB ( Songbijit ) at Molandubi Market in Kokrajhar district killing one person and injuring four others .", 
+    "injured": "17", 
+    "org_unorg": "", 
+    "O": [
+        "militants:4", 
+        "bomb:7", 
+        "crude bomb:39", 
+        "railway station:51", 
+        "injured:80", 
+        "blast:83", 
+        "injured:98", 
+        "crude bomb:120", 
+        "grenade:125", 
+        "splinters:128", 
+        "blast:136", 
+        "improvised explosive device:145", 
+        "ied:149", 
+        "explosion:158", 
+        "outfit:179", 
+        "blast:183", 
+        "extremists:223", 
+        "motorcycle:228", 
+        "grenade:232", 
+        "tightened security:252", 
+        "anti-talk:272"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/assam/one-dead-17-injured-in-bomb-blast-in-assams-dibrugarh_897448.html", 
+    "date": "17-12-2013", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "Assam Medical College Hospital", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "196", 
+            "Accused"
+        ], 
+        [
+            "Maoist", 
+            "201", 
+            "Assoc_Accused"
+        ], 
+        [
+            "NDFB", 
+            "273", 
+            "Assoc_Accused"
+        ]
+    ]
+}

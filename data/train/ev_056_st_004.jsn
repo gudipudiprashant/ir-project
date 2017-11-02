@@ -1,0 +1,109 @@
+{
+    "LOC": [
+        [
+            "Ahmedabad", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "9", 
+            "Neutral"
+        ], 
+        [
+            "Lunavada", 
+            "57", 
+            "Event"
+        ], 
+        [
+            "Godhra", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "Godhra bus station", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Panchmahal", 
+            "91", 
+            "Neutral"
+        ], 
+        [
+            "Lunavada", 
+            "96", 
+            "Event"
+        ], 
+        [
+            "Lunavada", 
+            "118", 
+            "Event"
+        ], 
+        [
+            "Lunavada", 
+            "152", 
+            "Event"
+        ], 
+        [
+            "Godhra", 
+            "206", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narsimha Kumar", 
+            "103", 
+            "Comment"
+        ], 
+        [
+            "Gaurav Yatra", 
+            "129", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "evening : 65", 
+        "7.45 pm:170"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Oct. 16:3", 
+        "October 19:154"
+    ], 
+    "death": "", 
+    "title": "Relay blasts near Godhra", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "GODHRA", 
+        "", 
+        "Lunavada"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Ahmedabad , Oct. 16 : Godhra has put Gujarat back on the edge after two bombs went off within a span of 28 hours in the town that witnessed the train carnage and at a bus terminus nearby . . . At least eight persons were injured when a bomb exploded at the bus station at Lunavada , 35 km from Godhra , this evening . The blast came a day after six persons were injured in an explosion on a bus at the Godhra bus station . . . Panchmahal ( the district where Lunavada is located ) superintendent of police Narsimha Kumar said there was a marked similarity between the two explosions . . . Lunavada falls on the route of chief minister Narendra Modis controversial Gaurav Yatra , the fifth phase of which began today from Porbander , Mahatma Gandhis birthplace . The rath is scheduled to reach Lunavada on October 19 . . . Police said the bomb planted in the terminus went off at 7.45 pm . The bus station building also houses several government offices . . . Tuesdays blast occurred soon after a state road transport bus coming from a nearby village rolled into the parking bay at Godhra . . . Almost all the passengers had alighted when the bomb went off , ripping out seats at the back , shattering window panes and damaging a tyre . . . Four persons standing beside the bus were hit by splinters . The condition of one of the injured , whose leg had to be amputated , is stated to be critical .", 
+    "injured": "8", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "superintendent of police:100", 
+        "chief minister:124", 
+        "Police:159"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1021017/asp/frontpage/story_1298008.asp", 
+    "date": "17-10-2002", 
+    "target": "", 
+    "hot_spot": "Lunavada", 
+    "delivery_mod": "BUS", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

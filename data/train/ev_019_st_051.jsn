@@ -1,0 +1,125 @@
+{
+    "LOC": [
+        [
+            "Kolkata", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "SSKM", 
+            "125", 
+            "Event"
+        ], 
+        [
+            "Khagragarh", 
+            "152", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "154", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Hakim", 
+            "11", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "M Mumtaz Khan", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "Hakim", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "Hasem Mollah", 
+            "96", 
+            "Accused"
+        ], 
+        [
+            "Rajia Bibi", 
+            "99", 
+            "Accused"
+        ], 
+        [
+            "Alima Bibi", 
+            "102", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "November 14:62", 
+        "November 20:111", 
+        "October 2:157"
+    ], 
+    "death": "2", 
+    "title": "Burdwan Blast Accused Remanded to 10 Days' NIA Custody", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Kolkata : A city court today remanded Burdwan blast accused Abdul Hakim to 10 days ' National Investigation Agency or NIA custody after he was produced before it following his release from hospital , where he was undergoing treatment for injuries suffered during the blast.Chief judge , city sessions court , M Mumtaz Khan granted Hakim 's custody to NIA till November 14 , following a prayer by the agency for 15 days ' custody so that it can interrogate him in connection with the blast.The other three arrested in connection with the case - Hasem Mollah , Rajia Bibi and Alima Bibi - were remanded to judicial custody till November 20 on a prayer by the NIA counsel.Hakim was released from the state-run SSKM Hospital today after being treated for splinter injuries.The other three were already in judicial custody.Two persons were killed in the accidental blast in a house at Khagragarh in Burdwan district on October 2 , while hand grenades were being manufactured there , leading to the unearthing of an international terror racket .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "", 
+        "Bardhaman", 
+        "Burdwan"
+    ], 
+    "O": [
+        "hospital:33", 
+        "city sessions court:48", 
+        "Hospital:126", 
+        "international terror racket:174"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/burdwan-blast-accused-remanded-to-10-days-nia-custody-689231", 
+    "date": "05-11-2014", 
+    "target": "", 
+    "hot_spot": "Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "118", 
+            "Others"
+        ]
+    ]
+}

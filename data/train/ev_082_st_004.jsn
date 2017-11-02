@@ -1,0 +1,170 @@
+{
+    "LOC": [
+        [
+            "Agartala", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Agartala", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "markets", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "bus stands", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Agartala", 
+            "53", 
+            "Event"
+        ], 
+        [
+            "Maharaja Ganju Bazar", 
+            "58", 
+            "Event"
+        ], 
+        [
+            "Gobind Ballah Pant market", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "Radhanagar bus stand", 
+            "68", 
+            "Event"
+        ], 
+        [
+            "Agartala Motorstand", 
+            "72", 
+            "Event"
+        ], 
+        [
+            "Abhay Nagar", 
+            "75", 
+            "Event"
+        ], 
+        [
+            "Radhanagar bus stand", 
+            "86", 
+            "Event"
+        ], 
+        [
+            "G B Market", 
+            "123", 
+            "Event"
+        ], 
+        [
+            "Agartala", 
+            "156", 
+            "Event"
+        ], 
+        [
+            "Radhanagar bus stand", 
+            "199", 
+            "Event"
+        ], 
+        [
+            "Tripura", 
+            "240", 
+            "Neutral"
+        ], 
+        [
+            "Agartala", 
+            "267", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "October 1 : 3", 
+        "five minutes : 40", 
+        "7.30 pm : 91", 
+        "three minutes : 210"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "evening : 43", 
+        "September 25 : 281"
+    ], 
+    "death": "2", 
+    "title": "Two killed, 76 injured in serial blasts in Agartala", 
+    "det_loc": [
+        "India", 
+        "Tripura", 
+        "", 
+        "Agartala", 
+        "Agartala"
+    ], 
+    "terror_group": [
+        "HUJI"
+    ], 
+    "content": "Agartala , October 1 ( PTI ) Terrorists struck Agartala for the first time as two persons were killed and 76 injured in a string of five blasts at crowded markets and bus stands in a span of approximately five minutes this evening . . . The low-intensity blasts took place at Agartala 's main shopping area Maharaja Ganju Bazar , Gobind Ballah Pant market , busy Radhanagar bus stand , Agartala Motorstand and Abhay Nagar localities . . . The first blast occured at Radhanagar bus stand at around 7.30 pm and it was followed by the explosions in the other places in quick succession , police sources said . . . An unidentified man was killed in the blast at G B Market while another person succumbed to injuries . . . The condition of five of the injured was stated to be critical . . . Panic gripped the entire capital of Agartala and people ran helter and skelter soon after the blasts . . . Bomb squads and forensic experts examined the blast sites . . . Police sources , quoting eyewitnesses , said two persons riding a motorcycle were seen moving suspiciously at Radhanagar bus stand and the blast took place there two to three minutes after they left the area . . . Police sources suspect the involvement of Bangladesh-based terror group Hizbul Mujaheedin Islamia ( HuJI ) which has of late used Tripura as a transit route as the state shares a pourous 856-km border with the neighbouring country . . . Three suspected HuJI members were arrested in Agartala in the last two months . . . Central intelligence agencies had on September 25 warned the northeastern states of an impending terror attack and BSF officials here confirmed having received the input . . . .", 
+    "injured": "76", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "low-intensity:48", 
+        "Police:220"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.outlookindia.com/newswire/story/two-killed-76-injured-in-serial-blasts-in-agartala/615156", 
+    "date": "01-10-2008", 
+    "target": "", 
+    "hot_spot": "Agartala", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Bomb squads", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "forensic", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "Hizbul Mujaheedin Islamia", 
+            "229", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "233", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "262", 
+            "Accused"
+        ], 
+        [
+            "Central intelligence agencies", 
+            "276", 
+            "Others"
+        ], 
+        [
+            "BSF", 
+            "293", 
+            "Others"
+        ]
+    ]
+}

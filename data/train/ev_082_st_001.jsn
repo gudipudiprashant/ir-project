@@ -1,0 +1,296 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Agartala", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Kolkata", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "Tripura", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "245", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad ,", 
+            "245", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "247", 
+            "Event"
+        ], 
+        [
+            "Banglaore", 
+            "249", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "460", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "461", 
+            "Event"
+        ], 
+        [
+            "Agartala", 
+            "482", 
+            "Event"
+        ], 
+        [
+            "Tripura", 
+            "531", 
+            "Neutral"
+        ], 
+        [
+            "Tripura", 
+            "591", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "Manik Sarkar", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "86", 
+            "Others"
+        ], 
+        [
+            "Manik Sarkar", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "Sarkar", 
+            "104", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "107", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "121", 
+            "Comment"
+        ], 
+        [
+            "Shivraj Patil", 
+            "145", 
+            "Comment"
+        ], 
+        [
+            "Sarkar", 
+            "151", 
+            "Comment"
+        ], 
+        [
+            "Sarkar", 
+            "154", 
+            "Comment"
+        ], 
+        [
+            "Pranay Sahay", 
+            "276", 
+            "Comment"
+        ], 
+        [
+            "Sahay", 
+            "277", 
+            "Others"
+        ], 
+        [
+            "Prakash Karat", 
+            "513", 
+            "Comment"
+        ], 
+        [
+            "Sarkar", 
+            "520", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "nights : 31", 
+        "night : 140"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:27", 
+        "Wednesday:30", 
+        "Wednesday:139", 
+        "Friday:191", 
+        "September 27:376", 
+        "Thursday:522"
+    ], 
+    "death": "", 
+    "title": "Three Central teams rushed to Agartala to investigate serial blasts", 
+    "det_loc": [
+        "India", 
+        "Tripura", 
+        "", 
+        "Agartala", 
+        "Agartala"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Sushanta Talukdar . . Six detained for questioning ; Manmohan Singh speaks to Manik Sarkar . . Guwahati : Three Central teams rushed to Agartala on Thursday to investigate Wednesday nights serial blasts that left 74 injured , three of them critically . . . The teams from the National Security Guards , the Intelligence Bureau and the Central Forensic Science Laboratory , Kolkata , visited the blast sites to gather evidence . Police have detained six persons for questioning . . . Prime Minister Manmohan Singh spoke to Tripura Chief Minister Manik Sarkar about the blasts and the prevailing situation . Mr. Sarkar apprised Dr. Singh of the incidents and measures initiated by his government . . . Dr. Singh strongly condemned the attack on innocent people and wished the injured speedy recovery . . . On Wednesday night , Union Home Minister Shivraj Patil also spoke to Mr. Sarkar . Mr. Sarkar told TheHindu that he could not comment immediately as the State and Central governments were working together and investigating the matter . . . We hope to be able to form some opinion by tomorrow -LSB- Friday -RSB- . He had a review meeting with police top brass and senior State government officials . He asked the administration to step up security measures for the Durga Puja festival . . . Sources said the government agencies were trying to ascertain if the blasts had any similarity with the ones in Ahmedabad , Delhi and Banglaore . . . The police said ammonium nitrate and fuel oil were suspected to have been used in the bombs . . . Director-General of Police Pranay Sahay said the police had not been able to pinpoint the involvement of any group or outfit in the blasts . Five cases had been registered in connection with the blasts . . . An angle being explored is whether the blasts were the handiwork of forces bent on scuttling the States development . . . The blasts took place hours after results of the by-election to various local bodies were announced . The ruling Left Front swept the poll , winning 74 per cent of the seats . Of the 153 seats to which by-elections were held on September 27 , the Left Front won in 123 , with the CPI -LRB- M -RRB- alone bagging 120 seats . The Left Front has also secured 32 seats uncontested . Candidates of Opposition parties forfeited their securities in most of the seats . . . The Opposition Congress , however , accused the Left Front government of ignoring the warnings by Central intelligence agencies and not taking adequate measures to thwart terrorist attacks . . . CPI -LRB- M -RRB- condemns . . New Delhi Special Correspondent writes : . . The CPI -LRB- M -RRB- condemned the forces which carried out the blasts in Agartala . The incident was an attempt to undermine the success of the Left Front government in tackling extremism , it said . . . CPI -LRB- M -RRB- general secretary Prakash Karat said he spoke to Mr. Sarkar on Thursday . . . The Left Front government of Tripura has registered significant success in tackling the extremist groups which resorted to terrorist violence . The explosions must be seen as an attempt to destabilise the situation , the Polit Bureau said in a statement . . . The Polit Bureau conveyed its heartfelt sympathy to the victims and their families . The Centre should extend all help to Tripura in tracking down the culprits , especially in view of the fact that the State had an international border on the three sides .", 
+    "injured": "74", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:74", 
+        "prime minister:84", 
+        "chief minister:91", 
+        "government:116", 
+        "union home minister:142", 
+        "durga puja:220", 
+        "ammonium nitrate:256", 
+        "fuel oil:259", 
+        "director-general of police:273", 
+        "left front:380"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/three-central-teams-rushed-to-agartala-to-investigate-serial-blasts/article1350676.ece", 
+    "date": "01-10-2008", 
+    "target": "", 
+    "hot_spot": "Agartala", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Security Guards", 
+            "50", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "Central Forensic Science Laboratory", 
+            "59", 
+            "Others"
+        ], 
+        [
+            "TheHindu", 
+            "156", 
+            "Others"
+        ], 
+        [
+            "State and Central governments", 
+            "165", 
+            "Others"
+        ], 
+        [
+            "State government", 
+            "205", 
+            "Others"
+        ], 
+        [
+            "States development", 
+            "328", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "388", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "424", 
+            "Others"
+        ], 
+        [
+            "Left Front government", 
+            "430", 
+            "Others"
+        ], 
+        [
+            "Central intelligence agencies", 
+            "438", 
+            "Others"
+        ], 
+        [
+            "thwart terrorist", 
+            "447", 
+            "Accused"
+        ], 
+        [
+            "CPI", 
+            "453", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "469", 
+            "Others"
+        ], 
+        [
+            "Left Front government", 
+            "495", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "507", 
+            "Others"
+        ], 
+        [
+            "Left Front government", 
+            "527", 
+            "Others"
+        ], 
+        [
+            "Polit Bureau", 
+            "561", 
+            "Others"
+        ], 
+        [
+            "Polit Bureau", 
+            "571", 
+            "Others"
+        ]
+    ]
+}

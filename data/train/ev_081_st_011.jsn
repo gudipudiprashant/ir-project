@@ -1,0 +1,147 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Congo", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "Pachmarhi", 
+            "161", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "163", 
+            "Neutral"
+        ], 
+        [
+            "Congo", 
+            "198", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "244", 
+            "Neutral"
+        ], 
+        [
+            "U.N.", 
+            "251", 
+            "Neutral"
+        ], 
+        [
+            "Congo", 
+            "254", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "286", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sandeep Dikshit", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "S. P. S. Dhillon", 
+            "92", 
+            "Comment"
+        ], 
+        [
+            "Srikant Purohit", 
+            "121", 
+            "Accused"
+        ], 
+        [
+            "Dhillon", 
+            "170", 
+            "Comment"
+        ], 
+        [
+            "Purohit", 
+            "293", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:42", 
+        "Wednesday:126", 
+        "September 29:135", 
+        "November 7 , 2008 : 303"
+    ], 
+    "death": "", 
+    "title": "A freak case: Army", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Malegaon", 
+        "Malegaon"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Sandeep Dikshit . . NEW DELHI : The arrest of a serving officer for his alleged complicity in the Malegaon bomb blasts has hurt the Armys prestige but this was a freak incident , a senior Army officer said here on Thursday . . . The Armys prestige has been hurt after our officers name came up in case . This is a freak incident . We have our own mechanisms for keeping a check on these kinds of things , the Deputy Chief of the Army Staff , Lt. Gen. S. P. S. Dhillon , told journalists here after a send-off for troops from a Gorkha battalion on a U.N. peacekeeping mission in Congo . . . Lt. Col. Srikant Purohit was arrested on Wednesday for allegedly supplying money and explosives for the September 29 blast . . . From the intelligence cadre of the Army , he was posted at the Army Corps Training College and Centre at Pachmarhi in Madhya Pradesh . . . Lt. Gen. Dhillon said the Army would initiate action against the officer after receiving a report from the Maharashtra Polices Anti-Terrorism Squad . . . On the peacekeeping mission in Congo , he said , Our troops have been doing good work there and will continue to do so . This despite pressure from rebels . Recently , militants injured an officer and a jawan in rocket firing on their armoured personnel carriers . . . India has the largest representation in the U.N. mission in Congo with over 4,500 troops out of 17,000 peacekeepers deployed there . . . Corrections and Clarifications . . It is the Army Educational Corps Training College and Centre , atPachmarhi in Madhya Pradesh . A report ' -LSB- Purohit arrest -RSB- A freak case : Army ' -LRB- November 7 , 2008 -RRB- gave it , incorrectly , as the Army Corps Training Collegeand Centre .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "deputy chief:83"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/a-freak-case-army/article1371169.ece", 
+    "date": "06-11-2008", 
+    "target": "", 
+    "hot_spot": "Malegaon", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Gorkha battalion on a U.N.", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "Army Corps Training College and Centre", 
+            "154", 
+            "Others"
+        ], 
+        [
+            "Maharashtra Polices Anti-Terrorism Squad", 
+            "186", 
+            "Others"
+        ], 
+        [
+            "Army Educational Corps Training College and Centre", 
+            "276", 
+            "Others"
+        ], 
+        [
+            "Army Corps Training Collegeand Centre", 
+            "315", 
+            "Others"
+        ]
+    ]
+}

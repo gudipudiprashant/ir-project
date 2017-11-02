@@ -1,0 +1,111 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "30", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushma Swaraj", 
+            "15", 
+            "Others"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "Swaraj", 
+            "44", 
+            "Comment"
+        ], 
+        [
+            "Swaraj", 
+            "217", 
+            "Comment"
+        ], 
+        [
+            "Sushma", 
+            "233", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "today : 286"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 23"
+    ], 
+    "death": "", 
+    "title": "Hyderabad blasts: Routine statements not enough, says Swaraj", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Zeenews Bureau . . New Delhi : Leader of Opposition in the Lok Sabha Sushma Swaraj slammed Home Minister Sushilkumar Shinde on Friday and termed his statement on the Hyderabad blasts as routine . . . Routine statements are not enough , said Swaraj . Cornering the government in view of reports that the Centre had prior intelligence on the possibility of a terror strike , she said , The Centre ` s role doesn ` t end after warning states about terror threats . If the Centre had information , then why did it not do anything to prevent the blasts ? . . She said that the time is not to play blame games but to stand united . . . Earlier in the day , she said , `` We can be united only when our thoughts in fighting terror are similar . The Home Minister himself is saying that he gave the information . But , if there was information , the blame doubles . If there was information , what was the Centre , the state doing ? `` . . `` The nation needs to be united ; the political parties need to get united . The moment that happens , we will be capable of fighting terror , ' Swaraj said in the Lok Sabha . . . Asserting that terrorists have no religion , Sushma said : ` Terrorists only follow the code of terrorism . We need to be united against terrorism . ' . . She further said that this is not the moment to lay blame , but to work together to combat terrorism . . . Both houses of the house witnessed pandemonium today with the Opposition demanding answers from the government on the issue .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "O": [
+        "lok sabha:13", 
+        "blasts:31", 
+        "terror strike:64", 
+        "terror threats:83", 
+        "blasts:102", 
+        "blame games:115", 
+        "terror:143", 
+        "blame doubles:167", 
+        "fighting terror:213", 
+        "lok sabha:221", 
+        "terrorists:228", 
+        "terrorists:237", 
+        "terrorism:243", 
+        "terrorism:251", 
+        "combat terrorism:274", 
+        "pandemonium:285"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/nation/hyderabad-blasts-routine-statements-not-enough-says-swaraj_830760.html", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Centre", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "71", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "178", 
+            "Others"
+        ]
+    ]
+}

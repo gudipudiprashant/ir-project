@@ -1,0 +1,453 @@
+{
+    "LOC": [
+        [
+            "Chennai Central railway station", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Chennai Central", 
+            "94", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "128", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "171", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "195", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore station", 
+            "262", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "274", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "276", 
+            "Neutral"
+        ], 
+        [
+            "Guntur", 
+            "312", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "314", 
+            "Neutral"
+        ], 
+        [
+            "Ongole", 
+            "368", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "370", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "378", 
+            "Neutral"
+        ], 
+        [
+            "Colombo", 
+            "556", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "571", 
+            "Event"
+        ], 
+        [
+            "railway station", 
+            "663", 
+            "Event"
+        ], 
+        [
+            "Sri Lanka", 
+            "712", 
+            "Neutral"
+        ], 
+        [
+            "south India", 
+            "735", 
+            "Neutral"
+        ], 
+        [
+            "Tamil Nadu", 
+            "759", 
+            "Neutral"
+        ], 
+        [
+            "Sri Lanka", 
+            "771", 
+            "Neutral"
+        ], 
+        [
+            "Tamil Nadu", 
+            "787", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "852", 
+            "Neutral"
+        ], 
+        [
+            "Kodanadu", 
+            "931", 
+            "Neutral"
+        ], 
+        [
+            "Kodanadu", 
+            "942", 
+            "Neutral"
+        ], 
+        [
+            "Nilgiris", 
+            "947", 
+            "Neutral"
+        ], 
+        [
+            "Tamil Nadu", 
+            "1003", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "1059", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "1102", 
+            "Event"
+        ], 
+        [
+            "Nanded", 
+            "1104", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "1121", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "1131", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "1140", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "1145", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "1150", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Anoop Jaiswal", 
+            "133", 
+            "Comment"
+        ], 
+        [
+            "K Ramanujam", 
+            "198", 
+            "Comment"
+        ], 
+        [
+            "Jaiswal", 
+            "201", 
+            "Comment"
+        ], 
+        [
+            "Swathi Parachuri", 
+            "285", 
+            "Victim"
+        ], 
+        [
+            "Swathi", 
+            "297", 
+            "Others"
+        ], 
+        [
+            "Sumanto Devanath", 
+            "324", 
+            "Victim"
+        ], 
+        [
+            "A Anjaneyalu", 
+            "365", 
+            "Comment"
+        ], 
+        [
+            "J Radhakrishnan", 
+            "436", 
+            "Comment"
+        ], 
+        [
+            "Rakesh Mishra", 
+            "475", 
+            "Comment"
+        ], 
+        [
+            "Mohammed Zakir Hussain", 
+            "515", 
+            "Others"
+        ], 
+        [
+            "Hussain", 
+            "537", 
+            "Others"
+        ], 
+        [
+            "Amir Zubair Siddiqui", 
+            "547", 
+            "Others"
+        ], 
+        [
+            "Siddiqui", 
+            "716", 
+            "Accused"
+        ], 
+        [
+            "Siddiqui", 
+            "743", 
+            "Accused"
+        ], 
+        [
+            "Thameem Ansari", 
+            "753", 
+            "Accused"
+        ], 
+        [
+            "Hussain", 
+            "764", 
+            "Accused"
+        ], 
+        [
+            "Kandy", 
+            "769", 
+            "Others"
+        ], 
+        [
+            "Radhakrishnan", 
+            "829", 
+            "Others"
+        ], 
+        [
+            "Narendra Modi", 
+            "840", 
+            "Others"
+        ], 
+        [
+            "M Karunanidhi", 
+            "894", 
+            "Comment"
+        ], 
+        [
+            "Hussain", 
+            "911", 
+            "Accused"
+        ], 
+        [
+            "J Jayalalithaa", 
+            "916", 
+            "Others"
+        ], 
+        [
+            "Karunanidhi", 
+            "934", 
+            "Comment"
+        ], 
+        [
+            "Jayalalithaa", 
+            "986", 
+            "Victim"
+        ], 
+        [
+            "M N Reddi", 
+            "1063", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "morning : 43", 
+        "7.05 am : 97", 
+        "10 minutes : 105", 
+        "12:15 pm : 457", 
+        "night : 535"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 42", 
+        "Wednesday : 265", 
+        "Tuesday : 534", 
+        "Thursday : 855", 
+        "Sunday : 951"
+    ], 
+    "death": "1", 
+    "title": "1 killed and 14 injured after twin blasts hit train at Chennaistation", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Chennai", 
+        "", 
+        " Chennai Central railway station"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A 24-Year-old woman software engineer was killed and 14 people injured when two low-intensity bombs went off in quick succession in two coaches ( S4 , S5 ) of the Bangalore-Guwahati superfast express train at the Chennai Central railway station on Thursday morning . Officials said all the injured , including two who underwent surgery , are in a stable condition . . . ALSO READ : TCS staffer who died was going home to get engaged . . The train was running an hour-and-a-half late when it pulled into platform 9 at Chennai Central at 7.05 am . The first blast occurred about 10 minutes later . It was followed by a second blast just minutes after , triggering panic among the passengers . . . Tamil Nadu intelligence chief DGP Anoop Jaiswal told The Indian Express that low-intensity IED fitted in pipes , triggered by a timer device was suspected to have been used . Officials pointed to the use of an ammonium nitrate-based explosive . . . Chennai may not have been the target because the train was running late . Some other location could have been the target , said Tamil Nadu DGP K Ramanujam . Jaiswal said there were no alerts about a possible terror strike , adding that any speculation at the moment was premature . . . Sources said a passenger was detained on suspicion as he had provided a false name and address while booking his ticket . A senior Bangalore Police officer said CCTV footage showed the suspect roaming around in the Bangalore station on Wednesday . . . READ : Security enhanced in Delhi and Rajasthan after blasts The victim has been identified as Swathi Parachuri , 24 , a software engineer with TCS Bangalore . Swathi , who was in the S5 coach , was on her way home to Guntur , Andhra Pradesh . . . Two of the injured , Sumanto Devanath , 37 , and an unidentified passenger , are said to be serious but stable . Barring one passenger who had injuries on his neck , the rest suffered injuries on their legs . One of the injured , A Anjaneyalu from Ongole , Andhra Pradesh , a software engineer working in Bangalore , said he was lying down on his berth when the explosion hurt both his legs . . . All the injured were rushed to the Rajiv Gandhi Government General Hospital which is near the station . We have specialists attending to the patients . The condition of all the injured is stable , said Health Secretary J Radhakrishnan . The blasts damaged three coaches S3 , S4 and S5 . The train finally left the station at 12:15 pm . We have CCTV footage which will be checked by investigators , said zonal general manager Rakesh Mishra . . . While investigators said it was too early to draw conclusions about the module and the group involved in Thursdays blast , Intelligence agencies are also looking at the arrest of an alleged ISI spy , Mohammed Zakir Hussain , 37 , a Sri Lankan Tamil who was nabbed by the Tamil Nadu police on Tuesday night . Hussain is reported to have claimed that his handler was Amir Zubair Siddiqui , a Pakistani diplomat posted in Colombo who is already under investigation by the NIA . . . A team from Chennai was rushed to gather details about the blasts . We have also learnt about the claims made by the arrested ISI spy and sought details from the Tamil Nadu Police regarding his disclosures on the role of the diplomat . It is possible that a different module was engaged for carrying out the train blasts . We are working with the state police and looking at all possible clues , said a NIA official . . . As preliminary reports suggest that the bombs were not meant to explode at the railway station , it is possible that they were being couriered to some other place when the explosion took place . However , it will be too early to comment on the targets and reasons , he said . . . The NIA has already sent a request to Sri Lanka for examining Siddiqui , who is suspected to have tasked several modules to carry out a recce of vital installations in south India . The NIA had also named Siddiqui in an FIR last year following the arrest of Thameem Ansari , a resident of Tamil Nadu . . . Hussain , a resident of Kandy in Sri Lanka , was alleged to have been given the task of circulating counterfeit currency in Tamil Nadu . At the time of his arrest , he was reportedly carrying fake notes and other classified documents . . . Meanwhile , the political echoes of the blasts were soon heard in the state . State BJP president Pon Radhakrishnan alleged a plot against the partys prime ministerial candidate , Narendra Modi , linking the blasts to Modis campaign rallies in south Andhra Pradesh on Thursday . However , even if the train was running on time , it would have been near the Tamil Nadu-Andhra Pradesh border , still some distance and time away from the campaign venues . . . DMK president M Karunanidhi said the blasts could have been prevented if the police had acted promptly after arresting Hussain . But Chief Minister J Jayalalithaa , who is in charge of the police department , is back in Kodanadu , said Karunanidhi . The CM has been at her Kodanadu Estate residence in the Nilgiris district since last Sunday . . . Other parties like the DMDK , PMK and MDMK also condemned the incident and alleged that the state government had failed to ensure the safety of the people . . . Jayalalithaa , who has ordered an inquiry by the Crime Branch CID , asked the people of Tamil Nadu not to panic and assured that the police were stepping up security across the state . She also deputed two ministers and senior officials to supervise the relief measures . Security has been beefed up across the state , especially at sensitive installations including airports , railway stations and major bus terminals . In Bangalore , Additional DGP M N Reddi said security has been beefed up in all railway stations in the state . There is an alert in the state following the blasts Investigations should reveal if the explosives were loaded in the train in Bangalore or Nanded . We have collected the CCTV footage , he said . . . with ENS , Bangalore . . READ : Leaders on campaign trail condemn Chennai blast . . HELPLINE NUMBERS : 044-25357398 ( Chennai ) ,080 -22156553 ( Bangalore ) ,080 -22356409 ( Bangalore ) . . .", 
+    "injured": "14", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "low-intensity:14", 
+        "IED:141", 
+        "Health Secretary:434", 
+        "FIR:746", 
+        "police:1012"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indianexpress.com/article/india/india-others/live-blast-at-chennai-central-station-10-feared-injured-reports/", 
+    "date": "28-10-2014", 
+    "target": "RAILWAY STATION", 
+    "hot_spot": " Chennai Central railway station", 
+    "delivery_mod": "RAILWAY STATION", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "The Indian Express", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "Bangalore Police", 
+            "249", 
+            "Others"
+        ], 
+        [
+            "CCTV", 
+            "253", 
+            "Others"
+        ], 
+        [
+            "TCS Bangalore", 
+            "294", 
+            "Others"
+        ], 
+        [
+            "Rajiv Gandhi Government General Hospital", 
+            "405", 
+            "Others"
+        ], 
+        [
+            "CCTV", 
+            "462", 
+            "Others"
+        ], 
+        [
+            "Intelligence agencies", 
+            "501", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu police", 
+            "530", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "564", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu Police", 
+            "599", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "644", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "705", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "739", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "826", 
+            "Others"
+        ], 
+        [
+            "DMDK", 
+            "959", 
+            "Others"
+        ], 
+        [
+            "PMK", 
+            "961", 
+            "Others"
+        ], 
+        [
+            "MDMK", 
+            "963", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "972", 
+            "Others"
+        ], 
+        [
+            "CID", 
+            "997", 
+            "Others"
+        ], 
+        [
+            "CCTV", 
+            "1110", 
+            "Others"
+        ]
+    ]
+}

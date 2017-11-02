@@ -1,0 +1,146 @@
+{
+    "LOC": [
+        [
+            "AIIMS Trauma Centre", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "NEW DELHI", 
+            "31", 
+            "Neutral"
+        ], 
+        [
+            "Mehrauli", 
+            "60", 
+            "Event"
+        ], 
+        [
+            "Trauma Centre", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Trauma Centre", 
+            "92", 
+            "Neutral"
+        ], 
+        [
+            "AIIMS Trauma Centre", 
+            "159", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "366", 
+            "Neutral"
+        ], 
+        [
+            "Trauma Centre", 
+            "527", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Santosh", 
+            "101", 
+            "Victim"
+        ], 
+        [
+            "M. C. Misra", 
+            "166", 
+            "Comment"
+        ], 
+        [
+            "Misra", 
+            "239", 
+            "Comment"
+        ], 
+        [
+            "Raju", 
+            "350", 
+            "Victim"
+        ], 
+        [
+            "Monty", 
+            "355", 
+            "Victim"
+        ], 
+        [
+            "Anjali Rai", 
+            "418", 
+            "Comment"
+        ], 
+        [
+            "Raman Prasad", 
+            "518", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "September:40", 
+        "September 13:40", 
+        "Saturday:51"
+    ], 
+    "death": "", 
+    "title": "Victims have sharp splinter injuries", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "South West", 
+        "DELHI", 
+        "Mehrauli"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . 10 critical ; anxious relatives throng AIIMS Trauma Centre . . Five injured admitted to AIIMS . . No shortage of blood : MS . . NEW DELHI : The horror and pain of the September 13 serial bomb blasts in the Capital were replayed on Saturday as anxious relatives of those injured in the Mehrauli blast gathered outside the Trauma Centre of the All-India Institute of Medical Sciences here for information about their injured relatives . . . Most of the injured are admitted to the Trauma Centre . . . A nine-year-old boy , Santosh , was brought dead . We have 15 patients under our care of whom 10 are critical and five have already been operated upon . We are assessing the condition of the others . We have not been able to ascertain the identity of four patients and they have been listed as unknown for now , said AIIMS Trauma Centre Medical Superintendent , Dr. M. C. Misra . . . All the patients who have come to us have sharp splinter injuries on the abdomen , head , chest and spine . Five patients have been admitted to AIIMS and their condition is being monitored closely , he added . Two of the blast victims are being treated at a private hospital in the city while another is under treatment at Safdarjung Hospital . . . Dr. Misra said the hospital was not facing any shortage of blood and those injured in the blast were being given proper treatment . We appeal to the general public not to come in large numbers to donate blood but leave their phone numbers with the hospital and to be prepared to donate when called to do so , he said . Several relatives of the victims waiting outside the Centre said while the fear of a blast was very much present after the recent serial blasts in the city , they never anticipated that they would be the next victims . . . I am here looking for my two nephews Raju -LRB- 23 -RRB- and Monty -LRB- 22 -RRB- -- who had come here recently from Punjab and had gone to the market to buy flowers . I heard about the blast and when the two failed to show up even after an hour of the news of the blast we got worried . We are now trying to look for them in various city hospitals , said Anjali Rai standing outside the Centre waiting to check the list of the injured . . . Meanwhile , attendants of other patients admitted to AIIMS were not allowed to meet their relatives due to heavy security . It is the common man who suffers every time . We cant understand what danger we can pose to politicians who have come here to meet the blast victims . We have waited all day to see our relatives admitted to the hospital and now because of the security needs of the political leaders we are not being allowed inside , complained Raman Prasad whose wife is under treatment at the Trauma Centre .", 
+    "injured": "5", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Medical Superintendent:162"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/victims-have-sharp-splinter-injuries/article1347371.ece", 
+    "date": "13-09-2008", 
+    "target": "", 
+    "hot_spot": "Mehrauli", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AIIMS", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "All-India Institute of Medical Sciences", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "AIIMS", 
+            "200", 
+            "Others"
+        ], 
+        [
+            "Safdarjung Hospital", 
+            "233", 
+            "Others"
+        ], 
+        [
+            "AIIMS", 
+            "443", 
+            "Others"
+        ]
+    ]
+}

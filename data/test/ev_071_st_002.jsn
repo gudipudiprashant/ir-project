@@ -1,0 +1,482 @@
+{
+    "LOC": [
+        [
+            "Ajmer", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "24", 
+            "Accused"
+        ], 
+        [
+            "DELHI", 
+            "46", 
+            "Neutral"
+        ], 
+        [
+            "Khwaja Moinuddin Chishti", 
+            "64", 
+            "Event"
+        ], 
+        [
+            "Hyderabads", 
+            "72", 
+            "Assoc_Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "73", 
+            "Assoc_Event"
+        ], 
+        [
+            "India", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "166", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "173", 
+            "Event"
+        ], 
+        [
+            "Rajasthan", 
+            "193", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "251", 
+            "Accused"
+        ], 
+        [
+            "Bangalore", 
+            "259", 
+            "Neutral"
+        ], 
+        [
+            "Glasgow", 
+            "267", 
+            "Neutral"
+        ], 
+        [
+            "London", 
+            "269", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "301", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "308", 
+            "Accused"
+        ], 
+        [
+            "Hyderabad", 
+            "348", 
+            "Event"
+        ], 
+        [
+            "Rajasthan", 
+            "354", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "376", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "393", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "415", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "452", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "475", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "485", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "542", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "591", 
+            "Event"
+        ], 
+        [
+            "West Asia", 
+            "618", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "657", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "674", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "685", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "692", 
+            "Neutral"
+        ], 
+        [
+            "Nalgonda", 
+            "704", 
+            "Accused"
+        ], 
+        [
+            "Bangalore", 
+            "726", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Praveen Swami", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Kafeel Ahmed", 
+            "262", 
+            "Others"
+        ], 
+        [
+            "Abdul Mohammad Shahid", 
+            "315", 
+            "Accused"
+        ], 
+        [
+            "Bilal", 
+            "324", 
+            "Accused"
+        ], 
+        [
+            "Shahid", 
+            "366", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Baramulla", 
+            "426", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Shabbir Ahmed", 
+            "428", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Mohammad Yusuf Shah", 
+            "440", 
+            "Others"
+        ], 
+        [
+            "Ahmed", 
+            "454", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Shabbir Ahmed", 
+            "481", 
+            "Comment"
+        ], 
+        [
+            "Mujib Ahmed", 
+            "493", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Shahid", 
+            "506", 
+            "Accused"
+        ], 
+        [
+            "Ahmed", 
+            "508", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Krishna Prasad", 
+            "527", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Mujib Ahmeds", 
+            "561", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Mujib", 
+            "583", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Amjad Ali", 
+            "623", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Mujibs", 
+            "629", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Shahid", 
+            "638", 
+            "Accused"
+        ], 
+        [
+            "Ali", 
+            "642", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Haren Pandya", 
+            "660", 
+            "Others"
+        ], 
+        [
+            "Shahid", 
+            "668", 
+            "Others"
+        ], 
+        [
+            "Mujib Ahmeds", 
+            "699", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Abdul Rehman", 
+            "706", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [
+        "five months : 75", 
+        "6:10 p.m.:191"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursdays : 58", 
+        "Thursday night : 109", 
+        "2004 : 145", 
+        "August : 350", 
+        "December 2005 : 388", 
+        "1990 : 477", 
+        "1990 : 520", 
+        "2004 : 546", 
+        "2002 : 688", 
+        "2005 : 717"
+    ], 
+    "death": "3", 
+    "title": "Ajmer probe throws up Hyderabad links", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hydrabad", 
+        ""
+    ], 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI"
+    ], 
+    "content": "Praveen Swami . . Harkat-ul-Jihad-e-Islami cell may have executed bombing . . Explosive devices used at Ajmer shrine closely resemble those placed in Mecca Masjid . . In both places , bombs were designed to be triggered by mobile phones alarm clock . . NEW DELHI : Forensic experts have determined that the explosive devices used in Thursdays blast at the shrine of Khwaja Moinuddin Chishti closely resemble those placed in Hyderabads Mecca Masjid five months ago a fact which raises the prospect that the same terror group may have executed both strikes . . . Tests conducted on an unexploded device recovered from the shrine late on Thursday night , as well as shrapnel recovered from the bomb that detonated killing three , have shown that both devices were packed with dynamite . India proscribed the production of nitroglycerine-based explosives like dynamite in 2004 , but large stocks are believed to be still available on the black market . . . As at the Mecca Masjid , the bombs used in Ajmer were designed to be triggered by a mobile phones built-in alarm clock , which was set to 6:10 p.m. Rajasthan police sources said the second bomb , stuffed inside a bag which also contained a crude map of the shrine , probably failed to explode because the phones speaker did not generate a voltage adequate to charge the detonator . . . Similar mobile phone malfunctions led to the failure of a second bomb planted in the Mecca Masjid and the car bombs fabricated by Bangalore engineering student Kafeel Ahmed for use in Glasgow and London earlier this year . Forensic experts said the fault was most likely caused by the use of mobile phones with low-grade components . . . Rajasthan police investigators have arrived in Hyderabad to question suspects held for the Mecca Masjid bombings . Karachi-based Harkat-ul-Jihad-e-Islami terrorist Abdul Mohammad Shahid , who also uses the code-name Bilal , is wanted by Interpol for his alleged role in the Mecca Masjid bombings , as well as the subsequent serial bombings in Hyderabad this August . . . Rajasthan police sources noted that the Islamist terror networks , of which Shahid was a part , were known to have used Ajmer as a transit point in the past . . . In December 2005 , police in Ajmer interdicted a consignment of three Kalashnikov assault rifles , 229 cartridges and 15 detonators hidden in a truck carrying marble to Hyderabad . . . Investigators claimed that the trucks driver , Baramulla resident Shabbir Ahmed , had been tasked by the Hizb-ul-Mujahideens Pakistan-based chief , Mohammad Yusuf Shah , with delivering the weapons to terror cell in Hyderabad . Ahmed , a one-time operative for the Jammu and Kashmir Liberation Front , had joined the Islamist Hizb-ul-Mujahideen after training in Pakistan in 1990 . . . Shabbir Ahmed told the Rajasthan police that the weapons were intended for Mujib Ahmed , a key figure in the terror networks now run by Shahid . Ahmed had spent several years in jail for his role in the 1990 assassination of Additional Superintendent of Police Krishna Prasad . He was sentenced to life imprisonment , but was released by the Andhra Pradesh government in 2004 as part of a controversial Independence Day goodwill gesture . . . Soon after Mujib Ahmeds release from prison , investigators found that he reactivated his links with the Lashkar-e-Taiba , Harkat-ul-Jihad-e-Islami and Hizb-ul-Mujahideen . When Mujib was re-arrested in the wake of the Ajmer weapons haul , police discovered that he had produced several films in which he appealed for funds for his new terror operations from Islamist sympathisers in West Asia . . . Amjad Ali , who was among Mujibs most trusted lieutenants , was responsible for recruiting Shahid . . . Ali , who the Central Bureau of Investigation held responsible for the assassination of former Gujarat Home Minister Haren Pandya , is thought to have despatched Shahid and at least 20 other Hyderabad men to train at the Lashkar-e-Taiba and Harkat-ul-Jihad-e-Islami facilities in Pakistan after the 2002 communal pogrom in Gujarat . . . Several members of Mujib Ahmeds network , including Nalgonda resident Abdul Rehman , were arrested for their alleged role in the 2005 attack on the Indian Institute of Science in Bangalore .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Praveen:1", 
+        "bombing:10", 
+        "Explosive devices:13", 
+        "bombs:32", 
+        "designed:34", 
+        "triggered:37", 
+        "mobile phones alarm clock:39", 
+        "Forensic experts:48", 
+        "explosive devices:54", 
+        "same terror group:86", 
+        "strikes:93", 
+        "unexploded device:101", 
+        "shrapnel:115", 
+        "bomb:119", 
+        "nitroglycerine-based explosives:140", 
+        "dynamite:143", 
+        "large stocks:148", 
+        "black market:158", 
+        "bombs:170", 
+        "triggered:178", 
+        "mobile phones built-in alarm clock:181", 
+        "second bomb:198", 
+        "stuffed:201", 
+        "bag:204", 
+        "crude map:209", 
+        "phones speaker:221", 
+        "voltage adequate:227", 
+        "detonator:232", 
+        "mobile phone malfunctions:237", 
+        "second bomb planted:246", 
+        "car bombs:255", 
+        "Forensic experts:274", 
+        "fault:278", 
+        "low-grade components:290", 
+        "Rajasthan:295", 
+        "Mecca Masjid bombings:308", 
+        "Karachi-based Harkat-ul-Jihad-e-Islami:312", 
+        "serial bombings:345", 
+        "Islamist terror networks:360", 
+        "transit point:379", 
+        "consignment:396", 
+        "three Kalashnikov assault rifles:398", 
+        "229 cartridges:403", 
+        "15 detonators:406", 
+        "hidden:408", 
+        "terror cell:449", 
+        "weapons:489", 
+        "key figure:497", 
+        "terror networks:501", 
+        "several years:511", 
+        "jail:514", 
+        "assassination:521", 
+        "Additional Superintendent of Police Krishna Prasad:523", 
+        "sentenced:532", 
+        "life imprisonment:534", 
+        "Independence Day:552", 
+        "prison:565", 
+        "re-arrested:585", 
+        "weapons haul:592", 
+        "funds:608", 
+        "terror operations:612", 
+        "Islamist sympathisers:615", 
+        "trusted lieutenants:631", 
+        "assassination:654", 
+        "arrested:710", 
+        "alleged role:713"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/ajmer-probe-throws-up-hyderabad-links/article1929345.ece", 
+    "date": "11-10-2007", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "MOBILE PHONE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "DYNAMITE"
+    ], 
+    "ORG": [
+        [
+            "Harkat-ul-Jihad-e-Islami", 
+            "5", 
+            "Accused"
+        ], 
+        [
+            "Harkat-ul-Jihad-e-Islami", 
+            "313", 
+            "Accused"
+        ], 
+        [
+            "Interpol", 
+            "329", 
+            "Others"
+        ], 
+        [
+            "Mecca Masjid", 
+            "336", 
+            "Others"
+        ], 
+        [
+            "Hizb-ul-Mujahideens", 
+            "436", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Jammu and Kashmir Liberation Front", 
+            "461", 
+            "Others"
+        ], 
+        [
+            "Islamist Hizb-ul-Mujahideen", 
+            "470", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Andhra Pradesh government", 
+            "542", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "576", 
+            "Assoc_Accused", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jihad-e-Islami", 
+            "578", 
+            "Accused"
+        ], 
+        [
+            "Hizb-ul-Mujahideen", 
+            "580", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Central Bureau of Investigation", 
+            "646", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "680", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Harkat-ul-Jihad-e-Islami", 
+            "682", 
+            "Accused"
+        ], 
+        [
+            "Indian Institute of Science", 
+            "721", 
+            "Others"
+        ]
+    ]
+}

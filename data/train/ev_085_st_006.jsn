@@ -1,0 +1,141 @@
+{
+    "LOC": [
+        [
+            "Varanasi", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Bangalore .", 
+            "86", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "86", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "186", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "223", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "303", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "R. Ashok", 
+            "40", 
+            "Comment"
+        ], 
+        [
+            "Ashok", 
+            "89", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:46"
+    ], 
+    "death": "", 
+    "title": "Security tightened at places of worship", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "", 
+        "", 
+        "Varanasi"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The State Government has increased security cover near important places of worship following an advisory issued by the Union Home Ministry in the aftermath of the recent bomb blast in Varanasi . . . Minister for Home and Transport R. Ashok told presspersons here on Tuesday that the alert from the Union Government is general and a regular advisory . It has asked the State Government to tighten security at important places of worship in the State and has also advised a security vigil in Bangalore . Mr. Ashok said the Home Department will provide tight security for the elections to the zilla and taluk panchayats to ensure free and fair polling . In addition to security at the polling stations , steps would be taken to ensure that law and order is not disrupted , he noted . The Home Department has conducted several rounds of discussions in this regard with top-ranking police officers . . . Liquor sales . . Sources said that steps are being taken to ensure that the poll norms do not come in the way of liquor sales in Bangalore during Christmas and the New Year Eve . . . It is learnt that the Police Department will take up the issue with the State Election Commission as the panchayat elections are not being held in Bangalore . . . Meanwhile , some Christian organisations are learnt to have represented to the Home Department seeking that the ban on liquor sales should not be imposed on Christmas Day . . . The State Government is said to be of the view that the Election Commission should relax the model code of conduct in cities where elections are not being held . . . It follows a Union Home Ministry advisory Union Government advises security vigil in Bangalore .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Christmas:188", 
+        "New Year:191", 
+        "Union Home Ministry:293"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/security-tightened-at-places-of-worship/article953135.ece", 
+    "date": "14-12-2010", 
+    "target": "", 
+    "hot_spot": "Varanasi", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "State Government", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Union Government", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "Home Department", 
+            "92", 
+            "Others"
+        ], 
+        [
+            "Home Department", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "Police Department", 
+            "202", 
+            "Others"
+        ], 
+        [
+            "State Election Commission", 
+            "211", 
+            "Others"
+        ], 
+        [
+            "Home Department", 
+            "239", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "259", 
+            "Others"
+        ], 
+        [
+            "Election Commission", 
+            "270", 
+            "Others"
+        ], 
+        [
+            "Union Government", 
+            "297", 
+            "Others"
+        ]
+    ]
+}

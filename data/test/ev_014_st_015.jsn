@@ -1,0 +1,319 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "GUWAHATI", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "217", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gossaigaon", 
+            "244", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "246", 
+            "Event"
+        ], 
+        [
+            "Tura", 
+            "271", 
+            "Victim"
+        ], 
+        [
+            "Guwahati", 
+            "273", 
+            "Victim"
+        ], 
+        [
+            "Goalpara", 
+            "293", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "341", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "365", 
+            "Event"
+        ], 
+        [
+            "Fakirgram", 
+            "385", 
+            "Neutral"
+        ], 
+        [
+            "Chautara", 
+            "387", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "418", 
+            "Event"
+        ], 
+        [
+            "Tangla", 
+            "422", 
+            "Event"
+        ], 
+        [
+            "Darrang", 
+            "424", 
+            "Event"
+        ], 
+        [
+            "Tangla", 
+            "441", 
+            "Event"
+        ], 
+        [
+            "Noonmati", 
+            "484", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "74", 
+            "Others"
+        ], 
+        [
+            "Gogoi", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "R.V.S. Yadav", 
+            "302", 
+            "Others"
+        ], 
+        [
+            "A.R. Khan", 
+            "311", 
+            "Others"
+        ], 
+        [
+            "Sharma", 
+            "431", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "last night : 60", 
+        "Last night : 328", 
+        "today : 355", 
+        "8.15 p.m.:382", 
+        "8.15:382", 
+        "tonight : 426", 
+        "7:455", 
+        "7 p.m.:455", 
+        "hour : 459"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "AUG. 26 : 22"
+    ], 
+    "death": "5", 
+    "title": "5 killed, 58 injured in serial blasts", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhemaji", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM"
+    ], 
+    "content": "Other States - Assam 5 killed , 58 injured in serial blasts . . By Sushanta Talukdar . . GUWAHATI , AUG. 26 . Five persons , including a minor girl , were killed and 51 injured in a series of bomb blasts triggered by the outlawed United Liberation Front of Asom in different parts of the State since last night . . . Condemning the attacks , the Assam Chief Minister , Tarun Gogoi , today accused the militant outfit of ` declaring a war against the people of the State ' and called for coordinated action by the northeastern States to tackle insurgent violence in the region . . . Mr. Gogoi underlined the need for adopting a district-specific strategy by police and the administration to thwart the ULFA ` game-plan ' of targeting civilians and other soft targets . He said the district authorities had been asked to involve people in keeping a strict vigil on the outfit 's activities . . . Red alert sounded . . The State Government has sounded a red alert and asked all district authorities to implement special security measures following a warning by intelligence agencies that the ULFA would resort to more indiscriminate bomb attacks in a bid to divert the people 's attention from the Dhemaji blast that claimed 13 lives including school children . . . The militant outfit today triggered two separate blasts , the first in a bus at Gossaigaon in Kokrajhar district in which one person was killed and 37 were injured and the other in a bus carrying BSF personnel and their families from Tura to Guwahati railway station . . . BSF men killed . . The second blast took place near a culvert in Goalpara district in which the driver , Head Constable R.V.S. Yadav , an Assistant Sub-Inspector of BSF , A.R. Khan , and a six-year-old daughter of another BSF constable , were killed . . . Last night , ULFA militants lobbed a grenade on a cinema hall in Dibrugarh district , injuring nine persons . One of them died at the hospital today . Another blast occurred on a railway track in Kokrajhar district . There were no reports of any casualty . The incident took place at about 8.15 p.m. between Fakirgram and Chautara railway stations just after a goods train crossed the site . . . Sixth blast . . Seven persons were injured when ULFA militants triggered two more blasts one at Guwahati and another at Tangla in Darrang district tonight . . . Mr. Sharma told The Hindu that seven persons were injured at Tangla when suspected ULFA militants lobbed a grenade on a group of people around 7 p.m. . An hour later , an explosive suspected to have been planted by the outfit went off at a railway track a few yards away from the Noonmati refinery here . There was , however , no casualty .", 
+    "injured": "58", 
+    "org_unorg": "", 
+    "O": [
+        "killed:6", 
+        "injured:9", 
+        "serial blasts:11", 
+        "five persons:25", 
+        "minor girl:30", 
+        "killed:34", 
+        "51 injured:36", 
+        "series of bomb blasts:40", 
+        "triggered:44", 
+        "state:58", 
+        "attacks:67", 
+        "accused:78", 
+        "militant outfit:80", 
+        "war:86", 
+        "state:92", 
+        "coordinated action:97", 
+        "northeastern states:101", 
+        "tackle:104", 
+        "insurgent violence:105", 
+        "underlined:115", 
+        "adopting:119", 
+        "district-specific strategy:121", 
+        "administration:127", 
+        "thwart:129", 
+        "game-plan:133", 
+        "targeting civilians:136", 
+        "soft targets:140", 
+        "district authorities:146", 
+        "strict vigil:157", 
+        "red alert sounded:167", 
+        "sounded:176", 
+        "red alert:178", 
+        "district authorities:183", 
+        "implement:186", 
+        "special security measures:187", 
+        "warning:192", 
+        "intelligence agencies:194", 
+        "resort:200", 
+        "indiscriminate bomb attacks:203", 
+        "divert:210", 
+        "attention:214", 
+        "dhemaji blast:217", 
+        "claimed 13 lives:220", 
+        "school children:224", 
+        "militant outfit:230", 
+        "triggered:233", 
+        "separate blasts:235", 
+        "bus:242", 
+        "killed:253", 
+        "injured:257", 
+        "bsf personnel:265", 
+        "guwahati railway station:273", 
+        "killed:281", 
+        "second blast:285", 
+        "culvert:291", 
+        "driver:298", 
+        "a six-year-old daughter:315", 
+        "killed:324", 
+        "lobbed:333", 
+        "grenade:335", 
+        "cinema hall:338", 
+        "injuring:344", 
+        "nine persons:345", 
+        "died:351", 
+        "blast:358", 
+        "railway track:362", 
+        "no reports:370", 
+        "casualty:374", 
+        "incident:377", 
+        "railway stations:388", 
+        "goods train:393", 
+        "sixth blast:401", 
+        "injured:408", 
+        "militants:411", 
+        "triggered:412", 
+        "two more blasts:413", 
+        "injured:439", 
+        "suspected:443", 
+        "lobbed:446", 
+        "grenade:448", 
+        "explosive:463", 
+        "suspected:464", 
+        "planted:468", 
+        "outfit:471", 
+        "railway track:476", 
+        "noonmati refinery:484"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2004/08/27/stories/2004082703821200.htm", 
+    "date": "26-08-2004", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "48", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "131", 
+            "Accused"
+        ], 
+        [
+            "State Government", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "198", 
+            "Accused"
+        ], 
+        [
+            "BSF", 
+            "265", 
+            "Victim"
+        ], 
+        [
+            "BSF", 
+            "279", 
+            "Victim"
+        ], 
+        [
+            "BSF", 
+            "309", 
+            "Victim"
+        ], 
+        [
+            "BSF", 
+            "320", 
+            "Victim"
+        ], 
+        [
+            "ULFA", 
+            "331", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "410", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "433", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "444", 
+            "Accused"
+        ]
+    ]
+}

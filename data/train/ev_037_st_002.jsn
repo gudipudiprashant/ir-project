@@ -1,0 +1,165 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Birubari", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "Bhunath", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Bhangagarh", 
+            "49", 
+            "Event"
+        ], 
+        [
+            "Birubari", 
+            "64", 
+            "Event"
+        ], 
+        [
+            "Bhutnat", 
+            "71", 
+            "Event"
+        ], 
+        [
+            "Bhangagarh", 
+            "80", 
+            "Event"
+        ], 
+        [
+            "Birubari", 
+            "86", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "91", 
+            "Neutral"
+        ], 
+        [
+            "Birubari", 
+            "153", 
+            "Victim"
+        ], 
+        [
+            "Bhutan", 
+            "186", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Amal Das", 
+            "118", 
+            "Victim"
+        ], 
+        [
+            "Kahil Seikh", 
+            "121", 
+            "Victim"
+        ], 
+        [
+            "Altaf Ali", 
+            "158", 
+            "Victim"
+        ], 
+        [
+            "Fatema Begum", 
+            "161", 
+            "Victim"
+        ], 
+        [
+            "Raul Ali", 
+            "164", 
+            "Victim"
+        ], 
+        [
+            "P Chidambaramis", 
+            "201", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "1515 hrs : 61", 
+        "1745 hrs : 73", 
+        "1800 hrs.The : 82"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:12"
+    ], 
+    "death": "5", 
+    "title": "Serial blasts rock Guwahati again", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": ". . Three bomb explosions rocked the city of Guwahati on Thursday killing atleast five persons and injuring over 30 . The Assam Police suspects the banned United Liberation Front of Asom behind the blasts . . . Three powerful explosions went off at Birubari , Bhunath and Bhangagarh areas in the city . The first blast took place at 1515 hrs at Birubari , followed bythe nextone at in Bhutnat at 1745 hrs and the final one at Bhangagarh at 1800 hrs.The bomb at Birubari was planted in a Guwahati Municipal Corporation dustbin while two others bombs were planted in market places . . . Two of the killed were identified as persons identified as 17-year-old Amal Das and Kahil Seikh , while at least 25 persons were admitted to various hospitals . . . There were four ladies among those admitted in Guwahati Medical College Hospital . Those injured in Birubari blast were identified as Altaf Ali , Fatema Begum and Raul Ali , the sources said . . . At least 13 persons were injured in the blast at a market in Bhutan area in the city . The blaststook placejust a few hoursbefore Union Home Minister P Chidambaramis scheduled toarrive in the citytoday to review the security scenario in the state . .", 
+    "injured": "30", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "powerful explosions:40", 
+        "Union Home Minister:198", 
+        "security:211"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2009/jan/01bomb-blast-in-guwahati.htm", 
+    "date": "01-01-2009", 
+    "target": "CITIZENS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "Guwahati Municipal Corporation", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "Guwahati Medical College Hospital", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "College", 
+            "147", 
+            "Others"
+        ], 
+        [
+            "Hospital", 
+            "148", 
+            "Others"
+        ]
+    ]
+}

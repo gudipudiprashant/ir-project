@@ -1,0 +1,79 @@
+{
+    "LOC": [
+        [
+            "Golaghat", 
+            "48", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Nuajan", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Chauan", 
+            "62", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "2 am : 45", 
+        "hours : 97"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:32", 
+        "Thursday morning : 99"
+    ], 
+    "death": "5", 
+    "title": "5 killed in Rajdhani Express blast in Assam", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dibrugarh", 
+        "Dibrugarh", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : In yet another shocking incident five persons were killed and four injured when a bomb exploded in the 2423A Dibrugarh-New Delhi Rajdhani Express in the wee hours of Thursday . . . According to sources , the bomb exploded at around 2 am near Golaghat in Assam when the blast occured . The train was between Nuajan and Chauan stations . Preliminary investigations suggest that the bomb was planted on the tracks . . . However , the exact number of casualties has not been known yet as the incident occurred in wee hours of Thursday morning and the toll may go up . . . Meanwhile , government machinery has rushed to the spot and assessing the situation . The railways have also stepped up operations to rescue the passengers stranded in the train .", 
+    "injured": "4", 
+    "org_unorg": "", 
+    "O": [
+        "killed:12", 
+        "injured:15", 
+        "bomb:18", 
+        "2423a dibrugarh-new delhi rajdhani express:22", 
+        "wee hours:29", 
+        "bomb:41", 
+        "blast:53", 
+        "train:57", 
+        "investigations:66", 
+        "bomb:70", 
+        "tracks:75", 
+        "government machinery:112", 
+        "railways:125", 
+        "train:138"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2007-12-13/news/27677850_1_assam-golaghat-blast", 
+    "date": "13-12-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

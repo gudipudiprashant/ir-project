@@ -1,0 +1,118 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "59", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "159", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "147", 
+            "Others"
+        ], 
+        [
+            "DrSingh", 
+            "154", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:7", 
+        "Thursday:34", 
+        "Thursday:150", 
+        "Friday:161"
+    ], 
+    "death": "200", 
+    "title": "India suspects Pak hand in Mumbai blasts", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        "suburban trains"
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "India strongly suspects Pakistani hand in Tuesday 's serial blasts in Mumbai suburban trains with all leads pointing to involvement of Inter Services Intelligence-backed terrorist outfit Lashkar-e-Tayiba , highly placed sources said on Thursday night . . . ` The involvement of Pakistani hand is obvious ... There is no doubt that LeT , which is backed by Pakistan 's ISI , is involved , ' the sources told PTI . . . Various agencies investigating the serial blasts are also probing whether other terror groups were involved along with LeT , they said . . . ` Other terror groups may have been involved in the blasts along with LeT ... This angle is being investigated , ' the sources said . . . The progress in the probe into the blasts was discussed at a meeting of the Union Cabinet chaired by Prime Minister Manmohan Singh on Thursday . . . DrSingh is scheduled to visit Mumbai on Friday for a first-hand assessment of the situation in the wake of the bombings that have left 200 dead and over 700 injured . .", 
+    "injured": "700", 
+    "org_unorg": "", 
+    "O": [
+        "suspects pakistani hand:3", 
+        "serial blasts in mumbai suburban trains:9", 
+        "suburban trains:13", 
+        "inter services intelligence-backed terrorist:22", 
+        "various agencies investigating:74", 
+        "serial blasts:78", 
+        "other terror groups:99"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/13blasts1.htm", 
+    "date": "11-07-2006", 
+    "target": "RAILWAY STATION", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Lashkar-e-Tayiba", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "53", 
+            "Accused"
+        ], 
+        [
+            "ISI", 
+            "61", 
+            "Assoc_Accused"
+        ], 
+        [
+            "PTI", 
+            "70", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "91", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "111", 
+            "Accused"
+        ], 
+        [
+            "Union Cabinet", 
+            "141", 
+            "Others"
+        ]
+    ]
+}

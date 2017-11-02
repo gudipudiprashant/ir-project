@@ -1,0 +1,169 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Kishanbagah", 
+            "49", 
+            "Accused"
+        ], 
+        [
+            "Lumbini Park", 
+            "75", 
+            "Event"
+        ], 
+        [
+            "South Bakulia", 
+            "155", 
+            "Accused"
+        ], 
+        [
+            "Chittagong", 
+            "158", 
+            "Accused"
+        ], 
+        [
+            "Bangladesh", 
+            "161", 
+            "Accused"
+        ], 
+        [
+            "Hyderabad", 
+            "222", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "227", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "261", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Imran", 
+            "7", 
+            "Comment"
+        ], 
+        [
+            "Bilal", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "Rizwan Ghazi", 
+            "44", 
+            "Accused"
+        ], 
+        [
+            "Shafia Rafsanjani", 
+            "81", 
+            "Others"
+        ], 
+        [
+            "Ghazi", 
+            "121", 
+            "Accused"
+        ], 
+        [
+            "Shafia", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "Ghazi", 
+            "150", 
+            "Accused"
+        ], 
+        [
+            "Shafia", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "Syed Imran Khan", 
+            "245", 
+            "Comment"
+        ], 
+        [
+            "Shahid Bilal", 
+            "254", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "September 4 , 2007 : 20", 
+        "August 25 : 35"
+    ], 
+    "death": "", 
+    "title": "Breakthrough in Hyderabad bomb blasts", 
+    "org_unorg": "", 
+    "terror_group": [
+        "HUJI"
+    ], 
+    "content": "a7 ( ) ; . . Imran reveals that Bilal had planned in the blasts . . Hyderabad , September 4 , 2007 . . The police , in a major breakthrough in the August 25 Hyderabad bomb blasts , almost concluded that Rizwan Ghazi who fled his Kishanbagah residence just before the police raid a couple of days ago , was the bomber was planted the Improvised Explosive Device ( IED ) at Lumbini Park . His sister , Shafia Rafsanjani , was arrested the same day . She had obtained a ration card , driving license and a PAN card with the same address . . . The breakthrough came when the police seized the driving license of Ghazi and compared the picture with the sketch that was drawn by experts few days back . During interrogation , Shafia is understood to have told the police that Ghazi and she hail from South Bakulia of Chittagong district in Bangladesh . . . The police also seized some incriminating material including a couple of bags , iron balls and telephone numbers of some Bangladeshi contacts . According to a senior official investigating the case , Shafia will be taken into police custody again for questioning in a day or two . Meanwhile , a day after two suspects in the Hyderabad blasts were brought to Bangalore for a forensic test including polygraph , brain mapping and narco analysis , one of the suspects Syed Imran Khan revealed that Huji South India commander Shahid Bilal was the man behind the Hyderabad blasts . . . a36 ( ) ; . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "O": [
+        "blasts:15", 
+        "bomb blasts:38", 
+        "Improvised Explosive Device:68", 
+        "IED:72", 
+        "arrested:85", 
+        "PAN card:101", 
+        "driving license:118", 
+        "experts:133", 
+        "interrogation:139", 
+        "iron balls:178", 
+        "telephone numbers:181", 
+        "Bangladeshi contacts:185", 
+        "two suspects:218", 
+        "blasts:223", 
+        "forensic test:230", 
+        "polygraph:233", 
+        "brain mapping:235", 
+        "narco analysis:238", 
+        "suspects:244", 
+        "blasts:262"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.andhranews.net/state/2007/September/4-Breakthrough-Hyderabad-bomb-blasts.asp", 
+    "date": "25-08-2007", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Huji", 
+            "250", 
+            "Others"
+        ]
+    ]
+}

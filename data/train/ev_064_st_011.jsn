@@ -1,0 +1,180 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "144", 
+            "Event"
+        ], 
+        [
+            "Parel", 
+            "171", 
+            "Victim"
+        ], 
+        [
+            "Borivali", 
+            "176", 
+            "Victim"
+        ], 
+        [
+            "Andheri", 
+            "183", 
+            "Victim"
+        ], 
+        [
+            "Bandra", 
+            "188", 
+            "Victim"
+        ], 
+        [
+            "Mahim", 
+            "195", 
+            "Victim"
+        ], 
+        [
+            "Bandra", 
+            "200", 
+            "Victim"
+        ], 
+        [
+            "Juhu", 
+            "205", 
+            "Victim"
+        ], 
+        [
+            "Bandra", 
+            "212", 
+            "Victim"
+        ], 
+        [
+            "Mumbai", 
+            "230", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:6", 
+        "Tuesday night:6"
+    ], 
+    "death": "", 
+    "title": "Mumbai blasts: Injured need blood", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Hospitals in the city on Tuesday night appealed to citizens and citizens groups to donate blood , rush doctors and paramedical staff to help treat those injured in this evening 's serial bomb blasts ' injured . . . Those injured in the Mumbai serial blasts need blood urgently . Citizens were asked to donate blood in this hour of crisis . . . Doctors in several hospitals , including KEM , V N Desai and Bhabha , which are getting hordes of injured patients at the casualty and emergency wards , appealed to citizens groups to help in any way they can . . . Citizens groups were asked to contribute doctors and ambulances as well as paramedical support , hospital sources said . . . Citizens were asked to donate blood in this hour of crisis . Those injured in the Mumbai serial blasts need blood urgently . . . Some of the hospitals where the injured have been admitted are : Sion Hospital ; KEM Hospital , Parel ; Bhagwati Hospital , Borivali ; V N Desai Hospital , Andheri ; Bhabha Hospital , Bandra ; S L Raheja Hospital , Mahim ; Lilavati Hospital , Bandra ; Cooper Hospital , Juhu ; and Holy Family Hospital , Bandra . . . Those interested in donating blood may also log on to www.indianblooddonors.com . . . Mumbai blasts : Complete Coverage .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "serial bomb:32", 
+        "donate blood:55", 
+        "hour of crisis:59", 
+        "paramedical support:119", 
+        "donate blood:132", 
+        "hour of crisis:136", 
+        "www.indianblooddonors.com:226"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/11train13.htm", 
+    "date": "11-07-2006", 
+    "target": "CITIZENS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Hospitals", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "KEM", 
+            "71", 
+            "Others"
+        ], 
+        [
+            "V N Desai", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "Bhabha", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "Sion Hospital", 
+            "165", 
+            "Others"
+        ], 
+        [
+            "KEM Hospital", 
+            "168", 
+            "Others"
+        ], 
+        [
+            "Bhagwati Hospital", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "V N Desai Hospital", 
+            "178", 
+            "Others"
+        ], 
+        [
+            "N Desai Hospital", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "Desai Hospital", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "Bhabha Hospital", 
+            "185", 
+            "Others"
+        ], 
+        [
+            "S L Raheja Hospital", 
+            "190", 
+            "Others"
+        ], 
+        [
+            "Lilavati Hospital", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "Cooper Hospital", 
+            "202", 
+            "Others"
+        ], 
+        [
+            "Holy Family Hospital", 
+            "208", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "LOC": [
+        [
+            "AGARTALA", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Agartala", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Tripura", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "22", 
+            "Accused"
+        ], 
+        [
+            "Radhanagar", 
+            "75", 
+            "Event"
+        ], 
+        [
+            "Maharajganj Bazar", 
+            "87", 
+            "Neutral"
+        ], 
+        [
+            "Motor Stand", 
+            "110", 
+            "Event"
+        ], 
+        [
+            "Colonel Choumohany", 
+            "113", 
+            "Event"
+        ], 
+        [
+            "GB Bazar", 
+            "134", 
+            "Event"
+        ], 
+        [
+            "Kathiababa Ashram", 
+            "160", 
+            "Event"
+        ], 
+        [
+            "Radhanagar", 
+            "179", 
+            "Event"
+        ], 
+        [
+            "Maharajganj Bazar", 
+            "183", 
+            "Event"
+        ], 
+        [
+            "GB", 
+            "186", 
+            "Event"
+        ], 
+        [
+            "Tripura", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "UP", 
+            "259", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bangalore", 
+            "287", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "289", 
+            "Assoc_Event"
+        ], 
+        [
+            "Delhi", 
+            "291", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "296", 
+            "Assoc_Event"
+        ], 
+        [
+            "Jaipur", 
+            "298", 
+            "Assoc_Event"
+        ], 
+        [
+            "Delhi", 
+            "300", 
+            "Assoc_Event"
+        ], 
+        [
+            "Radhanagar", 
+            "343", 
+            "Event"
+        ], 
+        [
+            "Tripura", 
+            "362", 
+            "Event"
+        ], 
+        [
+            "Tripura", 
+            "394", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "397", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "399", 
+            "Accused"
+        ], 
+        [
+            "north-eastern", 
+            "414", 
+            "Neutral"
+        ], 
+        [
+            "Agartala", 
+            "427", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Pranay Sahay", 
+            "365", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "7.30 pm:71", 
+        "8.15 pm:156"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:25", 
+        "Wednesday:226", 
+        "September 25:406", 
+        "September:406"
+    ], 
+    "death": "4", 
+    "title": "4 dead, 76 injured as serial blasts rip Tripura", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI", 
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "AGARTALA : Four back-to-back terror strikes in Agartala , the capital of Tripura , which shares a 856-km porous border with Bangladesh , on Wednesday evening left at least four people dead and 76 others injured , several critically , according to hospital sources . The state police confirmed only one death but said the toll was likely to rise . -LRB- Watch -RRB- The first explosion took place around 7.30 pm at the Radhanagar bus stand . Minutes later , there was another blast at Maharajganj Bazar in the heart of the city . The two are about 2 km apart . Two live bombs were found at Motor Stand and Colonel Choumohany near the palace compound.As the injured were being taken to Agartala Government Medical College hospital , another blast rocked GB Bazar , which is on the route of the ambulances taking the injured to the hospital . The fourth blast at 8.15 pm was near Kathiababa Ashram on the outskirts of the state capital . There was a heavy rush of puja shoppers at Radhanagar bus stand , Maharajganj Bazar and GB market , all in the heart of the city.While Tripura has long been a conduit for smuggling and terror merchandise , most violence in the state had been related to insurgencies of tribal groups . But the blasts on Wednesday , security officials said , were likely to be the work of the Bangladesh-based Harkat ul-Jihad-e-Islami -LRB- HuJI -RRB- , a terror group which has been frequently blamed for terror attacks in UP and Hyderabad.Investigators are still probing the possible connection between HuJI and Indian Mujahideen , the SIMI splinter group , which has claimed responsibility for serial blasts in Bangalore , Ahmedabad and Delhi in recent weeks.As in Ahmedabad , Jaipur and Delhi , the news of the blasts triggered citywide panic and all telecommunication links were jammed with people calling to check if their family and friends were safe.Quoting witnesses , police sources said two persons riding a motorcycle were seen moving suspiciously at Radhanagar bus stand . The blast took place there two to three minutes after they left the place . Tripura police chief Pranay Sahay rushed to the sites to monitor the evacuation but refused to go on record on suspects.In recent weeks , there have been reports of Islamic militants using Tripura to enter India from Bangladesh . Reports also said that on September 25 , central intelligence agencies had warned north-eastern states of an impending terror attack and Border Security Force officials in Agartala confirmed having received the input .", 
+    "injured": "76", 
+    "det_loc": [
+        "India", 
+        "Tripura", 
+        "West District", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "four back-to-back terror strikes:3", 
+        "bus stand:76", 
+        "two live bombs were found:104", 
+        "bazar:135", 
+        "route of the ambulances:141", 
+        "rush of puja shoppers:174", 
+        "bus stand:180", 
+        "smuggling and terror merchandise:203", 
+        "insurgencies of tribal groups:217", 
+        "citywide panic:308", 
+        "telecommunication links were jammed:312", 
+        "north-eastern states:414", 
+        "impending terror attack:418"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "RELIGIOUS FESTIVAL", 
+    "link": "http://timesofindia.indiatimes.com/india/4-dead-76-injured-as-serial-blasts-rip-Tripura/articleshow/3550593.cms?referral=PM", 
+    "date": "01-10-2008", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "state police", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "Agartala Government Medical College hospital", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "Harkat ul-Jihad-e-Islami", 
+            "241", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "244", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "269", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "271", 
+            "Accused"
+        ], 
+        [
+            "SIMI splinter group", 
+            "275", 
+            "Accused"
+        ], 
+        [
+            "Tripura police", 
+            "362", 
+            "Others"
+        ], 
+        [
+            "Islamic militants", 
+            "391", 
+            "Assoc_Accused"
+        ], 
+        [
+            "central intelligence agencies", 
+            "409", 
+            "Others"
+        ], 
+        [
+            "Border Security Force", 
+            "422", 
+            "Others"
+        ]
+    ]
+}

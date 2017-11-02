@@ -1,0 +1,497 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Hanuman Mandir", 
+            "143", 
+            "Event"
+        ], 
+        [
+            "Dadar", 
+            "146", 
+            "Event"
+        ], 
+        [
+            "Kabutarkhana", 
+            "148", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "205", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "225", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "297", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "329", 
+            "Event"
+        ], 
+        [
+            "South Mumbai", 
+            "331", 
+            "Neutral"
+        ], 
+        [
+            "MP", 
+            "333", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "346", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "416", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "436", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "438", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "440", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "442", 
+            "Neutral"
+        ], 
+        [
+            "Ujjain", 
+            "457", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "459", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "509", 
+            "Accused"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "513", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "702", 
+            "Neutral"
+        ], 
+        [
+            "Khau Gali", 
+            "727", 
+            "Neutral"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "730", 
+            "Neutral"
+        ], 
+        [
+            "Crawford Market", 
+            "770", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "968", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "1068", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "1104", 
+            "Neutral"
+        ], 
+        [
+            "German Bakery", 
+            "1106", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "1126", 
+            "Neutral"
+        ], 
+        [
+            "Multi-Agency Centre", 
+            "1149", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "1248", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "1274", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "1299", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "1350", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "1466", 
+            "Neutral"
+        ], 
+        [
+            "Paranoia", 
+            "1509", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "1532", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "1539", 
+            "Neutral"
+        ], 
+        [
+            "Saket", 
+            "1545", 
+            "Neutral"
+        ], 
+        [
+            "Defence Colony", 
+            "1547", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "1619", 
+            "Neutral"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "1691", 
+            "Neutral"
+        ], 
+        [
+            "Marwari kachori", 
+            "1705", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Hiten", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "Chirag Vora", 
+            "111", 
+            "Others"
+        ], 
+        [
+            "Indulal Shah", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "Prithviraj Chavan", 
+            "300", 
+            "Others"
+        ], 
+        [
+            "P. Chidambaram", 
+            "324", 
+            "Others"
+        ], 
+        [
+            "Milind Deora", 
+            "338", 
+            "Others"
+        ], 
+        [
+            "Arup Patnaik", 
+            "360", 
+            "Comment"
+        ], 
+        [
+            "Safdar Nagori", 
+            "451", 
+            "Others"
+        ], 
+        [
+            "Iqbal Bhatkal", 
+            "499", 
+            "Accused"
+        ], 
+        [
+            "Riyaz", 
+            "504", 
+            "Accused"
+        ], 
+        [
+            "Chidambaram", 
+            "596", 
+            "Others"
+        ], 
+        [
+            "Jignesh Shah", 
+            "656", 
+            "Comment"
+        ], 
+        [
+            "MD", 
+            "659", 
+            "Comment"
+        ], 
+        [
+            "Jyotirmoy Dey", 
+            "899", 
+            "Others"
+        ], 
+        [
+            "M.P. Chaudhary", 
+            "1018", 
+            "Others"
+        ], 
+        [
+            "P. Chidambaram", 
+            "1239", 
+            "Comment"
+        ], 
+        [
+            "Y.P. Singh", 
+            "1462", 
+            "Comment"
+        ], 
+        [
+            "Ajmal Kasab", 
+            "1557", 
+            "Others"
+        ], 
+        [
+            "Hemen Kapadia", 
+            "1771", 
+            "Others"
+        ], 
+        [
+            "T. Surendar", 
+            "1837", 
+            "Comment"
+        ], 
+        [
+            "Shantanu Guha Ray", 
+            "1840", 
+            "Comment"
+        ], 
+        [
+            "Bhavna Vij-Aurora", 
+            "1844", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "6.54 p.m. : 2", 
+        "6.55 p.m.:73", 
+        "evening : 94", 
+        "7.05 p.m.:131", 
+        "6.30 p.m.:587", 
+        "7 p.m.:590"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 13:5", 
+        "2008:427", 
+        "2003:449", 
+        "July 11 , 2006 : 538", 
+        "July 13:605", 
+        "2004:972", 
+        "February 13:1098", 
+        "2010:1101", 
+        "2009:1426", 
+        "September 13:1571", 
+        "March 12 , 1993:1713", 
+        "August 25:1746", 
+        "2003:1749", 
+        "1993:1785"
+    ], 
+    "death": "5", 
+    "title": "Why Mumbai is still unsafe", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "At 6.54 p.m. on July 13 , a bomb in a motorcycle tore into Mumbai 's 150-year-old Zaveri Bazaar , killing five people instantly . As pushcarts selling food were scattered and bodies lay mutilated , Hiten , a businessman , recounted how he carried the severed head of a victim to the nearby Gokuldas Tejpal Hospital . He tried , but could n't find the body parts.A minute later , at 6.55 p.m. , a tiffin box exploded , resounding through Prasad Chambers , Opera House , where diamond traders gather every evening to discuss the day 's business . The blast , which killed nine , left trader Chirag Vora shaken . It shattered the window panes . The diamonds on my tray were everywhere , he says.At 7.05 p.m. , yet another bomb went off , this time at Hanuman Mandir at Dadar 's Kabutarkhana , where people shop for household goods . As injured people scrambled for cover amid splattered blood and damaged vehicles , Indulal Shah , who owns a sweet shop in the area , could only say : It took just a second . Everything changed . The usual chaos became a desperate panic.The serial blasts in Mumbai left 18 people dead and over 100 injured . In this photo , policemen look for clues ar the Zaveri Bazaar blast siteIt is a deadly litany , all too familiar for a city of walking wounded . The city that never sleeps has become one that now sleeps in fear . The city of number-crunchers has now become a cold statistic . Twenty-one people were killed and 131 injured . Fourteen blasts in 18 years have exposed chinks that have now become embarrassingly routine . As have the platitudes . Maharashtra Chief Minister Prithviraj Chavan made the startling discovery that the attacks proved terror groups are active and able to strike at will . Union Home Minister P. Chidambaram flew down to Mumbai with South Mumbai MP and newly minted minister Milind Deora only to declare every city of India is still vulnerable to a coordinated attack by terrorists . Mumbai Police Commissioner Arup Patnaik , still to explain the cosy relationship between his officers and the city 's underworld dons , announced that some terror elements were involved in the attack.The timing and method used in the three blasts point to banned terrorist organisation Indian Mujahideen ( IM ) , an offshoot of the Students Islamic Movement of India ( SIMI ) . Though the group became prominent in 2008 when it claimed responsibility for bomb blasts at Ahmedabad , Jaipur , Delhi and Assam , it has been active since 2003 . Safdar Nagori , a resident of Ujjain in Madhya Pradesh , is believed to be the architect of the IM . He launched the organisation for supposedly religious and academic purposes . Later , he became leader of the faction that opted for armed struggle . Now , Iqbal Bhatkal and his brother Riyaz run the organisation from Karachi , Pakistan.Injured at Zaveri Bazaar being taken to hospitalThe blasts took place two days after the city observed the fifth anniversary of seven blasts in local trains on July 11 , 2006 that killed 209 people , in which the IM was allegedly involved . A police officer points to the similarity between the timing and explosives in both the serial blasts . Ammonium nitrate was used in the train blasts and the blasts took place during 6.30 p.m. to 7 p.m. , he says . Chidambaram confirmed that ammonium nitrate was used in the July 13 blasts as well.Mumbai 's angry citizens , tired of having their resilience thrown at their faces and negotiating every day with fear , have had enough . They 've had enough of terror tourism . And they can do without any more salutes to their battered spirit . As Jignesh Shah , MD , Multi-Commodities Exchange , says , It 's time for every one , police , politician and the corporate , to devise a plan so we do n't have to see such horror pictures on television time and again . Why again Mumbai , why ? Its citizens want action . They want answers . They want to know why the police took half-anhour to arrive at Khau Gali in Zaveri Bazaar though the jewellery market has three police posts . They want to know why Mumbai Police had no warning of such an attack . And they want to know what the bosses-sitting in the Mumbai Police headquarters at Crawford Market , just 1 km away - have done to recommendations made after 156 died and 280 were injured in the 26/11 attacks.People help an injured woman at a bus stand in DadarThey want to know why the police continue to miss the plot . One of the key recommendations of the twomember Ram Pradhan Committee that went into the lapses of the 26/11 attacks was that the force should be radically transformed . Attacks will keep occurring until we professionalise our police forces , says a senior IPS officer . It makes me feel worse when you know the solution and are able to do nothing . Just a day before the strikes , the Mumbai Police were arguing in the Bombay High Court against handing the Jyotirmoy Dey investigation to the CBI.The blasts were a failure of predictive intelligence , the ability to tell where the next attack would come from . It calls for huge investments in human intelligence and trained manpower . A far cry in a state which has the largest number of vacancies - posts of 49,000 policemen are yet to be filled . The Anti-Terrorism Squad ( ATS ) in Maharashtra , formed in 2004 , has just 300 personnel despite a sanctioned strength of three times as many men . The police have failed to instil fear into the hearts of the bombers . They have been unable to maintain a constant presence to deter them , says Colonel M.P. Chaudhary ( retired ) , a former advisor to the city police.The blasts took the central agencies by surprise . There were no symptoms , no alerts , not a whiff that an attack was in the offing , a senior Intelligence Bureau ( IB ) official said in Delhi . It could well have been that the agencies were lulled into a sense of complacency . Since 26/11 , there has been just one significant attack , the February 13 , 2010 bombing of Pune 's German Bakery which killed 17 persons and was traced to the IM . Analysts blamed the slump in attacks to Pakistan 's problems that seem to have kept it from fomenting terror attacks within India . One official admits that the IB 's Multi-Agency Centre - revitalised after 26/11 attacks for India 's 14 agencies to meet every day to pool information-had drifted into discussing virtual attacks in the cyberworld . The post-26 / 11 drift was everywhere . Key terrorism-related proposals like the National Intelligence Grid ran into fierce resistance at the Centre . The home ministry project that aimed at integrating existing databases like bank accounts and financial transactions to track terror suspects , got conditional approval only last month , 18 months after the project had been mooted.Prithviraj Chavan and P. Chidambaram address the media in MumbaiAdd to it Mumbai 's inherent vulnerability that makes it a soft target . A 468 sq-km linear city , it is less than a third the size of Delhi 's 1,483 sq km . But it is the country 's most densely packed metropolis . It has 29,042 people per sq km to Delhi 's 9,294 people per sq km , making policing difficult for its 60,000-strong force . Its local trains carry 69 lakh passengers every day , more than half of Indian Railways ' daily capacity , and are among the most crowded transport systems in the world . The buses in Mumbai carry 45 lakh passengers every day.Its coastline is open to attack , as 26/11 proved . Its water pipelines are susceptible to sabotage . The pipelines are surrounded by around 35,000 shanties and shockingly , the Brihanmumbai Municipal Corporation ( BMC ) does not have a record of people staying there . Security experts have often warned that anti-social elements can break the water pipelines and contaminate the water . The Bombay High Court in 2009 had rapped the BMC for compromising citizens ' health by allowing slums around water pipes . The BMC started a demolition drive after that but could not clear the slums completely . Former IPS officer Y.P. Singh says , Mumbai is the perfect advertisement for any terrorist organisation that wants to make an impact . Seasonal downpours , which come in the way of effective policing , present the best opportunity.In such a situation of total paralysis , fear spreads fast . Paranoia is contagious , and in a multimedia age , it gets amplified quickly . Almost as soon as the blasts tore apart Mumbai , an SMS went viral in Delhi claiming bombs were discovered in Saket and Defence Colony . Someone spread the rumour that it was Ajmal Kasab 's birthday . Then someone else tweeted that the date was actually September 13 , and then corrected it yet again . A fourth bomb was found to be a bag with wires . Celebrities vented their anguish on twitter , ordinary citizens tried calling frantic families.At the ground floor lobby in Phoenix Mills , a popular mall in central Mumbai , a hush suddenly descended on shoppers making the best of discount season . As news of the blasts flashed on a TV screen , nearly everyone whipped out their phones to contact friends and family , only to find the network jammed . A young shopper voiced what the others were thinking . Damn . This city is getting really dangerous to live in.Especially certain areas . Terror has struck Zaveri Bazaar with frightening regularity . Known as much for its jewellery as its Marwari kachori , it was first targeted on March 12 , 1993 , when a bomb was detected in the area . Later , it became clear that the bomb was part of the series that shook the city . On August 25 , 2003 , 36 people died in a powerful blast.Mumbai 's citizens are tired of such bad news and terrible memories . Ask Hemen Kapadia , a top stockbroker . He was in the BSE building in 1993 when the blasts happened . Every time he hears of another such explosion , it sends chills down his spine . He has just one question : Can someone tell me who is in charge here ? It 's a question whose answer needs to be given . Now.With inputs from T. Surendar , Shantanu Guha Ray and Bhavna Vij-Aurora .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        "Mumbai"
+    ], 
+    "O": [
+        "tiffin box:77", 
+        "Union Home Minister:321", 
+        "Ammonium nitrate:573", 
+        "home ministry:1202"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/mumbai-serial-blasts-safety-of-mumbai/1/144966.html", 
+    "date": "13-07-2001", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "MOTORCYCLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Gokuldas Tejpal Hospital", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "Mumbai Police", 
+            "357", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "402", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "405", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "470", 
+            "Accused"
+        ], 
+        [
+            "Mumbai Police", 
+            "746", 
+            "Others"
+        ], 
+        [
+            "Mumbai Police", 
+            "766", 
+            "Others"
+        ], 
+        [
+            "Ram Pradhan Committee", 
+            "824", 
+            "Others"
+        ], 
+        [
+            "Mumbai Police", 
+            "887", 
+            "Others"
+        ], 
+        [
+            "Bombay High Court", 
+            "893", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "962", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "1060", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "1063", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "1117", 
+            "Accused"
+        ], 
+        [
+            "IB", 
+            "1147", 
+            "Others"
+        ], 
+        [
+            "National Intelligence Grid", 
+            "1190", 
+            "Others"
+        ], 
+        [
+            "Brihanmumbai Municipal Corporation", 
+            "1387", 
+            "Others"
+        ], 
+        [
+            "BMC", 
+            "1391", 
+            "Others"
+        ], 
+        [
+            "Bombay High Court", 
+            "1422", 
+            "Others"
+        ], 
+        [
+            "BMC", 
+            "1430", 
+            "Others"
+        ]
+    ]
+}

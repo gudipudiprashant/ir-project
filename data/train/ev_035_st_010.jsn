@@ -1,0 +1,225 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "108", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "251", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "313", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sarbananda Sonowal", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "Arun Kumar Sarma", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "304", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "321", 
+            "Others"
+        ], 
+        [
+            "L.K. Advani", 
+            "352", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "four months : 282"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:16", 
+        "1985:254", 
+        "2000:267", 
+        "2006 : 329"
+    ], 
+    "death": "", 
+    "title": "AGP accuses Congress of neglecting national security", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Special Correspondent . . NEW DELHI : The Asom Gana Parishad -LRB- AGP -RRB- on Saturday charged that the serial bomb blasts in Assam was the result of neglect of national security by the Congress and demanded the dismissal of the State government . . . Both the MPs of the AGP in the Lok Sabha Sarbananda Sonowal and Arun Kumar Sarma charged that the Islamic Security Force -LRB- ISF -RRB- of the Indian Mujahideen group by claiming responsibility for the blasts had underscored the greater threat to the country from the ISI . . . They charged that the ISI was using the open border with Bangladesh as a safe route to conduct its operation in any corner of the country and that the arrests in connection with other blasts pointed to their operation from across these parts of the border . . . The two MPs accused the Congress of adopting a casual approach in dealing with such anti-Indian forces with the consequence that their activities were growing at an alarming rate in the country . . . The AGP leaders warned that the situation could deteriorate further if not dealt with urgency as domestic militant outfits enjoyed patronage from countries neighbouring the northeastern region . Their allegation was that there were more than 60 lakh Bangladeshi immigrants in the region providing a safe haven to the ISI . . . Implement accord . . Attacking the Congress they underscored that it had never cared to implement the Assam Accord of 1985 of detecting and deporting illegal Bangladeshis and the Supreme Courts order in 2000 for constitution of tribunals in all the 27 districts for determining illegal migrants within four months was yet to yield the result . . . They said that the State did not benefit despite Prime Minister Manmohan Singh being elected to the Rajya Sabha from Assam . The promise of Union Home Minister Shivraj Patil to have the border sealed by 2006 proved to be a hollow one , they alleged . . . They however admitted that the NDA when Leader of Opposition L.K. Advani happened to the Union Home Minister had also failed to tackle the problem . . . The AGP has also written to the President and the three chiefs of the armed forces to take note of the situation and discharge their constitutional duties .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Special Correspondent:1", 
+        "charged:17", 
+        "serial bomb blasts:20", 
+        "neglect:29", 
+        "national security:31", 
+        "demanded:37", 
+        "dismissal:39", 
+        "State government:42", 
+        "MPs:49", 
+        "Lok Sabha:55", 
+        "charged:63", 
+        "ISF:70", 
+        "blasts:82", 
+        "underscored:84", 
+        "greater threat:86", 
+        "ISI:93", 
+        "charged:98", 
+        "ISI:101", 
+        "open border:105", 
+        "safe route:111", 
+        "operation:116", 
+        "arrests:126", 
+        "connection:128", 
+        "blasts:131", 
+        "operation:135", 
+        "two MPs:147", 
+        "accused:149", 
+        "adopting:153", 
+        "casual approach:155", 
+        "dealing:158", 
+        "anti-Indian forces:161", 
+        "activities:168", 
+        "alarming rate:173", 
+        "AGP leaders:182", 
+        "warned:184", 
+        "situation:187", 
+        "deteriorate:189", 
+        "urgency:195", 
+        "domestic militant outfits:197", 
+        "patronage:201", 
+        "northeastern region:206", 
+        "allegation:210", 
+        "60 lakh:217", 
+        "Bangladeshi immigrants:219", 
+        "safe haven:226", 
+        "ISI:230", 
+        "Attacking:238", 
+        "underscored:242", 
+        "implement:249", 
+        "Assam Accord of 1985:251", 
+        "detecting:256", 
+        "deporting:258", 
+        "illegal Bangladeshis:259", 
+        "Supreme Courts order:263", 
+        "constitution of tribunals:269", 
+        "27 districts:275", 
+        "illegal migrants:279", 
+        "elected:307", 
+        "Rajya Sabha:310", 
+        "promise:316", 
+        "border sealed:326", 
+        "hollow:334", 
+        "admitted:344", 
+        "failed:362", 
+        "tackle:364", 
+        "problem:366", 
+        "written:374", 
+        "three chiefs:380", 
+        "armed forces:384", 
+        "situation:391", 
+        "discharge:393", 
+        "constitutional duties:395"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/agp-accuses-congress-of-neglecting-national-security/article1367829.ece", 
+    "date": "01-11-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Asom Gana Parishad", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "AGP", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "AGP", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "Islamic Security Force", 
+            "66", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "74", 
+            "Accused"
+        ], 
+        [
+            "Congress", 
+            "151", 
+            "Others"
+        ], 
+        [
+            "AGP", 
+            "182", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "240", 
+            "Others"
+        ], 
+        [
+            "NDA", 
+            "347", 
+            "Others"
+        ], 
+        [
+            "AGP", 
+            "371", 
+            "Others"
+        ]
+    ]
+}

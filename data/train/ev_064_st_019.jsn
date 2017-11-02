@@ -1,0 +1,129 @@
+{
+    "LOC": [
+        [
+            "United States", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "US", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "82", 
+            "Neutral"
+        ], 
+        [
+            "United States", 
+            "93", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "George W Bush", 
+            "4", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "12", 
+            "Others"
+        ], 
+        [
+            "Bush", 
+            "47", 
+            "Comment"
+        ], 
+        [
+            "Bush", 
+            "74", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:57"
+    ], 
+    "death": "200", 
+    "title": "Bush phones PM, condemns blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "United States President George W Bush today spoke to Prime Minister Manmohan Singh and conveyed his country 's support to India in the fight against terrorism and expressed sympathy for the victims of the Mumbai serial train blasts . . . During the telephonic conversation , Bush expressed condolences to the families of those killed in Tuesday 's blasts . . . Firmly condemning the attacks that left over 200 people dead , Bush had yesterday said the US stood with India in the war on terrorism . . . ` The United States stands with the people and the Government of India and condemns in the strongest terms these atrocities , which were committed against innocent people as they went about their daily lives , ' he said in a statement . ` Such acts only strengthen the resolve of the international community to stand united against terrorism and to declare unequivocally that there is no justification for the vicious murder of innocent people , ' he said . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "united:1", 
+        "united states:1", 
+        "president george w bush:3", 
+        "bush today:6", 
+        "today:7", 
+        "Prime Minister:10", 
+        "country:17", 
+        "support:19", 
+        "fight:24", 
+        "terrorism:26", 
+        "sympathy:29", 
+        "serial train:36", 
+        "the:43", 
+        "conversation:45", 
+        "killed:55", 
+        "200:70", 
+        "dead:72", 
+        "had:75", 
+        "the:78", 
+        "with:81", 
+        "in:83", 
+        "terrorism:87", 
+        "terrorism .:87", 
+        "stands:95", 
+        "the:97", 
+        ",:126", 
+        "`:134", 
+        "strengthen:138", 
+        "international:143", 
+        "declare:152", 
+        "is:156"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/13mumblast3.htm", 
+    "date": "11-07-2006", 
+    "target": "RAILWAY STATION", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Government of India", 
+            "101", 
+            "Others"
+        ]
+    ]
+}

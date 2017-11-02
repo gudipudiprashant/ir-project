@@ -1,0 +1,172 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "NEW DELHI", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "39", 
+            "Event"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "215", 
+            "Neutral"
+        ], 
+        [
+            "Srinagar", 
+            "236", 
+            "Neutral"
+        ], 
+        [
+            "Middle-East country", 
+            "260", 
+            "Neutral"
+        ], 
+        [
+            "Saudi Arabia", 
+            "263", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Tariq Ahmed Dar", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "Tariq", 
+            "78", 
+            "Accused"
+        ], 
+        [
+            "Tariq", 
+            "109", 
+            "Accused"
+        ], 
+        [
+            "Tariq", 
+            "149", 
+            "Accused"
+        ], 
+        [
+            "Abu Huzefa", 
+            "156", 
+            "Accused"
+        ], 
+        [
+            "Tariq", 
+            "167", 
+            "Accused"
+        ], 
+        [
+            "Abu Al Kama", 
+            "218", 
+            "Accused"
+        ], 
+        [
+            "Tariq", 
+            "231", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 29:56", 
+        "Tuesday:91"
+    ], 
+    "death": "", 
+    "title": "Search on for militants involved in Delhi blasts", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        "Delhi"
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "New Delhi Search on for militants involved in Delhi blasts . . Staff Reporter . . NEW DELHI : Five days after the arrest of the alleged Lashkar-e-Taiba -LRB- LeT -RRB- conduit , Tariq Ahmed Dar , the Delhi police were still busy trying to piece together the entire sequence of events leading to the October 29 serial blasts in the Capital . A massive search has been launched to trace the militants who , according to Tariq , had planted the bombs . . . Senior police officers on Tuesday remained tight-lipped over the developments in the cases , but it is learnt that they were interrogating Tariq and some other persons reportedly picked up on suspicion of their involvement in the blasts . . . A Special Cell team had earlier visited Jammu and Kashmir to conduct raids on suspected hideouts of the militants identified by Tariq , including the LeT commander , Abu Huzefa . . . The police team also went to Tariq 's residence in search of evidence establishing his suspected links with the terrorists . They were also trying to trace the satellite phone through which he was alleged to be in regular contact with his Pakistan-based handlers , including the Pakistani LeT commander for operation in the Kashmir Valley , Abu Al Kama . The police are also probing the monetary transactions through Tariq 's HDFC account in Srinagar . Investigations so far have revealed that money in huge amounts was transferred to his account from time to time , from a Middle-East country -LRB- Saudi Arabia -RRB- . . . The intelligence agencies are trying to identify the source of the money-transfer .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "militants:6", 
+        "Staff Reporter:13", 
+        "Five days:20", 
+        "blasts:59", 
+        "militants:73", 
+        "militants:146", 
+        "satellite phone:189", 
+        "Pakistani:208"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/11/16/stories/2005111620410300.htm", 
+    "date": "29-10-2005", 
+    "target": "", 
+    "hot_spot": "Delhi", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Lashkar-e-Taiba", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "153", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "162", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "209", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "223", 
+            "Others"
+        ], 
+        [
+            "HDFC", 
+            "233", 
+            "Others"
+        ]
+    ]
+}

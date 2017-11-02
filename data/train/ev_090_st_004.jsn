@@ -1,0 +1,234 @@
+{
+    "LOC": [
+        [
+            "Jammu and Kashmir", 
+            "68", 
+            "Event"
+        ], 
+        [
+            "Chattabal", 
+            "81", 
+            "Accused"
+        ], 
+        [
+            "Multan", 
+            "112", 
+            "Accused"
+        ], 
+        [
+            "Pakistan", 
+            "114", 
+            "Accused"
+        ], 
+        [
+            "Bemina", 
+            "135", 
+            "Event"
+        ], 
+        [
+            "Uri", 
+            "160", 
+            "Accused"
+        ], 
+        [
+            "Line of Control", 
+            "163", 
+            "Accused"
+        ], 
+        [
+            "LoC", 
+            "167", 
+            "Accused"
+        ], 
+        [
+            "Baramulla", 
+            "170", 
+            "Accused"
+        ], 
+        [
+            "Uri", 
+            "234", 
+            "Accused"
+        ], 
+        [
+            "north Kashmir", 
+            "236", 
+            "Accused"
+        ], 
+        [
+            "Sahiwal", 
+            "253", 
+            "Accused"
+        ], 
+        [
+            "Dera Gazi Khan", 
+            "255", 
+            "Accused"
+        ], 
+        [
+            "Pakistan", 
+            "259", 
+            "Accused"
+        ], 
+        [
+            "Pakistan", 
+            "321", 
+            "Accused"
+        ], 
+        [
+            "Pakistan", 
+            "351", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Zubair", 
+            "74", 
+            "Accused"
+        ], 
+        [
+            "Abu Tallah", 
+            "76", 
+            "Accused"
+        ], 
+        [
+            "Riaz", 
+            "79", 
+            "Accused"
+        ], 
+        [
+            "Zubair", 
+            "107", 
+            "Accused"
+        ], 
+        [
+            "Bashir", 
+            "139", 
+            "Accused"
+        ], 
+        [
+            "Haroon Bhai", 
+            "141", 
+            "Accused"
+        ], 
+        [
+            "Bashir", 
+            "155", 
+            "Accused"
+        ], 
+        [
+            "Zubair", 
+            "179", 
+            "Accused"
+        ], 
+        [
+            "Zubair", 
+            "193", 
+            "Accused"
+        ], 
+        [
+            "Bashir", 
+            "216", 
+            "Accused"
+        ], 
+        [
+            "Zubair", 
+            "229", 
+            "Accused"
+        ], 
+        [
+            "Zubair", 
+            "263", 
+            "Accused"
+        ], 
+        [
+            "Zubair", 
+            "342", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:137"
+    ], 
+    "death": "5", 
+    "title": "Srinagar attack: Arrested Pak militant aided two 'fidayeens'", 
+    "det_loc": [
+        "India", 
+        "Jammu & Kashmir", 
+        "Srinagar", 
+        "", 
+        "CRPF camp"
+    ], 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "The Pakistani militant arrested in a major breakthrough in the suicide strike that killed five CRPF men was a LeT recruit and it was he who allegedly dropped the two ` fidayeens ' in the outskirts of the city on the day of the attack , investigations show . . . In a swift operation a day after the attack , the Special Operations Group of the Jammu and Kashmir police arrested 22-year-old Zubair alias Abu Tallah alias Riaz from Chattabal area in the outskirts of the city late last night when he was talking to his handlers , official sources said today . . . Zubair , a resident of Multan in Pakistan , is the second person to be arrested in the attack on the CRPF camp near the Police-Public school in Bemina on Wednesday after Bashir alias Haroon Bhai was held hours after the attack . . . Sources said that Bashir , who hailed from Uri along the Line of Control -LRB- LoC -RRB- in Baramulla district , had tipped the state police about Zubair 's movements which led to his arrest . . . The sources said Zubair told the interrogators that he had dropped the two ` fidayeens ' -LRB- suicide attackers -RRB- hailing from his country along with Bashir , a surrendered militant . . . According to the police , Zubair had crossed over from Uri in north Kashmir a month ago and was followed by the two ` fidayeens ' who hailed from Sahiwal and Dera Gazi Khan in Pakistan . . . Zubair showed no signs of resistance when he was being overpowered by the SOG personnel on a roof top in a densely populated area when he was talking to his handlers , they said . . . During his night-long interrogation , the arrested terrorist gave details about his recruitment by terror outfit Lashker-e-Toiba -LRB- LeT -RRB- in Pakistan and also claimed he joined the outfit in view of the abject poverty he was living in . . . Zubair has two sisters and an elder brother in Pakistan and the family is reported to be financially weak with the father working in farms , the sources said . . . ... contd .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "pakistani militant:2", 
+        "suicide strike:11", 
+        "fidayeens:32", 
+        "second person to be arrested:118", 
+        "police-public school:132", 
+        "tipped the state police:174", 
+        "suicide attackers:207", 
+        "surrendered militant:219", 
+        "talking to his handlers:290", 
+        "recruitment by terror outfit:312", 
+        "abject poverty:333"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/srinagar-attack-arrested-pak-militant-aided-two-fidayeens/1088651/", 
+    "date": "13-03-2013", 
+    "target": "MILITARY GROUP", 
+    "hot_spot": "", 
+    "delivery_mod": "HUMAN", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CRPF", 
+            "16", 
+            "Victim"
+        ], 
+        [
+            "LeT", 
+            "20", 
+            "Accused"
+        ], 
+        [
+            "Special Operations Group", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "128", 
+            "Victim"
+        ], 
+        [
+            "SOG", 
+            "276", 
+            "Others"
+        ], 
+        [
+            "Lashker-e-Toiba", 
+            "316", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "318", 
+            "Accused"
+        ]
+    ]
+}

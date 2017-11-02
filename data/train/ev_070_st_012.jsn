@@ -1,0 +1,166 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "HYDERABAD", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "58", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "Gokul Chat", 
+            "77", 
+            "Event"
+        ], 
+        [
+            "Kothi locality", 
+            "81", 
+            "Neutral"
+        ], 
+        [
+            "Kothi", 
+            "81", 
+            "Neutral"
+        ], 
+        [
+            "Kothi locality", 
+            "81", 
+            "Neutral"
+        ], 
+        [
+            "Lumbini Park", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Lumbini Park", 
+            "186", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "192", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad .", 
+            "192", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar area", 
+            "235", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar area", 
+            "235", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "235", 
+            "Neutral"
+        ], 
+        [
+            "Lumbini Park", 
+            "270", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Gokul Chat Bhandar", 
+            "273", 
+            "Others"
+        ], 
+        [
+            "Balwinder Singh", 
+            "285", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "9.30 pm : 259"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday evening:60", 
+        "Saturday:60", 
+        "Sunday:104"
+    ], 
+    "death": "42", 
+    "title": "42 killed, 50 wounded in Hyderabad blasts", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "doweshowbellyad = 0 ; . . Relatives of the bomb blast victims at Osmania General Hospital in Hyderabad . -LRB- PTI Photo -RRB- . . HYDERABAD : At least 42 people , including five women and seven students , have been killed and 50 injured in two explosions at a crowded park and a popular eatery in Hyderabad on Saturday evening , three months after the Mecca Masjid blasts . The week-end outing at the popular Gokul Chat shop at Kothi locality turned into a tragedy when a deafening explosion ripped through it killing 32 people and wounding 21 , police said on Sunday . Five minutes earlier , 10 people , most of them from outside the state , were killed and 29 injured in another blast in an open air auditorium in Lumbini Park near the state secretariat in the heart of the city when a laser show was underway , they said . The blast at the auditorium , where 500 people were present , was so powerful that some bodies were flung in the air . Among the dead at the Lumbini Park were two students from Ahmedabad . Four Railways employee are among those killed in the blasts . The condition of some of the injured was stated to be serious , police said . Hours after the twin blasts , the city police recovered a live bomb from Dilsukhnagar area and defused it in time , averting another tragedy . The bomb was planted underneath a foot-over-bridge with a timer set for 9.30 pm , police sources said . The near-simultaneous blasts at Lumbini Park and Gokul Chat Bhandar were triggered by cell-phone timers , city Police Commissioner Balwinder Singh said .", 
+    "injured": "50", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "O": [
+        "bomb blast:10", 
+        "evening:61", 
+        "mecca masjid:67", 
+        "mecca masjid blasts:67", 
+        "popular gokul chat:76", 
+        "air auditorium:132", 
+        "pm:260", 
+        "police:262", 
+        "cell-phone:279"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/42-killed-50-wounded-in-Hyderabad-blasts/articleshow/2311327.cms", 
+    "date": "25-08-2007", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Osmania General Hospital in Hyderabad", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "Osmania General Hospital", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "Hyderabad on Saturday", 
+            "58", 
+            "Others"
+        ], 
+        [
+            "Lumbini Park and Gokul Chat Bhandar", 
+            "270", 
+            "Others"
+        ]
+    ]
+}

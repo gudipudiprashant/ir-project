@@ -107,7 +107,7 @@ class Tester:
     self.custom_param = custom_param
 
   def test(self):
-    jsonDir = "tagged_dataset"
+    jsonDir = config.test_dataset_folder
     jsonFiles = os.listdir(os.path.join(self.baseDir, jsonDir))
 
     # stop-words optional
@@ -140,6 +140,9 @@ class Tester:
             break_flag = True
             break
           # Load the json tagged dataset
+          
+          if test_ctr >= len(jsonFiles):
+            break  
           file = jsonFiles[test_ctr]
           # print()
           # print("FILENAME:")
@@ -216,9 +219,9 @@ class Tester:
   def evaluate(self, custom_relev_entities, json_dict, sent_ent_list):
     # Format of relevant entities as marked in the tagged json files
       json_format = {
-          "LOC"   : ["Event", "Assoc_Event", "Source"],
-          "ORG"   : ["Accused", "Assoc_Accused"],
-          "PER"   : ["Accused", "Assoc_Accused"],
+          "LOC"   : ["Event", "Assoc_Event", "Source", "Victim"],
+          "ORG"   : ["Accused", "Assoc_Accused", "Victim"],
+          "PER"   : ["Accused", "Assoc_Accused", "Victim"],
         }
 
       if self.eval_NER:
@@ -249,6 +252,16 @@ class Tester:
           precision = common/len(temp_set)
         else:
           precision = 1
+
+        # if precision <= 0.5:
+        #   # print(json_dict["content"])
+        #   print("Entity Type: ", ent_type)
+        #   print("-----------------------")
+        #   print("System returned:", temp_set)
+        #   print("---------------------------------------------")
+        #   print("Ground Truth:", relev_ent)
+        #   # input()
+
         if len(relev_ent) > 0:
           recall = common/len(relev_ent)
         else:

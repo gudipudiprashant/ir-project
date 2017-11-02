@@ -1,0 +1,119 @@
+{
+    "LOC": [
+        [
+            "Rangiya", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Lower Assam", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "28", 
+            "Source"
+        ], 
+        [
+            "Kamrup", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "Rangiya station", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Bhatkuchi", 
+            "74", 
+            "Event"
+        ], 
+        [
+            "Jagannath temple", 
+            "102", 
+            "Victim"
+        ], 
+        [
+            "Bhatkuchi", 
+            "142", 
+            "Event"
+        ], 
+        [
+            "Rangiya", 
+            "145", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ghagrapar", 
+            "147", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "S. Hajong ,", 
+            "109", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "8.20 p.m.:33", 
+        "6.45 p.m.:54", 
+        "8.05 p.m.:63"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:36"
+    ], 
+    "death": "", 
+    "title": "100 injured as Puri Express derails after blast in Assam", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Guwahati", 
+        "near Rangiya in Lower Assam"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least 100 passengers of 15640 Dn Puri Express were injured when four bogies derailed and four more overturned after a powerful blast near Rangiya in Lower Assam 's Kamrup district around 8.20 p.m. on Sunday . . . Earlier , the train , bound for Puri , departed the Guwahati station at 6.45 p.m. . It left the Rangiya station at 8.05 p.m. and the blast occurred 7 km away , at Bhatkuchi . . . Passengers and local residents said they heard a deafening sound just before the derailment . . . The injured included pilgrims bound for the Jagannath temple at Puri . . . S. Hajong , Chief Public Relations Officer , Northeast Frontier Railway , told The Hindu that the derailment was caused due to a powerful bomb blast . . . The derailment occurred at Bhatkuchi between the Rangiya and Ghagrapar stations . The condition of several passengers was stated to be serious . A large crater was created on the track due to the impact of the remote-controlled blast . Train movement along the route was disrupted . . . No outfit has so far claimed responsibility for the blast . The four derailed bogies were just behind the engine . . . Shocked and traumatised injured passengers who included a number of children and women had to wait on the tracks for more than one-and-half-hour for rescue teams to reach the site and evacuate them to hospitals . . . Senior railway officials , accompanied by rescue teams , rushed to the spot . But before they could arrive , the local residents gave the injured first aid . . . Condition of several passengers said to be serious No outfit has so far claimed responsibility . . Condition of several passengers said to be serious . . No outfit has . . so far claimed responsibility .", 
+    "injured": "100", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Puri Express:8", 
+        "Puri:47", 
+        "Passengers:78", 
+        "local residents:80", 
+        "derailment:91", 
+        "pilgrims:98", 
+        "Puri:105", 
+        "Chief Public Relations Officer:112", 
+        "Northeast Frontier Railway:117", 
+        "The Hindu:122", 
+        "derailment:126", 
+        "derailment:139", 
+        "Senior railway officials:249"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/100-injured-as-puri-express-derails-after-blast-in-assam/article2217389.ece", 
+    "date": "10-07-2011", 
+    "target": "PUBLIC TRANSPORT", 
+    "hot_spot": "near Rangiya in Lower Assam", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

@@ -1,0 +1,148 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Bamunimaidan", 
+            "34", 
+            "Event"
+        ], 
+        [
+            "Railway Colony market", 
+            "57", 
+            "Event"
+        ], 
+        [
+            "Bamunimaidan", 
+            "61", 
+            "Event"
+        ], 
+        [
+            "Begusarai", 
+            "200", 
+            "Accused"
+        ], 
+        [
+            "Guwahati", 
+            "228", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Rajen Singh", 
+            "131", 
+            "Comment"
+        ], 
+        [
+            "Ramlal Das", 
+            "191", 
+            "Accused"
+        ], 
+        [
+            "R.N. Mathur", 
+            "255", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "11.45 a.m.:53"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:38"
+    ], 
+    "death": "1", 
+    "title": "One killed, 20 injured in Guwahati blast", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Sushanta Talukdar . . Guwahati : One person was killed and 20 people were injured in a bomb blast suspected to have been triggered by the United Liberation Front of Asom in the Bamunimaidan locality here on Saturday . . . Police said a bomb kept in a three-wheeler went off at 11.45 a.m. at the Railway Colony market of Bamunimaidan , a busy commercial area , leading to the explosion of three gas cylinders in the shops nearby . Several shops were gutted . The windowpanes of nearby houses were shattered . . . The three-wheeler , in which the bomb was kept hidden , was blown to pieces . . . The vehicle had a sticker of the Indian airline on its body . Additional Superintendent of Police Rajen Singh said the police were trying to ascertain the facts . . . They said it was not immediately known whether the driver of the van was among the critically injured persons . . . The cylinder blasts caused panic . There was confusion over whether another blast had taken place . . . The deceased was identified as Ramlal Das -LRB- 60 -RRB- , a cobbler from Begusarai in Bihar . There were heart-rending scenes as the family members and relatives of the victims gathered at the site . The injured were taken to the Guwahati Medical College and Hospital . . . Assam Chief Minister Tarun Gogoi condemned the incident as an act of cowardice and asked the Director-General of Police R.N. Mathur to review the security measures in and around the city and other parts of the State .", 
+    "injured": "20", 
+    "org_unorg": "", 
+    "O": [
+        "killed:10", 
+        "injured:15", 
+        "bomb blast:18", 
+        "suspected:20", 
+        "triggered:24", 
+        "bomb:45", 
+        "kept:46", 
+        "three-wheeler:49", 
+        "busy commercial area:64", 
+        "explosion:71", 
+        "three gas cylinders:73", 
+        "gutted:84", 
+        "windowpanes:87", 
+        "shattered:92", 
+        "three-wheeler:97", 
+        "bomb:102", 
+        "kept hidden:104", 
+        "blown:108", 
+        "pieces:110", 
+        "vehicle:115", 
+        "sticker:118", 
+        "Indian airline:121", 
+        "ascertain:139", 
+        "facts:141", 
+        "driver:154", 
+        "van:157", 
+        "critically injured:161", 
+        "cylinder blasts:168", 
+        "panic:171", 
+        "confusion:175", 
+        "another blast:178", 
+        "deceased:187", 
+        "cobbler:198", 
+        "heart-rending scenes:206", 
+        "victims:216", 
+        "gathered:217", 
+        "site:220", 
+        "injured:223", 
+        "Tarun Gogoi:239", 
+        "condemned:241", 
+        "cowardice:248", 
+        "review:258", 
+        "security measures:260"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/one-killed-20-injured-in-guwahati-blast/article1903553.ece", 
+    "date": "01-09-2007", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "THREE WHEELER", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "Guwahati Medical College and Hospital", 
+            "228", 
+            "Others"
+        ]
+    ]
+}

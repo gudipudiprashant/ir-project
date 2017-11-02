@@ -1,0 +1,212 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "86", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "119", 
+            "Neutral"
+        ], 
+        [
+            "Ganeshguri", 
+            "281", 
+            "Neutral"
+        ], 
+        [
+            "Fancybazar", 
+            "289", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Himanta Biswa Sarma", 
+            "92", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "158", 
+            "Others"
+        ], 
+        [
+            "P.C. Halder", 
+            "167", 
+            "Others"
+        ], 
+        [
+            "Halder", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "207", 
+            "Others"
+        ], 
+        [
+            "Sarma", 
+            "294", 
+            "Others"
+        ], 
+        [
+            "Sarma", 
+            "353", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday : 40", 
+        "October 30 : 52", 
+        "Monday : 82", 
+        "Saturday : 161"
+    ], 
+    "death": "", 
+    "title": "RAW for Assam to keep an eye on terrorists", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Special Correspondent . . Guwahati : The Assam Police will soon have a Research and Analysis Wing -LRB- RAW -RRB- within its Special Branch . . . The decision was taken at a meeting of the State Cabinet on Saturday in the wake of the serial blasts in the State on October 30 that killed 80 people and injured over 800 . The death toll in the citys blasts has gone up to 49 with two more succumbing to injuries on Monday . . . Assam government spokesman and Health Minister Himanta Biswa Sarma said a sustained research and analysis of the change in tactics by militant and terrorist outfits had become necessary . . . Besides , Bangladesh continued to give shelter and training to these outfits , be it the United Liberation Front of Asom -LRB- ULFA -RRB- or the HuJI . . . Close of the heels of a security review by Prime Minister Manmohan Singh on Saturday , Director of Intelligence Bureau P.C. Halder reviewed the security situation in the aftermath of the serial blasts with the top brass of the Assam Police and senior officials of the Home Department . . . Situation reviewed . . Mr. Halder met Chief Minister Tarun Gogoi and discussed the security situation with him . . . The State Cabinet also decided to codify the rules regarding parking of vehicles and strengthen police machinery for screening vehicles , drivers and suitcases . . . The police had disclosed earlier that car bombs were used in all the three blasts in the city . . . The cars packed with RDX and ammonium nitrate were parked with other vehicles at Ganeshguri , Chief Judicial Magistrate Court premises and Fancybazar . . . Dr. Sarma told reporters that spy cameras and other security gadgets would be installed in parking lots . He , however , said that the city lacked proper designated parking lots and there had been resistance in the past from some sections when vacant spaces were sought to be acquired for building multi-storeyed structures for car-parking . . . Dr. Sarma said the administration would make fresh efforts to acquire land for multi-storeyed car parking and appealed the residents to cooperate . . . The State government spokesman said sketches of suspects behind the blasts were being prepared by the police on the basis of description provided by a lawyer .", 
+    "injured": "80", 
+    "org_unorg": "", 
+    "O": [
+        "special correspondent:1", 
+        "special branch:23", 
+        "meeting:34", 
+        "state cabinet:37", 
+        "serial blasts:46", 
+        "killed:55", 
+        "injured:59", 
+        "death toll:64", 
+        "citys blasts:68", 
+        "succumbing:78", 
+        "injuries:80", 
+        "research and analysis:98", 
+        "tactics:105", 
+        "militant:107", 
+        "terrorist outfits:109", 
+        "shelter:123", 
+        "training:125", 
+        "outfits:128", 
+        "security review:153", 
+        "security situation:171", 
+        "serial blasts:178", 
+        "top brass:182", 
+        "senior officials:189", 
+        "situation reviewed:198", 
+        "discussed:210", 
+        "security situation:212", 
+        "codify:225", 
+        "parking:229", 
+        "strengthen police machinery:233", 
+        "screening vehicles:237", 
+        "drivers:240", 
+        "suitcases:242", 
+        "car bombs:252", 
+        "three blasts:259", 
+        "city:263", 
+        "cars:268", 
+        "rdx:271", 
+        "ammonium nitrate:273", 
+        "spy cameras:298", 
+        "security gadgets:302", 
+        "resistance:328", 
+        "multi-storeyed structures:345", 
+        "car-parking:348", 
+        "administration:356", 
+        "multi-storeyed car parking:365", 
+        "appealed:369", 
+        "residents:371", 
+        "sketches:382", 
+        "suspects:384", 
+        "blasts:387", 
+        "lawyer:402"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/raw-for-assam-to-keep-an-eye-on-terrorists/article1369403.ece", 
+    "date": "30-10-2008", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Assam Police", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "Research and Analysis Wing", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "RAW", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "Assam government", 
+            "86", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "133", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "139", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "165", 
+            "Others"
+        ], 
+        [
+            "Assam Police", 
+            "186", 
+            "Others"
+        ], 
+        [
+            "State government", 
+            "378", 
+            "Others"
+        ]
+    ]
+}

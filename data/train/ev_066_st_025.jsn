@@ -1,0 +1,204 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Bikaner", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Panipat", 
+            "34", 
+            "Neutral"
+        ], 
+        [
+            "Haryana", 
+            "36", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "125", 
+            "Accused"
+        ], 
+        [
+            "Bikaner", 
+            "130", 
+            "Neutral"
+        ], 
+        [
+            "Haryana", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "Bikaner", 
+            "149", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "190", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "Haryana", 
+            "234", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "236", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "238", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "287", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Salman", 
+            "58", 
+            "Accused"
+        ], 
+        [
+            "Taj Mohammad", 
+            "70", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Taj", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "Salman", 
+            "118", 
+            "Others"
+        ], 
+        [
+            "Salman", 
+            "139", 
+            "Others"
+        ], 
+        [
+            "Taj", 
+            "156", 
+            "Others"
+        ], 
+        [
+            "Chandra Shekhar", 
+            "175", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "a month : 132"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:38"
+    ], 
+    "death": "", 
+    "title": "Train attack: suspect brought to Panipat for questioning", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . NEW DELHI : A 35-year-old man detained a couple of days ago at Bikaner in Rajasthan on suspicion of his involvement in the Samjhauta Express blasts was brought to Panipat in Haryana on Friday . . . However , he has not been formally arrested . . . According to the police , Salman was picked up from the house of a railway employee , Taj Mohammad , who vanished from the scene well before they mounted a raid at his residence . . . The police recovered over 20 bottles of kerosene and petrol from the house , following which they questioned Taj 's wife also . . . During interrogation , Salman purportedly disclosed that he belonged to Mumbai and had come to Bikaner about a month ago . . . While Salman is being interrogated by the Haryana police , the Bikaner police have launched a hunt for Taj . . . It is learnt that they have picked up one of his friends , identified as Chandra Shekhar , and are questioning him to know his whereabouts . . . The Delhi police have succeeded in identifying the factory where the suitcases used to plant the bombs were manufactured . Enquiries with the Delhi-based factory 's owner have revealed that the ` cheap quality ' suitcases are supplied to various parts of Uttar Pradesh , Haryana , Punjab , Rajasthan and some other southern destinations . Hence , the police are finding it difficult to zero in on the place from where the perpetrators would have bought the suitcases . The bottles containing the inflammable liquids used in the blasts have been found to have been manufactured in Andhra Pradesh . . . In view of the recovery of a torn piece of newspaper from one of the suitcases containing the unexploded bomb , the police are trying to find out if any Uttar Pradesh-based terrorist module was behind the blasts .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Bikaner", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "35-year-old man:9", 
+        "detained:11", 
+        "suspicion:22", 
+        "involvement:25", 
+        "Samjhauta Express blasts:28", 
+        "formally arrested:48", 
+        "picked up:60", 
+        "railway employee:67", 
+        "vanished:74", 
+        "scene:77", 
+        "mounted:81", 
+        "raid:83", 
+        "residence:86", 
+        "recovered:92", 
+        "20 bottles of kerosene:94", 
+        "petrol:99", 
+        "questioned:107", 
+        "interrogation:116", 
+        "purportedly disclosed:119", 
+        "interrogated:142", 
+        "Haryana police:145", 
+        "Bikaner police:149", 
+        "launched:152", 
+        "hunt:154", 
+        "Delhi police:190", 
+        "succeeded:193", 
+        "identifying:195", 
+        "factory:197", 
+        "suitcases:200", 
+        "bombs:205", 
+        "manufactured:207", 
+        "Enquiries:209", 
+        "Delhi-based factory:212", 
+        "revealed:217", 
+        "cheap quality:221", 
+        "suitcases:224", 
+        "supplied:226", 
+        "destinations:243", 
+        "perpetrators:262", 
+        "suitcases:267", 
+        "bottles:270", 
+        "inflammable liquids:273", 
+        "blasts:278", 
+        "manufactured:285", 
+        "recovery:296", 
+        "torn piece of newspaper:299", 
+        "suitcases:307", 
+        "unexploded bomb:310", 
+        "Uttar Pradesh-based terrorist module:322", 
+        "blasts:329"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/train-attack-suspect-brought-to-panipat-for-questioning/article1801891.ece", 
+    "date": "23-02-2007", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

@@ -1,0 +1,90 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Ghilakuti", 
+            "48", 
+            "Neutral"
+        ], 
+        [
+            "Rangiya", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "59", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Pranjal Deka", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "Deka", 
+            "79", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:4", 
+        "January 1:18"
+    ], 
+    "death": "", 
+    "title": "Prime accused in Guwahati serial blasts killed", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Security forces on Thursday gunned down the main accused in the serial bombings that rocked Guwahati on January 1 , officials said.A police spokesman said 20-year-old Pranjal Deka of the banned United Liberation Front of Assam ( ULFA ) terror outfit was killed in a gunbattle at Ghilakuti village near Rangiya town , about 70 km west of Guwahati . It was a joint Assam Police and army operation . There were about three of them , including Deka , a police official said . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        "Guwahati"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/Prime+accused+in+Guwahati+serial+blasts+killed/1/24810.html", 
+    "date": "01-01-2009", 
+    "target": "", 
+    "hot_spot": "Guwahati", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Assam", 
+            "32", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "38", 
+            "Accused"
+        ], 
+        [
+            "Assam Police", 
+            "65", 
+            "Others"
+        ]
+    ]
+}

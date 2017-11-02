@@ -1,0 +1,90 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "71", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "D. Raja", 
+            "136", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Left: help Maharashtra identify culprits", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Pune", 
+        "Pune"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Polit Bureau said media reports that there were warnings of a possible attack in Pune ` are disturbing as these attacks have taken place despite this . ' . . In a statement , the party said it was imperative in the interests of the country 's security that such lapses were rectified urgently . . . The Polit Bureau called upon the Central government to provide assistance to Maharashtra to ` identify the culprits . ' . . It also conveyed its condolences to the families of victims and wished the injured a speedy recovery . . . Bring out truth : CPI . . The Communist Party of India demanded that the government bring out the truth behind the blast and expose those responsible for it . . . Its national secretary D. Raja said the government should speak through its actions and not indulge in rhetoric stating that there was no intelligence failure .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "party:37", 
+        "government:116", 
+        "national secretary:134", 
+        "rhetoric stating:150"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/article106663.ece", 
+    "date": "13-02-2010", 
+    "target": "", 
+    "hot_spot": "Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Polit Bureau", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Central government", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "105", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "India", 
+            "112", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "116", 
+            "Others"
+        ]
+    ]
+}

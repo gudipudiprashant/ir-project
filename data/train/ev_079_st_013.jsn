@@ -1,0 +1,403 @@
+{
+    "LOC": [
+        [
+            "Mehrauli", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "south Delhi", 
+            "25", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "49", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "89", 
+            "Neutral"
+        ], 
+        [
+            "Qutub Minar", 
+            "92", 
+            "Neutral"
+        ], 
+        [
+            "Mehrauli", 
+            "288", 
+            "Event"
+        ], 
+        [
+            "south Delhi", 
+            "290", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "291", 
+            "Neutral"
+        ], 
+        [
+            "AIIMS", 
+            "399", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "614", 
+            "Neutral"
+        ], 
+        [
+            "South Delhi", 
+            "653", 
+            "Neutral"
+        ], 
+        [
+            "Mehrauli", 
+            "678", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "680", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "759", 
+            "Neutral"
+        ], 
+        [
+            "Mehrauli as shameful.Mehta", 
+            "769", 
+            "Neutral"
+        ], 
+        [
+            "Mehrauli", 
+            "769", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "908", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "919", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "971", 
+            "Neutral"
+        ], 
+        [
+            "Delhi blast", 
+            "971", 
+            "Neutral"
+        ], 
+        [
+            "Delhi blast", 
+            "971", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Pritam", 
+            "162", 
+            "Comment"
+        ], 
+        [
+            "Ajay Kashyap", 
+            "307", 
+            "Comment"
+        ], 
+        [
+            "Sanjay", 
+            "320", 
+            "Victim"
+        ], 
+        [
+            "Bambam Kumar", 
+            "346", 
+            "Comment"
+        ], 
+        [
+            "Sheetal", 
+            "476", 
+            "Victim"
+        ], 
+        [
+            "Suresh", 
+            "481", 
+            "Victim"
+        ], 
+        [
+            "Allauddin", 
+            "486", 
+            "Victim"
+        ], 
+        [
+            "Nehar", 
+            "491", 
+            "Victim"
+        ], 
+        [
+            "Vinod", 
+            "496", 
+            "Victim"
+        ], 
+        [
+            "Shyam", 
+            "501", 
+            "Victim"
+        ], 
+        [
+            "Bhim Singh", 
+            "506", 
+            "Victim"
+        ], 
+        [
+            "Shakeel", 
+            "512", 
+            "Victim"
+        ], 
+        [
+            "Vikas", 
+            "517", 
+            "Victim"
+        ], 
+        [
+            "Gynendra", 
+            "522", 
+            "Victim"
+        ], 
+        [
+            "Kusum", 
+            "527", 
+            "Victim"
+        ], 
+        [
+            "Pradip", 
+            "532", 
+            "Victim"
+        ], 
+        [
+            "Satyajeet Choudhary", 
+            "537", 
+            "Victim"
+        ], 
+        [
+            "Ustad Ansari", 
+            "540", 
+            "Victim"
+        ], 
+        [
+            "Piyush", 
+            "543", 
+            "Victim"
+        ], 
+        [
+            "Rahul", 
+            "547", 
+            "Victim"
+        ], 
+        [
+            "Bikash", 
+            "551", 
+            "Victim"
+        ], 
+        [
+            "Pradeep", 
+            "555", 
+            "Victim"
+        ], 
+        [
+            "Baldev Raj", 
+            "581", 
+            "Victim"
+        ], 
+        [
+            "Pranab Mukherjee", 
+            "601", 
+            "Others"
+        ], 
+        [
+            "Sheila Dikshit", 
+            "637", 
+            "Comment"
+        ], 
+        [
+            "L. K. Advani", 
+            "666", 
+            "Comment"
+        ], 
+        [
+            "Advani", 
+            "684", 
+            "Comment"
+        ], 
+        [
+            "YS Dadwal", 
+            "710", 
+            "Others"
+        ], 
+        [
+            "Dadwal", 
+            "711", 
+            "Others"
+        ], 
+        [
+            "Aarti Mehta", 
+            "761", 
+            "Others"
+        ], 
+        [
+            "Mehta", 
+            "817", 
+            "Others"
+        ], 
+        [
+            "Rajan Bhagat", 
+            "848", 
+            "Others"
+        ], 
+        [
+            "Vijay Kumar Malhotra", 
+            "890", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "901", 
+            "Others"
+        ], 
+        [
+            "Malhotra", 
+            "915", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "fortnight : 98", 
+        "2.15 p.m.:184", 
+        "2.15 p.m.:282"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "September 13:77", 
+        "Saturday:682", 
+        "Saturday:894", 
+        "Friday:946"
+    ], 
+    "death": "3", 
+    "title": "3 dead, 17 injured in Mehrauli blast in Delhi", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "-LCB- mosimage -RCB- Three persons , including an 11-year-old boy , were killed and seventeen injured in a blast that shook Mehrauli area of south Delhi . Injured have been rushed to AIIMStrauma centre , police said.Sources in the police say two people have been detained at the Delhi IGI airport in connection with the blast . Ammonium nitrate and nails were reportedly used to make the bomb , similar to the ones used in the September 13 blasts.The terror attack , within a stone 's throw of Delhi 's landmark Qutub Minar , came exactly a fortnight after a series of bombings left 24 people dead in the national capital . ( AIIMS helpline : 91-11-26588500 , 26589900 , 26588700 ; Safdarjung Hospital helpline : 91-11-2619469 ) Two youths on a motorcycleleft a container in a black polythene bag outside an electronic shop and sped off . It began smoking and soon after there was a huge explosion , said Pritam , an eyewitness . The motorcycle allegedly used by the suspects has been recovered by the police.The blast went off around 2.15 p.m. when crowds were milling around the area , in the popular flower market in Mehrauli . Initial reports indicated that it was a low-intensity blast , police said.Police , the fire brigade and ambulances rushed to the spot and the injured were taken to the All India Institute of Medical Sciences and Safdarjang Hospital.The area was cordoned off and most shopkeepers downed their shutters as panic prevailed.The impact of the blast was quite huge as glass panes of many shops were shattered and blood pooled in front of a few shops.We received a call at around 2.15 p.m. about an explosion in Mehrauli in south Delhi . At that time we had reports of six people being seriously injured , said Ajay Kashyap , joint commissioner ( southern range ) . My brother , Sanjay , was injured in the blast . There was a deafening explosion and people began to run for their lives fearing more blasts , said Bambam Kumar , who helped his brother into an ambulance.Exactly two weeks back , 24 people were killed and over 100 injured in serial blasts in various parts of the Indian capital . The earlier series of five blasts had all taken place in crowded markets and office areas . Official figures from AIIMS : According to an official of the All India Institute of Medical Sciences ( AIIMS ) three people including one child has been killed.Seven of them are reported to be critical , while one was brought dead to the hospital.Out of the 17 people brought to the hospital 11 are men , three women and three children.List of the victims : Following is the list of the injured people admitted to AIIMS after the blast : Sheetal ( 11 ) , Suresh ( 27 ) , Allauddin ( 24 ) , Nehar ( 31 ) , Vinod ( 46 ) , Shyam ( 24 ) , Bhim Singh ( 56 ) , Shakeel ( 24 ) , Vikas ( 10 ) , Gynendra ( 35 ) , Kusum ( 35 ) , Pradip ( 21 ) , Satyajeet Choudhary , Ustad Ansari , Piyush ( 23 ) Rahul ( 24 ) Bikash ( 24 ) Pradeep ( 40 ) Four children were yet to be identified while one person has been admitted in Fortis Hospital . He has been identified as Baldev Raj . Emergency meetingI had discussions with the home minister.We should wait for the investigations , saidExternal Affairs Minister Pranab Mukherjee after coming out of the emergency meeting at his residence in New Delhi . Senior leaders were present at the meeting to review the security situation of the Capital . Compensation announcedDelhi Chief Minister Sheila Dikshit announces Rs 5 lakh as compensation to the family of the boy killed in South Delhi blast and Rs 50,000 each to the injured . REACTIONSOpposition leader L. K. Advani lashed out at the government following the blasts in Mehrauli in Delhi on Saturday . Advani said that the UPA government has failed to combat terror and that is why blasts are rocking the country one after the other.Delhi Police Commissioner YS Dadwal , We are investigating the case . Preliminary investigations suggest that two boys came on a blackmotorcycle and dropped a polythene bag . A child picked up the bag and the blast occurred immediately after that . The toll stands at 1 dead and 18 injured.Mayor of Delhi , Aarti Mehta , has dubbed the blasts in Mehrauli as shameful.Mehta said that security of people is the top most priority at the moment . I have sent Deputy Commissioner of Police to the blast site to ensure security , she said.Government can not run away from its responsibility to provide safety to the people , Mehta said while speaking to a news channel.Aarti Mehta also reiterated the demand for stricter laws to deal with the recent spate of terror attacks in India.The PRO of Delhi Police Rajan Bhagat informed that the youth sitting as pillion was wearing a black and white T-shirt . He requested the general public to stay alert and inform police in case they see any suspicious object.Bharatiya Janata Party 's ( BJP ) leader Vijay Kumar Malhotra on Saturday demanded the resignation of Home Minister Shivraj Patil following a bomb blast in Delhi 's Mehrauli area.He should resign , Malhotra told reporters in New Delhi . If he can not stop these incidents even in the capital , he has no right to hold the post.Malhotra , who was on Friday named the BJP 's chief ministerial candidate , added : It is the lapse of the home minister.Related linksShivraj Patil reviews securityShivraj Patil condemns Delhi blast .", 
+    "injured": "17", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "SOUTH DELHI", 
+        "Delhi", 
+        "Mehrauli"
+    ], 
+    "O": [
+        "police:40", 
+        "black polythene bag:138", 
+        "motorcycle:168", 
+        "low-intensity:209", 
+        "blackmotorcycle:728", 
+        "polythene bag:732", 
+        "Deputy Commissioner of Police:789", 
+        "Home Minister:899"
+    ], 
+    "unexpl": [
+        "NAILS"
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/3-dead,-17-injured-in-Mehrauli-blast-in-Delhi/1/16293.html", 
+    "date": "27-09-2008", 
+    "target": "", 
+    "hot_spot": "Mehrauli", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": [
+        [
+            "AIIMS", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "Safdarjung Hospital", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "All India Institute of Medical Sciences", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "Safdarjang Hospital.The", 
+            "238", 
+            "Others"
+        ], 
+        [
+            "All India Institute of Medical Sciences", 
+            "407", 
+            "Others"
+        ], 
+        [
+            "AIIMS", 
+            "414", 
+            "Others"
+        ], 
+        [
+            "AIIMS", 
+            "471", 
+            "Others"
+        ], 
+        [
+            "Fortis Hospital", 
+            "573", 
+            "Others"
+        ], 
+        [
+            "UPA government", 
+            "688", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "846", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "887", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "949", 
+            "Others"
+        ]
+    ]
+}

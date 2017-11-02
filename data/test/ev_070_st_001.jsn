@@ -1,0 +1,404 @@
+{
+    "LOC": [
+        [
+            "Andhra Pradesh", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "HYDERABAD", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Koti", 
+            "49", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "76", 
+            "Neutral"
+        ], 
+        [
+            "Lumbini Park", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "Gokul Chat", 
+            "156", 
+            "Event"
+        ], 
+        [
+            "Koti", 
+            "165", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "169", 
+            "Event"
+        ], 
+        [
+            "Dubai", 
+            "182", 
+            "Neutral"
+        ], 
+        [
+            "Sangamera", 
+            "211", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "214", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "221", 
+            "Event"
+        ], 
+        [
+            "Lumbini park", 
+            "231", 
+            "Event"
+        ], 
+        [
+            "Koti", 
+            "272", 
+            "Event"
+        ], 
+        [
+            "Gokul Chat", 
+            "289", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "483", 
+            "Assoc_Event"
+        ], 
+        [
+            "Charminar", 
+            "486", 
+            "Assoc_Event"
+        ], 
+        [
+            "New Delhi", 
+            "540", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "650", 
+            "Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "677", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "714", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan", 
+            "533", 
+            "Others"
+        ], 
+        [
+            "Sonia", 
+            "535", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "550", 
+            "Others"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "557", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "562", 
+            "Others"
+        ], 
+        [
+            "Somnath Chatterjee", 
+            "568", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "579", 
+            "Comment"
+        ], 
+        [
+            "Patil", 
+            "591", 
+            "Comment"
+        ], 
+        [
+            "Chatterjee", 
+            "610", 
+            "Comment"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "639", 
+            "Comment"
+        ], 
+        [
+            "Gupta", 
+            "673", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "minutes : 27", 
+        "night : 81", 
+        "night : 126", 
+        "hours : 171", 
+        "minutes : 322", 
+        "7.46 p.m.:432", 
+        "three months : 469"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:67", 
+        "May 18:507", 
+        "Saturday:513", 
+        "May 18:718"
+    ], 
+    "death": "34", 
+    "title": "34 killed as two blasts rock Hyderabad", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI"
+    ], 
+    "content": "City Bureau . . Weekend crowds targeted ; tension mounts in the Andhra Pradesh capital ; HuJI hand suspected . . HYDERABAD : Two explosions within minutes , one at an amusement park in front of the State Secretariat and another at a popular eatery in the busy Koti area , left at least 34 people dead and more than 50 injured in the city on Saturday . Another unexploded bomb was found in the Dilsukhnagar locality late in the night . . . Tension escalated in the capital , as the injured were rushed to hospitals in ambulances , city buses and cars . The 10,000-strong city police were ordered out on the streets to check any violent backlash . Till late in the night , no untoward incidents were reported . . . Explosions rocked Lumbini Park , abutting the Hussainsagar lake and in front of the Secretariat main gate , and at Gokul Chat , a popular eatery in the busy Koti area in central Hyderabad , hours after the city police arrested four persons , including a Dubai national , and seized counterfeit currency of Rs 2.36 crore in the old city . . . A group of 45 students from the Amritavahini engineering college in Sangamera town , Maharashtra , on a sight-seeing trip to Hyderabad , took the brunt of the massive explosion at Lumbini park . Seven persons died and 11 were injured . The injured were shifted to the nearby Mediciti and Yashoda hospitals . The scene at the site was gruesome , with lumps of flesh strewn around . . . At Koti , one of the busiest junctions of the capital , there was a large gathering at Gokul Chat when the blast took place . The casualities here were more 27 dead and scores injured as the blast took place inside the building . Dazed passersby rushed into the building minutes after the blast and dragged the injured out . With no ambulances available , they stopped a city bus and loaded all the injured into it and rushed them to the Osmania General Hospital . I rushed inside . There was lot of smoke and could see many injured people a visibly shocked man recalled . . . Though no terrorist group has claimed responsibility for the blasts , suspicion centered on the Harkat-ul Jehadi Islami -LRB- HuJI -RRB- . Forensic experts who visited the site said the slurry explosive with metal balls was packed in containers and detonated with a timer . Both the blasts took place around 7.46 p.m. Chief Minister Y.S. Rajasekhara Reddy , who rushed to the blasts sites , said it was a terrorist act and declared his governments resolve to bring those responsible to justice . . . Just about three months ago , a powerful explosion ripped through a massive congregation at the Mecca Masjid near Charminar , killing nine persons . In the violence that followed , five persons were killed in police firing . The May 18 blasts as well as Saturday explosions did not lead to a communal conflagration , as the perpertrators would have hoped for . . . Manmohan , Sonia condemn blasts . . New Delhi Special Correspondent reports : . . Prime Minister Manmohan Singh , United Progressive Alliance chairperson Sonia Gandhi , Home Minister Shivraj Patil and Lok Sabha Speaker Somnath Chatterjee have condemned the Hyderabad blasts . . . Dr. Singh expressed deep concern over the welfare of those affected . Mr. Patil said all-out efforts would be made to bring the perpetrators of the ghastly crime to justice . Mr. Chatterjee expressed deep sorrow over the loss of lives of innocent people . All leaders offered condolences to the families of those killed . . . Union Home Secretary Madhukar Gupta said the Ministry was closely monitoring the situation in Hyderabad in the wake of the blasts . All assistance would be provided to the State government to tackle the situation . Mr. Gupta spoke to the Andhra Pradesh Chief Secretary and said that all aspects of the blasts were being probed . . . Intelligence sources believe the blasts could be the handiwork of terrorist groups ; the needle of suspicion in the Mecca Masjid blast on May 18 pointed to the involvement of cadres of the Harkat-ul-Jehad-i-Islami and sleeper cells of the Jaish-e-Mohammed outfit . The timing , venue and high intensity of the blasts indicated that a powerful explosive could have been used .", 
+    "injured": "50", 
+    "org_unorg": "", 
+    "O": [
+        "Weekend:5", 
+        "crowds targeted:6", 
+        "tension:9", 
+        "mounts:10", 
+        "suspected:19", 
+        "Two explosions:24", 
+        "amusement park:32", 
+        "State Secretariat:38", 
+        "eatery:45", 
+        "busy Koti area:48", 
+        "dead:57", 
+        "injured:62", 
+        "city:65", 
+        "unexploded bomb:70", 
+        "Tension:85", 
+        "escalated:86", 
+        "capital:89", 
+        "injured:93", 
+        "rushed:95", 
+        "hospitals:97", 
+        "ambulances:99", 
+        "city buses:101", 
+        "cars:104", 
+        "10,000-strong city police:107", 
+        "streets:115", 
+        "violent backlash:119", 
+        "untoward incidents:129", 
+        "Explosions:136", 
+        "rocked:137", 
+        "abutting:141", 
+        "Hussainsagar lake:143", 
+        "Secretariat main gate:150", 
+        "popular eatery:160", 
+        "busy Koti area:164", 
+        "arrested:176", 
+        "four persons:177", 
+        "Dubai national:182", 
+        "seized counterfeit:186", 
+        "currency:188", 
+        "Rs 2.36 crore:190", 
+        "old city:195", 
+        "45 students:203", 
+        "sight-seeing:218", 
+        "trip:219", 
+        "brunt:225", 
+        "massive explosion:228", 
+        "Seven persons died:234", 
+        "11 were injured:238", 
+        "injured:243", 
+        "shifted:245", 
+        "scene:255", 
+        "site:258", 
+        "gruesome:260", 
+        "lumps:263", 
+        "flesh strewn:265", 
+        "busiest junctions:277", 
+        "capital:281", 
+        "gathering:287", 
+        "blast:293", 
+        "casualities:298", 
+        "27 dead:302", 
+        "scores:305", 
+        "injured:306", 
+        "blast:309", 
+        "building:314", 
+        "Dazed passersby:316", 
+        "blast:325", 
+        "dragged:327", 
+        "injured out:329", 
+        "no ambulances:333", 
+        "city bus:340", 
+        "loaded:343", 
+        "injured:346", 
+        "lot of smoke:364", 
+        "injured:371", 
+        "no terrorist group:382", 
+        "blasts:390", 
+        "suspicion:392", 
+        "Forensic experts:403", 
+        "site:408", 
+        "governments resolve:456", 
+        "justice:463", 
+        "powerful explosion:474", 
+        "ripped:476", 
+        "massive congregation:479", 
+        "killing nine persons:488", 
+        "violence:494", 
+        "five persons:498", 
+        "killed:501", 
+        "firing:504", 
+        "blasts:509", 
+        "explosions:514", 
+        "communal conflagration:520", 
+        "perpertrators:525", 
+        "blasts:537", 
+        "Lok Sabha:565", 
+        "condemned:571", 
+        "Hyderabad blasts:573", 
+        "expressed:580", 
+        "deep concern:581", 
+        "welfare:585", 
+        "affected:588", 
+        "efforts:594", 
+        "perpetrators:601", 
+        "ghastly crime:604", 
+        "justice:607", 
+        "expressed:611", 
+        "deep sorrow:612", 
+        "loss of lives:616", 
+        "innocent people:620", 
+        "leaders:624", 
+        "condolences:626", 
+        "killed:632", 
+        "monitoring:646", 
+        "situation:648", 
+        "blasts:656", 
+        "assistance:659", 
+        "tackle:668", 
+        "situation:670", 
+        "aspects:685", 
+        "blasts:688", 
+        "probed:691", 
+        "Intelligence sources:695", 
+        "blasts:699", 
+        "handiwork:703", 
+        "terrorist groups:705", 
+        "suspicion:711", 
+        "cadres:725", 
+        "sleeper cells:730", 
+        "outfit:735", 
+        "timing:738", 
+        "venue:740", 
+        "high intensity:742", 
+        "blasts:746", 
+        "powerful explosive:750"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/34-killed-as-two-blasts-rock-hyderabad/article1899251.ece", 
+    "date": "25-08-2007", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "HuJI", 
+            "17", 
+            "Accused"
+        ], 
+        [
+            "Amritavahini engineering college", 
+            "207", 
+            "Others"
+        ], 
+        [
+            "Mediciti", 
+            "249", 
+            "Others"
+        ], 
+        [
+            "Yashoda hospitals", 
+            "251", 
+            "Others"
+        ], 
+        [
+            "Osmania General Hospital", 
+            "354", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul Jehadi Islami", 
+            "396", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "400", 
+            "Accused"
+        ], 
+        [
+            "New Delhi Special Correspondent", 
+            "540", 
+            "Others"
+        ], 
+        [
+            "State government", 
+            "665", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jehad-i-Islami", 
+            "728", 
+            "Accused"
+        ], 
+        [
+            "Jaish-e-Mohammed", 
+            "734", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "LOC": [
+        [
+            "DIBRUGARH",
+            "1", 
+            "Source"
+        ], 
+        [
+            "upper Assam", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Amolapatty", 
+            "52", 
+            "Victim"
+        ], 
+        [
+            "Assam", 
+            "86", 
+            "Victim"
+        ], 
+        [
+            "upper Assam", 
+            "196", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "197", 
+            "Neutral"
+        ], 
+        [
+            "Molandubi Market",
+            "259", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar district",
+            "262", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rana Bhuyan", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "Purnima Rojok", 
+            "69", 
+            "Victim"
+        ], 
+        [
+            "Bhuyan", 
+            "145", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "5pm : 43"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:29", 
+        "December:244", 
+        "December 15:244"
+    ], 
+    "death": "1", 
+    "title": "One dead, 17 injured in bomb blast in Dibrugarh", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dibrugarh", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "DIBRUGARH : Suspected militants detonated a bomb killing a teenage girl and injuring 17 people , including a woman , in upper Assam 's tea town Dibrugarh on Tuesday . The explosive , probably a crude bomb , went off at around 5pm behind the old railway station in the busy Amolapatty area below an electric pole , district superintendent of police Rana Bhuyan told PTI . 14-year-old Purnima Rojok , who had been injured in the blast , succumbed to her wounds at the Assam Medical College Hospital . Seventeen others injured , some of them critically , have also been admitted to the hospital . Preliminary investigations pointed to a crude bomb and not a grenade as no splinters were found at the site of the blast and also there was no trace of an improvised explosive device -LRB- IED -RRB- , Bhuyan said . The explosion created a two-feet wide crater on the road , the sources said . The identity of the insurgent outfit responsible for the blast was not immediately known , the SP said . Both ULFA -LRB- Independent -RRB- and Maoist elements are known to be active in upper Assam . Local people had reported to the police that two extremists had come on a motorcycle and hurled a grenade before fleeing . Senior police officials went to the site , cordoned off the area , and tightened security arrangements in the town . Earlier on December 15 , a grenade was exploded by suspected anti-talk NDFB -LRB- Songbijit -RRB- at Molandubi Market in Kokrajhar district killing one person and injuring four others .", 
+    "injured": "18", 
+    "org_unorg": "", 
+    "O": [
+        "tea town:25", 
+        "district superintendent:59", 
+        "pti:66", 
+        "grenade:118", 
+        "ied:142", 
+        "crater:154", 
+        "sp:179", 
+        "ulfa:183", 
+        "grenade:217", 
+        "grenade:248", 
+        "ndfb:254", 
+        "songbijit:256"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/One-dead-17-injured-in-bomb-blast-in-Dibrugarh/articleshow/27545709.cms", 
+    "date": "16-12-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "TWO WHEELER", 
+    "delivery_met": "THROWN", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "Assam Medical College Hospital", 
+            "86", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "183", 
+            "Accused"
+        ]
+    ]
+}

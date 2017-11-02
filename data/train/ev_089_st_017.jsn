@@ -1,0 +1,39 @@
+{
+    "LOC": [], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Hyderabad blasts: toll goes up to 17", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": ".", 
+    "injured": "", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "none:1"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.business-standard.com/article/current-affairs/hyderabad-blasts-toll-goes-up-to-17-113022200155_1.html", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

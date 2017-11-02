@@ -1,0 +1,102 @@
+{
+    "LOC": [
+        [
+            "Mallya Hospital", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "412", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "H. Siddaiah", 
+            "324", 
+            "Others"
+        ], 
+        [
+            "BAGESHREE", 
+            "482", 
+            "Others"
+        ], 
+        [
+            "AFSHAN YASMEEN", 
+            "487", 
+            "Others"
+        ], 
+        [
+            "YOGARAJ S. MOUDALGI", 
+            "490", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 25:20", 
+        "Saturday:245"
+    ], 
+    "death": "", 
+    "title": "Looking for clues", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "BENGALURU", 
+        "", 
+        "near Mallya Hospital"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Reporters who rushed to the blast site in front of Mallya Hospital on the day of serial blasts on July 25 were in for a surprise . There were , thankfully , no deaths and injuries and the place where the blast had occurred looked like a place would after bursting an ane pataki . . . The police , however , were still a harassed lot . With everyone stopping to take a peek at the blast site inside the traffic island , there were vehicles parked all around and there was major chaos . . . One particular woman constable was finding it tough to tell presspersons from non-press persons with everyone claiming to be newspaperwallahs to get a closer look at the place . . . When this correspondent tried to find her way through the crowd , the policewoman knit her brows and said with suspicion writ large on face : But you neither have a camera nor a notepad . . . She was in the mood for looking for clues , shall we say ? It would have made more sense to ask for an identity card if she was indeed serious about finding the right clues . . . Citizens are so used to elusive government officials that they never miss an opportunity to meet the babus . . . The Bangalore Development Authority -LRB- BDA -RRB- had announced that a grievance meeting would be organised on Saturday to redress citizens problems related to site allotment and land acquisition . But following Fridays serial blasts in the city , the BDA cancelled its meet . . . Though the cancellation was publicised in the media , more than a hundred people turned up at the BDA head office with complaints , undeterred by the bombs . BDA officials , who were not prepared for the meeting , had to hastily make arrangements . The Commissioner , H. Siddaiah , and several top officials heard as many as 80 grievances . . . Water is scarce resource and every possible effort should be made to conserve and use it efficiently . The United Nations Development Programme hosted its 2nd Annual Forum of the Water Community to discuss issues concerned water , sanitation and governance . A gentleman at the programme was showing slides of where women were rushing to fill their pots from a water tanker . He said that while he was working in Delhi , water was supplied to him at Rs . 2 a kilolitre and people were paying more than 50 times the price for the same quantity of water . . . But the irony was that the 25 to 30 tables had five half-litre plastic bottles of mineral water on each table when there is a debate world over about expensive packaging of water in plastic . . . BAGESHREE S. , . . AFSHAN YASMEEN , YOGARAJ S. MOUDALGI .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:59", 
+        "policewoman:143", 
+        "Commissioner:322"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/looking-for-clues/article1313823.ece", 
+    "date": "25-07-2008", 
+    "target": "", 
+    "hot_spot": "near Mallya Hospital", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bangalore Development Authority", 
+            "229", 
+            "Others"
+        ], 
+        [
+            "BDA", 
+            "233", 
+            "Others"
+        ], 
+        [
+            "BDA", 
+            "268", 
+            "Others"
+        ], 
+        [
+            "BDA", 
+            "293", 
+            "Others"
+        ], 
+        [
+            "BDA", 
+            "304", 
+            "Others"
+        ]
+    ]
+}

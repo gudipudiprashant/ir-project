@@ -1,0 +1,125 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "United States Ambassador", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "48", 
+            "Neutral"
+        ], 
+        [
+            "U.S.", 
+            "107", 
+            "Neutral"
+        ], 
+        [
+            "U.S.", 
+            "203", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "266", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "291", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "333", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "397", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Amit Baruah", 
+            "19", 
+            "Comment"
+        ], 
+        [
+            "David Mulford", 
+            "41", 
+            "Comment"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "52", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "night : 225"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "OCT. 6 : 26", 
+        "Tuesday:150", 
+        "Tuesday:224"
+    ], 
+    "death": "", 
+    "title": "'Not usual for  an envoy to write to a chief minister'", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Front Page ` Not usual for an envoy to write to a chief minister ' . . By Amit Baruah . . NEW DELHI , OCT. 6 . A day after it was reported that the United States Ambassador , David Mulford , had written to the Assam Chief Minister , Tarun Gogoi , offering the assistance of the Federal Bureau of Investigation to probe the recent bomb blasts , External Affairs Ministry sources said today that it was ` not usual ' for an ambassador to write to a chief minister . . . Asked if the Ministry had taken up the issue with the U.S. Embassy , the sources said that it had been conveyed to the American side that all communications should be routed through the Ministry . . . The Ministry spokesman refused to go beyond what was stated in a brief statement made on Tuesday . . . Asked at a briefing whether it was ` normal ' for an Ambassador to write directly to a chief minister , he said the Ministry 's position was contained in the statement issued late last night . . . Was this a protocol violation on the part of the U.S. Ambassador , he was asked . The spokesman said the entire issue was considered and a statement was issued on Tuesday night . It said the offer would be considered ` in terms of the existing guidelines ' of the Government of India . However , there is no amplification of what the guidelines are . . . ` Let them handle Iraq first ' . . Asked to comment , sources in the security establishment were blunt . ` Let them -LSB- the Americans -RSB- handle Iraq first and then turn their attention to the North-East . ' . . ` The Americans have lost all sense of diplomatic niceties . They have , probably , got used to doing things this way with our western neighbour -LSB- Pakistan -RSB- , ' the sources said . . . If the Americans really wanted to help they could have sent one of their officers to meet one of ` our ' Joint Secretaries . Though the stated position was that the American offer would be considered ` in terms of the existing ' guidelines of the Government of India , the sources said New Delhi 's response was that of ` thanks , but no thanks . ' .", 
+    "injured": "", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "External Affairs Ministry:71", 
+        "chief minister:172", 
+        "night:189"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2004/10/07/stories/2004100709290100.htm", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Federal Bureau of Investigation", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "Government of India", 
+            "244", 
+            "Others"
+        ], 
+        [
+            "Government of India", 
+            "390", 
+            "Others"
+        ]
+    ]
+}

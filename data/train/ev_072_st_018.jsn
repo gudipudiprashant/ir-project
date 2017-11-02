@@ -1,0 +1,161 @@
+{
+    "LOC": [
+        [
+            "Ludhiana", 
+            "10", 
+            "Neutral"
+        ], 
+        [
+            "Shringar", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Ludhiana", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Samrala street", 
+            "282", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "435", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "476", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "506", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ishwar Singh", 
+            "74", 
+            "Comment"
+        ], 
+        [
+            "Ishwar Singh", 
+            "179", 
+            "Comment"
+        ], 
+        [
+            "N P Singh", 
+            "341", 
+            "Comment"
+        ], 
+        [
+            "N P Singh", 
+            "387", 
+            "Comment"
+        ], 
+        [
+            "Shivraj Patil", 
+            "535", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "8.50 pm : 41", 
+        "7pm : 60"
+    ], 
+    "hot_setting": "Eid", 
+    "DAT": [
+        "Oct 14 : 12", 
+        "Sunday evening : 44", 
+        "Sunday evening : 106"
+    ], 
+    "death": "6", 
+    "title": "6 killed, 32 injured in Ludhiana cinema hall blast", 
+    "det_loc": [
+        "India", 
+        "Punjab", 
+        "Ludhiana", 
+        "Ludhiana", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Zeenews Bureau . . Ludhiana , Oct 14 : Ludhiana , Oct 14 : A bomb blast ripped through one of the halls of the Shringar cinema hall multiplex in Ludhiana killing at least 6 and injuring 30 at around 8.50 pm on Sunday evening . The blast took place when a large number of people were watching the 7pm show of a film Janan Janam Ke Saath , DIG ( Range ) Ishwar Singh said . It was not immediately known what caused the explosion in the hall in the multiplex in Sarmala road which was teeming with hundreds of people on a festive Sunday evening . . . Reports indicate that the bomb exploded in the middle of first and second seat in the front row , near the screen . The injured have been rushed to the Christian Medical Hospital and Civil Hospital and rescue efforts are in full swing . Atleast 10 are said to be critically injured . . . ` The cause of the blast is yet to be ascertained , ' Ishwar Singh said . . . Police did not rule out the hand of terrorists in the blast but said the casualties could go up . Limbs of some of the dead were seen dismembered . . . According to an estimate , as many as 700 were watching the show on the festive occasion of Eid . Chaos and confusion prevailed after the blast as people were seen running helter and skelter searching for their loved ones . . . Fire brigades and administrative officials have reached the spot to take charge of the situation . The hall , situated on the Samrala street , was filled with smoke even as the officials took control of the situation . It is the busy market area of the city . . . Forensic experts and bomb disposal squad have also arrived at the spot . Security bandobast was in place in the wake of the recent Ajmer blast . . . DGP N P Singh said four persons died on the spot while two died in the hospital . He said one person had come inside the theatre during interval time and the needle of suspicion is on him . . . Low intensity explosives were used , N P Singh said , adding it is too early to name any terror outfit who could be behind the blast . . . Windowpanes in the multiplex were smashed while several chairs were destroyed . . . The blast comes as a shock to the people of Punjab as it has not witnessed any such incident since the dreaded terror phase . . . The govt has declared a red alert in the entire state . . . Meanwhile , the Centre has got in touch with the Punjab government seeking details about the explosion in the cinema hall here . . . Official sources in Union Home Ministry said that the Centre had spoken to officials in Punjab government , asking a complete picture of the incident . . . The Union Home Secretary , after talking to Punjab Chief Secretary , apprised the Home Minister Shivraj Patil of the situation .", 
+    "injured": "30", 
+    "org_unorg": "", 
+    "O": [
+        "bomb blast:16", 
+        "cinema hall multiplex:27", 
+        "blast:48", 
+        "janan janam ke saath:65", 
+        "explosion:86", 
+        "bomb:115", 
+        "injured:135", 
+        "rescue efforts:148", 
+        "injured:162", 
+        "blast:171", 
+        "terrorists:193", 
+        "blast:196", 
+        "eid:235", 
+        "blast:243", 
+        "fire brigades:260", 
+        "market:303", 
+        "forensic experts:311", 
+        "bomb disposal squad:314", 
+        "ajmer blast:335", 
+        "theatre:366", 
+        "low intensity explosives:381", 
+        "terror outfit:400", 
+        "blast:407", 
+        "multiplex:414", 
+        "blast:426", 
+        "dreaded terror phase:446", 
+        "explosion:482", 
+        "cinema hall:485"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "RELIGIOUS FESTIVAL", 
+    "link": "http://zeenews.india.com/news/nation/6-killed-32-injured-in-ludhiana-cinema-hall-blast_401201.html", 
+    "date": "14-10-2007", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Christian Medical Hospital", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "Civil Hospital", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "469", 
+            "Others"
+        ], 
+        [
+            "Punjab government", 
+            "476", 
+            "Others"
+        ], 
+        [
+            "Punjab government", 
+            "506", 
+            "Others"
+        ]
+    ]
+}

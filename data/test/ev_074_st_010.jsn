@@ -1,0 +1,160 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Upper Assam", 
+            "225", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "273", 
+            "Event"
+        ], 
+        [
+            "Naojan", 
+            "285", 
+            "Neutral"
+        ], 
+        [
+            "Chungajan", 
+            "287", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "289", 
+            "Event"
+        ], 
+        [
+            "Golaghat", 
+            "291", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shivraj Patil", 
+            "105", 
+            "Comment"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "185", 
+            "Comment"
+        ], 
+        [
+            "Gupta", 
+            "200", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "today : 52", 
+        "1.00 a.m.:295"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Dec 14 : 33", 
+        "Thursday morning : 275", 
+        "June 2006 : 320"
+    ], 
+    "death": "5", 
+    "title": "NSG team to arrive in Assam today", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Golaghat", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Blast Investigation Operation team of the National Security Guard ( NSG ) will arrive here today to assist in the investigation of the Rajdhani Express blast . . . Guwahati , Dec 14 : The Blast Investigation Operation team of the National Security Guard ( NSG ) will arrive here today to assist in the investigation of the Rajdhani Express blast . . . The team will look for ballistic and forensic clues at the site of the incident , a spokesperson of the Home Ministry , which is closely monitoring the situation . . . Condemning the blast , Union Home Minister Shivraj Patil has said , `` I convey my sympathies to those killed and pray for speedy recovery of those injured in the incident . '' . . `` People of our country understand the designs of terrorists and will not be cowed down by such incidents . The State Governments and Railways will take necessary steps to provide protection to passengers and see that such incidents do not recur , '' he added . . . Union Home Secretary Madhukar Gupta had also spoken to the Assam Chief Secretary . The latter has briefed Gupta about the steps taken in the wake of the blast . . . Army and security forces have intensified operations against militants in the Upper Assam districts after the blast . . . Security measures on the railway tracks have also been beefed up across the State . . . At least five persons were dead and four others injured when a bomb exploded in the 2423 A Guwahati-Delhi Rajdhani Express in Assam on Thursday morning . . . The explosion took place between Naojan and Chungajan in Assam 's Golaghat District at around 1.00 a.m. . . This is the first bomb blast on the Dibrugarh-New Delhi Rajdhani , although the train has been targeted once before in June 2006 . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .", 
+    "injured": "4", 
+    "org_unorg": "", 
+    "O": [
+        "investigation:22", 
+        "Rajdhani Express:25", 
+        "blast:27", 
+        "investigation:57", 
+        "Rajdhani Express blast:60", 
+        "ballistic:71", 
+        "forensic clues:73", 
+        "blast:100", 
+        "sympathies:114", 
+        "injured:125", 
+        "terrorists:142", 
+        "protection:164", 
+        "blast:210", 
+        "Army and security forces:214", 
+        "militants:222", 
+        "blast:230", 
+        "railway tracks:238", 
+        "bomb exploded:263", 
+        "2423 A Guwahati-Delhi Rajdhani Express:267", 
+        "explosion:281", 
+        "first bomb blast:302", 
+        "Dibrugarh-New Delhi Rajdhani:307"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.andhranews.net/India/2007/December/14-team-arrive-Assam-26044.asp", 
+    "date": "13-12-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Blast Investigation Operation team", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "12", 
+            "Others"
+        ], 
+        [
+            "Blast Investigation Operation team", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "State Governments", 
+            "154", 
+            "Others"
+        ], 
+        [
+            "Railways", 
+            "157", 
+            "Others"
+        ]
+    ]
+}

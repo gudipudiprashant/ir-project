@@ -1,0 +1,202 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "market", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "48", 
+            "Neutral"
+        ], 
+        [
+            "railway tracks", 
+            "59", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "111", 
+            "Neutral"
+        ], 
+        [
+            "market", 
+            "132", 
+            "Event"
+        ], 
+        [
+            "central Guwahati", 
+            "134", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "140", 
+            "Neutral"
+        ], 
+        [
+            "Diphu", 
+            "241", 
+            "Event"
+        ], 
+        [
+            "southern Assam", 
+            "243", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "285", 
+            "Neutral"
+        ], 
+        [
+            "Kamrup Express", 
+            "289", 
+            "Neutral"
+        ], 
+        [
+            "Diphu", 
+            "304", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "310", 
+            "Neutral"
+        ], 
+        [
+            "Bongaigon", 
+            "328", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "335", 
+            "Neutral"
+        ], 
+        [
+            "Changsari", 
+            "361", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "366", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "394", 
+            "Neutral"
+        ], 
+        [
+            "Tinsukhia", 
+            "432", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "S.N. Singh", 
+            "173", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "196", 
+            "Comment"
+        ], 
+        [
+            "T. Rabha", 
+            "255", 
+            "Others"
+        ], 
+        [
+            "Rabha", 
+            "299", 
+            "Comment"
+        ], 
+        [
+            "R.N. Mathur", 
+            "369", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "January : 207"
+    ], 
+    "death": "1", 
+    "title": "One dead and 14 wounded in rebel bombings", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Guwahati : A bomb planted by suspected separatist rebels in a crowded market killed one person and wounded 12 others yesterday in the main city of India 's remote northeast , police said . . . Rebels also set off three other bombs in the state of Assam , wounding two more people and destroying a stretch of railway tracks in a series of attacks ahead of the country 's Republic Day celebrations . . . No group has claimed responsibility for the explosions , although police suspect the United Liberation Front of Asom , or Ulfa , a rebel group fighting for a separate homeland in the state of Assam . . . Police said the bomb was placed in a tin container and left in a shop in a market in central Guwahati , the capital of Assam . . . The toll from the blast could have been worse but for an alert shopkeeper who spotted the suspicious object and tried to throw it into a drain , said S.N. Singh , the city 's police superintendent . The shopkeeper was killed . `` It went off in his hands , '' Singh said . . . Separatists have stepped up attacks in January , killing more than 70 people in a spate of shootings and bombings . . . Early yesterday , a bomb went off on a railroad track as a goods train passed near Diphu in southern Assam , damaging the track but causing no injuries , said T. Rabha , a railroad spokesman . The blast , which led to suspension of train services for nearly eight hours , occurred just before a packed passenger train from New Delhi , the Kamrup Express , was to pass through the area , Rabha said . . . Diphu is nearly 350km south of Guwahati . . . Also yesterday , an improvised explosive device went off under a road bridge in Bongaigon , a town 200km south of Guwahati , but caused no injures , police said . . . A day earlier , suspected rebels hurled a hand grenade in a market in Changsari , 40km west of Guwahati , said R.N. Mathur , the state police chief . . . The Ulfa has urged people in the state to boycott the national day celebrations . India 's Republic Day marks the adoption of the country 's constitution in 1950 . . . The Ulfa is believed to be behind the killings of more than 60 people , most of them migrant labourers in Tinsukhia district , earlier this month .", 
+    "injured": "12", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "guwagati", 
+        "market,central Guwahati "
+    ], 
+    "O": [
+        "police:32", 
+        "Republic Day celebrations:71", 
+        "hand grenade:355"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "REPULBIC DAY", 
+    "link": "http://gulfnews.com/news/asia/india/one-dead-and-14-wounded-in-rebel-bombings-1.156354", 
+    "date": "23-01-2007", 
+    "target": "", 
+    "hot_spot": "market,central Guwahati ", 
+    "delivery_mod": "TIN CONTAINE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "90", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Ulfa", 
+            "97", 
+            "Accused"
+        ], 
+        [
+            "state police", 
+            "373", 
+            "Others"
+        ], 
+        [
+            "Ulfa", 
+            "380", 
+            "Accused"
+        ], 
+        [
+            "Ulfa", 
+            "412", 
+            "Accused"
+        ]
+    ]
+}

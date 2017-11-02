@@ -1,0 +1,227 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "56", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "118", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "147", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "269", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "278", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "319", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "333", 
+            "Neutral"
+        ], 
+        [
+            "Gauhati", 
+            "338", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "349", 
+            "Neutral"
+        ], 
+        [
+            "Tamil Nadu", 
+            "356", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "424", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "460", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bhupati", 
+            "142", 
+            "Comment"
+        ], 
+        [
+            "R.K. Mishra", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "Mishra", 
+            "240", 
+            "Comment"
+        ], 
+        [
+            "G. Muthuraj", 
+            "257", 
+            "Others"
+        ], 
+        [
+            "K. Ramanujam", 
+            "353", 
+            "Others"
+        ], 
+        [
+            "Ramanujam", 
+            "404", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "410", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "444", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "minutes : 13", 
+        "weeks : 215", 
+        "day : 296", 
+        "Every day : 303"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday morning : 10"
+    ], 
+    "death": "1", 
+    "title": "1 killed, 14 hurt in Chennai train blasts", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Twin blasts ripped through two coaches of a train Thursday morning just minutes after it pulled into one Chennai Central , one of India 's busiest railway stations , killing a 22-year-old woman and injuring 14 other people , officials said . . . Police said they were questioning one suspect in the explosions at Chennai railway station in the country 's southeast , but there were no further details . . . Prime Minister Manmohan Singh condemned the attacks , saying ` such barbaric acts targeting innocent men , women and children only highlight the desperation and cowardice of those responsible . ' . . There was no immediate claim of responsibility in a region of India considered relatively peaceful . . . Authorities suspect the blasts were caused by bombs planted on the Bangalore-Guwahati Express train , said M. Bhupati , the spokesman for India 's southern railway system . . . ` The police are already on the job , they are investigating what kind of bomb it was and what was the purpose , ' R.K. Mishra , the general manager of Southern Railway , told reporters . . . The blasts come amid heightened security nationwide for the general elections , which are being held in phases over several weeks . . . At least one of the blasts erupted from underneath a seat where the 22-year-old victim was sitting , killing her , Mishra said . Fourteen people were hospitalized , but none of the injuries was serious , said G. Muthuraj , a spokesman for the Rajiv Gandhi General hospital in Chennai . . . Largest rail networks . . India has one of the world 's largest railway networks , with more than 23 million passengers a day riding on about 11,000 trains . Every day , hundreds of thousands of commuters and long-distance passengers use the railway station in Chennai , one the country 's busiest . . . The train originated in Bangalore and was headed to Gauhati , the main city in the remote northeastern state of Assam . . . K. Ramanujam , Tamil Nadu 's director-general of police , said a special investigation team comprising forensic experts and police would investigate the blasts . ` It is premature to speculate what kind of device was used in the blast . The damage to the train is not heavy , ' Ramanujam said . . . PM Manmohan Singh has condemned the attacks Police say they were questioning one suspect at Chennai railway station , but there were no further details There was no immediate claim of responsibility . . PM Manmohan Singh has condemned the attacks . . Police say they were questioning one suspect at Chennai railway station , but there were no further details . . There was no immediate claim of responsibility .", 
+    "injured": "14", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Chennai", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Twin blasts:1", 
+        "two coaches:5", 
+        "train:9", 
+        "Chennai Central:19", 
+        "busiest railway stations:26", 
+        "22-year-old woman:32", 
+        "questioning:49", 
+        "one suspect:50", 
+        "explosions:54", 
+        "Chennai railway station:56", 
+        "country 's southeast:61", 
+        "Manmohan Singh:76", 
+        "condemned:78", 
+        "attacks:80", 
+        "barbaric acts:85", 
+        "innocent:88", 
+        "highlight:95", 
+        "desperation:97", 
+        "cowardice:99", 
+        "immediate claim:110", 
+        "peaceful:121", 
+        "Authorities:125", 
+        "suspect:126", 
+        "blasts:128", 
+        "bombs:132", 
+        "planted:133", 
+        "Bangalore-Guwahati Express train:136", 
+        "India 's southern railway system:147", 
+        "investigating:166", 
+        "bomb:170", 
+        "purpose:177", 
+        "Southern Railway:187", 
+        "blasts:196", 
+        "heightened security:199", 
+        "general elections:204", 
+        "blasts:224", 
+        "22-year-old:232", 
+        "victim:233", 
+        "Fourteen people:243", 
+        "hospitalized:246", 
+        "injuries:252", 
+        "rail networks:274", 
+        "world 's largest railway networks:283", 
+        "23 million passengers:292", 
+        "11,000 trains:300", 
+        "commuters:310", 
+        "passengers:313", 
+        "railway station:316", 
+        "country 's busiest:323", 
+        "train:330", 
+        "remote northeastern state:345", 
+        "investigation:366", 
+        "comprising forensic experts:368", 
+        "investigate:374", 
+        "blasts:376", 
+        "premature:381", 
+        "speculate:383", 
+        "blast:392", 
+        "damage:395", 
+        "condemned:413", 
+        "attacks:415", 
+        "questioning:420", 
+        "suspect:422", 
+        "Chennai railway station:424", 
+        "attacks:449", 
+        "questioning:456", 
+        "suspect:458", 
+        "Chennai railway station:460", 
+        "immediate claim:475"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/1-killed-14-hurt-in-chennai-train-blasts/article5967107.ece", 
+    "date": "01-05-2014", 
+    "target": "RAILWAY STATION", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Rajiv Gandhi General hospital", 
+            "264", 
+            "Others"
+        ]
+    ]
+}

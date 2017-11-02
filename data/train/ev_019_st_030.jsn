@@ -1,0 +1,258 @@
+{
+    "LOC": [
+        [
+            "West Bengal", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "43", 
+            "Event"
+        ], 
+        [
+            "Khagragarh", 
+            "72", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "191", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "293", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "362", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "389", 
+            "Neutral"
+        ], 
+        [
+            "Bengal", 
+            "443", 
+            "Neutral"
+        ], 
+        [
+            "Bengal", 
+            "456", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ayman Al Zawahri", 
+            "89", 
+            "Accused"
+        ], 
+        [
+            "Rejara Biwi", 
+            "207", 
+            "Accused"
+        ], 
+        [
+            "Amina Biwi", 
+            "210", 
+            "Accused"
+        ], 
+        [
+            "Rejara Biwi", 
+            "213", 
+            "Accused"
+        ], 
+        [
+            "Shakil Ahmed", 
+            "217", 
+            "Others"
+        ], 
+        [
+            "Amina Biwi", 
+            "230", 
+            "Accused"
+        ], 
+        [
+            "Abdul Hasan", 
+            "234", 
+            "Victim"
+        ], 
+        [
+            "Shobhan Mondal", 
+            "250", 
+            "Victim"
+        ], 
+        [
+            "Hasan Chowdhury", 
+            "259", 
+            "Comment"
+        ], 
+        [
+            "Tarun Halder", 
+            "295", 
+            "Others"
+        ], 
+        [
+            "Mamata Banerjee", 
+            "326", 
+            "Others"
+        ], 
+        [
+            "Siddharth Nath Singh", 
+            "357", 
+            "Others"
+        ], 
+        [
+            "Mamata Banerjee", 
+            "392", 
+            "Others"
+        ], 
+        [
+            "Mukul Roy", 
+            "421", 
+            "Comment"
+        ], 
+        [
+            "Mamata Banerjee", 
+            "447", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2:29"
+    ], 
+    "death": "", 
+    "title": "Burdwan Blasts: Two Women Arrested, Bengal Becoming Terror Haven, says BJP", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "IEDs , detonators and printed material referring to Al Qaeda was found at the blast site.Kolkata : Two women were arrested today in connection with a blast on October 2 that killed two suspected terrorists at a house in West Bengal 's Burdwan district . Improvised explosive devices and the material to make them - watch dials and detonators - and SIM cards were recovered from the house , located in Khagragarh area . Some printed material was also found , which had references to Al Qaeda chief Ayman Al Zawahri , Indian Mujahideen and even the Chechen rebels.Police suspect the group was involved with a terrorist outfit and they were using the rented house as a shelter.The National Investigation Agency and the Intelligence Bureau are already probing the possible involvement of terror groups like Lashkar-e-Taiba and Harkat-ul-Jihad-al-Islami . The Special Task Force , the Anti-Terrorism Squad and the Criminal Investigation Department are involved in the probe as well . The agencies have been on their toes following a recent Al Qaeda announcement regarding the setting-up of a module in the Indian subcontinent . -LRB- Read : Al Qaeda 's India Branch and the Man Who Will Head it -RRB- The arrested women were identified as Rejara Biwi and Amina Biwi . Rejara Biwi 's husband Shakil Ahmed was one of the men who died in the blast . Amina Biwi 's husband Abdul Hasan was injured . The second person killed in the blast has been identified as Shobhan Mondal . The owner of the house , Hasan Chowdhury , is being questioned . `` Following their interrogation , we have found sufficient evidence to suggest that they are a part of the conspiracy , '' Assistant Superintendent of Police -LRB- Burdwan -RRB- Tarun Halder told the news agency Indo-Asian Abroad News Service . The suspected militants had rented the house a few months ago , the police said.The opposition BJP has accused the Mamata Banerjee government of turning the state into a terrorist haven . Alleging that a Trinamool Congress office was located on the ground floor of the house , state BJP leader Siddharth Nath Singh accused the Burdwan police of destroying evidence in the case . `` Why was the National Investigation Agency informed almost a day late ? We can safely conclude that West Bengal under Mamata Banerjee 's rule has become a safe haven for anti-national elements and jihadi activists , '' he said.Addressing a press conference in the evening , TMC general secretary Mukul Roy said the BJP and the CPI -LRB- M -RRB- were merely trying to `` disturb the peace and harmony in Bengal '' . `` Mamata Banerjee has never allowed any communal tension in Bengal . Till her last breath , she never will , '' he said . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Burdwan"
+    ], 
+    "O": [
+        "Indian subcontinent:182", 
+        "Assistant Superintendent of Police:288", 
+        "Indo-Asian Abroad News Service:301", 
+        "police:319", 
+        "jihadi activists:405"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/burdwan-blasts-two-women-arrested-bengal-becoming-terror-haven-says-bjp-675159", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "Burdwan", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Al Qaeda", 
+            "9", 
+            "Accused"
+        ], 
+        [
+            "Al Qaeda", 
+            "86", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "93", 
+            "Accused"
+        ], 
+        [
+            "National Investigation Agency", 
+            "119", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "136", 
+            "Accused"
+        ], 
+        [
+            "Harkat-ul-Jihad-al-Islami", 
+            "138", 
+            "Accused"
+        ], 
+        [
+            "Special Task Force", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "146", 
+            "Others"
+        ], 
+        [
+            "Criminal Investigation Department", 
+            "150", 
+            "Others"
+        ], 
+        [
+            "Al Qaeda", 
+            "171", 
+            "Accused"
+        ], 
+        [
+            "Al Qaeda", 
+            "188", 
+            "Accused"
+        ], 
+        [
+            "BJP", 
+            "322", 
+            "Others"
+        ], 
+        [
+            "Trinamool Congress", 
+            "341", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "355", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "375", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "425", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "428", 
+            "Others"
+        ]
+    ]
+}

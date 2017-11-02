@@ -1,0 +1,140 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "13", 
+            "Source"
+        ], 
+        [
+            "Bodh Gaya", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Meerut", 
+            "64", 
+            "Source"
+        ], 
+        [
+            "Bihar", 
+            "90", 
+            "Assoc_Event"
+        ], 
+        [
+            "Meerut", 
+            "99", 
+            "Source"
+        ], 
+        [
+            "Assam", 
+            "131", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "138", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "186", 
+            "Event"
+        ], 
+        [
+            "Sri Lanka", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "Myanmar", 
+            "234", 
+            "Neutral"
+        ], 
+        [
+            "China", 
+            "236", 
+            "Neutral"
+        ], 
+        [
+            "Japan", 
+            "238", 
+            "Neutral"
+        ], 
+        [
+            "south east Asia", 
+            "243", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Lord Buddha", 
+            "204", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "July:183"
+    ], 
+    "death": "0", 
+    "title": "Bodh Gaya blasts: Guwahati shop under NIA scanner", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "Bodh gaya", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : The NIA has zeroed in on the shop in Guwahati that sold exactly 13 ` Lotus ' brand clocks to a man ahead of Bodh Gaya blasts - same as the number of bombs planted in temple complex . Each of these clocks was used as a timer in the bombs . The investigators have also traced the cylinders to Meerut , and believe that the ` poor quality ' cylinders were manufactured by an unregistered facility there . However , they were possibly bought in Bihar itself , where they are transported by the Meerut plant for sales . The NIA investigators have confirmed from the Rajkot-based manufacturer of ` Lotus ' brand clocks that it had recently sent a sales consignment of 300 clocks to Assam . Interestingly , a shopkeeper in Guwahati also revealed that a man had bought 13 of these clocks in a single transaction . The investigators are now trying to establish the identity of this buyer . Two monks were injured in ten blasts that took place early in the morning of July 7 in Bodh Gaya . Three unexploded bombs were found . The temple and the Bodhi Tree , under which Lord Buddha is believed to have attained enlightenment , did not suffer any damage in the blasts which shook the holy town frequented by Buddhist pilgrims from Sri Lanka , Myanmar , China , Japan and the whole of south east Asia .", 
+    "injured": "2", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "new delhi:1", 
+        "NEW DELHI:1", 
+        "lotus:19", 
+        "brand:21", 
+        "number:35", 
+        "temple complex:40", 
+        "timer:51", 
+        "cylinders:74", 
+        "facility:80", 
+        "Rajkot-based:111", 
+        "Lotus ' brand:115", 
+        "consignment:126", 
+        "temple:196", 
+        "bodhi tree:199", 
+        "lord buddha:204", 
+        "enlightenment:211", 
+        "buddhist pilgrims:228"
+    ], 
+    "unexpl": [
+        "CLOCK"
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Bodh-Gaya-blasts-Guwahati-shop-under-NIA-scanner/articleshow/21345122.cms?referral=PM", 
+    "date": "07-07-2013", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "LPG CYLINDER"
+    ], 
+    "ORG": [
+        [
+            "NIA", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "105", 
+            "Others"
+        ]
+    ]
+}

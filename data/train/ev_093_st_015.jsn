@@ -1,0 +1,273 @@
+{
+    "LOC": [
+        [
+            "Bodh Gaya temple", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi Temple", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Magadh", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Barachatti", 
+            "93", 
+            "Neutral"
+        ], 
+        [
+            "Gaya", 
+            "96", 
+            "Event"
+        ], 
+        [
+            "Bodhgaya", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "182", 
+            "Neutral"
+        ], 
+        [
+            "Scotland", 
+            "196", 
+            "Accused"
+        ], 
+        [
+            "Saudi Arabia", 
+            "201", 
+            "Accused"
+        ], 
+        [
+            "India", 
+            "207", 
+            "Accused"
+        ], 
+        [
+            "Saifur", 
+            "212", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "230", 
+            "Event"
+        ], 
+        [
+            "Bodhgaya", 
+            "236", 
+            "Neutral"
+        ], 
+        [
+            "Gaya", 
+            "276", 
+            "Event"
+        ], 
+        [
+            "Bodhgaya", 
+            "291", 
+            "Event"
+        ], 
+        [
+            "Bodhgaya.And", 
+            "381", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "394", 
+            "Event"
+        ], 
+        [
+            "Myanmar", 
+            "410", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nayyer Hasnain Khan", 
+            "58", 
+            "Comment"
+        ], 
+        [
+            "Khan", 
+            "84", 
+            "Comment"
+        ], 
+        [
+            "Sahidur Rehman", 
+            "153", 
+            "Accused"
+        ], 
+        [
+            "Saifur Rehman", 
+            "156", 
+            "Accused"
+        ], 
+        [
+            "Sahidur", 
+            "186", 
+            "Accused"
+        ], 
+        [
+            "Saifur Rehman", 
+            "188", 
+            "Accused"
+        ], 
+        [
+            "Sahidur", 
+            "204", 
+            "Accused"
+        ], 
+        [
+            "Anwar Hussain Mullick", 
+            "252", 
+            "Accused"
+        ], 
+        [
+            "Al Qaeda angle", 
+            "311", 
+            "Accused"
+        ], 
+        [
+            "Jamatal Tahawid Jihad", 
+            "321", 
+            "Accused"
+        ], 
+        [
+            "Al Qaeda", 
+            "335", 
+            "Accused"
+        ], 
+        [
+            "Sayeed Maqbool", 
+            "369", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:5", 
+        "Sunday:18", 
+        "Monday:34", 
+        "Sunday:72", 
+        "6th May:209", 
+        "Sunday:240", 
+        "Sunday:422"
+    ], 
+    "death": "", 
+    "title": "Bodhgaya blasts: Police release CCTV footage, terror suspect detained", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "The Bihar Police on Monday released the CCTV footage of serial blasts at Bodh Gaya temple on Sunday . No group has so far accepted responsibility for the attacks.One person was detained on Monday by the NIA in connection with the serial blasts at the Mahabodhi Temple in which two monks were injured.DIG , Magadh Range , Nayyer Hasnain Khan said an identity card was found within the temple premises on Sunday on the basis of which the person was detained.The NIA , Khan said , was interrogating him.One suspect hailing from Barachatti block in Gaya has been detained and we are questioning him . We have been analysing the footage and based on that some more people would be questioned soon , a senior police official said . The Bihar police also released sketches of two suspects in teh serial terror blasts at Bodhgaya . The suspects have been identified as Sahidur Rehman and Saifur Rehman , both M operatives . Headlines Today has learnt that the IB was on the lookout for the two , who allegedly slipped into Bihar last month . Sahidur and Saifur Rehman are brothers . One lives in Scotland and the other in Saudi Arabia . Sahidur arrived in India on 6th May while Saifur came a month later . According to IB reports , the two were initially plotting to attack Patna but shifted the target to Bodhgaya later . On Sunday , the Kolkata Police had arrested suspected Indian Mujahideen member , Anwar Hussain Mullick after he was found carrying Rs 1.9 lakh fake currency . The National Security Guard ( NSG ) team has reached Gaya to investigate the blasts . No outfit has taken responsibility for the attacks at Bodhgaya yet . But Headlines Today has learnt that investigators are focusing on primarily 3 theories.First is the , the Al Qaeda angle . A little known Burmese Outfit named Jamatal Tahawid Jihad is suspected to have carried out blasts with the help of Al Qaeda operatives.The home ministry though has ruled out this possiblity for now.Second theory points towards the Indian Mujahideen . Delhi police had given a tip off to Bihar police after one IM operative Sayeed Maqbool confessed to the plot of carrying out serial blasts at Bodhgaya.And finally , there is the revenge attack angle . Serial balsts in Bodh Gaya could have been a reaction to the persecution of Muslim minorities in Buddhist majority Myanmar . Experts also believe that Buddhists were the main target of Sunday 's attacks . - with PTI inputs .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "Gaya", 
+        " Bodh Gaya temple"
+    ], 
+    "O": [
+        "cctv:8", 
+        "police:126", 
+        "home ministry:338", 
+        "buddhist majority:408"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/bodhgaya-blasts-cops-release-cctv-footage-terror-suspect-detained/1/287416.html", 
+    "date": "07-07-2013", 
+    "target": "TEMPLE", 
+    "hot_spot": " Bodh Gaya temple", 
+    "delivery_mod": "TEMPLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bihar Police", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "82", 
+            "Others"
+        ], 
+        [
+            "Bihar police", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "220", 
+            "Others"
+        ], 
+        [
+            "Kolkata Police", 
+            "243", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "248", 
+            "Accused"
+        ], 
+        [
+            "National Security Guard", 
+            "267", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "271", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "352", 
+            "Accused"
+        ], 
+        [
+            "Delhi police", 
+            "355", 
+            "Others"
+        ], 
+        [
+            "Bihar police", 
+            "363", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "367", 
+            "Accused"
+        ], 
+        [
+            "PTI", 
+            "428", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "LOC": [
+        [
+            "Jaipur", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "markets", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "pink palace", 
+            "49", 
+            "Event"
+        ], 
+        [
+            "Hawa Mahal", 
+            "53", 
+            "Event"
+        ], 
+        [
+            "temple complex", 
+            "59", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "102", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "104", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "airports", 
+            "124", 
+            "Neutral"
+        ], 
+        [
+            "railway stations", 
+            "126", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "133", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "154", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "244", 
+            "Neutral"
+        ], 
+        [
+            "Hindu monkey god Hanuman", 
+            "344", 
+            "Event"
+        ], 
+        [
+            "Johari bazaar", 
+            "381", 
+            "Event"
+        ], 
+        [
+            "Muslim jewellery shop", 
+            "391", 
+            "Event"
+        ], 
+        [
+            "Johari bazaar", 
+            "428", 
+            "Event"
+        ], 
+        [
+            "jewellery market", 
+            "434", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "464", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "484", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sriprakash Jaiswal", 
+            "139", 
+            "Comment"
+        ], 
+        [
+            "Rohit Singh", 
+            "144", 
+            "Comment"
+        ], 
+        [
+            "Akilesh Kumar", 
+            "220", 
+            "Comment"
+        ], 
+        [
+            "AS Gill", 
+            "249", 
+            "Others"
+        ], 
+        [
+            "Lalit Khateri", 
+            "397", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "7.30 pm : 38"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 354"
+    ], 
+    "death": "12", 
+    "title": "Series of six bomb blasts kills dozens in centre of Jaipur", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Dozens of people were killed and more than 100 injured when six bombs ripped through the centre of Jaipur , one of India 's most popular tourist destinations . . . The explosions , which began at 7.30 pm , took place in markets surrounding the city 's pink palace , the Hawa Mahal , and its main temple complex . . . Television pictures showed empty blood-splattered streets and the red-stained clothes of the dead being cleared away by police . Bomb disposal officers defused at least one other device . . . The attack sparked a red alert in Mumbai , India 's financial hub , and New Delhi , the country 's capital . Security was also stepped up at airports and railway stations across the country , said India 's junior home minister , Sriprakash Jaiswal . . . Rohit Singh , a senior official in the state of Rajasthan , told local television that between 50 and 60 people had been killed in six blasts `` as per information available with me right now '' . However , local reporters told television stations that there were 55 bodies in just one hospital . . . `` It will definitely rise . There 's just too many in [ one hospital ) , '' said Akilesh Kumar , Jaipur bureau chief with the Times of India . . . Although no one has claimed responsibility for the act , Rajasthan 's police chief , AS Gill , described the strike as `` a terrorist plot '' , adding : `` The way it has been done , the attempt was to cause the maximum damage to human life . '' . . Police say bicycles appear to have been used in the bombings , but it was unclear whether it was the work of suicide bombers riding through the crowds or of explosives planted on bicycles . . . It is clear that the bombers planned a bloody attack . The first bomb struck a temple dedicated to the Hindu monkey god Hanuman , whose divinity is celebrated every Tuesday . Eyewitnesses said the temple was packed with devotees offering prayers on their way home from work . . . `` The next bomb was near Johari bazaar and looked like it was placed near a Muslim jewellery shop , '' eyewitness Lalit Khateri told NDTV news . `` It was very busy with Hindus and Muslims . It was an attack not on Hindus or Muslims but Indians . '' . . Johari bazaar is the city 's jewellery market and a popular destination for tourists . However the tourist season ended in March and it is unlikely that foreigners were hit in the blast . . . India has had a long history of bomb attacks . Last year two explosions killed more than 40 people in Hyderabad . . . .", 
+    "injured": "100", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Jaipur", 
+        "Jaipur"
+    ], 
+    "O": [
+        "junior home minister:135", 
+        "Police:287", 
+        "bicycles:289", 
+        "suicide bombers:309", 
+        "bicycles:320"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.theguardian.com/world/2008/may/14/india", 
+    "date": "14-05-2008", 
+    "target": "", 
+    "hot_spot": "Jaipur", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Jaipur bureau", 
+            "223", 
+            "Others"
+        ], 
+        [
+            "Times of India", 
+            "228", 
+            "Others"
+        ], 
+        [
+            "NDTV", 
+            "400", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "LOC": [
+        [
+            "upper Assam", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "tea town", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "25", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "1", 
+    "title": "One Dead, 17 Injured in Bomb Blast in Dibrugarh", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Suspected militants detonated a bomb killing a teenage girl and injuring 17 persons , including a woman , in upper Assam 's tea town Dibrugarh today .", 
+    "injured": "17", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dibrugarh", 
+        "", 
+        "tea town Dibrugarh "
+    ], 
+    "O": [
+        "teenage girl:8", 
+        "woman:17"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.outlookindia.com/newswire/story/one-dead-17-injured-in-bomb-blast-in-dibrugarh/821307", 
+    "date": "17-12-2013", 
+    "target": "", 
+    "hot_spot": "tea town Dibrugarh ", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

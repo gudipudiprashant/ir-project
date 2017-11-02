@@ -1,0 +1,140 @@
+{
+    "LOC": [
+        [
+            "Assams", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "64", 
+            "Event"
+        ], 
+        [
+            "Paglathan Bazar", 
+            "100", 
+            "Event"
+        ], 
+        [
+            "Jorhat", 
+            "146", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "155", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "191", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "morning : 29", 
+        "morning : 67", 
+        "day : 193"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 21 : 35", 
+        "Yesterday : 124", 
+        "May 18 : 151", 
+        "May 14 : 171"
+    ], 
+    "death": "", 
+    "title": "ULFA blast wounds 13", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Bongaigaon", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "At least 13 people were injured in a bomb blast triggered off by the United Liberation Front of Asom ( ULFA ) in Lower Assams Bongaigaon district this morning . . . Guwahati , May 21 : At least 13 people were injured in a bomb blast triggered off by the United Liberation Front of Asom ( ULFA ) in Lower Assam 's Bongaigaon district this morning . . . The injured have been admitted to a nearby hospital . According to preliminary reports , the Programmable Time Device ( PTD ) was kept in a bicycle in the Paglathan Bazar , police said . . . Assam Police have cordoned off the area and are investigating into the matter . . . Yesterday , a terror attack was averted when police recovered a one kilogram RDX ( Research and Development Explosive ) bomb in Jorhat . . . On May 18 , in Guwahati , five persons were injured in a ULFA bomb blast . . . Earlier on May 14 , two persons were killed and eight injured by a bomb blast that followed ethnic clashes in eastern Assam the day before . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .", 
+    "injured": "13", 
+    "org_unorg": "", 
+    "O": [
+        "injured:6", 
+        "bomb blast:9", 
+        "bomb blast:46", 
+        "injured:72", 
+        "Programmable Time Device:87", 
+        "PTD:91", 
+        "bicycle:97", 
+        "terror attack:127", 
+        "RDX:137", 
+        "Research and Development Explosive:139", 
+        "injured:160", 
+        "bomb blast:164", 
+        "killed:177", 
+        "injured:180", 
+        "bomb blast:183", 
+        "ethnic clashes:187"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.andhranews.net/India/2007/May/21-ULFA-blast-wounds-2024.asp", 
+    "date": "21-05-2007", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "15", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "52", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "58", 
+            "Accused"
+        ], 
+        [
+            "Assam Police", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "163", 
+            "Accused"
+        ]
+    ]
+}

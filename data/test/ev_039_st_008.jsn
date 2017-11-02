@@ -1,0 +1,75 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "36", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Madhukar Gupta", 
+            "29", 
+            "Comment"
+        ], 
+        [
+            "Gupta", 
+            "50", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:11"
+    ], 
+    "death": "", 
+    "title": "Centre seeks report", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        "Guwahati"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . NEW DELHI : The Centre on Monday sought a report from the Assam government on the bomb blast in Guwahati . Union Home Secretary Madhukar Gupta , who spoke to the Assam Chief Secretary , advised him to strengthen security arrangements . . . Mr. Gupta assured all help to trace those involved in the explosion . . . The blast has evoked concern in the Home Ministry and the security establishment here . Sources said the worry was that elements related to the terror network could possibly use the occasion of the Lok Sabha poll campaign to strike at poll meetings .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Chief Secretary:37", 
+        "Home Ministry:71"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/centre-seeks-report/article299587.ece", 
+    "date": "06-04-2009", 
+    "target": "", 
+    "hot_spot": "Guwahati", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Assam government", 
+            "17", 
+            "Others"
+        ]
+    ]
+}

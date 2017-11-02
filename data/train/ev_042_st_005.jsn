@@ -1,0 +1,170 @@
+{
+    "LOC": [
+        [
+            "Sivasagar", 
+            "32", 
+            "Neutral"
+        ], 
+        [
+            "Laxmi cinema", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "Central Market", 
+            "49", 
+            "Event"
+        ], 
+        [
+            "Sivasagar", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Sivasagar", 
+            "80", 
+            "Neutral"
+        ], 
+        [
+            "Sivasagar", 
+            "105", 
+            "Neutral"
+        ], 
+        [
+            "Sivasagar", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "Sivasagar", 
+            "165", 
+            "Neutral"
+        ], 
+        [
+            "Balijan Grant Ouguri", 
+            "210", 
+            "Accused"
+        ], 
+        [
+            "Sivasasar", 
+            "223", 
+            "Event"
+        ], 
+        [
+            "Sivasagar", 
+            "241", 
+            "Event"
+        ], 
+        [
+            "fuel depot", 
+            "253", 
+            "Event"
+        ], 
+        [
+            "Sonari", 
+            "256", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Jatindra Lahkar", 
+            "63", 
+            "Comment"
+        ], 
+        [
+            "Nirup Das", 
+            "72", 
+            "Accused"
+        ], 
+        [
+            "Lahkar", 
+            "86", 
+            "Comment"
+        ], 
+        [
+            "A.K. Singh", 
+            "126", 
+            "Comment"
+        ], 
+        [
+            "Manoj Konwar", 
+            "174", 
+            "Accused"
+        ], 
+        [
+            "Konwar", 
+            "190", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "tonight : 34", 
+        "9pm : 40", 
+        "morning : 227", 
+        "night : 260"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:226", 
+        "Friday:259"
+    ], 
+    "death": "1", 
+    "title": "Assam bomb blast kills 1", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "ULFAS PARESH BARUA FACTION"
+    ], 
+    "content": "Jorhat , Sept. 24 : One person was killed and at least eight were injured in a bicycle bomb blast suspected to have been triggered by Ulfas Paresh Barua faction in Sivasagar town tonight . The explosion occurred around 9pm in front of Laxmi cinema in the busy Central Market area . Several shops were damaged . . . Sivasagar deputy commissioner Jatindra Lahkar said the deceased has been identified as Nirup Das , 30 . He died at Sivasagar district hospital . . . Lahkar said eight injured persons had been admitted to the hospitals in the district hospital and private hospitals in Sivasagar town . . . The condition of three was stated to be critical . . . Sivasagar superintendent of police A.K. Singh said they suspected the involvement of Ulfa and that preliminary investigation indicated that the bomb was an improvised explosive device planted on a bicycle . . . Earlier in the day , Ulfa had alleged that the Sivasagar SP was involved in the secret killing of Manoj Konwar , 30 , a human rights activist . It stated in a release that Konwar was killed because he had spoken against the misdeeds of the police official . Konwars body was recovered from Balijan Grant Ouguri village under Tingaligaon police outpost ( Charaideo sub-division ) of Sivasasar district on Sunday morning . . . This is the second bomb blast in three days in Sivasagar district . Suspected Ulfa militants had exploded a bomb near a fuel depot in Sonari town on Friday night but no one was injured .", 
+    "injured": "8", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Jorhat", 
+        "guwahati", 
+        "Sivasagar"
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1120925/jsp/frontpage/story_16015644.jsp#.VtfjgISli1E", 
+    "date": "25-09-2012", 
+    "target": "", 
+    "hot_spot": "Sivasagar", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Ulfas Paresh Barua faction", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "Ulfa", 
+            "134", 
+            "Accused"
+        ], 
+        [
+            "Ulfa", 
+            "160", 
+            "Accused"
+        ], 
+        [
+            "Tingaligaon police", 
+            "215", 
+            "Others"
+        ], 
+        [
+            "Ulfa", 
+            "245", 
+            "Accused"
+        ]
+    ]
+}

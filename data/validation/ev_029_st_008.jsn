@@ -1,0 +1,103 @@
+{
+    "LOC": [
+        [
+            "Athgaon", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "central Guwahati", 
+            "56", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "255", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "271", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "India", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "Assam", 
+            "19", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "1979 : 301"
+    ], 
+    "death": "7", 
+    "title": "Bomb blast kills 7 in northeast India", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "A bomb hidden in a rickshaw exploded in a crowded market place in India 's northeastern state of Assam on today , killing seven people and wounding 18 . . . Authorities said the separatist United Liberation Front of Asom ( ULFA ) was behind the attack in the busy market area of Athgaon in central Guwahati , the state 's main city . . . `` It is absolutely clear the ULFA is behind this attack , '' a police officer said . Three dead bodies lay on the blood splattered road which was littered with parts of human flesh . The body of the rickshaw driver remained mangled in his vehicle where the bomb had been hidden . . . Nearby vehicles were also damaged by the impact of the blast which took place a day ahead of celebrations to mark the state government 's first year in office after elections . . . Fire engines rushed to the site , while local traders quickly placed the dead and injured on wooden hand carts and in rickshaws , evacuating them to a nearby hospital . . . `` Someone was carrying a gas cylinder at the time of the explosion which caught fire and that caused maximum damage , '' a senior police officer said . . . Hospital sources said three of the 18 injured were in a critical condition , warning that the death toll could increase . . . The ULFA says it is fighting for the independence of Assam , which is rich in oil , natural gas and tea . The group accuses New Delhi of taking away its mineral and forest resources while neglecting the local population . . . More than 20,000 people have been killed since the insurgency began in 1979 .", 
+    "injured": "18", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Guwahati", 
+        "Athgaon"
+    ], 
+    "O": [
+        "police:81", 
+        "wooden hand carts:174", 
+        "rickshaws:179", 
+        "natural gas:263", 
+        "tea:266"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.irishtimes.com/news/bomb-blast-kills-7-in-northeast-india-1.807460", 
+    "date": "26-05-2007", 
+    "target": "", 
+    "hot_spot": "Athgaon", 
+    "delivery_mod": "AUTO-RICKSHAW", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "42", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "73", 
+            "Accused"
+        ], 
+        [
+            "state government", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "246", 
+            "Accused"
+        ]
+    ]
+}

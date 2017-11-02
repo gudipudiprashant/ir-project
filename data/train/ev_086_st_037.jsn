@@ -1,0 +1,133 @@
+{
+    "LOC": [
+        [
+            "United Nations", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "United Nations", 
+            "4", 
+            "Neutral"
+        ], 
+        [
+            "UN", 
+            "7", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "financial hub", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "87", 
+            "Neutral"
+        ], 
+        [
+            "UN", 
+            "104", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "Germany", 
+            "200", 
+            "Neutral"
+        ], 
+        [
+            "UN", 
+            "205", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "213", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ban Ki-moon", 
+            "10", 
+            "Comment"
+        ], 
+        [
+            "Peter Wittig", 
+            "197", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "18", 
+    "title": "UN chief, Security Council condemn Mumbai terror attacks", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "United Nations : United Nations -LRB- UN -RRB- chief Ban Ki-moon has strongly condemned the serial bomb blasts that rocked India 's financial hub of Mumbai , killing at least 18 people and injuring over 130 . `` The Secretary-General -LRB- Ban -RRB- condemns the attacks that have killed and injured many in Mumbai , '' said a statement from his office . `` No cause or grievance can justify indiscriminate violence against civilians . The Secretary-General expresses his solidarity with the Government and people of India , and extends his sincere condolences to the families of the victims , '' it added.The UN Security Council also `` condemned in the strongest terms '' the bombings.They expressed their deep sympathy and sincere condolences to the victims of these `` heinous acts '' and to their families , and to the people and Government of India . `` The members of the Security Council reaffirmed that terrorism in all its forms and manifestations constitutes one of the most serious threats to international peace and security , and that any acts of terrorism are criminal and unjustifiable , regardless of their motivation , '' a statement read by Peter Wittig , Germany 's ambassador to the UN and current Council president , said.Terror struck Mumbai last evening when three near-simultaneous blasts ripped through crowded areas in the city . At least 18 people were killed and over 130 injured . .", 
+    "injured": "130", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Mumbai", 
+        "financial hub"
+    ], 
+    "O": [
+        "Secretary-General:40", 
+        "Secretary-General:77", 
+        "Government:83", 
+        "Security Council:105", 
+        "heinous acts:130", 
+        "Security Council:152", 
+        "president:209"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/un-chief-security-council-condemn-mumbai-terror-attacks-461462", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "financial hub", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Government of India", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "India", 
+            "145", 
+            "Others"
+        ]
+    ]
+}

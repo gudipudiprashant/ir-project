@@ -1,0 +1,210 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Mehrauli", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "South Delhi", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Mehrauli Sarai market", 
+            "127", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "408", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "471", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Devesh K. Pandey", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Santosh", 
+            "134", 
+            "Victim"
+        ], 
+        [
+            "Santoshs", 
+            "174", 
+            "Victim"
+        ], 
+        [
+            "Tilak Raj", 
+            "189", 
+            "Others"
+        ], 
+        [
+            "Baldev Khattar", 
+            "239", 
+            "Victim"
+        ], 
+        [
+            "Vikas", 
+            "260", 
+            "Others"
+        ], 
+        [
+            "Jitender", 
+            "293", 
+            "Comment"
+        ], 
+        [
+            "Abdul Karim Tunda", 
+            "397", 
+            "Victim"
+        ], 
+        [
+            "Ajay Kashyap", 
+            "434", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "2-15 p.m. : 131"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday : 50", 
+        "September 13 : 85", 
+        "1997-98 : 388"
+    ], 
+    "death": "", 
+    "title": "Blast in Delhi again, two killed", 
+    "org_unorg": "", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA"
+    ], 
+    "content": "Devesh K. Pandey . . 24 injured ; police believe it is not linked to the recent serial blasts . . NEW DELHI : Exactly a fortnight after a series of five blasts rocked the Capital , a bomb exploded in the crowded Mehrauli area of South Delhi on Saturday , claiming the lives of a nine-year-old boy and a 60-year-old unidentified man . Nearly two dozen people were injured . . . The police believe that the blast is not linked to the September 13 explosions . However , a red alert has been sounded in the Capital . . . According to eyewitnesses , two men riding a black motorcycle dropped a polythene bag containing the bomb near an electrical goods shop at the Mehrauli Sarai market around 2-15 p.m. Nine-year-old Santosh , who was standing nearby , thought the duo had accidentally dropped the bag and picked it up to return it to the riders when the bomb exploded . . . The impact of the blast was such that Santoshs head was blown off and he was tossed into the air . . . Tilak Raj , who was in the market , said : Soon after the blast , the lane was filled with thick smoke . When it cleared , I saw people lying on the road in blood-splattered clothes writhing in pain . A boy was lying motionless . . . Baldev Khattar , who was at the entrance of his electronic goods shop , was injured , but his nephew , Vikas , escaped unhurt as he was inside . Several other shopkeepers and passers-by were injured . Three of the four shops damaged in the blast belong to the Khattar family , said Jitender , who works in a utensils shop . . . Residents and shopkeepers immediately called up the police and rushed the injured to the All-India Institute of Medical Sciences , Safdarjung Hospital and Fortis Hospital . . . The police soon reached the spot and cordoned off the blast site . . . By then all shopkeepers in the area had downed the shutters and the market was closed . . . Preliminary investigations indicated that the bomb was of a crude nature , very similar to the ones used in the Capital during 1997-98 by a module headed by top Lashkar-e-Taiba militant Abdul Karim Tunda , who is now said to be in Pakistan . While the bomb had a chemical-detonation mechanism , nails were used as splinters . . . Joint Commissioner of Police -LRB- Southern Range -RRB- Ajay Kashyap said the bomb was planted by two motorcycle-borne men who were in their early 30s . . . They were dressed in black jeans and shirts and were wearing helmets . The motorcycle bore a Delhi registration number . . . RELATED LINKS .", 
+    "injured": "24", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "New Delhi", 
+        ""
+    ], 
+    "O": [
+        "serial blasts:18", 
+        "fortnight:27", 
+        "series of five blasts:30", 
+        "rocked:34", 
+        "capital:36", 
+        "bomb exploded:39", 
+        "crowded mehrauli area:43", 
+        "nine-year-old boy:57", 
+        "60-year-old:61", 
+        "unidentified man:62", 
+        "injured:70", 
+        "blast:79", 
+        "explosions:87", 
+        "red alert:92", 
+        "capital:99", 
+        "eyewitnesses:105", 
+        "two men riding:107", 
+        "black motorcycle:111", 
+        "polythene bag:115", 
+        "bomb:119", 
+        "electrical goods shop:122", 
+        "nine-year-old:133", 
+        "accidentally dropped:145", 
+        "bomb exploded:161", 
+        "blast:170", 
+        "blown off:177", 
+        "tossed:182", 
+        "market:196", 
+        "blast:203", 
+        "smoke:211", 
+        "blood-splattered clothes:225", 
+        "pain:229", 
+        "motionless:235", 
+        "entrance:246", 
+        "electronic goods shop:249", 
+        "injured:254", 
+        "unhurt:263", 
+        "shopkeepers:271", 
+        "passers-by:273", 
+        "injured:275", 
+        "damaged:282", 
+        "blast:285", 
+        "khattar family:289", 
+        "utensils shop:299", 
+        "residents and shopkeepers:304", 
+        "injured:315", 
+        "spot:337", 
+        "cordoned off:339", 
+        "blast site:342", 
+        "market:360", 
+        "preliminary investigations:366", 
+        "bomb:371", 
+        "crude nature:375", 
+        "capital:386", 
+        "bomb:412", 
+        "chemical-detonation mechanism:415", 
+        "nails:418", 
+        "splinters:422", 
+        "southern range:431", 
+        "bomb:438", 
+        "planted:440", 
+        "motorcycle-borne:443", 
+        "early 30s:449", 
+        "black jeans:458", 
+        "shirts:461", 
+        "helmets:465", 
+        "motorcycle bore:468", 
+        "delhi registration number:471"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/blast-in-delhi-again-two-killed/article1347359.ece", 
+    "date": "27-09-2008", 
+    "target": "CROWDED PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "POLYTHENE BAG", 
+    "delivery_met": "ACCIDENTAL", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "All-India Institute of Medical Sciences", 
+            "318", 
+            "Others"
+        ], 
+        [
+            "Safdarjung Hospital", 
+            "324", 
+            "Others"
+        ], 
+        [
+            "Fortis Hospital", 
+            "327", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "395", 
+            "Accused"
+        ]
+    ]
+}

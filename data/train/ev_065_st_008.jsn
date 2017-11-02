@@ -1,0 +1,166 @@
+{
+    "LOC": [
+        [
+            "MUMBAI", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Malegaon", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Malegaon .", 
+            "95", 
+            "Assoc_Event"
+        ], 
+        [
+            "Malegaon", 
+            "119", 
+            "Accused"
+        ], 
+        [
+            "Bangalore", 
+            "159", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "313", 
+            "Source"
+        ]
+    ], 
+    "PER": [
+        [
+            "Raees Ahmed", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "Shabbir Ahmed Masiullah", 
+            "70", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Shabbir Batterywala", 
+            "74", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Raees", 
+            "114", 
+            "Accused"
+        ], 
+        [
+            "Shabbir Masiullah", 
+            "140", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Sunday.Shabbir", 
+            "224", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:13", 
+        "September 8:19", 
+        "November 16:45", 
+        "September 13:90", 
+        "November 2:147", 
+        "Monday:161", 
+        "September 12:271"
+    ], 
+    "death": "31", 
+    "title": "Police arrest Malegaon blasts 'conspirator'", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "STUDENTS ISLAMIC MOVEMENT OF INDIA"
+    ], 
+    "content": "MUMBAI : The Anti-Terrorist Squad -LRB- ATS -RRB- arrested Raees Ahmed on Sunday for his complicity in the September 8 serial blasts in Malegaon that killed 31 people . He was produced before a special MCOCA court that remanded him to police custody till November 16 . ` Raees is a conspirator and a bomb planter , ' said a senior ATS official . He is the brother-in-law of Shabbir Ahmed Masiullah alias Shabbir Batterywala , the prime conspirator , and was earlier arrested for his role in a September 13 bomb hoax at Malegaon . Over 300 injured in four blasts that rocked the powerloom town on the occasion of Shab-e-barat . Raees is a resident of Malegaon and a suspected SIMI activist . This is the third arrest in connection with the Malegaon blasts . Meanwhile , Shabbir Masiullah , who was arrested on November 2 in connection with the Malegaon case will be taken to Bangalore on Monday morning for a narco analysis test and lie-detector test , police said . ` The accused in this case are not co-operating in the investigation , so we are conducting scientific tests on them , since it would help us to carry out a fair and meticulous probe , ' said an officer attached to the Anti-Terrorism Squad -LRB- ATS -RRB- on Sunday.Shabbir , who is said to be a trained Lashkar-e-Taiba operative , is believed to have plotted the Malegaon blast to trigger communal tension and riots in the textile township , the police said . Malegaon police also registered a case over a fake bomb found on September 12 . They have claimed that the mud used in the dummy bomb was similar to the soil found near Shabbir 's battery unit . Investigators have also found traces of RDX in a battery manufacturing unit owned by Shabbir in Malegaon . The police suspect the bombs were manufactured at Shabbir 's battery unit .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "serial blasts:21", 
+        "killed 31:26", 
+        "police custody:42", 
+        "Raees:49", 
+        "conspirator:52", 
+        "bomb planter:55", 
+        "senior ATS official:61", 
+        "brother-in-law:68", 
+        "prime conspirator:78", 
+        "bomb hoax:92", 
+        "300 injured:98", 
+        "four blasts:101", 
+        "Shab-e-barat:112", 
+        "third arrest:129", 
+        "Malegaon blasts:135", 
+        "narco analysis test:165", 
+        "lie-detector test:169", 
+        "Lashkar-e-Taiba operative:233", 
+        "plotted:240", 
+        "Malegaon blast:242", 
+        "trigger communal tension:245", 
+        "riots in the textile township:249", 
+        "police:256", 
+        "fake bomb:267", 
+        "mud:279", 
+        "dummy bomb:283", 
+        "similar:286", 
+        "soil found near Shabbir 's battery unit:289", 
+        "Investigators:297", 
+        "traces of RDX:301", 
+        "battery manufacturing unit owned by Shabbir:306", 
+        "Shabbir 's battery unit:323"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Police-arrest-Malegaon-blasts-conspirator/articleshow/334758.cms?referral=PM", 
+    "date": "08-09-2006", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorist Squad", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "MCOCA", 
+            "36", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "123", 
+            "Accused"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "218", 
+            "Others"
+        ], 
+        [
+            "Malegaon police", 
+            "259", 
+            "Others"
+        ]
+    ]
+}

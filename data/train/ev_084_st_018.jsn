@@ -1,0 +1,205 @@
+{
+    "LOC": [
+        [
+            "Sudan", 
+            "12", 
+            "Victim"
+        ], 
+        [
+            "German Bakery", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "German Bakery", 
+            "79", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "123", 
+            "Event"
+        ], 
+        [
+            "Khartoum", 
+            "134", 
+            "Neutral"
+        ], 
+        [
+            "Sudans", 
+            "136", 
+            "Neutral"
+        ], 
+        [
+            "Doha", 
+            "148", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "178", 
+            "Event"
+        ], 
+        [
+            "Kondhwa", 
+            "186", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "255", 
+            "Event"
+        ], 
+        [
+            "Sudan", 
+            "278", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Satyapal Singh", 
+            "362", 
+            "Comment", 
+            "Others"
+        ], 
+        [
+            "Anas AlFatih Suleiman", 
+            "5", 
+            "Victim"
+        ], 
+        [
+            "Anas", 
+            "52", 
+            "Victim"
+        ], 
+        [
+            "Anas", 
+            "75", 
+            "Victim"
+        ], 
+        [
+            "Amjed Algazoli", 
+            "85", 
+            "Victim"
+        ], 
+        [
+            "Anas", 
+            "97", 
+            "Victim"
+        ], 
+        [
+            "Anas", 
+            "196", 
+            "Victim"
+        ], 
+        [
+            "Attal Manal", 
+            "208", 
+            "Comment"
+        ], 
+        [
+            "Manal", 
+            "214", 
+            "Comment"
+        ], 
+        [
+            "Anas", 
+            "232", 
+            "Victim"
+        ], 
+        [
+            "Ibrahim Hashim", 
+            "268", 
+            "Victim"
+        ], 
+        [
+            "Nadia Macerini", 
+            "295", 
+            "Victim"
+        ], 
+        [
+            "Saied Abdulkhani", 
+            "312", 
+            "Victim"
+        ], 
+        [
+            "Amjed Algazoli", 
+            "327", 
+            "Victim"
+        ], 
+        [
+            "Aditi Jindal", 
+            "382", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:14", 
+        "Saturday:93", 
+        "Thursday:257"
+    ], 
+    "death": "", 
+    "title": "Another foreigner dies; Pune blast death toll 16", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "pune", 
+        "German Bakery,pune"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "With the death of Anas AlFatih Suleiman , 21 , of Sudan on Wednesday , the death toll in the German Bakery blast here has gone up to 16 . . . He is the fourth foreign national and the second Sudanese to have died in the blast . . . Anas was a first-year B.Sc . student of Poona College and an avid football player . On the day of the blast , Anas was in the German Bakery , along with compatriot Amjed Algazoli , who died of injuries on Saturday . . . Anas had suffered 78 per cent chest injuries and was kept on life-support system at the Jehangir Hospital . . . He had been studying in Pune for the past one-and-a-half years . Though he hailed from Khartoum , Sudans capital , he did schooling up to Std . 12 in Doha -LRB- Qatar -RRB- , where his father held a government job . He scored 73 per cent in his Std . 12 examinations . And then he came to Pune for higher education and lived in the Kondhwa area . . . To improve his English , Anas had undertaken an English-speaking course at the Symbiosis College , said Attal Manal , a friend . Manal said he was very popular among his friends , as he was very intelligent and helpful . Anas parents , brother and one of his sisters were with him when he died . His other sister was to come to Pune on Thursday to see him , said one of his friends , Ibrahim Hashim . The body will now be taken to Sudan for the last rites . . . The other foreigners who died in the blast were Nadia Macerini , 37 , an Italian on a visit to the Osho International Meditation Resort ; Saied Abdulkhani , 26 , a student of literature at the Symbiosis College ; and Amjed Algazoli , 25 . . . Thirteen persons are still under treatment at various hospitals . Seven of them are in Intensive Care Units , while six are in general wards , Police Commissioner Satyapal Singh said . Of the seven in the ICU , six are said to be out of danger . Aditi Jindal , admitted to Inlaks Budhrani Hospital , is in a critical condition .", 
+    "injured": "20", 
+    "org_unorg": "", 
+    "O": [
+        "government:158", 
+        "italian:301", 
+        "Osho International Meditation Resort:307", 
+        "police commissioner:360"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/article112429.ece", 
+    "date": "13-02-2010", 
+    "target": "", 
+    "hot_spot": "German Bakery,pune", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Poona College", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "Jehangir Hospital", 
+            "113", 
+            "Others"
+        ], 
+        [
+            "Symbiosis College", 
+            "204", 
+            "Others"
+        ], 
+        [
+            "Symbiosis College", 
+            "323", 
+            "Others"
+        ], 
+        [
+            "Inlaks Budhrani Hospital", 
+            "387", 
+            "Others"
+        ]
+    ]
+}

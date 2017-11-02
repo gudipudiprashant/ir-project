@@ -1,0 +1,1299 @@
+{
+    "LOC": [
+        [
+            "Bodh Gaya", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Sri Lanka", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "88", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "120", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "141", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "144", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "146", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "169", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi", 
+            "191", 
+            "Event"
+        ], 
+        [
+            "Kolkata", 
+            "202", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "204", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "230", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "284", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "295", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi Temple", 
+            "305", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "308", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "310", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "314", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "331", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "341", 
+            "Event"
+        ], 
+        [
+            "Terega monastery", 
+            "355", 
+            "Source"
+        ], 
+        [
+            "Mahbodhi Temple", 
+            "366", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "376", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "378", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "386", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "392", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "434", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "459", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "461", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "481", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "502", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "523", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "536", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "555", 
+            "Event"
+        ], 
+        [
+            "Maha Bodhi", 
+            "558", 
+            "Event"
+        ], 
+        [
+            "Punjab", 
+            "565", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi Temple", 
+            "581", 
+            "Event"
+        ], 
+        [
+            "Bodhgaya", 
+            "584", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "586", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "588", 
+            "Neutral"
+        ], 
+        [
+            "Sri Harmandir Sahib", 
+            "610", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi Temple", 
+            "652", 
+            "Event"
+        ], 
+        [
+            "Dharamsala", 
+            "658", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "668", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "672", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "674", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "689", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi Temple", 
+            "733", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "736", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "809", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "928", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "944", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "947", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "949", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "1061", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "1063", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "1065", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "1067", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "1069", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "1071", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "1073", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "1075", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "1115", 
+            "Event"
+        ], 
+        [
+            "Myanmar", 
+            "1151", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "1177", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "1180", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "1242", 
+            "Event"
+        ], 
+        [
+            "Gaya", 
+            "1248", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "1281", 
+            "Event"
+        ], 
+        [
+            "Nagpur", 
+            "1298", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "1300", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "1334", 
+            "Event"
+        ], 
+        [
+            "Panchsheel", 
+            "1342", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "1421", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "1465", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "1539", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "1546", 
+            "Neutral"
+        ], 
+        [
+            "Myanmar", 
+            "1600", 
+            "Neutral"
+        ], 
+        [
+            "Myanmar", 
+            "1611", 
+            "Neutral"
+        ], 
+        [
+            "Rakhine", 
+            "1626", 
+            "Neutral"
+        ], 
+        [
+            "Jharkhand", 
+            "1690", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "1698", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodi temple", 
+            "1701", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "1704", 
+            "Event"
+        ], 
+        [
+            "Deoghar", 
+            "1720", 
+            "Neutral"
+        ], 
+        [
+            "Shiva temple", 
+            "1722", 
+            "Neutral"
+        ], 
+        [
+            "Parasnath temple", 
+            "1725", 
+            "Neutral"
+        ], 
+        [
+            "Parasnath", 
+            "1725", 
+            "Neutral"
+        ], 
+        [
+            "Giridih", 
+            "1728", 
+            "Neutral"
+        ], 
+        [
+            "Rajrappa temple", 
+            "1730", 
+            "Neutral"
+        ], 
+        [
+            "Ramgarh", 
+            "1733", 
+            "Neutral"
+        ], 
+        [
+            "Goddess Deori", 
+            "1739", 
+            "Neutral"
+        ], 
+        [
+            "Lord Shiva", 
+            "1742", 
+            "Neutral"
+        ], 
+        [
+            "Jagannath", 
+            "1745", 
+            "Neutral"
+        ], 
+        [
+            "Ranchi", 
+            "1750", 
+            "Neutral"
+        ], 
+        [
+            "Mahavir temple", 
+            "1759", 
+            "Neutral"
+        ], 
+        [
+            "Mahavir Temple", 
+            "1769", 
+            "Neutral"
+        ], 
+        [
+            "Patna railway junction", 
+            "1772", 
+            "Neutral"
+        ], 
+        [
+            "Patna railway junction", 
+            "1772", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "1772", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "1869", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "1898", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "1901", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "1927", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "1951", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "1986", 
+            "Event"
+        ], 
+        [
+            "German bakery", 
+            "1992", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "2000", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "2007", 
+            "Event"
+        ], 
+        [
+            "Bodhi tree", 
+            "2082", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "2159", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "2162", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "2166", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "2173", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "2185", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "2202", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi Temple", 
+            "2218", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "2221", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "2318", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "2321", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "2365", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi temple", 
+            "2379", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "2382", 
+            "Neutral"
+        ], 
+        [
+            "Myanmar", 
+            "2491", 
+            "Neutral"
+        ], 
+        [
+            "Tibet", 
+            "2495", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "2565", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "2590", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "2608", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "2616", 
+            "Event"
+        ], 
+        [
+            "Mahabodhi Temple", 
+            "2651", 
+            "Event"
+        ], 
+        [
+            "Bodh Gaya", 
+            "2665", 
+            "Event"
+        ], 
+        [
+            "Bodhi Tree", 
+            "2686", 
+            "Event"
+        ], 
+        [
+            "Bodhi tree", 
+            "2701", 
+            "Event"
+        ], 
+        [
+            "Gaya", 
+            "2812", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "2818", 
+            "Neutral"
+        ], 
+        [
+            "Mahabodhi Temple", 
+            "2838", 
+            "Event"
+        ], 
+        [
+            "Sri Lanka", 
+            "2846", 
+            "Neutral"
+        ], 
+        [
+            "China", 
+            "2849", 
+            "Neutral"
+        ], 
+        [
+            "Japan", 
+            "2851", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "2867", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sonia Gandhi", 
+            "34", 
+            "Comment"
+        ], 
+        [
+            "Mahinda Rajapaksa", 
+            "68", 
+            "Comment"
+        ], 
+        [
+            "Mahinda Rajapaksa", 
+            "76", 
+            "Comment"
+        ], 
+        [
+            "Vikas Vaibhav", 
+            "160", 
+            "Comment"
+        ], 
+        [
+            "Dalai Lama", 
+            "188", 
+            "Comment"
+        ], 
+        [
+            "Amitabh Pathak", 
+            "322", 
+            "Comment"
+        ], 
+        [
+            "Badal", 
+            "567", 
+            "Comment"
+        ], 
+        [
+            "Parkash Singh Badal", 
+            "591", 
+            "Comment"
+        ], 
+        [
+            "Lobsang Sangay", 
+            "645", 
+            "Comment"
+        ], 
+        [
+            "Lobsang Sangay", 
+            "704", 
+            "Comment"
+        ], 
+        [
+            "Mamata Banerjee", 
+            "769", 
+            "Comment"
+        ], 
+        [
+            "Banerjee", 
+            "848", 
+            "Comment"
+        ], 
+        [
+            "Banerjee", 
+            "923", 
+            "Comment"
+        ], 
+        [
+            "Abhayanand", 
+            "972", 
+            "Comment"
+        ], 
+        [
+            "Abhayanand", 
+            "988", 
+            "Comment"
+        ], 
+        [
+            "Nitish", 
+            "1156", 
+            "Others"
+        ], 
+        [
+            "Nitish Kumar", 
+            "1167", 
+            "Comment"
+        ], 
+        [
+            "B R Ambedkar", 
+            "1311", 
+            "Others"
+        ], 
+        [
+            "Samvidhan Chowk", 
+            "1354", 
+            "Comment"
+        ], 
+        [
+            "K V Pandiyan", 
+            "1426", 
+            "Comment"
+        ], 
+        [
+            "Nitish", 
+            "1463", 
+            "Comment"
+        ], 
+        [
+            "Ravi Shankar Prasad", 
+            "1526", 
+            "Comment"
+        ], 
+        [
+            "Gautam Buddha", 
+            "1552", 
+            "Others"
+        ], 
+        [
+            "Prasad", 
+            "1603", 
+            "Comment"
+        ], 
+        [
+            "S K Bharadwaj", 
+            "1797", 
+            "Comment"
+        ], 
+        [
+            "Manu Maharaj", 
+            "1819", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "1878", 
+            "Comment"
+        ], 
+        [
+            "R.P.N. Singh", 
+            "2054", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "2138", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "2152", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "2194", 
+            "Comment"
+        ], 
+        [
+            "Pranab Mukherjee", 
+            "2209", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "2306", 
+            "Comment"
+        ], 
+        [
+            "Anil Goswami", 
+            "2422", 
+            "Comment"
+        ], 
+        [
+            "S K Bhardwaj", 
+            "2538", 
+            "Comment"
+        ], 
+        [
+            "Nitish Kumar", 
+            "2557", 
+            "Others"
+        ], 
+        [
+            "Abhyanand", 
+            "2561", 
+            "Comment"
+        ], 
+        [
+            "Parasnath", 
+            "2577", 
+            "Comment"
+        ], 
+        [
+            "Dorji", 
+            "2668", 
+            "Comment"
+        ], 
+        [
+            "S K Bharadwaj", 
+            "2757", 
+            "Comment"
+        ], 
+        [
+            "Dalai Lama", 
+            "2861", 
+            "Others"
+        ], 
+        [
+            "Mahinda Rajapaksa", 
+            "2873", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        ".21:29 pm : 62", 
+        ".20:26 pm : 98", 
+        ".20:09 pm : 114", 
+        ".19:45 pm : 182", 
+        ".18:55 pm : 193", 
+        "evening : 257", 
+        ".18:41 pm : 277", 
+        ".18:38 pm : 325", 
+        ".18:30 pm : 368", 
+        ".17:50 pm : 478", 
+        ".17:45 pm : 516", 
+        ".17:28 pm : 562", 
+        ".17:09 pm : 642", 
+        "16 : 54 pm : 711", 
+        "16:45 pm : 751", 
+        ".16:30 pm : 925", 
+        ".16.00 pm : 1009", 
+        "15.48 pm : 1153", 
+        "15.15 pm : 1293", 
+        "14.47 pm : 1393", 
+        "14.08 pm : 1458", 
+        "14.00 pm : 1678", 
+        "morning : 1708", 
+        "13.54 pm : 1752", 
+        "13.40 pm : 1863", 
+        "13.00 pm : 1976", 
+        "12.45 pm : 1989", 
+        "12.34 pm : 2004", 
+        "5.30 a.m.:2070", 
+        "6 a.m.:2073", 
+        ".12.02 pm : 2140", 
+        "11.52 am : 2197", 
+        ".11.45 am : 2292", 
+        "9.52 am : 2362", 
+        "5:30 : 2470"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday : 37", 
+        "Saturday : 256", 
+        "Sunday : 276", 
+        "2012 : 431", 
+        "Monday : 515", 
+        "Sunday : 813", 
+        "Sunday : 1317", 
+        "Sunday : 1707", 
+        "Sunday : 2212", 
+        "Sunday : 2308", 
+        "Sunday : 2393"
+    ], 
+    "death": "", 
+    "title": "Suspected IM member arrested in Kolkata for Bodh Gaya terror attack", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "23:49 pm : Blasts in Bodh Gaya ' a cowardly act ' , says Sonia GandhiCondemning the serial blasts at Mahabodhi temple in Bihar as a ` cowardly ' act , Congress President Sonia Gandhi on Sunday expressed hope that the guilty will be brought to book at the earliest.Gandhi said the attack on the sanctum sanctorum of peace was unfortunate .21:29 pm : Sri Lanka President Mahinda Rajapaksa condemns terror attack Sri Lankan President Mahinda Rajapaksa condemned the terror attack in internationally renowned Mahabodhi temple in Bihar , a place of religious significance for the Buddhists .20:26 pm : Bihar Police release sketches of two men suspected to be behind serial blasts .20:09 pm : NIA team reaches Bodh Gaya , begins probeA National Investigation Agency ( NIA ) team began its probe into the serial blasts in the Mahabodhi temple in Bihar 's Bodh Gaya town , police officials said.A NIA team led by an IPS officer Vikas Vaibhav began probe into the serial blasts in Bodh Gaya soon after they arrived , said an official at police headquarters .19:45 pm : Tibetan spiritual leader Dalai Lama condemns Mahabodhi blasts .18:55 pm : Suspected Indian Mujahideen member held in Kolkata for Bodh Gaya bomb blastsPolice are probing links of a man arrested with explosives to the banned terrorist outfit Indian Mujahideen , suspected to be involved in Bodh Gaya bomb blasts , officials said.Anwar Hussain Mullick , 42 , was arrested from a bus stop in the heart of the city late on Saturday evening with explosives and fake Indian currency notes , a senior official of the Special Task Force said here Sunday .18:41 pm : Gujarat on alert after Bodh Gaya serial blasts : DGPAn alert has been sounded across Gujarat in the wake of the serial blasts that rocked Mahabodhi Temple in Bihar 's Bodh Gaya district , Gujarat Director General of Police ( DGP ) Amitabh Pathak said .18:38 pm : Bomb found in Bodh Gaya hotel defusedThe cylinder bomb found at hotel in Bodh Gaya village has defused . Earlier , police defused a cylinder bomb in Terega monastery and another near the statue of Buddha near the Mahbodhi Temple .18:30 pm : Delhi Police claims it alerted Bihar on Bodh Gaya terror plotDelhi Police had alerted its Bihar counterpart and intelligence agencies about Bodh Gaya temple being on the radar of terror outfits , according to senior police official.The input was given on the basis of information we had obtained from a group of Indian Mujahiddin ( IM ) terrorist arrested in 2012 in the Pune blasts case , said the Delhi police official.According to the police , IM operatives had told them that they were planning Pune-like blasts in Delhi and Bihar for which they had specifically spent around two weeks doing a recce of the temple town .17:50 pm : Bodh Gaya serial blasts : BJP calls ` Gaya bandh ' tomorrowIn protest against the serial blasts in and around the Mahabodhi temple , the BJP has called for ` Gaya bandh ' on Monday .17:45 pm : Security beefed up in Bangalore in wake of blasts in Bodh GayaSecurity has been beefed up in Bangalore , country 's IT hub , in the wake of the serial blasts in Buddhist pilgrimage town of Bodh Gaya and Maha Bodhi Temple complex .17:28 pm : Punjab CM Badal terms blasts as ` barbaric and inhuman act ` Condemning the blasts at Mahabodhi Temple at Bodhgaya in Bihar , Punjab Chief Minister Parkash Singh Badal termed it as a barbaric and inhuman act.Talking to reporters here at the information centre of Sri Harmandir Sahib complex , the Chief Minister lashed out at the Congress-led UPA government at the Centre and said the government has failed in providing internal and external security to people .17:09 pm : Lobsang Sangay ` deeply saddened ' at Mahabodhi Temple blastsThe Tibetan government-in-exile in Dharamsala expressed sadness over the series of blasts at the Mahabodhi temple area in Bihar 's Bodh Gaya town.I am deeply saddened to learn about the series of bomb blasts at Mahabodhi temple . My prayers for the injured and their family members , prime minister-in-exile Lobsang Sangay said in a statement . 16 : 54 pm : Third live bomb found near Mahabodhi TempleA third live bomb has been spotted at a hotel near Mahabodhi Temple in Bodh Gaya , said news reports . Police are attempting to defuse the explosive . 16:45 pm : Is violence part of plan to disturb states ? asks Mamata BanerjeeWest Bengal Chief Minister Mamata Banerjee wondered if the violent acts were a game plan before elections to disturb states , regional parties and also to plan to murder some political leaders.I am shocked to know about the sad incident of bomb blast at Bodh Gaya today ( Sunday ) . What is our central government doing ? What about central agencies who usually interfere in state business but do not take care of safety and security of our people and country ? Banerjee said in a post on a social networking site.Is it a game plan before Lok Sabha elections to disturb states , regional parties and also to plan murder of some political leaders , so that nobody can raise the voice of people in future ? Or is it a blame game to avoid responsibility and to finish the regional political parties who are not dependent on the UPA ( United Progressive Alliance ) ? Banerjee added .16:30 pm : Bodh Gaya blasts not of high intensity , says Bihar Police chiefThe nine blasts at the Mahabodhi temple in Bihar 's Bodh Gaya town were not of very high intensity and therefore no damage was caused to the sanctum sanctorum , Bihar Police chief Abhayanand said.The explosions were not of high intensity ... somewhere between low and high intensity , Abhayanand said while addressing the media persons.No damage has been caused to the sanctum sanctorum of the temple , he added .16.00 pm : Centre tells states to tighten security at Buddhist shrinesThe Centre has directed all states to ensure fool-proof security at Buddhist shrines and Tibetan settlements in the wake of the continuing violence between Rohingya Muslims and Buddhists in Myanmar.In an advisory to all states with special emphasis on cities like Delhi , Mumbai , Kolkata , Ahmedabad , Chennai , Bangalore , Hyderabad and Pune , the Home Ministry said adequate security must be provided to Buddhist shrines , Buddhist places of worships and Tibetian settlements.Citing recent intelligence inputs , the Ministry said radical terrorist groups were planning to target Buddhist installations , including Bodh Gaya , which was today rocked by serial blasts , injuring two monks.This is perhaps the first time that the Centre has issued an advisory about possible violence in the wake of the clashes in Myanmar . 15.48 pm : Nitish condemns blasts , seeks CISF security for templeBihar Chief Minister Nitish Kumar strongly condemned the serial blasts in and around Mahabodhi temple in Bodh Gaya and demanded deployment of the Central Industrial Security Force ( CISF ) to protect the world famous Buddhist shrine.The serial blasts deserve strongest condemnation in strongest possible words as the perpetrators targeted the place of religious faith of crores of people with an aim to create fear among them , he told reporters after inspecting the blast sites at the Mahabodhi temple and surrounding areas in Gaya district with senior civil and police officials.Kumar , however , dismissed suggestions that there was any security lapse and said adequate precautionary measures were taken to beef up security measures at the Mahabodhi temple and surrounding areas in the wake of intelligence inputs . 15.15 pm : Protests in Nagpur over Bodh Gaya serial blastsA large number of supporters and followers of B R Ambedkar and others on Sunday staged a demonstration here to protest the serial blasts at the world famous pilgrimage town of Bodh Gaya in Bihar.Holding placards , banners and Panchsheel flags , the protesters gathered at the Reserve Bank square ( Samvidhan Chowk ) in the city and condemned the blasts.They shouted slogans and stopped vehicular traffic , which was then diverted from the square.Some Buddhists monks were also part of the demonstration , police and eye witnesses said . 14.47 pm : Security alert sounded at Indo-Nepal borderAn alert has been sounded on the Indo-Nepal border after nine serial explosions rocked the internationally renowned temple town of Bodh Gaya in Bihar.District Magistrate K V Pandiyan said police and Sashastra Seema Bal ( SSB ) have been alerted after the terror attack and they have been asked to maintain a vigil on the border . 14.08 pm : BJP criticises Nitish over Bodh Gaya bombingsTwo weeks after the 17-year-old alliance between the BJP and the Janata Dal-United snapped , the Bharatiya Janata Party ( BJP ) said the Nitish Kumar-led government has to answer why it did not take any action despite being warned that terror modules were planning to attack the 1,500-year-old temple annually visited by millions from across the world.BJP spokesperson Ravi Shankar Prasad said : We deeply condemn the dastardly attacks . The Mahabodhi temple presents the very idea of India in one way , where Gautam Buddha attained self-realisation ... a place of immense spiritual importance.There had been repeated intelligence inputs about possible terror attacks . The state government had also been told about recces that had been conducted by terror elements of the place , especially in context of the violence in Myanmar , said Prasad , referring to the sectarian violence in Myanmar where scores of people have been killed in unrest between Buddhists and Muslims in Rakhine state.There were warnings , but no preventive action was taken ... Why ? asked Prasad.He said the threat of terrorism looming over the country is immense from the Lashkar-e-Taiba . Those who are trying to control the Intelligence Bureau for vote bank politics should think about this , he added . 14.00 pm : Security has been beefed up at major temples in Jharkhand in the wake of serial blasts rocking Bihar 's famous Mahabodi temple at Bodh Gaya town Sunday morning , police said.The temples where security has been stepped up include Deoghar 's Shiva temple , Parasnath temple in Giridih , Rajrappa temple in Ramgarh and the temples dedicated to Goddess Deori , Lord Shiva and Jagannath in the state capital Ranchi . 13.54 pm : Security beefed up at Mahavir temple in PatnaSecurity has been beefed up at the Mahavir Temple near Patna railway junction in the wake of the serial blasts in Bodh Gaya.Additional Director General of Police ( ADG ) , Law and Order , S K Bharadwaj said a section of the police force was deployed at the temple.Patna senior superintendent of police ( SSP ) Manu Maharaj said that additional security , including anti-sabotage team was deployed at the temple and its surrounding areas.Additional policemen have been deployed as a precautionary measure and the dog squad was put into service to sanitise the temple premises , he said . 13.40 pm : NIA to probe Mahabodhi temple blasts , says Nitish KumarBihar Chief Minister Nitish Kumar said the National Investigation Agency ( NIA ) would conduct a probe into the serial blasts in the Mahabodhi temple at Bodh Gaya town , and the CISF would be deployed for fool-proof security in the area.CISF is the top security force and suitable to protect the Bodh Gaya temple , he said , adding that in view of the serial blasts , the government would heighten security in the area.The Bihar chief minister said the temple would open again soon for pilgrims and tourists , and added that local police had already begun investigations . 13.00 pm : Home Ministry says no Al-Qaeda link in Bodh Gaya blasts 12.45 pm : German bakery blast accused to be questioned on Bodh Gaya terror attack 12.34 pm : Bodh Gaya bombing seems like terror attack : R.P.N. SinghIt does seem like a terror attack but we can not give any details till the investigation is done . No ( terrorist ) outfit has claimed responsibility for the attacks , Minister of State for Home Affairs R.P.N. Singh said.According to the home ministry , the blasts took place in quick succession between 5.30 a.m. and 6 a.m. in the temple complex and near the Bodhi tree , but there was no damage to the temple or the Bodhi tree.Till the investigations are over , we would not like to make any statement . If there were any shortcomings in following up IB ( Intelligence Bureau ) alerts , it will be looked into as a part of the investigation , Singh added .12.02 pm : Mahabodhi temple blast cowardly attack : ModiGujarat Chief Minister Narendra Modi said the serial blasts in Mahabodhi temple in Bodh Gaya district in Bihar is a cowardly attack.Cowardly attack on Mahabodhi temple is a matter of great sadness for the people of India and the Buddhist community around the world , Modi tweeted . 11.52 am : President condemns Bodh Gaya blasts as senseless terror actPresident Pranab Mukherjee on Sunday condemned the serial blasts at Mahabodhi Temple in Bodh Gaya as a senseless act of violence to target innocent pilgrims.Expressing deep anguish over the blasts , he said it was a senseless act of violence targeting innocent pilgrims and monks who had gathered to worship at this temple dedicated to the great apostle of peace - Gautam Buddha.Asking people to maintain calm and restraint , he asked them to cooperate with the authorities in bringing the perpetrators to justice .11.45 am : Attacks on religious places wo n't be tolerated : PMPrime Minister Manmohan Singh Sunday strongly condemned the serial blasts in and around the Mahabodhi temple in Bodh Gaya and said such attacks on religious places will never be tolerated.-I wish speedy recovery to the injured.-India 's composite culture and traditions teach us respect for all religions and such attacks on religious places will never be tolerated . 9.52 am : Bodh Gaya serial blasts a terror attack : Home MinistrySerial explosions inside and outside Mahabodhi temple in Bihar were a terror attack , the Home Ministry said on Sunday as it sent National Investigation Agency ( NIA ) and National Security Guard ( NSG ) teams for post-blasts investigations.It was a terror attack , Union Home Secretary Anil Goswami told PTI.He , however , said so far no group has claimed responsibility for the multiple blasts and investigations were on.Goswami said four blasts took place inside the temple complex while four occurred outside it.Two people have been injured in the blasts hich took place between 5:30 to 5:58 am.Arvind Singh , a member of Mahabodhi Temple Management Commitee said the two injured included a national of Myanmar and another of Tibet . They have been admitted to Magadh Medical College and Hospital , he said.Singh said two other bombs , one near the 80 feet statue and one at bus stand have been defused.Additional Director General of Police ( Law and Order ) S K Bhardwaj said prima facie it seems the serial blasts have been done by some terrorist organisation.Chief Minister Nitish Kumar and DGP Abhyanand have reached for Bodh Gaya by road.Gaya is a Maoist stronghold . DIG Special Branch Parasnath told PTI said , A team of NIA officers is coming to Bodh Gaya from Kolkata.The ADG said that there was a general alert about possibility of terrorist attacks in Bihar and the state police have tightened security.At Bodh Gaya temple , the police security arrangements are only outside the temple while the security inside is looked after by temple trust officials , he said.The DIG said , The sanctum sanctorum of the Mahabodhi Temple is intact . The temple premises have been sanitised.The secretary of the Bodh Gaya committee Dorji said , There were four blasts inside the temple premises.Fortunately , there was no damage to the Bodhi Tree or the main temple structure.In the first blast which took place near the Bodhi tree , a table was blown up because of which two persons were injured . The second blast , I think , was inside the enclosure where books were kept . The furniture was damaged but there was no damage to the monuments or statues , he said.Asked about the nature of explosives used , S K Bharadwaj , ADG ( Law and Order ) said they were low intensity time bombs.He said , We got information about six-seven months back that there may be a terror attack on the Mahabodhi temple.After that we had beefed up secuirty and deployed extra forces.Bodh Gaya Buddhist temple , around 10 km from Gaya and 100 km from capital Patna , is world famous . Lord Buddha had attained enlightenment here under the Mahabodhi tree in the temple premises.The Mahabodhi Temple is frequented by Buddhist pilgrims from Sri Lanka , China and Japan and the whole of southeast Asia.Tibetan spiritual leader the Dalai Lama makes frequent trips to Bodh Gaya and Sri Lankan President Mahinda Rajapaksa had visited it six months back . A total of 52 countries have established their monasteries here . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "", 
+        "Bodh Gaya"
+    ], 
+    "O": [
+        "cylinder bomb:335", 
+        "buddhist:1019", 
+        "buddhist shrines:1031", 
+        "tibetan:1034", 
+        "rohingya muslims:1044", 
+        "home ministry:1078", 
+        "adg:1790", 
+        "law and order:1793", 
+        "ssp:1817", 
+        "sri lankan:2870"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://indiatoday.intoday.in/story/serial-blasts-bodhgaya-in-bihar-mahabodhi-temple/1/287300.html", 
+    "date": "07-07-2013", 
+    "target": "TEMPLE", 
+    "hot_spot": "Bodh Gaya", 
+    "delivery_mod": "TEMPLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Congress", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "Bihar Police", 
+            "101", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "117", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "129", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "153", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "222", 
+            "Accused"
+        ], 
+        [
+            "Special Task Force", 
+            "271", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "371", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahiddin", 
+            "423", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "426", 
+            "Accused"
+        ], 
+        [
+            "Delhi police", 
+            "440", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "447", 
+            "Accused"
+        ], 
+        [
+            "BJP", 
+            "486", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "506", 
+            "Others"
+        ], 
+        [
+            "Chief Minister", 
+            "616", 
+            "Others"
+        ], 
+        [
+            "UPA government", 
+            "623", 
+            "Others"
+        ], 
+        [
+            "UPA", 
+            "916", 
+            "Others"
+        ], 
+        [
+            "United Progressive Alliance", 
+            "918", 
+            "Others"
+        ], 
+        [
+            "Bihar Police", 
+            "937", 
+            "Others"
+        ], 
+        [
+            "Bihar Police", 
+            "969", 
+            "Others"
+        ], 
+        [
+            "CISF", 
+            "1161", 
+            "Others"
+        ], 
+        [
+            "Central Industrial Security Force", 
+            "1187", 
+            "Others"
+        ], 
+        [
+            "CISF", 
+            "1192", 
+            "Others"
+        ], 
+        [
+            "Reserve Bank square", 
+            "1350", 
+            "Others"
+        ], 
+        [
+            "Sashastra Seema Bal", 
+            "1432", 
+            "Others"
+        ], 
+        [
+            "SSB", 
+            "1436", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1461", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1475", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "1483", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "1487", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "1655", 
+            "Accused"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "1664", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "1866", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "1882", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "1886", 
+            "Others"
+        ], 
+        [
+            "local police", 
+            "1969", 
+            "Others"
+        ], 
+        [
+            "Al-Qaeda", 
+            "1983", 
+            "Accused"
+        ], 
+        [
+            "Minister of State for Home Affairs", 
+            "2048", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "2119", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "2121", 
+            "Others"
+        ], 
+        [
+            "Buddhist community", 
+            "2188", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "2397", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "2401", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "2404", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "2408", 
+            "Others"
+        ], 
+        [
+            "Mahabodhi Temple Management Commitee", 
+            "2479", 
+            "Others"
+        ], 
+        [
+            "Magadh Medical College and Hospital", 
+            "2502", 
+            "Others"
+        ], 
+        [
+            "Magadh Medical College", 
+            "2502", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "2571", 
+            "Accused"
+        ], 
+        [
+            "PTI", 
+            "2579", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "2585", 
+            "Others"
+        ], 
+        [
+            "state police", 
+            "2611", 
+            "Others"
+        ]
+    ]
+}

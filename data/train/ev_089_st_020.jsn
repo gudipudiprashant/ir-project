@@ -1,0 +1,192 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "cinema", 
+            "57", 
+            "Neutral"
+        ], 
+        [
+            "bus station", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukh Nagar", 
+            "138", 
+            "Source"
+        ], 
+        [
+            "Hyderabad", 
+            "238", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "254", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "281", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "292", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "337", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "339", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "344", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "422", 
+            "Neutral"
+        ], 
+        [
+            "Kashmiri", 
+            "436", 
+            "Neutral"
+        ], 
+        [
+            "Delhi jail", 
+            "442", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "460", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "478", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "109", 
+            "Comment"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "142", 
+            "Comment"
+        ], 
+        [
+            "Shinde", 
+            "175", 
+            "Comment"
+        ], 
+        [
+            "Mahesh Kumar", 
+            "180", 
+            "Victim"
+        ], 
+        [
+            "Kumar", 
+            "229", 
+            "Victim"
+        ], 
+        [
+            "RK Singh", 
+            "319", 
+            "Comment"
+        ], 
+        [
+            "Rana Banerji", 
+            "349", 
+            "Comment"
+        ], 
+        [
+            "Mohammed Afzal Guru", 
+            "431", 
+            "Others"
+        ], 
+        [
+            "Guru", 
+            "449", 
+            "Others"
+        ], 
+        [
+            "Guru", 
+            "480", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "two minutes : 48", 
+        "evening : 54", 
+        "September 2011 : 284", 
+        "2001 : 457"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "12", 
+    "title": "Hyderabad blasts kill shoppers", 
+    "det_loc": [
+        "India", 
+        "TELANGANA", 
+        "", 
+        "", 
+        "Hyderabad,ide a cinema and a bus station"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two bombs exploded in a crowded shopping district in the southern Indian city of Hyderabad , killing at least 12 people and wounding 50 more in the worst blasts in the country in more than a year , officials said . . . The explosions occurred about two minutes apart in the early evening outside a cinema and a bus station . Storefronts were shattered , motorcycles covered in debris , and food and plates from a roadside restaurant were scattered on the ground near a tangle of dead bodies . . . `` This is a dastardly attack , the guilty will not go unpunished , '' Manmohan Singh , the prime minister , said . He appealed to the public to remain calm . . . The bombs were attached to two bicycles in the Dilsukh Nagar district , Sushilkumar Shinde , home minister , said . The district is a shopping area near a residential neighbourhood . . . Eight people died in one explosion and three in the other , Shinde explained . . . Mahesh Kumar , a 21-year-old student , was heading home from a tutoring class when one of the bombs went off . . . `` I heard a huge sound and something hit me , I fell down , and somebody brought me to the hospital , '' said Kumar , who suffered shrapnel wounds . . . Hyderabad , which has a population of more than seven million , is a hub of India 's information technology industry and has a mixed population of Muslims and Hindus . . . The explosions were the first major bomb attack to hit India since a September 2011 blast outside the high court in New Delhi killed 13 people . The government has been heavily criticised for its failure to arrest the masterminds behind previous bombings . . . Home secretary RK Singh said officials from the National Investigation Agency and commandos of the National Security Guards were leaving Delhi for Hyderabad , the capital of Andhra Pradesh . . . Rana Banerji , a former security official , said India remained vulnerable to such attacks because there was poor co-ordination between the national government and the states . . . Police reforms were also moving very slowly and the quality of intelligence gathering was poor , he said . . . `` The concept of homeland security should be made effective , on a war footing , '' he said . . . India has been on a state of alert since Mohammed Afzal Guru , a Kashmiri , was executed in a Delhi jail nearly two weeks ago . Guru had been convicted of involvement in a 2001 attack on India 's parliament that left 14 people dead , including five gunmen . . . Many in Indian-ruled Kashmir believe Guru did not receive a fair trial , and the secrecy with which the execution was carried out fuelled anger in a region where anti-India sentiment runs deep . . . .", 
+    "injured": "50", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.theguardian.com/world/2013/feb/21/hyderabad-blasts-kill-five", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "Hyderabad,ide a cinema and a bus station", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "325", 
+            "Others"
+        ], 
+        [
+            "National Security Guards", 
+            "332", 
+            "Others"
+        ], 
+        [
+            "national government", 
+            "371", 
+            "Others"
+        ]
+    ]
+}

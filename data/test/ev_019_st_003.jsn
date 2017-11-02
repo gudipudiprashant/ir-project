@@ -1,0 +1,278 @@
+{
+    "LOC": [
+        [
+            "Khagragarh", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Burdwan", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Babri Masjid", 
+            "250", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "287", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "404", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "419", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mukul Roy", 
+            "27", 
+            "Comment"
+        ], 
+        [
+            "Mr. Roy", 
+            "124", 
+            "Comment"
+        ], 
+        [
+            "Biman Bose", 
+            "138", 
+            "Others"
+        ], 
+        [
+            "Mr. Roy", 
+            "185", 
+            "Comment"
+        ], 
+        [
+            "Siddharth Nath Singh", 
+            "278", 
+            "Others"
+        ], 
+        [
+            "Mr. Singh", 
+            "296", 
+            "Comment"
+        ], 
+        [
+            "Mamata Banerjee", 
+            "369", 
+            "Others"
+        ], 
+        [
+            "Mr. Singh", 
+            "373", 
+            "Comment"
+        ], 
+        [
+            "Basudeb Banerjee", 
+            "408", 
+            "Others"
+        ], 
+        [
+            "Biman Basu", 
+            "425", 
+            "Comment"
+        ], 
+        [
+            "Mr. Bose", 
+            "493", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "seven hours : 330", 
+        "two days : 396"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 22"
+    ], 
+    "death": "2", 
+    "title": "Trinamool denies hand in Bardhaman blast", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "AL-QAEDA"
+    ], 
+    "content": "Denying the allegation that the Trinamool Congress had links with the blast at Khagragarh in Bardhaman -LRB- Burdwan -RRB- district last Thursday , party general secretary Mukul Roy said the investigation was following normal procedure . He lauded the police administration for a proper and fast investigation . . . Two persons were killed and another was injured in the blast . . . Earlier in the day , the Bharatiya Janata Party and the Communist Party of India -LRB- Marxist -RRB- charged the Trinamool with having links with the blast . . . How do we know if the BJP and the CPI -LRB- M -RRB- are not linked with the blast and is trying to create unrest in the State ? Mr. Roy asked . He alleged that the Opposition was making irresponsible comments . Biman Bose , CPI -LRB- M -RRB- State secretary , and the BJP are trying to disturb the peace and thus denigrate the government ... by making irresponsible statements . . . Denying the allegation that the house where the blast occurred had a Trinamool office , Mr. Roy said it must be substantiated . . . Local people would have known , if the house had the Trinamool office . Electronic media would have filmed ... do you have any footage that establishes that the house had -LRB- party -RRB- office , he asked . . . One may cook any allegation but it has to be substantiated . In the Babri Masjid demolition case , many allegations were made against BJP leaders , but nothing materialised , he said . . . BJP charge . . BJP leader Siddharth Nath Singh said at a press conference in Delhi that Bangladeshi infiltrators had rented the housed . Mr. Singh said : The local police destroyed all evidence to cover up the incident so that the Trinamool remained above suspicion . . . The local police collected samples and destroyed it within seven hours . The evidence included mobile phones , ID , IM proofs and al-Qaedas jihadi literature . Since the Central forces were informed late , they could not reach on time . All these raise questions on the Mamata Banerjee government , Mr. Singh said . . . Central agency sources told The Hindu that their officials were not allowed entry into the house even two days after the explosion . However , West Bengal Home Secretary Basudeb Banerjee denied non-cooperation with the Central agencies . . . West Bengal Left Front committee chairperson Biman Basu quoted newspaper reports to say pamphlets of banned Muslim fundamentalist organisation were recovered from the house . Later , the CPI -LRB- M -RRB- said in a statement that the Trinamool office was located in the house . Soon after the explosion , the signboard of the Trinamool Congress was removed ... local people alleged that that the police tried to block the probe initially , Mr. Bose said .", 
+    "injured": "1", 
+    "org_unorg": "", 
+    "O": [
+        "Denying:1", 
+        "allegation:3", 
+        "links:9", 
+        "blast:12", 
+        "investigation:31", 
+        "proper and fast investigation:44", 
+        "blast:91", 
+        "Opposition:132", 
+        "irresponsible comments:135", 
+        "peace:156", 
+        "denigrate:159", 
+        "blast:178", 
+        "Electronic media:209", 
+        "footage:219", 
+        "allegation:240", 
+        "demolition case:252", 
+        "allegations:256", 
+        "materialised:265", 
+        "press conference:284", 
+        "Bangladeshi infiltrators:289", 
+        "collected samples:324", 
+        "destroyed:327", 
+        "evidence:334", 
+        "mobile phones:336", 
+        "ID:339", 
+        "IM proofs:341", 
+        "al-Qaedas jihadi literature:344", 
+        "Central forces:350", 
+        "raise questions:365", 
+        "Central agency:379", 
+        "explosion:400", 
+        "Central agencies:414", 
+        "newspaper reports:428", 
+        "pamphlets:432", 
+        "Muslim fundamentalist organisation:435", 
+        "explosion:468", 
+        "signboard:471"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/trinamool-denies-hand-in-bardhaman-blast/article6474377.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Trinamool Congress", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "71", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "76", 
+            "Others"
+        ], 
+        [
+            "Marxist", 
+            "81", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "85", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "101", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "150", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "182", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "206", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "260", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "276", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "314", 
+            "Others"
+        ], 
+        [
+            "al-Qaedas", 
+            "344", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "383", 
+            "Others"
+        ], 
+        [
+            "West Bengal Left Front", 
+            "419", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "447", 
+            "Others"
+        ], 
+        [
+            "Trinamool", 
+            "457", 
+            "Others"
+        ], 
+        [
+            "Trinamool Congress", 
+            "474", 
+            "Others"
+        ]
+    ]
+}

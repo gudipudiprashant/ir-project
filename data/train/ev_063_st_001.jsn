@@ -1,0 +1,153 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Jama Masjid", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Walled City", 
+            "42", 
+            "Event"
+        ], 
+        [
+            "Gate No. 1", 
+            "189", 
+            "Neutral"
+        ], 
+        [
+            "Jama Masjid", 
+            "238", 
+            "Event"
+        ], 
+        [
+            "Gate No. 1", 
+            "334", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "343", 
+            "Neutral"
+        ], 
+        [
+            "Tunda", 
+            "454", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "528", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "531", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Devesh K. Pandey", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Shahi Imam", 
+            "11", 
+            "Comment"
+        ], 
+        [
+            "Mohammad Adil", 
+            "152", 
+            "Comment"
+        ], 
+        [
+            "Shahi Imam", 
+            "241", 
+            "Others"
+        ], 
+        [
+            "K.K. Paul", 
+            "294", 
+            "Others"
+        ], 
+        [
+            "B.L. Joshi", 
+            "345", 
+            "Others"
+        ], 
+        [
+            "Paul", 
+            "356", 
+            "Others"
+        ], 
+        [
+            "Abdul Karim Tunda", 
+            "401", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "evening : 48", 
+        "5-20 p.m.:84"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:51", 
+        "1996-98:412"
+    ], 
+    "death": "", 
+    "title": "Blasts in Delhi Jama Masjid leave 14 persons injured", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-QAHAB"
+    ], 
+    "content": "Devesh K. Pandey . . Low-intensity crude devices used ; Shahi Imam appeals for calm . . NEW DELHI : Fourteen persons , including a woman and a girl , were injured in two explosions inside the Jama Masjid in the Walled City area here soon after evening prayers on Friday . Initial investigations indicated that low-intensity crude bombs were used . No outfit has claimed responsibility for the blasts . . . According to eyewitnesses , the first explosion took place at 5-20 p.m. , soon after the ` namazis ' went to a tank at the centre of the mosque to clean themselves . ` As soon as I got up after namaz , I heard a loud explosion . I saw a person standing near the tank being thrown away in the impact of the blast . He sustained injuries in the thigh and legs , ' said Mohammad Adil . . . Realising that it was a bomb blast , the mosque authorities immediately urged the ` namazis ' to stay away from a polythene bag found near the tank . Policemen stationed outside Gate No. 1 of the mosque rushed inside . . . Just then , the second bomb exploded and more people were injured . They were taken to the nearby Lok Nayak Jayaprakash Narain Hospital , where they were stated to be out of danger . . . The Jama Masjid 's Shahi Imam appealed to the people over the public address system to maintain calm . He said the explosions were the acts of certain people who wanted to whip up communal passions and create disturbance in the country . He asked the people to pray for communal harmony . . . Police Commissioner K.K. Paul , who arrived at the spot , urged the people not to be carried away by rumours . . . Even as a forensic team was gathering evidence from the explosion sites , hundreds of people gathered outside Gate No. 1 and shouted slogans . . . Delhi Lieutenant-Governor B.L. Joshi visited the masjid and he , along with Dr. Paul , went to the hospital to meet the victims . Enquiries showed that both bombs were kept in two polythene bags near the tank . . . The bombs appear to be similar to the ones used by the Pakistan-based top Lashkar-e-Taiba militant , Abdul Karim Tunda , to trigger explosions in the capital in 1996-98 . . . Initial investigations indicated that no timer device was used , creating a strong suspicion that chemicals , readily available in the market , were used to prepare the bombs . . . According to the police sources , Tunda was an expert in preparing bombs using potassium chlorate or ammonium nitrate with sulphuric acid . He would keep the two chemicals in a container in such a way that the bomb would explode after a while . . . Focus on local groups . . Though the police are probing the role of all extremist outfits , for the time being they are focussing on local groups suspected to be operating from Delhi or neighbouring Uttar Pradesh , it is learnt . ` The nature of injuries suggests that the explosions were carried out just to create terror . The real motive behind the blasts was not to kill but to send across some message , ' said a police officer .", 
+    "injured": "14", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Delhi", 
+        "Jama Masjid in the Walled City"
+    ], 
+    "O": [
+        "police commissioner:292", 
+        "polythene bags:376", 
+        "tank:380", 
+        "potassium chlorate:462", 
+        "ammonium nitrate:465", 
+        "sulphuric acid:468"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/blasts-in-delhi-jama-masjid-leave-14-persons-injured/article3147855.ece", 
+    "date": "14-04-2006", 
+    "target": "", 
+    "hot_spot": "Jama Masjid in the Walled City", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "Lok Nayak Jayaprakash Narain Hospital", 
+            "219", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "398", 
+            "Accused"
+        ]
+    ]
+}

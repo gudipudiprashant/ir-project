@@ -46,7 +46,7 @@ class W2vExtrapolator:
 		similar = [ ('w', 2 ) ]  # word2vec generate statement here
 		non_ent_list = []
 		for word_tup in similar:
-			if word_tup[0] in not self.entitiy_set:
+			if word_tup[0] not in self.entitiy_set:
 				non_ent_list.append(word_tup)
 
 		similar = sorted(non_ent_list, key = lambda x: x[1])

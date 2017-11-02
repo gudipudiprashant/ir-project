@@ -1,0 +1,70 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Fancy Bazar", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Guwahati jail", 
+            "23", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "1130 hours : 28"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 18:3"
+    ], 
+    "death": "", 
+    "title": "Bomb blast in Guwahati leaves 4 injured", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Guwahati , May 18 : At least four persons were injured when a bomb exploded in the Fancy Bazar area near the Guwahati jail today at around 1130 hours . . . One of the victims was seriously injured and had been rushed to the MMC hospital near here . . . The police confirmed that the bomb was kept in a rickshaw parked near the wall of the jail . They said the casualty figure was low due to the presence of the wall . . . Police suspect it to be the handiwork of ULFA , which had attacked the area several times earlier . . . '' This is the first time that the outfit has exploded a bomb during day , '' police said . . . Scared businessmen of the busy commercial hub of the region immediately shut down establishments for the day . . . .", 
+    "injured": "4", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "", 
+        "Fancy Bazar,Guwahati"
+    ], 
+    "O": [
+        "police:127"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/2007/05/18/bomb-blast-in-guwahati-leaves-4-injured-1179481237.html", 
+    "date": "18-05-2007", 
+    "target": "", 
+    "hot_spot": "Fancy Bazar,Guwahati", 
+    "delivery_mod": "RICKSHAW", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "MMC hospital", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "97", 
+            "Accused"
+        ]
+    ]
+}

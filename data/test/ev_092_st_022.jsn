@@ -1,0 +1,252 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "DELHI", 
+            "2", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "168", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "234", 
+            "Neutral"
+        ], 
+        [
+            "Bastar district", 
+            "257", 
+            "Neutral"
+        ], 
+        [
+            "Bastar district", 
+            "257", 
+            "Neutral"
+        ], 
+        [
+            "Bastar", 
+            "257", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "293", 
+            "Neutral"
+        ], 
+        [
+            "Chhattisgarh", 
+            "349", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "RPN Singh", 
+            "58", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "R K Singh", 
+            "184", 
+            "Others"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "210", 
+            "Others"
+        ], 
+        [
+            "Raman Singh", 
+            "237", 
+            "Others"
+        ], 
+        [
+            "Patel", 
+            "266", 
+            "Victim"
+        ], 
+        [
+            "Dinesh", 
+            "270", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Mahendra Karma", 
+            "274", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Uday Mudliyar", 
+            "278", 
+            "Assoc_Victim"
+        ], 
+        [
+            "V C Shukla", 
+            "289", 
+            "Assoc_Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:66", 
+        "Saturday:123", 
+        "Sunday:214", 
+        "Saturday:246", 
+        "1900:304", 
+        "Monday:356"
+    ], 
+    "death": "", 
+    "title": "NIA team reaches Maoist attack site, begins probe", 
+    "det_loc": [
+        "India", 
+        "Chattisgarh", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "NEW DELHI : A team of NIA officials has reached the deadly Naxal attack site in Chhattisgarh and began its probe to find out possible lapses on the part of the central forces or the state government , Times Now reported . Action will be taken if anyone is found guilty , minister of state for home RPN Singh told reporters in New Delhi on Monday . ` We have asked the NIA to investigate the Maoist attack . Security lapses could have taken place . Any lapse on the part of central forces or the state government , buck will have to be stopped somewhere . We have to take action , ' he said . Asked whether the mastermind of Saturday 's attack on Congress workers has been identified , Singh said it was too early to say that and any conclusion could be reached only when the probe is completed . The Centre has already deployed 30 battalion -LRB- approximately 30,000 personnel -RRB- in Chhattisgarh to help the state government carry out anti-Naxal operations . Earlier , Union home secretary R K Singh said an official order formally handing over the case to NIA to carry out the investigation would be issued soon . Home minister Sushilkumar Shinde had on Sunday said that NIA will probe the Maoist attack on Congress leaders and the Centre has received a go-ahead from Chhattisgarh chief minister Raman Singh for it . Heavily-armed Maoists had on Saturday ambushed a convoy of Congress leaders in the state 's Bastar district , killing 27 people including PCC chief Patel , his son Dinesh , Congress leader Mahendra Karma and ex-MLA Uday Mudliyar and injuring 32 others , including former Union minister V C Shukla . Chhattisgarh is one of the worst Maoist violence-affected states and nearly 1900 lives have been lost in last eight years of which around 570 were civilians , 700 security personnel and the rest were Naxal cadres . MHA asks states to revamp security of political leaders In the wake of the attack on Congress leaders in Chhattisgarh , the Union home ministry on Monday asked all Maoists-hit states to revamp security of political workers and ensure that political activities are not affected by any violence . In an advisory to Naxal-hit states , the home ministry said security of political leaders both national and regional parties should be reviewed thoroughly and , if necessary , their protection should be upgraded . The Centre said there should not be any letup in the security of political leaders and whenever they travel or attend any function , adequate security should be provided . The home ministry has asked the states to ensure that activities of political parties should not be hampered by threat , intimidation or violence by Maoists . -LRB- With inputs from PTI -RRB- .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "naxal:13", 
+        "attack site:14", 
+        "state government:36", 
+        "minister:53", 
+        "maoist:77", 
+        "maoist attack:77", 
+        "security lapses:80", 
+        "state government:97", 
+        "mastermind:121", 
+        "The Centre:155", 
+        "state government:172", 
+        "anti-Naxal:176", 
+        "anti-Naxal operations:176", 
+        "union:181", 
+        "Union home secretary:181", 
+        "home secretary:182", 
+        "order:190", 
+        "home minister:208", 
+        "Maoist:221", 
+        "chief minister:235", 
+        "convoy:249", 
+        "state:255", 
+        "district:258", 
+        "leader:273", 
+        "ex-MLA:277", 
+        "former union:286", 
+        "maoist:299", 
+        "security:321", 
+        "rest:325", 
+        "naxal:327", 
+        "mha:330", 
+        "security:335", 
+        "attack:344", 
+        "union:352", 
+        "union home ministry:352", 
+        "home ministry:353", 
+        "Maoists-hit:359", 
+        "naxal-hit:383", 
+        "home ministry:387", 
+        "security:390", 
+        "protection:409", 
+        "centre:415", 
+        "security:425", 
+        "security:439", 
+        "home ministry:445", 
+        "threat:463", 
+        "intimidation:465", 
+        "violence:467", 
+        "pti:475"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/NIA-team-reaches-Maoist-attack-site-begins-probe/articleshow/20290942.cms", 
+    "date": "25-05-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Congress", 
+            "127", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "217", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "221", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "224", 
+            "Others"
+        ], 
+        [
+            "Centre", 
+            "228", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "243", 
+            "Others"
+        ], 
+        [
+            "PCC", 
+            "264", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "346", 
+            "Others"
+        ]
+    ]
+}

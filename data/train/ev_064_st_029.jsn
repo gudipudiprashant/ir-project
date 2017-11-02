@@ -1,0 +1,108 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Aurangabad", 
+            "105", 
+            "Neutral"
+        ], 
+        [
+            "Nasik", 
+            "107", 
+            "Neutral"
+        ], 
+        [
+            "Nagpur", 
+            "109", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "141", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bangalore", 
+            "143", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:25", 
+        "Wednesday:52"
+    ], 
+    "death": "190", 
+    "title": "LeT and SIMI handiwork suspected in Mumbai blasts", 
+    "org_unorg": "", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA", 
+        "STUDENTS ISLAMIC MOVEMENT OF INDIA"
+    ], 
+    "content": "Police suspect Lashkar-e-Tayiba and the banned Students Islamic Movement of India to be behind the serial blasts in the suburban trains of Mumbai on Tuesday evening . . . The magnitude of the synchronised blasts have conclusively pointed to the use of RDX by the attackers , official sources said on Wednesday . . . The seven synchronised blasts have killed at least 190 people and left another 625 injured . . . According to the police , several modules of LeT and SIMI were busted and huge amounts of explosive materials , including RDX , were recovered during raids at various places in Aurangabad , Nasik and Nagpur over the last two months . . . During investigations , it also came to light that similar modules of LeT were actively operating in several towns of Maharashtra , besides Hyderabad and Bangalore . .", 
+    "injured": "625", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        "suburban trains"
+    ], 
+    "O": [
+        "serial blasts in the suburban trains:16", 
+        "use of rdx by the attackers:41", 
+        "seven synchronised blasts:57", 
+        "RDX:95"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.rediff.com/news/2006/jul/12mumblast2.htm", 
+    "date": "11-07-2006", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "Lashkar-e-Tayiba", 
+            "3", 
+            "Accused"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "7", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "82", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "84", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "130", 
+            "Accused"
+        ]
+    ]
+}

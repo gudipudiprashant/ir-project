@@ -1,0 +1,364 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Dimapur", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Nagaland", 
+            "48", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "Nagaland", 
+            "71", 
+            "Event"
+        ], 
+        [
+            "Nagaland", 
+            "260", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "311", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "346", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "383", 
+            "Neutral"
+        ], 
+        [
+            "Nagaland", 
+            "385", 
+            "Neutral"
+        ], 
+        [
+            "Manipur", 
+            "477", 
+            "Neutral"
+        ], 
+        [
+            "Nagaland", 
+            "480", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "482", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "501", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "508", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "600", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "616", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "A.P.J. Abdul Kalam", 
+            "26", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "66", 
+            "Others"
+        ], 
+        [
+            "Neiphiu Rio", 
+            "75", 
+            "Others"
+        ], 
+        [
+            "Kalam", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "378", 
+            "Others"
+        ], 
+        [
+            "Vijay Kumar Malhotra", 
+            "450", 
+            "Others"
+        ], 
+        [
+            "Dhruba Baishya", 
+            "574", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "yesterday : 52", 
+        "today : 219", 
+        "today : 509", 
+        "yesterday : 512", 
+        "12-hour : 615", 
+        "tomorrow : 618", 
+        "tomorrow : 638"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "OCT. 3 : 20"
+    ], 
+    "death": "", 
+    "title": "Kalam condoles loss of lives in blasts", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "National Kalam condoles loss of lives in blasts . . By Our Special Correspondent . . NEW DELHI , OCT. 3 . The President , A.P.J. Abdul Kalam , has condoled the loss of lives in a series of bomb blasts and militant attacks at Dimapur in Nagaland and in Assam yesterday . . . In separate condolence messages to the Assam Chief Minister , Tarun Gogoi , and the Nagaland Chief Minister , Neiphiu Rio , Mr. Kalam said that the acts of violence ` are to be condemned and are reprehensible acts of people who do not value innocent human lives , even those of women and children . '' . . ' I fervently hope that permanent peace will return to the State soon . I am sure the State Governments have made all arrangements to treat the injured and provide succour to the families of those who have lost their loved ones , ' he said . . . Strategy sought . . The Communist Party of India , the Communist Party of India -LRB- Marxist -RRB- and the Bharatiya Janata Party have condemned the blasts and called upon the Centre , the State Governments and the authorities to work out a strategy to counter such incidents . . . In a statement here today , the CPI -LRB- M -RRB- Polit Bureau said that the Central Government should immediately convene meetings with the State Governments and other authorities in the North-East to work out a strategy . . . Expressing shock and condemning the Nagaland blasts , the CPI -LRB- M -RRB- said that the ` premeditated manner ' in which the bombs were placed at the railway station and the market showed the ` aim of the attacks is to disrupt peaceful atmosphere in the State . ' . . On the attacks in Assam , they said , ` All attempts to foment ethnic conflicts through such violent attacks have no support from the common people . The growing trend of extremist groups resorting to indiscriminate violence in Assam must be countered by firm action and popular mobilisation to isolate them . ' . . ` Talk to State Governments ' . . The CPI urged the Home Minister , Shivraj Patil , now visiting Assam and Nagaland , to talk to the State Governments and other authorities and evolve a strategy to counter the insurgency and prevent further deterioration of the situation . ` It is also necessary to take fresh political initiatives to restore normality and tranquillity in the entire North-East region , ' the party said . . . Condemning the incidents , the BJP Parliamentary Party spokesman , Vijay Kumar Malhotra , said : ` It appears that the Government does not seem to be very sensitive towards the internal security issues . Beginning with Manipur and now Nagaland and Assam , the whole of North-East seems to be burning . ' . . PTI and UNI report from Guwahati : . . The BJP in Assam today said that yesterday was a ` black day ' for the State and alleged that the Congress Government in the State had lost the moral right to continue . ` The day was a black day for the State when many innocent lives were lost and the Government just remained a mute spectator , ' a spokesman for the party 's State unit , Dhruba Baishya , said . He alleged that the State Government was ` directionless ' and had no policies to deal with militancy . . . Assam bandh . . The All-Bodo Students Union -LRB- ABSU -RRB- has called for a 12-hour Assam bandh tomorrow to protest against the killing of innocent people.Several other organisations have also condemned the killings and extended support to tomorrow 's bandh .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "national kalam condoles:1", 
+        "blasts:8", 
+        "special correspondent:13", 
+        "series of bomb blasts:38", 
+        "militant attacks:43", 
+        "separate condolence:57", 
+        "acts of violence:83", 
+        "condemned:90", 
+        "reprehensible acts:93", 
+        "permanent peace:120", 
+        "state:126", 
+        "treat:140", 
+        "injured:142", 
+        "condemned:188", 
+        "blasts:190", 
+        "centre:195", 
+        "authorities:202", 
+        "strategy:207", 
+        "counter:209", 
+        "incidents:211", 
+        "convene meetings:235", 
+        "authorities:243", 
+        "north-east:246", 
+        "blasts:261", 
+        "bombs:278", 
+        "railway station:283", 
+        "market:287", 
+        "disrupt peaceful atmosphere:297", 
+        "state:302", 
+        "attacks:309", 
+        "attempts:318", 
+        "foment ethnic conflicts:320", 
+        "violent attacks:325", 
+        "growing trend:336", 
+        "extremist groups:339", 
+        "indiscriminate violence:343", 
+        "countered:349", 
+        "popular mobilisation:354", 
+        "authorities:395", 
+        "evolve:397", 
+        "strategy:399", 
+        "insurgency:403", 
+        "deterioration:407", 
+        "fresh political initiatives:419", 
+        "tranquillity:426", 
+        "north-east:430", 
+        "parliamentary party:446", 
+        "internal security issues:471", 
+        "north-east:487", 
+        "burning:491", 
+        "black day:516", 
+        "state:521", 
+        "alleged:523", 
+        "congress government:526", 
+        "state:530", 
+        "lost:532", 
+        "moral right:534", 
+        "black day:544", 
+        "state:548", 
+        "innocent lives:551", 
+        "spectator:562", 
+        "state unit:571", 
+        "alleged:580", 
+        "directionless:587", 
+        "militancy:596", 
+        "bandh:601", 
+        "bandh:617", 
+        "protest:620", 
+        "innocent:625", 
+        "condemned:631", 
+        "killings:633", 
+        "extended support:635", 
+        "bandh:640"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2004/10/04/stories/2004100406171100.htm", 
+    "date": "03-10-2004", 
+    "target": "CROWDED PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "State Governments", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "169", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "175", 
+            "Others"
+        ], 
+        [
+            "Marxist", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "184", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "222", 
+            "Others"
+        ], 
+        [
+            "M -RRB-", 
+            "224", 
+            "Others"
+        ], 
+        [
+            "Polit Bureau", 
+            "226", 
+            "Others"
+        ], 
+        [
+            "Central Government", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "State Governments", 
+            "239", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "264", 
+            "Others"
+        ], 
+        [
+            "M", 
+            "266", 
+            "Others"
+        ], 
+        [
+            "State Governments", 
+            "366", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "372", 
+            "Others"
+        ], 
+        [
+            "State Governments", 
+            "391", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "445", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "496", 
+            "Others"
+        ], 
+        [
+            "UNI", 
+            "498", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "506", 
+            "Others"
+        ], 
+        [
+            "Government", 
+            "557", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "583", 
+            "Others"
+        ], 
+        [
+            "All-Bodo Students", 
+            "605", 
+            "Others"
+        ], 
+        [
+            "ABSU", 
+            "609", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "LOC": [
+        [
+            "Bangalore", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "dargah", 
+            "41", 
+            "Event"
+        ], 
+        [
+            "Ajmer", 
+            "47", 
+            "Assoc_Event"
+        ], 
+        [
+            "Rajasthan", 
+            "49", 
+            "Assoc_Event"
+        ], 
+        [
+            "Saudi Arabia", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "179", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer sharif", 
+            "202", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ajmer sharif", 
+            "202", 
+            "Assoc_Event"
+        ], 
+        [
+            "India", 
+            "224", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "265", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "415", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad .", 
+            "417", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "417", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "455", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Khwaja Moinuddin Chishti", 
+            "43", 
+            "Victim"
+        ], 
+        [
+            "Saeed Noori", 
+            "182", 
+            "Assoc_Victim"
+        ], 
+        [
+            "Narendra Modis", 
+            "270", 
+            "Others"
+        ], 
+        [
+            "Majeed Memon", 
+            "359", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Experts see Wahabis in garb of Indian Mujahideen", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "MUMBAI : The intelligence community believes the serial blasts of Bangalore and Ahmedabad were executed by a network of Wahabi fundamentalists masquerading as Indian Mujahideen.This terror network started by organizing blasts at holy places of rival Barelvi Muslims like the dargah of Khwaja Moinuddin Chishti in Ajmer , Rajasthan . Over the past five years the Wahabis , who are heavily funded by religious puritans in Saudi Arabia , have been conducting a high-intensity propaganda war within the Muslim community against so-called un-Islamic practices.Thousands of publications have been brought out by them to convince Muslims to follow the path of ` true Islam ' . Members of several front organizations also visit homes to convince people to abandon ` non-Islamic rituals ' . Sources said predictably these activities have been vehemently opposed by the Barelvis who also brought out publications countering the Wahabi ideology , which is believed to provide a theological justification for terror . A Barelvi publication titled Gair Mokallidon ke Akeede quotes chapter and verse from Wahabi publications , which are against Islam . In Mumbai maulanas like Saeed Noori have been in the forefront of the campaign to counter Wahabism.The proverbial last straw was the blast at Ajmer sharif . It provoked widespread reaction among the Barelvis against Wahabi fanaticism , which had backed the Students Islamic Movement of India -LRB- SIMI -RRB- , police sources said . ` Fearing their isolation , the Wahabi elements are now trying to project themselves as people fighting against injustice to Muslims as a whole . The decision to organize serial blasts in Ahmedabad , including four in Narendra Modis constituency , was clearly aimed at getting the sympathy of the Muslim masses , ' a senior intelligence official observed . ` There is a big vacuum in Muslim leadership and the Wahabis are planning to fill the gap with their violent deeds , he added . However , a majority of Muslims have condemned the blasts and they say that a ` big injustice ' is being done to the community by those sponsoring such terror strikes.National secretary of the Nationalist Congress Party and noted advocate Majeed Memon said : ` The blasts can have no place in Islam . But if the Indian Mujahideens have any grievance then it should appoint a committee to have a dialogue with the government . Meanwhile , the Intelligence Bureau is reported to be close on the heels of the mastermind behind the blasts in Bangalore and Ahmedabad . The bureau is convinced that Indian Mujahideen has been trained by the ISI , which was why the blasts could be executed with professional precision . It is feared that the next targets could be in Maharashtra where the police force is at its demoralised worst .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "mumbai:1", 
+        "intelligence community:4", 
+        "network:18", 
+        "wahabi fundamentalists:20", 
+        "rival barelvi:36", 
+        "barelvi muslims:37", 
+        "dargah:41", 
+        "Wahabis:57", 
+        "propaganda war:75", 
+        "Muslim:79", 
+        "community:80", 
+        "un-Islamic practices.Thousands:83", 
+        "true islam:102", 
+        "barelvis:135", 
+        "wahabi:143", 
+        "ideology:144", 
+        "justification:153", 
+        "terror:155", 
+        "Barelvi publication titled Gair Mokallidon ke Akeede:158", 
+        "wahabi publications:170", 
+        "wahabi:170", 
+        "islam:176", 
+        "Wahabism.The:194", 
+        "sharif:203", 
+        "barelvis against wahabi:211", 
+        "barelvis:211", 
+        "wahabi fanaticism:213", 
+        "wahabi:213", 
+        "fanaticism:214", 
+        "islamic movement:221", 
+        "police:229", 
+        "isolation:236", 
+        "Wahabi:239", 
+        "injustice:251", 
+        "Muslims:253", 
+        "constituency:272", 
+        "intelligence official:289", 
+        "leadership:301", 
+        "injustice:336", 
+        "community:343", 
+        "terror strikes.national secretary:348", 
+        "islam:371", 
+        "grievance:380", 
+        "government:393", 
+        "intelligence bureau:398", 
+        "mastermind:410", 
+        "bureau:420", 
+        "police force:458"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Experts-see-Wahabis-in-garb-of-Indian-Mujahideen/articleshow/3292655.cms?referral=PM", 
+    "date": "25-07-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen.This", 
+            "24", 
+            "Accused"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "220", 
+            "Assoc_Accused"
+        ], 
+        [
+            "SIMI", 
+            "226", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Nationalist Congress Party", 
+            "353", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideens", 
+            "376", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "424", 
+            "Assoc_Accused"
+        ], 
+        [
+            "ISI", 
+            "431", 
+            "Assoc_Accused"
+        ]
+    ]
+}

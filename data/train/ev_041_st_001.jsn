@@ -1,0 +1,92 @@
+{
+    "LOC": [
+        [
+            "upper Assam", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Tinsukia", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "G.N.B. Road", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "upper Assam", 
+            "104", 
+            "Event"
+        ], 
+        [
+            "Chabua", 
+            "107", 
+            "Neutral"
+        ], 
+        [
+            "Kakopathar", 
+            "142", 
+            "Source"
+        ], 
+        [
+            "Sivasagar", 
+            "149", 
+            "Source"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "evening : 17", 
+        "6.05 p.m.:55"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:16"
+    ], 
+    "death": "", 
+    "title": "Three injured in grenade blast in Tinsukia town", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Three persons were injured in a grenade blast in upper Assam 's Tinsukia town on Monday evening . The condition of one of them is stated to be critical . . . Police said that two unidentified youths reportedly lobbed a grenade in the busy G.N.B. Road in the heart of Tinsukia town at 6.05 p.m. and sped away in a Maruti van . The glass panes of several vehicles and shops were smashed in the impact . No outfit has so far claimed responsibility . . . In another incident , security forces recovered a powerful bomb weighing about 5 kg in upper Assam 's Chabua town earlier in the day . A woman , who is suspected to have been the courier , has been taken into custody . . . Initial investigation revealed that bomb was brought from Kakopathar area and was being taken to Sivasagar town .", 
+    "injured": "3", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "guwahati", 
+        "upper Assam"
+    ], 
+    "O": [
+        "Police:33", 
+        "Maruti van:62", 
+        "5 kg:101"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/three-injured-in-grenade-blast-in-tinsukia-town/article2770114.ece", 
+    "date": "02-01-2012", 
+    "target": "", 
+    "hot_spot": "upper Assam", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": []
+}

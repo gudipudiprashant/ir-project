@@ -1,0 +1,106 @@
+{
+    "LOC": [
+        [
+            "West Bengals", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "10", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dilip Adak", 
+            "64", 
+            "Comment"
+        ], 
+        [
+            "Abdul Hakim", 
+            "111", 
+            "Accused"
+        ], 
+        [
+            "Hashem Molla", 
+            "127", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "Six days : 1"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:44", 
+        "Tuesday:125", 
+        "Monday:138"
+    ], 
+    "death": "", 
+    "title": "Bardhaman blast accused charged under UAPA", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Six days after the accidental blast in West Bengals Bardhaman district , the four arrested in the case have been charged under sections of the Unlawful Activities Prevention Act -LRB- UAPA -RRB- , Criminal Investigation Department -LRB- CID -RRB- officials said here on Wednesday . . . We have charged all the four including two women under several sections of the UAPA , Dilip Adak , Deputy Inspector General of CID , told The Hindu . . . The accused have also been charged under other sections of the Indian Penal Code such as 121A , 122 and 123 relating to waging war against the state . . . While Abdul Hakim , who was present at the blast site , was arrested on Tuesday , Hashem Molla , another accused in the case was arrested on Monday .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "West Bengal", 
+        ""
+    ], 
+    "O": [
+        "accidental blast:5", 
+        "four arrested:14", 
+        "Unlawful Activities Prevention Act:26", 
+        "UAPA:31", 
+        "UAPA:62", 
+        "accused:80", 
+        "Indian Penal Code:90", 
+        "121A:95", 
+        "122:97", 
+        "123:99", 
+        "waging war:102", 
+        "blast site:119", 
+        "accused:131", 
+        "arrested:136"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/bardhaman-blast-accused-charged-under-uapa/article6483352.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "ACCIDENTAL", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Criminal Investigation Department", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "CID", 
+            "38", 
+            "Others"
+        ], 
+        [
+            "CID", 
+            "71", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "74", 
+            "Others"
+        ]
+    ]
+}

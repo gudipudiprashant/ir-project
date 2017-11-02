@@ -1,0 +1,63 @@
+{
+    "LOC": [
+        [
+            "Tamil Nadu", 
+            "7", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "87", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "evening : 19"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:18"
+    ], 
+    "death": "", 
+    "title": "Security stepped up", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Security has been stepped up across Tamil Nadu hours after the twin bomb blasts in Hyderabad on Thursday evening . The Standard Operating Procedure that includes intensified vehicle checks , security at vital installations and patrolling , was set in motion . . . According to police sources , police screened baggage of passengers at important railway stations . Security was strengthened at airports , major bus stands , malls and commercial streets . There is no specific threat perceived by intelligence agencies with regard to Tamil Nadu . However , heightened security arrangements are in place , a senior police official said . . . Police appealed to public to alert the control room or nearest police station if they came across any suspicious object or abandoned vehicle .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "TELANGANA", 
+        "", 
+        "Hyderabad", 
+        "Hyderabad"
+    ], 
+    "O": [
+        "police:47", 
+        "railway stations:57", 
+        "airports:64", 
+        "major bus stands:66", 
+        "malls and commercial streets:70"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/security-stepped-up/article4445159.ece", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "Hyderabad", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

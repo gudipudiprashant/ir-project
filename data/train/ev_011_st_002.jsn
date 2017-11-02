@@ -1,0 +1,142 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Seshapani stretch", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "88", 
+            "Neutral"
+        ], 
+        [
+            "Kakiragram", 
+            "189", 
+            "Neutral"
+        ], 
+        [
+            "Sechapani", 
+            "191", 
+            "Neutral"
+        ], 
+        [
+            "Gossaigaon", 
+            "215", 
+            "Neutral"
+        ], 
+        [
+            "Bongaon", 
+            "241", 
+            "Event"
+        ], 
+        [
+            "Gossaigaon", 
+            "243", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "B. Sudem", 
+            "99", 
+            "Comment"
+        ], 
+        [
+            "Komal Basumatary", 
+            "235", 
+            "Accused"
+        ], 
+        [
+            "Mohesh Mochahary", 
+            "238", 
+            "Accused"
+        ], 
+        [
+            "Sapkhata", 
+            "269", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "June 23:3", 
+        "August:153", 
+        "June 20:210", 
+        "Friday:246"
+    ], 
+    "death": "", 
+    "title": "NDFB denies role in blast on tracks, blames BLT", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        "railway,Seshapani stretch"
+    ], 
+    "terror_group": [
+        "NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)"
+    ], 
+    "content": "Guwahati , June 23 : The banned National Democratic Front of Boroland ( NDFB ) has blamed the Bodo Liberation Tigers for Fridays rail blast , thereby accusing it of violating the ceasefire with the Centre . . . Denying its involvement in the explosion on the tracks on the Seshapani stretch in Kokrajhar district , the outfit also questioned the credibility of the administrations intelligence network . It is common knowledge that the area is dominated by the BLT . It is BLTs handiwork but the Kokrajhar administration put the blame on us , NDFBs self-styled captain B. Sudem claimed in a press note . . . The outfits allegation is likely to embarrass the BLT , also a signatory to the new Bodo pact that envisages a new administrative set-up with the creation of the proposed Bodoland Territorial Council . The Centre has pledged to approve the BTC Bill by August if required , by convening a special session of Parliament . . . Though there was no casualty in the blast triggered during heavy showers , 10 bogies of a goods train were derailed between Kakiragram and Sechapani . Train services were restored yesterday . . . The outfit also sought a judicial inquiry into the June 20 encounter deaths in Gossaigaon sub-division . . . The outfit refuted the armys claim that it had gunned down two of its activists Komal Basumatary and Mohesh Mochahary at Bongaon under Gossaigaon sub-division on Friday in an encounter and seized arms from them . Sudem alleged that the victims were farmers killed by the Army personnel from Sapkhata while they were working in their field .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1030624/asp/northeast/story_2096915.asp", 
+    "date": "20-06-2003", 
+    "target": "", 
+    "hot_spot": "railway,Seshapani stretch", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Democratic Front of Boroland", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "NDFB", 
+            "14", 
+            "Accused"
+        ], 
+        [
+            "Bodo Liberation Tigers", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "Bodo", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "Bodoland Territorial Council", 
+            "139", 
+            "Others"
+        ], 
+        [
+            "BTC", 
+            "150", 
+            "Others"
+        ]
+    ]
+}

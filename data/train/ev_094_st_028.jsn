@@ -1,0 +1,180 @@
+{
+    "LOC": [
+        [
+            "Ranchi", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Jharkhand", 
+            "42", 
+            "Neutral"
+        ], 
+        [
+            "Jharkhand", 
+            "62", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "84", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "146", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "171", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "176", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "180", 
+            "Neutral"
+        ], 
+        [
+            "Ranchi", 
+            "187", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "221", 
+            "Neutral"
+        ], 
+        [
+            "Ranchi", 
+            "232", 
+            "Event"
+        ], 
+        [
+            "Jharkhand", 
+            "264", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Haider Ali", 
+            "71", 
+            "Accused"
+        ], 
+        [
+            "Narendra Modi", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "Haider Ali", 
+            "274", 
+            "Accused"
+        ], 
+        [
+            "Tehseen Akhtar", 
+            "282", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "296", 
+            "Accused"
+        ], 
+        [
+            "Haider Ali", 
+            "307", 
+            "Accused"
+        ], 
+        [
+            "Tehseen Akhtar", 
+            "313", 
+            "Accused"
+        ], 
+        [
+            "Imtiaz Ansari", 
+            "324", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "night : 121"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "15", 
+    "title": "27 live bombs found in Ranchi hotel, Patna blasts suspect reportedly stayed there", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A member of the bomb disposal squad defuses live bombs found after a search operation by NIA teams in RanchiRanchi : 27 live bombs have been found in a room of a privately-run small hotel in Ranchi , the capital of Jharkhand and around 350 kilometres from Patna.The bombs were discovered when the National Investigation Agency or NIA along with the Jharkhand Police raided the hotel after a tip-off that Haider Ali , one the main suspects in the serial blasts that hit Patna last month , hours before a Narendra Modi rally , might have been seen there . Four people have been detained for questioning but there have been no arrests.The police said they worked till late last night to defuse the explosives , which were pipe bombs , nine bundles of three each and very similar to those that went off in Patna . A senior cop said they also found `` timer devices with lotus branding , '' much like the ones that were found in Patna and also in the Bodh Gaya blasts in Bihar some months ago.The bombs found in Ranchi were powerful ; one of these bundles could have killed about 15 to 10 people and injured another 50 , the police said . Six people were killed and 83 injured in the Patna attack , which investigators link to a newly-formed branch in Ranchi of terror group Indian Mujahideen , though it has not claimed responsibility.Haider Ali is among the six accused of the attack . Last week , the NIA raided a village in Jharkhand to find him but he managed to escape.Investigators say Haider Ali is allegedly in close touch with Tehseen Akhtar , who has been effectively running the Mujahideen since its reported co-founder Yasin Bhatkal was arrested in August.Those handling the case say that Haider Ali passed on instructions from Tehseen Akhtar to the man assigned to execute the attacks , Imtiaz Ansari . He was arrested while trying to run away from the train station where the first of seven bombs exploded in Patna.Another 11 bombs were found and defused in the city . .", 
+    "injured": "50", 
+    "det_loc": [
+        "India", 
+        "Jharkhand", 
+        "", 
+        "Ranchi", 
+        "small hotel in Ranchi"
+    ], 
+    "O": [
+        "police:114", 
+        "explosives:125"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/cities/27-live-bombs-found-in-ranchi-hotel-patna-blasts-suspect-reportedly-stayed-there-539935", 
+    "date": "13-11-2013", 
+    "target": "", 
+    "hot_spot": "small hotel in Ranchi", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "PIPE BOMBS"
+    ], 
+    "ORG": [
+        [
+            "NIA", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "58", 
+            "Others"
+        ], 
+        [
+            "Jharkhand Police", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "236", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "259", 
+            "Others"
+        ], 
+        [
+            "Mujahideen", 
+            "291", 
+            "Accused"
+        ]
+    ]
+}

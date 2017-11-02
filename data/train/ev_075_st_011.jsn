@@ -1,0 +1,154 @@
+{
+    "LOC": [
+        [
+            "Pink City", 
+            "5", 
+            "Event"
+        ], 
+        [
+            "Johari Bazaar", 
+            "59", 
+            "Event"
+        ], 
+        [
+            "Hanuman Mandir", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Sanganeri Gate", 
+            "88", 
+            "Event"
+        ], 
+        [
+            "Hawa Mahal", 
+            "100", 
+            "Neutral"
+        ], 
+        [
+            "Khanda", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "Badi Chaupad",
+            "141", 
+            "Event"
+        ], 
+        [
+            "Hawa Mahal", 
+            "149", 
+            "Neutral"
+        ], 
+        [
+            "Manak Chowk", 
+            "159", 
+            "Event"
+        ], 
+        [
+            "Hawa Mahal", 
+            "178", 
+            "Event"
+        ], 
+        [
+            "Sargah Sooli", 
+            "195", 
+            "Event"
+        ], 
+        [
+            "Tripoliya Gate", 
+            "210", 
+            "Neutral"
+        ], 
+        [
+            "Sargah Sooli", 
+            "229", 
+            "Neutral"
+        ], 
+        [
+            "Hawa Mahal", 
+            "236", 
+            "Neutral"
+        ], 
+        [
+            "Hanuman Mandir", 
+            "254", 
+            "Event"
+        ], 
+        [
+            "Chandpol Gate", 
+            "257", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "278", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Brig Bhawani Singh", 
+            "223", 
+            "Others"
+        ], 
+        [
+            "Lord Hanuman", 
+            "294", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday evening:22", 
+        "Tuesday:22", 
+        "Tuesday evening:22", 
+        "Tuesday:283"
+    ], 
+    "death": "", 
+    "title": "For the first time in 280 years", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "JAIPUR : The 280-year-old Pink City was smeared with blood . The peaceful city witnessed a never-before kind of bloodshed on Tuesday evening . Eight blasts occurred in six places within one kilometre of the walled city , when people including foreign tourists were either shopping or returning home from their work . The first blast occurred at Johari Bazaar , the jewellery market in the heart of the city and within 50 yards from this place , another one took place near the Hanuman Mandir at Sanganeri Gate , one of the five gateways to the city . Hawa Mahal , the palace of winds , which recently got a new coat of pink , stood a mute witness to the blasts that took place one after the other . The third one took place in Khanda near the Badi Chaupad , barely 30 yards away from Hawa Mahal and the fourth took place just outside the Manak Chowk police station near a shoe shop . Thus four blasts took place in close proximity of the Hawa Mahal , though they did not damage the structure . The fifth blast took place near Sargah Sooli , the tallest building towering over the city . It is located near Tripoliya Gate , which leads to the City Palace where the former ruler Brig Bhawani Singh resides . The Sargah Sooli is about 120 metres from Hawa Mahal . The sixth blast took place at the most crowded part of the city near the Hanuman Mandir at Chandpol Gate . The Sargah Sooli , the 20-metre high tower was used as the watch tower by the rulers of Jaipur . The terrorists chose Tuesday as they know that a large number of devotees of Lord Hanuman come to offer prayers at the two temples dedicated to Him . These temples are located at the two gateways of the walled city because as per mythology , Lord Hanuman is considered the god of strength and valour that would save the city from the enemies . The city witnessed two communal riots in the past 15 years in which many people died , but now the toll of serial blasts is higher than the two communal riots put together .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "JAIPUR:1", 
+        "bloodshed:20", 
+        "jewellery market:63", 
+        "palace:104", 
+        "proximity:175", 
+        "structure:187", 
+        "building towering:200", 
+        "city palace:217", 
+        "blast:241", 
+        "watch tower:272", 
+        "mythology:323", 
+        "valour:334", 
+        "toll:364", 
+        "serial:366"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/city/jaipur/For-the-first-time-in-280-years/articleshow/3037795.cms", 
+    "date": "13-05-2008", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": []
+}

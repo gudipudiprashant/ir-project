@@ -1,0 +1,178 @@
+{
+    "LOC": [
+        [
+            "Bodh Gaya", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Barachatti", 
+            "111", 
+            "Accused"
+        ], 
+        [
+            "Gaya", 
+            "114", 
+            "Accused"
+        ]
+    ], 
+    "PER": [
+        [
+            "Binod Mistri", 
+            "31", 
+            "Accused"
+        ], 
+        [
+            "Dashrath Yadav", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "Mistri", 
+            "58", 
+            "Accused"
+        ], 
+        [
+            "Yadav", 
+            "89", 
+            "Accused"
+        ], 
+        [
+            "Mistri", 
+            "100", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Maqbool Alam", 
+            "278", 
+            "Comment"
+        ], 
+        [
+            "D.Y. Patil", 
+            "309", 
+            "Others"
+        ], 
+        [
+            "Nitish Kumars", 
+            "320", 
+            "Others"
+        ], 
+        [
+            "Arvind Singh", 
+            "339", 
+            "Others"
+        ], 
+        [
+            "Buddha", 
+            "364", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "night : 40", 
+        "evening : 63", 
+        "two hours : 153", 
+        "morning : 157"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:27", 
+        "Wednesday:39", 
+        "Thursday:53", 
+        "Sunday:65", 
+        "Wednesday:135", 
+        "Sunday:156", 
+        "Thursday:312"
+    ], 
+    "death": "", 
+    "title": "NIA releases two in Bodh Gaya blasts case", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The National Investigation Agency -LRB- NIA -RRB- has released two local men for want of evidence in the serial bomb blasts at Bodh Gaya temple on Sunday . . . Binod Mistri and Dashrath Yadav were released on Wednesday night for want of evidence after recording their statements , police said on Thursday . . . Mr. Mistri was detained in the evening of Sunday by the security forces on the basis of his voter identity card found inside the temple during search after the explosions . Mr. Yadav was held for questioning on the basis of calls Mr. Mistri made to him . . . Both are from from Barachatti village of Gaya . . . With the two , all six detained persons were set free . . . Patna Police on Wednesday released four youngster s who had booked two rooms in a hotel near the temple for merely two hours on Sunday morning . . . The NIA , which has been formally entrusted with the job of probe into the terror attack , is now sifting through the data of calls , incoming as well outside from the temple town . . . Some clues had been found during the exercise and a few persons might be called for questioning soon , police said . . . Meanwhile , prohibitory orders under section 144 CrPC imposed around the temple area continued to remain in force till further order . Shops selling toys and small items related to Buddhism in the vicinity of the historic temple remained closed . . . The shops will remain closed till further order , Sub Divisional Officer Mohammad Maqbool Alam told PTI . . . District Magistrate has called a meeting with the shopkeepers to discuss possibility of shifting them to other places . . . Bihar Governor D.Y. Patil on Thursday visited the temple and backed Chief Minister Nitish Kumars request to the Centre to hand over the security of the temple to CISF . . . Arvind Singh , member , Bodh Gaya Temple Management Committee -LRB- BTMC -RRB- said that people were flocking the temple to pay respect to lord Buddha . Tight security arrangements had been maintained by Bihar Military Police and CRPF .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "", 
+        " Bodh Gaya temple"
+    ], 
+    "O": [
+        "police:50", 
+        "Sub Divisional Officer:275", 
+        "District Magistrate:286", 
+        "Chief Minister:318"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/nia-releases-two-in-bodh-gaya-blasts-case/article4905014.ece", 
+    "date": "07-07-2013", 
+    "target": "TEMPLE", 
+    "hot_spot": " Bodh Gaya temple", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Patna Police", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "162", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "282", 
+            "Others"
+        ], 
+        [
+            "Bihar Governor", 
+            "307", 
+            "Others"
+        ], 
+        [
+            "CISF", 
+            "335", 
+            "Others"
+        ], 
+        [
+            "Bodh Gaya Temple Management Committee", 
+            "344", 
+            "Others"
+        ], 
+        [
+            "BTMC", 
+            "350", 
+            "Others"
+        ], 
+        [
+            "Bihar Military Police", 
+            "373", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "377", 
+            "Others"
+        ]
+    ]
+}

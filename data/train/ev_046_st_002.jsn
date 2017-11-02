@@ -1,0 +1,220 @@
+{
+    "LOC": [
+        [
+            "Chennai Central", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "83", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "99", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "129", 
+            "Event"
+        ], 
+        [
+            "Chennai Central", 
+            "182", 
+            "Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "217", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "286", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "308", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "311", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "313", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "315", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "317", 
+            "Neutral"
+        ], 
+        [
+            "Tamil Nadu", 
+            "338", 
+            "Neutral"
+        ], 
+        [
+            "Chinnasamy Stadium", 
+            "360", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "364", 
+            "Neutral"
+        ], 
+        [
+            "Katpadi", 
+            "378", 
+            "Event"
+        ], 
+        [
+            "Katpadi", 
+            "400", 
+            "Event"
+        ], 
+        [
+            "Chennai Central", 
+            "430", 
+            "Event"
+        ], 
+        [
+            "Katpadi", 
+            "456", 
+            "Event"
+        ], 
+        [
+            "Chennai Central", 
+            "475", 
+            "Event"
+        ], 
+        [
+            "Vellore", 
+            "481", 
+            "Neutral"
+        ], 
+        [
+            "Katpadi", 
+            "491", 
+            "Event"
+        ], 
+        [
+            "Katpadi", 
+            "517", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narendra Modi", 
+            "79", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "222", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "morning : 185", 
+        "4 . 02 a.m. : 459", 
+        "3.13 a.m.:493", 
+        "4.42 a.m.:500"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "October:67", 
+        "Monday:109", 
+        "May 1:174", 
+        "Monday:403", 
+        "May 1 : 421", 
+        "May 1:464"
+    ], 
+    "death": "", 
+    "title": "Needle of suspicion points to IM", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Chennai", 
+        "", 
+        " Chennai Central "
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Four days after the twin blasts on a train at the Chennai Central , investigators are suspecting the role of the home-grown terror group , Indian Mujahideen -LRB- IM -RRB- , in the terrorist act that claimed the life of a woman passenger and injured 14 others . . . While the IM is also suspected to have been involved in the blasts at Patna last October ahead of a rally by the BJPs prime ministerial candidate , Narendra Modi , the Tamil Nadu CB-CID police are coordinating with the National Investigating Agency -LRB- NIA -RRB- probing the Patna blasts , top police sources told The Hindu on Monday . . . The State polices coordination covers tracking the location and movements of the suspects absconding in the Patna blasts case , the sources said . The arrested accused in the case were also being quizzed about their alleged associates at large , they said . . . The timer devices , planted in two coaches of the Bangalore-Guwahati Express , exploded on May 1 , shortly after the train reached Chennai Central that morning beyond schedule . The probe team had , inferring from the trains delayed arrival , said that if not for the delay , the bombs could have gone off in neighbouring Andhra Pradesh , where Mr. Modi had addressed election meetings later that day . . . The CB-CID investigators were further probing other angles to the motives , sources said . They are also looking at other possible targets , particularly why the attackers chose the Guwahati-bound train and whether it was meant to be a retaliatory message sought to be conveyed after the recent killings of Muslims in Assam , the sources said . . . In widening their investigation , the CB-CID police were coordinating with their counterparts in Andhra Pradesh , Karnataka , Assam , Bihar and West Bengal and shared the CCTV footage with them . On how the bombs could have been triggered to explode in Tamil Nadu , the sources explained that timer devices were usually programmed up to seven hours , as was done in the Chinnasamy Stadium blast in Bangalore during the IPL a couple of years ago . . . Flutter at Katpadi . . Meanwhile , CB-CID sleuths , who took a look at the CCTV footage from the cameras fixed at the Katpadi station on Monday , were stunned to find that a man waiting on the platform in the early hours of May 1 there resembled the suspect spotted in the Chennai Central CCTV footage released by the police earlier . . . The height and dress colour of the man standing on the platform of the Katpadi station by 4 . 02 a.m. on May 1 was similar to the man hurriedly coming out of Chennai Central , police sources in Vellore said . The Bangalore-Guwahati Express , scheduled to reach Katpadi by 3.13 a.m. , arrived that day at 4.42 a.m. , raising queries whether the man who planted the bomb had boarded the train at Katpadi . But the video did not show the man carrying any backpack . . . However , the poor quality pictures have prevented the CB-CID sleuths from coming to any definitive conclusion so far .", 
+    "injured": "14", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:103", 
+        "cctv:432"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/needle-of-suspicion-points-to-im/article5980654.ece", 
+    "date": "01-05-2014", 
+    "target": "TRAIN", 
+    "hot_spot": " Chennai Central ", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "29", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "53", 
+            "Accused"
+        ], 
+        [
+            "BJPs", 
+            "74", 
+            "Others"
+        ], 
+        [
+            "National Investigating Agency", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "106", 
+            "Others"
+        ]
+    ]
+}

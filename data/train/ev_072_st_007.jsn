@@ -1,0 +1,100 @@
+{
+    "LOC": [
+        [
+            "Shingar", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Ludhiana", 
+            "14", 
+            "Assoc_Event"
+        ], 
+        [
+            "Punjab", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "166", 
+            "Assoc_Event"
+        ], 
+        [
+            "Ludhiana", 
+            "188", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Chandershekhar", 
+            "61", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:28", 
+        "Sunday:171"
+    ], 
+    "death": "6", 
+    "title": "RDX used in Ludhiana cinema hall blast: Punjab Police", 
+    "det_loc": [
+        "India", 
+        "Chandigarh", 
+        "", 
+        "ludhiana", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "CHANDIGARH : Deadly RDX was used in the Shingar cinema hall blast in Ludhiana that left six dead and 30 wounded , Punjab Police said here on Friday . ` Traces of RDX have been found . The quantity of RDX and other explosives used in the blast is half-a-kg or less , ' ADGP -LRB- Law and Order -RRB- Chandershekhar told reporters . Forensic , NSG and Army experts had confirmed the use of the lethal explosive in the blast , he said . However , the intensity of the blast was ` not very high ' , he said quoting the team probing the case . The confirmation of the RDX had established involvement of cross-border anti-national forces in the incident , the ADGP said . He said police was zeroing in on the supects , adding investigations were in full swing and it was not desirable to give further details at this stage . A bomb blast in the cinema hall in Punjab 's industrial town on Sunday had killed six people and left 30 injured , mostly migrant labourers . A report from Ludhiana said investigators probing the blast had so far questioned 60 people , including former terrorists and their family members .", 
+    "injured": "30", 
+    "org_unorg": "", 
+    "O": [
+        "CHANDIGARH:1", 
+        "rdx:4", 
+        "cinema hall blast:10", 
+        "RDX:33", 
+        "RDX:41", 
+        "half-a-kg:50", 
+        "adgp:55", 
+        "law and order:57", 
+        "nsg:67", 
+        "army experts:69", 
+        "explosive:78", 
+        "blast:81", 
+        "intensity:89", 
+        "RDX:113", 
+        "anti-national forces:119", 
+        "ADGP:126", 
+        "police:131", 
+        "bomb blast:159", 
+        "cinema hall:163", 
+        "report:186", 
+        "former terrorists:202"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/RDX-used-in-Ludhiana-cinema-hall-blast-Punjab-Police/articleshow/2474880.cms", 
+    "date": "14-10-2007", 
+    "target": "CINEMA HALL", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "NSG", 
+            "67", 
+            "Others"
+        ]
+    ]
+}

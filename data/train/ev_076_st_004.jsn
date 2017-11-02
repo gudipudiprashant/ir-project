@@ -1,0 +1,159 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "20", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nusrat Ali", 
+            "96", 
+            "Others"
+        ], 
+        [
+            "M. Manzoor Alam", 
+            "166", 
+            "Comment"
+        ], 
+        [
+            "Zafarul Islam Khan", 
+            "304", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Muslim bodies decry blasts", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent . . NEW DELHI : Prominent Muslim organisations have described the serial bomb blasts in Bangalore and Ahmedabad as a heinous crime against entire humanity . . . The All India Milli Council , Jamaat-Islami Hind and All India Muslim Majlis-e-Mushawarat said that no effort should be spared to nab the culprits behind these dastardly crimes . They offered condolences and sympathies to the families of those killed and also the injured . . . Call for impartial probe . . Demanding a high-level impartial and time-bound investigation , secretary general of Jamaat-e-Islami Nusrat Ali cautioned the government and the intelligence agencies against harassing innocent people . Intelligence agencies should not float certain names without proper investigation . The government must look into the real motives of perpetrators of such crimes , he said . . . He appealed to the people to remain calm and united against forces trying to disrupt communal harmony . . . All India Milli Council general secretary M. Manzoor Alam said the quick succession in which the blasts occurred in the two States was stunning . For quite some time , we have had this haunting feeling that we are not able to stop such violence because we have somehow been avoiding thinking out of the box , he said . . . The timing of the blasts , in the run-up to the general election , posed the question who stands to gain from such attacks . . . We hope that investigations will include all probable groups and individuals , than focussing on the usual suspects alone . Only comprehensive and fresh thinking will yield any results in our endeavour to put an end to such violence , he said . . . Form neutral panel . . All India Muslim Majlis-e-Mushwarat president Zafarul Islam Khan urged the government to form a high-power neutral panel of retired judges , human rights activists , top lawyers and journalists to oversee the investigations .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Special Correspondent:1", 
+        "Prominent Muslim organisations:8", 
+        "described:12", 
+        "serial bomb blasts:14", 
+        "heinous crime:23", 
+        "humanity:27", 
+        "no effort:46", 
+        "spared:50", 
+        "culprits:54", 
+        "dastardly crimes:57", 
+        "condolences:62", 
+        "sympathies:64", 
+        "killed:70", 
+        "injured:74", 
+        "impartial probe:80", 
+        "Demanding:84", 
+        "high-level impartial:86", 
+        "time-bound investigation:89", 
+        "intelligence agencies:103", 
+        "harassing innocent:106", 
+        "Intelligence agencies:110", 
+        "float:114", 
+        "investigation:119", 
+        "real motives:127", 
+        "perpetrators:130", 
+        "crimes:133", 
+        "appealed:141", 
+        "remain calm:146", 
+        "united against forces:149", 
+        "disrupt:154", 
+        "communal harmony:155", 
+        "quick succession:171", 
+        "blasts:176", 
+        "two States:180", 
+        "stunning:183", 
+        "haunting feeling:194", 
+        "violence:204", 
+        "avoiding:210", 
+        "timing:223", 
+        "blasts:226", 
+        "run-up:230", 
+        "general election:233", 
+        "attacks:245", 
+        "investigations:252", 
+        "probable groups:256", 
+        "focussing:262", 
+        "usual suspects:265", 
+        "comprehensive:270", 
+        "fresh thinking:272", 
+        "results:277", 
+        "violence:287", 
+        "neutral panel:295", 
+        "high-power neutral panel:313", 
+        "retired judges:317", 
+        "human rights activists:320", 
+        "top lawyers:324", 
+        "journalists:327", 
+        "investigations:331"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/muslim-bodies-decry-blasts/article1313588.ece", 
+    "date": "29-07-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "All India Milli Council", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "Jamaat-Islami Hind", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "All India Muslim Majlis-e-Mushawarat", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "Jamaat-e-Islami", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "All India Milli Council", 
+            "160", 
+            "Others"
+        ], 
+        [
+            "All India Muslim Majlis-e-Mushwarat", 
+            "299", 
+            "Others"
+        ]
+    ]
+}

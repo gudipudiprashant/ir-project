@@ -1,0 +1,163 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Old Delhi", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "PANIPAT", 
+            "36", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "98", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "100", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "102", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "220", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "230", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "269", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "293", 
+            "Neutral"
+        ], 
+        [
+            "Deewana", 
+            "330", 
+            "Neutral"
+        ], 
+        [
+            "Old Delhi", 
+            "395", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Devesh Pandey", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Sharad Kumar", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "Bharti Arora", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "Kumar", 
+            "148", 
+            "Comment"
+        ], 
+        [
+            "Harish Mohammed", 
+            "211", 
+            "Victim"
+        ], 
+        [
+            "Kumar", 
+            "387", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "30 minutes : 14", 
+        "30 minutes : 322", 
+        "11.55 p.m.:347"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:115", 
+        "Tuesday:233"
+    ], 
+    "death": "", 
+    "title": "Sketches of suspects released, death toll 68", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Devesh Pandey . . 2 jumped off the train when it slowed down 30 minutes after its departure from Delhi There was security lapse at the Old Delhi railway station , says police . . PANIPAT : A day after the Samjhauta Express was firebombed , the Haryana police released the sketches of two youths suspected to have planted the bombs in the train . . . While a reward of Rs . 1 lakh has been announced for anyone giving clues leading to the suspects , the police have sought the help of their counterparts in Delhi , Mumbai and Punjab in the investigations . . . At a press meet here on Tuesday , Inspector-General -LRB- Rohtak Range -RRB- Sharad Kumar and Bharti Arora , Superintendent of Police , Government Railway Police , released the sketches based on inputs given by some passengers . Mr. Kumar said one of the suspects was about 35 years old , fat and of wheatish complexion . He had a moustache and wore a jacket . The other one was about 26 years old and had his face covered with a muffler . . . The police believe that more than four persons could be involved in the incident . . . Harish Mohammed -LRB- 15 -RRB- , a resident of Karachi , died of burns in the Safdarjung Hospital in New Delhi on Tuesday , taking the death toll to 68 . So far , 18 bodies have been identified , including 13 Pakistanis . An injured passenger told the police that soon after the train started moving from Delhi , there was a heated exchange between Railway Protection Force personnel and the suspects . The two said they wanted to go to Ahmedabad and the RPF men told them that they had boarded the wrong train and they should get off when it slowed down . The suspects jumped out after 30 minutes and as the train crossed the Deewana station , the improvised explosive devices in two of the eight unreserved coaches went off at 11.55 p.m. Two other bombs in other coaches did not explode . . . The police displayed a specially-designed metal pipe , bottles containing inflammable liquid , an orange coloured cloth and a suitcase recovered at the site . Mr. Kumar said there were security lapses at the Old Delhi station . So the perpetrators boarded the train with suitcases . . . Samjhauta Express blasts photos .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Haryana", 
+        "Panipat", 
+        "PANIPAT", 
+        "PANIPAT"
+    ], 
+    "O": [
+        "Samjhauta Express:42", 
+        "Superintendent of Police:128", 
+        "Safdarjung Hospital:227", 
+        "bottles containing inflammable liquid:369", 
+        "an orange coloured cloth:374"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/sketches-of-suspects-released-death-toll-68/article1800272.ece", 
+    "date": "20-02-2007", 
+    "target": "", 
+    "hot_spot": "PANIPAT", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Haryana police", 
+            "48", 
+            "Others"
+        ], 
+        [
+            "Government Railway Police", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "Railway Protection Force", 
+            "277", 
+            "Others"
+        ], 
+        [
+            "RPF", 
+            "296", 
+            "Others"
+        ]
+    ]
+}

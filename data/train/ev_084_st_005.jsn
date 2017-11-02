@@ -1,0 +1,217 @@
+{
+    "LOC": [
+        [
+            "German Bakery", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Kashmir", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "86", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan .", 
+            "86", 
+            "Neutral"
+        ], 
+        [
+            "Miramshah", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "North Waziristan", 
+            "99", 
+            "Neutral"
+        ], 
+        [
+            "Waziristan", 
+            "118", 
+            "Neutral"
+        ], 
+        [
+            "Bannu", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "North-West Frontier Province", 
+            "129", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "171", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "278", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "German Bakery", 
+            "333", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abu Jindal", 
+            "64", 
+            "Comment"
+        ], 
+        [
+            "Abu Jindal", 
+            "90", 
+            "Comment"
+        ], 
+        [
+            "Illyas Kashmiri", 
+            "221", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2008:275"
+    ], 
+    "death": "10", 
+    "title": "New jihadist group claims responsibility for Pune attack", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "AL-QAEDA", 
+        "LASHKAR-E-TAIBA", 
+        "JAMAAT-UD-DAWA", 
+        "JIHADIST"
+    ], 
+    "content": "Even as Maharashtra police investigators said little progress was made in identifying the perpetrators of Saturdays bombing of the German Bakery in Pune , an unknown Pakistan-based jihadist group has claimed responsibility for the attack that claimed 10 lives . . . Identifying himself as a spokesperson on behalf of a group calling itself the Lashkar-e-Taiba al-Almi , an individual using the code-name Abu Jindal said the bombing was carried out because of Indias refusal to discuss the Kashmir issue in the coming talks with Pakistan . . . Abu Jindal said he was calling from Miramshah in North Waziristan , and the telephone number used to make the call carried an area code common to the Waziristan tribal area and Bannu , the adjoining district in the North-West Frontier Province . When The Hindu tried calling back , though , a recorded voice message said the number was temporarily not in use . . . No past communiqu was issued by the Lashkar-e-Taiba al-Almi , and terrorism experts in New Delhi told The Hindu that no such group was known to exist . . . However , the caller who appeared to be educated said the group had split from the Lashkar-e-Taiba because it took orders from Pakistans Inter-Services Intelligence . . . Earlier , al-Qaeda affiliated jihadist leader Illyas Kashmiri was reported to have sent an e-mail to a Pakistani journalist , claiming responsibility for the attack . . . Indian intelligence sources said the claims appeared intended to deflect attention from the Lashkar-e-Taiba , which is emerging as the principal suspect for the attack . In the wake of the Lashkars 2008 attack on Mumbai , Pakistan had come under intense pressure to dismantle the terrorist group as well as its political-religious organisation , the Jamaat-ud-Dawa . It has , however , rejected international calls for such action . Despite official claims , Maharashtra police sources say there is little evidence as yet to link the bombing of the German Bakery with any perpetrator .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        "German Bakery"
+    ], 
+    "O": [
+        ",:305"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/article107586.ece", 
+    "date": "13-02-2010", 
+    "target": "", 
+    "hot_spot": "German Bakery", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maharashtra police", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "jihadist", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba al-Almi", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "134", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba al-Almi", 
+            "164", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "174", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "203", 
+            "Accused"
+        ], 
+        [
+            "Pakistans Inter-Services Intelligence", 
+            "209", 
+            "Others"
+        ], 
+        [
+            "Inter-Services Intelligence", 
+            "210", 
+            "Others"
+        ], 
+        [
+            "Inter-Services Intelligence .", 
+            "210", 
+            "Others"
+        ], 
+        [
+            "al-Qaeda", 
+            "217", 
+            "Accused"
+        ], 
+        [
+            "jihadist", 
+            "219", 
+            "Accused"
+        ], 
+        [
+            "e-mail", 
+            "229", 
+            "Others"
+        ], 
+        [
+            "Pakistani journalist", 
+            "232", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "256", 
+            "Accused"
+        ], 
+        [
+            "Jamaat-ud-Dawa", 
+            "299", 
+            "Accused"
+        ], 
+        [
+            "Maharashtra police", 
+            "317", 
+            "Others"
+        ]
+    ]
+}

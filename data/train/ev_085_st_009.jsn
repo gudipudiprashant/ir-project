@@ -1,0 +1,164 @@
+{
+    "LOC": [
+        [
+            "Varanasi", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Mallad", 
+            "80", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "82", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "88", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "175", 
+            "Event"
+        ], 
+        [
+            "Babri Masjid", 
+            "187", 
+            "Neutral"
+        ], 
+        [
+            "Babri Masjids", 
+            "215", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "343", 
+            "Event"
+        ], 
+        [
+            "Sheetla Ghat", 
+            "361", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "378", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "473", 
+            "Neutral"
+        ], 
+        [
+            "Old Delhi", 
+            "482", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "536", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "6:30 pm : 368"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "December 7 , 2010 : 2", 
+        "December 6 , 1992 : 194", 
+        "December 6 : 219", 
+        "March 7 , 2006 : 381", 
+        "December 7 : 395", 
+        "March 2006 : 412", 
+        "February : 458", 
+        "September 19 : 485"
+    ], 
+    "death": "1", 
+    "title": "Signals From the Varanasi Blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN", 
+        "RADICAL MUSLIM GROUP"
+    ], 
+    "content": "On December 7 , 2010 a bombing in the holy city of Varanasi killed an 18-month-old child and injured as many as 40 people . Radical Muslim group , the Indian Mujahideen , has claimed responsibility . . . The incident underscores several important points . First , it points to the substantially degraded capability of the Indian Mujahideen , a homegrown terror network that claimed responsibility for this act in its trademark email , which was sent from Mallad , Mumbai . . . Although the Varanasi blast is a chilling reminder from the IM that its still around , it also shows that the outfit continues to be crippled , weak and disorganized since Indian security forces broke its backbone a couple of years ago after a spate of bloody attacks across the country . . . There are three clues to the changethe timing of the blast , the nature of the explosive device used and the modus operandi . . . First , according to the Mujahideens email , the Varanasi blast was an act of retaliation against the demolition of the Babri Masjid ( Mosque ) back in December 6 , 1992 . But the fact that the perpetrators couldnt execute their work on the actual 18th anniversary of Babri Masjids destruction on December 6 points to some definite chinks in the IMs armour . Clearly , the terrorists were n't confident they could pull off a more symbolic attack on the actual day and so decided to wait a little . . . Second , the improvised explosive device ( IED ) used in the attack , which was hidden in a milk container , was a low intensity one and didnt have shrapnel or other projectiles like nails to maximize the kill quotient . The explosion did cause the tragic death of a toddler , but the rest of the nearly 40 injured were able to escape with their lives . Had the IM been at its historic deadliest , the number of fatalities in Varanasi could well have reached three figures , especially considering that thousands of devotees were present at the Sheetla Ghat ( memorial ) at around 6:30 pm . In contrast , two explosions that rocked Varanasi previously on March 7 , 2006 killed 28 people . . . The single blast on December 7 therefore makes it pretty clear that the IM 's capabilities have been substantially eroded since March 2006 . Cobbling together a crude device and hiding it in a milk container at a crowded religious place is n't rocket science , and does n't require specialists to plan and execute . . . This is the third attack by the IM since February , when more than a dozen people were killed in a German bakery-restaurant in Pune and two Taiwanese tourists were shot at in Old Delhi on September 19 , an act largely aimed at disrupting the Commonwealth Games . . . But this latest incident suggests IM executed a hurried and ill-prepared plot more to show their presence to their alleged Pakistani masters than anything else . Its probably their way of telling their believed handlers in Pakistan that they still have the guts , gall and grit and could do better if they had more funds . Indian security managers must take this cue . . . .", 
+    "injured": "40", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        "Varanasi"
+    ], 
+    "O": [
+        "IED:267", 
+        "low intensity:284"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://thediplomat.com/2010/12/signals-from-the-varanasi-blast/", 
+    "date": "07-12-2010", 
+    "target": "", 
+    "hot_spot": "Varanasi", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Radical Muslim group", 
+            "26", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "58", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "96", 
+            "Accused"
+        ], 
+        [
+            "Indian security forces", 
+            "117", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "331", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "404", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "456", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "505", 
+            "Accused"
+        ]
+    ]
+}

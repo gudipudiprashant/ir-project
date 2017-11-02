@@ -1,0 +1,126 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Chheh Tuti Chowk", 
+            "72", 
+            "Event"
+        ], 
+        [
+            "Paharganj", 
+            "76", 
+            "Neutral"
+        ], 
+        [
+            "Central Delhi", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "M.L. Jewellers", 
+            "248", 
+            "Event"
+        ], 
+        [
+            "M.L. Jewellers", 
+            "311", 
+            "Event"
+        ], 
+        [
+            "Paharganj", 
+            "454", 
+            "Neutral"
+        ], 
+        [
+            "Sweden", 
+            "495", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Devesh K. Pandey", 
+            "12", 
+            "Others"
+        ], 
+        [
+            "Ajit Singh", 
+            "108", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "154", 
+            "Comment"
+        ], 
+        [
+            "Neeraj Chawla", 
+            "330", 
+            "Others"
+        ], 
+        [
+            "Stephen", 
+            "490", 
+            "Others"
+        ], 
+        [
+            "Kapil Sibal", 
+            "538", 
+            "Others"
+        ], 
+        [
+            "Anjali Rai", 
+            "545", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "5.30 p.m.:90"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:82"
+    ], 
+    "death": "6", 
+    "title": "When the festive mood was shattered...", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Front Page When the festive mood was shattered ... . . Devesh K. Pandey . . NEW DELHI : ` Body parts were scattered all over . Two minors were lying in a pool of blood with their faces completely disfigured , while several others lay writhing in pain screaming for help , ' said an eyewitness , indicating the magnitude of the human tragedy caused by the powerful explosion at Chheh Tuti Chowk in Paharganj area of Central Delhi on Saturday . . . It all happened around 5.30 p.m. , when the area was packed with Diwali shoppers . Like many other local residents , Ajit Singh was sitting in his house when he heard the blast . His three-storey building shook under the impact of the explosion . ' I rushed out and saw people running towards the fruit market . I followed suit , ' said a shocked Mr. Singh . ` Two small children were lying unconscious . A portion of the head of one of them lay ripped apart . A woman , probably their mother , also lay nearby . I , along with local shopkeepers and three policemen , lifted the injured and packed them off in private vehicles to nearby hospitals . ' Six persons were killed on the spot , one of them a ` golgappa-wala ' . . . Shop totally destroyed . . The intensity of the blast could be gauged from the fact that M.L. Jewellers , ' the shop in front of which the bomb exploded , was completely destroyed and those sitting inside , including the shop owner , sustained serious injuries . A medical store nearby was also badly damaged . . . Hoardings were torn apart and windowpanes of shops and residential buildings within a 50-metre diameter were shattered . The hoarding of M.L. Jewellers was blown off and lay entangled with the telephone wires . . . Another local resident , Neeraj Chawla 's shirt was soaked in blood . But he was part of the rescue team . He did not speak much , but his eyes told the tale of horror . . . ` As you can see , Lord Krishna DX Inn , 20 metres from the spot , had its glass-door entrance completely shattered . We can imagine the impact of the blast . Even windowpanes of houses in nearby lanes have been shattered . ' . . Foreign tourists . . ` This is the first time that such an incident has occurred here . It seems the terrorists chose this location keeping in mind that many foreign tourists who come to the Capital stay in the guesthouses at Paharganj . . . Also , there was a heavy rush in the market due to upcoming Diwali , ' said another shopkeeper . . . Overawed by the heavy police presence in the area , Stephen , a tourist from Sweden , said he and his friends were on their way back to their hotel when they heard about the explosion . ` We are shocked . ' . . Among those who visited the spot to review the situation were Union Minister Kapil Sibal and the local MLA , Anjali Rai .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "NEW DELHI ", 
+        "Chheh Tuti Chowk"
+    ], 
+    "O": [
+        "Union Minister:536"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2005/10/30/stories/2005103017052000.htm", 
+    "date": "29-10-2005", 
+    "target": "", 
+    "hot_spot": "Chheh Tuti Chowk", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "local MLA", 
+            "542", 
+            "Others"
+        ]
+    ]
+}

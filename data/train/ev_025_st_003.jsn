@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "1", 
+            "Source", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "144", 
+            "Accused", 
+            "Neutral"
+        ], 
+        [
+            "Dispur", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Ganeshguri", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "144", 
+            "Neutral"
+        ], 
+        [
+            "Arunachal Pradesh", 
+            "146", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        
+        [
+            "Manmohan Singh", 
+            "96", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "6:50 pm:45", 
+        "pm:46"
+    ], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0018", 
+    "content": "GUWAHATI : One person was killed and ten others were critically injured in a bomb attack by suspected ULFA cadres in a market near the Dispur capital complex here on Wednesday.The bomb , kept in the Ganeshguri wholesale vegetable market , exploded at around 6:50 pm , police said.The injured were rushed to a nearby hospital.The market is located near the Indian office adjacent to a high-security complex where the offices of the chief minister and his cabinet colleagues as well as the state secretariat are located.The blast took place a day after Prime Minister Manmohan Singh delivered a tough message to ULFA militants that there would be no compromise if they resorted to violence and assured fool-proof security to Hindi-speaking people , 70 of whom were gunned down recently by the banned group.The army launched a major offensive against the ULFA in Assam and Arunachal Pradesh in the wake of the killings .", 
+    "death": "1", 
+    "title": "One killed in Guwahati bomb blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "DAT": [
+        "Wednesday.The : 31"
+    ], 
+    "injured": "10", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup", 
+        "Ganeshguri", 
+        ""
+    ], 
+    "O": [
+        "person:4", 
+        "bomb attack:15", 
+        "vegetable market:39", 
+        "police said.the:48", 
+        "hospital.the market:56", 
+        "office:63", 
+        "complex:68", 
+        "prime minister:94", 
+        "compromise:110", 
+        "violence:115", 
+        "security:119", 
+        "group.the army:134", 
+        "offensive:139", 
+        "wake:150"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/One-killed-in-Guwahati-bomb-blast/articleshow/1257552.cms", 
+    "date": "17-01-2007", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "19", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "142", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "103", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "1", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohammed Afzal Guru", 
+            "81", 
+            "Assoc_Accused"
+        ], 
+        [
+            "SC Sinha", 
+            "110", 
+            "Comment"
+        ], 
+        [
+            "Afzal Guru", 
+            "150", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0008", 
+    "DAT": [
+        "Wednesday:43", 
+        "today : 69", 
+        "2004:162", 
+        "2001:172"
+    ], 
+    "death": "12", 
+    "title": "HuJI claims responsibility for Delhi high court blast", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI"
+    ], 
+    "content": "NEW DELHI : The government is investigating an email allegedly sent by the Pakistan-based terrorist group Harkat-ul-Jihad Islami -LRB- HuJI -RRB- claiming responsibility for the blast at the Delhi high court that killed at least 12 people and injured 62 others on Wednesday , a senior security official said . HuJI , in an email sent to the media , wrote , ` We own the responsibility for today 's blasts at Delhi high court . Our demand is that Mohammed Afzal Guru 's death sentence should be repealed immediately else we would target major high courts and the Supreme Court of India . ' National Investigation Agency chief SC Sinha told reporters it was premature to comment on the veracity of the HuJI email . He , however , added that he was taking the contents of the email seriously as HuJI is a major terror outfit . Afzal Guru was given the death sentence by the Supreme Court in 2004 for his role in the attack on Parliament in 2001 .", 
+    "injured": "62", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "Central", 
+        "", 
+        "Delhi high court"
+    ], 
+    "O": [
+        "government:5", 
+        "blast:26", 
+        "death sentence:85", 
+        "terror outfit:147", 
+        "parliament:170"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/HuJI-claims-responsibility-for-Delhi-high-court-blast/articleshow/9896388.cms?referral=PM", 
+    "date": "07-09-2011", 
+    "target": "HIGH COURT", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Harkat-ul-Jihad Islami", 
+            "17", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "20", 
+            "Accused"
+        ], 
+        [
+            "Delhi high court", 
+            "29", 
+            "Victim"
+        ], 
+        [
+            "HuJI", 
+            "51", 
+            "Accused"
+        ], 
+        [
+            "Delhi high court", 
+            "73", 
+            "Victim"
+        ], 
+        [
+            "Supreme Court of India", 
+            "100", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "124", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "143", 
+            "Accused"
+        ], 
+        [
+            "Supreme Court", 
+            "159", 
+            "Others"
+        ]
+    ]
+}

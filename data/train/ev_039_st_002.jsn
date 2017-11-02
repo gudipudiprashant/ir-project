@@ -1,0 +1,192 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "67", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "90", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "112", 
+            "Event"
+        ], 
+        [
+            "Dhekaijuli", 
+            "115", 
+            "Event"
+        ], 
+        [
+            "Mankachar", 
+            "117", 
+            "Event"
+        ], 
+        [
+            "Udalgiri", 
+            "119", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "157", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "183", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "259", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "288", 
+            "Event"
+        ], 
+        [
+            "South Asia", 
+            "314", 
+            "Neutral"
+        ], 
+        [
+            "Asia", 
+            "315", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manohar Rajbongshi", 
+            "58", 
+            "Accused"
+        ], 
+        [
+            "Pradeep Kalita", 
+            "61", 
+            "Accused"
+        ], 
+        [
+            "Manmohan Singh", 
+            "142", 
+            "Others"
+        ], 
+        [
+            "P Chidambaram", 
+            "162", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "163", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "200", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "262", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "343", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:39", 
+        "April 7:75", 
+        "Monday:92", 
+        "Tuesday:150"
+    ], 
+    "death": "", 
+    "title": "Assam Police release pictures of blast suspects", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "New Delhi : Security agencies have arrested six people , including a self-styled Major of United Liberation Front of Asom ( ULFA ) , in a joint operation of the Army and the Assam Police in connection with Monday 's serial blasts in the state . . . Police have also released pictures of two ULFA cadre Manohar Rajbongshi and Pradeep Kalita suspected to have entered Guwahati ahead of ULFA 's raising day on April 7 . . . They are suspected to be behind the blast that rocked Guwahati on Monday in which seven people were killed and several other injured . . . There were three more blasts across Assam - in Dhekaijuli , Mankachar and Udalgiri - which killed one and injured several others . . . The blasts happened despite high security in view of Prime Minister Manmohan Singh 's visit to the state on Tuesday . . . Earlier , in New Delhi Union Home Minister P Chidambaram presented a report card on terror saying only the Congress can deal with terror . . . Condemning the Assam bomb blasts he said that India 's pluralitistic nature makes it a target . . . Chidambaram promised that if the Congress will be voted to power , the party will set up a war room headed by Cabinet Secretary to deal with terror . . . `` Congress is alive to challenges posed by terrorism and can provide a strong leadership to fight it , '' he added . . . Referring to the Assam blasts , Chidambaram said : `` ULFA has waged a virtual war against the Indian state and the Government has strong reasons to believe that the perpetrators of Guwahati blast belong to the banned outfit . '' . . Expressing his concern over the recent terror attacks , he said that security situation in South Asia is deteriorating very sharply and major steps should be taken soon . . . `` We are in the middle of a ring of fire , '' Chidambaram warned . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        "Guwahati"
+    ], 
+    "O": [
+        "Cabinet Secretary:222"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ibnlive.com/news/india/terror-before-elections-assam-sketches-chidambaram-1-313173.html", 
+    "date": "06-04-2009", 
+    "target": "", 
+    "hot_spot": "Guwahati", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "16", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "22", 
+            "Accused"
+        ], 
+        [
+            "Assam Police", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "70", 
+            "Accused"
+        ], 
+        [
+            "Congress", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "205", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "232", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "266", 
+            "Accused"
+        ]
+    ]
+}

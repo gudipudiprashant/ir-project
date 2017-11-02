@@ -1,0 +1,71 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Central Market", 
+            "47", 
+            "Neutral"
+        ], 
+        [
+            "Lakshmi talkies", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Sibsagar", 
+            "60", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "night : 27", 
+        "9 pm:63"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:26"
+    ], 
+    "death": "", 
+    "title": "8 injured in blast in Assam", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Sivasagar", 
+        "guwahati", 
+        "Assam"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "View PhotosSibsagar , Sept 24 : Eight persons were injured , one of them seriously , when a blast rocked this town in Assam late Monday night . . . Police said the blast , suspected to be caused by an IED , was triggered between Central Market and Lakshmi talkies in the heart of the headquarters town of Sibsagar district at 9 pm . The injured were taken to Sibsagar Civil Hospital and another private hospital nearby . . . Glass panes of some nearby constructions were broken by the impact of the blast . . . .", 
+    "injured": "8", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/2012/09/25/8-injured-in-blast-in-assam-1075529.html", 
+    "date": "24-09-2012", 
+    "target": "", 
+    "hot_spot": "Assam", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Sibsagar Civil Hospital", 
+            "71", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "LOC": [
+        [
+            "upper Assams tea town", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "old railway station", 
+            "56", 
+            "Event"
+        ], 
+        [
+            "Amolapatty", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "Molandubi Market", 
+            "264", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "267", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar district", 
+            "267", 
+            "Event"
+        ], 
+        [
+            "Amoraguri", 
+            "285", 
+            "Victim"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rana Bhuyan", 
+            "77", 
+            "Comment"
+        ], 
+        [
+            "Purnima Rojok", 
+            "90", 
+            "Victim"
+        ], 
+        [
+            "Bhuyan", 
+            "154", 
+            "Comment"
+        ], 
+        [
+            "Rojok", 
+            "280", 
+            "Victim"
+        ], 
+        [
+            "Bhairon Shah", 
+            "305", 
+            "Victim"
+        ], 
+        [
+            "Dalim Shah", 
+            "311", 
+            "Victim"
+        ], 
+        [
+            "Paramnand Yadav", 
+            "317", 
+            "Victim"
+        ], 
+        [
+            "Kishor Roy", 
+            "323", 
+            "Victim"
+        ], 
+        [
+            "Bablu Das", 
+            "329", 
+            "Victim"
+        ], 
+        [
+            "Shahnawaz Hussain", 
+            "335", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "5 p.m.:52"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:32", 
+        "December 15 , 2013:248"
+    ], 
+    "death": "1", 
+    "title": "Bomb blast kills girl, injures 17 in Dibrugarh", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A teenager was killed and nine persons , including a woman , were seriously injured in a crude bomb blast by suspected militants in upper Assams tea town of Dibrugarh on Tuesday , police said . . . The crude bomb , planted under an electric pole went off at around 5 p.m. behind the old railway station in the busy Amolapatty area injuring 10 persons , some of them critically , district Superintendent of Police Rana Bhuyan told PTI . . . One of the injured , 14-year-old Purnima Rojok , succumbed to her wounds at the Assam Medical College Hospital where the other injured were admitted , the sources said . . . Preliminary investigations pointed to a crude bomb and not a grenade as no splinters were found at the site of the blast and also there was no trace of an improvised explosive device -LRB- IED -RRB- , Mr. Bhuyan said . . . The identity of the insurgent outfit responsible for the blast was not immediately known as investigations were on , the SP said . . . The explosion created a two feet wide crater on the road , the sources said . . . Local people had reported to police that two extremists came on a motorcycle and hurled a grenade before fleeing . . . Senior police officials have rushed to the site , cordoned off the area and tightened security arrangements in the town . . . On December 15 , 2013 a grenade was exploded by suspected anti-talk NDFB -LRB- Songbijit -RRB- at Molandubi Market in Kokrajhar district killing one person and injuring four others . . . Ms. Rojok , a resident of Amoraguri area , was studying in class VIII , her family said . . . The injured were identified as Bhairon Shah -LRB- 45 -RRB- , Dalim Shah -LRB- 42 -RRB- , Paramnand Yadav -LRB- 42 -RRB- , Kishor Roy -LRB- 27 -RRB- , Bablu Das -LRB- 32 -RRB- and Shahnawaz Hussain -LRB- 24 -RRB- , police sources said .", 
+    "injured": "10", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dibrugarh", 
+        "Dibrugarh", 
+        "upper Assams tea town"
+    ], 
+    "O": [
+        "crude bomb:18", 
+        "superintendent:74", 
+        "pti:80", 
+        "preliminary investigations:116", 
+        "crude bomb:121", 
+        "IED:150", 
+        "sp:179", 
+        "explosion:185", 
+        "feet wide crater:189", 
+        "extremists:210", 
+        "motorcycle:214", 
+        "family:295"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/other-states/bomb-blast-kills-girl-injures-17-in-dibrugarh/article5470377.ece", 
+    "date": "16-12-2013", 
+    "target": "", 
+    "hot_spot": "upper Assams tea town", 
+    "delivery_mod": "ELECTRIC POLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED", 
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "militants", 
+            "23", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "76", 
+            "Others"
+        ], 
+        [
+            "Assam Medical College Hospital", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "207", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "225", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "341", 
+            "Others"
+        ]
+    ]
+}

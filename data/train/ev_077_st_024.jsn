@@ -1,0 +1,124 @@
+{
+    "LOC": [
+        [
+            "Trauma Centre", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Trauma Centre", 
+            "139", 
+            "Neutral"
+        ], 
+        [
+            "Trauma Centre", 
+            "163", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rohan Vyas", 
+            "1", 
+            "Victim"
+        ], 
+        [
+            "Rohan", 
+            "26", 
+            "Victim"
+        ], 
+        [
+            "Dushyant", 
+            "29", 
+            "Others"
+        ], 
+        [
+            "Yash", 
+            "53", 
+            "Victim"
+        ], 
+        [
+            "Geeta", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "Rohan", 
+            "75", 
+            "Others"
+        ], 
+        [
+            "Yash", 
+            "100", 
+            "Victim"
+        ], 
+        [
+            "Rohan", 
+            "126", 
+            "Victim"
+        ], 
+        [
+            "Yash", 
+            "128", 
+            "Victim"
+        ], 
+        [
+            "Dushyant", 
+            "179", 
+            "Victim"
+        ], 
+        [
+            "Geeta", 
+            "183", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 26 : 21"
+    ], 
+    "death": "", 
+    "title": "Ahmedabad serial blasts: Boy succumbs to injuries", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Rohan Vyas was admitted along with his father and brother at the city Civil Hospital 's Trauma Centre here on July 26 . . . Rohan 's father Dushyant , who worked as laboratory assistant in the hospital , died soon after he was admitted to the hospital while his younger brother Yash ( 9 ) is still undergoing treatment at the special burns ward in the Civil Hospital . . . Geeta , Rohan 's mother is numbed after losing first her husband and now her son who had suffered 80 per cent burns in the blasts . Yash had suffered 50 per cent burns and still does not know about the deaths in his family . . . On that fateful day , Rohan and Yash had come to the open space in front of the Trauma Centre to ride their bicycle along with their father . . . While riding the bicycles they came near the entrance of the Trauma Centre when the car bomb exploded , seriously injuring all three . . . After Dushyant 's death , Geeta remained strong and kept her hope up by praying for her two sons who were not allowed to eat or drink anything as they has suffered severe internal injuries . . . .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "Ahmedabad", 
+        "Ahmedabad"
+    ], 
+    "O": [
+        "bicycle:144"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.outlookindia.com/newswire/story/ahmedabad-serial-blasts-boy-succumbs-to-injuries/594402", 
+    "date": "26-07-2008", 
+    "target": "", 
+    "hot_spot": "Ahmedabad", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Civil Hospital", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "Civil Hospital", 
+            "68", 
+            "Others"
+        ]
+    ]
+}

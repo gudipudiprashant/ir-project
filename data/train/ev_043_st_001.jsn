@@ -1,0 +1,158 @@
+{
+    "LOC": [
+        [
+            "Imphal West", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "Bishnupur", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Andro", 
+            "64", 
+            "Event"
+        ], 
+        [
+            "Imphal East", 
+            "67", 
+            "Neutral"
+        ], 
+        [
+            "wall of M-sector", 
+            "116", 
+            "Neutral"
+        ], 
+        [
+            "Raj Bhavan", 
+            "129", 
+            "Neutral"
+        ], 
+        [
+            "Khwairakpan Lamkhai", 
+            "177", 
+            "Event"
+        ], 
+        [
+            "Bishnupur", 
+            "180", 
+            "Neutral"
+        ], 
+        [
+            "gate of 6/8", 
+            "185", 
+            "Event"
+        ], 
+        [
+            "Moidangpok", 
+            "197", 
+            "Event"
+        ], 
+        [
+            "Imphal West", 
+            "199", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "209", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "morning : 11", 
+        "morning : 112"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:10", 
+        "Monday:56", 
+        "Tuesday:102", 
+        "September 5:229", 
+        "September 8:249"
+    ], 
+    "death": "", 
+    "title": "Triple blasts rock Manipur", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Imphal West", 
+        "Imphal West", 
+        "Imphal West"
+    ], 
+    "terror_group": [
+        "UNITED NATIONAL LIBERATION FRONT (UNLF)", 
+        "PEOPLE'S LIBERATION ARMY (PLA)"
+    ], 
+    "content": "Three explosions rocked Imphal West and Bishnupur districts on Tuesday morning . There were no casualties . . . The police suspect the hand of the Peoples Liberation Army -LRB- PLA -RRB- , the armed wing of the Revolutionary Peoples Front , since the insurgent group is celebrating its foundation day . . . On Monday , the PLA exploded a bomb at Andro , in Imphal East , though the police commandos targeted escaped unhurt . . . Police and security personnel have arrested 10 persons , including three women , in connection with the explosions . . . On Tuesday , the first blast took place early in the morning near the boundary wall of M-sector , the army administrative office in Imphal adjacent to the Raj Bhavan . . . Security sidestepped . . Despite being heavily guarded by armed personnel round the clock , suspected insurgents sneaked into the area and planted the bomb , which was later triggered with a remote-control device . . . The second explosion took place at Khwairakpan Lamkhai in Bishnupur district , near the gate of 6/8 Gorkha Regiment , while the third took place at Moidangpok in Imphal West district . . . The PLA and the Manipur Peoples Army , the military wing of the United National Liberation Front , have continuously targeted security personnel since September 5 . One Assam Rifles personnel was killed and some others , including a civilian , were wounded on September 8 . . . The insurgent groups had advised people to stay away from security personnel , who they said could be attacked at will , any time , any place . . . Police suspect role of Peoples Liberation Army One bomb was planted near Army office . . Police suspect role of Peoples Liberation Army . . One bomb was planted near Army office .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "police:21", 
+        "assam rifles:233"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/triple-blasts-rock-manipur/article3937062.ece", 
+    "date": "25-09-2012", 
+    "target": "", 
+    "hot_spot": "Imphal West", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Peoples Liberation Army", 
+            "27", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "PLA", 
+            "31", 
+            "Accused"
+        ], 
+        [
+            "Revolutionary Peoples Front", 
+            "39", 
+            "Accused"
+        ], 
+        [
+            "PLA", 
+            "59", 
+            "Accused"
+        ], 
+        [
+            "Gorkha Regiment", 
+            "188", 
+            "Others"
+        ], 
+        [
+            "PLA", 
+            "206", 
+            "Others"
+        ], 
+        [
+            "United National Liberation Front", 
+            "218", 
+            "Accused"
+        ], 
+        [
+            "Peoples Liberation Army", 
+            "288", 
+            "Others"
+        ], 
+        [
+            "Peoples Liberation Army", 
+            "304", 
+            "Accused"
+        ]
+    ]
+}

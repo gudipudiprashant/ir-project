@@ -1,0 +1,317 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "105", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "110", 
+            "Event"
+        ], 
+        [
+            "Barpeta road", 
+            "112", 
+            "Event"
+        ], 
+        [
+            "Bongaingaon", 
+            "115", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "213", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "292", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "294", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "369", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "525", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sushanta Talukdar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "Patil", 
+            "97", 
+            "Others"
+        ], 
+        [
+            "Patil", 
+            "128", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "139", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "236", 
+            "Others"
+        ], 
+        [
+            "Subhas Das", 
+            "356", 
+            "Comment"
+        ], 
+        [
+            "R. Chandranthan", 
+            "471", 
+            "Others"
+        ], 
+        [
+            "Patil", 
+            "530", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "afternoon : 123", 
+        "yesterdays : 285", 
+        "5.12 p.m.:347"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:29", 
+        "Thursdays : 33", 
+        "Saturday:246"
+    ], 
+    "death": "75", 
+    "title": "Assam blasts death toll 75", 
+    "org_unorg": "", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Sushanta Talukdar . . Little known Islamist outfit claims responsibility . . Guwahati : A little known terrorist outfit the Islamic Security Force -LRB- Indian Mujahideen -RRB- on Friday claimed responsibility for Thursdays serial blasts in Assam and warned of more such attacks in the State and in the rest of the country . . . Union Home Minister Shivraj Patil arrived in the State to take stock of the situation and review the security measures in the wake the blasts . Soon after his arrival at the Lokpriya Gopinath Bardoloi international airport here , Mr. Patil flew to the others places in Lower Assam where the blasts occurred Kokrajhar , Barpeta road and Bongaingaon and returned to the city in the afternoon . . . Mr. Patil reviewed the situation at a high-level meeting with Chief Minister Tarun Gogoi and top security officials . He said it was too early to speculate on the perpetrators of the blasts ; besides doing so would adversely affect the investigation . He , however , gave the assurance that those responsible for the blasts would be severely punished . . . Meanwhile , the death toll has gone up to 75 , with 12 more dying of injuries in city hospitals and one in Kokrajhar . The death toll in the city has gone up to 43 . . . Prime Minister Manmohan Singh and Congress President Sonia Gandhi are scheduled to arrive in the State on Saturday to take stock of the situation and visit the blast sites . . . A local television news channel News Live claimed to have received an SMS saying : We ISF -LRB- IM -RRB- take the responsibility of yesterdays blast . We warn all of Assam and India of situations like this in future . We thank all our holy members and partners . Ameen . . . Managing Editor of News Live Syed Zarir Hussain told The Hindu that the input desk of the news channel received the SMS purportedly sent from a cell-phone -LRB- No. 98640-93690 -RRB- at 5.12 p.m. . . Principal Secretary -LRB- Home -RRB- Subhas Das said the police were studying the message . . . The Assam police , in its initial report to the Home Department , said the needle of suspicion pointed to Islamic terror outfits , the Harkat-ul Jihadi Islami -LRB- HUJI -RRB- and the Jamaat-ul Mujahideen Bangladesh -LRB- JMB -RRB- . Based on initial forensic findings , the police said car bombs were used in the all three places in the city and plastic explosives were used to maximise collateral damage . A team of explosives experts of the NSG collected evidence from the sites . . . The State government has ordered a Special Task Force , headed by Inspector-General -LRB- STF -RRB- R. Chandranthan , to probe all aspects of the serial blast and chargesheet those involved . . . The city witnessed anger and outrage on the streets for the second consecutive day , prompting the police to burst teargas shells and use force . . . Earlier , speaking to reporters briefly at the Kokrajhar blast site , Mr. Patil said he had asked the State government to take the strongest possible action against those responsible for the blasts . I have come to share your grief . I extend my sympathy to all those who have suffered . I offer condolences to the families who lost their lives .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kokrajhar", 
+        "G7uwahati", 
+        ""
+    ], 
+    "O": [
+        "Islamist outfit:7", 
+        "claims responsibility:9", 
+        "terrorist outfit:18", 
+        "claimed responsibility:30", 
+        "serial blasts:34", 
+        "warned:39", 
+        "attacks:43", 
+        "State:46", 
+        "country:53", 
+        "arrived:62", 
+        "State:65", 
+        "stock:68", 
+        "situation:71", 
+        "review:73", 
+        "security measures:75", 
+        "blasts:81", 
+        "arrival:86", 
+        "Lokpriya Gopinath Bardoloi international airport:89", 
+        "flew:98", 
+        "blasts:108", 
+        "returned:117", 
+        "city:120", 
+        "reviewed:129", 
+        "situation:131", 
+        "high-level meeting:134", 
+        "security officials:143", 
+        "speculate:153", 
+        "perpetrators:156", 
+        "blasts:159", 
+        "adversely affect:165", 
+        "investigation:168", 
+        "assurance:176", 
+        "responsible:179", 
+        "blasts:182", 
+        "severely punished:185", 
+        "death toll:193", 
+        "dying of injuries:204", 
+        "city hospitals:208", 
+        "death toll:216", 
+        "city:220", 
+        "scheduled:239", 
+        "arrive:241", 
+        "State:244", 
+        "stock:249", 
+        "situation:252", 
+        "blast sites:256", 
+        "local television news channel:262", 
+        "claimed:268", 
+        "received:271", 
+        "SMS:273", 
+        "responsibility:283", 
+        "blast:286", 
+        "studying the message:362", 
+        "initial report:374", 
+        "suspicion:385", 
+        "Islamic terror outfits:388", 
+        "initial forensic findings:410", 
+        "car bombs:417", 
+        "three places:424", 
+        "city:428", 
+        "plastic explosives:430", 
+        "maximise collateral damage:435", 
+        "explosives:442", 
+        "experts:443", 
+        "NSG collected evidence:446", 
+        "sites:451", 
+        "ordered:459", 
+        "headed:465", 
+        "probe:475", 
+        "aspects:477", 
+        "serial blast:480", 
+        "chargesheet:483", 
+        "involved:485", 
+        "city witnessed:490", 
+        "anger:492", 
+        "outrage:494", 
+        "streets:497", 
+        "second consecutive day:500", 
+        "prompting:504", 
+        "burst teargas shells:508", 
+        "reporters:521", 
+        "blast site:526", 
+        "action against:543", 
+        "blasts:549", 
+        "grief:557", 
+        "sympathy:562", 
+        "suffered:568", 
+        "condolences:572"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/assam-blasts-death-toll-75/article1367388.ece", 
+    "date": "30-10-2008", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Sushanta", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Islamic Security Force", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "25", 
+            "Accused"
+        ], 
+        [
+            "News Live", 
+            "266", 
+            "Others"
+        ], 
+        [
+            "ISF", 
+            "277", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "279", 
+            "Accused"
+        ], 
+        [
+            "Assam police", 
+            "369", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul Jihadi Islami", 
+            "393", 
+            "Others"
+        ], 
+        [
+            "HUJI", 
+            "397", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul Mujahideen Bangladesh", 
+            "401", 
+            "Others"
+        ], 
+        [
+            "JMB", 
+            "405", 
+            "Others"
+        ], 
+        [
+            "State government", 
+            "456", 
+            "Others"
+        ], 
+        [
+            "Special Task Force", 
+            "461", 
+            "Others"
+        ], 
+        [
+            "STF", 
+            "469", 
+            "Others"
+        ], 
+        [
+            "State government", 
+            "536", 
+            "Others"
+        ]
+    ]
+}

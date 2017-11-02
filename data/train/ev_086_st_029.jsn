@@ -1,0 +1,221 @@
+{
+    "LOC": [
+        [
+            "US", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "US", 
+            "7", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "United States", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "53", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "124", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "146", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "153", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "192", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "204", 
+            "Neutral"
+        ], 
+        [
+            "Dadar", 
+            "284", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "302", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "413", 
+            "Neutral"
+        ], 
+        [
+            "JaveriBazar", 
+            "415", 
+            "Neutral"
+        ], 
+        [
+            ", Dadar", 
+            "416", 
+            "Neutral"
+        ], 
+        [
+            "Dadar", 
+            "417", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "420", 
+            "Neutral"
+        ], 
+        [
+            "Opera House", 
+            "423", 
+            "Neutral"
+        ], 
+        [
+            "Charni Road", 
+            "426", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "433", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Barack Obama", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "75", 
+            "Comment"
+        ], 
+        [
+            "Sonia Gandhi", 
+            "93", 
+            "Comment"
+        ], 
+        [
+            "Asif Ali Zardari", 
+            "129", 
+            "Others"
+        ], 
+        [
+            "Syed Yousaf Raza Gilani", 
+            "135", 
+            "Others"
+        ], 
+        [
+            "Hamid Ansari", 
+            "200", 
+            "Others"
+        ], 
+        [
+            "Manohar Joshi", 
+            "331", 
+            "Comment"
+        ], 
+        [
+            "Joshi", 
+            "367", 
+            "Comment"
+        ], 
+        [
+            "Javed Akhtar", 
+            "369", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Blast reax: Obama, Sonia Gandhi condemn attacks", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "US President Barack Obama has offered US help in bringing the perpetrators of the Mumbai blasts to justice . `` India is a close friend and partner of the United States . The American people will stand with the Indian people in times of trial , and we will offer support to India 's efforts to bring the perpetrators of these terrible crimes to justice , '' he said . . . Indian PM Manmohan Singh condemned the attacks and asked the people of Mumbai to stay calm , while Congress President Sonia Gandhi offered condolences to the families of those dead and injured and condemned the blasts . . . The state of Pakistan has expressed its shock and disbelief at the Mumbai blasts . `` President Asif Ali Zardari , Prime Minister Syed Yousaf Raza Gilani , the Government and the people of Pakistan , have condemned the blasts in Mumbai and expressed distress on the loss of lives and injuries . The President and the Prime Minister have expressed their deepest sympathies to the Indian leadership on the loss of lives , injuries and damage to property in Mumbai . '' . . India 's Vice-President Hamid Ansari on the Mumbai blasts : `` He expressed deep shock at the scale of the attacks targeted against innocent people that have caused numerous fatalities and casualties . He said that such terrorist acts are aimed at destabilizing the nation and urged all citizens to unite in this critical hour . He expressed deepest condolences to the families of those killed and injured in the attacks , '' said a statement from his office . . . Shops near the blast in Dadar . Parag Shinde/Firstpost . . The government should find out thosebehind this evening 's serial blasts in Mumbai , the Shiv Sena said . `` There is chaos everywhere . This must be a terrorist actas it happened in three places , '' senior Sena leader Manohar Joshi said after reaching Dadar , one of the three sites of theblasts . . . `` I want that the government take immediate steps and findout who are people behind the blasts , '' Joshi said.Lyricist Javed Akhtar said `` No words are strong enough tocondemn the attacks . '' `` This menace called terrorism ... something has to be done . . . Something drastic . This is not acceptable , '' he said.Explosions have been reported in south Mumbai 's JaveriBazar , Dadar in Central Mumbai , and Opera House in Charni Road . . . Also watch Maharashtra Chief Minister 's reaction .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "American people:34", 
+        "Indian people:40", 
+        "Government:141", 
+        "Prime Minister:169", 
+        "Dadar:336"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/politics/blast-reax-obama-sonia-gandhi-condemn-attacks-41021.html", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Congress", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "Shiv Sena", 
+            "305", 
+            "Others"
+        ], 
+        [
+            "Sena", 
+            "329", 
+            "Others"
+        ]
+    ]
+}

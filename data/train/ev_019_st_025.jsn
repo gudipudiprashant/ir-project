@@ -1,0 +1,133 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Damodar river", 
+            "30", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bardhaman", 
+            "56", 
+            "Event"
+        ], 
+        [
+            "Sadar Ghat", 
+            "77", 
+            "Assoc_Event"
+        ], 
+        [
+            "Bardhaman", 
+            "81", 
+            "Event"
+        ], 
+        [
+            "Kharagragh", 
+            "146", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "148", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "199", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mamata Banerjee", 
+            "191", 
+            "Others"
+        ], 
+        [
+            "Siddharth Nath Singh", 
+            "208", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:33", 
+        "Thursday:60", 
+        "October 2:143"
+    ], 
+    "death": "", 
+    "title": "Bardhaman blast probe: Recovered IEDs detonated", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Bardhaman", 
+        "Bardhaman"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": ": The improvised explosives devices , -LRB- IEDs -RRB- recovered from house of one of the accused in the Bardhaman blast case , were detonated along the banks of Damodar river on Friday . . . A sack full of IEDs in the form of grenades was recovered from the house of an accused in Bardhaman town late on Thursday evening . . . While most of the hand grenades were detonated at a place near Sadar Ghat outside the Bardhaman town , two improvised hand grenades have been preserved for further investigation . . . The sack containing explosives was destroyed in three controlled explosions , which was coordinated by officials of National Investigation Agency in the presence of National Security Guards . . . While four persons including two women have been arrested in connection with the accidental blast on October 2 at Kharagragh in Bardhaman town , many accused are still at large . . . Meanwhile , the BJP fired a fresh salvo at the State police stating that they searched the same house , but could not find the explosives . . . Why did Mamata Banerjee prevent an NIA investigation into the Bardhaman blast for a week ? BJP national secretary Siddharth Nath Singh said at a party rally here .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "explosives devices:4", 
+        "grenades:46", 
+        "hand grenades:69"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/bardhaman-blast-probe-recovered-ieds-detonated/article6513466.ece", 
+    "date": "17-10-2014", 
+    "target": "", 
+    "hot_spot": "Bardhaman", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "Investigation Agency in", 
+            "115", 
+            "Others"
+        ], 
+        [
+            "National Security Guards", 
+            "121", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "163", 
+            "Others"
+        ], 
+        [
+            "State police", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "195", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "205", 
+            "Others"
+        ]
+    ]
+}

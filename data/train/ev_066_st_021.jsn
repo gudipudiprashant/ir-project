@@ -1,0 +1,79 @@
+{
+    "LOC": [
+        [
+            "NEW DELHI", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Lajpat Rai Market", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Walled City", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Old Delhi", 
+            "90", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "half-an-hour : 84"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:12"
+    ], 
+    "death": "", 
+    "title": "Delhi police question shopkeepers", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . NEW DELHI : The Delhi police on Wednesday visited the Lajpat Rai Market in the Walled City area and questioned several shopkeepers to find out whether the perpetrators of the Samjhauta Express blasts purchased circuit boards and electronic components used in the improvised explosive devices from there . The market is famous for its cheap electronic goods . . . While the Haryana police believe that two of the perpetrators got off the train when it slowed down about half-an-hour after it departed from the Old Delhi station , it is learnt that intelligence agencies here doubt the theory . ` Terrorists will not travel by the same train in which they have planted bombs unless they are suicide-bombers , ' said an officer . . . According to the officer , there was a possibility that the perpetrators , who could be more than four in number , left the suitcases containing the IEDs in the coaches on platform No. 18 and vanished from the scene before the train departed .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Haryana", 
+        "Panipat", 
+        "", 
+        "Panipat"
+    ], 
+    "O": [
+        "Person:0", 
+        "Samjhauta Express:35", 
+        "Terrorists:106", 
+        "IEDs:159", 
+        "platform No. 18:164"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/delhi-police-question-shopkeepers/article1800627.ece", 
+    "date": "18-02-2007", 
+    "target": "TRAIN", 
+    "hot_spot": "Panipat", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi police", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "Haryana police", 
+            "67", 
+            "Others"
+        ]
+    ]
+}

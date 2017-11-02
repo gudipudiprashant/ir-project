@@ -1,0 +1,171 @@
+{
+    "LOC": [
+        [
+            "HYDERABAD", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "69", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "115", 
+            "Event"
+        ], 
+        [
+            "Masjid premises", 
+            "132", 
+            "Event"
+        ], 
+        [
+            "Masjid premises", 
+            "188", 
+            "Event"
+        ], 
+        [
+            "Masjid", 
+            "259", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "327", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "337", 
+            "Event"
+        ], 
+        [
+            "Jama Masjid", 
+            "346", 
+            "Assoc_Event"
+        ], 
+        [
+            "Delhi", 
+            "349", 
+            "Accused"
+        ], 
+        [
+            "Malegaon", 
+            "351", 
+            "Assoc_Event"
+        ], 
+        [
+            "Maharashtra", 
+            "353", 
+            "Accused"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "two days : 46", 
+        "last year : 355"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday : 52", 
+        "Sunday morning : 135", 
+        "Friday : 191", 
+        "Friday : 370", 
+        "Sunday : 386"
+    ], 
+    "death": "9", 
+    "title": "Another mobile found in Mecca Masjid", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hydrabad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter . . Cell phone found in water tank of mosque ; old city returning to normality . . HYDERABAD : Another mobile phone was found on the premises of the Mecca Masjid , where a powerful bomb went off leaving nine persons dead two days ago , here on Sunday . . . A team of forensic and bomb experts from the National Security Guard , Delhi , unearthed the cell phone from the mosque 's water tank -LRB- houz -RRB- used by namaazis to perform ablutions before offering prayers . The NSG team also recovered electronic keys of a car , used for locking , from the water tank of the Mecca Masjid . . . The experts conducted a thorough search of the blast site and the Masjid premises from Sunday morning and directed the Masjid officials to empty the water tank . . . The team also found scraps of metal , pieces of wire , a cell phone , a small piece of metal tube , which may or may not have links with the actual bomb that exploded in the Masjid premises on Friday . . . Platform removed . . The team also removed the marble platform , which broke under the impact of the bomb , to conduct a thorough search underneath . They collected shreds of marble pieces , before packing them in polythene bags for investigation . . . The whole water tank was emptied under the strict vigil of the NSG team . Workers from the Masjid were told to remove whatever foreign objects they could lay their hands on and hand them over to the team of experts . . . Old rings made up of various metals , visiting cards , metal objects of various shapes and sizes , cellular phone , electronic lock for cars were carefully collected for investigation by the team of experts . . . Meanwhile , the Hyderabad police began analysing if the bomb blast inside the Mecca Masjid had any similarities to the explosions in Jama Masjid of Delhi and Malegaon in Maharashtra reported last year . Explosions at all the three places were triggered , incidentally , on Friday and inside or close to mosques . . . The old city remained peaceful on Sunday with the police continuing their patrolling all through the day and night . Higher officials continued to camp in the old city and monitored the situation on an hourly basis .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Cell phone:5", 
+        "water tank:9", 
+        "mosque:12", 
+        "mobile phone:24", 
+        "premises:30", 
+        "powerful bomb:38", 
+        "team of forensic:57", 
+        "bomb experts:61", 
+        "unearthed:71", 
+        "mosque 's water tank:77", 
+        "namaazis:86", 
+        "ablutions:89", 
+        "recovered:98", 
+        "electronic keys:99", 
+        "experts:121", 
+        "blast site:128", 
+        "Masjid officials:140", 
+        "scraps of metal:154", 
+        "pieces of wire:158", 
+        "a cell phone:162", 
+        "a small piece of metal tube:166", 
+        "actual bomb:182", 
+        "polythene bags:234", 
+        "investigation:237", 
+        "strict vigil:249", 
+        "Workers:256", 
+        "Old rings:285", 
+        "metals:291", 
+        "visiting cards:293", 
+        "metal objects of various shapes and sizes:296", 
+        "cellular phone:304", 
+        "electronic lock:307", 
+        "investigation:315", 
+        "experts:320", 
+        "bomb blast:333", 
+        "Explosions:358", 
+        "three places:362", 
+        "peaceful:384", 
+        "patrolling:392", 
+        "day and night:396", 
+        "camp:404", 
+        "hourly basis:415"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/another-mobile-found-in-mecca-masjid/article1845337.ece", 
+    "date": "18-03-2007", 
+    "target": "MOSQUE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "ACCIDENTAL", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Security Guard", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "253", 
+            "Others"
+        ]
+    ]
+}

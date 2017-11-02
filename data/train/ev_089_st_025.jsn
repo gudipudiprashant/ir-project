@@ -1,0 +1,64 @@
+{
+    "LOC": [], 
+    "PER": [
+        [
+            "Sushilkumar Shinde", 
+            "4", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "today : 19"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Govt should stop playing politics with terrorism: BJP", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Refuting Home Minister Sushilkumar Shinde 's charge that opposition-ruled states were opposed to formation of NCTC , BJP today said the government needs to strengthen intelligence gathering and coordination rather than `` playing politics '' on the issue of terrorism .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "strengthen intelligence:25", 
+        "terrorism:40"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.business-standard.com/article/pti-stories/govt-should-stop-playing-politics-with-terrorism-bjp-113022300200_1.html", 
+    "date": "23-02-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "NCTC", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "22", 
+            "Others"
+        ]
+    ]
+}

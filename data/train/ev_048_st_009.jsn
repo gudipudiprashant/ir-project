@@ -1,0 +1,76 @@
+{
+    "LOC": [
+        [
+            "Digboi", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Tinsukia", 
+            "17", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "A P Tiwari", 
+            "53", 
+            "Comment"
+        ], 
+        [
+            "Tiwari", 
+            "104", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "today : 19"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Two bombs explode in Assam as the state celebrated 66th Republic Day", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Tinsukia", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "GUWAHATI : Two low-intensity bombs exploded at the oil town of Digboi in upper Assam 's Tinsukia district today as the state celebrated the 66th Republic Day . . . `` No damage or casualty has been reported so far from the very low intensity blasts , '' Senior Superintendent of Police A P Tiwari said . . . One of the explosions took place under dumped garbage near a railway track and another in a drain under the garbage there , he said . . . `` It seems from the impact that the bombs were handmade with no impact , '' Tiwari said . . . Investigations are on , he said .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Two low-intensity bombs:3", 
+        "oil town:9", 
+        "66th republic day:25", 
+        "blasts:46", 
+        "explosions:63", 
+        "garbage:68", 
+        "railway track:71", 
+        "garbage:80", 
+        "bombs:96"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "REPULBIC DAY", 
+    "link": "http://articles.economictimes.indiatimes.com/2015-01-26/news/58470002_1_two-bombs-two-low-intensity-bombs-upper-assam", 
+    "date": "26-01-2015", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

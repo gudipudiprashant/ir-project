@@ -1,0 +1,166 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Matunga", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "NEW DELHI", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "78", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "142", 
+            "Neutral"
+        ], 
+        [
+            "Mahim", 
+            "189", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "206", 
+            "Accused"
+        ], 
+        [
+            "Nagpur", 
+            "216", 
+            "Assoc_Event"
+        ], 
+        [
+            "Maharashtra", 
+            "221", 
+            "Neutral"
+        ], 
+        [
+            "Bhiwandi", 
+            "309", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Meenatai Thackeray", 
+            "324", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:16"
+    ], 
+    "death": "", 
+    "title": "LeT, SIMI hand in Mumbai blasts", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA", 
+        "STUDENTS ISLAMIC MOVEMENT OF INDIA"
+    ], 
+    "content": "doweshowbellyad = 0 ; . . Bomb Blast at Matunga in the train Mumbai on Tuesday . -LRB- TOI -RRB- . . NEW DELHI : The terror attack on Mumbai trains was carried out by Lashkar-e-Toiba and local Students Islamic Movement of India -LRB- SIMI -RRB- activists and was designed to trigger communal conflagration in the country 's financial capital , intelligence sources said . While still waiting for clues to emerge , top intelligence sources in New Delhi seem pretty sure the blasts on the trains were plotted by Lashkar modules which are increasingly collaborating with activists of SIMI , which boasts of strong pockets of influence across Maharashtra . The estimate of intelligence agencies here is derived from the scale of the attack , as well as precise information about the Lashkar 's sleeper cells that have proliferated in Maharashtra . Sources in the home ministry , in fact , said that a carnage had seemed very much on the cards with information pouring in about stockpiling of arms and explosives by religious extremists . . . doweshowbellyad = 0 ; . . Bomb blast at Mahim railway station . -LRB- Mumbai Mirror -RRB- . . Unlike last time when tip-offs helped the Maharashtra police foil the fidayeen attack on RSS headquarters at Nagpur , this time , Maharashtra and central sleuths failed to detect the plot . ` Every time , you can not be lucky . Information as to which train they are going to attack and where is not easy to come by , ' said a top intelligence official engaged in counter-terror operations . Officials here are convinced that the terrorists ' objective was to cause communal mayhem in the city . The conviction is based on two facts . First , the trains were targeted just after the communal-tinged violence in Bhiwandi , and the protests by Shiv Sainiks over the insult to the statue of Meenatai Thackeray by miscreants .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        ". new delhi:22", 
+        "conflagration:54", 
+        "Lashkar 's sleeper cells:134", 
+        "home ministry:147", 
+        "carnage:156", 
+        "stockpiling:169", 
+        "arms and explosives:171", 
+        "fidayeen attack:210", 
+        "headquarters:214", 
+        "terrorists:277", 
+        "mayhem:284", 
+        "Shiv Sainiks:315"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/LeT-SIMI-hand-in-Mumbai-blasts/articleshow/1733318.cms?referral=PM", 
+    "date": "11-07-2006", 
+    "target": "RAILWAY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "TOI", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Toiba", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "39", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "Lashkar", 
+            "91", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "100", 
+            "Accused"
+        ], 
+        [
+            "Lashkar", 
+            "134", 
+            "Accused"
+        ], 
+        [
+            "Mumbai Mirror", 
+            "194", 
+            "Others"
+        ], 
+        [
+            "RSS", 
+            "213", 
+            "Assoc_Victim"
+        ]
+    ]
+}

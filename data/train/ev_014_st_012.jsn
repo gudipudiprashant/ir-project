@@ -1,0 +1,323 @@
+{
+    "LOC": [
+        [
+            "GUWAHATI", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "72", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "162", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "188", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "233", 
+            "Event"
+        ], 
+        [
+            "Dhemaji", 
+            "349", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "374", 
+            "Neutral"
+        ], 
+        [
+            "Dibrugarh", 
+            "393", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Tarun Gogoi", 
+            "207", 
+            "Others"
+        ], 
+        [
+            "Brindaban Goswami", 
+            "292", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "308", 
+            "Others"
+        ], 
+        [
+            "Gogoi", 
+            "347", 
+            "Others"
+        ], 
+        [
+            "Gogoi", 
+            "359", 
+            "Others"
+        ], 
+        [
+            "Ajai Singh", 
+            "370", 
+            "Others"
+        ], 
+        [
+            "Gogoi", 
+            "390", 
+            "Others"
+        ], 
+        [
+            "Gogoi", 
+            "417", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "today : 31", 
+        "morning : 85", 
+        "today : 164", 
+        "12-hour : 187", 
+        "tomorrow : 190", 
+        "12-hour : 232", 
+        "tomorrow : 235", 
+        "day : 356", 
+        "today : 375", 
+        "evening : 414", 
+        "year : 480", 
+        "day : 483", 
+        "today : 500"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "AUG. 17 : 17", 
+        "August 16 : 474"
+    ], 
+    "death": "16", 
+    "title": "Students take to the streets", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "National Students take to the streets . . By Our Special Correspondent . . GUWAHATI , AUG. 17 . School children in Assam took to the streets throughout the State today to join the widespread protest by intellectuals , artists , senior citizens , students ' organisations and political parties against the killing of 16 school children , in a bomb attack by the banned United Liberation Front of Asom in Dhemaji district on Independence Day . . . Hundreds of students assembled this morning in the four main public grounds of the city displaying banners with slogans condemning the dastardly attack by the ULFA inscribed on them . . . The State units of the Students ' Federation of India and the Communist Party of India -LRB- Marxist -RRB- took out separate protest rallies through the main thoroughfares condemning the bomb attack and protesting the Government 's failure to protect the lives of the State 's people . . . Assam bandh today . . The protests came amid the ULFA owning responsibility for the blast and the All-Assam Students ' Union calling for a 12-hour Assam bandh tomorrow to protest the killing . The AASU has demanded the resignation of the Chief Minister , Tarun Gogoi . . . In a separate statement , the State unit of the Communist Party of India -LRB- Marxist -RRB- called for a 12-hour Assam bandh tomorrow in protest against the bomb attack , and to protest the State Government 's failure to protect the lives and property of the general public . . . It also called for building up a strong public opinion against ` insurgent violence . ' . . Government attacked . . The Asom Gana Parishad president , Brindaban Goswami , and other senior AGP leaders who met the bereaved family members said that Tarun Gogoi Government had lost the ` moral right ' to continue in office for its failure to protect the lives and property of the people despite intelligence agencies forewarning about a possible militants ' attack . . . Gogoi visits Dhemaji . . Earlier , in the day , Mr. Gogoi and the Governor , Lt. Gen. -LRB- retd . -RRB- Ajai Singh , visited Dhemaji today and met the families of the deceased children to express their condolences . Mr. Gogoi also visited Dibrugarh to enquire about the condition of the injured at the Dibrugarh Medical College Hospital . . . Late in the evening , Mr. Gogoi announced that the Government had decided to set up libraries in the respective schools in memory of the students killed . . . The Government was also considering the institution of a bravery award for those killed in the blast as they had defied the boycott call given by the ULFA . . . Besides , August 16 would be observed every year as a day of mourning in the State in memory of the deceased children . . . The Government today also enhanced the ex-gratia to the next of kin of those killed in the blast from Rs . 3 lakhs to Rs . 5 lakhs and to the injured from Rs . 50,000 to Rs . 1 lakh . . . Related Stories : COWARDLY ATTACK .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Dhemaji", 
+        ""
+    ], 
+    "O": [
+        "National Students:1", 
+        "streets:6", 
+        "streets:27", 
+        "State:30", 
+        "widespread protest:35", 
+        "intellectuals:38", 
+        "artists:40", 
+        "senior citizens:42", 
+        "students ' organisations:45", 
+        "political parties:49", 
+        "killing:53", 
+        "bomb attack:61", 
+        "banned:65", 
+        "Independence Day:75", 
+        "assembled:83", 
+        "public grounds:90", 
+        "city:94", 
+        "banners:96", 
+        "slogans:98", 
+        "condemning:99", 
+        "dastardly attack:101", 
+        "State units:113", 
+        "protest rallies:134", 
+        "bomb attack:142", 
+        "protesting:145", 
+        "Government 's failure:147", 
+        "protect:151", 
+        "bandh:163", 
+        "protests:168", 
+        "amid:170", 
+        "blast:177", 
+        "bandh:189", 
+        "protest:192", 
+        "killing:194", 
+        "demanded:199", 
+        "resignation:201", 
+        "State unit:218", 
+        "bandh:234", 
+        "protest against:237", 
+        "bomb attack:240", 
+        "protest:245", 
+        "failure:250", 
+        "protect:252", 
+        "lives:254", 
+        "general public:259", 
+        "strong public opinion:271", 
+        "insurgent violence:276", 
+        "attacked:283", 
+        "leaders:299", 
+        "bereaved family members:303", 
+        "moral right:315", 
+        "failure:324", 
+        "protect:326", 
+        "intelligence agencies:335", 
+        "forewarning:337", 
+        "militants ' attack:341", 
+        "deceased children:382", 
+        "express:385", 
+        "condolences:387", 
+        "enquire:395", 
+        "injured:401", 
+        "announced:418", 
+        "decided:423", 
+        "libraries:427", 
+        "killed:437", 
+        "institution:447", 
+        "bravery award:450", 
+        "killed:454", 
+        "blast:457", 
+        "boycott call:463", 
+        "observed:478", 
+        "mourning:485", 
+        "State:488", 
+        "memory:490", 
+        "deceased children:493", 
+        "enhanced:502", 
+        "ex-gratia:504", 
+        "kin:509", 
+        "killed:512", 
+        "blast:515", 
+        "Rs . 3 lakhs:517", 
+        "Rs . 5 lakhs:522", 
+        "injured:529", 
+        "Rs . 50,000 to Rs . 1 lakh:531", 
+        "COWARDLY ATTACK:545"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2004/08/18/stories/2004081805171100.htm", 
+    "date": "17-08-2004", 
+    "target": "PARADE GROUND", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "66", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "105", 
+            "Others"
+        ], 
+        [
+            "Students ' Federation of India", 
+            "117", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "Marxist", 
+            "129", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "172", 
+            "Others"
+        ], 
+        [
+            "All-Assam Students ' Union", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "AASU", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "222", 
+            "Others"
+        ], 
+        [
+            "Marxist", 
+            "227", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "247", 
+            "Others"
+        ], 
+        [
+            "Government", 
+            "282", 
+            "Others"
+        ], 
+        [
+            "Asom Gana Parishad", 
+            "287", 
+            "Others"
+        ], 
+        [
+            "AGP", 
+            "298", 
+            "Others"
+        ], 
+        [
+            "Dibrugarh Medical College Hospital", 
+            "404", 
+            "Others"
+        ], 
+        [
+            "Government", 
+            "421", 
+            "Others"
+        ], 
+        [
+            "Government", 
+            "442", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "468", 
+            "Accused"
+        ], 
+        [
+            "Government", 
+            "499", 
+            "Others"
+        ]
+    ]
+}

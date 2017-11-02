@@ -1,0 +1,215 @@
+{
+    "LOC": [
+        [
+            "Russia", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Russia", 
+            "46", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "89", 
+            "Neutral"
+        ], 
+        [
+            "Russia", 
+            "91", 
+            "Neutral"
+        ], 
+        [
+            "Russia", 
+            "103", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "159", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "218", 
+            "Neutral"
+        ], 
+        [
+            "Gurgaon", 
+            "310", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Neeraj Chhibba", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Neeraj Chhibba", 
+            "48", 
+            "Others"
+        ], 
+        [
+            "Pankaj", 
+            "82", 
+            "Others"
+        ], 
+        [
+            "Pankaj", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "Neeraj", 
+            "204", 
+            "Others"
+        ], 
+        [
+            "Rupa", 
+            "295", 
+            "Others"
+        ], 
+        [
+            "Neeraj", 
+            "300", 
+            "Others"
+        ], 
+        [
+            "Neeraj", 
+            "337", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Dare to be different", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Neeraj Chhibba , the author of Zero Percentile Missed IIT Kissed Russia , wants to give his inspirational book free to government schools . . T here is life beyond IIT . Well , this is what the author of Zero Percentile Missed IIT Kissed Russia , Neeraj Chhibba , attempts to tell the young generation for many of whom success in IIT becomes a question of life and death . . . The recently-published book is about its protagonist , Pankaj 's , journey across two countries India and Russia . Pankaj misses selection to the IIT and is sent to Russia to study engineering by his father . . . There , he excels in studies , becomes a powerful businessman but is troubled by goons of already established entrepreneurs . . . How he handles them under a disadvantageous political climate , conquers the situation and finally leaves the country to be back home in India as an established professional , is the crux of the book . . . Says the author , touted by many websites as a bestselling author , The book would inspire young minds who look for greener pastures beyond their country . . . Neeraj would like to distribute copies of the book to the Government-run schools across India for free . . . I want each school to have at least one copy of it . Students can mail me , even individuals can write in if they require the book . Till now , I have couriered copies to many students who did n't find the book in their cities . My target is to distribute at least 500 copies of the book free . I am buying them from my publisher , Rupa and Co. . . Neeraj , now an engineer with a reputed firm in Gurgaon , is also looking at giving career talks at those schools / colleges that want their students to look beyond the IITs . . . Contact Neeraj at neeraj@neerajchhibba.com .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Zero Percentile Missed:7", 
+        "Kissed:11", 
+        "inspirational book:18", 
+        "free:20", 
+        "government schools:22", 
+        "Zero Percentile Missed:41", 
+        "Kissed:45", 
+        "attempts:51", 
+        "young generation:55", 
+        "success:61", 
+        "life and death:68", 
+        "recently-published book:75", 
+        "protagonist:80", 
+        "Pankaj 's , journey:82", 
+        "two countries:87", 
+        "misses selection:94", 
+        "study:105", 
+        "engineering:106", 
+        "excels:116", 
+        "studies:118", 
+        "powerful businessman:122", 
+        "troubled:126", 
+        "goons:128", 
+        "entrepreneurs:132", 
+        "handles:138", 
+        "disadvantageous:142", 
+        "political climate:143", 
+        "conquers:146", 
+        "situation:148", 
+        "country:153", 
+        "established professional:162", 
+        "crux:167", 
+        "book:170", 
+        "author:176", 
+        "websites:181", 
+        "bestselling author:184", 
+        "book:188", 
+        "inspire:190", 
+        "young minds:191", 
+        "greener pastures:196", 
+        "country:200", 
+        "distribute copies:208", 
+        "book:212", 
+        "Government-run schools:215", 
+        "free:220", 
+        "school:227", 
+        "Students:237", 
+        "mail:239", 
+        "write:245", 
+        "book:251", 
+        "couriered copies:258", 
+        "students:262", 
+        "cities:271", 
+        "target:274", 
+        "distribute:277", 
+        "500 copies:280", 
+        "book:284", 
+        "free:285", 
+        "engineer:304", 
+        "reputed firm:307", 
+        "career talks:317", 
+        "schools / colleges:321", 
+        "students:327", 
+        "neeraj@neerajchhibba.com:339"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-features/tp-metroplus/article781904.ece", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "IIT", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "IIT", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "IIT", 
+            "44", 
+            "Others"
+        ], 
+        [
+            "IIT", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "IIT", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "IITs", 
+            "332", 
+            "Others"
+        ]
+    ]
+}

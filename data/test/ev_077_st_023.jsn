@@ -1,0 +1,169 @@
+{
+    "LOC": [
+        [
+            "Ahmedabad", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "93", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "118", 
+            "Event"
+        ], 
+        [
+            "market", 
+            "147", 
+            "Event"
+        ], 
+        [
+            "trauma centre", 
+            "188", 
+            "Source"
+        ], 
+        [
+            "Ahmadebad", 
+            "356", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "414", 
+            "Source"
+        ], 
+        [
+            "western India", 
+            "416", 
+            "Source"
+        ], 
+        [
+            "Bangalore", 
+            "438", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "453", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "458", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "526", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Jaynarayan Vyas", 
+            "29", 
+            "Comment"
+        ], 
+        [
+            "Vipul Patil", 
+            "219", 
+            "Others"
+        ], 
+        [
+            "Prithviraj Chavan", 
+            "253", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "372", 
+            "Comment"
+        ], 
+        [
+            "Narendra Modi", 
+            "446", 
+            "Others"
+        ], 
+        [
+            "Amit Shah", 
+            "496", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 126", 
+        "20 minutes : 154", 
+        "2002 : 540"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May : 420", 
+        "Friday : 434"
+    ], 
+    "death": "", 
+    "title": "Death toll in Ahmedabad blasts rises to 45", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "The death toll from yesterday 's wave of bombings in the Indian city of Ahmedabad has risen to 45 , a government official said today . . . Jaynarayan Vyas said 161 people were injured when 16 separate small bombs went off in several parts of the city , which has a history of violent clashes between the Hindu majority and Muslim minority . He also said that 30 people had been arrested in connection with the explosions , which came a day after seven synchronised explosions rocked the southern city of Bangalore , the hub of India 's burgeoning information technology industry , killing two and wounding five others . . . Yesterday 's attacks in Ahmedabad happened in two waves early in the evening local time . Some of the devices were hidden in lunchboxes or bicycles . The first series exploded near busy market places . The second , about 20 minutes later , went off in and around a hospital where casualties were being taken . At least six people died there . . . ` We saw a blue bag near the trauma centre , and before we could react we saw it explode in a shine of blinding light , and some 40 people were hit by flying shrapnel , ' said Vipul Patil , a doctor at the Dhanwantari hospital . . . The side of a bus was blown off and its windows shattered while another vehicle was engulfed in flames . . . Prithviraj Chavan , a junior in the prime minister 's office , called yesterday 's bombings `` deplorable '' and said they were set off by people `` bent upon creating a communal divide in the country '' . That is the sort of language officials tend to use when blaming Islamic militants suspected of being behind a series of coordinated bomb attacks across the country in recent years . Targets have included mosques , Hindu temples and trains . . . ` Anti-national elements have been trying to create panic among the people of our country . [ The ) blasts in Ahmadebad seem to be part of the same strategy , ' the federal home minister , Shivraj Patil , said . . . Several television stations said they had received an email claiming responsibility from a group called the Indian Mujahideen at the time of yesterday 's blasts . The same group said it was behind bombs in Jaipur , western India , in May that killed more than 60 people . The email made no mention of Friday 's bombings in Bangalore , according to reports . . . Narendra Modi , the chief minister of Gujarat state , which includes Ahmedabad , condemned the blasts as `` a crime against humanity '' and said the group or groups behind them were `` using a similar modus operandi all over the country '' . The state government home Minister Amit Shah said : `` The government had received a threat email , and we are probing it . '' . . Tension between Hindus and Muslims is acute in Gujarat , a relatively wealthy state . It was the scene of riots in 2002 that left about 2,500 people dead . They were triggered by a fire on a train packed with Hindu pilgrims that killed 60 passengers . The cause was never proven , but Hindu extremists blamed the deaths on Muslims and reacted by rampaging through Muslim areas . . . .", 
+    "injured": "161", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "Ahmedabad", 
+        "Ahmedabad"
+    ], 
+    "O": [
+        "lunchboxes:137", 
+        "bicycles:139", 
+        "blue bag:184", 
+        "mosques:326", 
+        "hindu temples:328", 
+        "trains:331"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.theguardian.com/world/2008/jul/27/india", 
+    "date": "26-07-2008", 
+    "target": "", 
+    "hot_spot": "Ahmedabad", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "information technology industry", 
+            "101", 
+            "Others"
+        ], 
+        [
+            "Dhanwantari hospital", 
+            "226", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "395", 
+            "Accused"
+        ], 
+        [
+            "email", 
+            "429", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "492", 
+            "Others"
+        ]
+    ]
+}

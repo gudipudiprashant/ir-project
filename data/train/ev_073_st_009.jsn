@@ -1,0 +1,288 @@
+{
+    "LOC": [
+        [
+            "Lucknow", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "LUCKNOW", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "NEW DELHI", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "71", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "73", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "75", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "159", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "198", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "204", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "297", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "299", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "307", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "311", 
+            "Event"
+        ], 
+        [
+            "Lucknow", 
+            "318", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "369", 
+            "Assoc_Event"
+        ], 
+        [
+            "Lucknow", 
+            "396", 
+            "Event"
+        ], 
+        [
+            "Riyadh", 
+            "410", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Atiq Khan", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Praveen Swami", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Mohammad Abid", 
+            "128", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Yusuf", 
+            "131", 
+            "Accused"
+        ], 
+        [
+            "Mirza Rashid", 
+            "134", 
+            "Accused"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "152", 
+            "Others"
+        ], 
+        [
+            "Mohammad Waliullah", 
+            "208", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Taslima Nasreen", 
+            "252", 
+            "Others"
+        ], 
+        [
+            "Haji Nasir Ahmad", 
+            "406", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "1.15 p.m.:85"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 58", 
+        "November 18 : 169", 
+        "2005 : 186", 
+        "2006 : 217", 
+        "2006 : 368"
+    ], 
+    "death": "13", 
+    "title": "13 killed as serial blasts rock Uttar Pradesh", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "", 
+        "Lucknow, Faziabab, Varanasi", 
+        ""
+    ], 
+    "terror_group": [
+        "JAISH-E-MOHAMMED / TAHRIK-E-FURQAN"
+    ], 
+    "content": "Atiq Khan and Praveen Swami . . Bombs go off in Lucknow , Faizabad , Varanasi court complexes ; terrorist reprisal against lawyers . . LUCKNOW AND NEW DELHI : At least 13 persons , including four lawyers , were killed and 60 injured when six bombs went off in three court complexes in Uttar Pradesh on Friday . . . Loaded on cycles parked outside the lawyers chambers in Lucknow , Faizabad and Varanasi , the bombs were synchronised to explode shortly after 1.15 p.m. . . All the explosions occurred in the courts where suspects linked to recent Islamist terror strikes have been attacked or denied presentation by lawyers , suggesting that they were intended as an act of reprisal . . . Pakistani nationals Mohammad Abid , Mohammad Yusuf and Mirza Rashid , who police say were members of a Jaish-e-Mohammad module assigned to assassinate Congress general secretary Rahul Gandhi , were beaten up by Lucknow lawyers when they were produced in the court on November 18 . . . Five other Jaish terrorists , alleged to have been involved in a 2005 attack on the Babri Masjid complex , were denied representation by Faizabad lawyers . Their counterparts in Varanasi refused to defend Mohammad Waliullah , a cleric charged with facilitating the 2006 bombings of the city railway station and the Sankat Mochan temple . . . However , investigators said , the operation might also have been timed to capitalise on the protests against Bangladeshi author Taslima Nasreen , a trenchant opponent of Islamists in her country . . . Police and National Bomb Data Centre experts said they expected to harvest valuable forensic data and fingerprints from two devices which failed to detonate . One bomb each was recovered from Faizabad and Lucknow , while three others were detonated in Varanasi and two in Faizabad . One bomb went off in Lucknow . Based on preliminary research , police sources said the bombs appeared to be made up of ammonium nitrate , widely used in fertilizers and industrial explosives . All eight devices were triggered by a detonator controlled by a quartz alarm clock . Similar bombs were used in the 2006 Varanasi serial bombings , which claimed 20 lives . . . The police sources said a bag , in which the unexploded device was found in the Lucknow court complex , also contained an envelope addressed to Haji Nasir Ahmad in Riyadh . However , the investigators cautioned against drawing any immediate inference from the finding , noting that the bag and cycles could well have been stolen . . . The investigators said they were using new computer software to analyse calls made between the three cities in recent weeks .", 
+    "injured": "60", 
+    "org_unorg": "", 
+    "O": [
+        "Bombs:8", 
+        "court complexes:17", 
+        "terrorist reprisal:20", 
+        "lawyers:23", 
+        "six bombs went off:46", 
+        "three court complexes:51", 
+        "Loaded:62", 
+        "cycles parked:64", 
+        "lawyers chambers:68", 
+        "bombs:78", 
+        "synchronised:80", 
+        "explode:82", 
+        "explosions:91", 
+        "courts:95", 
+        "suspects:97", 
+        "Islamist terror strikes:101", 
+        "attacked:106", 
+        "denied:108", 
+        "lawyers:111", 
+        "intended:117", 
+        "act of reprisal:120", 
+        "Pakistani nationals:126", 
+        "assigned to assassinate:146", 
+        "beaten up:156", 
+        "Lucknow lawyers:159", 
+        "Five:174", 
+        "Jaish terrorists:176", 
+        "involved:183", 
+        "attack:187", 
+        "Babri Masjid complex:190", 
+        "denied:195", 
+        "Faizabad lawyers:198", 
+        "counterparts:202", 
+        "refused:205", 
+        "defend:207", 
+        "cleric charged:212", 
+        "facilitating:215", 
+        "bombings:218", 
+        "city railway station:221", 
+        "Sankat Mochan temple:226", 
+        "investigators:234", 
+        "operation:238", 
+        "capitalise:245", 
+        "protests:248", 
+        "Bangladeshi author Taslima Nasreen:250", 
+        "trenchant opponent:256", 
+        "Islamists:259", 
+        "National Bomb Data Centre experts:268", 
+        "expected:275", 
+        "harvest:277", 
+        "forensic data:279", 
+        "fingerprints:282", 
+        "failed:287", 
+        "detonate:289", 
+        "bomb:292", 
+        "recovered:295", 
+        "detonated:305", 
+        "bomb:314", 
+        "preliminary research:322", 
+        "sources:326", 
+        "bombs:329", 
+        "ammonium nitrate:336", 
+        "fertilizers:342", 
+        "industrial explosives:344", 
+        "eight devices:348", 
+        "triggered:351", 
+        "detonator controlled:354", 
+        "quartz alarm clock:358", 
+        "bombs:363", 
+        "Varanasi serial bombings:369", 
+        "20 lives:375", 
+        "bag:385", 
+        "unexploded device:390", 
+        "Lucknow court complex:396", 
+        "envelope addressed:403", 
+        "investigators:415", 
+        "immediate inference:420", 
+        "bag and cycles:429", 
+        "stolen:436", 
+        "investigators:441", 
+        "computer software:447", 
+        "analyse calls:450", 
+        "three cities:455", 
+        "recent weeks:458"
+    ], 
+    "unexpl": [
+        "ALARM CLOCK"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/13-killed-as-serial-blasts-rock-uttar-pradesh/article1954611.ece", 
+    "date": "23-11-2007", 
+    "target": "LAWYER COMPLEX", 
+    "hot_spot": "", 
+    "delivery_mod": "BAG", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": [
+        [
+            "Jaish-e-Mohammad", 
+            "144", 
+            "Accused"
+        ], 
+        [
+            "Jaish", 
+            "176", 
+            "Others"
+        ]
+    ]
+}

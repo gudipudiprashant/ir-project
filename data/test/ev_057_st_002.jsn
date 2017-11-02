@@ -1,0 +1,113 @@
+{
+    "LOC": [
+        [
+            "Kagdapith police station", 
+            "9", 
+            "Neutral"
+        ], 
+        [
+            "Lunawada", 
+            "32", 
+            "Event"
+        ], 
+        [
+            "Godhra", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "Panchmahals", 
+            "42", 
+            "Neutral"
+        ], 
+        [
+            "Dani Limda", 
+            "113", 
+            "Neutral"
+        ], 
+        [
+            "Shahpur police station", 
+            "116", 
+            "Neutral"
+        ], 
+        [
+            "Mirzapur", 
+            "138", 
+            "Neutral"
+        ], 
+        [
+            "Lunawada", 
+            "178", 
+            "Event"
+        ], 
+        [
+            "Malvan", 
+            "203", 
+            "Neutral"
+        ], 
+        [
+            "Surendranagar", 
+            "205", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "four days : 93", 
+        "two days : 101"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:14"
+    ], 
+    "death": "", 
+    "title": "10 injured in bus blast near Godhra", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "AHMEDABAD : Two youths were lynched in the Kagdapith police station area on Monday . Besides , 10 people were injured when an explosive went off in a ST bus at Lunawada , 40 km from the district headquarters Godhra in Panchmahals . . . Officials said the youths were stopped and then stoned to death . A charred body was also found near by , and it could not be spotted earlier as it was hidden under a vehicle . . . In the renewed violence , after a lull of four days , the toll in the past two days has been put at ten . Indefinite curfew continued in Dani Limda and Shahpur police station areas . . . The police lobbed teargas shells to scare away a crowd near a religious place at Mirzapur here , where some miscreants allegedly tried to burst two crude bombs to scare residents . . . Separately , the police said ten passengers were injured when splinters of a bomb hit them in a ST bus at Lunawada . Three women and an infant were among the injured . . . The bus was halting at the ST stand on way to Malvan in Surendranagar district . Nearly 30 passengers were in the bus at the time , the police said . . . The police said a minute after a passenger left in haste , smoke came out of a bag between last two rows . . . `` Scared passengers on seeing the smoke ran for cover . But the device went off , and splinters hit ten of them , '' it said .", 
+    "injured": "10", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "Ahmedabad", 
+        ""
+    ], 
+    "O": [
+        "lynched:6", 
+        "explosive:24", 
+        "st bus:29", 
+        "district headquarters:38", 
+        "death:56", 
+        "violence:87", 
+        "curfew:110", 
+        "teargas:126", 
+        "crowd:132", 
+        "religious place:135", 
+        "burst:147", 
+        "crude bombs:149", 
+        "splinters:167", 
+        "bomb:170", 
+        "st bus:175", 
+        "injured:188", 
+        "st:198", 
+        "30 passengers:209", 
+        "bag:242"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://articles.economictimes.indiatimes.com/2002-05-07/news/27330373_1_bus-blast-lunawada-st-bus", 
+    "date": "06-05-2002", 
+    "target": "POLICE AND DEFENCE FORCES", 
+    "hot_spot": "", 
+    "delivery_mod": "BUS", 
+    "delivery_met": "PLACED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": []
+}

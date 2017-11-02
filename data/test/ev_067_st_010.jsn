@@ -1,0 +1,197 @@
+{
+    "LOC": [
+        [
+            "Mecca Masjid", 
+            "5", 
+            "Event"
+        ], 
+        [
+            "Calcutta", 
+            "35", 
+            "Source"
+        ], 
+        [
+            "Bengal", 
+            "61", 
+            "Accused"
+        ], 
+        [
+            "south India", 
+            "183", 
+            "Neutral"
+        ], 
+        [
+            "Saudi Arabia", 
+            "194", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi temple", 
+            "211", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "218", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "322", 
+            "Neutral"
+        ], 
+        [
+            "Tirupati", 
+            "347", 
+            "Neutral"
+        ], 
+        [
+            "Tirupati", 
+            "375", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "420", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "426", 
+            "Neutral"
+        ], 
+        [
+            "Malda", 
+            "433", 
+            "Neutral"
+        ], 
+        [
+            "Calcutta", 
+            "461", 
+            "Source"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shaheed Bilal", 
+            "159", 
+            "Accused"
+        ], 
+        [
+            "Bilal", 
+            "188", 
+            "Others"
+        ], 
+        [
+            "Y.S Rajasekhar Reddy", 
+            "229", 
+            "Comment"
+        ], 
+        [
+            "Rajasekhar Reddy", 
+            "230", 
+            "Comment"
+        ], 
+        [
+            "Reddy", 
+            "247", 
+            "Comment"
+        ], 
+        [
+            "Reddy", 
+            "311", 
+            "Comment"
+        ], 
+        [
+            "Deendar Anjuman", 
+            "402", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 19:1", 
+        "February:206", 
+        "March 2006 : 209", 
+        "March 31 : 609"
+    ], 
+    "death": "", 
+    "title": "Blast Friday throws up Bengal link", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "May 19 : The Mecca Masjid blast has thrown up a Bengal link . . . Andhra Pradesh police today said the SIM cards of the cellphones used as remote-controlled detonators were bought in Calcutta . The subscriber named in the purchase is believed to be the leader of a Bangladesh-based militant group whose cadre move in and out of Bengal at will . . . Three bombs had been planted but only one went off because the SIM cards of the mobiles attached to the other two had expired just a day earlier , a police officer said . . . One bomb exploded when a call was made to one of the phones . But the other two did not take the call because their SIM cards which were prepaid Hutch cards had been de-activated . The SIM cards hold vital clues . . . The police said the SIM cards are in the name of Shaheed Bilal , chief of the Harkat-ul Jehadi Islami , who is also believed to be in charge of the Pakistan-based Jaish-e-Mohammeds operations in south India . . . Bilal , believed to be in Saudi Arabia , is a suspect in the Samjhauta Express attack last February and the March 2006 Varanasi temple blast . . . The Mecca Masjid toll was today revised to 16 . Chief minister Y.S Rajasekhar Reddy said 11 died in the blast and five in the police firing on protesters . Reddy apologised to the families of the firing victims . I apologise . The police should have been more patient , he said . . . A mob returning from a victims burial threw stones at the police in todays only violent act , injuring two personnel and prompting the force to fire tear gas shells and shoot in the air . . . Reddy said his government had withdrawn the Rapid Action Force from Mecca Masjid and stopped video-graphing worshippers because Muslims were feeling insulted . . . He said all places of worship with resources should follow the Tirupati model of security , which includes CCTVs . The state cabinet cleared a proposal to appoint volunteers at every shrine to identify suspicious objects another feature of Tirupati . . . An intelligence source said the bombs must have been planted by a local helper of Harkat or Jaish , probably a sympathiser of Deendar Anjuman or the Students Islamic Movement of India . . . Harkat operatives are based mostly in Bangladesh , from where they enter India through the porous North 24-Parganas and Malda borders and carry out strikes , a Bengal intelligence source said . One of them may have bought the SIM cards . . . Industry experts in Calcutta said its possible to track subscriber details such as the calls made , their duration and destination thanks to the unique number on each SIM card . The handsets , thanks to their IMEI number , can also help , a source said . . . But only people above a certain rank , such as the police commissioner and state home secretary , can ask for such information . . . To get a SIM card , a customer must provide photo identity proof ( such as passport or drivers licence ) , proof of address ( such as a phone or electricity bill ) and a passport-size photograph . Physical verification is a must . . . But the telecom department admitted a few months ago that connections were being given without proper verification and had asked operators to do a reverification of subscribers within March 31 this year . . . A Hutch official would only say that the service provider would continue to cooperate with the police .", 
+    "injured": "", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Samjhauta Express:202", 
+        "Chief minister:227", 
+        "government:314", 
+        "IMEI number:495", 
+        "police commissioner:519", 
+        "SIM card:537"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1070520/asp/frontpage/story_7803451.asp", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Andhra Pradesh police", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul Jehadi Islami", 
+            "165", 
+            "Accused"
+        ], 
+        [
+            "Jaish-e-Mohammeds", 
+            "180", 
+            "Accused"
+        ], 
+        [
+            "Harkat", 
+            "394", 
+            "Accused"
+        ], 
+        [
+            "Jaish", 
+            "396", 
+            "Accused"
+        ], 
+        [
+            "Islamic Movement of India", 
+            "407", 
+            "Others"
+        ], 
+        [
+            "Harkat", 
+            "414", 
+            "Accused"
+        ], 
+        [
+            "Bengal intelligence", 
+            "441", 
+            "Others"
+        ]
+    ]
+}

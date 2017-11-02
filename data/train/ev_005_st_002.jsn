@@ -1,0 +1,131 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "32", 
+            "Neutral"
+        ], 
+        [
+            "Goa", 
+            "49", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "83", 
+            "Event"
+        ], 
+        [
+            "Tengapara", 
+            "89", 
+            "Event"
+        ], 
+        [
+            "Kokrajhar", 
+            "91", 
+            "Neutral"
+        ], 
+        [
+            "Bijni", 
+            "112", 
+            "Source"
+        ], 
+        [
+            "Chirang", 
+            "114", 
+            "Neutral"
+        ], 
+        [
+            "Chirang", 
+            "125", 
+            "Neutral"
+        ], 
+        [
+            "Manipur", 
+            "132", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narendra Modi", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "Omar Abdullah", 
+            "37", 
+            "Comment"
+        ], 
+        [
+            "Okram Ibobi Singh", 
+            "143", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:17"
+    ], 
+    "death": "", 
+    "title": "Blasts in Assam, Manipur on Independence Day", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Assam", 
+        "Assam"
+    ], 
+    "terror_group": [
+        "BODO"
+    ], 
+    "content": "Bomb blasts in Assam and Manipur marred an otherwise peaceful Independence Day celebration across India on Thursday that also saw Gujarat Chief Minister Narendra Modi take on the prime minister and Jammu and Kashmir Chief Minister Omar Abdullah voice unhappiness over the different treatment meted to his state.In Goa , a man chose the occasion to swim across the Mandovi river to demand a halt to mushrooming casinos in the coastal state.Suspected Bodo militants tried to disrupt the Independence Day celebrations in Assam by triggering a blast in Tengapara of Kokrajhar town , injuring one person . Police recovered another grenade from the same location . A grenade was recovered at Bijni in Chirang district , while four motorcycle-riding youths lobbed a grenade in Chirang , but it did not explode.In Manipur , a bomb blast marred the celebrations as Chief Minister Okram Ibobi Singh appealed for peace in the state . No one was injured in the explosion . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "prime minister:29", 
+        "Chief Minister:35", 
+        "Police:98"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "INDEPENDENCE DAY", 
+    "link": "http://indiatoday.intoday.in/story/independence-day-blasts-in-assam-manipur/1/299622.html", 
+    "date": "15-08-2013", 
+    "target": "", 
+    "hot_spot": "Assam", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bodo", 
+            "73", 
+            "Accused"
+        ]
+    ]
+}

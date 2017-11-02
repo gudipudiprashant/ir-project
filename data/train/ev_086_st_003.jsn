@@ -1,0 +1,199 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Chandni Chowk", 
+            "94", 
+            "Neutral"
+        ], 
+        [
+            "Connaught Place", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "Greater Kailash", 
+            "100", 
+            "Neutral"
+        ], 
+        [
+            "Karol Bagh", 
+            "103", 
+            "Neutral"
+        ], 
+        [
+            "Mehrauli", 
+            "106", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "111", 
+            "Neutral"
+        ], 
+        [
+            "Tirupati", 
+            "113", 
+            "Neutral"
+        ], 
+        [
+            "Visakhapatnam", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "121", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "159", 
+            "Neutral"
+        ], 
+        [
+            "Secunderabad", 
+            "161", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "166", 
+            "Neutral"
+        ], 
+        [
+            "Tirupati", 
+            "168", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "173", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "242", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "264", 
+            "Neutral"
+        ], 
+        [
+            "Dadar", 
+            "272", 
+            "Event"
+        ], 
+        [
+            "Central Mumbai", 
+            "274", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "275", 
+            "Neutral"
+        ], 
+        [
+            "Zaveri", 
+            "281", 
+            "Event"
+        ], 
+        [
+            "Opera House", 
+            "285", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ranjit Pachnanda", 
+            "176", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "evening : 25", 
+        "night : 192", 
+        "evening : 222"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:24", 
+        "Wednesday:191", 
+        "Wednesday:221", 
+        "Wednesday:266"
+    ], 
+    "death": "", 
+    "title": "Security alert in Metros, other cities after Mumbai blasts", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "New Delhi : Security vigil across the country , particularly in Metro cities , was stepped up after three explosions rocked Mumbai on Wednesday evening , official sources here said.According to Home Ministry officials , all state governments have been asked to heighten security measures . `` All the state governments have been asked to increase police patrolling and keep forces on high alert , '' a Home Ministry official said.The national capital was placed on high alert and vigil was stepped up at all vulnerable areas . Security has been heightened in Chandni Chowk , Connaught Place , Greater Kailash , Karol Bagh , Mehrauli and Sarojini Nagar.Police in Hyderabad , Tirupati , Visakhapatnam and other major towns in Andhra Pradesh were also put on high alert . Police tightened security at railway and bus stations , markets , historical , religious and public places and started checking vehicles at various points in the twin cities of Hyderabad and Secunderabad . -LRB- Read : Hyderabad , Tirupati on high alert -RRB- Kolkata Police Commissioner Ranjit Pachnanda , who went round parts of the city to monitor the security preparedness Wednesday night , said `` we are on high alert . Security has been intensified around multiplexes , malls , hotels , restaurants , shops and bus stands '' . Wednesday evening saw strong police presence in various other cities in the country . -LRB- Read : Security stepped up in Chennai -RRB- The increased security measures come as 21 people were killed and over 140 were injured in three explosions that rocked Mumbai on Wednesday evening.One blast took place in Dadar in Central Mumbai and the other two in Zaveri Bazar and the Opera House in South Mumbai.All three are busy commercial and residential areas . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Home Ministry:32", 
+        "police:57", 
+        "Home Ministry:68", 
+        "Police:130", 
+        "railway:134", 
+        "bus stations:136", 
+        "markets:139", 
+        "historical:141", 
+        "religious:143", 
+        "public places:145", 
+        "Police Commissioner:174", 
+        "intensified:205", 
+        "multiplexes:207", 
+        "malls:209", 
+        "hotels:211", 
+        "restaurants:213", 
+        "shops:215", 
+        "bus stands:217", 
+        "police:225"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/delhi-news/security-alert-in-metros-other-cities-after-mumbai-blasts-461404", 
+    "date": "13-07-2011", 
+    "target": "METRO CITIES", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "state governments", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "state governments", 
+            "50", 
+            "Others"
+        ]
+    ]
+}

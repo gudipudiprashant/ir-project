@@ -1,0 +1,117 @@
+{
+    "LOC": [
+        [
+            "Lucknow", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Gorakhpur", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Gorakhpur", 
+            "213", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mayawati", 
+            "28", 
+            "Comment"
+        ], 
+        [
+            "Mayawati", 
+            "163", 
+            "Comment"
+        ], 
+        [
+            "K Chandramauli", 
+            "176", 
+            "Others"
+        ], 
+        [
+            "G P Sharma", 
+            "188", 
+            "Others"
+        ], 
+        [
+            "Shailja Kanat Mishra", 
+            "198", 
+            "Others"
+        ], 
+        [
+            "Brijlal", 
+            "208", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 23:3"
+    ], 
+    "death": "", 
+    "title": "Mayawati blames BJP, SP for Gorakhpur blasts", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "GORAKHPUR", 
+        "Gorakhpur", 
+        "Gorakhpur"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Lucknow , May 23 : Vowing to come down heavily on disruptive elements in the wake of the Gorakhpur serial bomb blasts , Uttar Pradesh Chief Minister Mayawati today blamed the Samajwadi Party and the Bharatiya Janata Party for hatching conspiracy to '' unsettle '' her government . . . '' SP and BJP being in a spot after losing the recent assembly elections in the state are resorting to spreading communal tension to destabilise my newly elected government , '' she told reporters . . . These parties had nothing in their hands and they were indulging in petty tactics to vent their frustration , she said , adding that they were feeling jittery as the Lok Sabha polls were nearing and SP and BJP had already lost ground . . . '' My government has taken the incident very seriously and would ensure that the guilty are booked and such incidents are not repeated during my regime , '' Ms Mayawati said . . . Meanwhile , the Principal Secretary ( Home ) K Chandramauli , the state Director General of Police ( DGP ) G P Sharma , Additional Director General ( ADG ) Shailja Kanat Mishra and ADG ( Law and Order ) Brijlal had been airdashed to Gorakhpur in a special plane to gauge the situation . . . The CM said she had asked these officers to submit their report to her at the earliest . . . .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Chief Minister:26", 
+        "Principal Secretary:171", 
+        "state Director General of Police:180", 
+        "Additional Director General:192"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.oneindia.com/2007/05/23/mayawati-blames-bjp-and-sp-in-wake-of-gorakhpur-blasts-1179909753.html", 
+    "date": "23-05-2007", 
+    "target": "", 
+    "hot_spot": "Gorakhpur", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Samajwadi Party", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "36", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "126", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "LOC": [
+        [
+            "Assam", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "DELHI", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "173", 
+            "Neutral"
+        ], 
+        [
+            "Dhemaji", 
+            "233", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "257", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Anand Sharma", 
+            "118", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "AUG. 16 : 19"
+    ], 
+    "death": "13", 
+    "title": "Congress, Left condemn Assam blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED NATIONAL LIBERATION FRONT (UNLF)"
+    ], 
+    "content": "National Congress , Left condemn Assam blast . . By Our Special Correspondent . . NEW DELHI , AUG. 16 . The Congress and the Left Parties today expressed deep shock over the killing of 13 persons , mostly schoolchildren , at an Independence Day parade by militants at Dhemaji in Assam . The Congress said the incident was a powerful reminder of the continuing threat of terrorism in the sensitive border States . No words were adequate to condemn this ` dastardly act . ' . . ` It calls for continued vigil on the part of the intelligence agencies , police and administration to prevent recurrence of such incidents , '' the party spokesperson , Anand Sharma , said adding that in some regions , some foreign countries were providing covert assistance to terror . . . The Polit Bureau of the Communist Party of India -LRB- Marxist -RRB- said the ` horrific crime ' came in the background of a call for boycott by the United Liberation Front of Assam -LRB- ULFA -RRB- of the Independence Day celebrations . In a statement , the Polit Bureau conveyed its heartfelt condolences to the families of those killed . . . It said the State Government should spare no effort to hunt down the culprits ` responsible for this heinous crime ' and also urgently enquire into how the blast in Dhemaji and other places took place when heightened security arrangements were in place . The party said that all the democratic political forces in Assam must unitedly mobilise the people to isolate the extremists and disruptive elements ` who have no compunctions in targeting innocent children and people . '' . . The Communist Party of India said ` the dastardly crime ' was committed through a bomb blast by remote control in a ` terrible atmosphere ' created by the boycott call by the ULFA . While expressing its condolences to the families of those killed , the party urged the State Government to track down the culprits and take punitive action .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Dhemaji", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Assam blast:6", 
+        "Special Correspondent:12", 
+        "Independence Day parade:44", 
+        "powerful reminder:61", 
+        "continuing threat of terrorism:65", 
+        "sensitive border States:71", 
+        "continued vigil:93", 
+        "intelligence agencies:100", 
+        "covert assistance:133", 
+        "terror:136", 
+        "horrific crime:155", 
+        "boycott:166", 
+        "Independence Day celebrations:179", 
+        "heartfelt condolences:192", 
+        "hunt down:213", 
+        "culprits:216", 
+        "heinous crime:221", 
+        "enquire:227", 
+        "blast:231", 
+        "heightened security arrangements:240", 
+        "extremists:266", 
+        "disruptive elements:268", 
+        "the dastardly crime:292", 
+        "bomb blast:300", 
+        "terrible atmosphere:308", 
+        "boycott call:314", 
+        "condolences:323", 
+        "culprits:341", 
+        "punitive action:344"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/2004/08/17/stories/2004081705501100.htm", 
+    "date": "15-08-2004", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Congress", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "Left Parties", 
+            "26", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "Polit Bureau", 
+            "141", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "Marxist", 
+            "150", 
+            "Others"
+        ], 
+        [
+            "United Liberation Front", 
+            "169", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "175", 
+            "Others"
+        ], 
+        [
+            "Polit Bureau", 
+            "188", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "206", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "286", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "318", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "335", 
+            "Others"
+        ]
+    ]
+}

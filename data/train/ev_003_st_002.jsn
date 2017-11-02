@@ -1,0 +1,129 @@
+{
+    "LOC": [
+        [
+            "Assams", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "48", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Swahidbedi", 
+            "82", 
+            "Event"
+        ], 
+        [
+            "Bongaigaon", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Paglathan", 
+            "97", 
+            "Event"
+        ], 
+        [
+            "Chirang", 
+            "113", 
+            "Event"
+        ], 
+        [
+            "Dhubri", 
+            "115", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "morning : 19", 
+        "morning : 53", 
+        "8:10 a.m.:74", 
+        "8:10 a.m. at:74", 
+        "five minutes : 93"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Aug 16 : 31", 
+        "Friday:102"
+    ], 
+    "death": "", 
+    "title": "Blasts in Assams Bongaigaon district, no casualties", 
+    "org_unorg": "", 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "Two bomb blasts by United Liberation Front of Asom ( ULFA ) rocked lower Assams Bongaigaon District this morning . There were no casualties reported . . . Guwahati , Aug 16 : Two bomb blasts by United Liberation Front of Asom ( ULFA ) rocked lower Assam 's Bongaigaon District this morning . There were no casualties reported . . . According to official sources , the first explosion took place at 8:10 a.m. at a police check point at Swahidbedi area of Bongaigaon town . The next explosive went off five minutes later at Paglathan . . . On Friday , two persons were injured in three serial blasts in Chirang and Dhubri districts of the state . . . According to militant outfits , the politico-military conflict between the region and Centre can be resolved only if the core issue of sovereignty and independence is addressed . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .", 
+    "injured": "2", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Bongaigaon", 
+        "Guwahati", 
+        ""
+    ], 
+    "O": [
+        "Two bomb blasts:1", 
+        "Two bomb blasts:34", 
+        "first explosion:69", 
+        "explosive:90", 
+        "injured:107", 
+        "three serial blasts:109", 
+        "militant outfits:125", 
+        "politico-military conflict:129", 
+        "sovereignty:145", 
+        "independence:147"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.andhranews.net/India/2008/August/16-Blasts-Assam-59213.asp", 
+    "date": "15-08-2008", 
+    "target": "TOWNS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "5", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "11", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "38", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "44", 
+            "Accused"
+        ]
+    ]
+}

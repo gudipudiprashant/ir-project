@@ -1,0 +1,210 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "105", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "130", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "149", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "161", 
+            "Neutral"
+        ], 
+        [
+            "Pul Prehladpur", 
+            "253", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "257", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Maqbool", 
+            "66", 
+            "Accused"
+        ], 
+        [
+            "Maqbool", 
+            "78", 
+            "Accused"
+        ], 
+        [
+            "Langde Irfan", 
+            "144", 
+            "Accused"
+        ], 
+        [
+            "Irfan", 
+            "157", 
+            "Accused"
+        ], 
+        [
+            "Raju Bhai", 
+            "191", 
+            "Accused"
+        ], 
+        [
+            "Asad Khan", 
+            "220", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Imran Khan", 
+            "239", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Syed Firoze", 
+            "259", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [
+        "five days : 270"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday morning : 49", 
+        "August 1 : 94", 
+        "August 1 : 128", 
+        "August 17 : 137", 
+        "October 10 : 168", 
+        "September 26 : 247"
+    ], 
+    "death": "", 
+    "title": "Pune blasts: Key IM suspect arrested", 
+    "org_unorg": "", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Zeenews Bureau . . New Delhi : In a significant development , a suspected terrorist belonging to the terror outfit Indian Mujahideen ( IM ) , believed to be involved in the Pune serial blasts , was arrested by the Special Cell of Delhi Police in Hyderabad on Friday morning . . . According to reports , the IM operative who has been identified as Maqbool was picked up following an intelligence tip-off about his movement . Maqbool is accused of making the Improvised Explosive Device that was used in the blast on August 1 . The IM terrorist is currently being deported to Delhi for further interrogation by the Special Cell of Delhi Police . . . This is the fifth arrest in connection with the August 1 Pune serial blasts . . . On August 17 , another suspected IM terrorist Langde Irfan was arrested in Jaipur by the Delhi Police . . . Irfan was apprehended from Jaipur ` s Sindhi bus stand on October 10 by a team of Delhi Police ` s Special Cell . . . Police is still on the lookout for one Raju Bhai , who allegedly arranged hideouts for three of the arrested persons , and another unidentified person . Delhi Police had earlier arrested three suspected IM operatives - Asad Khan ( 33 ) , who is a recruiter , motivator and ideologue of the IM , and Imran Khan ( 31 ) were arrested on September 26 from their hideout in Pul Prehladpur in south Delhi while Syed Firoze ( 38 ) was nabbed from Nizamuddin Railway station five days later . . . With Agency Inputs .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        ""
+    ], 
+    "O": [
+        "terrorist:15", 
+        "terror outfit:19", 
+        "serial blasts:34", 
+        "arrested:38", 
+        "special cell:41", 
+        "accused:80", 
+        "improvised explosive device:84", 
+        "blast:92", 
+        "terrorist:99", 
+        "interrogation:108", 
+        "special cell:111", 
+        "serial blasts:131", 
+        "terrorist:143", 
+        "arrested:147", 
+        "sindhi bus stand:164", 
+        "special cell:178", 
+        "arrested:214", 
+        "motivator and ideologue:231", 
+        "arrested:245", 
+        "nizamuddin railway station:267"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/nation/pune-blasts-key-im-suspect-arrested_807675.html", 
+    "date": "01-08-2012", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "24", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "44", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "59", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "98", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "142", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "152", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "174", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "210", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "217", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "236", 
+            "Accused"
+        ]
+    ]
+}

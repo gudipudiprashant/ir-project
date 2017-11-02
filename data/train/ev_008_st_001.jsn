@@ -1,0 +1,140 @@
+{
+    "LOC": [
+        [
+            "Manipur", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Keisampat", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Keisampat", 
+            "87", 
+            "Event"
+        ], 
+        [
+            "Imphal", 
+            "93", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "167", 
+            "Event"
+        ], 
+        [
+            "Manipurs Thoubal", 
+            "194", 
+            "Assoc_Event"
+        ], 
+        [
+            "Manipur", 
+            "225", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Konsam Jayanta Singh", 
+            "97", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:11", 
+        "Monday:184"
+    ], 
+    "death": "", 
+    "title": "Blast in Imphal, two troopers injured", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two security personnel were injured in a bomb blast triggered Wednesday by suspected militants in the Manipur capital , police said . . . A security alert has been sounded . . . The two Assam Rifles troopers were on routine patrolling when the blast hit them in the Keisampat area , a few kilometres from the Manipur Police headquarters . . . Their condition is stated to be stable , an Assam Rifles official said . . . A security alert has been sounded and Keisampat has been cordoned off , Imphal district police chief Konsam Jayanta Singh told IANS . . . He said preliminary reports suggested that the blast could have been triggered by an Improvised Explosive Device . . . We have found the wreckage of a scooter from the blast site , he said . . . No arrests had been made so far , he added . . . Though no rebel group has claimed responsibility for the blasts , Manipur Police and intelligence officials said the blasts were carried out by rebels . . . On Monday , a youth was killed in a village of Manipurs Thoubal district after a bomb , suspected to have been planted by militants , went off at his house . . . There are more than 20 rebel outfits in Manipur with demands ranging from secession to greater autonomy.IANS .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Imphal West", 
+        "Imphal", 
+        ""
+    ], 
+    "O": [
+        "Two security personnel:1", 
+        "injured:5", 
+        "bomb blast:8", 
+        "triggered:10", 
+        "suspected militants:13", 
+        "Manipur capital:17", 
+        "security alert:26", 
+        "sounded:30", 
+        "two Assam Rifles troopers:35", 
+        "routine patrolling:41", 
+        "blast:45", 
+        "hit:46", 
+        "few kilometres:54", 
+        "Manipur Police headquarters:58", 
+        "stable:70", 
+        "security alert:81", 
+        "sounded:85", 
+        "cordoned off:90", 
+        "preliminary reports:107", 
+        "blast:112", 
+        "triggered:116", 
+        "Improvised Explosive Device:119", 
+        "wreckage:129", 
+        "scooter:132", 
+        "blast site:135", 
+        "rebel group:158", 
+        "blasts:165", 
+        "Manipur Police:167", 
+        "intelligence officials:170", 
+        "blasts:174", 
+        "rebels:179", 
+        "killed:189", 
+        "Manipurs Thoubal district:194", 
+        "bomb:199", 
+        "suspected:201", 
+        "planted:205", 
+        "militants:207", 
+        "20 rebel outfits:221", 
+        "demands:227", 
+        "ranging:228", 
+        "secession:230"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/blast-in-imphal-two-troopers-injured/article3863812.ece", 
+    "date": "06-09-2012", 
+    "target": "MILITARY GROUP", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Assam Rifles", 
+            "36", 
+            "Others"
+        ], 
+        [
+            "Assam Rifles", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "IANS", 
+            "101", 
+            "Others"
+        ]
+    ]
+}

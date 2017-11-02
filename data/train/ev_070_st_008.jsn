@@ -1,0 +1,157 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "58", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "71", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "84", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "86", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "197", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "214", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "216", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "224", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "226", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "238", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "289", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "291", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Iftekhar Ahmed Chowdhury", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Y S Rajasekhara Reddy", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "Reddy", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "Reddy", 
+            "95", 
+            "Comment"
+        ], 
+        [
+            "Pranab Mukherjee", 
+            "148", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday : 17", 
+        "May : 229"
+    ], 
+    "death": "", 
+    "title": "Dhaka rejects Delhi's claim of Bangladesh link", 
+    "det_loc": [
+        "India", 
+        "TELANGANA", 
+        "", 
+        "", 
+        "Hyderabad"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Foreign Affairs Adviser Iftekhar Ahmed Chowdhury yesterday rejected the Indian claims of a Bangladeshi link with Saturday 's twin bomb blasts in the Indian city of Hyderabad , describing them as ` baseless ' . `` The allegations are baseless , I reject them , '' he told journalists at the foreign ministry on allegations made by Andhra Pradesh Chief Minister Y S Rajasekhara Reddy earlier yesterday . Reddy in Hyderabad alleged that `` all available information point towards the terrorist groups of Pakistan and Bangladesh '' . The adviser said he would contest Reddy 's claims . He said the Bangladesh government would never retreat from protecting the country 's interests in the face of any wrongful allegations , adding , however , that he would examine these particular allegations . Earlier , the adviser condemned the attacks in a letter to Indian External Affairs Minister Pranab Mukherjee , and said , `` Such abhorrent violence is a blot on the conscience of humanity , '' he said . `` Our thoughts today are with those who lost their dear ones in this dastardly act , '' he wrote in the letter . Yesterday the Andhra Pradesh chief minister also went so far as to point to so called terrorist organisations in Bangladesh and Pakistan for the explosion that had ripped through Hyderabad 's Mecca Masjid last May . `` The terrorists who do n't want India to make economic progress and the international organisations which want to destabilise our country are behind the blasts , '' he fumed . `` Most of the times , external terrorist organisations are responsible for such ghastly acts . We ( state governments ) can not have intelligence networks in Bangladesh and Pakistan , '' he said .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "Indian:10", 
+        "Bangladeshi:14", 
+        "Chief Minister:60"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thedailystar.net/news-detail-1650", 
+    "date": "25-08-2007", 
+    "target": "", 
+    "hot_spot": "Hyderabad", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Foreign Affairs", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Bangladesh government", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "Indian External Affairs Minister", 
+            "144", 
+            "Others"
+        ], 
+        [
+            "economic progress and the international organisations", 
+            "241", 
+            "Others"
+        ]
+    ]
+}

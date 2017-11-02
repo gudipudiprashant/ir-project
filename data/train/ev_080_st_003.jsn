@@ -1,0 +1,184 @@
+{
+    "LOC": [
+        [
+            "Modasa", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Sukka Bazaar", 
+            "136", 
+            "Event"
+        ], 
+        [
+            "Modasa", 
+            "139", 
+            "Neutral"
+        ], 
+        [
+            "Sabarkantha", 
+            "168", 
+            "Neutral"
+        ], 
+        [
+            "Modasa", 
+            "214", 
+            "Neutral"
+        ], 
+        [
+            "Surat", 
+            "270", 
+            "Accused"
+        ], 
+        [
+            "Mumbai", 
+            "273", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon-Modasa", 
+            "284", 
+            "Assoc_Event"
+        ], 
+        [
+            "Gujarat", 
+            "290", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "K K Mysorewala", 
+            "57", 
+            "Comment"
+        ], 
+        [
+            "Mysorewala", 
+            "90", 
+            "Comment"
+        ], 
+        [
+            "Mysorewala", 
+            "250", 
+            "Comment"
+        ], 
+        [
+            "Sadhavi Pragya Singh Thakur", 
+            "265", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "9.26 pm : 149"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:68", 
+        "September 29:141", 
+        "September:141"
+    ], 
+    "death": "1", 
+    "title": "Modasa blast: ABVP members to be quizzed", 
+    "org_unorg": "", 
+    "terror_group": [
+        "HINDU JAGRAN MANCH"
+    ], 
+    "content": "After saffron outfits like the Vishwa Hindu Parishad -LRB- VHP -RRB- , Bajrang Dal and the Rashtriya Swayamsevak Sangh -LRB- RSS -RRB- , it is the BJP 's student wing Akhil Bharatiya Vidyarthi Parishad -LRB- ABVP -RRB- that has come under the scanner in the Modasa blast probe case . . . Deputy Superintendent of Police K K Mysorewala , who is heading the probe , on Monday said , `` We have summoned some active ABVP members to record their statements to take our probe forward . '' Mysorewala , however , refused to name those who have been summoned and the reason behind doing so . . . A 15-year-old boy died and several others were injured when a low-intensity bomb kept on a motorcycle went off near a mosque at the Muslim-dominated Sukka Bazaar in Modasa on September 29 . The incident took place around 9.26 pm when people were offering special Ramzan prayers -LRB- tarawih -RRB- inside the mosque . . . The Sabarkantha police , in its month-long investigations into the case , have until now recorded statements of about 500-odd people . . . `` More than 200 of these people are Hindus and include people associated with the VHP , Bajrang Dal and the RSS in Modasa . They were questioned due to their past records and not because of their association with any organisation . We have also questioned around 300 Muslims , including those associated with Islamic outfits , '' Mysorewala said . . . Sources in the police said that the recent arrest of Sadhavi Pragya Singh Thakur from Surat and the Mumbai police claiming Indore-based Hindu Jagran Manch 's hand in the Malegaon-Modasa blasts could have prompted the Gujarat Police to summon the ABVP members . . . The 15-member police team probing the blast case was banking on two things an eyewitness who could have possibly seen the person parking the bomb-laden motorcycle and forensic experts finding the original chassis number of the motorcycle . `` Unfortunately , we failed on both counts , '' a police inspector , associated with the probe , said . . . ... contd .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "modasa", 
+        ""
+    ], 
+    "O": [
+        "student wing:29", 
+        "Deputy Superintendent of Police:53", 
+        "Ramzan prayers:156", 
+        "tarawih:159", 
+        "Islamic outfits:246", 
+        "Indore-based:276", 
+        "bomb-laden:324"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/modasa-blast--abvp-members-to-be-quizzed/378587", 
+    "date": "29-09-2008", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "BOMB"
+    ], 
+    "ORG": [
+        [
+            "Vishwa Hindu Parishad", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Bajrang Dal", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "Rashtriya Swayamsevak Sangh", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "RSS", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "27", 
+            "Others"
+        ], 
+        [
+            "Akhil Bharatiya Vidyarthi Parishad", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "ABVP", 
+            "36", 
+            "Others"
+        ], 
+        [
+            "ABVP", 
+            "77", 
+            "Assoc_Accused"
+        ], 
+        [
+            "VHP", 
+            "206", 
+            "Others"
+        ], 
+        [
+            "Bajrang Dal", 
+            "208", 
+            "Others"
+        ], 
+        [
+            "RSS", 
+            "212", 
+            "Others"
+        ], 
+        [
+            "Hindu Jagran Manch", 
+            "277", 
+            "Assoc_Accused"
+        ], 
+        [
+            "ABVP", 
+            "295", 
+            "Others"
+        ]
+    ]
+}

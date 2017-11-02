@@ -1,0 +1,143 @@
+{
+    "LOC": [
+        [
+            "Gujarat", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "94", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "159", 
+            "Event"
+        ], 
+        [
+            "Vadodara", 
+            "161", 
+            "Neutral"
+        ], 
+        [
+            "Surat", 
+            "163", 
+            "Neutral"
+        ], 
+        [
+            "Rajkot", 
+            "165", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "206", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "234", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Chittaranjan Singh", 
+            "49", 
+            "Comment"
+        ], 
+        [
+            "Ajay Tomar", 
+            "207", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "night : 20", 
+        "15 August : 40", 
+        "70 minutes : 265"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 2008:239"
+    ], 
+    "death": "", 
+    "title": "Gujarat on high alert in wake of Pune blasts", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        "Pune"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Ahmedabad : Gujarat was put on high alert today following the low intensity serial bomb blasts in Pune last night , police said . . . `` High alert is in force in the state and will remain till 15 August , the Independence Day , '' said Chittaranjan Singh , In-charge Director General of Police ( DGP ) , Gujarat . . . `` After that we will review the situation and take an appropriate decision , '' he added . . . Pune blast . PTI . . The police in Gujarat has been asked to be on ` stand to ' mode to counter any untoward incident . The quick response teams ( QRTs ) and special operation groups ( SOGs ) across the state have been alerted . . . Patrolling at all sensitive and strategic locations has been intensified . Checking of suspected vehicles and those at entry and exits of cities like Ahmedabad , Vadodara , Surat and Rajkot have been intensified , police officials said . . . `` Checking at hotels , guest houses , bus and railway station have also been intensified , '' said Joint Commissioner of Police ( JCP ) , Sector I , Ahmedabad Ajay Tomar . . . `` We are taking as much precautions as we can to avert any untoward incident , '' he said . . . Ahmedabad had experienced terror in July 2008 , when a series of 20 bomb blasts rocked it , killing 56 people and injuring more than 200 , within a span of 70 minutes .", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "low intensity:12", 
+        "police:22", 
+        "hotels:179", 
+        "guest houses:181", 
+        "bus:184", 
+        "railway station:186"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.firstpost.com/india/gujarat-on-high-alert-in-wake-of-pune-blasts-402457.html", 
+    "date": "01-08-2012", 
+    "target": "", 
+    "hot_spot": "Pune", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "quick response teams", 
+            "113", 
+            "Others"
+        ], 
+        [
+            "QRTs", 
+            "117", 
+            "Others"
+        ], 
+        [
+            "Joint Commissioner of Police", 
+            "195", 
+            "Others"
+        ], 
+        [
+            "JCP", 
+            "200", 
+            "Others"
+        ]
+    ]
+}

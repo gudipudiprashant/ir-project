@@ -1,0 +1,201 @@
+{
+    "LOC": [
+        [
+            "Guwahati", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "NEW DELHI", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "164", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "212", 
+            "Event"
+        ], 
+        [
+            "Guwahati", 
+            "227", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "232", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "320", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "357", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Patil", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "Manmohan Singh", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "101", 
+            "Others"
+        ], 
+        [
+            "Tarun Gogoi", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "Patil", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "Madhukar Gupta", 
+            "272", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "one year : 120", 
+        "months : 323", 
+        "last year : 365", 
+        "three months : 379", 
+        "last year : 409", 
+        "last year : 437"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday : 45", 
+        "March 31 : 346", 
+        "2006 : 391"
+    ], 
+    "death": "7", 
+    "title": "Such violent acts only harm ordinary people: Manmohan", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASOM "
+    ], 
+    "content": "Special Correspondent . . Additional paramilitary forces sent to Guwahati . . ` Such incidents will not weaken resolve of the Government : Patil Strategy being worked out to counter recent surge in violence . . NEW DELHI : Prime Minister Manmohan Singh on Saturday condemned the bomb blast in Guwahati in which seven persons were killed and 30 injured . ` Such violent acts only harm the lives of ordinary people , ' he said . . . Expressing his sorrow , the Prime Minister has sent his condolences to the bereaved families . . . Union Home Minister Shivraj Patil also condemned the blast , which occurred on the eve of Tarun Gogoi Government 's completion of one year in office . He expressed condolences to the kin of those killed and wished speedy recovery to those injured . . . Mr. Patil said such incidents would not weaken the resolve of the Government to deal strongly with divisive forces in Assam and other North-Eastern States . . . Highly-placed Home Ministry sources said that a strategy to counter the recent surge in violence , sponsored by the outlawed United Liberation Front of Asom -LRB- ULFA -RRB- , was being worked out by the Ministry in consultation with the Assam Government . . . The Home Ministry also made available additional paramilitary forces in Guwahati to tighten security in Assam and help maintain law and order in the aftermath of the blast . The Home Ministry directed the State Government to remain vigilant and ensure that peace was maintained , a Ministry spokesman said . . . Home Secretary Madhukar Gupta spoke to the State Chief Secretary to take stock of the situation . The Special Secretary -LRB- Internal Security -RRB- also spoke to the State police chief . . . Increase in violence . . Home Ministry 's figures show an increase in ULFA-sponsored violence in Assam in recent months with the militants resorting to kidnapping , extortion and blasts after the failure of the peace initiative . Officials said that till March 31 this year , there have been 156 incidents in Assam compared to 85 during the same period last year . . . Likewise , 99 civilians were killed during the first three months this year as against 31 during the corresponding period of 2006 . . . Ministry sources said that ULFA , with which the Government declared a month-long ceasefire last year but called it off following the outfit 's refusal to come to the negotiating table , accounted for over 50 per cent of the violent incidents last year .", 
+    "injured": "30", 
+    "org_unorg": "", 
+    "O": [
+        "paramilitary forces:6", 
+        "incidents:15", 
+        "weaken resolve:18", 
+        "Strategy:25", 
+        "recent surge:31", 
+        "violence:34", 
+        "bomb blast:48", 
+        "killed:57", 
+        "injured:60", 
+        "violent acts:64", 
+        "sorrow:82", 
+        "condolences:90", 
+        "bereaved families:93", 
+        "condemned:104", 
+        "blast:106", 
+        "expressed condolences:126", 
+        "kin:130", 
+        "killed:133", 
+        "speedy recovery:136", 
+        "injured:140", 
+        "incidents:148", 
+        "Government:156", 
+        "divisive forces:161", 
+        "North-Eastern States:167", 
+        "strategy:179", 
+        "recent surge in violence:183", 
+        "consultation:209", 
+        "paramilitary forces:224", 
+        "tighten security:229", 
+        "law and order:236", 
+        "blast:244", 
+        "vigilant:255", 
+        "Internal Security:291", 
+        "violence:306", 
+        "ULFA-sponsored violence:317", 
+        "militants:326", 
+        "kidnapping:329", 
+        "extortion:331", 
+        "blasts:333", 
+        "failure:336", 
+        "peace initiative:339", 
+        "156 incidents:354", 
+        "99 civilians:372", 
+        "killed:375", 
+        "Government:404", 
+        "month-long ceasefire:407", 
+        "outfit 's refusal:417", 
+        "negotiating table:424", 
+        "violent incidents:435"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/such-violent-acts-only-harm-ordinary-people-manmohan/article1847999.ece", 
+    "date": "26-05-2007", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "192", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "198", 
+            "Accused"
+        ], 
+        [
+            "Assam Government", 
+            "212", 
+            "Others"
+        ], 
+        [
+            "State Government", 
+            "251", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "399", 
+            "Others"
+        ]
+    ]
+}

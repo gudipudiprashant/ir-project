@@ -1,0 +1,410 @@
+{
+    "LOC": [
+        [
+            "Patna", 
+            "204", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "303", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "595", 
+            "Event"
+        ], 
+        [
+            "PATNA/NEW DELHI", 
+            "1", 
+            "Source"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "43", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Muzaffarnagar", 
+            "139", 
+            "Neutral"
+        ], 
+        [
+            "Muzaffarnagar", 
+            "160", 
+            "Neutral"
+        ], 
+        [
+            "Myanmar", 
+            "292", 
+            "Neutral"
+        ], 
+        [
+            "Morvi", 
+            "325", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "327", 
+            "Neutral"
+        ], 
+        [
+            "Rajkot", 
+            "329", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "340", 
+            "Neutral"
+        ], 
+        [
+            "Nepal", 
+            "402", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "413", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "486", 
+            "Victim"
+        ], 
+        [
+            "Gandhi Maidan", 
+            "523", 
+            "Event"
+        ], 
+        [
+            "Mangalore", 
+            "648", 
+            "Accused"
+        ], 
+        [
+            "Mangalore", 
+            "665", 
+            "Accused"
+        ], 
+        [
+            "Darbhanga", 
+            "691", 
+            "Victim"
+        ], 
+        [
+            "Madhubani", 
+            "693", 
+            "Victim"
+        ], 
+        [
+            "Sitamarhi", 
+            "695", 
+            "Victim"
+        ], 
+        [
+            "Samastipur", 
+            "697", 
+            "Victim"
+        ], 
+        [
+            "Bihar", 
+            "700", 
+            "Victim"
+        ], 
+        [
+            "Aurangabad", 
+            "702", 
+            "Victim"
+        ], 
+        [
+            "Gaya", 
+            "704", 
+            "Victim"
+        ], 
+        [
+            "central Bihar", 
+            "706", 
+            "Victim"
+        ], 
+        [
+            "Bihar", 
+            "707", 
+            "Victim"
+        ]
+    ], 
+    "PER": [
+        [
+            "Imtiaz", 
+            "212", 
+            "Assoc_Accused", 
+            "Others"
+        ], 
+        [
+            "Imtiaz", 
+            "249", 
+            "Assoc_Accused", 
+            "Others"
+        ], 
+        [
+            "Tehsin", 
+            "254", 
+            "Assoc_Accused", 
+            "Others"
+        ], 
+        [
+            "Tariq", 
+            "500", 
+            "Accused", 
+            "Victim"
+        ], 
+        [
+            "Tariq", 
+            "534", 
+            "Accused", 
+            "Victim"
+        ], 
+        [
+            "Tehsin Akhtar", 
+            "4", 
+            "Accused"
+        ], 
+        [
+            "Monu", 
+            "7", 
+            "Accused"
+        ], 
+        [
+            "Narendra Modi", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "Imtiaz Ansari", 
+            "64", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Imtiaz", 
+            "125", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Tehsin", 
+            "174", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Imtiaz", 
+            "181", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Tehsin", 
+            "194", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Memon", 
+            "201", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Imtiaz", 
+            "295", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Tehsin", 
+            "299", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Tehsin", 
+            "346", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Tariq", 
+            "422", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Ainul", 
+            "424", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Taufiq", 
+            "437", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Nauman", 
+            "439", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Hyder", 
+            "441", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Abdullah", 
+            "443", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Imtiaz", 
+            "447", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Tehsin", 
+            "453", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Imtiaz", 
+            "498", 
+            "Accused"
+        ], 
+        [
+            "Imtiaz", 
+            "553", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Imtiaz", 
+            "561", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "613", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Yasin", 
+            "618", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Tehsin", 
+            "634", 
+            "Assoc_Accused"
+        ], 
+        [
+            "Waqas", 
+            "642", 
+            "Assoc_Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "July:276", 
+        "Monday:465", 
+        "Sunday:491", 
+        "2011:584", 
+        "2012:593", 
+        "2013:598", 
+        "August:616"
+    ], 
+    "death": "", 
+    "title": "Patna blasts: IM aimed at setting off stampede at Modi's rally", 
+    "org_unorg": "", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "PATNA/NEW DELHI : Tehsin Akhtar alias Monu , Indian Mujahideen 's new commander , masterminded the bomb attack on Narendra Modi 's crowded rally to kill women and children in large numbers by setting off a stampede , and was present at Gandhi Maidan to supervise the bombers as they ringed the rally ground with explosives . This was revealed by IM operative Imtiaz Ansari who was fortuitously arrested with explosives and has since provided vital leads on the bombers and the terror plot . ` Hamara uddeshya tha aatank faile aur bhag daur main kafi sankhya mein mahilayen aur bachche maren -LRB- Our objective was to trigger fear so that many women and children get killed in the resultant rush -RRB- , ' Imtiaz was quoted as saying in the FIR registered by Patna Police . ` Muzaffarnagar mein bahut Muslim maare gaye hain , aur tum sirf namaz hi padhte raho -LRB- Many Muslims got killed in Muzaffarnagar and all that you people do is to offer namaz -RRB- , ' Tehsin exhorted his associates , according to Imtiaz . This was noted in the FIR . The incendiary exhortation of Tehsin , who used the alias of Memon for the Patna attack , had the desired effect with Imtiaz and others getting motivated to carry out a spectacular attack . ` Yeh sun kar yeh bhi uttejit hue aur koi bada kaam karne ka tay hua , ' the FIR said . Sources also quoted Imtiaz acknowledging the involvement of Tehsin , a resident of Samastipur district in Bihar , in the serial bomb blasts on Mahabodhi temple in Bodh Gaya in July : a terror attack scripted in retaliation against the alleged killings of Rohingya Muslims in Myanmar . Besides Imtiaz 's statement , Tehsin 's involvement in Bodh Gaya attack is indicated also by the use of the same brand of clocks , Lotus , which is manufactured at Morvi in Gujarat 's Rajkot district , in both the serial blasts . Sources in Bihar Police confirmed to TOI that Tehsin , who is wanted for multiple terror blasts , was recently spotted in the state , adding that a massive manhunt has been launched for the fugitive jihadi . ` His photographs have been circulated among authorities in districts and posts of the Shashatra Seema Bal , the paramilitary force which guards the border with Nepal , ' a source said . In its FIR , Patna Police identified other members of the group as Tariq alias Ainul who suffered life-threatening injuries while planting bombs at the railway station , Taufiq , Nauman and Hyder alias Abdullah . It cited Imtiaz 's testimony to say that Tehsin started instigating the group to carry out the serial blasts since Monday . The group split into three batches of two each , and took different buses of Priyanshu Travels to reach Patna on the morning of Sunday when the rally was scheduled . Imtiaz and Tariq were to plant bombs at the railway station to strike those arriving for the rally , before reuniting with the others at Gandhi Maidan . However , one of the IEDs exploded when Tariq was planting them . The explosion brought many policemen to the station and one of the constables nabbed Imtiaz when he was trying to escape . Imtiaz 's interrogation helped police establish the identity of others involved in the attack , including Tehsin , who is wanted for the 2011 triple blasts in Mumbai , Pune blasts in 2012 and Hyderabad blasts in 2013 and appears to have taken over the leadership of IM after the arrest of Yasin Bhatkal in August . Yasin 's arrest and the details he provided about his accomplices should have led cops to Tehsin and another IM terrorist , Pakistani national Waqas , from their hideout in Mangalore . However , after the arrest started playing on TV news , the two abandoned their Mangalore flat leaving behind several bomb-making material . A leading member of IM 's Darbhanga module , he has set up a network which stretches from Darbhanga , Madhubani , Sitamarhi and Samastipur in northern Bihar to Aurangabad and Gaya in central Bihar .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "rally:24", 
+        "stampede:37", 
+        "rally ground:53", 
+        "im operative:62", 
+        "terror plot:83", 
+        "daur:94", 
+        "objective:105", 
+        "namaz:170", 
+        "fir:188", 
+        "exhortation:192", 
+        "patna attack:204", 
+        "fir:243", 
+        "district:260", 
+        "serial bomb:266", 
+        "retaliation:283", 
+        "rohingya muslims:289", 
+        "bodh gaya:303", 
+        "jihadi:374", 
+        "shashatra seema:390", 
+        "border:400", 
+        "fir:411", 
+        "group:420", 
+        "railway station:434", 
+        "testimony:449", 
+        "group:457", 
+        "serial:462", 
+        "group:468", 
+        "priyanshu travels:482", 
+        "morning:489", 
+        "railway station:507", 
+        "rally:515", 
+        "ieds:531", 
+        "explosion:540", 
+        "hyderabad blasts:595", 
+        "im:608", 
+        "im terrorist:637", 
+        "pakistani national waqas:640", 
+        "hideout:646", 
+        "arrest:654", 
+        "tv news:658", 
+        "material:671", 
+        "member:675", 
+        "im:677", 
+        "darbhanga:679", 
+        "darbhanga module:679", 
+        "module:680"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Patna-blasts-IM-aimed-at-setting-off-stampede-at-Modis-rally/articleshow/24832822.cms", 
+    "date": "27-10-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "9", 
+            "Accused"
+        ], 
+        [
+            "Shashatra Seema Bal", 
+            "390", 
+            "Others"
+        ]
+    ]
+}

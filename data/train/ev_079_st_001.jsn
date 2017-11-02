@@ -1,0 +1,156 @@
+{
+    "LOC": [
+        [
+            "Mehrauli", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "91", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "120", 
+            "Neutral"
+        ], 
+        [
+            "Delhi ,", 
+            "326", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "326", 
+            "Neutral"
+        ], 
+        [
+            "Pilkhuwa", 
+            "331", 
+            "Neutral"
+        ], 
+        [
+            "Ghaziabad", 
+            "333", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "353", 
+            "Victim"
+        ], 
+        [
+            "Mominpura", 
+            "355", 
+            "Victim"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Karim Tunda", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "Tunda", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "Abdul Halim Shamsullah Khan Pathan", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "Tunda", 
+            "78", 
+            "Others"
+        ], 
+        [
+            "Pathan", 
+            "82", 
+            "Accused"
+        ], 
+        [
+            "Tunda", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "Karnal Singh", 
+            "279", 
+            "Others"
+        ], 
+        [
+            "Abdul Karim", 
+            "293", 
+            "Others"
+        ], 
+        [
+            "Tunda", 
+            "298", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:1", 
+        "Saturday:207"
+    ], 
+    "death": "", 
+    "title": "Saturdays blast had Tundas signature", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "Mehrauli", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Saturday 's bomb blast in Mehrauli flower market has once again brought the legend of Abdul Karim Tunda back to life . The initial clues about the make of the bomb give it a striking resemblance to the bombs Tunda specialised in . . . What strengthens the idea further is that Abdul Halim Shamsullah Khan Pathan -LRB- 43 -RRB- who was arrested by Ahmedabad police soon after the Ahmedabad blasts had confessed to his links with Tunda . . . Pathan was accused of recruiting disgruntled riot-affected youth of Gujarat and sending them for terror training abroad . . . An expert in manufacturing bombs , Tunda is wanted in 33 cases under the Explosives Substances Act in Delhi and other states . His standard bomb cocktail consists of potassium chlorate mixed with sugar kept in a tight container packed with nails . In this container , amid the potassium chlorate mix , he packs in tiny bottles of homoeopathic medicines , filled with sulphuric acid . As soon as the container is tilted , the acid begins to seep out into the chlorate-sugar mixture . The package begins to emanate smoke and the blast follows . . . This is exactly what happened during Saturday 's blast . `` Eyewitnesses said smoke emanated from the polythene before it blew up , '' said a senior police officer . `` Also the fact that Pathan was found to be closely involved can not really be ignored , '' he added . . . Also , according to NSG officials , the bomb was crude and made of chemicals . The Joint Commissioner of the Special Cell , Karnal Singh , however said it was too early to comment . . . Abdul Karim got the nickname Tunda , after he lost an arm when one of his own bombs burst in his hand . . . Born to a lower middle class family in Delhi , he moved to Pilkhuwa near Ghaziabad . . . He briefly ran a homeopathic medicine store . After the business failed , he moved to Mumbai 's Mominpura and set up fabric dyeing business . . . ... contd .", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "ahmedabad blasts:70", 
+        "explosives substances act:116", 
+        "bomb cocktail:127", 
+        "homoeopathic:161", 
+        "joint commissioner:272"
+    ], 
+    "unexpl": [
+        "NAILS"
+    ], 
+    "ocassion": "", 
+    "link": "http://archive.indianexpress.com/news/saturday-s-blast-had-tunda-s-signature/367093", 
+    "date": "27-09-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "HOMOEOPATHIC MEDICINES , FILLED WITH SULPHURIC ACID ", 
+        " POTASSIUM CHLORATE MIXED WITH SUGAR", 
+        "CRUDE BOMB"
+    ], 
+    "ORG": [
+        [
+            "Special Cell", 
+            "276", 
+            "Assoc_Victim"
+        ]
+    ]
+}

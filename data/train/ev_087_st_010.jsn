@@ -1,0 +1,265 @@
+{
+    "LOC": [
+        [
+            "Pakistans", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "74", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "97", 
+            "Event"
+        ], 
+        [
+            "Bhangel", 
+            "114", 
+            "Accused"
+        ], 
+        [
+            "Noida", 
+            "117", 
+            "Accused"
+        ], 
+        [
+            "Islamabad", 
+            "170", 
+            "Neutral"
+        ], 
+        [
+            "Noida", 
+            "181", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "205", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "216", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "365", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "422", 
+            "Assoc_Event"
+        ], 
+        [
+            "Chabad House", 
+            "441", 
+            "Assoc_Event"
+        ], 
+        [
+            "Colaba", 
+            "444", 
+            "Assoc_Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Neeraj", 
+            "51", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Anant Dev", 
+            "176", 
+            "Others"
+        ], 
+        [
+            "Neeraj", 
+            "190", 
+            "Others"
+        ], 
+        [
+            "Mohammed Afzal Guru", 
+            "342", 
+            "Others"
+        ], 
+        [
+            "SK Sinha", 
+            "406", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "todays : 280", 
+        "today : 306", 
+        "morning : 320", 
+        "today : 329"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:37", 
+        "August 17:65"
+    ], 
+    "death": "11", 
+    "title": "Pak link to Delhi High Court blast", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "New Dlhi", 
+        ""
+    ], 
+    "terror_group": [
+        "HUJI"
+    ], 
+    "content": "Zeenews Bureau . . New Delhi : Even as the investigating agencies grope in the dark about crucial leads pertaining to Delhi High Court blast , Pakistans links to the incident have come to fore on Wednesday . . . As per reports , a Noida-based boy , identified as Neeraj , had received a phone call from an unknown caller from Pakistan on August 17 suggesting that a blast was imminent in Delhi in the near future . . . The caller didnt divulge more details about his location but stressed that vital installations in Delhi would be blown at a chosen time . . . The boy , who lives in Bhangel area of Noida , immediately passed this information to the Noida Police Control , which later passed it to its superior officers and Delhi Police . . . The boy himself tried to verify the veracity of the phone call ( number 923453367472 ) , which was later traced to a military camp located in Islamabad . This was confirmed by Anant Dev , SP City Noida , who said , A boy identified as Neeraj received a phone call from an unknown location about a possible bomb blast in Delhi . The boy claimed that the call was made from Pakistan . We had passed this information to concerned officers for further verification . . . Unfortunately , no deliberate attempts were made on the part of the investigating agencies to verify the authenticity of the phone call and the matter was pushed to the back burner . . . However , with the Pakistan-based terrorist outfit Harkat-ul-Jihad-al-Islami ( HuJI ) claiming responsibility for todays blast , the needle of suspicion has once again turned to the neighbouring country . Lending credence to the involvement of Pakistan-based elements , HuJI today sent an email claiming responsibility for the blast outside Delhi High Court this morning . . . We own the responsibility for today ` s blasts at Delhi High Court . Our demand is that Mohammed Afzal Guru ` s death sentence should be repealed immediately else we would target major High Courts and the Supreme Court of India , ' the email sent by HuJI said . . . A 20-member team led by the National Investigations Agency ( NIA ) is examining the email sent by HuJI . . . Reacting to HuJIs e-mail , NIA chief SK Sinha said the mail sent is being looked at since HuJI was involved in the Mumbai blasts too . . . HuJI ` s hand is suspected in the 26/11 Mumbai terror attack at Chabad House in Colaba . . . At least eleven people were killed and over sixty others injured when a high-intensity blast went off outside the Gate number 5 of the Delhi High Court .", 
+    "injured": "60", 
+    "org_unorg": "", 
+    "O": [
+        "blast:25", 
+        "noida-based boy:46", 
+        "phone call:56", 
+        "blast:70", 
+        "vital installations:94", 
+        "phone call:153", 
+        "923453367472:157", 
+        "military camp:166", 
+        "phone call:193", 
+        "bomb blast:202", 
+        "investigating agencies:244", 
+        "phone call:252", 
+        "pakistan-based terrorist outfit:270", 
+        "blast:281", 
+        "email:309", 
+        "blast:314", 
+        "blasts:332", 
+        "death sentence:347", 
+        "target:356", 
+        "email:392", 
+        "blasts:423", 
+        "26/11 mumbai terror attack:436", 
+        "killed:453", 
+        "injured:458", 
+        "high-intensity blast:461"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/nation/pak-link-to-delhi-high-court-blast_730333.html", 
+    "date": "11-09-2011", 
+    "target": "GOVERNMENT BUILDING", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi High Court", 
+            "22", 
+            "Victim"
+        ], 
+        [
+            "Noida Police Control", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "138", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jihad-al-Islami", 
+            "273", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "275", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "305", 
+            "Accused"
+        ], 
+        [
+            "Delhi High Court", 
+            "316", 
+            "Victim"
+        ], 
+        [
+            "Delhi High Court", 
+            "334", 
+            "Victim"
+        ], 
+        [
+            "High Courts", 
+            "358", 
+            "Victim"
+        ], 
+        [
+            "Supreme Court", 
+            "362", 
+            "Assoc_Victim"
+        ], 
+        [
+            "HuJI", 
+            "372", 
+            "Accused"
+        ], 
+        [
+            "National Investigations Agency", 
+            "383", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "387", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "395", 
+            "Accused"
+        ], 
+        [
+            "HuJIs", 
+            "401", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "404", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "417", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "428", 
+            "Accused"
+        ], 
+        [
+            "Delhi High Court", 
+            "472", 
+            "Victim"
+        ]
+    ]
+}

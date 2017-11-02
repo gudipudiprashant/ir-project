@@ -1,0 +1,196 @@
+{
+    "LOC": [
+        [
+            "Ambala", 
+            "7", 
+            "Victim"
+        ], 
+        [
+            "Chandigarh", 
+            "9", 
+            "Victim"
+        ], 
+        [
+            "German Bakery", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Chandigarh", 
+            "82", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "German Bakery", 
+            "139", 
+            "Event"
+        ], 
+        [
+            "New Delhi", 
+            "172", 
+            "Neutral"
+        ], 
+        [
+            "Bharati Vidyapeeth", 
+            "176", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Aditi Jindal", 
+            "1", 
+            "Victim"
+        ], 
+        [
+            "Aditi", 
+            "44", 
+            "Victim"
+        ], 
+        [
+            "Aditya Mehata", 
+            "146", 
+            "Victim", 
+            "Others"
+        ], 
+        [
+            "Aditya", 
+            "164", 
+            "Victim"
+        ], 
+        [
+            "Aditi", 
+            "198", 
+            "Victim"
+        ], 
+        [
+            "Asha Relwani", 
+            "220", 
+            "Comment"
+        ], 
+        [
+            "Aditi", 
+            "224", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "8.30 p.m.:13", 
+        "p.m.:14", 
+        "days : 41", 
+        "two weeks : 75"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 16", 
+        "February 13 : 132", 
+        "February 17 : 189"
+    ], 
+    "death": "", 
+    "title": "Pune blast toll goes up to 17", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Aditi Jindal , a 23-year-old from Ambala in Chandigarh , died around 8.30 p.m. on Friday at the Inlaks Budhrani hospital , taking the death toll in the German Bakery bomb blast up to 17 . For the last few days , while Aditi remained critical , she was said to have a 50 per cent chance of survival . However , she succumbed to her injuries after battling for life for close to two weeks . . . When in Chandigarh , she had pursued dance and done a course in interior designing . In Pune , too , she was taking lessons at the Shiamak Davar Dance Academy . She was doing a course in landscape designing at the Marathwada Mitramandals College of Commerce here . . . On February 13 , she went to the German Bakery along with a friend , Aditya Mehata . They were at the centre table of the bakery when the blast took place . Aditya , a final-year student of Electronics from New Delhi at the Bharati Vidyapeeth here , suffered around 60 per cent burns and died on February 17 at the Jehangir hospital . . . Aditi suffered around 40 per cent burns with first-degree burns on her face . Medical Superintendent of the Inlaks Budhrani hospital Dr. Asha Relwani said , Aditi was in a bad state and was critical . One of her legs had to be amputated , while the tendons of her other leg were severely damaged . Towards the end , she developed ARDS -LSB- Acute . . Respiratory Distress Syndrome -RSB- , as she also developed septicaemia . The infection and toxins had spread to her entire body . Aditis parents and her uncle and aunt were with her when she died . She also has two younger brothers . . . It is expected that the death toll in the blast would stay put now . While a few people continue to be in the Intensive Care Units of different hospitals , they are said to be out of danger .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "23-year-old:5", 
+        "death toll:25", 
+        "German Bakery bomb blast:29", 
+        "critical:46", 
+        "50 per cent:54", 
+        "chance:57", 
+        "survival:59", 
+        "succumbed:64", 
+        "injuries:67", 
+        "battling:69", 
+        "pursued dance:86", 
+        "interior designing:93", 
+        "lessons:104", 
+        "course:116", 
+        "landscape:118", 
+        "designing:119", 
+        "centre table:153", 
+        "bakery:157", 
+        "blast:160", 
+        "final-year student of Electronics:167", 
+        "suffered:180", 
+        "60 per cent burns:182", 
+        "died:187", 
+        "suffered:199", 
+        "40 per cent burns:201", 
+        "first-degree burns:206", 
+        "face:210", 
+        "Medical Superintendent:212", 
+        "bad state:228", 
+        "critical:232", 
+        "amputated:241", 
+        "tendons:245", 
+        "damaged:252", 
+        "ARDS:260", 
+        "Acute . . Respiratory Distress Syndrome:262", 
+        "septicaemia:274", 
+        "infection and toxins:277", 
+        "Aditis parents:287", 
+        "died:299", 
+        "two younger brothers:304", 
+        "expected:312", 
+        "death toll:315", 
+        "blast:319", 
+        "Intensive Care Units:334", 
+        "out of danger:346"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/article114417.ece", 
+    "date": "13-02-2010", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Inlaks Budhrani hospital", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "Shiamak Davar Dance Academy", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "Marathwada Mitramandals College of Commerce", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "Jehangir hospital", 
+            "193", 
+            "Others"
+        ], 
+        [
+            "Inlaks Budhrani hospital", 
+            "216", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Dilsukh Nagar", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Konark", 
+            "76", 
+            "Neutral"
+        ], 
+        [
+            "Venkatadiri theatres", 
+            "78", 
+            "Neutral"
+        ], 
+        [
+            "Cyberabad police", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "foot bridge", 
+            "186", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukh Nagar", 
+            "277", 
+            "Event"
+        ], 
+        [
+            "Osmania", 
+            "349", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "481", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "483", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "485", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "514", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "541", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dinesh Reddy", 
+            "98", 
+            "Comment"
+        ], 
+        [
+            "Reddy", 
+            "113", 
+            "Comment"
+        ], 
+        [
+            "RK Singh", 
+            "127", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "201", 
+            "Comment"
+        ], 
+        [
+            "Kiran Kumar Reddy", 
+            "360", 
+            "Others"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "499", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "508", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "evening : 18", 
+        "hour : 64", 
+        "7 pm .:155", 
+        "pm:156", 
+        "7:01 pm:165", 
+        "7:06 pm:173", 
+        "pm .:174", 
+        "bomb : 180", 
+        "evenings : 290", 
+        "two days : 425"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:31", 
+        "2007 : 548"
+    ], 
+    "death": "12", 
+    "title": "Hyderabad blasts: Terror visits city once again, two explosions in Dilsukh Nagar", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Zeenews Bureau . . Hyderabad : Terror struck Hyderabad once again . At around seven in the evening twin bomb blasts rocked the city ` s Dilsukh Nagar area on Thursday with at least twelve people feared dead in the explosions . . . The blasts triggered by Improvised Explosive Devices ( IED ) tied to two bicyles took place in the peak hour at two sites 100 metres apart outside a roadside eatery near Konark and Venkatadiri theatres in the area located on the Hyderabad-Vijaywada national highway in Cyberabad police limits . . . State DGP Dinesh Reddy said it was ` definitely the handiwork of a terrorist network . ' Reddy said IEDs were used in the attack . . . Union Home Secretary RK Singh said the near two simultaneous very powerful blasts indicate that it was a ` terror attack ' . . . The blasts happened simultaneously at around 7 pm . . . The first blast occurred at 7:01 pm . The second blast happened at 7:06 pm . . . A third bomb was found unexploded near a foot bridge . . . The twin blasts , described as dastardly by Prime Minister Manmohan Singh who announced a Rs two lakh exgratia to the kin of each of the victims , triggered a stampede-like situation with people trying to scamper for safety as it left a bloody trail . . . The scene wore a gory look with severed body parts lying around . Footwear and various other objects were also seen indicating the desperation of the victims and the injured to flee the spot . . . The Dilsukh Nagar area is thickly populated and traffic jams are routine in the evenings with officegoers and students rushing home . Large numbers of people wait at the numerous bus shelters , eateries and shops in the area . . . More than 80 people have have been reported to be injured in the blasts and have been rushed to the nearby hospital . Most of the injured have been taken to Osmania and Yashoda hospital . . . Meanwhile , Chief Minister Kiran Kumar Reddy visited the spot to take stock of the situation and appealed for calm . Speaking to reporters he said , ` We will make sure that those behind the blasts are punished . This is an act of cowardice . Whoever has died , from the state government ` s side , six lakhs will be given . ' . . Around two days back an alert had been sounded by the intelligence agencies to couple of states of impending blasts at various places . The matter had been discussed at the Union Cabinet ` s meet . . . The state has been put on high alert . Alert has been sounded in the whole nation including Maharashtra , Karnataka and Delhi . . . Talking to reporters in the national capital Union Home Minsiter Sushilkumar Shinde said that he had apprised Prime Minister Manmohan Singh of the blasts in Hyderabad . However , he said , ` Can not speculate on the perpetrators of the blast as of now . ' . . The city of Hyderabad was rocked by blasts last in 2007 in which 42 people were dead . . . The helpline number given by the administration is 040-27854771 .", 
+    "injured": "80", 
+    "org_unorg": "", 
+    "O": [
+        "terror:7", 
+        "twin bomb blasts:19", 
+        "explosions:41", 
+        "blasts:46", 
+        "improvised explosive devices:49", 
+        "ied:53", 
+        "hyderabad-vijaywada national highway:86", 
+        "terrorist network:109", 
+        "ieds:115", 
+        "attack:120", 
+        "powerful blasts:135", 
+        "terror attack:143", 
+        "blasts:150", 
+        "blast:162", 
+        "blast:170", 
+        "twin blasts:192", 
+        "rs two lakh exgratia:206", 
+        "victims:217", 
+        "victims:265", 
+        "injured:268", 
+        "traffic jams:284", 
+        "injured:328", 
+        "blasts:331", 
+        "injured:344", 
+        "blasts:392", 
+        "six lakhs:415", 
+        "intelligence agencies:435", 
+        "blasts:443", 
+        "high alert:469", 
+        "blasts:512", 
+        "blast:530", 
+        "blasts:545", 
+        "helpline number:559", 
+        "040-27854771:566"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://zeenews.india.com/news/andhra-pradesh/hyderabad-blasts-terror-visits-city-once-again-two-explosions-in-dilsukh-nagar_830663.html", 
+    "date": "22-02-2007", 
+    "target": "CITY", 
+    "hot_spot": "", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Yashoda hospital", 
+            "351", 
+            "Others"
+        ], 
+        [
+            "state government", 
+            "409", 
+            "Others"
+        ]
+    ]
+}

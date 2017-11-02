@@ -1,0 +1,148 @@
+{
+    "LOC": [
+        [
+            "Tinsukia", 
+            "36", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Chamber road", 
+            "94", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "114", 
+            "Neutral"
+        ], 
+        [
+            "Chikajan", 
+            "152", 
+            "Neutral"
+        ], 
+        [
+            "Tinsukia", 
+            "154", 
+            "Neutral"
+        ], 
+        [
+            "Dinjan", 
+            "245", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "266", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "today : 132"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 32", 
+        "May 4 : 41", 
+        "Friday : 75"
+    ], 
+    "death": "", 
+    "title": "Seven injured in Assam blast", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Tinsukia", 
+        "Guwahati", 
+        ""
+    ], 
+    "terror_group": [
+        "UNITED LIBERATION FRONT OF ASSAM (ULFA)"
+    ], 
+    "content": "At least seven persons , all of them Hindi-speaking , were injured in a car bomb explosion triggered by the banned United Liberation Front of Asom ( ULFA ) here on Friday . . . Tinsukia ( Assam ) , May 4 : At least seven persons , all of them Hindi-speaking , were injured in a car bomb explosion triggered by the banned United Liberation Front of Asom ( ULFA ) here on Friday . . . The timed explosive placed in a jeep blew up near a wholesale grain market on Chamber road , which is dominated by Hindi-speaking traders , police said . . . The injured were rushed to Dibrugarh District 's Assam Medical College Hospital , police said . . . Meanwhile , the Indian Army today averted a major tragedy by timely detecting an Improvised Explosive Device ( IED ) , which was placed at Chikajan in Tinsukia to target a military patrol team by the ULFA . . . Three persons have been apprehended for questioning in connection to it . . . The weight of explosives in the seized IED was approximately 40-45 kgs , which could have blown up two vehicles moving together , according to the patrol team that recovered the IED . . . The IED was placed inside a gas cylinder that was cut from below . . . On detection , the Bomb Disposal team of 55 Engineer Regiment based at Dinjan rushed to the spot and the area was cordoned off . . . Security has been beefed up in upper Assam , which is an ULFA stronghold . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .", 
+    "injured": "7", 
+    "org_unorg": "", 
+    "O": [
+        "hindi-speaking:9", 
+        "injured:12", 
+        "car bomb explosion:15", 
+        "hindi-speaking:52", 
+        "injured:55", 
+        "car bomb explosion:58", 
+        "timed explosive:80", 
+        "wholesale grain market:90", 
+        "hindi-speaking traders:101", 
+        "injured:110", 
+        "tragedy:136", 
+        "improvised explosive device:141", 
+        "ied:145", 
+        "military patrol:158", 
+        "explosives:184", 
+        "ied:188", 
+        "patrol team:207", 
+        "ied:212", 
+        "ied:217", 
+        "gas cylinder:222", 
+        "bomb disposal team:236", 
+        "55 engineer regiment:240"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.andhranews.net/India/2007/May/4-Seven-injured-479.asp", 
+    "date": "04-05-2007", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "22", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "United Liberation Front of Asom", 
+            "65", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "71", 
+            "Accused"
+        ], 
+        [
+            "Assam Medical College Hospital", 
+            "117", 
+            "Others"
+        ], 
+        [
+            "Indian Army", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "ULFA", 
+            "163", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "271", 
+            "Accused"
+        ]
+    ]
+}

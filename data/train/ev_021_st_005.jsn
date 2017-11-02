@@ -1,0 +1,105 @@
+{
+    "LOC": [
+        [
+            "Dispur", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Dispur", 
+            "73", 
+            "Event"
+        ], 
+        [
+            "Tarun Ram Phukan Park", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "Latasil", 
+            "465", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "488", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "490", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Samir Kumar Sinha", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "Dhiren Baruah", 
+            "481", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 381"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:120", 
+        "Tuesday:190", 
+        "Wednesday:192", 
+        "January 27:379"
+    ], 
+    "death": "", 
+    "title": "Past and present blasts haunt Dispur", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        " UNITED LIBERATION FRONT OF ASOM"
+    ], 
+    "content": "Jan. 23 : Rattled by the series of blasts in the city , Dispur has issued an express instruction to the metropolitan administration to make a last-minute effort to ensure maximum public participation in the Republic Day celebrations at Judges Field . . . The memory of the twin blasts at the Judges Field during the last years Republic Day celebration and the latest series of blasts in the city have made Dispur apprehensive of low turnout during the celebration this year . And this is what the poll-bound Congress government does not want to see , an official said . . . Deputy commissioner Samir Kumar Sinha during a function held at the Tarun Ram Phukan Park on Monday sought the help of senior citizens in ensuring the participation of large number of public at the Republic Day function . . . Sources said the administration has also started corresponding with artistes and celebrities to carry forward its campaign to celebrate Republic Day without any fear or apprehension . Some members of the film fraternity have already agreed to take out a campaign on the city streets on Tuesday and Wednesday for peace and public participation in the Republic Day function . . . The schools have been requested to send maximum number of students to Judges Field . Senior citizens in their respective wards and localities will inspire others to celebrate the day by at least hoisting the national flag . . . Adequate security arrangement has been made at Judges Field and police personnel in civil dress will be present on roads to arrest anyone who asks citizens to boycott the celebration . . . The sources said the last years twin blasts have forced the administration and police to chalk out a blueprint and throw a massive security blanket on and around Judges Field . The police are keeping some of the security plans secret so that the militants can not find any loophole in the arrangement and take advantage of the situation . . . Sniffer dogs are being used at frequent intervals to look for explosives at the field . A full backup system has been installed to ensure that there is no darkness at Judges Field even for a second till January 27 evening . . . The Assam State Electricity Board has been told to ensure uninterrupted power supply to the field and its surrounding areas . . . Floodlights had been installed and permanent camps of security personnel set up at the field soon after the last years blasts . . . Senior citizens will kindle earthen lamps in front of the statues of freedom fighters in the city in the run-up to Republic Day . . . The administration is planning sports activities at Latasil playground soon after the Republic Day celebrations at Judges Field is over . . . Dhiren Baruah , president of the Save Guwahati Build Guwahati , said the citizens should fight against the boycott call of the Republic Day celebrations by the militant outfits . . . It is good that the administration is making an effort to involve all people . Senior citizens will join hands with the administration in this effort , he said . . . Deputy commissioner Sinha said there has to be a consistent effort to make the younger generation understand the significance of Republic Day . . . We have actually succumbed , if not to bullets then to the boycott call of Ulfa and other militant outfits , by not celebrating the Republic Day . Everyone should come forward and celebrate the day with the rest of the country , a senior citizen said .", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "", 
+        "Dispur", 
+        "Dispur"
+    ], 
+    "O": [
+        "government:91", 
+        "Deputy commissioner:104"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.telegraphindia.com/1060124/asp/guwahati/story_5757394.asp", 
+    "date": "24-01-2006", 
+    "target": "", 
+    "hot_spot": "Dispur", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Congress", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "Assam State Electricity Board", 
+            "386", 
+            "Others"
+        ], 
+        [
+            "Ulfa", 
+            "585", 
+            "Accused"
+        ]
+    ]
+}
