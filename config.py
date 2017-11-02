@@ -1,4 +1,4 @@
-base_dir = "/home/prashant/Desktop/semester 7/ir/"
+base_dir = "../"
 
 test_dataset_folder = "ir-project/data/test/"
 train_dataset_folder = "ir-project/data/train/"
