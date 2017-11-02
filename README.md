@@ -7,6 +7,12 @@ Prashant Gudipudi - 140101051
 Sangana Abhiram - 140101065  
 Sambhav Kumar Dash - 140101088
 
+## To Run the Project
+Have unzipped stanford-ner folder in the same directory as the cloned repo.
+
+To run a module with default parameters, modify config.py with the required module and run run_one_module.py  
+To run a module with custom params and compare, modify config.py with required param list and run run_multi_param.py  
+
 ## Problem Statement:  
 
 Extract relevant entities from an article, which is from a specific domain.
