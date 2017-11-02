@@ -27,27 +27,24 @@ Some use-cases for the solution of this problem are:
 
 Solution Approach:
 ------------------
-The solution approaches taken can be broadly classified into domain-independent and domain-specific.  
+The solution approaches taken can be broadly classified into domain-independent and domain-specific. **Results are in Journal_Images folder.**  
 1. Domain-independent:  
     1. Frequency based:  
         Here we hypothesize that the entities that occur most frequently must be relevant.  
         
         So we extract all the entities in the document, sort them based on their frequency, and extract the relevant entities according to our hypothesis. This extraction is done using a threshold parameter. All entities that have frequency greater than (max_freq / threshold) are considered relevant.  
         
-        Results for various threshold values are in Journal images.
     2. Position based:  
         Here we hypothesize that the entities that occur near the top of the document must be relevant.  
         
         So we extract the relevant sentences from the document, and extract the entities from these sentences. These are the relevant entities from our hypothesis. The threshold in this case is the number of sentences from the start of the document we consider.
         
-        Results for various threshold values are in Journal images.
         
     3. Freq-Position based:  
         Here we use the paper "On-line Event Detection from Web News Stream" to give scores to each entity. The hypothesis is that entities with high scores are relevant.  
         
         So we assign scores to each entity, sort entities based on the score and extract relevant entities. Entities with score greater than (max_score / th) are considered relevant.
         
-        /* Insert graph for freq-pos */
         
 2. Domain-specific:
     1. Expert keyword selection:  
@@ -56,8 +53,7 @@ The solution approaches taken can be broadly classified into domain-independent 
         We identify the **answers** to these questions by **searching for sentences containing the Domain-Specific Keywords like ["attack", "bomb", "blast", "injure", "kill", ...].** For this we first prepare the sentences by **lemmatizing** them to identify the keywords in their different morphological forms, and then identify all sentences containing any of these keywords. After getting these **relevant sentences**, we extract all the Named entities in these sentences as **Relevant Entities.** 
         
         The keywords for different Entity Types like Org, Person, Loc need not be the same (this idea is further explored in the next section).  
-        
-        /* Insert results */  
+         
     
     2. Unsupervised Keyword Generation:   
         Using the train data, we find the most frequently occuring words around the Relevant Entites, within a radius **r** (here 5), for each of the different categories of Named Entites - Per, Loc, Org. We then choose the **top 10** of the most frequently occuring words as the keywords of that Category.  
@@ -69,8 +65,7 @@ The solution approaches taken can be broadly classified into domain-independent 
          
         We then use these keywords to identify Relevant Entities by checking if any of these keywords occur within a radius of **r** withing a Named Entity. Again we use *lemmatization* and *removal of stop words* for both the keyword generation and for Relevant Entity identification.  
          
-         /* Insert Results */  
-         Problem Identified: Very poor recall
+         Problem Identified: poor precision as keywords also occur beside non-relevant entities. Reason explained journal.md
          
 
 
