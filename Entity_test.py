@@ -171,6 +171,13 @@ class Tester:
           file_start += len(sentence_list)
           sent_ent_list = add_position_ent_list(sent_ent_list)
           # print("TIME BEFORE CUSTOM FUNC: %s" %(time.time() - t1))
+
+          #insert title to custom_param
+          if json_dict_list[i].get("title") is not None:
+            self.custom_param["title"] = json_dict_list[i]["title"]
+          else:
+            continue
+          
           custom_relev_entities = self.custom_entity_detect_func(sent_ent_list,
                                   sentence_list, json_dict_list[i]["content"], 
                                   self.custom_param)
@@ -184,7 +191,13 @@ class Tester:
 
     if self.tagger == "spacy":
       import spacy
-      nlp = spacy.load('en')
+      # nlp = spacy.load('en')
+      # t_1 = time.time()
+      # nlp = spacy.load("en_core_web_lg")
+      # print("TO LOAD SPACY:")
+      # print(time.time() - t_1)
+
+      nlp = self.custom_param["nlp_spacy"]
 
       for file in jsonFiles:
         if self.test_sz != -1 and test_ctr >= self.test_sz:
@@ -193,6 +206,13 @@ class Tester:
 
         json_dict = json.load(open(os.path.join(self.baseDir, jsonDir, file)))
         content = json_dict["content"]
+
+        #insert title to custom_param
+        if json_dict.get("title") is not None:
+          self.custom_param["title"] = json_dict["title"]
+        else:
+          print("TITLE DOES NOT EXIST!!!!")
+          input()
 
         sentence_list = get_clean_sentences(content)
         # each element is a list containing the tuples -
