@@ -87,6 +87,23 @@ def get_clean_sentences(content):
       temp_list.append(sent)
   return temp_list
 
+# Returns the relevant entities in json_dict in lower case
+def get_relev_entities(json_dict):
+  json_format = {
+      "LOC"   : ["Event", "Assoc_Event", "Source", "Victim"],
+      "ORG"   : ["Accused", "Assoc_Accused", "Victim"],
+      "PER"   : ["Accused", "Assoc_Accused", "Victim"],
+    }
+  relev_ent_dict = {ent_type: set([]) for ent_type in json_format.keys()}
+
+  for ent_type in relev_ent_dict.keys():
+    relev_ent = []
+    for ent in json_dict[ent_type]:
+      if ent[2] in json_format[ent_type]:
+        # convert to lower
+        relev_ent.append(ent[0].lower())
+    relev_ent_dict[ent_type] = set(relev_ent)
+  return relev_ent_dict  
 
 # Class for the testing framework
 class Tester:
@@ -234,27 +251,16 @@ class Tester:
         self.evaluate(custom_relev_entities, json_dict, sent_ent_list)
         # print("TIME TO EVALUATE: %s" %(time.time() - t1))
 
-
   # Measure the precision, recall and f1 for the given file
   def evaluate(self, custom_relev_entities, json_dict, sent_ent_list):
     # Format of relevant entities as marked in the tagged json files
-      json_format = {
-          "LOC"   : ["Event", "Assoc_Event", "Source", "Victim"],
-          "ORG"   : ["Accused", "Assoc_Accused", "Victim"],
-          "PER"   : ["Accused", "Assoc_Accused", "Victim"],
-        }
-
       if self.eval_NER:
         ner_entities = get_all_entities(sent_ent_list)
       
-      for ent_type in json_format.keys():
-        relev_ent = []
-        for ent in json_dict[ent_type]:
-          if ent[2] in json_format[ent_type]:
-            # convert to lower
-            relev_ent.append(ent[0].lower())
-
-        relev_ent = set(relev_ent)
+      relev_ent_dict = get_relev_entities(json_dict)
+      # print(relev_ent_dict)
+      for ent_type in relev_ent_dict.keys():
+        relev_ent = relev_ent_dict[ent_type]
         # Evaluates the custom function on the restricted set
         # of entities - the ground truth/tagged relevant entities
         # intersection with the NER entities to better understand

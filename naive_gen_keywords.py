@@ -20,8 +20,9 @@ mismatch = 5
 stop_words = set(stopwords.words('english'))
 # corpus specific
 stop_words = stop_words.union(set(["-lrb-", "-rrb-", "(", ")",
-  ",", "a", "an", "the", "said", "'s", "`", "--", "-"]))
-
+  ",", "a", "an", "the", "'s", "`", "--", "-",
+  # "said"
+]))
 # HACK
 close_words_glob = None
 

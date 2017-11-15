@@ -1,8 +1,11 @@
 import copy
 import json
-import nltk
 import os
 import time
+
+import nltk
+
+import config
 
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -10,23 +13,9 @@ from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize, sent_tokenize
 from gensim.models import Word2Vec
 
+from num_checker import is_number, nums
+
 lemmatizer = WordNetLemmatizer()
-
-
-def is_number(num_string):
-  try:
-    int(num_string)
-    return True
-  except ValueError:
-    return False
-
-def processSegment(segment, stop_words):
-  tempSegment = word_tokenize(segment)
-  # tempSegment = pattern.sub(" ", segment)
-  # tempSegment = tempSegment.split()
-  tempSegment = [word for word in tempSegment if not word in stop_words]
-  return tempSegment
-
 
 def get_clean_sentences(content):
   sentence_list = sent_tokenize(content)
@@ -37,15 +26,16 @@ def get_clean_sentences(content):
       temp_list.append(sent)
   return temp_list
 
-baseDir = "E:\College\IR\Entity"
-jsonDir = "tagged_dataset"
-
+# get the json files
+baseDir = config.base_dir
+jsonDir = config.train_dataset_folder
 jsonFiles = os.listdir(os.path.join(baseDir, jsonDir))
 
-stop_words = set([])
+stop_words = set(["-lrb-", "-rrb-", ";", ":", "'s", "a", "an", "the",
+  "(", ")"])
 
 test_ctr = 0
-test_sz = 700
+test_sz = -1
 
 sent_ent_list = []
 st_tagger = StanfordNERTagger(os.path.join(baseDir,
@@ -65,30 +55,19 @@ for file in jsonFiles:
   sentence_list = get_clean_sentences(content)
 
   # STanford
-  all_sent_tokens_list += [processSegment(sent,
-              stop_words) for sent in sentence_list]
+  all_sent_tokens_list += [word_tokenize(sent) for sent in sentence_list]
 
 
-units = [
-    "zero", "one", "two", "three", "four", "five", "six", "seven", "eight",
-    "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen",
-    "sixteen", "seventeen", "eighteen", "nineteen",
-  ]
-
-tens = [ "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"]
-
-scales = ["hundred", "thousand", "million", "lakh", ]
-nums = set(units+tens+scales)
-
-
+# print(test_ctr)
+# input()
 sent_ent_list = st_tagger.tag_sents(all_sent_tokens_list)
 
-stop_words = set(stopwords.words('english'))
-stop_words.union(set(["a", "an", "the"]))
+# stop_words = set(stopwords.words('english'))
+# stop_words.union(set(["a", "an", "the"]))
 
 
 for i,sent in enumerate(sent_ent_list):
-  pos_tagged = nltk.pos_tag(all_sent_tokens_list[i])
+  # pos_tagged = nltk.pos_tag(all_sent_tokens_list[i])
   # print(pos_tagged)
   # input()
   temp_list = []
@@ -96,13 +75,18 @@ for i,sent in enumerate(sent_ent_list):
   while (j < len(sent)):
     joined_ent = sent[j][0]
     ent_typ = sent[j][1]
-    while (j+1 < len(sent) and sent[j+1][1] != "O"
-      and sent[j+1][1] == ent_typ):
-      joined_ent += " " + sent[j+1][0]
-      j += 1
+    if ent_typ != "O":
+      joined_ent = ent_typ[:3]
+      # join similar entities
+      while (j+1 < len(sent) and sent[j+1][1] != "O"
+        and sent[j+1][1] == ent_typ):
+        # joined_ent += " " + sent[j+1][0]
+        j += 1
+    else:
+      joined_ent = joined_ent.lower()
 
     num_flag = False
-    while (joined_ent.lower() in nums
+    while (joined_ent in nums
       or is_number(joined_ent)):
       num_flag = True
       if j+1 >= len(sent):
@@ -115,23 +99,24 @@ for i,sent in enumerate(sent_ent_list):
       joined_ent = "$NUM$"
 
     # lemmatize:
-    if not " " in joined_ent:
-      if pos_tagged[j][1].startswith("V"):
-        joined_ent = lemmatizer.lemmatize(joined_ent, pos="v")
-      if pos_tagged[j][1].startswith("N"):
-        joined_ent = lemmatizer.lemmatize(joined_ent)
+    joined_ent = lemmatizer.lemmatize(joined_ent, pos="v")
+    # if not " " in joined_ent:
+    #   if pos_tagged[j][1].startswith("V"):
+    #     joined_ent = lemmatizer.lemmatize(joined_ent, pos="v")
+    #   if pos_tagged[j][1].startswith("N"):
+    #     joined_ent = lemmatizer.lemmatize(joined_ent)
 
     j += 1
 
     if (joined_ent != "." and joined_ent != ","
       and joined_ent not in stop_words):
-      temp_list.append(joined_ent.lower())
+      temp_list.append(joined_ent)
   sent_ent_list[i] = (temp_list)
 
 # print(sent_ent_list)
 # input()
 
 print ("STARTING WORD2VEC")
-model = Word2Vec(sent_ent_list, size=45, min_count=5, workers=7)
+model = Word2Vec(sent_ent_list, size=40, min_count=5, workers=7)
 model.save("word2vec")
 
