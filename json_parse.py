@@ -2,10 +2,12 @@ import os, sys, shutil
 import json
 import subprocess
 import re
+import time
 
 import config
 
-def dump_json(file_list):
+# list of 2 tuples - (json file name, json_dict)
+def dump_json(json_dict_list):
   if not os.path.isfile("PrimaryEntityTagger.class"):
     return False
   temp_dir = "json_temp"
@@ -15,19 +17,19 @@ def dump_json(file_list):
     if not os.path.exists(dirc):
       os.makedirs(dirc)
   temp_list = open(temp_file, "w")
-  for filename in file_list:
-    with open(filename, "r", encoding='utf-8') as f:
-      js = json.load(f)
-    out_path = os.path.join(temp_dir, os.path.basename(filename)) 
+  for filename, js in json_dict_list:
+    out_path = os.path.join(temp_dir, filename) 
     with open(out_path, "w") as wr:
       wr.write(re.sub('"', "'", js["content"], flags = re.M))
     print(out_path, file = temp_list)
   temp_list.close()
 
+  t1 = time.time()
   JAVA_CMD = ["java", "-cp", "*;.;..;..\scp\per\*", "PrimaryEntityTagger"]
   # Start the java subprocess
   JAVA_CMD.append(temp_file)
-  subprocess.run(JAVA_CMD) 
+  subprocess.run(JAVA_CMD)
+  print("Time taken by java: ", time.time() - t1)
   print("Java NLP done.")
   for filename in os.listdir(temp_dir):
     dirfilename = os.path.join(temp_dir, filename)
@@ -47,8 +49,8 @@ def dump_json(file_list):
   return True
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-  if not dump_json(["./data/train/ev_001_st_001.jsn"]):
-    print("Can't find class file. Compile java first")
-    exit(1)
+  # if not dump_json(["./data/train/ev_001_st_007.jsn"]):
+  #   print("Can't find class file. Compile java first")
+  #   exit(1)

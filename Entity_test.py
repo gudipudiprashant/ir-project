@@ -9,7 +9,7 @@ import time
 import config
 
 from nltk.corpus import stopwords
-from nltk.tag import StanfordNERTagger
+# from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize, sent_tokenize
 
 def_baseDir = "E:\College\IR\Entity"
@@ -78,14 +78,27 @@ def add_position_ent_list(sent_ent_list):
     sent_ent_list[i] = sent
   return sent_ent_list
 
-def get_clean_sentences(content):
-  sentence_list = sent_tokenize(content)
+def get_clean_sentences(sentence_list, sent_ent_list,debug=False):
+  # sentence_list = sent_tokenize(content)
   # Removing noisy sentences
   temp_list = []
-  for sent in sentence_list:
-    if len(sent) > 2:
-      temp_list.append(sent)
-  return temp_list
+  temp_ent_list = []
+  for ii, sent in enumerate(sentence_list):
+    if len(sent) > 3:
+      trip_dot_pos = []
+      for i, elem in enumerate(sent):
+        if elem in [". . .", ":", ". ."]:
+          trip_dot_pos.append(i)
+      start = 0
+      for pos in trip_dot_pos:
+        if debug:
+          print(sent, pos, sent[start: pos])
+        temp_list.append(sent[start : pos] + ["."])
+        temp_ent_list.append(sent_ent_list[ii][start : pos] + [(".", "O", -1)])
+        start = pos+1
+      temp_list.append(sent[start : -1] + ["."])
+      temp_ent_list.append(sent_ent_list[ii][start : -1] + [(".", "O", -1)])    
+  return temp_list, temp_ent_list
 
 # Returns the relevant entities in json_dict in lower case
 def get_relev_entities(json_dict):
@@ -137,73 +150,58 @@ class Tester:
     t1 = time.time()
 
     if self.tagger == "Stanford":
-      # stanford - ner tagger
-      st_tagger = StanfordNERTagger(os.path.join(self.baseDir,
-        'stanford-ner/classifiers/english.all.3class.distsim.crf.ser.gz'),
-                            os.path.join(self.baseDir,
-                            'stanford-ner/stanford-ner.jar'))
-      # work on batch_sz files each time
-      # can make this a custom parameter
-      batch_sz = self.custom_param.get("Batch_size", 250)
+      import json_parse, java_handler
+      # stanford - ner tagger - no need as core-nlp is being run
       break_flag = False
-      for ii in range(0, len(jsonFiles), batch_sz):
-        json_dict_list = []
-        all_sentences_list = []
-        all_sent_tokens_list = []
-        
-        for test_ctr in range(ii, ii + batch_sz):
-          # t1 = time.time()
-          if self.test_sz != -1 and test_ctr >= self.test_sz:
-            break_flag = True
-            break
-          # Load the json tagged dataset
-          
-          if test_ctr >= len(jsonFiles):
-            break  
-          file = jsonFiles[test_ctr]
-          # print()
-          # print("FILENAME:")
-          # print(file)
-          # print()
-          json_dict = json.load(open(os.path.join(self.baseDir, jsonDir, file)))
-          # get the content
-          content = json_dict["content"]
-          json_dict_list.append(json_dict)
-          # get individual sentences
-          sentence_list = get_clean_sentences(content)
-          all_sentences_list.append(sentence_list)
-          # break down sentences to tokens for the Stanford NER tagger
-          all_sent_tokens_list += [processSegment(sent,
-                      stop_words) for sent in sentence_list]
-
-        all_sent_ent_list = st_tagger.tag_sents(all_sent_tokens_list)
-        # print(all_sent_ent_list)
-        file_start = 0
-        t1 = time.time()
-        for i, sentence_list in enumerate(all_sentences_list):
-          # Retrieve each file's sentence_entity_list :
-          # each element is a list containing the tuples -
-          # (word, entity_type, position in text) for each sentence
-          sent_ent_list = all_sent_ent_list[file_start : file_start+len(sentence_list)]
-          file_start += len(sentence_list)
-          sent_ent_list = add_position_ent_list(sent_ent_list)
-          # print("TIME BEFORE CUSTOM FUNC: %s" %(time.time() - t1))
-
-          #insert title to custom_param
-          if json_dict_list[i].get("title") is not None:
-            self.custom_param["title"] = json_dict_list[i]["title"]
-          else:
-            continue
-          
-          custom_relev_entities = self.custom_entity_detect_func(sent_ent_list,
-                                  sentence_list, json_dict_list[i]["content"], 
-                                  self.custom_param)
-          
-          self.evaluate(custom_relev_entities, json_dict_list[i], sent_ent_list)
-        
-        print("TIME TO EVALUATE: %s" %(time.time() - t1))  
-        if break_flag:
+      # list of 2 tuples - (json file name, json_dict)
+      json_dict_list, done_json_list = [], []
+      already_present = os.listdir("out/")
+      for file in jsonFiles:
+        test_ctr += 1
+        if self.test_sz != -1 and test_ctr > self.test_sz:
           break
+        json_dict = json.load(open(os.path.join(self.baseDir, jsonDir, file)))
+        # Don't append it if it is already present in folder - out
+        if file+".json" in already_present:
+          done_json_list.append((file, json_dict))
+        else:
+          json_dict_list.append((file, json_dict))
+      
+      # print(json_dict_list)
+      # input()
+      t1 = time.time()
+      if len(json_dict_list) != 0:
+        json_parse.dump_json(json_dict_list)
+      print("Time taken by java file to tag and coref: ", time.time() - t1)
+
+      json_dict_list += done_json_list
+      # print(done_json_list)
+
+      t1 = time.time()
+      for file, json_dict in json_dict_list:
+        sentence_list_old, sent_ent_list, coref_chain_list = \
+          java_handler.get_sent_token_coref(os.path.join("out/", file+".json"))
+
+        sentence_list, sent_ent_list = get_clean_sentences(sentence_list_old,
+                    sent_ent_list)
+        # sent_ent_list = get_clean_sentences(sent_ent_list)
+        # from pprint import pprint
+        # print(sentence_list)
+        # print(sent_ent_list)
+        # print(coref_chain_list)
+        try:
+          self.custom_param["title"] = json_dict.get("title", sentence_list[0])
+        except Exception as e:
+          get_clean_sentences(sentence_list_old, sent_ent_list, True)
+        self.custom_param["coref"] = coref_chain_list      
+        # call the entity detect function
+        custom_relev_entities = self.custom_entity_detect_func(sent_ent_list,
+                                sentence_list, json_dict["content"], 
+                                self.custom_param)
+          
+        self.evaluate(custom_relev_entities, json_dict, sent_ent_list)
+        
+      print("TIME TO EVALUATE: %s" %(time.time() - t1))  
 
 
     if self.tagger == "spacy":
