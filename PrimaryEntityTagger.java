@@ -185,7 +185,7 @@ public class PrimaryEntityTagger {
 				out.println("{");
 				// We need to subtract one since the indices count from 1 but the Lists start from 0
 				// List<CoreLabel> tokens = sentences.get(m.sentNum - 1).gedet(CoreAnnotations.TokensAnnotation.class);
-				out.println("\"sentnum\":" + m.sentNum - 1 + ",\n"
+				out.println("\"sentnum\":" + (m.sentNum - 1) + ",\n"
 							+ "\"startindex\":" + (m.startIndex - 1) + ",\n"
 							+ "\"endindex\":" + (m.endIndex - 2));
 				out.println("},");
