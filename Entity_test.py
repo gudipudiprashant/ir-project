@@ -7,6 +7,9 @@ import os
 import time
 
 import config
+import java_handler
+import json_parse
+
 
 from nltk.corpus import stopwords
 # from nltk.tag import StanfordNERTagger
@@ -87,7 +90,7 @@ def get_clean_sentences(sentence_list, sent_ent_list,debug=False):
     if len(sent) > 3:
       trip_dot_pos = []
       for i, elem in enumerate(sent):
-        if elem in [". . .", ":", ". ."]:
+        if elem in [". . .", ":", ". .", ]:
           trip_dot_pos.append(i)
       start = 0
       for pos in trip_dot_pos:
@@ -118,6 +121,32 @@ def get_relev_entities(json_dict):
     relev_ent_dict[ent_type] = set(relev_ent)
   return relev_ent_dict  
 
+
+# returns json_dict_list
+def run_ner_coref(jsonDir, jsonFiles):
+  # list of 2 tuples - (json file name, json_dict)
+  json_dict_list, done_json_list = [], []
+  # ner and coref is not rerun on alraedy present files
+  if not os.path.exists("out/"):
+    os.makedirs("out/")
+  already_present = os.listdir("out/")
+
+  for file in jsonFiles:
+    json_dict = json.load(open(os.path.join(jsonDir, file)))
+    # Don't append it if it is already present in folder - out
+    if file+".json" in already_present:
+      done_json_list.append((file, json_dict))
+    else:
+      json_dict_list.append((file, json_dict))
+  # run core-nlp java file
+  t1 = time.time()
+  if len(json_dict_list) != 0:
+    json_parse.dump_json(json_dict_list)
+  print("Time taken by java file to tag and coref: ", time.time() - t1)
+
+  json_dict_list += done_json_list
+  return json_dict_list
+
 # Class for the testing framework
 class Tester:
   def __init__(self, custom_entity_detect_func, baseDir=def_baseDir, size=-1, 
@@ -137,45 +166,13 @@ class Tester:
     self.custom_param = custom_param
 
   def test(self):
-    jsonDir = config.test_dataset_folder
-    jsonFiles = os.listdir(os.path.join(self.baseDir, jsonDir))
-
-    # stop-words optional
-    stop_words = set([])
-    if self.stopFlag:
-      stop_words = set(stopwords.words('english'))
-
-    test_ctr = 0
-    
-    t1 = time.time()
+    jsonDir = config.train_dataset_folder
+    jsonFiles = os.listdir(os.path.join(self.baseDir, jsonDir))   
+    jsonFiles = jsonFiles[:self.test_sz]
 
     if self.tagger == "Stanford":
-      import json_parse, java_handler
-      # stanford - ner tagger - no need as core-nlp is being run
-      break_flag = False
-      # list of 2 tuples - (json file name, json_dict)
-      json_dict_list, done_json_list = [], []
-      already_present = os.listdir("out/")
-      for file in jsonFiles:
-        test_ctr += 1
-        if self.test_sz != -1 and test_ctr > self.test_sz:
-          break
-        json_dict = json.load(open(os.path.join(self.baseDir, jsonDir, file)))
-        # Don't append it if it is already present in folder - out
-        if file+".json" in already_present:
-          done_json_list.append((file, json_dict))
-        else:
-          json_dict_list.append((file, json_dict))
-      
-      # print(json_dict_list)
-      # input()
-      t1 = time.time()
-      if len(json_dict_list) != 0:
-        json_parse.dump_json(json_dict_list)
-      print("Time taken by java file to tag and coref: ", time.time() - t1)
-
-      json_dict_list += done_json_list
-      # print(done_json_list)
+      jsonDir = os.path.join(self.baseDir, jsonDir)
+      json_dict_list = run_ner_coref(jsonDir, jsonFiles)
 
       t1 = time.time()
       for file, json_dict in json_dict_list:
@@ -184,15 +181,11 @@ class Tester:
 
         sentence_list, sent_ent_list = get_clean_sentences(sentence_list_old,
                     sent_ent_list)
-        # sent_ent_list = get_clean_sentences(sent_ent_list)
-        # from pprint import pprint
-        # print(sentence_list)
-        # print(sent_ent_list)
-        # print(coref_chain_list)
         try:
           self.custom_param["title"] = json_dict.get("title", sentence_list[0])
         except Exception as e:
-          get_clean_sentences(sentence_list_old, sent_ent_list, True)
+          # get_clean_sentences(sentence_list_old, sent_ent_list, True)
+          pass
         self.custom_param["coref"] = coref_chain_list      
         # call the entity detect function
         custom_relev_entities = self.custom_entity_detect_func(sent_ent_list,

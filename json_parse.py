@@ -25,7 +25,7 @@ def dump_json(json_dict_list):
   temp_list.close()
 
   t1 = time.time()
-  JAVA_CMD = ["java", "-cp", "*;.;..;..\scp\per\*", "PrimaryEntityTagger"]
+  JAVA_CMD = ["java", "-Xmx12g" ,"-cp", "*;.;..;..\scp\per\*", "PrimaryEntityTagger"]
   # Start the java subprocess
   JAVA_CMD.append(temp_file)
   subprocess.run(JAVA_CMD)
