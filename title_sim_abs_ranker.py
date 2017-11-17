@@ -5,8 +5,6 @@ import time
 ### Requires python3 -m spacy download en_core_web_lg
 
 ## Apparently the word vectors are not shipped with spacy's default
-## No wonder, the package seems to be 1 GB
-## seems like it. Let's see if thats really the case.
 
 
 def custom_entity_detect_func(sent_ent_list, sentence_list, content,

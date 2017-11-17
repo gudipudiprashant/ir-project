@@ -1,0 +1,4 @@
+Including the title as a part of content increases the precision of the system compared to when it is not, but the recall remains almost the same.
+
+But comparing first two sentences from title+content and first 1 sentence from content-only, the precision drops but the recall stays close to before.
+

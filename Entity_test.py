@@ -169,6 +169,12 @@ class Tester:
           json_dict = json.load(open(os.path.join(self.baseDir, jsonDir, file)))
           # get the content
           content = json_dict["content"]
+
+          # Inserting title to the content as well if available.
+          if self.custom_param.get("include_title", False):
+            if json_dict.get("title") is not None:
+              content  = json_dict["title"] + ".\n" + content
+
           json_dict_list.append(json_dict)
           # get individual sentences
           sentence_list = get_clean_sentences(content)

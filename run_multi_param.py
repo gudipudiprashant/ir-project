@@ -18,8 +18,6 @@ results_list = []
 
 t_1 = time.time()
 nlp = spacy.load("en_core_web_lg")
-import sys
-print(sys.getsizeof(nlp))
 print("TO LOAD SPACY:")
 print(time.time() - t_1)
 
@@ -30,8 +28,8 @@ for i in param_list:
     print("Parameter value - "+ str(i))
     print("-------------------------------------------------")
 
-    tester = Tester(cur_method, config.base_dir, size=-1,
-             stop=False, custom_param={"threshold": i, "nlp_spacy": nlp})
+    tester = Tester(cur_method, config.base_dir, size=1,
+             stop=False, custom_param={"threshold": i, "nlp_spacy": nlp, "include_title": True})
     tester.test()
     results_list.append(tester.score(True))
     del(tester)

@@ -8,8 +8,8 @@ train_dataset_folder = "ir-project/data/train/"
 custom_func_name = "custom_entity_detect_func"
 
 run_multi_param_dict = {
-                         "module": "title_sim_ranker",
-                         "param_list": [0.6, 0.7, 0.8]
+                         "module": "title_sim_rel_ranker",
+                         "param_list": [1, 2, 3]
                         }
 
 run_one_module_dict = {
