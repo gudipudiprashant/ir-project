@@ -17,11 +17,9 @@ def gen_word2vec():
   "(", ")", ".", ",", "=", "-", "'", "`", "and"])
   
   baseDir = config.base_dir
-  jsonDir = config.test_dataset_folder
-  print(jsonDir)
+  jsonDir = config.train_dataset_folder
   # changing jsondir
   jsonDir = os.path.join(baseDir, jsonDir)
-  print(jsonDir)
   jsonFiles = os.listdir(os.path.join(jsonDir))
 
   json_dict_list = run_ner_coref(jsonDir, jsonFiles)
@@ -53,7 +51,8 @@ def gen_word2vec():
   # print("ALL ENT LIST: " ,all_sent_list)
   print("Time taken to pre-process: ", time.time() - t1)
   print ("STARTING WORD2VEC")
-  model = Word2Vec(all_sent_list, size=40, min_count=5, workers=7)
+  model = Word2Vec(all_sent_list, size=config.word2vec_dim, min_count=5,
+   workers=7)
   model.save("word2vec")
 
 

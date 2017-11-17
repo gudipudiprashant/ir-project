@@ -131,7 +131,9 @@ def run_ner_coref(jsonDir, jsonFiles):
     os.makedirs("out/")
   already_present = os.listdir("out/")
 
+  ctr = 0
   for file in jsonFiles:
+    ctr += 1
     json_dict = json.load(open(os.path.join(jsonDir, file)))
     # Don't append it if it is already present in folder - out
     if file+".json" in already_present:
@@ -166,16 +168,20 @@ class Tester:
     self.custom_param = custom_param
 
   def test(self):
-    jsonDir = config.train_dataset_folder
-    jsonFiles = os.listdir(os.path.join(self.baseDir, jsonDir))   
-    jsonFiles = jsonFiles[:self.test_sz]
+    jsonDir = config.test_dataset_folder
+    jsonFiles = os.listdir(os.path.join(self.baseDir, jsonDir))[:self.test_sz]
+    # jsonFiles = jsonFiles[0:self.test_sz]
+    # jsonFiles = jsonFiles[600:]
 
     if self.tagger == "Stanford":
       jsonDir = os.path.join(self.baseDir, jsonDir)
       json_dict_list = run_ner_coref(jsonDir, jsonFiles)
 
       t1 = time.time()
+      ctr = 0
       for file, json_dict in json_dict_list:
+        ctr += 1
+        print(ctr)
         sentence_list_old, sent_ent_list, coref_chain_list = \
           java_handler.get_sent_token_coref(os.path.join("out/", file+".json"))
 

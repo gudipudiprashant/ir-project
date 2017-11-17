@@ -19,3 +19,5 @@ run_one_module_dict = {
 run_multi_module_dict = {
                             "module_list": ["freq_ranker", "position_ranker"]
                         }
+
+word2vec_dim = 40

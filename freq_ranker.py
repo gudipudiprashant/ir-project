@@ -45,7 +45,7 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
 
 
 def main():
-  tester = Tester(custom_entity_detect_func, size=100, stop=False,)
+  tester = Tester(custom_entity_detect_func, size=-1, stop=False,)
   tester.test()
   tester.score(True)
 
