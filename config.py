@@ -21,3 +21,4 @@ run_multi_module_dict = {
                         }
 
 word2vec_dim = 40
+vec_pickle_file = "ent_vectors.p"

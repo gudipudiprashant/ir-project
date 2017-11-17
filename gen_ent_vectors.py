@@ -12,11 +12,9 @@ import java_handler
 
 
 from gensim.models import Word2Vec
-from nltk.stem import WordNetLemmatizer
 
-from Entity_test import run_ner_coref, get_relev_entities, get_clean_sentences
-
-lemmatizer = WordNetLemmatizer()
+from Entity_test import run_ner_coref, get_relev_entities, \
+get_clean_sentences, join_entities
 
 model = Word2Vec.load("word2vec")
 
@@ -24,36 +22,11 @@ radius = 5
 
 vec_dim = config.word2vec_dim
 
-pickle_file = "ent_vectors.p"
+pickle_file = config.vec_pickle_file
 # use as model.wv[word]
 
 relev_category_map = {"ORGANIZATION":"ORG", "LOCATION":"LOC", "PERSON":"PER"}
 
-def join_entities(sent_ent_list):
-  
-  for i, sent in enumerate(sent_ent_list):
-    temp_list = []
-    j = 0
-    while (j < len(sent)):
-      joined_ent = sent[j][0]
-      ent_typ = sent[j][1]
-      # join parts of the same entity
-      while (j+1 < len(sent) and sent[j+1][1] != "O"
-        and sent[j+1][1] == ent_typ):
-        joined_ent += " " + sent[j+1][0]
-        j += 1
-      joined_ent = joined_ent.lower()
-      j += 1
-      # add entity and it's type
-      if ent_typ == "O":
-        joined_ent = lemmatizer.lemmatize(joined_ent)
-        joined_ent = lemmatizer.lemmatize(joined_ent, pos="v")
-      if ent_typ in relev_category_map:
-        ent_typ = relev_category_map[ent_typ]
-      temp_list.append((joined_ent, ent_typ))
-
-    sent_ent_list[i] = temp_list
-  # print(sent_ent_list)
 
 def get_entity_vector(sent, ent_pos):
   back_vec = np.zeros((vec_dim,))

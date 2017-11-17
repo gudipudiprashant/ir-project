@@ -7,10 +7,12 @@ import numpy as np
 
 import config
 
-from Entity_test import Tester
-from gen_ent_vectors import join_entities, pickle_file, get_entity_vector
+from Entity_test import Tester, join_entities
+from gen_ent_vectors import get_entity_vector
 
-ent_vectors = pickle.load(open(pickle_file, "rb"))  
+# contains two dictionaries - one for relevant vector and
+# other for non-relevant
+ent_vectors = pickle.load(open(config.vec_pickle_file, "rb"))  
 
 
 def custom_score(v1_b, v1_f, v2_b, v2_f):
@@ -40,19 +42,40 @@ def kNN(ent_vec_back, ent_vec_forw, k, ent_typ):
 centroid_vec = [{"PER": None, "ORG" : None, "LOC": None},
                 {"PER": None, "ORG" : None, "LOC": None}]
 
+def centroid_similarity(ent_vec_back, ent_vec_forw, ent_typ):
+  if centroid_vec[0]["PER"] is None:
+    print("Only once")
+    calc_centroid()
+
+  scores = []
+  for i in range(2):
+    scores.append( custom_score(ent_vec_back, ent_vec_forw, 
+      centroid_vec[i][ent_typ][0], centroid_vec[i][ent_typ][1]) )
+
+  return scores.index(max(scores))
+
 def calc_centroid():
   # put check on whether centroid has to be calculated at func call
   for i in range(2):
-    for ent_typ in centroid_relev.keys():
+    for ent_typ in centroid_vec[0].keys():
       if len(ent_vectors[i][ent_typ]) == 0:
         print("Err.. problem!", ent_typ, "centroid calculation")
         input()
-      vec = sum(ent_vectors[i][ent_typ])
-      temp_ = np.dot(vec, vec)
-      if temp_ != 0:
-        centroid_vec[i][ent_typ] = vec/math.sqrt(temp_)
-      else:
-        centroid_vec[i][ent_typ] = vec
+      # both forward and backward centroid
+      vecs = []
+      for j in range(2):
+        vec = np.zeros((config.word2vec_dim,))
+        for elem in ent_vectors[i][ent_typ]:
+          vec += elem[j]
+        temp_ = np.dot(vec, vec)
+        if temp_ != 0:
+          centroid_vec[i][ent_typ] = vec/math.sqrt(temp_)
+        else:
+          centroid_vec[i][ent_typ] = vec
+    
+        vecs.append(vec)
+
+      centroid_vec[i][ent_typ] = vecs 
 
 def custom_entity_detect_func(sent_ent_list, sentence_list, content,
   custom_param):
@@ -65,8 +88,8 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
                   "PER": [],
                   }
 
-  k_ = custom_param.get("kNN", 3)
-  # print(sent_ent_list)
+  # k_ = custom_param.get("kNN", 3)
+
   # get the vector for each entity
   for sent in sent_ent_list:
     # print(sent)
@@ -75,7 +98,8 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
         # print(sent[i])
         ent_vec_back, ent_vec_forw = get_entity_vector(sent, i)
         # various methods - possible - kNN or centroid or ...
-        if kNN(ent_vec_back, ent_vec_forw, k_, sent[i][1]) == 0:
+        # if kNN(ent_vec_back, ent_vec_forw, k_, sent[i][1]) == 0:
+        if centroid_similarity(ent_vec_back, ent_vec_forw, sent[i][1]) == 0:  
           # print("Relevant\n")
           relev_entities[sent[i][1]].append(sent[i][0])
 

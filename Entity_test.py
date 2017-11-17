@@ -12,6 +12,7 @@ import json_parse
 
 
 from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
 # from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize, sent_tokenize
 
@@ -19,12 +20,41 @@ def_baseDir = "E:\College\IR\Entity"
 if hasattr(config,"base_dir"):
   def_baseDir = config.base_dir
 
+lemmatizer = WordNetLemmatizer()
 
 eval_dict = {
       "LOC" : [],
       "ORG" : [],
       "PER" : []
       }
+relev_category_map = {"ORGANIZATION":"ORG", "LOCATION":"LOC", "PERSON":"PER"}
+
+# joins parts of the same entity
+def join_entities(sent_ent_list):
+  
+  for i, sent in enumerate(sent_ent_list):
+    temp_list = []
+    j = 0
+    while (j < len(sent)):
+      joined_ent = sent[j][0]
+      ent_typ = sent[j][1]
+      # join parts of the same entity
+      while (j+1 < len(sent) and sent[j+1][1] != "O"
+        and sent[j+1][1] == ent_typ):
+        joined_ent += " " + sent[j+1][0]
+        j += 1
+      joined_ent = joined_ent.lower()
+      j += 1
+      # add entity and it's type
+      if ent_typ == "O":
+        joined_ent = lemmatizer.lemmatize(joined_ent)
+        joined_ent = lemmatizer.lemmatize(joined_ent, pos="v")
+      if ent_typ in relev_category_map:
+        ent_typ = relev_category_map[ent_typ]
+      temp_list.append((joined_ent, ent_typ))
+
+    sent_ent_list[i] = temp_list
+  # print(sent_ent_list)
 
 
 # returns all the entities in the given list in lower-case.
