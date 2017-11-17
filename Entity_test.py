@@ -117,6 +117,7 @@ class Tester:
                     "precision" : copy.deepcopy(eval_dict),
                     "recall"    : copy.deepcopy(eval_dict),
                     "f_measure" : copy.deepcopy(eval_dict),
+                    "accuracy"  : copy.deepcopy(eval_dict)
                   }
     self.custom_entity_detect_func = custom_entity_detect_func
     # Evaluates only the Entities returned by NER as ground truth
@@ -254,52 +255,65 @@ class Tester:
   # Measure the precision, recall and f1 for the given file
   def evaluate(self, custom_relev_entities, json_dict, sent_ent_list):
     # Format of relevant entities as marked in the tagged json files
+      # if self.eval_NER:
+    ner_entities = get_all_entities(sent_ent_list)
+    
+    relev_ent_dict = get_relev_entities(json_dict)
+    # print(relev_ent_dict)
+    for ent_type in relev_ent_dict.keys():
+      relev_ent = relev_ent_dict[ent_type]
+      # Evaluates the custom function on the restricted set
+      # of entities - the ground truth/tagged relevant entities
+      # intersection with the NER entities to better understand
+      # the shortcomings of the custom function
+      ner_entities[ent_type] = set(ner_entities[ent_type])
       if self.eval_NER:
-        ner_entities = get_all_entities(sent_ent_list)
-      
-      relev_ent_dict = get_relev_entities(json_dict)
-      # print(relev_ent_dict)
-      for ent_type in relev_ent_dict.keys():
-        relev_ent = relev_ent_dict[ent_type]
-        # Evaluates the custom function on the restricted set
-        # of entities - the ground truth/tagged relevant entities
-        # intersection with the NER entities to better understand
-        # the shortcomings of the custom function
-        if self.eval_NER:
-          # print("yeahs")
-          # input()
-          relev_ent = relev_ent.intersection(ner_entities[ent_type])
+        # print("yeahs")
+        # input()
+        relev_ent = relev_ent.intersection(ner_entities[ent_type])
 
-        temp_set = set([ent.lower() for ent in custom_relev_entities[ent_type]])
-        common = len(relev_ent.intersection(temp_set))
-        # print (ent_type, relev_ent, temp_set)
-        # CHECK IF PRECISION hsould be 1 or 0 in the edge case
-        if len(temp_set) > 0:
-          precision = common/len(temp_set)
-        else:
-          precision = 1
+      non_relev_ent = ner_entities[ent_type] - relev_ent
 
-        # if precision <= 0.5:
-        #   # print(json_dict["content"])
-        #   print("Entity Type: ", ent_type)
-        #   print("-----------------------")
-        #   print("System returned:", temp_set)
-        #   print("---------------------------------------------")
-        #   print("Ground Truth:", relev_ent)
-        #   # input()
+      custom_rel = set([ent.lower() for ent in custom_relev_entities[ent_type]])
+      tp = len(relev_ent.intersection(custom_rel))
+      custom_non_relev = ner_entities[ent_type] - custom_rel
+      tn = len(non_relev_ent.intersection(custom_non_relev))
 
-        if len(relev_ent) > 0:
-          recall = common/len(relev_ent)
-        else:
-          recall = 1
+      # Accuracy = (tp+tn)/(tp+tn+fp+fn)
+      accuracy = 1
+      if len(ner_entities[ent_type]) != 0:
+        accuracy = (tp+tn)/len(ner_entities[ent_type])
+      # print (ent_type, relev_ent, custom_rel)
+      # CHECK IF PRECISION hsould be 1 or 0 in the edge case
+      if len(custom_rel) > 0:
+        precision = tp/len(custom_rel)
+      else:
+        precision = 1
 
-        self.eval_["precision"][ent_type].append(precision)
-        self.eval_["recall"][ent_type].append(recall)
-        divisor = precision + recall
-        if divisor == 0:
-          divisor = 1
-        self.eval_["f_measure"][ent_type].append(
-          2*precision*recall/divisor)
+      #### DEBUGGER ####
+      # if precision <= 0.5:
+      #   # print(json_dict["content"])
+      #   print("Entity Type: ", ent_type)
+      #   print("-----------------------")
+      #   print("System returned:", custom_rel)
+      #   print("---------------------------------------------")
+      #   print("Ground Truth:", relev_ent)
+      #   # input()
+
+      if len(relev_ent) > 0:
+        recall = tp/len(relev_ent)
+      else:
+        recall = 1
+
+      self.eval_["accuracy"][ent_type].append(accuracy)
+      self.eval_["precision"][ent_type].append(precision)
+      self.eval_["recall"][ent_type].append(recall)
+      divisor = precision + recall
+      if divisor == 0:
+        divisor = 1
+      self.eval_["f_measure"][ent_type].append(
+        2*precision*recall/divisor)
+
 
   # Measures the average precision, recall and f1 measure of the custom entity
   # detect function for the given data set
