@@ -28,7 +28,7 @@ for i in param_list:
     print("Parameter value - "+ str(i))
     print("-------------------------------------------------")
 
-    tester = Tester(cur_method, config.base_dir, size=1,
+    tester = Tester(cur_method, config.base_dir, size=-1,
              stop=False, custom_param={"threshold": i, "nlp_spacy": nlp, "include_title": True})
     tester.test()
     results_list.append(tester.score(True))

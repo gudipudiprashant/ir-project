@@ -2,3 +2,30 @@ Including the title as a part of content increases the precision of the system c
 
 But comparing first two sentences from title+content and first 1 sentence from content-only, the precision drops but the recall stays close to before.
 
+------------------
+Comparison of title_sim_rel for params 1,2,3:
+
+Threshold 1:             Threshold 2:           Threshold 3:
+LOC -
+    Acc     - 0.66          Acc     - 0.62          Acc     - 0.60
+    Recall  - 0.365         Recall  - 0.51          Recall  - 0.62
+    f-meas  - 0.30          f-meas  - 0.35          f-meas  - 0.39
+    Prec    - 0.67          Prec    - 0.52          Prec    - 0.48
+
+ORG -
+    Acc     - 0.82          Acc     - 0.74          Acc     - 0.69
+    Recall  - 0.7           Recall  - 0.75          Recall  - 0.77
+    f-meas  - 0.61          f-meas  - 0.52          f-meas  - 0.48
+    Prec    - 0.87          Prec    - 0.7           Prec    - 0.61
+
+PER - 
+    Acc     - 0.80          Acc     - 0.77          Acc     - 0.70
+    Recall  - 0.63          Recall  - 0.66          Recall  - 0.71
+    f-meas  - 0.59          f-meas  - 0.53          f-meas  - 0.44
+    Prec    - 0.90          Prec    - 0.73          Prec    - 0.57
+
+Trends ->
+    Acc decreases
+    Recall increases
+    f-measure increases
+    Precision decreases
