@@ -13,6 +13,7 @@ import java_handler
 print("Importing Word2Vec.")
 from gensim.models import Word2Vec
 
+from config import relev_category_map
 from Entity_test import run_ner_coref, get_relev_entities, \
 get_clean_sentences, join_entities
 

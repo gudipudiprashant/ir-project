@@ -29,7 +29,7 @@ eval_dict = {
       }
 relev_category_map = {"ORGANIZATION":"ORG", "LOCATION":"LOC", "PERSON":"PER"}
 
-# joins parts of the same entity
+# joins parts of the same entity and lemmmatizes the words
 def join_entities(sent_ent_list):
   
   for i, sent in enumerate(sent_ent_list):
@@ -117,7 +117,12 @@ def get_clean_sentences(sentence_list, sent_ent_list,debug=False):
   temp_list = []
   temp_ent_list = []
   for ii, sent in enumerate(sentence_list):
-    if len(sent) > 3:
+    # print("In get clean: ", sent)
+    word_ct = 0
+    for word in sent:
+      if word not in config.stop_words:
+        word_ct += 1
+    if word_ct > 3:
       trip_dot_pos = []
       for i, elem in enumerate(sent):
         if elem in [". . .", ":", ". .", ]:
@@ -130,7 +135,8 @@ def get_clean_sentences(sentence_list, sent_ent_list,debug=False):
         temp_ent_list.append(sent_ent_list[ii][start : pos] + [(".", "O", -1)])
         start = pos+1
       temp_list.append(sent[start : -1] + ["."])
-      temp_ent_list.append(sent_ent_list[ii][start : -1] + [(".", "O", -1)])    
+      temp_ent_list.append(sent_ent_list[ii][start : -1] + [(".", "O", -1)])
+      # print(temp_list)  
   return temp_list, temp_ent_list
 
 # Returns the relevant entities in json_dict in lower case

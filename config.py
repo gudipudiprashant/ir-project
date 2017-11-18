@@ -24,3 +24,11 @@ word2vec_dim = 40
 vec_pickle_file = "ent_vectors.p"
 nn_json = "neural_net.json"
 nn_weights = "neural_net.h5"
+
+ngram_pickle_file = "ngram_pickle.p"
+
+relev_category_map = {"ORGANIZATION":"ORG", "LOCATION":"LOC", "PERSON":"PER"}
+
+n_ = 3
+stop_words = set(["-lrb-", "-rrb-", ";", ":", "'s", "a", "an", "the",
+  "(", ")", ".", ",", "=", "-", "'", "`", "and", "his", "which"])
