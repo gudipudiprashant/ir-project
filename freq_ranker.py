@@ -1,4 +1,5 @@
 # Custom detect function based on frequency
+import copy
 import time
 
 from collections import Counter
@@ -33,7 +34,7 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
   coref_chain_list = custom_param.get("coref")
 
   relev_entitites = compute_freq(sent_ent_list, coref_chain_list)
-  print(relev_entitites)
+  custom_param["state"] = {"freq":copy.deepcopy(relev_entitites)}
   # threshold the relevant entities:
   # Entities occuring more than half the max is valid
   for typ in relev_entitites.keys():
@@ -52,7 +53,7 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
 
 
 def main():
-  tester = Tester(custom_entity_detect_func, size=1, stop=False,)
+  tester = Tester(custom_entity_detect_func, size=-1, stop=False,)
   tester.test()
   tester.score(True)
 

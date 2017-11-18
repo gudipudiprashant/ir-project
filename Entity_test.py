@@ -4,6 +4,7 @@
 import copy
 import json
 import os
+import re
 import time
 
 import config
@@ -42,7 +43,7 @@ def join_entities(sent_ent_list, extra = False):
         and sent[j+1][1] == ent_typ):
         joined_ent += " " + sent[j+1][0]
         j += 1
-      joined_ent = joined_ent.lower()
+      joined_ent = transform(joined_ent)
       j += 1
       # add entity and it's type
       if ent_typ == "O":
@@ -57,6 +58,10 @@ def join_entities(sent_ent_list, extra = False):
     sent_ent_list[i] = temp_list
   # print(sent_ent_list)
 
+def transform(word):
+  word = word.lower()
+  word = re.sub("[^\w_\s]+", "",word)
+  return word
 
 # returns all the entities in the given list in lower-case.
 # if extra is set - returns 3 tuple - entity, sentence_number, position
@@ -83,6 +88,7 @@ def get_all_entities(sent_ent_list, extra=False):
           joined_ent += " " + sent[i+1][0]
           i += 1
           ctr += 1
+      joined_ent = transform(joined_ent)
       if typ in mapper.keys(): 
         if extra:
           # appends(entity, sentence number, position in doc)
@@ -154,7 +160,7 @@ def get_relev_entities(json_dict):
     for ent in json_dict[ent_type]:
       if ent[2] in json_format[ent_type]:
         # convert to lower
-        relev_ent.append(ent[0].lower())
+        relev_ent.append(transform(ent[0]))
     relev_ent_dict[ent_type] = set(relev_ent)
   return relev_ent_dict  
 
@@ -218,8 +224,9 @@ class Tester:
       t1 = time.time()
       ctr = 0
       for file, json_dict in json_dict_list:
+        self.custom_param["filename"] = file
         ctr += 1
-        print(ctr)
+        # print(ctr)
         sentence_list_old, sent_ent_list, coref_chain_list = \
           java_handler.get_sent_token_coref(os.path.join("out/", file+".json"))
 
@@ -325,14 +332,14 @@ class Tester:
           precision = 1
 
         #### DEBUGGER ####
-        # if precision <= 0.5:
-        #   # print(json_dict["content"])
-        #   print("Entity Type: ", ent_type)
-        #   print("-----------------------")
-        #   print("System returned:", custom_rel)
-        #   print("---------------------------------------------")
-        #   print("Ground Truth:", relev_ent)
-        #   # input()
+        if precision <= 0.5:
+          print(self.custom_param["filename"])
+          print("Entity Type: ", ent_type)
+          print("-----------------------")
+          print("System returned:", self.custom_param["state"]["freq"])
+          print("---------------------------------------------")
+          print("Ground Truth:", relev_ent)
+          input()
 
         if len(relev_ent) > 0:
           recall = tp/len(relev_ent)

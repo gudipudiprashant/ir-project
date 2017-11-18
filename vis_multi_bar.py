@@ -1,4 +1,4 @@
-
+import config
 def plot_multi_bar(results_list, params_list):
     import numpy as np
     import matplotlib.pyplot as plt
@@ -9,9 +9,9 @@ def plot_multi_bar(results_list, params_list):
 
     plot_vals = []
     for results in results_list:
-        plot_vals.append((results["precision"]["PER"], results["recall"]["PER"], results["f_measure"]["PER"],
-                         results["precision"]["ORG"], results["recall"]["ORG"], results["f_measure"]["ORG"],
-                         results["precision"]["LOC"], results["recall"]["LOC"], results["f_measure"]["LOC"]))
+        plot_vals.append((results["precision"]["PER"], results["recall"]["PER"], results["accuracy"]["PER"],
+                         results["precision"]["ORG"], results["recall"]["ORG"], results["accuracy"]["ORG"],
+                         results["precision"]["LOC"], results["recall"]["LOC"], results["accuracy"]["LOC"]))
 
 
     ind = np.arange(N)  # the x locations for the groups
@@ -28,11 +28,11 @@ def plot_multi_bar(results_list, params_list):
 
     # add some text for labels, title and axes ticks
     ax.set_ylabel('Value')
-    ax.set_title('Score Name')
+    ax.set_title(config.run_multi_param_dict["module"])
     ax.set_xticks(ind + ctr*width / 2)
-    ax.set_xticklabels(('PER-Precision', 'PER-Recall', 'PER-f_measure',
-                        'ORG-Precision', 'ORG-Recall', 'ORG-f_measure',
-                        'LOC-Precision', 'LOC-Recall', 'LOC-f_measure'))
+    ax.set_xticklabels(('PER-Precision', 'PER-Recall', 'PER-accuracy',
+                        'ORG-Precision', 'ORG-Recall', 'ORG-accuracy',
+                        'LOC-Precision', 'LOC-Recall', 'LOC-accuracy'))
     ax.set_yticks(np.arange(0, 1.1, 0.1))
 
     ax.legend(tuple(rects[i][0] for i in range(len(rects))), tuple(params_list))
