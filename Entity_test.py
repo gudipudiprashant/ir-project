@@ -29,15 +29,14 @@ eval_dict = {
       }
 relev_category_map = {"ORGANIZATION":"ORG", "LOCATION":"LOC", "PERSON":"PER"}
 
-# joins parts of the same entity and lemmmatizes the words
-def join_entities(sent_ent_list):
-  
+
+# joins parts of the same entity
+def join_entities(sent_ent_list, extra = False):
   for i, sent in enumerate(sent_ent_list):
     temp_list = []
     j = 0
     while (j < len(sent)):
-      joined_ent = sent[j][0]
-      ent_typ = sent[j][1]
+      joined_ent , ent_typ, ent_pos = sent[j]
       # join parts of the same entity
       while (j+1 < len(sent) and sent[j+1][1] != "O"
         and sent[j+1][1] == ent_typ):
@@ -51,8 +50,10 @@ def join_entities(sent_ent_list):
         joined_ent = lemmatizer.lemmatize(joined_ent, pos="v")
       if ent_typ in relev_category_map:
         ent_typ = relev_category_map[ent_typ]
-      temp_list.append((joined_ent, ent_typ))
-
+      if not extra:
+        temp_list.append((joined_ent, ent_typ))
+      else:
+        temp_list.append((joined_ent, ent_typ, ent_pos))
     sent_ent_list[i] = temp_list
   # print(sent_ent_list)
 
