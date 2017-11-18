@@ -24,7 +24,6 @@ def compute_freq(sent_ent_list, coref_chain_list=None):
           if dup_ct != 0:
             count += len(chain) - dup_ct
         relev_entitites[typ][ent] += count
-
   return relev_entitites
 
 def custom_entity_detect_func(sent_ent_list, sentence_list, content,

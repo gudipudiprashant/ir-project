@@ -10,7 +10,7 @@ import numpy as np
 import config
 import java_handler
 
-
+print("Importing Word2Vec.")
 from gensim.models import Word2Vec
 
 from Entity_test import run_ner_coref, get_relev_entities, \
@@ -27,10 +27,9 @@ pickle_file = config.vec_pickle_file
 
 relev_category_map = {"ORGANIZATION":"ORG", "LOCATION":"LOC", "PERSON":"PER"}
 
-
-def get_entity_vector(sent, ent_pos):
-  back_vec = np.zeros((vec_dim,))
-  forw_vec = np.zeros((vec_dim,))
+def get_entity_vector(sent, ent_pos, flag = False):
+  forw_vec, back_vec = [], []
+  forw_centr, back_centr = np.zeros((vec_dim,)), np.zeros((vec_dim,))
   # backward
   seen = 0
   j = ent_pos - 1
@@ -42,7 +41,8 @@ def get_entity_vector(sent, ent_pos):
     if vec_word in model.wv:
       seen += 1
       # print(vec_word)
-      back_vec += model.wv[vec_word]
+      back_centr += model.wv[vec_word]
+      back_vec.append(model.wv[vec_word])
     j -= 1
   # forward
   # print("Forward-------------")
@@ -56,18 +56,23 @@ def get_entity_vector(sent, ent_pos):
     if vec_word in model.wv:
       seen += 1
       # print(vec_word)
-      forw_vec += model.wv[vec_word]
+      forw_centr += model.wv[vec_word]
+      forw_vec.append(model.wv[vec_word])
     j += 1
 
   # Normalize
-  temp_ = np.dot(back_vec, back_vec)
+  temp_ = np.dot(back_centr, back_centr)
   if temp_ != 0:
-    back_vec = back_vec/(math.sqrt(temp_))
+    back_centr = back_centr/(math.sqrt(temp_))
 
-  temp_ = np.dot(forw_vec, forw_vec)
+  temp_ = np.dot(forw_centr, forw_centr)
   if temp_ != 0:
-    forw_vec = forw_vec/(math.sqrt(temp_))
-  return (back_vec, forw_vec)
+    forw_centr = forw_centr/(math.sqrt(temp_))
+
+  if flag:
+    return ((back_vec, back_centr), (forw_vec, forw_centr))
+  else:
+    return (back_centr, forw_centr)
 
 def generate_entity_vectors():
   baseDir = config.base_dir

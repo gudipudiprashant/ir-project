@@ -274,6 +274,7 @@ public class PrimaryEntityTagger {
 			pet.dumpCorefInfo(out);
 			out.println("}");
 			out.flush(); out.close();
+			System.out.println("Done with: " + filename + ".ner");
 		}
     }
 }
