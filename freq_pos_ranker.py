@@ -2,10 +2,12 @@
 import math
 import time
 
-from Entity_test import Tester
+from Entity_test import Tester, transform
+from freq_ranker import compute_freq
 
 def custom_entity_detect_func(sent_ent_list, sentence_list, content,
   custom_param):
+  # print("inside")
   # t1 = time.time()
   relev_entities = {
                     "LOC": {"$N" : 0},
@@ -27,21 +29,28 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
           i += 1
       if typ in mapper.keys():
         relev_entities[mapper[typ]]["$N"] += 1
-        if joined_ent.lower() in relev_entities[mapper[typ]]:
-          relev_entities[mapper[typ]][joined_ent.lower()][0] += 1
+        if transform(joined_ent) in relev_entities[mapper[typ]]:
+          relev_entities[mapper[typ]][transform(joined_ent)][0] += 1
         else:
-          relev_entities[mapper[typ]][joined_ent.lower()] = [1, relev_entities[mapper[typ]]["$N"]]
+          relev_entities[mapper[typ]][transform(joined_ent)] = [1, 
+              relev_entities[mapper[typ]]["$N"]]
       i += 1
 
+  ent_freq_coref = compute_freq(sent_ent_list, custom_param.get("coref"))
+  # print(ent_freq_coref)
   # SCORE THE ENTITIES
   for typ in relev_entities.keys():
     N = relev_entities[typ]["$N"]
     for ent in relev_entities[typ].keys():
       if ent != "$N":
-        relev_entities[typ][ent] = ((1 + relev_entities[typ][ent][0]/N) *
+        # print(ent_freq_coref[typ][ent], sum(ent_freq_coref[typ].values()), ent)
+
+        relev_entities[typ][ent] = (
+          (1 + ent_freq_coref[typ][ent]/sum(ent_freq_coref[typ].values())) *
           (1+ N - relev_entities[typ][ent][1]) / (N*(N+1)/2))
     del(relev_entities[typ]["$N"])  
 
+  custom_param["state"]["freq_pos"] = relev_entities
   # CUT_OFF FUNCTION
   # Entities occuring more than half the max is valid
   for typ in relev_entities.keys():

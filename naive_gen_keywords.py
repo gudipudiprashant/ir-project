@@ -76,17 +76,19 @@ def valid_keyword(word, relev_entities):
 def get_close_words(tokenized_string, relev_entities, close_words,
   radius=4):
 
+  n = len(tokenized_string)
   for ent_type in close_words.keys():
     for ent, pos in relev_entities[ent_type]:
       # determine the exact position in the tokenized string
-      for start_pos_str in range(pos - mismatch, pos + mismatch):
+      for start_pos_str in range(max(pos - mismatch, 0), 
+            min(n,pos + mismatch)):
         if ent.startswith(tokenized_string[start_pos_str]):
           break
 
-      for end_pos_str in range(start_pos_str, start_pos_str+10):
+      for end_pos_str in range(max(0, start_pos_str), 
+          min(n, start_pos_str+10)):
         if ent.endswith(tokenized_string[end_pos_str]):
           break
-      
       # add the words before pos_str and after pos_sr
       seen = 0
       i = start_pos_str - 1

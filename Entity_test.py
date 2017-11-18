@@ -4,6 +4,7 @@
 import copy
 import json
 import os
+import random
 import re
 import time
 
@@ -74,12 +75,13 @@ def get_all_entities(sent_ent_list, extra=False):
   mapper = {
     "LOCATION": "LOC", "ORGANIZATION": "ORG", "PERSON": "PER",
     "NORP": "ORG", "FACILITY":  "ORG", "ORG": "ORG", "GPE": "LOC",
-    "LOC": "LOC"
+    "LOC": "LOC", "PER": "PER"
   }
   # join the entities and put them in the corresponding class
   ctr = 0
   for sent_num, sent in enumerate(sent_ent_list):
     i = 0
+    # print(sent)
     while i < len(sent):
       joined_ent = sent[i][0]
       typ = sent[i][1]
@@ -90,6 +92,7 @@ def get_all_entities(sent_ent_list, extra=False):
           ctr += 1
       joined_ent = transform(joined_ent)
       if typ in mapper.keys(): 
+        # print(joined_ent)
         if extra:
           # appends(entity, sentence number, position in doc)
           ner_entities[mapper[typ]].append((joined_ent.lower(), sent_num, ctr))
@@ -213,7 +216,16 @@ class Tester:
 
   def test(self):
     jsonDir = config.test_dataset_folder
+    # debug
+    # jsonFiles = os.listdir(os.path.join(self.baseDir, jsonDir))[17:18]
+
     jsonFiles = os.listdir(os.path.join(self.baseDir, jsonDir))[:self.test_sz]
+    shuf = False
+    if hasattr(config,"shuffle"):
+      shuf = config.shuffle
+
+    if shuf:
+      random.shuffle(jsonFiles)
     # jsonFiles = jsonFiles[0:self.test_sz]
     # jsonFiles = jsonFiles[600:]
 
@@ -225,6 +237,7 @@ class Tester:
       ctr = 0
       for file, json_dict in json_dict_list:
         self.custom_param["filename"] = file
+        self.custom_param["state"] = {}
         ctr += 1
         # print(ctr)
         sentence_list_old, sent_ent_list, coref_chain_list = \
@@ -298,8 +311,9 @@ class Tester:
     # Format of relevant entities as marked in the tagged json files
       # if self.eval_NER:
       ner_entities = get_all_entities(sent_ent_list)
-      
+      # print(ner_entities)
       relev_ent_dict = get_relev_entities(json_dict)
+      # print(relev_ent_dict)
       # print(relev_ent_dict)
       for ent_type in relev_ent_dict.keys():
         relev_ent = relev_ent_dict[ent_type]
@@ -331,15 +345,16 @@ class Tester:
         else:
           precision = 1
 
-        #### DEBUGGER ####
-        if precision <= 0.5:
-          print(self.custom_param["filename"])
-          print("Entity Type: ", ent_type)
-          print("-----------------------")
-          print("System returned:", self.custom_param["state"]["freq"])
-          print("---------------------------------------------")
-          print("Ground Truth:", relev_ent)
-          input()
+        # ### DEBUGGER ####
+        # if precision <= 0.5:
+        #   print(self.custom_param["filename"])
+        #   print("Entity Type: ", ent_type)
+        #   print("-----------------------")
+        #   print("System returned:",custom_rel ,"\n", 
+        #     self.custom_param["state"]["ngram"])
+        #   print("---------------------------------------------")
+        #   print("Ground Truth:", relev_ent)
+        #   input()
 
         if len(relev_ent) > 0:
           recall = tp/len(relev_ent)

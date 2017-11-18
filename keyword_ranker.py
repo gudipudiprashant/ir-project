@@ -49,6 +49,8 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
 
   all_ents = get_all_entities(sent_ent_list, True)
 
+  radius = custom_param.get("radius", 5)
+  print(radius)
   for ent_type in all_ents.keys():
     for ent, ln_no, pos in all_ents[ent_type]:
       relev_entity = {
@@ -59,7 +61,7 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
               ent_type   :   Counter(),
             }
       naive_gen_keywords.get_close_words(tokenized_string, 
-        relev_entity, close_, 5)
+        relev_entity, close_, radius)
       close_set = set(close_[ent_type].keys())
       if close_set.intersection(keywords[ent_type]):
         relev_ents[ent_type].append(ent)
@@ -71,7 +73,7 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
 def main():
     import time
     t1 = time.time()
-    tester = Tester(keyword_ranker, size=500, stop=False,)
+    tester = Tester(custom_entity_detect_func, size=-1 , stop=False,)
     tester.test()
     print("TIme taken: ", time.time() - t1)
     tester.score(True)

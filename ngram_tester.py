@@ -42,7 +42,9 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
   custom_param):
   # print("Inside")
   #DEBUG
-  # print(len(all_ngrams[1]), len(all_ngrams[2]))
+  # print(sorted(list(all_ngrams[1].keys())))
+  # input()
+  # print("in" in al)
   t1 = time.time()
   join_entities(sent_ent_list)
   relev_entities = {
@@ -51,18 +53,20 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
                   "PER": [],
                   }
 
-  # k_ = custom_param.get("kNN", 3)
-  # print(sent_ent_list)
+  custom_param["state"]["ngram"] = {x : [] for x in relev_entities.keys()}
   # get the vector for each entity
   for sent in sent_ent_list:
     # print(sent)
     # removing words not in vocab
     temp_list = []
     for i in range(len(sent)):
+      flag = False
       if sent[i][1] in relev_entities.keys():
+        flag = True
         temp_list.append(sent[i])
-      elif sent[i][0] in all_ngrams[1]:
+      elif (sent[i][0],) in all_ngrams[1].keys():
         temp_list.append(sent[i])
+      # print(sent[i], flag)
     sent = temp_list
     # print(sent)
     for i, _ in enumerate(sent):
@@ -71,8 +75,8 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
         # try with both relev and non-relev tag
         rel_phrase = get_ngram_phrase(sent, i, "REL")
         non_rel_phrase = get_ngram_phrase(sent, i, "NONREL")
-        # print(rel_phrase)
-        if stupid_backoff_score(rel_phrase) >= stupid_backoff_score(non_rel_phrase):
+        custom_param["state"]["ngram"][sent[i][1]].append((sent[i][0], (rel_phrase)))
+        if stupid_backoff_score(rel_phrase) > stupid_backoff_score(non_rel_phrase):
             relev_entities[sent[i][1]].append(sent[i][0])
 
   # print(relev_entities)

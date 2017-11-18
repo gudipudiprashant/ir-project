@@ -88,7 +88,7 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
                   "PER": [],
                   }
 
-  # k_ = custom_param.get("kNN", 3)
+  k_ = custom_param.get("kNN", 3)
 
   # get the vector for each entity
   for sent in sent_ent_list:
@@ -98,8 +98,8 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
         # print(sent[i])
         ent_vec_back, ent_vec_forw = get_entity_vector(sent, i)
         # various methods - possible - kNN or centroid or ...
-        # if kNN(ent_vec_back, ent_vec_forw, k_, sent[i][1]) == 0:
-        if centroid_similarity(ent_vec_back, ent_vec_forw, sent[i][1]) == 0:  
+        if kNN(ent_vec_back, ent_vec_forw, k_, sent[i][1]) == 0:
+        # if centroid_similarity(ent_vec_back, ent_vec_forw, sent[i][1]) == 0:  
           # print("Relevant\n")
           relev_entities[sent[i][1]].append(sent[i][0])
 

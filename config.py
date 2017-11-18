@@ -3,13 +3,13 @@ base_dir = "../"
 test_dataset_folder = "ir-project/data/test/"
 train_dataset_folder = "ir-project/data/train/"
 
-
+shuffle = True
 #Common custom function name for all modules
 custom_func_name = "custom_entity_detect_func"
 
 run_multi_param_dict = {
-                         "module": "freq_ranker",
-                         "param_list": [2, 3, 4]
+                         "module": "keyword_ranker",
+                         "param_list": [(10, 4), (7, 5), (4, 6)]
                         }
 
 run_one_module_dict = {
