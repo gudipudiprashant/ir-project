@@ -4,17 +4,13 @@ import time
 from collections import Counter
 from Entity_test import Tester, get_all_entities
 
-def custom_entity_detect_func(sent_ent_list, sentence_list, content,
-  custom_param):
-  # t1 = time.time()
+# computes the frequency of each entity
+def compute_freq(sent_ent_list, coref_chain_list=None):
   relev_entitites = get_all_entities(sent_ent_list)
-
-  threshold = custom_param.get("threshold", 2)
+  # count the number of times entity occurs using Counter
   for typ in relev_entitites:
     relev_entitites[typ] = Counter(relev_entitites[typ])
-
-  # add coref count:
-  coref_chain_list = custom_param.get("coref")
+  # use coref count of the words
   if coref_chain_list is not None:
     for typ in relev_entitites.keys():
       for ent in relev_entitites[typ].keys():
@@ -28,6 +24,17 @@ def custom_entity_detect_func(sent_ent_list, sentence_list, content,
           if dup_ct != 0:
             count += len(chain) - dup_ct
         relev_entitites[typ][ent] += count
+
+  return relev_entitites
+
+def custom_entity_detect_func(sent_ent_list, sentence_list, content,
+  custom_param):
+  # t1 = time.time()
+  threshold = custom_param.get("threshold", 2)
+  coref_chain_list = custom_param.get("coref")
+
+  relev_entitites = compute_freq(sent_ent_list, coref_chain_list)
+  # threshold the relevant entities:
   # Entities occuring more than half the max is valid
   for typ in relev_entitites.keys():
     relev = []
