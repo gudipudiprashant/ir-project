@@ -2,10 +2,10 @@
 CS-570 Information Retrieval Project  
 
 Team Members:  
-Pranjal Agrawal - 140101050  
-Prashant Gudipudi - 140101051  
-Sangana Abhiram - 140101065  
-Sambhav Kumar Dash - 140101088
+Pranjal Agrawal - 140101050 (https://github.com/forumulator)  
+Prashant Gudipudi - 140101051 (that's me!)  
+Sangana Abhiram - 140101065  (https://github.com/Abh1ram)  
+Sambhav Kumar Dash - 140101088 (https://github.com/sambhavcha)  
 
 ## To Run the Project
 Have unzipped stanford-ner folder in the same directory as the cloned repo.
